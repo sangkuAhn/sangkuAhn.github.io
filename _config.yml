@@ -1,12 +1,12 @@
 
 title: ASK VIEW
 desctiption: FREE ASK
-url: https://sangkuahn.github.io/
+url: https://sangkuahn.github.io
 permalink: ':title/'
 
 markdown: kramdown
 baseurl: "/"
-full-version: "https://sangkuahn.github.io/"
+full-version: "https://sangkuahn.github.io"
 
 sass:
     style: compressed
