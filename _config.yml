@@ -1,12 +1,12 @@
 
-title: ASK
+title: ASK VIEW
 desctiption: FREE ASK
 url: https://sangkuahn.github.io/
 permalink: ':title/'
 
 markdown: kramdown
 baseurl: "/"
-full-version: "https://sangkuahn.github.io/karna-full/"
+full-version: "https://sangkuahn.github.io/"
 
 sass:
     style: compressed
@@ -28,7 +28,7 @@ highlight: rouge
 
 
 # Tracker
-analytics: 1
+analytics: UA-69920584-4
 
 # Comments
 disqus-shortname: webjeda-demo
