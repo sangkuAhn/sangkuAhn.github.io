@@ -51,7 +51,7 @@ ul.contact-ul {
 }
 
 </style>
-
+<!-- 
 You can send me your feedback or suggestion here. If there is something missing in the theme then you can ask me to add. 
 
 Also, if you are willing to add it yourself then feel free to open a pull request after making changes.
@@ -96,4 +96,8 @@ The styles for the form is included in this page. I haven't included it in the m
 }(document, 'script', 'facebook-jssdk'));</script>
 
 
-<div class="fb-page" data-href="https://www.facebook.com/webjeda/" data-small-header="true" data-adapt-container-width="false" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/webjeda/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/webjeda/">WebJeda</a></blockquote></div>
+<div class="fb-page" data-href="https://www.facebook.com/webjeda/" data-small-header="true" data-adapt-container-width="false" data-hide-cover="true" data-show-facepile="true">
+    <blockquote cite="https://www.facebook.com/webjeda/" class="fb-xfbml-parse-ignore">
+        <a href="https://www.facebook.com/webjeda/">WebJeda</a>
+</blockquote>
+</div> -->
