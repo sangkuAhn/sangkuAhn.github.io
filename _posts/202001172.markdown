@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "[생활] 후지필름특가정보 순위 ~25위"
-description: 후지필름 X-Pro2 미러리스카메라 바디 등
-date:   2020-01-17 01:16:11 
+description: 후지필름 X-Pro2 미러리스카메라 바디 등 
+date:   2020-01-17 01:11:47 +0530
 categories: jekyll update
 img: 202001171.jpg
 categories: [one, two]
