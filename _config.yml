@@ -5,7 +5,7 @@ url: https://sangkuahn.github.io/
 permalink: ':title/'
 
 markdown: kramdown
-baseurl: "/karna"
+baseurl: "/"
 full-version: "https://sangkuahn.github.io/karna-full/"
 
 sass:
