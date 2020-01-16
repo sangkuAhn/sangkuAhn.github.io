@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "[생활] 후지필름특가정보 순위 ~25위"
+description: 후지필름 X-Pro2 미러리스카메라 바디 등 
+date:   2020-01-17 01:11:47 +0530
+categories: jekyll update
+img: 202001171.jpg
+categories: [one, two]
+color: 1976D2
+author: ask
+---
+Karna is one of the central characters in the Hindu epic Mahābhārata. Karna was one of the greatest warriors, whose martial exploits are recorded in the epic, and the only warrior believed to be able to defeat Arjuna in battle.
+
+Karna was the son of Surya(Sun) and Kunti, born to Kunti before her marriage with Pandu.
+
+![Karna]({{site.baseurl}}/images/karna-2.jpg)
+
+
+Image Credits - [18days](https://www.youtube.com/watch?v=kyHFBybC3RI) and [Nisachar](http://nisachar.deviantart.com/gallery/37429163/18-Days) 
