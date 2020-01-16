@@ -37,9 +37,11 @@ body {
 a {
     color: $brand-color;
     text-decoration: none;
+    color:#000000;
     &:hover {
         color: $highlight-color;
-    }
+    }    
+
 }
 
 
