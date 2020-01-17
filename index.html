@@ -7,11 +7,9 @@ console.log("start");
 <div id="container">
 <div id="grid" data-columns class="cols">
     {% for post in site.posts %}
-   {post}
-    <input type="text" value="{{post.title}}">
-
+   
     <div class="box" style="background-color:#{{post.color}}">
-  
+     <input type="hidden" value="{{post.title}}">
        {% if post.img %}          
           <a href="{{post.url | prepend: site.baseurl}}" target="_blank">
            <img class="feat-image" src={{ "/images/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
