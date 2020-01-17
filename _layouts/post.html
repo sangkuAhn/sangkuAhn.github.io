@@ -14,8 +14,15 @@ layout: default
          <p><a href="{{page.linkUrl}}" target="_blank"><img class="feat-image" src="{{page.img}}" alt="{{page.title}}"></a></p>
         {% endif %}
         {{page.content | markdownify}}
-       <p><p/>
+       <br>
+       <br>
+       <p>
+          <a href="{{page.linkUrl}}" target="_blank">
+             [보고 계시는 상품후기 보러가기]
+          </a>
+       </p>
        <hr>
+       <br>
        {{site.baseWord}}
     </article>
             {% if page.categories %}
