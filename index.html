@@ -4,9 +4,11 @@ layout: default
 <div id="container">
 <div id="grid" data-columns class="cols">
     {% for post in site.posts %}
-    {post.img}
+   {post.title}
     <script>
-        alert("hi");
+        console.log("start")
+        console.log('{post}')
+        console.log('{post.title}')
     </script>
     <div class="box" style="background-color:#{{post.color}}">
   
