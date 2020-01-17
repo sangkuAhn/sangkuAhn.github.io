@@ -14,6 +14,8 @@ layout: default
          <p><a href="{{page.linkUrl}}" target="_blank"><img class="feat-image" src="{{page.img}}" alt="{{page.title}}"></a></p>
         {% endif %}
         {{page.content | markdownify}}
+       <p><p>
+       {{site.baseWord}}
     </article>
             {% if page.categories %}
                 {% include disqus.html %}
