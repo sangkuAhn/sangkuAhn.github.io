@@ -3,14 +3,15 @@ layout: default
 ---
 
 <div class="page-container">
-   {% if page.img %}    
-   <a href="{{page.linkUrl}}" target="_blank"><img class="feat-image" src="{{page.img}}" alt="{{page.title}}"></a>
-    {% endif %}
+   
     <div class="content">
     <article>
         <h1 class="page-title">{{page.title}}</h1>
         {% if page.author %}
         <div class="meta"><span><i class="fa fa-calendar-o" aria-hidden="true"></i> {{page.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;&nbsp;</span><span><i class="fa fa-pencil-square-o" aria-hidden="true"></i> {{page.author}}</span></div>
+        {% endif %}
+        {% if page.img %}    
+         <a href="{{page.linkUrl}}" target="_blank"><img class="feat-image" src="{{page.img}}" alt="{{page.title}}"></a>
         {% endif %}
         {{page.content | markdownify}}
     </article>
