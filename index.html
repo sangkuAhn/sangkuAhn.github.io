@@ -7,8 +7,10 @@ layout: default
  <!--   {post.img}
 {post.title}
 -->
+    
+    {{post.url | prepend: site.baseurl}}
     <div class="box" style="background-color:#{{post.color}}">
-   
+   {{post.url | prepend: site.baseurl}}
        {% if post.img %}
           {{post.url | prepend: site.baseurl}}
           <a href="{{post.url | prepend: site.baseurl}}" target="_blank">
