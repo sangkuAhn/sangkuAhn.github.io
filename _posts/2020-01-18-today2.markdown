@@ -2,7 +2,7 @@
 layout: post
 title:  "[생활] 후지필름특가정보 순위 ~25위"
 description: 후지필름 X-Pro2 미러리스카메라 바디 등 
-date:   2020-01-18 01:11:47 +0530
+date:   2020-01-18 01:11:47
 categories: jekyll update
 img: https://thumbnail15.coupangcdn.com/thumbnails/remote/492x492ex/image/product/image/vendoritem/2019/03/27/4281088134/2b3a4c82-b69c-440e-84a8-cf46667e3963.jpg
 linkUrl: https://www.coupang.com/vp/products/18109649?vendorItemId=3118632050&trcid=&traid=home_C2&isAddedCart=
@@ -10,6 +10,12 @@ categories: [one, two]
 color: 1976D2
 author: ask
 ---
+
+![18days](https://thumbnail15.coupangcdn.com/thumbnails/remote/492x492ex/image/product/image/vendoritem/2019/03/27/4281088134/2b3a4c82-b69c-440e-84a8-cf46667e3963.jpg)
+
+{{post.title}}
+{{post.description}}
+
 Karna is one of the central characters in the Hindu epic Mahābhārata. Karna was one of the greatest warriors, whose martial exploits are recorded in the epic, and the only warrior believed to be able to defeat Arjuna in battle.
 
 Karna was the son of Surya(Sun) and Kunti, born to Kunti before her marriage with Pandu.
