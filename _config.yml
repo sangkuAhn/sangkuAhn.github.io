@@ -6,6 +6,7 @@ permalink: ':title/'
 
 markdown: kramdown
 baseurl: "/"
+baseWord: "이 포스팅은 제휴마켓팅이 적용되어 커미션이 발생할 수 있습니다."
 full-version: "https://sangkuahn.github.io"
 
 sass:
