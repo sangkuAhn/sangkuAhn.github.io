@@ -5,6 +5,9 @@ layout: default
 <div id="grid" data-columns class="cols">
     {% for post in site.posts %}
     {post.img}
+    <script>
+        alert("hi");
+    </script>
     <div class="box" style="background-color:#{{post.color}}">
   
        {% if post.img %}          
