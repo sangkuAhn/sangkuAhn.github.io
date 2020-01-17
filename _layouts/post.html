@@ -4,6 +4,8 @@ layout: default
 
 <div class="page-container">
    {% if page.img %}    
+   {{ post.img }}
+      
    <a href="{{post.linkUrl}}" target="_blank"><img class="feat-image" src="{{ post.img }}" alt="{{post.title}}"></a>
     {% endif %}
     <div class="content">
