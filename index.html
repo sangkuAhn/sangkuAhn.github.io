@@ -11,13 +11,8 @@ console.log("start");
     <div class="box" style="background-color:#{{post.color}}">
      <input type="hidden" value="{{post.title}}">
         <a href="{{post.linkUrl}}" target="_blank">
-           <img class="feat-image" src={{ post.img }} alt="{{post.title}}">
+           <img class="feat-image" src={{ post.img }} alt="{{post.title}}" style="width:400px;height:400px;>
          </a>
-       <!--{% if post.img %}          
-          <a href="{{post.linkUrlurl | prepend: site.baseurl}}" target="_blank">
-           <img class="feat-image" src={{ post.img }} alt="{{post.title}}">
-         </a>
-       {% endif %} -->
           <div class="container">
             <h4>{{post.title}}</h4>
             <p>{{post.description}}</p>
