@@ -11,8 +11,7 @@ layout: default
     {post.url}
     <div class="box" style="background-color:#{{post.color}}">
   
-       {% if post.img %}
-          {{post.url | prepend: site.baseurl}}
+       {% if post.img %}          
           <a href="{{post.url | prepend: site.baseurl}}" target="_blank">
            <img class="feat-image" src={{ "/images/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
          </a>
