@@ -1,15 +1,15 @@
 ---
 layout: default
 ---
+<script>
+console.log("start");
+</script>
 <div id="container">
 <div id="grid" data-columns class="cols">
     {% for post in site.posts %}
-   {post.title}
-    <script>
-        console.log("start");
-        console.log('{post}');
-        console.log('{post.title}');
-    </script>
+   {post}
+    <input type="text" value="{{post.title}}">
+
     <div class="box" style="background-color:#{{post.color}}">
   
        {% if post.img %}          
