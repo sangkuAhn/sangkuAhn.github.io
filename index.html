@@ -12,7 +12,7 @@ console.log("start");
      <input type="hidden" value="{{post.title}}">
        {% if post.img %}          
           <a href="{{post.url | prepend: site.baseurl}}" target="_blank">
-           <img class="feat-image" src={{ "/images/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
+           <img class="feat-image" src={{ post.img }} alt="{{post.title}}">
          </a>
        {% endif %}
           <div class="container">
