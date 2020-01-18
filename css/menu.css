@@ -1,7 +1,7 @@
 <style> 
 #topMenu { /*  topMenu의 ID를 가진 태그의 스타일 지정  */
 	height: 30px; /*  topMenu의 높이를 30px로 설정(제대로 설정 안하면 아래 내용이 깨짐)  */
-	width: 850px; /*  topMenu의 넓이를 850px로 설정(제대로 설정 안하면 브라우져 넓이가 좁아지면 깨짐)  */
+	width: auto; /*  topMenu의 넓이를 850px로 설정(제대로 설정 안하면 브라우져 넓이가 좁아지면 깨짐)  */
 }
 #topMenu ul li { /*  topMenu의 ID를 가진 태그 안에 <ul> 태그 안에 <li> 태그의 스타일을 지정  */
  	list-style: none; /*  <li> 태그는 위의 이미지처럼 목록을 나타내는 점을 없앤다  */
