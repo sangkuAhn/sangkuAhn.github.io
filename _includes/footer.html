@@ -1,6 +1,6 @@
 <footer>
 <ul>
-{% paginate collection.products by 5 %}
+{% paginate site.posts by 5 %}
   {% for post in site.posts %}  
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
