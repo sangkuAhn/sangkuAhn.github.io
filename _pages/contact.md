@@ -1,6 +1,7 @@
 ---
 title: "여성패션"
 layout: category
+permalink: /contact/
 category: blog
 ---
 
