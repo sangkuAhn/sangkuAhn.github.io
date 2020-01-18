@@ -1,7 +1,7 @@
 ---
-title: Contact
-layout: post
-permalink: /contact/
+title: "여성패션"
+layout: category
+category: blog
 ---
 
 
