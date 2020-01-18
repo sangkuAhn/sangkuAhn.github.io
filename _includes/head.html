@@ -13,27 +13,6 @@
 		<span><a href="{{site.baseurl}}/category/1005/">남아패션 (3세 이상)</a></span>
 		<span><a href="{{site.baseurl}}/category/1006/">스포츠패션</a></span>
 		<span><a href="{{site.baseurl}}/category/1007/">신발</a></span>
-  </nav>
-    
+  	</nav>
 
-
-
-
-
-
-
-    
-<div>
-    <ul style="text-align: left;">
-	 {% for post in site.posts %}  
-		  {% if forloop.index < 5 %}
-		    <li>
-		      <a href="{{ post.url }}">{{ post.title }}</a>     
-		    </li>       
-		  {% else %}
-		  	{% break %}
-		  {% endif %}
-	  {% endfor %}
-	</ul>
-</div>
 </head>
