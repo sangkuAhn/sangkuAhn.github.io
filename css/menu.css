@@ -23,7 +23,7 @@
  }
 #topMenu .menuLink:hover { /* topMenu 아이디를 가진 태그 안에 menuLink클래스를 가진 태그에 마우스가 over되면 스타일 설정  */
  	color: #FFFFFF; /*  글씨 색을 붉은색으로 설정  */
- 	background-color: #FF007F; /*  배경색을 조금 더 밝은 회색으로 설정  */
+ 	background-color: #FFE8FF; /*  배경색을 조금 더 밝은 회색으로 설정  */
  }
 </style>
 
