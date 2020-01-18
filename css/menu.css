@@ -10,7 +10,7 @@
  		line-height: 30px; /*  글씨가 가운데로 오도록 설정하기 위해 한줄의 높이를 30px로 설정  */
  		vertical-align: middle; /*  세로 정렬을 가운데로 설정(위의 line-height와 같이 설정 필요함)  */
  		text-align: center; /*  글씨 정렬을 가운데로 설정  */
- 		background-color: #000000;
+ 		background-color: #212121;
  	}
 #topMenu .menuLink { /*  topMenu 아이디를 가진 태그 안에 있는 menuLink 클래스 태그들의 스타일 설정  */
  	text-decoration:none; /*  링크(<a> 태그)가 가지는 기본 꾸밈 효과(밑줄 등)을 없앰  */
