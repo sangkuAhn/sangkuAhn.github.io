@@ -5,7 +5,7 @@
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
     {% if forloop.index == 10 %}  
-    	{% break %}
+    	{% endfor %}
     {% end if %}
   {% endfor %}
 </ul>
