@@ -1,15 +1,14 @@
 <footer>
-<ul>
+<ul  style="text-align: left;>
 
  {% for post in site.posts %}  
-   {% if forloop.index == 4 %}
-    {% break %}
-  {% else %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>     
-    </li>   
-  {% endif %}
-    
+	  {% if forloop.index < 10 %}
+	    <li>
+	      <a href="{{ post.url }}">{{ post.title }}</a>     
+	    </li>       
+	  {% else %}
+	  	{% break %}
+	  {% endif %}
   {% endfor %}
 </ul>
     <p style="margin: 0">Copyrights {{site.time | date: '%Y'}}. All Rights Reserved by {{site.title}}</p>
