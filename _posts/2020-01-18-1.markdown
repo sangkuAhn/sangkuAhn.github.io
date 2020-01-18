@@ -5,7 +5,7 @@ date: 2020-01-18 08:55:35
 categories:  
 img: https://static.coupangcdn.com/image/retail-product-api/A00077021/5422947/6948338/main/9788982641404_L.jpg 
 linkUrl: https://coupa.ng/bmilAS 
-categories: [one, two] 
+categories: [blog, travel]
 color: 43A047 
 author: ask 
 ---
