@@ -6,8 +6,7 @@
 <script>
 $(document).ready(function() {
     $('.show-comments').on('click', function(){
-          var disqus_shortname = '{{site.disqus-shortname}}'; 
-          alert(disqus_shortname)
+          var disqus_shortname = '{{site.disqus-shortname}}';          
           $.ajax({
                   type: "GET",
                   url: "http://" + disqus_shortname + ".disqus.com/embed.js",
