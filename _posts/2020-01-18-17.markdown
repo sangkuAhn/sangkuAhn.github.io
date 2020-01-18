@@ -1,12 +1,11 @@
 ---
 layout: post
 title:  "비밀의 정원 - 출간 5주년 기념 특별 리커버 에디션, (주)출판사 클"
-description: 비밀의 정원 - 출간 5주년 기념 특별 리커버 에디션, (주)출판사 클
-date: 2020-01-18 08:43:53 
-categories: 비밀의 정원 - 출간 5주년 기념 특별 리커버 에디션, (주)출판사 클 
+date: 2020-01-18 08:55:51 
+categories:  
 img: https://static.coupangcdn.com/image/vendor_inventory/bfa8/bf3f47218b08ee87cb2de1d76956cd5391c18d4977e6df3094f9ea913a8c.jpg 
 linkUrl: https://coupa.ng/bmilx1 
 categories: [one, two] 
-color: 212121 
+color: 03A9F4 
 author: ask 
 ---

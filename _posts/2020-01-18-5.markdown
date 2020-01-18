@@ -1,12 +1,11 @@
 ---
 layout: post
 title:  "[해피북스투유]재혼 황후 1, 해피북스투유"
-description: [해피북스투유]재혼 황후 1, 해피북스투유
-date: 2020-01-18 08:43:41 
-categories: [해피북스투유]재혼 황후 1, 해피북스투유 
+date: 2020-01-18 08:55:39 
+categories:  
 img: https://static.coupangcdn.com/image/retail-product-api/A00077021/9031163/10604810/main/9791164790289_L.jpg 
 linkUrl: https://coupa.ng/bmilz9 
 categories: [one, two] 
-color: 7E57C2 
+color: f44336 
 author: ask 
 ---

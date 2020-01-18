@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "20 VS 80의 사회:상위 20퍼센트는 어떻게 불평등을 유지하는가, 민음사"
+date: 2020-01-18 08:56:00 
+categories:  
+img: https://static.coupangcdn.com/image/vendor_inventory/7ab3/03c3334b603e5c8e228720258961480b14763e906658e9f5aec868eed381.jpg 
+linkUrl: https://coupa.ng/bmilwz 
+categories: [one, two] 
+color: 43A047 
+author: ask 
+---

@@ -1,12 +1,11 @@
 ---
 layout: post
 title:  "건축 권력과 욕망을 말하다:역사를 담은 건축 인간을 품은 공간, 궁리"
-description: 건축 권력과 욕망을 말하다:역사를 담은 건축 인간을 품은 공간, 궁리
-date: 2020-01-18 08:43:49 
-categories: 건축 권력과 욕망을 말하다:역사를 담은 건축 인간을 품은 공간, 궁리 
+date: 2020-01-18 08:55:47 
+categories:  
 img: https://static.coupangcdn.com/image/vendor_inventory/3fdb/ea35ecc0af6fdaa0cf3ca0bf5271ffb384d265f88193693717b65d2ac510.jpg 
 linkUrl: https://coupa.ng/bmilyI 
 categories: [one, two] 
-color: f44336 
+color: 4A148C 
 author: ask 
 ---
