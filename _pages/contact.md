@@ -5,7 +5,7 @@ permalink: /contact/
 category: blog
 ---
 
-
+<!-- 
 <style>
 .contact-li {
     list-style: none;
@@ -51,7 +51,7 @@ ul.contact-ul {
     margin-bottom: 1em;
 }
 
-</style>
+</style> -->
 <!-- 
 You can send me your feedback or suggestion here. If there is something missing in the theme then you can ask me to add. 
 
