@@ -2,11 +2,11 @@
 layout: post
 title:  "신영철 박사의 그냥 살자:지친 현대인을 위한 정신과의사의 조언, 김영사"
 description: 신영철 박사의 그냥 살자:지친 현대인을 위한 정신과의사의 조언, 김영사
-date: 2020-01-18 08:37:34 
+date: 2020-01-18 08:43:44 
 categories: 신영철 박사의 그냥 살자:지친 현대인을 위한 정신과의사의 조언, 김영사 
 img: https://static.coupangcdn.com/image/vendor_inventory/9a9f/d0f7ca242d78d466feb6eab1baf8bccb0059bd25412ebffa9733b40ad2b9.jpg 
 linkUrl: https://coupa.ng/bmilzA 
 categories: [one, two] 
-color: 006064 
+color: BF360C 
 author: ask 
 ---

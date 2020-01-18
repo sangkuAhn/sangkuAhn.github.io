@@ -2,11 +2,11 @@
 layout: post
 title:  "[통나무]슬픈 쥐의 윤회, 통나무"
 description: [통나무]슬픈 쥐의 윤회, 통나무
-date: 2020-01-18 08:37:34 
+date: 2020-01-18 08:43:37 
 categories: [통나무]슬픈 쥐의 윤회, 통나무 
 img: https://static.coupangcdn.com/image/retail-product-api/A00077021/5422947/6948338/main/9788982641404_L.jpg 
 linkUrl: https://coupa.ng/bmilAS 
 categories: [one, two] 
-color: ff1744 
+color: 7E57C2 
 author: ask 
 ---

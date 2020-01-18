@@ -2,11 +2,11 @@
 layout: post
 title:  "기생충 각본집 & 스토리보드북 세트, 플레인"
 description: 기생충 각본집 & 스토리보드북 세트, 플레인
-date: 2020-01-18 08:37:34 
+date: 2020-01-18 08:43:48 
 categories: 기생충 각본집 & 스토리보드북 세트, 플레인 
 img: https://static.coupangcdn.com/image/vendor_inventory/e666/36c0a5eb452cb89947e414e070e11897cbd8ece7236a9cfec6667dc221eb.jpg 
 linkUrl: https://coupa.ng/bmilyV 
 categories: [one, two] 
-color: 4CAF50 
+color: 03A9F4 
 author: ask 
 ---

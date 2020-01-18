@@ -2,11 +2,11 @@
 layout: post
 title:  "시크릿 캐릭터 드로잉, 레진엔터테인먼트"
 description: 시크릿 캐릭터 드로잉, 레진엔터테인먼트
-date: 2020-01-18 08:37:34 
+date: 2020-01-18 08:43:47 
 categories: 시크릿 캐릭터 드로잉, 레진엔터테인먼트 
 img: https://static.coupangcdn.com/image/vendor_inventory/ff26/5012b1703f58a0763e7b8427166f318d26428d2f76fdc06bc21a5d255e9d.jpg 
 linkUrl: https://coupa.ng/bmily5 
 categories: [one, two] 
-color: ff1744 
+color: 03A9F4 
 author: ask 
 ---

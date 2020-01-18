@@ -2,11 +2,11 @@
 layout: post
 title:  "죽음2, 열린책들"
 description: 죽음2, 열린책들
-date: 2020-01-18 08:37:34 
+date: 2020-01-18 08:43:39 
 categories: 죽음2, 열린책들 
 img: https://static.coupangcdn.com/image/retail/images/2019/05/15/11/9/30bc6265-adef-4899-84ad-b10207ecb90b.jpg 
 linkUrl: https://coupa.ng/bmilAw 
 categories: [one, two] 
-color: ff1744 
+color: 212121 
 author: ask 
 ---
