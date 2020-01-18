@@ -3,7 +3,21 @@ layout: page
 ---
 
 {% for post in site.categories[page.category] %}
-    <a href="{{ post.url | absolute_url }}">
-      {{ post.title }}
-    </a>
+    <!-- <a href="{{ post.url | absolute_url }}"> {{ post.title }}</a> -->
+    <div class="box" style="background-color:#{{post.color}}">
+     <input type="hidden" value="{{post.title}}">
+        <a href="{{post.linkUrl}}" target="_blank">
+           <img class="feat-image" src={{ post.img }} alt="{{post.title}}" >
+         </a>
+          <div class="container">
+            <h4>{{post.title}}</h4>
+            <p>{{post.description}}</p>
+             <div class="action">{{ post.date | date: '%B %d, %Y' }}
+               <a href="{{post.url | prepend: site.baseurl}}" target="_blank">
+                <i class="fa fa-arrow-right" aria-hidden="true"></i>
+              </a>
+            </div> 
+        </div>   
+    
+    </div>
 {% endfor %}
