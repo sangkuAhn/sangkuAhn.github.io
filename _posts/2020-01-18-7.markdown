@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "배움의 발견:나의 특별한 가족 교육 그리고 자유의 이야기, 열린책들"
+description: 배움의 발견:나의 특별한 가족 교육 그리고 자유의 이야기, 열린책들
+date: 2020-01-18 08:37:34 
+categories: 배움의 발견:나의 특별한 가족 교육 그리고 자유의 이야기, 열린책들 
+img: https://static.coupangcdn.com/image/vendor_inventory/89c1/f7d8498a876506b2a0b4ac1f6b475117e257d951a6ada40fd86468d2d16b.jpg 
+linkUrl: https://coupa.ng/bmilzL 
+categories: [one, two] 
+color: 7E57C2 
+author: ask 
+---
