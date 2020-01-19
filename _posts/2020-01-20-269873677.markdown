@@ -2,11 +2,11 @@
  layout: postText 
  title:  "애드에딧 메이비스 반지갑" 
  description: ■ TOP.14 
- date: 2020-01-20 02:19:03 
+ date: 2020-01-20 02:20:35 
  img: https://static.coupangcdn.com/image/retail/images/2019/09/27/19/4/7e29115d-0296-4391-ace2-7f57c9756946.jpg 
  linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=269873677&itemId=847444399&vendorItemId=5390041034&traceid=V0-113-4024164dc47c7917 
  categories: [1001] 
- color: ff1744 
+ color: f44336 
  author: Ask View Shop 
  ---
  
