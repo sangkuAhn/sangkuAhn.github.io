@@ -2,11 +2,11 @@
 layout: post 
 title:  "제이민 스트라이프 셔츠 롱 원피스" 
 description: ■ TOP.100 
-date: 2020-01-20 02:28:58 
+date: 2020-01-20 02:43:00 
 img: https://static.coupangcdn.com/image/vendor_inventory/images/2018/10/19/12/9/7aecb654-6856-4163-b8cc-a404bd3857d4.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=129127940&itemId=380391195&vendorItemId=4407036211&traceid=V0-113-f0baa4ab865af0e1 
 categories: [1001] 
-color: 006064 
+color: BF360C 
 author: Ask View Shop 
 ---
  
