@@ -2,10 +2,10 @@
 ' layout: postText 
  title:  "쿠팡 브랜드 - 베이스알파 에센셜 임산부용 면 레깅스, 블랙" 
  description: None 
- date: 2020-01-20 02:09:34 
+ date: 2020-01-20 02:10:39 
  img: https://static.coupangcdn.com/image/retail/images/284621241183263-95b50937-6f41-4e92-82c6-2eebb03dc21c.jpg 
  linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=330634266&itemId=1056710801&vendorItemId=5529952044&traceid=V0-113-af6d6656afaad517 
  categories: [1001] 
- color: ff1744 
+ color: 4A148C 
  author: Ask View Shop 
  
