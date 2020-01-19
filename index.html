@@ -7,7 +7,7 @@ console.log("start");
 <div id="container">
 <div id="grid" data-columns class="cols">
     {% for post in site.posts %}
-   
+    {{site}}
     <div class="box" style="background-color:#{{post.color}}">
      <input type="hidden" value="{{post.title}}">
         <a href="{{post.linkUrl}}" target="_blank">
