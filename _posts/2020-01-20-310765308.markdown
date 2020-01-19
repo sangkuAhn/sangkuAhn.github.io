@@ -2,10 +2,10 @@
 ' 'layout: postText 
 ' 'title:  "베이스알파 에센셜 여성 겨울용 밍크 레깅스 2p" 
 ' 'description: None 
-' 'date: 2020-01-20 02:03:08 
+' 'date: 2020-01-20 02:04:27 
 ' 'img: https://static.coupangcdn.com/image/retail/images/442223565805847-88aff7c7-cd26-4182-a076-3453b6733c13.jpg 
 ' 'linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=310765308&itemId=980224656&vendorItemId=5397379133&traceid=V0-113-858195f46fa81145 
 ' 'categories: [1001] 
-' 'color: 43A047 
+' 'color: 7E57C2 
 ' 'author: Ask View Shop 
 ' 

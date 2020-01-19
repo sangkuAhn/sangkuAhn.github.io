@@ -2,10 +2,10 @@
 ' 'layout: postText 
 ' 'title:  "쿠팡 브랜드 - 베이스알파 여성 노라인 햄 팬티 베이지 3p + 블랙 2p" 
 ' 'description: None 
-' 'date: 2020-01-20 02:03:08 
+' 'date: 2020-01-20 02:04:27 
 ' 'img: https://static.coupangcdn.com/image/retail/images/5322477352312-3df8c60c-23d8-405a-b005-f9300a48fe18.jpg 
 ' 'linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=286583109&itemId=908601228&vendorItemId=5274726542&traceid=V0-113-80bfdc785eb59e7c 
 ' 'categories: [1001] 
-' 'color: 43A047 
+' 'color: 7E57C2 
 ' 'author: Ask View Shop 
 ' 
