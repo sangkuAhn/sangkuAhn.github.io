@@ -2,12 +2,12 @@
 layout: post 
 title:  "오키진 여성용 스판폭발 부츠컷 청바지" 
 description: ■ TOP.68
- ▼1 
-date: 2020-01-20 02:49:09 
+ ▼1위 
+date: 2020-01-20 02:52:25 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/08/20/4972394041/6e45198e-9612-4c15-9e2e-2ad4cb180522.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=243079487&itemId=771714514&vendorItemId=4972394041&traceid=V0-113-e972f8506b08b740 
 categories: [1001] 
-color: BF360C 
+color: 9E9D24 
 author: Ask View Shop 
 ---
  
