@@ -1,0 +1,11 @@
+'---
+' 'layout: postText 
+' 'title:  "제니트 여성용 웨슬리 긴팔 롱폴라 니트 N977" 
+' 'description: None 
+' 'date: 2020-01-20 02:08:24 
+' 'img: https://static.coupangcdn.com/image/vendor_inventory/images/2017/11/23/16/5/207865b8-8efc-4bba-bfa7-f31b1ab73cbb.jpg 
+' 'linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=9800560&itemId=43338539&vendorItemId=3067710613&traceid=V0-113-b375187a5480bf7a 
+' 'categories: [1001] 
+' 'color: 7E57C2 
+' 'author: Ask View Shop 
+' 

@@ -1,0 +1,11 @@
+'---
+' 'layout: postText 
+' 'title:  "플레이팝 여성용 밴딩 배색 나팔 레깅스 팬츠" 
+' 'description: None 
+' 'date: 2020-01-20 02:08:24 
+' 'img: https://static.coupangcdn.com/image/retail/images/2019/09/19/15/6/5fee162b-204c-4dfa-88e0-83432910e54d.jpg 
+' 'linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=306052547&itemId=965038438&vendorItemId=5369189978&traceid=V0-113-3328b7815d0bd20c 
+' 'categories: [1001] 
+' 'color: 7E57C2 
+' 'author: Ask View Shop 
+' 

@@ -1,0 +1,11 @@
+'---
+' 'layout: postText 
+' 'title:  "말랑젤리 북유럽스타일 자수린넨 코튼 멀티 파우치" 
+' 'description: None 
+' 'date: 2020-01-20 02:08:24 
+' 'img: https://static.coupangcdn.com/image/retail/images/2019/04/07/0/7/a93cdc94-4958-4daf-ae24-582d577c9592.jpg 
+' 'linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=206814949&itemId=611098882&vendorItemId=4603521046&traceid=V0-113-878101e7dd387213 
+' 'categories: [1001] 
+' 'color: 7E57C2 
+' 'author: Ask View Shop 
+' 
