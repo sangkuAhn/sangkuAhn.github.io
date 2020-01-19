@@ -1,2 +1,12 @@
 ---
+ layout: postText 
+ title:  "쿠팡브랜드 - 베이스알파 순면 40수 무형광 원단 미디 여성 팬티5p" 
+ description: ■ TOP.15 
+ date: 2020-01-20 02:19:03 
+ img: https://static.coupangcdn.com/image/retail/images/5119954992533-16d645d6-b485-4a68-968b-05e0053e9e0b.jpg 
+ linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=185502193&itemId=847765237&vendorItemId=5155492571&traceid=V0-113-0ed53b4dac19cbd6 
+ categories: [1001] 
+ color: ff1744 
+ author: Ask View Shop 
+ ---
  
