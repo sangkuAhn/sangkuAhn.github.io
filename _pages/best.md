@@ -21,5 +21,3 @@ permalink: /best/
 
 </div>
 </div>
-
-<script src="{{site.baseurl}}/js/salvattore.min.js"></script>

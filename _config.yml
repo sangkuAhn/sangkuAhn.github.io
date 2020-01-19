@@ -12,7 +12,7 @@ full-version: "https://sangkuahn.github.io"
 sass:
     style: compressed
 
-collections: _my_collection
+
 
 #optimization
 #compress.html
