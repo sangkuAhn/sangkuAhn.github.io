@@ -2,11 +2,11 @@
 layout: post 
 title:  "가비진 여성용 포근 니트 밴딩 세미와이드핏 팬츠" 
 description: ■ TOP.2 
-date: 2020-01-20 02:52:25 
+date: 2020-01-20 02:53:56 
 img: https://static.coupangcdn.com/image/retail/images/2019/10/30/18/4/a42f1e70-2d8d-4f4b-b64d-8bc4257280c1.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=330328683&itemId=1055822173&vendorItemId=5528073482&traceid=V0-113-12c877b000766b06 
 categories: [1001] 
-color: 006064 
+color: 03A9F4 
 author: Ask View Shop 
 ---
  
