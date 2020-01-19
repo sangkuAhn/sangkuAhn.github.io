@@ -6,9 +6,9 @@ console.log("start");
 </script>
 <div id="container">
 <div id="grid" data-columns class="cols">
-     {{site}}
+     {{site.posts}}
     {% for post in site.posts %}
-     {{ forloop.index }}
+     {{ forloop.index }}     
     <div class="box" style="background-color:#{{post.color}}">
      <input type="hidden" value="{{post.title}}">
         <a href="{{post.linkUrl}}" target="_blank">
