@@ -6,7 +6,7 @@ console.log("start");
 </script>
 <div id="container">
 <div id="grid" data-columns class="cols">
-     {{site.posts}}
+     
     {% for post in site.posts %}
      {{ forloop.index }}     
     <div class="box" style="background-color:#{{post.color}}">
