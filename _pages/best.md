@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /best/
 ---
 <script>
 console.log("start");
