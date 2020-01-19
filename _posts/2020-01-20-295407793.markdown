@@ -2,11 +2,11 @@
 layout: post 
 title:  "온더리버 벨벳 플리츠 롱 스커트" 
 description: ■ TOP.97 
-date: 2020-01-20 03:01:41 
+date: 2020-01-20 03:04:33 
 img: https://static.coupangcdn.com/image/vendor_inventory/9246/8042179ff25882f0c4ea93aad92b278a22463fd7fa732af1a07c45442320.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=295407793&itemId=931603087&vendorItemId=70035957000&traceid=V0-113-9d4cf911a7f6b54d 
 categories: [1001] 
-color: 212121 
+color: 9E9D24 
 author: Ask View Shop 
 ---
  

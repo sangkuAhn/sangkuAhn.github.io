@@ -2,11 +2,11 @@
 layout: post 
 title:  "쿠팡 브랜드 - 베이스알파 에센셜 남녀공용 30수 라운드 반팔티 3p" 
 description: ■ TOP.3 
-date: 2020-01-20 03:01:41 
+date: 2020-01-20 03:04:33 
 img: https://static.coupangcdn.com/image/retail/images/12785807873621-594267fc-60ef-499a-9ab9-3e12930f9731.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=185502198&itemId=530600312&vendorItemId=4381872911&traceid=V0-113-d1b4e08408552d8e 
 categories: [1001] 
-color: 7E57C2 
+color: 212121 
 author: Ask View Shop 
 ---
  
