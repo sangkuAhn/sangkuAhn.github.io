@@ -1,11 +1,11 @@
-'---
-' 'layout: postText 
-' 'title:  "루즈핏 레오파드 퍼 자켓 호피 점퍼" 
-' 'description: None 
-' 'date: 2020-01-20 02:08:24 
-' 'img: https://static.coupangcdn.com/image/vendor_inventory/3944/28f94151ad48fc15f1a657f8971fb817bcb80b3cbb1dacc8469e2c55be75.jpg 
-' 'linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=339447031&itemId=1081380551&vendorItemId=70073352316&traceid=V0-113-eb205c6b9f3127e3 
-' 'categories: [1001] 
-' 'color: 7E57C2 
-' 'author: Ask View Shop 
-' 
+---
+' layout: postText 
+ title:  "루즈핏 레오파드 퍼 자켓 호피 점퍼" 
+ description: None 
+ date: 2020-01-20 02:09:34 
+ img: https://static.coupangcdn.com/image/vendor_inventory/3944/28f94151ad48fc15f1a657f8971fb817bcb80b3cbb1dacc8469e2c55be75.jpg 
+ linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=339447031&itemId=1081380551&vendorItemId=70073352316&traceid=V0-113-eb205c6b9f3127e3 
+ categories: [1001] 
+ color: ff1744 
+ author: Ask View Shop 
+ 
