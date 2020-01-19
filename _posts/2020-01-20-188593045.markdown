@@ -2,11 +2,11 @@
 layout: post 
 title:  "제니트 생크림니트 봄 가을 여성용 루즈핏 브이넥 롱니트티 여성 니트 롱니트 가을니트" 
 description: ■ TOP.9 
-date: 2020-01-20 03:04:33 
+date: 2020-01-20 03:17:01 
 img: https://static.coupangcdn.com/image/vendor_inventory/2ca5/8a56ec669ade94faafa0fa64f98bc86147859efee5eb2030ecc156fe29c1.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=188593045&itemId=929670387&vendorItemId=5307093451&traceid=V0-113-1b3ffc28484436d1 
 categories: [1001] 
-color: 006064 
+color: 212121 
 author: Ask View Shop 
 ---
  
