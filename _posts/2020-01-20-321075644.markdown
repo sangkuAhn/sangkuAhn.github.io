@@ -1,13 +1,12 @@
 ---
 layout: post 
 title:  "입생로랑 컨버스백 캔버스 에코백 데일리백" 
-description: ■ TOP.89
- ▼1위 
-date: 2020-01-20 02:53:56 
+description: ■ TOP.89 
+date: 2020-01-20 03:01:41 
 img: https://static.coupangcdn.com/image/vendor_inventory/5365/b81c31248dd96cd8bd9dddfb5333e41319a297591e68477e307313a4cdc1.JPG 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=321075644&itemId=1027745354&vendorItemId=70056995056&traceid=V0-113-a0a6b7c18ee50dcf 
 categories: [1001] 
-color: 4CAF50 
+color: 43A047 
 author: Ask View Shop 
 ---
  
