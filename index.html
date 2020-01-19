@@ -8,7 +8,7 @@ console.log("start");
 <div id="grid" data-columns class="cols">
      {{site}}
     {% for post in site.posts %}
-   
+     {{ forloop.index }}
     <div class="box" style="background-color:#{{post.color}}">
      <input type="hidden" value="{{post.title}}">
         <a href="{{post.linkUrl}}" target="_blank">
