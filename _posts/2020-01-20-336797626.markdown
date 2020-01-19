@@ -2,11 +2,11 @@
 layout: post 
 title:  "루나걸 오하라 진주코사지 니트 원피스" 
 description: ■ TOP.34 
-date: 2020-01-20 02:43:00 
+date: 2020-01-20 02:49:09 
 img: https://static.coupangcdn.com/image/retail/images/2019/11/15/9/0/7c6c28ff-bbfb-490f-9511-3263969a1b17.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=336797626&itemId=1074351813&vendorItemId=5567565425&traceid=V0-113-5778a7a3e2c0ab86 
 categories: [1001] 
-color: BF360C 
+color: ff1744 
 author: Ask View Shop 
 ---
  
