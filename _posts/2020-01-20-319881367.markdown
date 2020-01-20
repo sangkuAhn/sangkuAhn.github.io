@@ -2,11 +2,11 @@
 layout: post 
 title:  "포벨리 진주코사지 모직 체크 코드" 
 description: ■ TOP.23 
-date: 2020-01-20 10:25:45 
+date: 2020-01-20 10:37:39 
 img: https://static.coupangcdn.com/image/retail/images/53994848904187-b6fea9b4-f521-4575-9433-e61734fcabfb.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=319881367&itemId=1023413205&vendorItemId=5464718826&traceid=V0-113-274de8466d2ce19f 
 categories: [1001] 
-color: 03A9F4 
+color: 7E57C2 
 author: Ask View Shop 
 ---
  
