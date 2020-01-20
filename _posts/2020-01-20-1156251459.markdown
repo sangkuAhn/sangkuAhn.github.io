@@ -2,11 +2,11 @@
 layout: post 
 title:  "스타일바바 따뜻하고 도톰한 겨울 기모바지 양털바지 여자바지 밴딩바지 융털바지 팬츠" 
 description: ■ TOP.16 
-date: 2020-01-20 10:24:07 
+date: 2020-01-20 10:25:45 
 img: https://static.coupangcdn.com/image/vendor_inventory/f133/e32f3b164cf9b8f4ede8201b4c863fd3701521c42d5bd419632e53bc2926.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=1156251459&itemId=2131916247&vendorItemId=70107760625&traceid=V0-113-22d3a307861b67d9 
 categories: [1001] 
-color: BF360C 
+color: 03A9F4 
 author: Ask View Shop 
 ---
  
