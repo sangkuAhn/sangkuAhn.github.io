@@ -2,11 +2,11 @@
 layout: post 
 title:  "나이키 에어맥스 2017 트리플 런닝화 849560-004" 
 description: ■ TOP.62 / ▲1상승 
-date: 2020-01-21 12:35:01 
+date: 2020-01-20 05:52:04 
 img: https://static.coupangcdn.com/image/vendor_inventory/419e/855827f8bba676ab393ef6cd1a6b0bdd649b5f506402b0badf4836e94541.jpg 
-linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=341718158&itemId=1087518623&vendorItemId=70156360215&traceid=V0-113-0df2f21cef3517be 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=341718158&itemId=1087518623&vendorItemId=70156360215&traceid=V0-113-0df2f21cef3517be 
 categories: [1001] 
-color: FF6F00 
+color: 03A9F4 
 rank: 62 
 price: 101000 
 author: Ask View Shop 
