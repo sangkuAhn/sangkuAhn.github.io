@@ -2,11 +2,11 @@
 layout: post 
 title:  "플레이팝 여성용 국내제작 블랙 심플 오피스룩 속밴딩 하이웨스트 슬림핏 일자 슬랙스" 
 description: ■ TOP.28 
-date: 2020-01-21 12:22:40 
+date: 2020-01-21 12:35:01 
 img: https://static.coupangcdn.com/image/retail/images/2019/07/12/14/1/d930adf7-ba80-4e8a-ad87-d82cb4e55fb8.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=189407527&itemId=540886303&vendorItemId=5062684736&traceid=V0-113-0164d01e3614f8a9 
 categories: [1001] 
-color: BF360C 
+color: 7E57C2 
 rank: 28 
 price: 22900 
 author: Ask View Shop 

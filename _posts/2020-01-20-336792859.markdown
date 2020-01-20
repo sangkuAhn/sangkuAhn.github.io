@@ -2,11 +2,11 @@
 layout: post 
 title:  "가비진 여성용 밴딩 와이드 니트바지 N-1B" 
 description: ■ TOP.52 / ▲1상승 
-date: 2020-01-21 12:22:40 
+date: 2020-01-21 12:35:01 
 img: https://static.coupangcdn.com/image/retail/images/2019/11/15/9/8/8ab809e9-bfff-484c-a20f-d537a54332c0.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=336792859&itemId=1074330400&vendorItemId=5567524595&traceid=V0-113-d3711185b1ed0dc8 
 categories: [1001] 
-color: 03A9F4 
+color: 212121 
 rank: 52 
 price: 14900 
 author: Ask View Shop 
