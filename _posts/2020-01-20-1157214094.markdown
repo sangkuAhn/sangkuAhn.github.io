@@ -2,11 +2,11 @@
 layout: post 
 title:  "온더리버 티앤 후드 밴딩 롱 원피스" 
 description: ■ TOP.29 
-date: 2020-01-20 10:37:39 
+date: 2020-01-21 12:08:43 
 img: https://static.coupangcdn.com/image/vendor_inventory/1171/04d37a462c0a844a2441ee321d6902e0940c2d23de0f523296c203783392.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=1157214094&itemId=2133143978&vendorItemId=70161029683&traceid=V0-113-e6eac05d6e9698c7 
 categories: [1001] 
-color: 006064 
+color: 7E57C2 
 author: Ask View Shop 
 ---
  
