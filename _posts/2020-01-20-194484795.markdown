@@ -2,11 +2,13 @@
 layout: post 
 title:  "엔젤 자수레이스블라우스" 
 description: ■ TOP.11 
-date: 2020-01-21 12:08:43 
+date: 2020-01-21 12:22:40 
 img: https://static.coupangcdn.com/image/vendor_inventory/images/2019/03/06/11/0/d035f8ab-7dea-4f6b-986a-af1af9258492.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=194484795&itemId=557862331&vendorItemId=4620897735&traceid=V0-113-916acab66b63a650 
 categories: [1001] 
-color: 9E9D24 
+color: 4A148C 
+rank: 11 
+price: 13700 
 author: Ask View Shop 
 ---
  

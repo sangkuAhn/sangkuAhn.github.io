@@ -2,11 +2,13 @@
 layout: post 
 title:  "토마토팩토리 여성용 무지트랙 조거팬츠" 
 description: ■ TOP.27 
-date: 2020-01-21 12:08:43 
+date: 2020-01-21 12:22:40 
 img: https://static.coupangcdn.com/image/retail/images/2019/08/30/17/6/d74a51e3-4e5c-4eb3-ba5d-5f9dbe83c393.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=293472681&itemId=926571011&vendorItemId=5302423912&traceid=V0-113-4403b2328bfaec44 
 categories: [1001] 
-color: 9E9D24 
+color: 212121 
+rank: 27 
+price: 9900 
 author: Ask View Shop 
 ---
  

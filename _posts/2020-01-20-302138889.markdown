@@ -2,11 +2,13 @@
 layout: post 
 title:  "홀리버니 백스트링 싸이하이 롱부츠 BT6003" 
 description: ■ TOP.39 
-date: 2020-01-21 12:08:43 
+date: 2020-01-21 12:22:40 
 img: https://static.coupangcdn.com/image/retail/images/2019/09/11/16/2/4b35f9ad-480c-4cc0-b34c-7411e82498f1.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=302138889&itemId=950471917&vendorItemId=5343849389&traceid=V0-113-f80d37804a110553 
 categories: [1001] 
-color: 03A9F4 
+color: 4CAF50 
+rank: 39 
+price: 12720 
 author: Ask View Shop 
 ---
  
