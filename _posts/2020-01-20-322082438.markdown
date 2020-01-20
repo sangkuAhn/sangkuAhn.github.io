@@ -2,11 +2,11 @@
 layout: post 
 title:  "오르비 티조리키 숄더백" 
 description: ■ TOP.59 / ▲1상승 
-date: 2020-01-20 05:55:04 
+date: 2020-01-20 06:44:41 
 img: https://static.coupangcdn.com/image/retail/images/2019/10/16/10/2/c313919b-75ff-4e6a-8fa1-0deb6b6e2923.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=322082438&itemId=1031268762&vendorItemId=5479923190&traceid=V0-113-302728cbb39f4b3c 
 categories: [1001] 
-color: 43A047 
+color: ff1744 
 rank: 59 
 price: 19900 
 author: Ask View Shop 

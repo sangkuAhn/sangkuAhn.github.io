@@ -2,11 +2,11 @@
 layout: post 
 title:  "토마토팩토리 여성용 레이어드 긴팔 롱티셔츠" 
 description: ■ TOP.32 
-date: 2020-01-20 05:55:04 
+date: 2020-01-20 06:44:41 
 img: https://static.coupangcdn.com/image/retail/images/2019/08/05/14/2/2af3c1a5-3f1b-43fe-ac96-e4a44793f014.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=274758307&itemId=868010457&vendorItemId=5196665711&traceid=V0-113-104b1ab3b76a1e58 
 categories: [1001] 
-color: 9E9D24 
+color: ff1744 
 rank: 32 
 price: 9900 
 author: Ask View Shop 

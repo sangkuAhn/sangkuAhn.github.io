@@ -2,11 +2,11 @@
 layout: post 
 title:  "리더스타 여성바지 여자바지 바지 자체제작 밴딩 긴바지" 
 description: ■ TOP.63 / ▲1상승 
-date: 2020-01-20 05:55:04 
+date: 2020-01-20 06:44:41 
 img: https://static.coupangcdn.com/image/vendor_inventory/830f/f1e1a1bc732379088458d9c9e05185cb7a46274ff2af906db3c5ad8da0e3.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=345730451&itemId=1097945281&vendorItemId=5620782827&traceid=V0-113-6ce89d577b5cc0e5 
 categories: [1001] 
-color: 7E57C2 
+color: BF360C 
 rank: 63 
 price: 11500 
 author: Ask View Shop 

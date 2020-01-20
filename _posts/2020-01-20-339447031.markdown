@@ -2,11 +2,11 @@
 layout: post 
 title:  "루즈핏 레오파드 퍼 자켓 호피 점퍼" 
 description: ■ TOP.64 / ▲1상승 
-date: 2020-01-20 05:55:04 
+date: 2020-01-20 06:44:41 
 img: https://static.coupangcdn.com/image/vendor_inventory/3944/28f94151ad48fc15f1a657f8971fb817bcb80b3cbb1dacc8469e2c55be75.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=339447031&itemId=1081380551&vendorItemId=70073352316&traceid=V0-113-eb205c6b9f3127e3 
 categories: [1001] 
-color: 43A047 
+color: ff1744 
 rank: 64 
 price: 22800 
 author: Ask View Shop 
