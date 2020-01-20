@@ -2,11 +2,11 @@
 layout: post 
 title:  "이힝 밴딩 골덴 기모바지 코듀로이팬츠" 
 description: ■ TOP.7 
-date: 2020-01-20 10:18:29 
+date: 2020-01-20 10:24:07 
 img: https://static.coupangcdn.com/image/vendor_inventory/d326/840b5dffb4d29a5f766da99dde29e603abff084cbf4746bff351c9708645.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=1078315027&itemId=2029525124&vendorItemId=70029008986&traceid=V0-113-70bd73ad9be28cfe 
 categories: [1001] 
-color: ff1744 
+color: BF360C 
 author: Ask View Shop 
 ---
  

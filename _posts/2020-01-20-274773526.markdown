@@ -2,11 +2,11 @@
 layout: post 
 title:  "리셋 레이어드 배색 후드 티셔츠" 
 description: ■ TOP.68 / ▲1상승 
-date: 2020-01-20 10:18:29 
+date: 2020-01-20 10:24:07 
 img: https://static.coupangcdn.com/image/retail/images/2019/08/05/14/2/3cb3ca03-44cb-401e-98ad-7b9504654b2b.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=274773526&itemId=868082522&vendorItemId=5196794252&traceid=V0-113-3f30e3f96ff0a072 
 categories: [1001] 
-color: ff1744 
+color: f44336 
 author: Ask View Shop 
 ---
  

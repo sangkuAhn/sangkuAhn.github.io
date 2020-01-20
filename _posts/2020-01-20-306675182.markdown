@@ -2,11 +2,11 @@
 layout: post 
 title:  "마른파이브 여성용 더 슬림 폴라넥 긴팔 티셔츠" 
 description: ■ TOP.98 
-date: 2020-01-20 10:18:29 
+date: 2020-01-20 10:24:07 
 img: https://static.coupangcdn.com/image/retail/images/2019/09/23/15/6/2c1d402e-333e-4b25-911b-9a61151e00ab.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=306675182&itemId=966847586&vendorItemId=5373036379&traceid=V0-113-b3c28a6f10699971 
 categories: [1001] 
-color: 03A9F4 
+color: f44336 
 author: Ask View Shop 
 ---
  
