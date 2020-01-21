@@ -1,13 +1,13 @@
 ---
 layout: post 
 title:  "제니트 포근한데이 가을 겨울 여성 루즈핏 돌돌 목폴라 니트 스웨터" 
-description: ■ TOP.52 / ▼1하락 
-date: 2020-01-21 06:01:01 
+description: ■ TOP.53 / ▼1하락 
+date: 2020-01-21 07:55:16 
 img: https://static.coupangcdn.com/image/vendor_inventory/8645/bb35b801a85d097d5982c11cd0e3033c434ca4e24486221f9f01da8b8b4e.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=145399379&itemId=421587964&vendorItemId=4037150535&traceid=V0-113-a20165923fed55a1 
 categories: [1001] 
-color: 4CAF50 
-rank: 52 
+color: 03A9F4 
+rank: 53 
 price: 16900 
 author: Ask View Shop 
 ---
