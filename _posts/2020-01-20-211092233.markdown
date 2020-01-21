@@ -2,11 +2,11 @@
 layout: post 
 title:  "쏭스타일 여성용 낫씽 트임 롱 티" 
 description: TOP.18 [▲ 1상승] 
-date: 2020-01-21 23:19:16 
+date: 2020-01-21 23:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2019/04/18/17/0/7e8d0fb4-c9bc-4c75-bc9e-3207d911d9fb.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=211092233&itemId=631495324&vendorItemId=70085509245&traceid=V0-113-6a62b3392c141b5e 
 categories: [1001] 
-color: 212121 
+color: 4A148C 
 rank: 18 
 price: 6900 
 author: Ask View Shop 

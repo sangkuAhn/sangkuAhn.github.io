@@ -1,12 +1,12 @@
 ---
 layout: post 
 title:  "데일리25 여성용 스포츠 양모 밍크 레깅스 무발 2매" 
-description: TOP.41 / ▼1하락 
-date: 2020-01-21 23:19:16 
+description: TOP.41 [▼1하락] 
+date: 2020-01-21 23:55:07 
 img: https://static.coupangcdn.com/image/retail/images/636439304493-944a6ec6-39cc-425e-a1d0-9152a5e92896.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=313459444&itemId=991231616&vendorItemId=5416883858&traceid=V0-113-19a5eaae8f7c10a9 
 categories: [1001] 
-color: ff1744 
+color: 4A148C 
 rank: 41 
 price: 14900 
 author: Ask View Shop 

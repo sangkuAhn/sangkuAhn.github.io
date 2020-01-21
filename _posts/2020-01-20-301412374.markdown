@@ -1,12 +1,12 @@
 ---
 layout: post 
 title:  "티데일리 띵스 오버핏 맨투맨 긴팔 티셔츠 남녀공용 빅사이즈 긴소매" 
-description: TOP.29 / ▼1하락 
-date: 2020-01-21 23:19:16 
+description: TOP.29 [▼1하락] 
+date: 2020-01-21 23:55:07 
 img: https://static.coupangcdn.com/image/vendor_inventory/fc98/a932ea38c6a9ae72f2de15fc31bb8786b24d692aa36f0362b01577714661.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=301412374&itemId=948515725&vendorItemId=5340339524&traceid=V0-113-b9c2977ba1281109 
 categories: [1001] 
-color: 4A148C 
+color: BF360C 
 rank: 29 
 price: 19900 
 author: Ask View Shop 
