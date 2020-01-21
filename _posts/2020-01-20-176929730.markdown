@@ -1,12 +1,12 @@
 ---
 layout: post 
 title:  "수엠W Z19 무무Y" 
-description: ■ TOP.73 / ▲1상승 
-date: 2020-01-21 21:55:16 
+description: ■ TOP.73 / ▼1하락 
+date: 2020-01-21 22:55:14 
 img: https://static.coupangcdn.com/image/vendor_inventory/images/2019/01/15/15/9/a867df3e-a715-4bf4-8db8-88f3f57ee2a2.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=176929730&itemId=505878605&vendorItemId=4295649575&traceid=V0-113-a3a2c83323a2bdca 
 categories: [1001] 
-color: 9E9D24 
+color: ff1744 
 rank: 73 
 price: 12900 
 author: Ask View Shop 

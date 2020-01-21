@@ -1,12 +1,12 @@
 ---
 layout: post 
 title:  "오르비 버커린 에코백 크로스백" 
-description: ■ TOP.72 / ▲1상승 
-date: 2020-01-21 21:55:16 
+description: ■ TOP.72 / ▼1하락 
+date: 2020-01-21 22:55:14 
 img: https://static.coupangcdn.com/image/retail/images/2019/03/18/19/8/7d6812ac-f9df-4c3a-ae63-54568b59c330.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=199883246&itemId=579940588&vendorItemId=4519059585&traceid=V0-113-c583e4b9fadbece2 
 categories: [1001] 
-color: 43A047 
+color: 212121 
 rank: 72 
 price: 9900 
 author: Ask View Shop 
