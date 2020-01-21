@@ -2,11 +2,11 @@
 layout: post 
 title:  "바잉몰 왕기모 스판 스키니 팬츠" 
 description: TOP.53 [▲ 1상승] 
-date: 2020-01-22 05:55:06 
+date: 2020-01-22 06:55:17 
 img: https://static.coupangcdn.com/image/vendor_inventory/f641/73a848bc14e1122788c787a8cbfd6063065469be66c70343e3917352ab5a.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=149219284&itemId=431538405&vendorItemId=4063841910&traceid=V0-113-e4344a7a40b213da 
 categories: [1001] 
-color: 006064 
+color: 212121 
 rank: 53 
 price: 13900 
 author: Ask View Shop 

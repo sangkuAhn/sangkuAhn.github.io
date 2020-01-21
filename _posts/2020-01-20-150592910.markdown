@@ -2,11 +2,11 @@
 layout: post 
 title:  "제니트 컬러풀루즈 루즈핏 기본 라운드 니트티" 
 description: TOP.5 
-date: 2020-01-22 05:55:06 
+date: 2020-01-22 06:55:17 
 img: https://static.coupangcdn.com/image/vendor_inventory/7c70/477c81a259f8127433246abf40b944fed06157ffb9f67f13a4ae905e86a9.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=150592910&itemId=434944906&vendorItemId=4074266279&traceid=V0-113-0dd909e041a7bcb9 
 categories: [1001] 
-color: 4A148C 
+color: BF360C 
 rank: 5 
 price: 19800 
 author: Ask View Shop 
