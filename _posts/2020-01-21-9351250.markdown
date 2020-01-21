@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "플레이도우 칼라도우 뉴 8팩, 혼합 색상" 
+description: TOP.34 
+date: 2020-01-22 02:04:07 
+img: https://static.coupangcdn.com/image/retail/images/580017724423368-bf920ee0-70fe-4f5f-b6a7-390bfe6f9356.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=9351250&itemId=41043504&vendorItemId=3000131912&traceid=V0-113-eccfe5fc54a68b26 
+categories: [1020] 
+color: 03A9F4 
+rank: 34 
+price: 6070 
+author: Ask View Shop 
+---
+ 

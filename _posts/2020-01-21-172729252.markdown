@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "슈펜 로우컷 베이직 스니커즈 AFHC19A01" 
+description: TOP.60 
+date: 2020-01-22 02:04:07 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2019/01/09/9/2/649e653d-4483-476b-a138-62b693582371.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=172729252&itemId=493589969&vendorItemId=5314910093&traceid=V0-113-5527cb1ec76c8abd 
+categories: [1007] 
+color: ff1744 
+rank: 60 
+price: 4500 
+author: Ask View Shop 
+---
+ 

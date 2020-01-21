@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 탐사 국내산 파스형 핫팩 40g, 35개" 
+description: TOP.20 
+date: 2020-01-22 02:04:07 
+img: https://static.coupangcdn.com/image/retail/images/515522167097-cd38eb68-7048-4481-845f-720981fb01cb.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=319788189&itemId=1022996731&vendorItemId=5463852429&traceid=V0-113-d134c0f93cb14025 
+categories: [1017] 
+color: 9E9D24 
+rank: 20 
+price: 9300 
+author: Ask View Shop 
+---
+ 

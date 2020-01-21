@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "더룩 프리미엄 리무진 차량용 시트, 블랙, 1개" 
+description: TOP.53 
+date: 2020-01-22 02:04:07 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/10/24/3468353408/66e497b7-5c9e-445e-834b-59d3df1d1763.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=56899813&itemId=196569176&vendorItemId=3468353408&traceid=V0-113-974e8ef67fe33f1a 
+categories: [1018] 
+color: ff1744 
+rank: 53 
+price: 30710 
+author: Ask View Shop 
+---
+ 

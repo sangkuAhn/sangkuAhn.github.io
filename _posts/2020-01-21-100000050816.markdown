@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "강원/ 강원/ 엘리시안강촌 리프트권 상품" 
+description: TOP.27 
+date: 2020-01-22 02:04:07 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/12/23/100000050816/b8be9792-e169-42af-9f7d-60061f7bbc88.jpg 
+linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=100000050816&traceid=V0-113-cb8dbea6a139e4e7 
+categories: [1025] 
+color: BF360C 
+rank: 27 
+price: 11000 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "몽베스트 생수, 330ml, 20개입" 
+description: TOP.34 
+date: 2020-01-22 02:04:07 
+img: https://static.coupangcdn.com/image/retail/images/2017/07/13/18/4/4d2fbd93-d605-47b0-98b3-982c113f2668.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=26872890&itemId=103909320&vendorItemId=3198157834&traceid=V0-113-50d606dad6ff2124 
+categories: [1012] 
+color: BF360C 
+rank: 34 
+price: 5500 
+author: Ask View Shop 
+---
+ 

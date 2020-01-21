@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "일산/ 킨텍스 실내썰매 키즈월드" 
+description: TOP.28 
+date: 2020-01-22 02:04:07 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/10/30/100000044349/ea7af5e5-8739-46b5-82b2-855475c5841f.jpg 
+linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=100000044349&traceid=V0-113-ea51cd0e7b8139a6 
+categories: [1025] 
+color: ff1744 
+rank: 28 
+price: 13900 
+author: Ask View Shop 
+---
+ 

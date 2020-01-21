@@ -2,11 +2,11 @@
 layout: post 
 title:  "쿠팡 브랜드 - 베이스알파 여성 노라인 햄 팬티 베이지 3p + 블랙 2p" 
 description: TOP.11 [▲ 1상승] 
-date: 2020-01-22 01:55:07 
+date: 2020-01-22 02:04:07 
 img: https://static.coupangcdn.com/image/retail/images/5335930478396-b12af88f-0a9c-44c3-8cdd-5e0b58f07d31.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=286583109&itemId=908601220&vendorItemId=5274726524&traceid=V0-113-80bfdc785eb59e7c 
 categories: [1001] 
-color: f44336 
+color: 7E57C2 
 rank: 11 
 price: 12900 
 author: Ask View Shop 

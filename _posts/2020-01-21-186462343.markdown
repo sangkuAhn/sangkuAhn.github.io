@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "MINIPLE 101 폴딩 보스턴백" 
+description: TOP.20 
+date: 2020-01-22 02:04:07 
+img: https://static.coupangcdn.com/image/retail/images/2019/02/14/17/5/e1fe8cad-0ded-470f-8657-2b7937bc172e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=186462343&itemId=533121234&vendorItemId=4389124767&traceid=V0-113-4cb177fe6e36ae2c 
+categories: [1008] 
+color: 7E57C2 
+rank: 20 
+price: 15150 
+author: Ask View Shop 
+---
+ 

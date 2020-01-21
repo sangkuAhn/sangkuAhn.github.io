@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "보뚜 석류즙 100, 80ml, 30개" 
+description: TOP.42 
+date: 2020-01-22 02:04:07 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/08/02/3130544388/45012c83-605b-4283-a9c9-c0839d11cc4f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=19294600&itemId=77421990&vendorItemId=3130544388&traceid=V0-113-e0a5c8c314ee0daa 
+categories: [1024] 
+color: 43A047 
+rank: 42 
+price: 13200 
+author: Ask View Shop 
+---
+ 

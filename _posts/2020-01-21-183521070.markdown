@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "코리아보드게임즈 우봉고 미니 보드게임, 혼합 색상" 
+description: TOP.55 
+date: 2020-01-22 02:04:07 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/07/03/4363527091/720d099f-e4a0-429e-94e0-d9dc7a37a576.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=183521070&itemId=525497152&vendorItemId=4363527091&traceid=V0-113-994568cf949d7901 
+categories: [1020] 
+color: 9E9D24 
+rank: 55 
+price: 8140 
+author: Ask View Shop 
+---
+ 

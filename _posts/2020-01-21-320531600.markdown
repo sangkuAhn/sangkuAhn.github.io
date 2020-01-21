@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "K2 심리스 넥게이터, 블랙" 
+description: TOP.44 
+date: 2020-01-22 02:04:07 
+img: https://static.coupangcdn.com/image/retail/images/68688397055367-682832cb-598e-45cf-ac08-408b2b8e8b78.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=320531600&itemId=1025699079&vendorItemId=5468983772&traceid=V0-113-e99159fb288b5f4f 
+categories: [1017] 
+color: 212121 
+rank: 44 
+price: 11500 
+author: Ask View Shop 
+---
+ 

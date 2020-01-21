@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "애플 APPLE PENCIL MK0C2KH/A, 1개" 
+description: TOP.46 
+date: 2020-01-22 02:04:07 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/03/20/3098294153/9cb21c7a-6240-4f79-a7d4-ca688ae82d3f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=164971128&itemId=473163979&vendorItemId=3299833714&traceid=V0-113-a9a0cdd32996a2dc 
+categories: [1016] 
+color: 006064 
+rank: 46 
+price: 110130 
+author: Ask View Shop 
+---
+ 

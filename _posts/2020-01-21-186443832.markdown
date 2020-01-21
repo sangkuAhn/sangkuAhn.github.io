@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 꼬리별 베이직 애견패드, 3개, 100매" 
+description: TOP.1 
+date: 2020-01-22 02:04:07 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/03/27/4389013537/a6a6c2da-20ba-4b42-9999-6d51caba8d15.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=186443832&itemId=533071376&vendorItemId=4389013537&traceid=V0-113-c34bd1d2bc5c43dd 
+categories: [1029] 
+color: 03A9F4 
+rank: 1 
+price: 18990 
+author: Ask View Shop 
+---
+ 

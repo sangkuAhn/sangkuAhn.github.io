@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 탐사 클래식 물티슈 캡형, 100매, 10팩" 
+description: TOP.3 
+date: 2020-01-22 02:04:07 
+img: https://static.coupangcdn.com/image/retail/images/164153445891991-af0d5790-2402-4a6d-95d6-25a2bbd579d1.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=305672892&itemId=963428194&vendorItemId=5366452533&traceid=V0-113-df6e481d96579701 
+categories: [1014] 
+color: ff1744 
+rank: 3 
+price: 6790 
+author: Ask View Shop 
+---
+ 
