@@ -2,11 +2,11 @@
 layout: post 
 title:  "오키진 여성 레전드 롱 패딩 웰론 데일리 겨울" 
 description: TOP.39 [▼1하락] 
-date: 2020-01-21 23:55:07 
+date: 2020-01-22 01:14:02 
 img: https://static.coupangcdn.com/image/vendor_inventory/8f64/724e44de4b7d02dfc39427c02fe4c0a8bfd4b50e465dbc316b1f41dc8b78.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=329359521&itemId=1053051794&vendorItemId=5521630140&traceid=V0-113-efbd4ac2c8289710 
 categories: [1001] 
-color: 7E57C2 
+color: f44336 
 rank: 39 
 price: 18900 
 author: Ask View Shop 
