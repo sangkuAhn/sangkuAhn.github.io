@@ -2,11 +2,11 @@
 layout: post 
 title:  "온더리버 블랙라벨 플리츠 롱 스커트" 
 description: ■ TOP.100 / ▼3하락 
-date: 2020-01-21 03:55:08 
+date: 2020-01-21 04:40:32 
 img: https://static.coupangcdn.com/image/vendor_inventory/9246/8042179ff25882f0c4ea93aad92b278a22463fd7fa732af1a07c45442320.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=295407793&itemId=931603087&vendorItemId=70035957000&traceid=V0-113-9d4cf911a7f6b54d 
 categories: [1001] 
-color: 212121 
+color: 43A047 
 rank: 100 
 price: 12900 
 author: Ask View Shop 
