@@ -1,13 +1,13 @@
 ---
 layout: post 
 title:  "여성용 소확행 융털 부츠컷 슬랙스 아담녀" 
-description: ■ TOP.78 / ▼1하락 
-date: 2020-01-21 20:55:07 
+description: TOP.77 / ▼1하락 
+date: 2020-01-21 22:56:48 
 img: https://static.coupangcdn.com/image/retail/images/2019/10/29/15/3/2da4c42d-dd08-4564-8caf-c73bb72962ae.jpg 
-linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=327240764&itemId=1047089707&vendorItemId=5510294526&traceid=V0-113-858b3dea2e443830 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=327240764&itemId=1047089707&vendorItemId=5510294526&traceid=V0-113-858b3dea2e443830 
 categories: [1001] 
-color: 4CAF50 
-rank: 78 
+color: f44336 
+rank: 77 
 price: 15900 
 author: Ask View Shop 
 ---

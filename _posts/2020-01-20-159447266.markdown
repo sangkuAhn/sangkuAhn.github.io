@@ -1,13 +1,13 @@
 ---
 layout: post 
 title:  "원썸 레소 골지 V넥 H라인 원피스" 
-description: ■ TOP.13 / ▼1하락 
-date: 2020-01-21 20:55:07 
+description: TOP.12 [▲ 1상승] 
+date: 2020-01-21 22:56:48 
 img: https://static.coupangcdn.com/image/retail/images/2019/08/07/11/5/8c975c9c-5878-4567-ade2-1f3565cc69ce.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=159447266&itemId=457911049&vendorItemId=5204709775&traceid=V0-113-a41ea445d26dbbe1 
 categories: [1001] 
-color: 43A047 
-rank: 13 
+color: 4A148C 
+rank: 12 
 price: 12900 
 author: Ask View Shop 
 ---

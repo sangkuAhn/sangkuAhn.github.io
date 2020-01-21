@@ -1,13 +1,13 @@
 ---
 layout: post 
 title:  "보리맘 컷팅V 빅사이즈 원피스, 블랙" 
-description: ■ TOP.52 / ▼2하락 
-date: 2020-01-21 20:55:07 
+description: TOP.51 / ▼1하락 
+date: 2020-01-21 22:56:48 
 img: https://static.coupangcdn.com/image/retail/images/2019/02/12/11/2/d140be7c-3049-40f6-bfcb-ac78427d91a5.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=185285239&itemId=529943288&vendorItemId=4379681619&traceid=V0-113-206f05934dffe010 
 categories: [1001] 
 color: 4CAF50 
-rank: 52 
+rank: 51 
 price: 29900 
 author: Ask View Shop 
 ---
