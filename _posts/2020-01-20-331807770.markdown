@@ -1,13 +1,13 @@
 ---
 layout: post 
 title:  "어나더디 잔체크 잠옷 상하의 세트" 
-description: TOP.78 [▼1하락] 
-date: 2020-01-22 03:55:08 
+description: TOP.77 [▲ 1상승] 
+date: 2020-01-22 04:55:11 
 img: https://static.coupangcdn.com/image/retail/images/9737133254248-a644410a-80c0-48fd-b7b7-89a4dba6efb1.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=331807770&itemId=1060215745&vendorItemId=5537430662&traceid=V0-113-5a29e74754b2c592 
 categories: [1001] 
-color: 9E9D24 
-rank: 78 
+color: 4A148C 
+rank: 77 
 price: 19900 
 author: Ask View Shop 
 ---
