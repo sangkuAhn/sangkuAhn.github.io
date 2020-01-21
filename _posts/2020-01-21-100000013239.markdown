@@ -2,11 +2,11 @@
 layout: post 
 title:  "서울 대학로/ 연극 수상한 흥신소 1탄 @대학로" 
 description: TOP.64 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/07/08/100000013239/b7bd5ae6-c945-40b8-b2ed-3e7a70adeed2.jpg 
 linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=100000013239&traceid=V0-113-01d707479c6af12a 
 categories: [1025] 
-color: 03A9F4 
+color: 212121 
 rank: 64 
 price: 13900 
 author: Ask View Shop 

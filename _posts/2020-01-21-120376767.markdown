@@ -2,11 +2,11 @@
 layout: post 
 title:  "대박테이프 투명 박스테이프 50m 6p + 커터기 세트, 1세트" 
 description: TOP.64 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/03/29/3872015070/91ed0cd2-239e-4db0-824f-ea9ed9ad4b10.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=120376767&itemId=358285165&vendorItemId=3872015070&traceid=V0-113-29046f71fd21f6c6 
 categories: [1021] 
-color: 43A047 
+color: 9E9D24 
 rank: 64 
 price: 7900 
 author: Ask View Shop 

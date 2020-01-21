@@ -2,11 +2,11 @@
 layout: post 
 title:  "딩동펫 스크래쳐 숨숨 6단 캣타워, 혼합색상, 1세트" 
 description: TOP.49 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/08/27/4226236394/3efa8440-357d-4cce-a2dd-cff3572c4c03.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=169972093&itemId=486290944&vendorItemId=4226236394&traceid=V0-113-90e778d5f2ca13ce 
 categories: [1029] 
-color: BF360C 
+color: 7E57C2 
 rank: 49 
 price: 28030 
 author: Ask View Shop 

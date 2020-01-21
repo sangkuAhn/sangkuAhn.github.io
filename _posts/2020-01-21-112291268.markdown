@@ -2,11 +2,11 @@
 layout: post 
 title:  "미샤 4D 마스카라 7 g, 블랙, 1개" 
 description: TOP.60 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/11/12/3829413099/77646a6d-eb33-445f-b585-7099bc306310.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=112291268&itemId=337723204&vendorItemId=3829413099&traceid=V0-113-3a5e1627ab6294fb 
 categories: [1010] 
-color: BF360C 
+color: 03A9F4 
 rank: 60 
 price: 2040 
 author: Ask View Shop 

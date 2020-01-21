@@ -1,13 +1,13 @@
 ---
 layout: post 
 title:  "마케마케 깨끗한 천연펄프 키친타월 150매, 8개입, 1팩" 
-description: TOP.13 
-date: 2020-01-22 02:04:07 
+description: TOP.76 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/14804074589519-397cdf6d-5457-4c70-a83a-e75c26604cce.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=169280610&itemId=484461411&vendorItemId=4220116848&traceid=V0-113-4ae8b097aa58b84c 
-categories: [1013] 
-color: 4A148C 
-rank: 13 
+categories: [1014] 
+color: BF360C 
+rank: 76 
 price: 5750 
 author: Ask View Shop 
 ---

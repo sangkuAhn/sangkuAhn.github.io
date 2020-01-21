@@ -2,11 +2,11 @@
 layout: post 
 title:  "토이트론 아쿠아비즈 스타터세트, 혼합 색상" 
 description: TOP.61 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/01/31/3037456536/f5908955-9315-49a3-acf0-b872752a628e.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=258059312&itemId=809390372&vendorItemId=3884555190&traceid=V0-113-16fa52f52f829f11 
 categories: [1020] 
-color: 03A9F4 
+color: f44336 
 rank: 61 
 price: 16730 
 author: Ask View Shop 

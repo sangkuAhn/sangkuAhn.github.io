@@ -2,11 +2,11 @@
 layout: post 
 title:  "부산↔베트남/ 하노이/하롱베이/바방사 5일 실속패키지-289,000원부터~전신마사지+비경관광+수공예전통모" 
 description: TOP.18 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/07/08/100000016858/21e8f4b6-942b-4f73-8208-ff50f0131dbe.jpg 
 linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=100000016858&traceid=V0-113-b7029ee62d35d7dc 
 categories: [1026] 
-color: 4A148C 
+color: 9E9D24 
 rank: 18 
 price: 679000 
 author: Ask View Shop 

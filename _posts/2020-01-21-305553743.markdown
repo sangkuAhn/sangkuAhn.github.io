@@ -2,11 +2,11 @@
 layout: post 
 title:  "롯데제과 ABC초코쿠키, 38g, 4개" 
 description: TOP.12 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2019/09/23/11/9/814eb488-2001-4716-8dd2-452ad4102f4a.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=305553743&itemId=962978239&vendorItemId=5365693682&traceid=V0-113-9a7c631134976353 
 categories: [1012] 
-color: 212121 
+color: 006064 
 rank: 12 
 price: 1900 
 author: Ask View Shop 

@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "진품인증 받은 해남고구마, 1박스, 꿀고구마 10kg 한입(60g 이하)" 
+description: TOP.96 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/vendor_inventory/398b/7a074a28dfff9a8f27cf0030bdcbd93a1d434bb3110114805242a30e81e4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=63370733&itemId=215858955&vendorItemId=3934461161&traceid=V0-113-5261db1cad496e64 
+categories: [1012] 
+color: ff1744 
+rank: 96 
+price: 12990 
+author: Ask View Shop 
+---
+ 

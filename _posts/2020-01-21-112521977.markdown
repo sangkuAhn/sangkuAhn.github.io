@@ -2,11 +2,11 @@
 layout: post 
 title:  "아티나 넥베스트 유아동 부력복 25kg, 핑크" 
 description: TOP.58 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/06/07/3831061533/838afb0f-a6e4-44b7-a4fd-b997a25b8008.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=112521977&itemId=338460925&vendorItemId=3831061533&traceid=V0-113-f79ca676e7e8c47e 
 categories: [1020] 
-color: 006064 
+color: BF360C 
 rank: 58 
 price: 15130 
 author: Ask View Shop 

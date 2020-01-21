@@ -2,7 +2,7 @@
 layout: post 
 title:  "본조르노 BON 메탈 C타입 고속충전케이블 1.5 m, 실버, 2개입" 
 description: TOP.43 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/12/28/3804731743/1cf5eb3b-2a22-4721-a728-73a16559a508.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=108421356&itemId=328203451&vendorItemId=3804731743&traceid=V0-113-19348b4766c66d51 
 categories: [1016] 

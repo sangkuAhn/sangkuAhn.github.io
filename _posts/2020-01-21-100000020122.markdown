@@ -2,11 +2,11 @@
 layout: post 
 title:  "대만/ 예스폭지+야경12시出펀버스투어(+대만맛집예약/버블티/펑리수/땅콩아이스크림제공/100%출발)" 
 description: TOP.67 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/06/21/100000020122/a5f84340-cd76-4525-a8b0-054d5579db41.jpg 
 linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=100000020122&traceid=V0-113-e47c098a4fd9cc7a 
 categories: [1026] 
-color: 43A047 
+color: 4CAF50 
 rank: 67 
 price: 10900 
 author: Ask View Shop 

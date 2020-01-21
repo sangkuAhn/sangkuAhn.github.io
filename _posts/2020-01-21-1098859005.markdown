@@ -2,11 +2,11 @@
 layout: post 
 title:  "사전예약/ LG전자 2020 그램15 터치 15ZD90N-HX56K (10세대 i5-1035G7 아이스레이크 39.6cm), 미포함, SSD 256GB, 8GB" 
 description: TOP.15 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2019/12/18/11/5/00088133-07ab-47b3-988d-e57243c69bb2.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1098859005&itemId=2057748657&vendorItemId=70057022740&traceid=V0-113-2bda48aed4f070f1 
 categories: [1016] 
-color: FF6F00 
+color: f44336 
 rank: 15 
 price: 1578000 
 author: Ask View Shop 

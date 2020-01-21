@@ -2,11 +2,11 @@
 layout: post 
 title:  "쿠팡 브랜드 - 탐사 프리미엄 섬유유연제 베이비코튼, 5.5L, 1개" 
 description: TOP.22 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/96312031340654-bac6affd-8622-4e64-96cc-52dd31c6b6d6.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=185956620&itemId=531802978&vendorItemId=4385792699&traceid=V0-113-47ac0fb3ce465ef7 
 categories: [1014] 
-color: 03A9F4 
+color: ff1744 
 rank: 22 
 price: 9990 
 author: Ask View Shop 

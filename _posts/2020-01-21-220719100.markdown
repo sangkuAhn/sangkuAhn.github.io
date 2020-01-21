@@ -2,11 +2,11 @@
 layout: post 
 title:  "스포츠리서치 앤타크틱 크릴 오일 1000mg 소프트젤, 60개입, 1개" 
 description: TOP.34 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/vendor_inventory/cc15/99172fdce9ad639c63de181c8e36c075c6dbe34facac4122a1cd1afa80f7.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=220719100&itemId=688523663&vendorItemId=4765824858&traceid=V0-113-fc58011b21bc80db 
 categories: [1024] 
-color: 9E9D24 
+color: ff1744 
 rank: 34 
 price: 39990 
 author: Ask View Shop 

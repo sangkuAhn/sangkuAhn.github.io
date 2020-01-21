@@ -2,11 +2,11 @@
 layout: post 
 title:  "부산↔다낭/ ★279,000~★다낭 바나힐 3박5일 패키지-바니힐/골든브릿지/전신마사지/투본강" 
 description: TOP.2 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/03/29/100000016863/ad4ff891-3b2a-451a-b36e-eaaff02a38d5.jpg 
 linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=100000016863&traceid=V0-113-ecc1908c6cd731aa 
 categories: [1026] 
-color: 212121 
+color: 4A148C 
 rank: 2 
 price: 279000 
 author: Ask View Shop 

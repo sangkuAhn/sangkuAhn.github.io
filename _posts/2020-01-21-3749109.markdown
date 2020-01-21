@@ -2,11 +2,11 @@
 layout: post 
 title:  "한국을 빛낸 100명의 위인들, M&Kids" 
 description: TOP.28 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/vendor_inventory/1c88/f3a04b6788560a41950de01aebf88198ff3853d4bb364014e9de48d7ad10.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=3749109&itemId=18519502&vendorItemId=3055314926&traceid=V0-113-69341a21d5314486 
 categories: [1019] 
-color: 43A047 
+color: 7E57C2 
 rank: 28 
 price: 10800 
 author: Ask View Shop 

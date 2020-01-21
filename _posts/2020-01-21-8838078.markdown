@@ -2,11 +2,11 @@
 layout: post 
 title:  "BSN 신타-6 프로틴 파우더 드링크 믹스, 2.27kg, 초콜릿 밀크셰이크(Chocolate Milkshake)" 
 description: TOP.41 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/vendor_inventory/images/2019/03/20/18/5/c73778e6-ec20-42b9-bea7-3b16078d27a0.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=8838078&itemId=99053681&vendorItemId=3180840758&traceid=V0-113-febdd9c524dbe881 
 categories: [1024] 
-color: 4CAF50 
+color: ff1744 
 rank: 41 
 price: 48700 
 author: Ask View Shop 

@@ -2,11 +2,11 @@
 layout: post 
 title:  "브라운 프리미엄 저자극 엠보싱 아기물티슈 캡형, 72매, 10팩" 
 description: TOP.18 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/05/09/3066423354/7c155ada-dd8b-4e94-952c-cdbc65247150.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=170318&itemId=422229&vendorItemId=3066423354&traceid=V0-113-f4158e9c52284eac 
 categories: [1011] 
-color: FF6F00 
+color: 4A148C 
 rank: 18 
 price: 19900 
 author: Ask View Shop 

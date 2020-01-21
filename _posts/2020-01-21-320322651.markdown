@@ -1,13 +1,13 @@
 ---
 layout: post 
 title:  "쿠팡 브랜드 - 탐사 해달별 종이컵, 1000개입, 1개" 
-description: TOP.17 
-date: 2020-01-22 02:04:07 
+description: TOP.93 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/24268284243552-713805d2-fb90-497e-a7f2-3b0b988ec1ad.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=320322651&itemId=1025005985&vendorItemId=5467636541&traceid=V0-113-645283cb0765d8ed 
-categories: [1013] 
-color: 4A148C 
-rank: 17 
+categories: [1014] 
+color: 006064 
+rank: 93 
 price: 9450 
 author: Ask View Shop 
 ---

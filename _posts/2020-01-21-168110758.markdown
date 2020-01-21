@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "브리사 듀얼 고속 차량용 충전기, 골드, SPC-SC1" 
+description: TOP.76 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/04/22/4280773712/a69dadeb-c7e5-4836-9437-ad719b13b8d7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=168110758&itemId=481351111&vendorItemId=4280773712&traceid=V0-113-e6710ee5beecd956 
+categories: [1018] 
+color: 006064 
+rank: 76 
+price: 7150 
+author: Ask View Shop 
+---
+ 

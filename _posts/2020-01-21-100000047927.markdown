@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "대전/ 대전아쿠아리움 입장권(~20/01/31)" 
+description: TOP.86 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/11/27/100000047927/9907bf56-0b0e-4840-8ac2-a4050b54f98e.jpg 
+linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=100000047927&traceid=V0-113-6c4ca85ee7c22ff1 
+categories: [1025] 
+color: f44336 
+rank: 86 
+price: 14000 
+author: Ask View Shop 
+---
+ 

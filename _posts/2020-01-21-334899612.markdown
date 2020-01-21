@@ -2,11 +2,11 @@
 layout: post 
 title:  "팬콧 크림 방한 슬리퍼" 
 description: TOP.55 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2019/11/12/10/1/612aebf2-f8e5-4534-95b1-fa2d12390bf9.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=334899612&itemId=1068744015&vendorItemId=5556042241&traceid=V0-113-1abd6bd142666ef6 
 categories: [1007] 
-color: 7E57C2 
+color: FF6F00 
 rank: 55 
 price: 10210 
 author: Ask View Shop 

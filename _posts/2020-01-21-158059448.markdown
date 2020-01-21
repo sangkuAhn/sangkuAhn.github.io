@@ -2,11 +2,11 @@
 layout: post 
 title:  "핑크퐁 상어가족 멜로디 패드: 아기 상어, 스마트스터디" 
 description: TOP.66 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/vendor_inventory/5686/4b29cc93e664ec5eff51f8944cd9056b7e9eeec82ab54566245739e20fed.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=158059448&itemId=454811597&vendorItemId=4152959719&traceid=V0-113-e8f9c875b21ae499 
 categories: [1019] 
-color: ff1744 
+color: 006064 
 rank: 66 
 price: 29800 
 author: Ask View Shop 

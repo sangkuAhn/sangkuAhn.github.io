@@ -2,11 +2,11 @@
 layout: post 
 title:  "문스타 V1 게이밍 체어, 화이트" 
 description: TOP.37 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2019/06/19/11/1/eee50840-a66e-4080-8b00-8d27a4dcd70f.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=242643335&itemId=770545328&vendorItemId=4945622519&traceid=V0-113-d73c591466a9d245 
 categories: [1021] 
-color: 03A9F4 
+color: FF6F00 
 rank: 37 
 price: 95590 
 author: Ask View Shop 

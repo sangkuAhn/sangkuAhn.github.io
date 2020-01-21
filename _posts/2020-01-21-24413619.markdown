@@ -2,11 +2,11 @@
 layout: post 
 title:  "기적의 계산법 1학년 세트, 길벗스쿨" 
 description: TOP.60 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/vendor_inventory/23c7/fec8088df830ee4c924805697e9f69ff20dccd67e48a04d40be445e27008.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=24413619&itemId=76888142&vendorItemId=3191169816&traceid=V0-113-ef2a8635aa427f43 
 categories: [1019] 
-color: 03A9F4 
+color: FF6F00 
 rank: 60 
 price: 12600 
 author: Ask View Shop 

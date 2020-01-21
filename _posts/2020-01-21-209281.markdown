@@ -2,11 +2,11 @@
 layout: post 
 title:  "나우푸드 L-카르니틴 1000 mg 타블렛, 100개입, 1개" 
 description: TOP.54 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/vendor_inventory/images/2019/03/20/15/4/43d66c70-1cff-483a-987e-a27569308f57.png 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=209281&itemId=68214&vendorItemId=3180742161&traceid=V0-113-dd729448051d51e1 
 categories: [1017] 
-color: f44336 
+color: 4A148C 
 rank: 54 
 price: 28980 
 author: Ask View Shop 

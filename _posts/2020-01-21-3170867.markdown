@@ -2,11 +2,11 @@
 layout: post 
 title:  "리큐 진한겔 하이브리드 액상세제 일반용 리필, 2.1L, 4개" 
 description: TOP.32 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/10/01/3116820080/75fdd85a-3d01-41ea-b90a-fcb74a5b3a60.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=3170867&itemId=109772804&vendorItemId=3116820080&traceid=V0-113-c1bac82a05409c2a 
 categories: [1014] 
-color: 212121 
+color: 7E57C2 
 rank: 32 
 price: 15500 
 author: Ask View Shop 

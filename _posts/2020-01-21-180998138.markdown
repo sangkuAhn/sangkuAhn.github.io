@@ -2,11 +2,11 @@
 layout: post 
 title:  "해피콜 다이아몬드 포셀 3p 냄비 세트, 혼합 색상, 편수냄비 18cm + 양수냄비 20cm + 곰솥냄비 24cm" 
 description: TOP.52 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/281870639834735-cc47d626-447a-489f-a8f3-14bfeb55dc98.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=180998138&itemId=518082901&vendorItemId=4337730768&traceid=V0-113-7b892b3b516b6076 
 categories: [1013] 
-color: 43A047 
+color: ff1744 
 rank: 52 
 price: 69900 
 author: Ask View Shop 

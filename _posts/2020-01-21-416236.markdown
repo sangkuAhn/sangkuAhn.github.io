@@ -2,11 +2,11 @@
 layout: post 
 title:  "Jarrow Formulas 펜토텐산 B5 500mg 캡슐, 100개입, 1개" 
 description: TOP.37 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/vendor_inventory/images/2019/03/20/13/1/57ecf457-bb41-4ba8-9b65-63597c024cee.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=416236&itemId=1087801&vendorItemId=3179536026&traceid=V0-113-509988e73381cc4f 
 categories: [1024] 
-color: 03A9F4 
+color: BF360C 
 rank: 37 
 price: 8010 
 author: Ask View Shop 

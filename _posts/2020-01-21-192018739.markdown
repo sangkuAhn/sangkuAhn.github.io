@@ -2,11 +2,11 @@
 layout: post 
 title:  "비타할로 피쉬 콜라겐 석류맛 90포, 180g, 1개" 
 description: TOP.60 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/8106662602340-e18719e0-2a59-45e0-9a73-61d6a7b6520c.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=192018739&itemId=549223126&vendorItemId=4441221358&traceid=V0-113-bc9532118bfe5d16 
 categories: [1024] 
-color: f44336 
+color: 7E57C2 
 rank: 60 
 price: 14990 
 author: Ask View Shop 

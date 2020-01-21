@@ -2,7 +2,7 @@
 layout: post 
 title:  "보뚜 저분자 콜라겐 비타민C, 2g, 90개입" 
 description: TOP.33 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/09/02/4040120015/9b31680c-d6f5-4804-9909-8ecd9fb60f49.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=145844666&itemId=422635081&vendorItemId=4040120015&traceid=V0-113-08c318f76796250a 
 categories: [1012] 

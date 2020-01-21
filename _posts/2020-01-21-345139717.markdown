@@ -2,11 +2,11 @@
 layout: post 
 title:  "인디고키즈 "강추" 아동 주니어 공용 스키복 보드복 화이트-화이트(상.하의 각각 주문) IKJS20B01-02" 
 description: TOP.58 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/vendor_inventory/feb8/5ee2a2a9b49f51c9c4eb1e6df96ee0055c4ce4a55d9e69df28149a29638d.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=345139717&itemId=1096162930&vendorItemId=5616881073&traceid=V0-113-adf34bc6421a6331 
 categories: [1006] 
-color: 4A148C 
+color: f44336 
 rank: 58 
 price: 29900 
 author: Ask View Shop 

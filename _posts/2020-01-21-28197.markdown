@@ -1,13 +1,13 @@
 ---
 layout: post 
 title:  "나우푸드 울트라 오메가-3 500 EPA 250 DHA 소프트젤, 180개입, 1개" 
-description: TOP.28 
-date: 2020-01-22 02:04:07 
+description: TOP.79 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2017/10/12/3000033704/78c232cc-2556-40ba-87cb-d527eddd2c18.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=28197&itemId=68389&vendorItemId=3086570635&traceid=V0-113-c32949579917376c 
-categories: [1024] 
-color: 7E57C2 
-rank: 28 
+categories: [1012] 
+color: 9E9D24 
+rank: 79 
 price: 18850 
 author: Ask View Shop 
 ---

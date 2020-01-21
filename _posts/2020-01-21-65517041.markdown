@@ -2,11 +2,11 @@
 layout: post 
 title:  "큐비앤맘 플라워 스카프 손수건 세트 10p" 
 description: TOP.66 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2018/02/08/17/4/2acdd60d-bebb-4ab5-9d3c-0949ea790742.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=65517041&itemId=220987804&vendorItemId=3534883442&traceid=V0-113-93db9743f2e40f71 
 categories: [1003] 
-color: ff1744 
+color: 03A9F4 
 rank: 66 
 price: 10860 
 author: Ask View Shop 

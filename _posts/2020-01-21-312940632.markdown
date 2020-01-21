@@ -2,11 +2,11 @@
 layout: post 
 title:  "곰곰 고소한 검은콩 칼슘 두유, 190ml, 24개" 
 description: TOP.6 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2969331613870-d50f10c0-6673-4ab9-aa53-d1c69fbae28d.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=312940632&itemId=988830917&vendorItemId=5413212677&traceid=V0-113-fdcc932362cc4ad0 
 categories: [1012] 
-color: 7E57C2 
+color: 4CAF50 
 rank: 6 
 price: 8390 
 author: Ask View Shop 

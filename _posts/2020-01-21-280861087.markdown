@@ -1,13 +1,13 @@
 ---
 layout: post 
 title:  "보보 아동용 투톤 체크 오가닉 내의" 
-description: TOP.34 
-date: 2020-01-22 02:04:07 
+description: TOP.70 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2019/08/12/12/7/cee5fd13-b236-4beb-93bc-4638071b4528.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=280861087&itemId=891426514&vendorItemId=5243133569&traceid=V0-113-68addf6148a0ee17 
-categories: [1005] 
-color: 4CAF50 
-rank: 34 
+categories: [1004] 
+color: FF6F00 
+rank: 70 
 price: 8900 
 author: Ask View Shop 
 ---

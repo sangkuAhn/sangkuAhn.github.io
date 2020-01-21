@@ -2,11 +2,11 @@
 layout: post 
 title:  "기스싹 자동차연고 차 스크래치 지우개, 28g, 1개" 
 description: TOP.21 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/vendor_inventory/5119/28a7bf2627f8f9fd733d538e9a218bff51097d3f27cc1642267dee778b56.png 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=218442297&itemId=676346888&vendorItemId=4742945878&traceid=V0-113-54c2bef06fffb342 
 categories: [1018] 
-color: 006064 
+color: 4A148C 
 rank: 21 
 price: 12300 
 author: Ask View Shop 

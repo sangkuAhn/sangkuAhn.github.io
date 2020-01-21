@@ -1,13 +1,13 @@
 ---
 layout: post 
 title:  "뉴베라 멀티핏 아쿠아슈즈" 
-description: TOP.29 
-date: 2020-01-22 02:04:07 
+description: TOP.96 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2019/07/22/14/2/805d9f4b-d8cf-4629-b1d4-cf93811805d8.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=265563002&itemId=832471373&vendorItemId=5119482882&traceid=V0-113-9f8e92199494a5f6 
-categories: [1006] 
-color: 212121 
-rank: 29 
+categories: [1017] 
+color: 4A148C 
+rank: 96 
 price: 9400 
 author: Ask View Shop 
 ---

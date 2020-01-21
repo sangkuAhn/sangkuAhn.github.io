@@ -2,11 +2,11 @@
 layout: post 
 title:  "아디다스/ 정품/ 미드 컷 크루삭 (DX9091), DX9091" 
 description: TOP.47 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/vendor_inventory/ff00/a36801ab097d328a0941bc2f9e6563cd0c3f52b58a0229077c9bdc93faaa.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=160240680&itemId=460049554&vendorItemId=4166841651&traceid=V0-113-d7b512f06f01ff7d 
 categories: [1006] 
-color: f44336 
+color: 4CAF50 
 rank: 47 
 price: 16500 
 author: Ask View Shop 

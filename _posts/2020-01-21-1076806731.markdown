@@ -2,11 +2,11 @@
 layout: post 
 title:  "더예한복 여아용 한복 노란꽃구슬 머리핀 8-17" 
 description: TOP.66 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2019/12/05/19/2/148387b4-f0e0-48da-b556-79ff2bbed2f2.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1076806731&itemId=2027374730&vendorItemId=70026927869&traceid=V0-113-f2b28315893e554d 
 categories: [1004] 
-color: 006064 
+color: ff1744 
 rank: 66 
 price: 12790 
 author: Ask View Shop 

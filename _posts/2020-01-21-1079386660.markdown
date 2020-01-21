@@ -2,11 +2,11 @@
 layout: post 
 title:  "이고진 8320 스텝퍼, 블랙핑크" 
 description: TOP.46 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/08/26/4123585502/83a1cfc0-ee8a-4b6b-a89d-cb01c77db8b6.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1079386660&itemId=328050720&vendorItemId=4123585502&traceid=V0-113-a60dee33dfdd956b 
 categories: [1017] 
-color: FF6F00 
+color: 03A9F4 
 rank: 46 
 price: 52000 
 author: Ask View Shop 

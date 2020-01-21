@@ -2,11 +2,11 @@
 layout: post 
 title:  "곰곰 유기농쌀 떡뻥 세트 6개, 백미, 고구마, 단호박, 1세트" 
 description: TOP.35 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/10/30/5054451842/4ae7abc1-a875-42ff-aded-9d8624b73b4f.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=257444114&itemId=807945488&vendorItemId=5054451842&traceid=V0-113-c1c27dd7b7410cbd 
 categories: [1011] 
-color: 7E57C2 
+color: BF360C 
 rank: 35 
 price: 10490 
 author: Ask View Shop 

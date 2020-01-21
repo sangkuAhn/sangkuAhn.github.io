@@ -2,11 +2,11 @@
 layout: post 
 title:  "MANI LED (KC인증) 자동차 풋등 RGB LED바, RGB풋등+리모콘+시가잭, 1개" 
 description: TOP.29 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/vendor_inventory/95fb/3a0e753b99f696a419682808cef1154b7999f3f1502d71a61b0e466141cb.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=83523218&itemId=264984525&vendorItemId=3642726359&traceid=V0-113-740ca1e9826204c0 
 categories: [1018] 
-color: 006064 
+color: 03A9F4 
 rank: 29 
 price: 14900 
 author: Ask View Shop 

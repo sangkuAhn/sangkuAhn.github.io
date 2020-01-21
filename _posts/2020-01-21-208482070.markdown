@@ -2,11 +2,11 @@
 layout: post 
 title:  "엠지 접이식 노트북 테이블 보급형, 월넛" 
 description: TOP.17 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2019/04/12/14/4/cd0f62b6-91cb-460c-9583-b1c9d817347c.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=208482070&itemId=618655458&vendorItemId=4622889763&traceid=V0-113-71f38e709ac62727 
 categories: [1015] 
-color: ff1744 
+color: BF360C 
 rank: 17 
 price: 9900 
 author: Ask View Shop 

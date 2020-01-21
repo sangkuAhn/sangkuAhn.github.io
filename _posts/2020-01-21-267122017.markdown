@@ -2,11 +2,11 @@
 layout: post 
 title:  "엑스핏 블랙에디션 가죽 트렁크정리함 헤드레스트 포켓, 블랙에디션 가죽 트렁크포켓" 
 description: TOP.64 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/vendor_inventory/2138/8fe4ccc0840009f2bef6b75a08f5868b0a6d85a04c8a6dd1e2110bc1c004.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=267122017&itemId=837362674&vendorItemId=5131810023&traceid=V0-113-612c0c6f5fd728db 
 categories: [1018] 
-color: FF6F00 
+color: 4A148C 
 rank: 64 
 price: 19900 
 author: Ask View Shop 

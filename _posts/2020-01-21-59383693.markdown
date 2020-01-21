@@ -2,11 +2,11 @@
 layout: post 
 title:  "스피카 여성용 요가복 상하의 세트 SPA507506" 
 description: TOP.50 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/11/14/3485744586/ae64e95a-3cb1-485b-9b81-7e6c4c6ce581.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=59383693&itemId=204882913&vendorItemId=3485744586&traceid=V0-113-2840305a11cfea50 
 categories: [1006] 
-color: BF360C 
+color: 03A9F4 
 rank: 50 
 price: 21500 
 author: Ask View Shop 

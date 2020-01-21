@@ -2,11 +2,11 @@
 layout: post 
 title:  "디폼블럭8mm280개 세트&부자재 도안증정, 82_8mm디폼블럭24색(2400개)세트+부자재5종" 
 description: TOP.26 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/vendor_inventory/fdb8/d20e347d424a6a5e3033e946959d53abdb096afb245b24c8d82ab58b0005.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=306158855&itemId=965329716&vendorItemId=4976606921&traceid=V0-113-78cb0e25954db2e6 
 categories: [1020] 
-color: 9E9D24 
+color: BF360C 
 rank: 26 
 price: 19900 
 author: Ask View Shop 

@@ -2,11 +2,11 @@
 layout: post 
 title:  "쿠팡 브랜드 - 탐사 포켓용 핫팩 90g, 30개입" 
 description: TOP.29 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/14761008202509-1090bc7c-944b-4ece-b81d-1558087e18c4.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=319688139&itemId=1022563620&vendorItemId=5462981441&traceid=V0-113-0728b308828004fa 
 categories: [1014] 
-color: f44336 
+color: 212121 
 rank: 29 
 price: 8230 
 author: Ask View Shop 

@@ -2,11 +2,11 @@
 layout: post 
 title:  "쿠팡 브랜드 - 탐사 복사용지 A4 80g, 2500매" 
 description: TOP.36 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/161374574856290-ac1ade58-b53b-4f55-9eab-0124d7de6c26.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=33939970&itemId=126545710&vendorItemId=3260033119&traceid=V0-113-322798a417398205 
 categories: [1021] 
-color: 4A148C 
+color: 03A9F4 
 rank: 36 
 price: 19250 
 author: Ask View Shop 

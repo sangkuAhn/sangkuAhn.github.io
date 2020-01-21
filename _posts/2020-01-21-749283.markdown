@@ -2,11 +2,11 @@
 layout: post 
 title:  "제트스트림 3색 펜 0.38mm SXE3-400-38, 블랙, 1개" 
 description: TOP.51 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2017/02/21/3008884964/37adc4b7-852a-49f8-82a8-d9822bdb3471.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=749283&itemId=2845640&vendorItemId=3008884964&traceid=V0-113-e5da4bcfd721e44c 
 categories: [1021] 
-color: 006064 
+color: 212121 
 rank: 51 
 price: 3570 
 author: Ask View Shop 

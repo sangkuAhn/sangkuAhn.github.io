@@ -2,11 +2,11 @@
 layout: post 
 title:  "불스원 3스텝 단계별 복원 솔루션 컴파운드, 25g, 2세트" 
 description: TOP.43 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/01/29/3572952329/c43562dd-80b5-40c7-9d8a-0bedbdda312c.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=94458288&itemId=292310359&vendorItemId=3572952329&traceid=V0-113-27dfbc0831e335f0 
 categories: [1018] 
-color: FF6F00 
+color: BF360C 
 rank: 43 
 price: 6910 
 author: Ask View Shop 

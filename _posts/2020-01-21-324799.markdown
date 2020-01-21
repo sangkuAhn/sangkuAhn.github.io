@@ -2,11 +2,11 @@
 layout: post 
 title:  "Neocell 마린 콜라겐 2000mg 캡슐, 120개입" 
 description: TOP.45 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/vendor_inventory/4553/52b36c5c0e4f9e94bb3dbe7aed420a8f5e59369b80f711022538c3d11106.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=324799&itemId=765481&vendorItemId=3143451294&traceid=V0-113-914fd87a7c8d2c75 
 categories: [1012] 
-color: FF6F00 
+color: f44336 
 rank: 45 
 price: 11820 
 author: Ask View Shop 

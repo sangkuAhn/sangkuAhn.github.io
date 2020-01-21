@@ -2,11 +2,11 @@
 layout: post 
 title:  "스니커즈 믹스드 펀사이즈 버라이티 초코바, 961.1g, 1개" 
 description: TOP.46 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2019/10/02/13/5/1695e187-198c-4184-8900-343c4a5cf2fe.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=312697921&itemId=988034111&vendorItemId=5411606865&traceid=V0-113-c9dd924524715a2c 
 categories: [1012] 
-color: 7E57C2 
+color: f44336 
 rank: 46 
 price: 16900 
 author: Ask View Shop 

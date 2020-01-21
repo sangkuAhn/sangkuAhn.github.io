@@ -2,11 +2,11 @@
 layout: post 
 title:  "크리스제이 남성용 패딩부츠 방한화 GUR4329" 
 description: TOP.29 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2019/10/07/18/2/37348ed7-6297-4615-96a4-dea20121bb1e.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=315080083&itemId=1001234632&vendorItemId=5429955810&traceid=V0-113-4cc35e8886f2778a 
 categories: [1007] 
-color: 03A9F4 
+color: BF360C 
 rank: 29 
 price: 20380 
 author: Ask View Shop 

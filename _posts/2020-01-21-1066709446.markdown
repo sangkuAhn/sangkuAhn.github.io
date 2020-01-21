@@ -2,11 +2,11 @@
 layout: post 
 title:  "마도로스펫 열빙어트릿 동결건조간식 20g, 열빙어, 3개" 
 description: TOP.43 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2019/12/03/12/6/52a3cef6-7943-4906-ab60-a6ad1fc18ed7.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1066709446&itemId=2013636279&vendorItemId=70013430262&traceid=V0-113-8a0d80fc88f0b3ac 
 categories: [1029] 
-color: BF360C 
+color: 4A148C 
 rank: 43 
 price: 9000 
 author: Ask View Shop 

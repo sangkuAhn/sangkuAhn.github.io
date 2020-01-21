@@ -2,11 +2,11 @@
 layout: post 
 title:  "보솜이 액션핏 팬티형 기저귀 남아용 특대형(13~18kg), 120개입" 
 description: TOP.42 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/05/16/3843046959/51cad157-b53a-47f4-a72f-7e59f7701e0d.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=114992186&itemId=344780543&vendorItemId=3843046959&traceid=V0-113-86fda3f57a414a22 
 categories: [1011] 
-color: 03A9F4 
+color: 9E9D24 
 rank: 42 
 price: 36410 
 author: Ask View Shop 

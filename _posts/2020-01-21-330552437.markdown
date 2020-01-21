@@ -2,11 +2,11 @@
 layout: post 
 title:  "멜번 여성용 어그슬리퍼" 
 description: TOP.27 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2019/11/04/15/5/0036e511-bba7-49e5-9e52-f709f929dbea.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=330552437&itemId=1056416816&vendorItemId=5529437009&traceid=V0-113-7c38f6e501e651d7 
 categories: [1007] 
-color: 9E9D24 
+color: 212121 
 rank: 27 
 price: 11410 
 author: Ask View Shop 

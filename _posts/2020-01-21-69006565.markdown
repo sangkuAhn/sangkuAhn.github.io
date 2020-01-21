@@ -2,11 +2,11 @@
 layout: post 
 title:  "이지앤프리 이지쿡 패밀리 보관용기 홈세트 450ml, 1세트, 용기 12p + 뚜껑 그레이 6p + 뚜껑 화이트 6p" 
 description: TOP.28 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/01/28/3563392988/04e13cca-baaa-4729-9522-3e83c120a68f.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=69006565&itemId=230724745&vendorItemId=3563392988&traceid=V0-113-aca8740f3f76f92b 
 categories: [1013] 
-color: 9E9D24 
+color: 006064 
 rank: 28 
 price: 10150 
 author: Ask View Shop 

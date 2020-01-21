@@ -2,11 +2,11 @@
 layout: post 
 title:  "라뽐므 NORVIK 차렵이불 + 매트커버 + 베개커버 호텔식침구 세트, 차콜그레이" 
 description: TOP.41 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/04/12/3936710949/f59a98a6-ba4a-4f11-8a11-6f3a326db5e4.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=130146947&itemId=385398839&vendorItemId=3936710949&traceid=V0-113-2d11aa148549eda6 
 categories: [1015] 
-color: FF6F00 
+color: 212121 
 rank: 41 
 price: 59700 
 author: Ask View Shop 

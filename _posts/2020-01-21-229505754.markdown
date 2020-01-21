@@ -2,11 +2,11 @@
 layout: post 
 title:  "팰러스 프리미엄 IH 인덕션 프라이팬 2종세트, 딥블루 + 마블, 프라이팬 28cm + 궁중팬 28cm" 
 description: TOP.62 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/581236196788526-ae7fcc9d-773e-471b-837e-7bfaecb5148f.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=229505754&itemId=727764562&vendorItemId=4840443032&traceid=V0-113-d32972f008d6d645 
 categories: [1013] 
-color: f44336 
+color: 212121 
 rank: 62 
 price: 25900 
 author: Ask View Shop 

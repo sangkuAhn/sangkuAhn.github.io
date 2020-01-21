@@ -2,11 +2,11 @@
 layout: post 
 title:  "디와이진 남성용 스판 슬림일자 생지팬츠 ME111" 
 description: TOP.32 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2019/02/13/11/2/a705a697-7be5-4aef-a6c4-60b29bf84b69.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=185785851&itemId=531257055&vendorItemId=4384298672&traceid=V0-113-b704c4341d4cd082 
 categories: [1002] 
-color: f44336 
+color: 7E57C2 
 rank: 32 
 price: 21900 
 author: Ask View Shop 

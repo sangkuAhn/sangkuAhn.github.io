@@ -2,11 +2,11 @@
 layout: post 
 title:  "크라운 참쌀선과, 115g, 1개" 
 description: TOP.24 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2019/06/14/9/8/156abde1-41a2-4f05-b16a-c5e9726afd87.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=103691379&itemId=314850923&vendorItemId=4922859680&traceid=V0-113-b3de7c9dc7fc4262 
 categories: [1012] 
-color: 43A047 
+color: ff1744 
 rank: 24 
 price: 2300 
 author: Ask View Shop 

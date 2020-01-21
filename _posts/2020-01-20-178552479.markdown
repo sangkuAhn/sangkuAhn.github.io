@@ -2,11 +2,11 @@
 layout: post 
 title:  "쿠팡 브랜드 - 베이스알파 스타킹 유발 80D 4p" 
 description: TOP.93 [▼1하락] 
-date: 2020-01-22 01:55:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/7896446052003-2700a0f2-5ccf-44a4-82d5-da7b35701fe7.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=178552479&itemId=511067619&vendorItemId=4312849026&traceid=V0-113-3b04a641a59e89ef 
 categories: [1001] 
-color: ff1744 
+color: BF360C 
 rank: 93 
 price: 9410 
 author: Ask View Shop 

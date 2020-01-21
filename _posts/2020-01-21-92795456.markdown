@@ -2,11 +2,11 @@
 layout: post 
 title:  "굿데이 건강한육포 반려견간식 대용량 300g, 오리가슴살 스틱, 1개" 
 description: TOP.2 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/10/26/3707467639/2e1c4e46-4a76-4358-b2ee-3e660198456e.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=92795456&itemId=288134313&vendorItemId=3707467639&traceid=V0-113-8d718b10eef60014 
 categories: [1029] 
-color: 4A148C 
+color: 9E9D24 
 rank: 2 
 price: 9900 
 author: Ask View Shop 

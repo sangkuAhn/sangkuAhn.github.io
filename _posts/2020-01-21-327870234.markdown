@@ -2,11 +2,11 @@
 layout: post 
 title:  "터키츄 칠면조와 소고기 힘줄 본타입 S, 혼합맛, 20개" 
 description: TOP.35 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2019/10/31/20/7/bb4344f8-90a6-48a1-9778-a74d753de95d.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=327870234&itemId=1058517389&vendorItemId=5533727202&traceid=V0-113-051b51156b484dff 
 categories: [1029] 
-color: 9E9D24 
+color: FF6F00 
 rank: 35 
 price: 19800 
 author: Ask View Shop 

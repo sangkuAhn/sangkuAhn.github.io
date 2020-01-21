@@ -2,11 +2,11 @@
 layout: post 
 title:  "경주/ 경주월드 1월 자유이용권 + 눈썰매" 
 description: TOP.2 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/12/27/100000043918/a2981b23-93bd-419b-b1c8-e585253d90ee.jpg 
 linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=100000043918&traceid=V0-113-fc27b07f3d06ad06 
 categories: [1025] 
-color: 212121 
+color: 7E57C2 
 rank: 2 
 price: 21500 
 author: Ask View Shop 

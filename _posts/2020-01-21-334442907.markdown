@@ -2,11 +2,11 @@
 layout: post 
 title:  "잭앤질 3.5cm 패딩 앵클부츠 JD8979" 
 description: TOP.53 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2019/11/11/18/5/0a798b7d-dace-4105-a0c9-97bc051a894c.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=334442907&itemId=1067599583&vendorItemId=5553570541&traceid=V0-113-3f37e8bc6254653a 
 categories: [1007] 
-color: 43A047 
+color: 4CAF50 
 rank: 53 
 price: 18900 
 author: Ask View Shop 

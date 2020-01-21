@@ -2,11 +2,11 @@
 layout: post 
 title:  "충성핫팩 대용량 140g, 30개입" 
 description: TOP.48 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2017/11/23/14/5/54459d3a-be4e-489c-96c5-8ccb0ab8ace4.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=48835111&itemId=172827299&vendorItemId=3414447349&traceid=V0-113-2b88d4a37c335ba3 
 categories: [1017] 
-color: 4CAF50 
+color: 03A9F4 
 rank: 48 
 price: 16540 
 author: Ask View Shop 

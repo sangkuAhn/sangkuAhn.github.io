@@ -2,11 +2,11 @@
 layout: post 
 title:  "메르시밴드 헤어핀 선물세트 블링라벤더" 
 description: TOP.61 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/05/07/4613389993/efa4efbf-9c20-46d8-901f-2d2665bf33e2.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=210534825&itemId=614870907&vendorItemId=4613389993&traceid=V0-113-a18d37d4d1e74363 
 categories: [1004] 
-color: 03A9F4 
+color: BF360C 
 rank: 61 
 price: 9900 
 author: Ask View Shop 

@@ -1,13 +1,13 @@
 ---
 layout: post 
 title:  "갑조네 3일 깜짝특가이벤트/ 수염틸란드시아 (코코넛+이오난사) 공기정화식물 먼지먹는식물" 
-description: TOP.32 
-date: 2020-01-22 02:04:07 
+description: TOP.70 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/vendor_inventory/images/2018/01/10/17/4/102b1b54-3496-4fb1-8487-d75ca278017e.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=59500513&itemId=205213116&vendorItemId=70140069090&traceid=V0-113-14ae66c0f792a360 
-categories: [1020] 
-color: 7E57C2 
-rank: 32 
+categories: [1015] 
+color: 006064 
+rank: 70 
 price: 4900 
 author: Ask View Shop 
 ---

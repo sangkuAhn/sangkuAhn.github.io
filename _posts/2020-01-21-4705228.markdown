@@ -1,13 +1,13 @@
 ---
 layout: post 
 title:  "쿠첸 전기압력밥솥 6인용, CJS-FA0605V" 
-description: TOP.36 
-date: 2020-01-22 02:04:07 
+description: TOP.69 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/01/07/3080806971/9110ed96-a153-42e3-8bde-df49fac03f64.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4705228&itemId=21420235&vendorItemId=3080806971&traceid=V0-113-a186ffbf224d77e4 
-categories: [1013] 
-color: 212121 
-rank: 36 
+categories: [1016] 
+color: BF360C 
+rank: 69 
 price: 119800 
 author: Ask View Shop 
 ---

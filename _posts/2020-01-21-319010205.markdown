@@ -2,11 +2,11 @@
 layout: post 
 title:  "Apple 애플워치5 GPS 40mm 스포츠밴드 + 알루미늄케이스, 스페이스 그레이(MWV82KH/A), 블랙(밴드)" 
 description: TOP.41 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2019/10/16/10/3/ae5d4ee7-a8cc-4109-bed8-058f97559954.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=319010205&itemId=1019161387&vendorItemId=5457393095&traceid=V0-113-06ee044b4131c495 
 categories: [1017] 
-color: 03A9F4 
+color: ff1744 
 rank: 41 
 price: 503730 
 author: Ask View Shop 

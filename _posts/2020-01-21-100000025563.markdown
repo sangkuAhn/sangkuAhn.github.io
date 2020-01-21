@@ -2,11 +2,11 @@
 layout: post 
 title:  "부산/ 런닝맨_ 보물을 찾아라" 
 description: TOP.53 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/05/24/100000025563/716bb25c-243d-45fb-b831-1cf04c940d6f.jpg 
 linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=100000025563&traceid=V0-113-cfddff144f3c31ed 
 categories: [1025] 
-color: 4CAF50 
+color: BF360C 
 rank: 53 
 price: 13600 
 author: Ask View Shop 

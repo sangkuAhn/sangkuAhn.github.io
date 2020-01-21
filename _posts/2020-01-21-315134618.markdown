@@ -2,11 +2,11 @@
 layout: post 
 title:  "착한구두 스퀘어 삭스부츠 RE 80 0" 
 description: TOP.42 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2019/10/10/14/4/57b981ef-949b-491c-9a7e-2a19c31f9618.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=315134618&itemId=1001491861&vendorItemId=5430278707&traceid=V0-113-f31218cf3d82723b 
 categories: [1007] 
-color: 43A047 
+color: ff1744 
 rank: 42 
 price: 21150 
 author: Ask View Shop 

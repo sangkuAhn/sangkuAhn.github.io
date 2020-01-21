@@ -2,11 +2,11 @@
 layout: post 
 title:  "다우니 퍼퓸 스노우 화이트 섬유유연제 1L x 3p + 200ml 본품 세트, 1세트" 
 description: TOP.5 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2019/11/12/15/5/ecccec67-358a-4ce6-9c1c-c5f3310cbbce.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=339865348&itemId=1082331271&vendorItemId=5585362124&traceid=V0-113-dd2d33f5d806874e 
 categories: [1014] 
-color: FF6F00 
+color: 212121 
 rank: 5 
 price: 16900 
 author: Ask View Shop 

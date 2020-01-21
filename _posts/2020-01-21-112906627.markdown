@@ -2,11 +2,11 @@
 layout: post 
 title:  "클리오 프리즘 에어 하이라이터 7g, 1호 골드 쉬어, 1개" 
 description: TOP.42 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/10/24/3833142014/11a0cc51-f2ad-4928-962d-630487d98f55.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=112906627&itemId=339426711&vendorItemId=3833142014&traceid=V0-113-78b2b9cf1a1660fe 
 categories: [1010] 
-color: 43A047 
+color: ff1744 
 rank: 42 
 price: 13400 
 author: Ask View Shop 

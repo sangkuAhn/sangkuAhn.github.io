@@ -2,11 +2,11 @@
 layout: post 
 title:  "사전예약/ LG전자 2020년 그램15 노트북 15ZD90N-VX70K (10세대 i7-1065G7 39.6cm WIN미포함), 미포함, SSD 256GB, 8GB" 
 description: TOP.21 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2019/12/18/14/2/5a0be589-d405-45c5-a0e4-8e2df98c2fcd.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1098837656&itemId=2057725170&vendorItemId=70056999457&traceid=V0-113-5294f373ffe8c5bf 
 categories: [1016] 
-color: 4CAF50 
+color: 9E9D24 
 rank: 21 
 price: 1688000 
 author: Ask View Shop 

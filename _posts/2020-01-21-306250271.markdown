@@ -2,11 +2,11 @@
 layout: post 
 title:  "오르비 고로카 크로스백" 
 description: TOP.50 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2019/09/20/16/6/b9f223e4-4918-46b9-bef5-e970ea7ff6a0.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=306250271&itemId=965615307&vendorItemId=5370299625&traceid=V0-113-fbe53382d0b258f9 
 categories: [1008] 
-color: 4CAF50 
+color: BF360C 
 rank: 50 
 price: 21900 
 author: Ask View Shop 

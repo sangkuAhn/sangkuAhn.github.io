@@ -2,11 +2,11 @@
 layout: post 
 title:  "뽀롱뽀롱 뽀로로 에듀동요 사운드 카드, 아이코닉스" 
 description: TOP.22 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/vendor_inventory/1fad/ab49c345f0a1b84a8d90f4448aab595143cf0c8ec59aaf70b8b472788531.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=12822093&itemId=54032663&vendorItemId=3084598614&traceid=V0-113-53c4f83108539859 
 categories: [1020] 
-color: BF360C 
+color: 212121 
 rank: 22 
 price: 14740 
 author: Ask View Shop 

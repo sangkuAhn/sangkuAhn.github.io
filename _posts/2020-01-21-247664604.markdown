@@ -2,11 +2,11 @@
 layout: post 
 title:  "쿠팡 브랜드 - 꼬리별 강아지 츄잉껌 500g, 블루베리맛, 1개" 
 description: TOP.18 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/8367423428641-35de6e49-3728-4caa-9819-acb63ab8cfc2.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=247664604&itemId=784192551&vendorItemId=4986418455&traceid=V0-113-7a01524d3c781757 
 categories: [1029] 
-color: 212121 
+color: 03A9F4 
 rank: 18 
 price: 8690 
 author: Ask View Shop 

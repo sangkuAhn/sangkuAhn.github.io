@@ -2,11 +2,11 @@
 layout: post 
 title:  "A.H.C 바이탈 골든 콜라겐 스페셜 스킨케어세트, 1세트" 
 description: TOP.57 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/01/28/3263385840/6b18d375-6108-4bc6-8640-67e8ae9b86da.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=34204230&itemId=127588122&vendorItemId=3263385840&traceid=V0-113-3cd9f86c88bfa1ea 
 categories: [1010] 
-color: 43A047 
+color: 212121 
 rank: 57 
 price: 31410 
 author: Ask View Shop 

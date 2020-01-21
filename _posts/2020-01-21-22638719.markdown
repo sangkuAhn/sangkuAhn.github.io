@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "하이 아쿠아 슈즈 2 color" 
+description: TOP.91 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/vendor_inventory/f176/7e4ab6a90df2021f9834d99be543d71403ff99ef009de6226b3fb7bb2284.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=22638719&itemId=250185916&vendorItemId=3150669281&traceid=V0-113-1ad898f46e0ef1c9 
+categories: [1007] 
+color: 4CAF50 
+rank: 91 
+price: 14800 
+author: Ask View Shop 
+---
+ 

@@ -2,11 +2,11 @@
 layout: post 
 title:  "쿠팡 브랜드 - 탐사 응고형 고양이모래 무향, 5L, 4개" 
 description: TOP.65 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/12758497654149-7b8e7fac-9869-4229-8a48-151feef7cb36.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=329416833&itemId=1053243791&vendorItemId=5521929634&traceid=V0-113-d62ebe1824af2927 
 categories: [1029] 
-color: FF6F00 
+color: 006064 
 rank: 65 
 price: 9990 
 author: Ask View Shop 

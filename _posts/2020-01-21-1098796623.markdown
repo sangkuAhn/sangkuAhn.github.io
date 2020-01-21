@@ -2,11 +2,11 @@
 layout: post 
 title:  "사전예약/ LG전자 2020 그램14 노트북 14ZD90N-VX50K (10세대 i5-1035G7 35.5cm), 미포함, SSD 256GB, 8GB" 
 description: TOP.14 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/233331776582026-109d199f-8bfd-4dfb-a017-31d166462744.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1098796623&itemId=2057670061&vendorItemId=70056945094&traceid=V0-113-3d5eda1b6554da7f 
 categories: [1016] 
-color: f44336 
+color: 006064 
 rank: 14 
 price: 1428000 
 author: Ask View Shop 

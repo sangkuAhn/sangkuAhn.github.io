@@ -2,11 +2,11 @@
 layout: post 
 title:  "비타할로 영양제 칼슘 마그네슘 비타민D 아연, 180g, 1개" 
 description: TOP.52 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/04/30/4389289489/c2cf9201-084b-4e54-a626-765a02f0465c.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=186492996&itemId=533194134&vendorItemId=4389289489&traceid=V0-113-87c475aa0b3c45a2 
 categories: [1024] 
-color: 4A148C 
+color: 006064 
 rank: 52 
 price: 8990 
 author: Ask View Shop 

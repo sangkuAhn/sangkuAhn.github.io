@@ -2,11 +2,11 @@
 layout: post 
 title:  "프로그 에어프라이 접시형 종이호일 16 x 4.5 cm 40p, 1개" 
 description: TOP.65 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/06/27/4592139072/3d826662-b287-4a57-adde-bc656395175c.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=205963209&itemId=607009009&vendorItemId=4592139072&traceid=V0-113-aecb54297d5ed2cc 
 categories: [1013] 
-color: 212121 
+color: 4CAF50 
 rank: 65 
 price: 5900 
 author: Ask View Shop 

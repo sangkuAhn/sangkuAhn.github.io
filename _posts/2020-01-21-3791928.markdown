@@ -2,11 +2,11 @@
 layout: post 
 title:  "이나바 챠오츄르 고양이 간식 생선, 참치 + 해산물 혼합맛, 20개입" 
 description: TOP.21 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/10/22/3027330767/e04e4010-33cb-4aca-8f11-6fd481f3f70f.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=3791928&itemId=18660780&vendorItemId=3027330767&traceid=V0-113-86d147ae948f7cb5 
 categories: [1029] 
-color: 03A9F4 
+color: 4A148C 
 rank: 21 
 price: 10320 
 author: Ask View Shop 

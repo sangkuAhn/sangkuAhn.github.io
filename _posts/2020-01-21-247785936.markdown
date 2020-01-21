@@ -2,11 +2,11 @@
 layout: post 
 title:  "고마워모래야 응고형 고양이 모래 무향, 4L, 6개입" 
 description: TOP.50 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2019/06/12/15/1/77a3c1fe-19e5-4bbc-9622-84255fe94fdf.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=247785936&itemId=756432082&vendorItemId=4910267072&traceid=V0-113-6d62c240fed02e93 
 categories: [1029] 
-color: 212121 
+color: 9E9D24 
 rank: 50 
 price: 13700 
 author: Ask View Shop 

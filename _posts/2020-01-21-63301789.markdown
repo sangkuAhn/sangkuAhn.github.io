@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "닌텐도 스위치 마리오 카트8 디럭스 최신형" 
+description: TOP.97 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/retail/images/2018/01/26/18/5/7ed3faf3-107d-4105-a289-c7e8e0962633.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=63301789&itemId=215610597&vendorItemId=3519201755&traceid=V0-113-6d6446fd67cddac1 
+categories: [1020] 
+color: ff1744 
+rank: 97 
+price: 55220 
+author: Ask View Shop 
+---
+ 

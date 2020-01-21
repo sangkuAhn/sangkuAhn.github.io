@@ -2,11 +2,11 @@
 layout: post 
 title:  "쿠팡 브랜드 - 코멧 메탈 선반 5단 740 x 340 x 1500mm, 화이트" 
 description: TOP.48 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/10/30/4489318816/543f524f-aacd-4b0c-9203-dacd0a5d62b8.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1130561907&itemId=567371884&vendorItemId=4489318816&traceid=V0-113-1e2a3d07a2b782a8 
 categories: [1015] 
-color: 4A148C 
+color: 212121 
 rank: 48 
 price: 29990 
 author: Ask View Shop 

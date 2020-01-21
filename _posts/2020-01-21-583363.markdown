@@ -2,11 +2,11 @@
 layout: post 
 title:  "Now Foods 오가닉 호호바 오일, 118ml, 1개" 
 description: TOP.60 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/vendor_inventory/images/2019/03/20/14/1/45c959b5-d665-4052-8815-c33469f9a843.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=583363&itemId=2055687&vendorItemId=3180787928&traceid=V0-113-cbf344ee0cab44eb 
 categories: [1014] 
-color: 03A9F4 
+color: 4CAF50 
 rank: 60 
 price: 8100 
 author: Ask View Shop 

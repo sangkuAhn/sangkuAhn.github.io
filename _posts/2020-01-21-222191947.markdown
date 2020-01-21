@@ -2,11 +2,11 @@
 layout: post 
 title:  "쿠팡 브랜드 - 코멧 홈 헤링본 호텔 수건 200g 40수 코마사, 차콜 그레이, 5개" 
 description: TOP.43 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/14290338678619-669d3c62-d46b-416f-933e-b809929ba7f5.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=222191947&itemId=695728583&vendorItemId=4778410250&traceid=V0-113-dc64e3702570b012 
 categories: [1015] 
-color: BF360C 
+color: f44336 
 rank: 43 
 price: 15490 
 author: Ask View Shop 

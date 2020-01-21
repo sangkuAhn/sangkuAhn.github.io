@@ -2,11 +2,11 @@
 layout: post 
 title:  "머리 좋아지는 놀이 100 : 관찰력 그림 찾기, 기탄출판" 
 description: TOP.58 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/vendor_inventory/18a4/66f1797d7d3fc17df24ecada4e9c959c8054af82f5f28e96b02094076fba.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4510264&itemId=20985510&vendorItemId=3021397305&traceid=V0-113-ec47e155480c7762 
 categories: [1019] 
-color: 9E9D24 
+color: f44336 
 rank: 58 
 price: 5850 
 author: Ask View Shop 

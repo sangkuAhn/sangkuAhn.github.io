@@ -2,11 +2,11 @@
 layout: post 
 title:  "민트코코아 남성용 인조밍크 라이트닝체크 수면잠옷 상하의 세트" 
 description: TOP.49 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2019/10/24/17/7/f784ffc3-b19f-4ecc-99d2-254b4601576e.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=327134230&itemId=1046748438&vendorItemId=5509746924&traceid=V0-113-60e97cba31e8486a 
 categories: [1002] 
-color: 03A9F4 
+color: 7E57C2 
 rank: 49 
 price: 15900 
 author: Ask View Shop 

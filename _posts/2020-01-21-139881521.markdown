@@ -2,11 +2,11 @@
 layout: post 
 title:  "블루밍비데 방수비데, ICON-411AJ" 
 description: TOP.67 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/01/08/3998086366/226315ea-50fd-40f5-ba5f-dd0aa185ae93.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=139881521&itemId=407826190&vendorItemId=3998086366&traceid=V0-113-da34897e1d650db3 
 categories: [1015] 
-color: 4A148C 
+color: 006064 
 rank: 67 
 price: 135000 
 author: Ask View Shop 

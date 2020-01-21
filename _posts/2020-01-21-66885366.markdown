@@ -2,11 +2,11 @@
 layout: post 
 title:  "쿠팡 브랜드 - 탐사 종이컵 330ml, 100개입, 1개" 
 description: TOP.59 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/161710872476506-ca2c3bcd-c9a5-4766-a6cd-f81290e2fd8d.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=66885366&itemId=224514735&vendorItemId=3545458929&traceid=V0-113-1d026958cf47755b 
 categories: [1013] 
-color: FF6F00 
+color: 4CAF50 
 rank: 59 
 price: 6890 
 author: Ask View Shop 

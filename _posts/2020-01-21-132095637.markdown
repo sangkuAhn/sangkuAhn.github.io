@@ -2,11 +2,11 @@
 layout: post 
 title:  "구달 청귤 비타C 잡티세럼 더블에디션 기획세트, 1세트" 
 description: TOP.49 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2018/09/07/17/3/f54afc27-b6e0-4916-a18a-ab03fcad426c.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=132095637&itemId=388530362&vendorItemId=3945058722&traceid=V0-113-094b6a5ce126e741 
 categories: [1010] 
-color: 43A047 
+color: BF360C 
 rank: 49 
 price: 23740 
 author: Ask View Shop 

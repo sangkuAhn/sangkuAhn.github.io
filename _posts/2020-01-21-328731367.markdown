@@ -2,11 +2,11 @@
 layout: post 
 title:  "리빙인그레이 두꺼운 10cm 자가발열 기절 매트 고밀도 램스울 토퍼, 그레이" 
 description: TOP.57 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/vendor_inventory/702e/a3257e59663e31b8edb3edf0ee41f567cf777952dfd4665c48d6c705c8bd.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=328731367&itemId=1051273760&vendorItemId=5518120641&traceid=V0-113-0dd11bd3f378f6b4 
 categories: [1015] 
-color: 006064 
+color: 212121 
 rank: 57 
 price: 27900 
 author: Ask View Shop 

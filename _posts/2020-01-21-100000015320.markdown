@@ -2,11 +2,11 @@
 layout: post 
 title:  "부산출발↔러시아/ 블라디보스톡 3일/4일- 349,000원부터~ 에어부산 직항/주3회운항" 
 description: TOP.43 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/02/08/100000015320/9bb401c1-86e4-400d-a65d-91b22fbd822a.jpg 
 linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=100000015320&traceid=V0-113-5307c733a541ea5a 
 categories: [1026] 
-color: 4A148C 
+color: f44336 
 rank: 43 
 price: 349000 
 author: Ask View Shop 

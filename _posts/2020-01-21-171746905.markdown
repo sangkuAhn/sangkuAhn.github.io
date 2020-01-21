@@ -2,11 +2,11 @@
 layout: post 
 title:  "미니특공대 특공엑스웨폰 볼트 듀얼변신건, 혼합 색상" 
 description: TOP.64 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/02/01/4242716598/db5f5e9b-b459-4972-9fa2-b2e7d90bcff4.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=171746905&itemId=491015880&vendorItemId=4242716598&traceid=V0-113-f3c806a1c6850cb8 
 categories: [1011] 
-color: 006064 
+color: 4CAF50 
 rank: 64 
 price: 5900 
 author: Ask View Shop 

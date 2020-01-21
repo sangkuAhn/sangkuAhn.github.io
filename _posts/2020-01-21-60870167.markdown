@@ -2,7 +2,7 @@
 layout: post 
 title:  "재미존 타임리미트 기억력 보드게임, 혼합 색상" 
 description: TOP.19 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/03/09/3494742928/908fc486-f646-4583-a671-ee678ffb2969.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=60870167&itemId=208734419&vendorItemId=3494742928&traceid=V0-113-1e261d85729a80cc 
 categories: [1020] 

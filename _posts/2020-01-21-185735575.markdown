@@ -2,11 +2,11 @@
 layout: post 
 title:  "아임리빙 중량업 블랙라인 호텔용 마이크로다운필 경추형 베개솜 2p, 화이트" 
 description: TOP.66 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/06/28/4383668135/e72b4d82-8669-4e1d-b975-6f7cf90541a8.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=185735575&itemId=531090208&vendorItemId=4383668135&traceid=V0-113-959770a7bf75e862 
 categories: [1015] 
-color: 9E9D24 
+color: 4A148C 
 rank: 66 
 price: 16900 
 author: Ask View Shop 

@@ -2,11 +2,11 @@
 layout: post 
 title:  "사전예약/ LG전자 그램 2020년 다크실버 14ZD90N-VX5BK (10세대 i5-1035G7 35.5cm WIN미포함 Iris Plus Graphics), 미포함, SSD 256GB, 8GB" 
 description: TOP.8 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2019/12/18/16/3/329e09c0-dd05-457d-b004-03c63e0864cd.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1099170997&itemId=2058171609&vendorItemId=70057439672&traceid=V0-113-e549735853f97ef4 
 categories: [1016] 
-color: 4CAF50 
+color: 212121 
 rank: 8 
 price: 1428000 
 author: Ask View Shop 

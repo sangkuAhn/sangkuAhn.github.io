@@ -2,11 +2,11 @@
 layout: post 
 title:  "용인/ 캐리비안베이 종일이용권(락커제외)(20/1/1~3/8)" 
 description: TOP.41 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/12/30/100000056123/7805e24e-e07b-4e10-9534-a9859843a021.jpg 
 linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=100000056123&traceid=V0-113-5fc5ab44da28a4be 
 categories: [1025] 
-color: 4CAF50 
+color: ff1744 
 rank: 41 
 price: 13000 
 author: Ask View Shop 

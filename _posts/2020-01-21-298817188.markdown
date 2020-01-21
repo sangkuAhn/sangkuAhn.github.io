@@ -2,11 +2,11 @@
 layout: post 
 title:  "한눈에 가계부(2020), 솜씨컴퍼니" 
 description: TOP.62 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/vendor_inventory/5571/ddae06e9ad4d3a12e40508264fa5943c2184da0a253d543ee9a21caa6fb8.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=298817188&itemId=941157762&vendorItemId=5353293371&traceid=V0-113-76e9b6c0c887a6ae 
 categories: [1019] 
-color: 4A148C 
+color: 7E57C2 
 rank: 62 
 price: 8820 
 author: Ask View Shop 

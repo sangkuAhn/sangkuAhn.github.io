@@ -2,11 +2,11 @@
 layout: post 
 title:  "하기스 2020 매직팬티 컴포트 팬티형 기저귀 여아용 특대형 5단계(13~18kg), 116매" 
 description: TOP.45 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/4087738430181-afac3344-f9fd-4d91-9d5c-13b869e0cd9c.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=286400341&itemId=908094254&vendorItemId=5273743425&traceid=V0-113-7b975b6da21b93f4 
 categories: [1011] 
-color: 212121 
+color: 4CAF50 
 rank: 45 
 price: 49970 
 author: Ask View Shop 

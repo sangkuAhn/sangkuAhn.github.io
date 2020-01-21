@@ -2,11 +2,11 @@
 layout: post 
 title:  "단골언니 여성 베이직 로퍼 모니카 여성로퍼" 
 description: TOP.38 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2019/07/26/10/3/e410406a-8445-404a-91d5-6a1e5bd1acf1.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=187376042&itemId=535516286&vendorItemId=5136843859&traceid=V0-113-73229bb294d6a484 
 categories: [1007] 
-color: f44336 
+color: 03A9F4 
 rank: 38 
 price: 24770 
 author: Ask View Shop 

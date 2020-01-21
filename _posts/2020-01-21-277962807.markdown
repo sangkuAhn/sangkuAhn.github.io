@@ -2,11 +2,11 @@
 layout: post 
 title:  "쿠팡 브랜드 - 비타할로 엠보싱 순면 화장솜, 800매, 1개" 
 description: TOP.22 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/160869829063946-848566a2-9b26-476e-b478-f264c99ef9eb.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=277962807&itemId=880857120&vendorItemId=5221134875&traceid=V0-113-fe8dbe3f0e01765c 
 categories: [1010] 
-color: ff1744 
+color: 4CAF50 
 rank: 22 
 price: 6990 
 author: Ask View Shop 

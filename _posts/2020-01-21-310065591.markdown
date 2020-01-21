@@ -2,11 +2,11 @@
 layout: post 
 title:  "비버리힐스폴로클럽 남성용 드로즈 팬티 7종 세트" 
 description: TOP.19 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2019/10/01/10/5/ceda16c9-5440-4470-b130-688dc81cc89e.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=310065591&itemId=977435244&vendorItemId=5392567367&traceid=V0-113-ec18f4660b303af8 
 categories: [1002] 
-color: f44336 
+color: 7E57C2 
 rank: 19 
 price: 25900 
 author: Ask View Shop 

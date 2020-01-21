@@ -2,11 +2,11 @@
 layout: post 
 title:  "프롬앤투 황금전통 용돈봉투세트 FB222 6종, 혼합 색상, 1세트" 
 description: TOP.45 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2018/11/21/10/3/fce704bb-dbc7-48f6-a440-9a6cdf742e2a.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=159710603&itemId=458468004&vendorItemId=5238045373&traceid=V0-113-106e0f8c6b3bd370 
 categories: [1021] 
-color: 212121 
+color: 7E57C2 
 rank: 45 
 price: 10500 
 author: Ask View Shop 

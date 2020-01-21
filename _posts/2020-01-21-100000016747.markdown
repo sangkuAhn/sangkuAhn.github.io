@@ -2,11 +2,11 @@
 layout: post 
 title:  "필리핀/ 인천/대구/부산出/ ★초대박특가★ 세부 세미팩 가비리조트 룸업그레이드+마사지업글" 
 description: TOP.40 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/11/13/100000016747/2a99e324-9608-4853-af3c-8c6e8c866dea.jpg 
 linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=100000016747&traceid=V0-113-bf0672aa057cacc3 
 categories: [1026] 
-color: 212121 
+color: 9E9D24 
 rank: 40 
 price: 609000 
 author: Ask View Shop 

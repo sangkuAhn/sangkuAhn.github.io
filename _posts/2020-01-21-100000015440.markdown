@@ -2,11 +2,11 @@
 layout: post 
 title:  "오사카/ 이스타항공권/자유 오사카 3일/4일" 
 description: TOP.35 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/02/08/100000015440/c77bc468-5506-4d8a-8d4a-18658587bd5b.jpg 
 linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=100000015440&traceid=V0-113-1559d16d8d0c93d9 
 categories: [1026] 
-color: f44336 
+color: 03A9F4 
 rank: 35 
 price: 185000 
 author: Ask View Shop 

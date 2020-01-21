@@ -2,11 +2,11 @@
 layout: post 
 title:  "워더미 데일리 42pcs 귀걸이 세트 V16" 
 description: TOP.63 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/vendor_inventory/images/2019/01/12/1/2/d1022608-e6c2-4142-a17e-4cf3f6985321.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=176041524&itemId=503415928&vendorItemId=4286289716&traceid=V0-113-71bc50d088e913f0 
 categories: [1008] 
-color: ff1744 
+color: FF6F00 
 rank: 63 
 price: 3900 
 author: Ask View Shop 

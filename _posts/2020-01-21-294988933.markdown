@@ -2,11 +2,11 @@
 layout: post 
 title:  "베이직하우스 남성용 순면라운드 반팔티 오리지널팩 3p HUTS0101" 
 description: TOP.40 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2019/09/04/17/7/e01cbdb5-f5ce-4a4e-84ef-7eeddaf8ac55.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=294988933&itemId=930459509&vendorItemId=5308206720&traceid=V0-113-206a1f258ecd5d33 
 categories: [1002] 
-color: f44336 
+color: 43A047 
 rank: 40 
 price: 15900 
 author: Ask View Shop 

@@ -2,11 +2,11 @@
 layout: post 
 title:  "정원삼 6년근 고려홍삼정 365스틱 진 + 쇼핑백, 10g, 30개입" 
 description: TOP.63 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/08/06/4282088123/dabcccbc-e556-48d4-8bee-8949f4be7112.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=175635457&itemId=502285325&vendorItemId=4282088123&traceid=V0-113-8522eaa52a7ca127 
 categories: [1024] 
-color: 7E57C2 
+color: BF360C 
 rank: 63 
 price: 25410 
 author: Ask View Shop 

@@ -1,13 +1,13 @@
 ---
 layout: post 
 title:  "모나미 모니주 샤프식 색연필 남, 12색, 2개" 
-description: TOP.17 
-date: 2020-01-22 02:04:07 
+description: TOP.80 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/02/01/3524086364/76efd68a-6eb5-4bbb-981d-99b6e55404fa.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=63852440&itemId=217107084&vendorItemId=3524086364&traceid=V0-113-f16e3f20d34e6d87 
-categories: [1020] 
-color: 03A9F4 
-rank: 17 
+categories: [1011] 
+color: ff1744 
+rank: 80 
 price: 3870 
 author: Ask View Shop 
 ---

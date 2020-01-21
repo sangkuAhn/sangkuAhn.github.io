@@ -2,11 +2,11 @@
 layout: post 
 title:  "프로이스 AB휠 복근운동 기구, 블랙" 
 description: TOP.27 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2019/07/04/17/1/05e6871c-a6e2-49b9-b6b4-b3ab825e5dca.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=253182708&itemId=796861770&vendorItemId=5023455819&traceid=V0-113-193d88c0ec742b4b 
 categories: [1017] 
-color: 03A9F4 
+color: 4CAF50 
 rank: 27 
 price: 11400 
 author: Ask View Shop 

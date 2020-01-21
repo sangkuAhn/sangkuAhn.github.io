@@ -2,11 +2,11 @@
 layout: post 
 title:  "꼬북칩 미니, 30g, 12개" 
 description: TOP.20 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2019/09/26/15/4/13747921-ecfa-4ac3-9fa0-7f36e0a4c0aa.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=307204068&itemId=968615481&vendorItemId=5376368676&traceid=V0-113-e2fa6f7eae17ee09 
 categories: [1012] 
-color: 9E9D24 
+color: 4CAF50 
 rank: 20 
 price: 6400 
 author: Ask View Shop 

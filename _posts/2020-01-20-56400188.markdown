@@ -2,11 +2,11 @@
 layout: post 
 title:  "애드에딧 바비 화장품 파우치" 
 description: TOP.32 [▼1하락] 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2019/10/29/16/0/a3650f75-b0f9-4d4d-9f61-06793f692d62.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=56400188&itemId=195210906&vendorItemId=5510315565&traceid=V0-113-1c1bd79081a8c98f 
 categories: [1001] 
-color: f44336 
+color: 006064 
 rank: 32 
 price: 7550 
 author: Ask View Shop 

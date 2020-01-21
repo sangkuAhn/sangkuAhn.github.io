@@ -2,11 +2,11 @@
 layout: post 
 title:  "비타할로 진심을 담은 프리미엄 석류즙 100%, 70ml, 30개입" 
 description: TOP.38 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/03/12/4385316644/e8e3be62-9fd4-4fb6-bdb6-1405ecf019ce.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=185907601&itemId=531634700&vendorItemId=4385316644&traceid=V0-113-94e54a3f6ab0054a 
 categories: [1024] 
-color: 43A047 
+color: 9E9D24 
 rank: 38 
 price: 11490 
 author: Ask View Shop 

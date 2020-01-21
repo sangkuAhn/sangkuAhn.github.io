@@ -2,11 +2,11 @@
 layout: post 
 title:  "골든래빗 D 베이비볼 하트 긴팔 레깅수트" 
 description: TOP.60 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2019/02/13/19/3/a9b14170-eef3-41ee-afc6-5c0e681b31c1.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=188262420&itemId=537697352&vendorItemId=4404171531&traceid=V0-113-dca3daff8b4cd42a 
 categories: [1003] 
-color: 03A9F4 
+color: 006064 
 rank: 60 
 price: 25900 
 author: Ask View Shop 

@@ -2,11 +2,11 @@
 layout: post 
 title:  "위드앤올 퀵차지 퀄컴3.0 고속충전 올인원 차량용 블루투스 무선 오디오 카팩, WNA-900BF" 
 description: TOP.33 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2019/04/09/18/3/612184fc-604f-443f-8f2e-a9001b438759.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=169706279&itemId=485658326&vendorItemId=4611809536&traceid=V0-113-a311eaf1f26d3f60 
 categories: [1018] 
-color: 03A9F4 
+color: 4A148C 
 rank: 33 
 price: 27080 
 author: Ask View Shop 

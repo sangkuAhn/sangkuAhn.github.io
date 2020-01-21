@@ -2,11 +2,11 @@
 layout: post 
 title:  "인트래블 뉴프리미엄 여행용 파우치 7종 풀세트 NO1543" 
 description: TOP.19 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2019/04/07/0/8/5679da46-6227-4220-ae97-aa9a39793102.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=239049547&itemId=611011610&vendorItemId=4603296738&traceid=V0-113-63df096cb9dee5c4 
 categories: [1008] 
-color: 43A047 
+color: 7E57C2 
 rank: 19 
 price: 11070 
 author: Ask View Shop 

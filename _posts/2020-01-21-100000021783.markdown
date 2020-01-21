@@ -2,11 +2,11 @@
 layout: post 
 title:  "부산出/ ★단독특가★ 코타키나발루 호핑팩/반딧불팩 3박5일 PKG  299,000원부터~" 
 description: TOP.15 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/04/02/100000021783/628f3a9f-8c09-4292-8eab-af33eceb9a05.jpg 
 linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=100000021783&traceid=V0-113-9f126b1e7ff61930 
 categories: [1026] 
-color: ff1744 
+color: 212121 
 rank: 15 
 price: 749000 
 author: Ask View Shop 

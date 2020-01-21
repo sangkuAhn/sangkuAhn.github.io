@@ -2,11 +2,11 @@
 layout: post 
 title:  "나이키 더플백 정품 브라질리아 미디엄 방수 가방 나이키가방 나이키더플 60L" 
 description: TOP.55 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/vendor_inventory/43fe/5217c65654caae73fbb3413e8e568e94f35b2b0d433ec6b1f5447818b30f.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=246609967&itemId=781299186&vendorItemId=5373675320&traceid=V0-113-55df8ce317cc43cc 
 categories: [1006] 
-color: FF6F00 
+color: ff1744 
 rank: 55 
 price: 43900 
 author: Ask View Shop 

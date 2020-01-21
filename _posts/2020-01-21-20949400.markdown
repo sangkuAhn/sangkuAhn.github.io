@@ -2,11 +2,11 @@
 layout: post 
 title:  "모가비 가죽 트렁크 정리함, MOG-017" 
 description: TOP.18 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/04/01/3139176726/dab1bcbf-552d-4609-92c3-9ba6b97d39fe.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=20949400&itemId=81782431&vendorItemId=3139176726&traceid=V0-113-39729d2413e6487b 
 categories: [1018] 
-color: 4A148C 
+color: ff1744 
 rank: 18 
 price: 15880 
 author: Ask View Shop 

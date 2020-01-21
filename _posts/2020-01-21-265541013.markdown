@@ -2,11 +2,11 @@
 layout: post 
 title:  "인트래블 낙타에어목베개 + 안대 + 귀마개 세트, 그레이" 
 description: TOP.44 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2019/07/19/20/6/fde81d27-40b1-4086-a2da-800866b05edb.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=265541013&itemId=832407038&vendorItemId=5119324932&traceid=V0-113-5302ed8393523512 
 categories: [1015] 
-color: 7E57C2 
+color: ff1744 
 rank: 44 
 price: 10450 
 author: Ask View Shop 

@@ -2,11 +2,11 @@
 layout: post 
 title:  "에뛰드하우스 플레이컬러아이즈 아이섀도팔레트, 메이플로드, 1개" 
 description: TOP.17 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2019/09/23/10/0/4ba8eab9-fd80-4889-858e-f9f3f9089e20.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=306576019&itemId=966576595&vendorItemId=5372469081&traceid=V0-113-65fd39ab8c33a87b 
 categories: [1010] 
-color: FF6F00 
+color: 006064 
 rank: 17 
 price: 15040 
 author: Ask View Shop 

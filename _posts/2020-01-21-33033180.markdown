@@ -2,11 +2,11 @@
 layout: post 
 title:  "예닮 여아용 한복 속치마" 
 description: TOP.16 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/12/18/3253148397/68382bb5-6b36-410b-8298-e439d55ec5f8.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=33033180&itemId=124240917&vendorItemId=3253148404&traceid=V0-113-68947ed3e6082fb3 
 categories: [1004] 
-color: 03A9F4 
+color: 212121 
 rank: 16 
 price: 16900 
 author: Ask View Shop 

@@ -1,13 +1,13 @@
 ---
 layout: post 
 title:  "프로스펙스 아동용 비바귀쫑끗 양말 5족 세트" 
-description: TOP.47 
-date: 2020-01-22 02:04:07 
+description: TOP.90 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/09/09/4016384916/931bbaf2-1cbd-4bfc-84f3-afdd72929180.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=142317201&itemId=414061039&vendorItemId=4016384916&traceid=V0-113-2b831b51bb96aebe 
-categories: [1005] 
-color: ff1744 
-rank: 47 
+categories: [1004] 
+color: 4CAF50 
+rank: 90 
 price: 6760 
 author: Ask View Shop 
 ---

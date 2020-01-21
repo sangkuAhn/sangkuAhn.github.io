@@ -2,11 +2,11 @@
 layout: post 
 title:  "야아부르니 수제간식 대용량팩, 오리날개, 1개" 
 description: TOP.66 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/10/11/5413284253/55a0c9f7-9974-4f47-9024-213ed8a55ffe.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=312953655&itemId=988879416&vendorItemId=5413284253&traceid=V0-113-a040aa434d547ca2 
 categories: [1029] 
-color: ff1744 
+color: 006064 
 rank: 66 
 price: 9900 
 author: Ask View Shop 

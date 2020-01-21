@@ -2,11 +2,11 @@
 layout: post 
 title:  "오사카/ 당일발송/ 오사카 난카이 라피트 편도/왕복권 E-Ticket(일본 수령)" 
 description: TOP.36 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/10/17/100000042760/1e1a9fcc-ec32-465c-aab9-e38fc222894c.jpg 
 linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=100000042760&traceid=V0-113-679abeec60810d0f 
 categories: [1026] 
-color: 212121 
+color: ff1744 
 rank: 36 
 price: 12900 
 author: Ask View Shop 

@@ -2,11 +2,11 @@
 layout: post 
 title:  "다낭/  뱀부항공 신규 취항 특가! 4성급 호텔 연박+반나절 자유시간+총 290상당 특전 포함" 
 description: TOP.26 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/10/29/100000044288/5942bfa8-3fd4-4f65-8139-7ec43b01b131.jpg 
 linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=100000044288&traceid=V0-113-4d5d88d0fb904999 
 categories: [1026] 
-color: 212121 
+color: 4A148C 
 rank: 26 
 price: 579000 
 author: Ask View Shop 

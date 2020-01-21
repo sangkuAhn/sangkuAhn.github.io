@@ -2,11 +2,11 @@
 layout: post 
 title:  "도도파트너스 이중쿠션 통굽 슬리퍼 베이직 중급 소프트" 
 description: TOP.7 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/05/17/3892193382/c24ef2ee-6bf7-412e-a913-269a2a6ca95a.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=124088865&itemId=367360056&vendorItemId=3892193382&traceid=V0-113-f28c92fe52aaf463 
 categories: [1007] 
-color: 7E57C2 
+color: ff1744 
 rank: 7 
 price: 12500 
 author: Ask View Shop 

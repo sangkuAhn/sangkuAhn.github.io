@@ -2,11 +2,11 @@
 layout: post 
 title:  "아쿠아티카 여성용 워터레깅스" 
 description: TOP.64 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/01/29/3518504414/9f7bbc93-ef5d-4ed4-9fcd-39fa6cc69fa3.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=63231315&itemId=215384122&vendorItemId=3518504414&traceid=V0-113-1c2e86d3be246699 
 categories: [1006] 
-color: 43A047 
+color: f44336 
 rank: 64 
 price: 14900 
 author: Ask View Shop 

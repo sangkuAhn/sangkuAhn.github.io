@@ -2,11 +2,11 @@
 layout: post 
 title:  "핸날 데일리머리끈 대용량 4종세트" 
 description: TOP.41 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2019/04/04/20/6/b7dce8e9-8385-43ff-ae92-2f0836e1f205.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=206723078&itemId=610726311&vendorItemId=4602463028&traceid=V0-113-352a0be5a6233e40 
 categories: [1004] 
-color: 4CAF50 
+color: 212121 
 rank: 41 
 price: 8600 
 author: Ask View Shop 

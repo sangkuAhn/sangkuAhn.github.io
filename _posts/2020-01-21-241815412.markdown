@@ -2,11 +2,11 @@
 layout: post 
 title:  "에코컴퍼니 스테인레스 드라이 헤드 홀더 + 코드 거치대, 단일 색상, 1개" 
 description: TOP.46 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/370089509468363-cd6dfd89-f85d-49d7-98a3-0efca68ebb8d.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=241815412&itemId=768389553&vendorItemId=4940023804&traceid=V0-113-3b098fe651691dc3 
 categories: [1015] 
-color: ff1744 
+color: BF360C 
 rank: 46 
 price: 9160 
 author: Ask View Shop 

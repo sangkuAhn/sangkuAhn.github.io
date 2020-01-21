@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "기적의 파닉스 세트 전3권, 길벗스쿨" 
+description: TOP.71 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/vendor_inventory/5f7c/09408d36465252d537d802430eb727ad56ddd5950e028be4c84f7dc7f1ab.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7264273&itemId=32098330&vendorItemId=3061630694&traceid=V0-113-734f7200d7f74d75 
+categories: [1019] 
+color: BF360C 
+rank: 71 
+price: 34200 
+author: Ask View Shop 
+---
+ 

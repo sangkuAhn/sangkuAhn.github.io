@@ -2,11 +2,11 @@
 layout: post 
 title:  "Apple 애플워치3 GPS 38mm, 실버 알루미늄 케이스+화이트 스포츠 밴드(MTEY2KH/A)" 
 description: TOP.34 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/03/14/4222443123/ad1c1829-be3b-476c-acae-bfdf7998a67b.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=169554834&itemId=485089008&vendorItemId=4222443123&traceid=V0-113-c39fcd273ac6612c 
 categories: [1017] 
-color: 9E9D24 
+color: 7E57C2 
 rank: 34 
 price: 251000 
 author: Ask View Shop 

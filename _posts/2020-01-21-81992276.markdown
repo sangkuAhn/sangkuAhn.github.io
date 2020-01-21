@@ -2,7 +2,7 @@
 layout: post 
 title:  "키친아트 본 핑크 후라이팬 5종 세트" 
 description: TOP.18 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/08/21/3104869519/eb324eea-743f-4031-b1f9-fe9c1089258e.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=81992276&itemId=65827497&vendorItemId=3104869519&traceid=V0-113-4bd2326a40847f0c 
 categories: [1013] 

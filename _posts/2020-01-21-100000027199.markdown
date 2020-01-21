@@ -2,11 +2,11 @@
 layout: post 
 title:  "나트랑/ 지금까지 이런 나트랑 /상품은 없었다! 빈펄랜드+1일자유+레이트체크아웃 419,000원~" 
 description: TOP.16 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/11/12/100000027199/6540f8b3-2943-4f05-ae8f-52a6cae5667b.jpg 
 linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=100000027199&traceid=V0-113-c2549256f5893ff9 
 categories: [1026] 
-color: 212121 
+color: BF360C 
 rank: 16 
 price: 649000 
 author: Ask View Shop 

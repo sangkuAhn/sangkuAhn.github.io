@@ -2,11 +2,11 @@
 layout: post 
 title:  "Now Foods 실리마린 밀크 시슬 추출물 300mg 베지 캡슐, 200개입" 
 description: TOP.4 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/vendor_inventory/images/2019/03/13/18/2/695642b7-c951-4cb8-b3bc-800cfdc7a793.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2555807&itemId=2076854&vendorItemId=3180741512&traceid=V0-113-98169863fa1e151b 
 categories: [1012] 
-color: ff1744 
+color: 03A9F4 
 rank: 4 
 price: 18540 
 author: Ask View Shop 

@@ -2,11 +2,11 @@
 layout: post 
 title:  "파티복닷컴 풍선모음 세트, 로즈골드, 1세트" 
 description: TOP.25 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2019/04/09/19/0/2118384b-d9ef-49c6-a5a3-853d8ecdd074.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=209780755&itemId=624060127&vendorItemId=4638912911&traceid=V0-113-8092a0af69df4b80 
 categories: [1021] 
-color: 7E57C2 
+color: ff1744 
 rank: 25 
 price: 6000 
 author: Ask View Shop 

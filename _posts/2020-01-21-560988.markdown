@@ -2,11 +2,11 @@
 layout: post 
 title:  "코리아보드게임즈 루미큐브 클래식 보드게임, 혼합색상" 
 description: TOP.35 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/08/16/3001754339/b8dba877-4bcf-4308-ae74-c67abb08743e.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=560988&itemId=1969176&vendorItemId=3001754339&traceid=V0-113-96f614bd14ce5fe2 
 categories: [1020] 
-color: 43A047 
+color: 006064 
 rank: 35 
 price: 22190 
 author: Ask View Shop 

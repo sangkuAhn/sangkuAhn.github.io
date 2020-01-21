@@ -2,11 +2,11 @@
 layout: post 
 title:  "리틀달링 치킨우유껌 애견간식 6p, 치킨맛, 10개입" 
 description: TOP.25 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/01/30/3076739089/2ad49881-210d-4cc1-9c25-1cbd9a980d9f.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=11429593&itemId=49273990&vendorItemId=3076739089&traceid=V0-113-443e29aeb1169115 
 categories: [1029] 
-color: FF6F00 
+color: 006064 
 rank: 25 
 price: 12100 
 author: Ask View Shop 

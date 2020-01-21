@@ -2,11 +2,11 @@
 layout: post 
 title:  "아디다스 (정품) 크로스백 티로 더플백 S(DQ1075), 블랙" 
 description: TOP.44 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/vendor_inventory/images/2019/01/25/17/5/5e2ef965-b0c1-48a7-a814-8894a9747a46.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=184614435&itemId=528326797&vendorItemId=4331581439&traceid=V0-113-c34196ef3a546714 
 categories: [1006] 
-color: 4A148C 
+color: 006064 
 rank: 44 
 price: 28900 
 author: Ask View Shop 

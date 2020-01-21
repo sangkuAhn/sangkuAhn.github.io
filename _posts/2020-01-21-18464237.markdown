@@ -2,11 +2,11 @@
 layout: post 
 title:  "나이키 브라질리아 XS 더플백 BA5432-010, 블랙" 
 description: TOP.47 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/vendor_inventory/images/2017/01/30/11/9/c1402944-9eeb-4636-af54-0b7c3404970a.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=18464237&itemId=74237173&vendorItemId=5448205182&traceid=V0-113-e8c86ce8ca9a03be 
 categories: [1017] 
-color: BF360C 
+color: 03A9F4 
 rank: 47 
 price: 33900 
 author: Ask View Shop 

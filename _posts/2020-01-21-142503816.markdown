@@ -2,11 +2,11 @@
 layout: post 
 title:  "탑보이 U넥 초경량 패딩조끼 TC010" 
 description: TOP.43 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/vendor_inventory/images/2018/10/26/18/2/6946136e-fe90-47ec-8add-5d7cc77cfc10.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=142503816&itemId=414510704&vendorItemId=4017498968&traceid=V0-113-c10715aa4158327f 
 categories: [1002] 
-color: 9E9D24 
+color: 7E57C2 
 rank: 43 
 price: 14700 
 author: Ask View Shop 

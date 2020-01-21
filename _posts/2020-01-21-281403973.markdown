@@ -2,11 +2,11 @@
 layout: post 
 title:  "쿠팡 브랜드 - 베이스알파 에센셜 남성용 무지 스니커즈 양말 화이트 4p + 블랙 3p + 그레이 3p" 
 description: TOP.43 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/4575097451065-8acd8cdf-e086-41a9-bc92-355e646e819c.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=281403973&itemId=893279673&vendorItemId=5246414374&traceid=V0-113-7a6ce02c74f96aa6 
 categories: [1008] 
-color: 4A148C 
+color: 006064 
 rank: 43 
 price: 7990 
 author: Ask View Shop 

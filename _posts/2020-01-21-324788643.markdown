@@ -1,13 +1,13 @@
 ---
 layout: post 
 title:  "월튼키즈 아동용 포근따뜻융 기모 패딩 팬츠" 
-description: TOP.41 
-date: 2020-01-22 02:04:07 
+description: TOP.80 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2019/10/25/15/7/b835422b-3381-4e6f-806b-65c4f56ca001.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=324788643&itemId=1039840778&vendorItemId=5496872042&traceid=V0-113-4e6d584caa4a01a7 
-categories: [1005] 
-color: 006064 
-rank: 41 
+categories: [1004] 
+color: 7E57C2 
+rank: 80 
 price: 17660 
 author: Ask View Shop 
 ---

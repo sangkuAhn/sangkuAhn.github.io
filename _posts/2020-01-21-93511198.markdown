@@ -2,11 +2,11 @@
 layout: post 
 title:  "글래머 컬러뉴스 12색 아이섀도우 팔레트, 혼합 색상, 1개" 
 description: TOP.40 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/07/04/3726479265/bfe85bba-1e57-4c74-ab50-c59753aaabb6.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=93511198&itemId=289821718&vendorItemId=3726479265&traceid=V0-113-86f3b32d7ededa97 
 categories: [1010] 
-color: FF6F00 
+color: 9E9D24 
 rank: 40 
 price: 7620 
 author: Ask View Shop 

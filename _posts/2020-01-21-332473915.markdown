@@ -2,7 +2,7 @@
 layout: post 
 title:  "Apple 에어팟 프로, MWP22KH/A, 단일 색상" 
 description: TOP.32 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2019/11/07/18/8/4febc558-85b2-48a8-816e-0940180702df.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=332473915&itemId=1062243893&vendorItemId=5556896897&traceid=V0-113-c776b7d074aa1d0a 
 categories: [1016] 

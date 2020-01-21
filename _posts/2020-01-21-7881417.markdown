@@ -1,13 +1,13 @@
 ---
 layout: post 
 title:  "하이플러스카드 하이패스, 자동충전카드 셀프형 개별포장" 
-description: TOP.10 
-date: 2020-01-22 02:04:07 
+description: TOP.72 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/09/17/3051062251/7f540619-486c-4a44-841c-dc24b66eadcc.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7881417&itemId=34505845&vendorItemId=3051062251&traceid=V0-113-939e327473a5b726 
-categories: [1018] 
-color: FF6F00 
-rank: 10 
+categories: [1016] 
+color: 4CAF50 
+rank: 72 
 price: 5330 
 author: Ask View Shop 
 ---

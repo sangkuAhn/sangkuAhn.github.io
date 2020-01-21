@@ -2,11 +2,11 @@
 layout: post 
 title:  "샤인 프리미엄 발수코팅 에탄올워셔, 2L, 6개입" 
 description: TOP.38 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2019/02/27/15/2/755eb4e5-d497-4f8e-bbed-82e0eed1d98d.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=193528975&itemId=554067629&vendorItemId=4455832955&traceid=V0-113-deaae7fdf2ab3bc7 
 categories: [1018] 
-color: 212121 
+color: 03A9F4 
 rank: 38 
 price: 16830 
 author: Ask View Shop 

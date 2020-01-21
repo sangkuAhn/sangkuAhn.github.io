@@ -2,11 +2,11 @@
 layout: post 
 title:  "쿠팡 브랜드 - 탐사 초록나무 종이컵, 1000개입, 1개" 
 description: TOP.63 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/331312563578768-b8843520-e358-4818-a5f6-c12c79b9dc63.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1098869322&itemId=2057758492&vendorItemId=70057030374&traceid=V0-113-73ecc8bd82a9f0e7 
 categories: [1013] 
-color: 4A148C 
+color: 9E9D24 
 rank: 63 
 price: 11900 
 author: Ask View Shop 

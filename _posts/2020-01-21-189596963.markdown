@@ -2,11 +2,11 @@
 layout: post 
 title:  "클리오 프로 아이 팔레트, 2호 브라운슈, 1개" 
 description: TOP.4 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/04/12/4416654226/810ff1cb-a10c-4153-b02f-d5aede095a46.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=189596963&itemId=541486301&vendorItemId=4416654226&traceid=V0-113-a0b24ef0d428b21c 
 categories: [1010] 
-color: 9E9D24 
+color: ff1744 
 rank: 4 
 price: 18740 
 author: Ask View Shop 

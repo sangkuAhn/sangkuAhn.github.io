@@ -2,11 +2,11 @@
 layout: post 
 title:  "실리쿡 하프 트레이 5p, 반투명" 
 description: TOP.49 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/11/26/3811141491/4ac2146f-12e4-44b4-a4d2-08c2f9e70b6b.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=109266725&itemId=330635943&vendorItemId=3811141491&traceid=V0-113-3736cc6bbdf78ff5 
 categories: [1013] 
-color: f44336 
+color: ff1744 
 rank: 49 
 price: 13000 
 author: Ask View Shop 

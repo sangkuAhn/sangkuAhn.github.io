@@ -2,11 +2,11 @@
 layout: post 
 title:  "대구/ 스파밸리 겨울 온천수" 
 description: TOP.30 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/12/06/100000049281/2e9fef2a-f106-4205-a23f-2471db535aee.jpg 
 linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=100000049281&traceid=V0-113-c1423d59aa6076fe 
 categories: [1025] 
-color: ff1744 
+color: 03A9F4 
 rank: 30 
 price: 14900 
 author: Ask View Shop 

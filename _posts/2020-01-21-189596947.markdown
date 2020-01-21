@@ -2,11 +2,11 @@
 layout: post 
 title:  "페리페라 잉크 더 에어리 벨벳 틴트 4g, 셀기꾼템, 1개" 
 description: TOP.51 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/06/18/4416654027/c5d72cbe-e8de-4932-a616-91fae7e543d7.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=189596947&itemId=541486240&vendorItemId=4416654027&traceid=V0-113-d09679d3d975461f 
 categories: [1010] 
-color: 212121 
+color: 9E9D24 
 rank: 51 
 price: 5770 
 author: Ask View Shop 

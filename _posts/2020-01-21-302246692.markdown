@@ -2,11 +2,11 @@
 layout: post 
 title:  "도씨 남성용 커플 수면잠옷 바지 D9205" 
 description: TOP.35 
-date: 2020-01-22 02:04:07 
+date: 2020-01-22 02:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2019/09/17/14/7/dbf2d659-5e30-4711-a91c-921ffb3daf94.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=302246692&itemId=950749663&vendorItemId=5344439916&traceid=V0-113-821461cf7b5dcb3b 
 categories: [1002] 
-color: ff1744 
+color: 9E9D24 
 rank: 35 
 price: 7900 
 author: Ask View Shop 
