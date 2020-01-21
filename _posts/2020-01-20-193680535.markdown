@@ -1,13 +1,13 @@
 ---
 layout: post 
 title:  "애플힙 고탄력 스타킹 100D 2p" 
-description: ■ TOP.75 / ▲1상승 
-date: 2020-01-21 19:55:11 
+description: ■ TOP.76 / ▼1하락 
+date: 2020-01-21 20:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2019/03/04/17/1/3a2679a2-a5a1-42af-9d0f-d7def5772e8f.jpg 
-linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=193680535&itemId=554673118&vendorItemId=4457316176&traceid=V0-113-1a803ded857ae646 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=193680535&itemId=554673118&vendorItemId=4457316176&traceid=V0-113-1a803ded857ae646 
 categories: [1001] 
-color: 03A9F4 
-rank: 75 
+color: 212121 
+rank: 76 
 price: 11900 
 author: Ask View Shop 
 ---
