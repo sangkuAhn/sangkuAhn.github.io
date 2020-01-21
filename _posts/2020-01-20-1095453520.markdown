@@ -1,12 +1,12 @@
 ---
 layout: post 
 title:  "떳다그녀 다이제 후드 맨투맨" 
-description: ■ TOP.97 
-date: 2020-01-20 11:55:14 
+description: ■ TOP.97 / ▲0상승 
+date: 2020-01-21 12:55:13 
 img: https://static.coupangcdn.com/image/vendor_inventory/d6d5/6789131fa1d876c4b198d473e187ffed398a2d967239f0ebb5776962b523.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1095453520&itemId=2052897640&vendorItemId=70052205774&traceid=V0-113-72b3d675dcec3f07 
 categories: [1001] 
-color: 4A148C 
+color: f44336 
 rank: 97 
 price: 9900 
 author: Ask View Shop 

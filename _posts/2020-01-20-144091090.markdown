@@ -2,11 +2,11 @@
 layout: post 
 title:  "잘빠진 매직스판 융털 기모 팬츠 K-8888" 
 description: ■ TOP.100 
-date: 2020-01-20 11:55:14 
+date: 2020-01-21 12:55:13 
 img: https://static.coupangcdn.com/image/vendor_inventory/images/2018/10/12/17/3/a3695129-a4d8-475f-8376-46db5aaa8df3.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=144091090&itemId=418382144&vendorItemId=4027825839&traceid=V0-113-630bc6b2edc5c8b4 
 categories: [1001] 
-color: 4CAF50 
+color: FF6F00 
 rank: 100 
 price: 8900 
 author: Ask View Shop 
