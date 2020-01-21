@@ -2,11 +2,11 @@
 layout: post 
 title:  "루루백 여성용 블루섬 크로스백" 
 description: TOP.80 [▼1하락] 
-date: 2020-01-22 01:24:08 
+date: 2020-01-22 01:55:07 
 img: https://static.coupangcdn.com/image/retail/images/2019/08/27/18/9/1127b452-8a07-415e-ae52-051c7c04d454.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=289777972&itemId=917221068&vendorItemId=5286972026&traceid=V0-113-01fb38020d9618d2 
 categories: [1001] 
-color: 03A9F4 
+color: 212121 
 rank: 80 
 price: 17000 
 author: Ask View Shop 

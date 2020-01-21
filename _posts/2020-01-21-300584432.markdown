@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "샤오미 캐리어 4세대" 
+description: TOP.53 
+date: 2020-01-22 02:04:07 
+img: https://static.coupangcdn.com/image/retail/images/2019/08/27/13/1/8ca1f3b3-5346-4cd5-9c7e-cb70b5b2bfe4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=300584432&itemId=946369015&vendorItemId=5292062236&traceid=V0-113-6e3d636516ef99a2 
+categories: [1008] 
+color: ff1744 
+rank: 53 
+price: 54630 
+author: Ask View Shop 
+---
+ 

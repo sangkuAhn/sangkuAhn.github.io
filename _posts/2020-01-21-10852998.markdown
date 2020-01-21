@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "비비고 사골 곰탕, 500g, 16개입" 
+description: TOP.23 
+date: 2020-01-22 02:04:07 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/10/26/3340218359/38d0df41-61d5-42bb-a5e6-d96c99a702c4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=10852998&itemId=154688441&vendorItemId=3340218359&traceid=V0-113-c0243345e4e603c5 
+categories: [1012] 
+color: f44336 
+rank: 23 
+price: 13760 
+author: Ask View Shop 
+---
+ 

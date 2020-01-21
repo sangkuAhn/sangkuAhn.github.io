@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 베이스알파 에센셜 소프트 쿠션 거실화 2p 세트, 그레이, 챠콜" 
+description: TOP.22 
+date: 2020-01-22 02:04:07 
+img: https://static.coupangcdn.com/image/retail/images/14941685881816-ef404365-7306-43ed-8f3d-3f3941765915.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=307037019&itemId=968166010&vendorItemId=5375479568&traceid=V0-113-fb20382ba19f9e70 
+categories: [1015] 
+color: 4CAF50 
+rank: 22 
+price: 8990 
+author: Ask View Shop 
+---
+ 

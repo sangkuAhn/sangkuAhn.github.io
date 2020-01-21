@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "바미샵 레더 보석함, 네이비" 
+description: TOP.42 
+date: 2020-01-22 02:04:07 
+img: https://static.coupangcdn.com/image/retail/images/2018/11/25/15/9/06acf327-de58-47f2-aa1f-c29bfca4ef3a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=161677685&itemId=464344386&vendorItemId=4156090380&traceid=V0-113-3a2a41ff1b86bd9a 
+categories: [1008] 
+color: BF360C 
+rank: 42 
+price: 11820 
+author: Ask View Shop 
+---
+ 

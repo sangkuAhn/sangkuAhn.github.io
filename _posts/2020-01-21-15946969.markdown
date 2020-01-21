@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "아모스 파스넷 색연필, 24색, 1개" 
+description: TOP.62 
+date: 2020-01-22 02:04:07 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/10/24/3007489225/c8c738a9-2215-446f-b716-53cc283f1b57.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=15946969&itemId=213973089&vendorItemId=3511543524&traceid=V0-113-9133ebfb77ef54f2 
+categories: [1020] 
+color: 212121 
+rank: 62 
+price: 9070 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "컨버스 척테일러 올스타 리프트 560251C" 
+description: TOP.46 
+date: 2020-01-22 02:04:07 
+img: https://static.coupangcdn.com/image/vendor_inventory/264b/b2daa4cded822e2792f7fdea7191c270fdb6b8b14c5fff570eaf01621515.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1126039691&itemId=2092303472&vendorItemId=70172401689&traceid=V0-113-f80e736fa1b50d06 
+categories: [1007] 
+color: BF360C 
+rank: 46 
+price: 62000 
+author: Ask View Shop 
+---
+ 

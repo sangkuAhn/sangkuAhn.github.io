@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "유닉스 푸드 다용도 믹서기, UNB-A9100" 
+description: TOP.38 
+date: 2020-01-22 02:04:07 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/06/26/3005159895/75b70b42-680f-4200-83ba-deca3ee63979.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=263161528&itemId=824541921&vendorItemId=5096521487&traceid=V0-113-455039ba6e8a3ec2 
+categories: [1016] 
+color: 006064 
+rank: 38 
+price: 36270 
+author: Ask View Shop 
+---
+ 

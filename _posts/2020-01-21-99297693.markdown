@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "G2P 리스트랩 헬스 손목보호대 2p, 레드" 
+description: TOP.54 
+date: 2020-01-22 02:04:07 
+img: https://static.coupangcdn.com/image/retail/images/2018/06/11/10/4/a9ecc957-f5b9-4ddd-a9aa-d5a021e97eee.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=99297693&itemId=303911547&vendorItemId=3749457707&traceid=V0-113-52431ceb145edc62 
+categories: [1006] 
+color: FF6F00 
+rank: 54 
+price: 8600 
+author: Ask View Shop 
+---
+ 

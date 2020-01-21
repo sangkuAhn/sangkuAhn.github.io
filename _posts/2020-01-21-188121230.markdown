@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 코멧 키친 천연펄프 키친타올 롤형 130매 2겹, 6롤, 4팩" 
+description: TOP.25 
+date: 2020-01-22 02:04:07 
+img: https://static.coupangcdn.com/image/retail/images/11952232129851-eb613fe2-588c-40b4-b674-02284731e527.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=188121230&itemId=537197205&vendorItemId=4402619165&traceid=V0-113-324a3c0063a914e0 
+categories: [1014] 
+color: 4CAF50 
+rank: 25 
+price: 10990 
+author: Ask View Shop 
+---
+ 

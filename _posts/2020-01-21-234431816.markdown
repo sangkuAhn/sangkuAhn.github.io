@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 베이스알파 에센셜 남성용 스포츠 커버 양말 10p, 화이트" 
+description: TOP.11 
+date: 2020-01-22 02:04:07 
+img: https://static.coupangcdn.com/image/retail/images/65158654054131-494815bf-fe61-4106-b2a1-fb87c4443cc0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=234431816&itemId=744532237&vendorItemId=4879296392&traceid=V0-113-9f1b36e995d11eb5 
+categories: [1017] 
+color: BF360C 
+rank: 11 
+price: 8690 
+author: Ask View Shop 
+---
+ 

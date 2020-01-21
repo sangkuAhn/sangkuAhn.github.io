@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 베이스알파 남성용 순면 반팔런닝 4p" 
+description: TOP.50 
+date: 2020-01-22 02:04:07 
+img: https://static.coupangcdn.com/image/retail/images/55786974159428-80179967-a218-4fe4-bfde-40a947988607.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=295583344&itemId=932090467&vendorItemId=5310974287&traceid=V0-113-124504993db8faea 
+categories: [1002] 
+color: 4CAF50 
+rank: 50 
+price: 10990 
+author: Ask View Shop 
+---
+ 

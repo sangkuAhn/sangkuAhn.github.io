@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "버터와플, 237g, 1개" 
+description: TOP.50 
+date: 2020-01-22 02:04:07 
+img: https://static.coupangcdn.com/image/retail/images/2019/06/24/10/2/2204c850-e43c-4181-ad16-76edb461aaf5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=245076675&itemId=777029876&vendorItemId=4965412088&traceid=V0-113-595249855827a1f3 
+categories: [1012] 
+color: BF360C 
+rank: 50 
+price: 3340 
+author: Ask View Shop 
+---
+ 

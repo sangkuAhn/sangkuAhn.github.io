@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 코멧 클래식 비즈니스 백팩" 
+description: TOP.65 
+date: 2020-01-22 02:04:07 
+img: https://static.coupangcdn.com/image/retail/images/81638199656109-efbf7c9d-7434-4834-9631-88a169bd7688.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=197216270&itemId=568461660&vendorItemId=4492124209&traceid=V0-113-456f71fd98018278 
+categories: [1008] 
+color: ff1744 
+rank: 65 
+price: 17990 
+author: Ask View Shop 
+---
+ 

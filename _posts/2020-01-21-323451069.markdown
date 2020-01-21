@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "에이트:인공지능에게 대체되지 않는 나를 만드는 법, 차이정원" 
+description: TOP.56 
+date: 2020-01-22 02:04:07 
+img: https://static.coupangcdn.com/image/vendor_inventory/c410/b0c5818586f679d7853d83a400b921676e435e1ba03166f0034d85ac82a8.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=323451069&itemId=1035653406&vendorItemId=5488593209&traceid=V0-113-a96751c15dcc893d 
+categories: [1019] 
+color: 9E9D24 
+rank: 56 
+price: 15300 
+author: Ask View Shop 
+---
+ 
