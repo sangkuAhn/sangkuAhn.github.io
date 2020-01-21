@@ -2,11 +2,11 @@
 layout: post 
 title:  "나바바 NS036 2월12일부터 순차배송 모직 꽈배기 플레어 니트 롱 스커트" 
 description: TOP.47 [▼1하락] 
-date: 2020-01-21 23:55:07 
+date: 2020-01-22 00:55:06 
 img: https://static.coupangcdn.com/image/vendor_inventory/1d59/922b8467a3f35685b8f538d20dceb7743ee22390f2d3c4376123aaa2496e.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=307929958&itemId=970933335&vendorItemId=5380404439&traceid=V0-113-74ff8e8eaa2adf60 
 categories: [1001] 
-color: BF360C 
+color: ff1744 
 rank: 47 
 price: 14900 
 author: Ask View Shop 
