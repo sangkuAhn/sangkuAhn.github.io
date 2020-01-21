@@ -2,11 +2,11 @@
 layout: post 
 title:  "하이데일리 포튼 프릴 기모 후드 롱원피스" 
 description: ■ TOP.44 / ▼1하락 
-date: 2020-01-21 18:55:07 
+date: 2020-01-21 19:55:11 
 img: https://static.coupangcdn.com/image/vendor_inventory/5b40/82298c58c9fd9c87139b8fee4c31872d7fe020ab9e56719ef51c4a6080ff.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=151543381&itemId=437465441&vendorItemId=4081306141&traceid=V0-113-51f6478f40d398f4 
 categories: [1001] 
-color: 9E9D24 
+color: 4CAF50 
 rank: 44 
 price: 13900 
 author: Ask View Shop 
