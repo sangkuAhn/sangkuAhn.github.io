@@ -2,11 +2,11 @@
 layout: post 
 title:  "Newcare/ 여성 겨울 후드 트레이닝복 세트 기모 이너세트" 
 description: TOP.34 [▼1하락] 
-date: 2020-01-22 01:24:08 
+date: 2020-01-22 01:47:58 
 img: https://static.coupangcdn.com/image/vendor_inventory/a413/596389a1171005ba2d2c4b1647c7ab1f25c8a33f5003e4ea9e8469d6d3b9.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=346368333&itemId=1099341008&vendorItemId=5625042896&traceid=V0-113-318bf3a85b07e0cd 
 categories: [1001] 
-color: 4CAF50 
+color: ff1744 
 rank: 34 
 price: 38500 
 author: Ask View Shop 
