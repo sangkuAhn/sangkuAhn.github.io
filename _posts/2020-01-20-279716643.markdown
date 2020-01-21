@@ -1,12 +1,12 @@
 ---
 layout: post 
 title:  "쿠팡 브랜드 - 베이스알파 에센셜 학생용 팬티스타킹 20D 10p 벌크형" 
-description: ■ TOP.25 / ▲-1상승 
-date: 2020-01-21 12:55:13 
+description: ■ TOP.25 / ▼2하락 
+date: 2020-01-21 02:55:45 
 img: https://static.coupangcdn.com/image/retail/images/6642036407818-beeeb8d4-9069-4fe2-b62d-ff3c13136c97.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=279716643&itemId=887896458&vendorItemId=5235482849&traceid=V0-113-8a3fd21b5e8b7e2a 
 categories: [1001] 
-color: 006064 
+color: 03A9F4 
 rank: 25 
 price: 10990 
 author: Ask View Shop 

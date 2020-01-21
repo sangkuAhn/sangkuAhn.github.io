@@ -2,11 +2,11 @@
 layout: post 
 title:  "모던 여성용 베이 크로스백" 
 description: ■ TOP.56 / ▲-1상승 
-date: 2020-01-21 12:55:13 
+date: 2020-01-21 02:55:45 
 img: https://static.coupangcdn.com/image/retail/images/2019/08/05/14/2/3c1b4f36-c6d1-4acf-8343-37fd4f30444c.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=274792705&itemId=868170649&vendorItemId=5196973019&traceid=V0-113-0dc36ab347e32b95 
 categories: [1001] 
-color: 03A9F4 
+color: 4CAF50 
 rank: 56 
 price: 12900 
 author: Ask View Shop 
