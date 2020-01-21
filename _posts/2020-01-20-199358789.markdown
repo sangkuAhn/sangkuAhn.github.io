@@ -1,13 +1,13 @@
 ---
 layout: post 
 title:  "코네어센스 무봉제 심리스 팬티 6개" 
-description: TOP.67 [▲ 1상승] 
-date: 2020-01-22 06:55:17 
+description: TOP.68 [▼1하락] 
+date: 2020-01-22 07:55:12 
 img: https://static.coupangcdn.com/image/retail/images/2019/03/15/15/6/1e0deab9-bfb6-4d0f-87fe-71de03d850fd.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=199358789&itemId=577124876&vendorItemId=4513682762&traceid=V0-113-2cafdcad93a75072 
 categories: [1001] 
-color: 4CAF50 
-rank: 67 
+color: BF360C 
+rank: 68 
 price: 15780 
 author: Ask View Shop 
 ---
