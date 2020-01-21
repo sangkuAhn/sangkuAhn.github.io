@@ -2,11 +2,11 @@
 layout: post 
 title:  "플레이팝 여성용 라이크 투버튼 속밴딩 스키니진 5505" 
 description: ■ TOP.97 / ▲-2상승 
-date: 2020-01-21 02:55:45 
+date: 2020-01-21 03:55:08 
 img: https://static.coupangcdn.com/image/retail/images/78486638693972-6791794c-b7fd-4a66-a40f-3b5793dfd4b0.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=70390304&itemId=235303653&vendorItemId=5062685506&traceid=V0-113-f67ec3e53ef08d74 
 categories: [1001] 
-color: 006064 
+color: 4A148C 
 rank: 97 
 price: 17900 
 author: Ask View Shop 

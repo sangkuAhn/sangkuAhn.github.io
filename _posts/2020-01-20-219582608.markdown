@@ -1,12 +1,12 @@
 ---
 layout: post 
 title:  "글램브라 와이드 심플 노와이어브라" 
-description: ■ TOP.47 / ▼2하락 
-date: 2020-01-21 02:55:45 
+description: ■ TOP.47 / ▲-1상승 
+date: 2020-01-21 03:55:08 
 img: https://static.coupangcdn.com/image/retail/images/2019/05/09/13/7/5d0c2ca8-d232-4bc8-9131-d3b6ea10abd1.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=219582608&itemId=682207784&vendorItemId=4754068883&traceid=V0-113-e232a4a8d4646876 
 categories: [1001] 
-color: 006064 
+color: 03A9F4 
 rank: 47 
 price: 9370 
 author: Ask View Shop 

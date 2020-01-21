@@ -1,12 +1,12 @@
 ---
 layout: post 
 title:  "잘빠진 여성용 1719 허리밴드 델리지 조거팬츠" 
-description: ■ TOP.26 / ▼2하락 
-date: 2020-01-21 02:55:45 
+description: ■ TOP.26 / ▲-1상승 
+date: 2020-01-21 03:55:08 
 img: https://static.coupangcdn.com/image/retail/images/2019/08/14/10/9/34a8228e-7d47-4b6b-940a-c3b12125902a.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=281182457&itemId=892683375&vendorItemId=5245307541&traceid=V0-113-fe37f67a8f0caec5 
 categories: [1001] 
-color: 006064 
+color: 212121 
 rank: 26 
 price: 9900 
 author: Ask View Shop 

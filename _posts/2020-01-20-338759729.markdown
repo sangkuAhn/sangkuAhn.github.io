@@ -2,11 +2,11 @@
 layout: post 
 title:  "오키진 여성 쉐딩 벨벳 융털 바지 쫀쫀 탄력 편해요 겨울" 
 description: ■ TOP.100 / ▲-1상승 
-date: 2020-01-21 02:55:45 
+date: 2020-01-21 03:55:08 
 img: https://static.coupangcdn.com/image/vendor_inventory/9b66/a2eebeb47157bda17495839fa5cd61f7fe7536d951ec3392b37c7f7479a3.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=338759729&itemId=1079504548&vendorItemId=5579240260&traceid=V0-113-1be11817f147a1ac 
 categories: [1001] 
-color: f44336 
+color: ff1744 
 rank: 100 
 price: 12900 
 author: Ask View Shop 
