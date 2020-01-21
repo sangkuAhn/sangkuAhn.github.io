@@ -2,7 +2,7 @@
 layout: post 
 title:  "세이스타일 꾸안꾸 뷔스티에 A롱 원피스" 
 description: ■ TOP.99 / ▼78하락 
-date: 2020-01-21 04:40:32 
+date: 2020-01-21 05:05:35 
 img: https://static.coupangcdn.com/image/retail/images/2019/12/09/15/3/b2e1a226-4865-4293-b6c6-9694455d8168.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1074319478&itemId=2023775396&vendorItemId=70023407305&traceid=V0-113-5170ecbf718f4849 
 categories: [1001] 
