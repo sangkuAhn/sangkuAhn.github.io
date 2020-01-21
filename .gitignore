@@ -5,7 +5,4 @@ _site/
 .py
 .sh
 .pyc
-2020*.*
 .jekyll-cache/
-_posts
-index.html
