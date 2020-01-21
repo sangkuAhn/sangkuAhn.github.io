@@ -1,13 +1,13 @@
 ---
 layout: post 
 title:  "달리샵 리앙 레이스 니트" 
-description: ■ TOP.20 / ▼1하락 
-date: 2020-01-21 20:55:07 
+description: ■ TOP.19 / ▲1상승 
+date: 2020-01-21 21:55:16 
 img: https://static.coupangcdn.com/image/vendor_inventory/10fc/d09374f331e5bdea98d2cefcc9ea3409cb8858acd2f175bb6b4c858fb116.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=319227516&itemId=1020118472&vendorItemId=5458919678&traceid=V0-113-3f6d909622bec438 
 categories: [1001] 
-color: ff1744 
-rank: 20 
+color: 4A148C 
+rank: 19 
 price: 13800 
 author: Ask View Shop 
 ---

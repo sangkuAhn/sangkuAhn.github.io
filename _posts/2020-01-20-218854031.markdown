@@ -1,13 +1,13 @@
 ---
 layout: post 
 title:  "어나더디 여성용 모노 체크 긴팔잠옷" 
-description: ■ TOP.45 / ▼1하락 
-date: 2020-01-21 20:55:07 
-img: https://static.coupangcdn.com/image/retail/images/2019/05/08/15/5/b87f3d9e-ec6f-476f-9958-7e53354394b1.jpg 
-linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=218854031&itemId=678503013&vendorItemId=4746947388&traceid=V0-113-a66b0905ff613502 
+description: ■ TOP.44 / ▲1상승 
+date: 2020-01-21 21:55:16 
+img: https://static.coupangcdn.com/image/retail/images/77495057989559-4f40281b-7d0a-4233-a45b-06bc06d33f9b.PNG 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=218854031&itemId=678503000&vendorItemId=4746947369&traceid=V0-113-a66b0905ff613502 
 categories: [1001] 
-color: 7E57C2 
-rank: 45 
+color: 4CAF50 
+rank: 44 
 price: 17150 
 author: Ask View Shop 
 ---
