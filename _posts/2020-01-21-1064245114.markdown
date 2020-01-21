@@ -1,13 +1,13 @@
 ---
 layout: post 
 title:  "메르시봉봉 금발의 엘사 머리띠" 
-description: TOP.21 
-date: 2020-01-22 02:55:07 
+description: TOP.8 
+date: 2020-01-22 03:15:10 
 img: https://static.coupangcdn.com/image/vendor_inventory/fd39/85651e06ff50765eff0ebd2df4bde2d72e6fe7d1e0cfb4ecf3ddb7dd47d6.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1064245114&itemId=2010329195&vendorItemId=70010172104&traceid=V0-113-c08431af4bee9f68 
-categories: [1004] 
-color: 212121 
-rank: 21 
+categories: [1003] 
+color: 006064 
+rank: 8 
 price: 9900 
 author: Ask View Shop 
 ---

@@ -2,11 +2,11 @@
 layout: post 
 title:  "플레이팝 여성용 부드럽고 따뜻한 베이직 긴목폴라 니트티셔츠" 
 description: TOP.7 [▲ 1상승] 
-date: 2020-01-22 02:55:07 
+date: 2020-01-22 03:55:08 
 img: https://static.coupangcdn.com/image/retail/images/2019/09/19/15/8/ab65fcbe-7b39-4b45-b67a-a1be2f9be966.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=306052776&itemId=965039181&vendorItemId=5369191865&traceid=V0-113-8a9b160388189596 
 categories: [1001] 
-color: f44336 
+color: 212121 
 rank: 7 
 price: 19900 
 author: Ask View Shop 

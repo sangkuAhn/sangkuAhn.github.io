@@ -2,11 +2,11 @@
 layout: post 
 title:  "오늘도 펭수 내일도 펭수, 놀" 
 description: TOP.9 
-date: 2020-01-22 02:55:07 
+date: 2020-01-22 03:15:10 
 img: https://static.coupangcdn.com/image/vendor_inventory/02ac/7a4118530405a7c28e225f3a44d9ff4e0f21902c8b9820b4c3d452f1e383.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=345109842&itemId=1096054402&vendorItemId=5616695097&traceid=V0-113-8f693e13a3fb3803 
 categories: [1019] 
-color: BF360C 
+color: f44336 
 rank: 9 
 price: 15300 
 author: Ask View Shop 

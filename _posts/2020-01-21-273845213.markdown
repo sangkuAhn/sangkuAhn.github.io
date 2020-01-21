@@ -2,11 +2,11 @@
 layout: post 
 title:  "채니봉봉 코이 다크핑크 헤어핀세트" 
 description: TOP.3 
-date: 2020-01-22 02:55:07 
+date: 2020-01-22 03:15:10 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/09/02/5189647681/6430b03a-3ed8-4230-8771-6f8ab4492426.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=273845213&itemId=863858837&vendorItemId=5189647681&traceid=V0-113-db1cb922da01d6b1 
 categories: [1004] 
-color: 7E57C2 
+color: ff1744 
 rank: 3 
 price: 9470 
 author: Ask View Shop 

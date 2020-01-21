@@ -2,11 +2,11 @@
 layout: post 
 title:  "탐사수, 2L, 12개" 
 description: TOP.1 
-date: 2020-01-22 02:55:07 
+date: 2020-01-22 03:15:10 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/03/04/3213757282/456ca43b-ffe6-46ef-b793-d787986a9e52.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=27613130&itemId=109846121&vendorItemId=3213757282&traceid=V0-113-b860fd2b23f3b002 
 categories: [1012] 
-color: 006064 
+color: FF6F00 
 rank: 1 
 price: 6830 
 author: Ask View Shop 

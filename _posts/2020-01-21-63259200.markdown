@@ -1,13 +1,13 @@
 ---
 layout: post 
 title:  "인텍스 정품 에어소파 + 스툴 1인용 소파, 그레이" 
-description: TOP.29 
-date: 2020-01-22 02:55:07 
+description: TOP.6 
+date: 2020-01-22 03:15:10 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/10/22/3180529137/f97741bd-55c7-40c0-8f3e-95eaeeb3b33e.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=63259200&itemId=215461372&vendorItemId=3180529137&traceid=V0-113-dc37e20bfdd6c6ad 
-categories: [1015] 
-color: 212121 
-rank: 29 
+categories: [1021] 
+color: 9E9D24 
+rank: 6 
 price: 22610 
 author: Ask View Shop 
 ---

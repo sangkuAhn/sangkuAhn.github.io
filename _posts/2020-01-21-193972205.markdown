@@ -2,11 +2,11 @@
 layout: post 
 title:  "굿데이 건강레시피 반려견 간식, 비프 + 야채 혼합맛, 3개입" 
 description: TOP.9 
-date: 2020-01-22 02:55:07 
+date: 2020-01-22 03:15:10 
 img: https://static.coupangcdn.com/image/retail/images/2019/02/28/15/2/6f4060d1-54e0-4259-a499-df48abfdabc7.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=193972205&itemId=555809730&vendorItemId=4460490885&traceid=V0-113-543d89ade29269d7 
 categories: [1029] 
-color: f44336 
+color: 43A047 
 rank: 9 
 price: 17640 
 author: Ask View Shop 

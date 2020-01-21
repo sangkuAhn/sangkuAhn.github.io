@@ -1,13 +1,13 @@
 ---
 layout: post 
 title:  "종이나라 케이스 양면 색종이, 50색, 500매" 
-description: TOP.82 
-date: 2020-01-22 02:55:07 
+description: TOP.9 
+date: 2020-01-22 03:15:10 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/01/30/3399744317/ecb3dd8f-e6ff-42a0-90bd-8fe1f1c415de.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=47462915&itemId=167916754&vendorItemId=3399744317&traceid=V0-113-a3315e2fe8b95c56 
-categories: [1011] 
-color: 9E9D24 
-rank: 82 
+categories: [1021] 
+color: 7E57C2 
+rank: 9 
 price: 7290 
 author: Ask View Shop 
 ---

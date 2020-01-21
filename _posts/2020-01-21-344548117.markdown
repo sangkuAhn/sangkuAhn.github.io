@@ -2,11 +2,11 @@
 layout: post 
 title:  "쿠팡 브랜드 - 베이스알파 에센셜 여성용 하프 골지 무지 양말 10켤레" 
 description: TOP.7 
-date: 2020-01-22 02:55:07 
+date: 2020-01-22 03:15:10 
 img: https://static.coupangcdn.com/image/retail/images/5660229412596-b5118d2c-8334-4ff0-83cb-7fb9c8a54a9b.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=344548117&itemId=1094469568&vendorItemId=5483589108&traceid=V0-113-eebc324c2e540d1e 
 categories: [1008] 
-color: FF6F00 
+color: 006064 
 rank: 7 
 price: 7990 
 author: Ask View Shop 

@@ -2,7 +2,7 @@
 layout: post 
 title:  "구달 청귤 비타C잡티세럼 화장품세트, 1세트" 
 description: TOP.3 
-date: 2020-01-22 02:55:07 
+date: 2020-01-22 03:15:10 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/10/22/3577965961/bf7e3b31-4880-4350-a4ab-0f62fc800fd8.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=130360540&itemId=383681958&vendorItemId=3931570233&traceid=V0-113-234c6f785e3aaf5b 
 categories: [1010] 

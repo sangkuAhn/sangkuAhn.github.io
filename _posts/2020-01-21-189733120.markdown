@@ -2,11 +2,11 @@
 layout: post 
 title:  "쿠팡 브랜드 - 비타할로 데일리뉴 부드러운모 칫솔, 20개입, 1개" 
 description: TOP.8 
-date: 2020-01-22 02:55:07 
+date: 2020-01-22 03:15:10 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/10/30/4417957312/8ddd9049-b982-4a31-8eee-70d15f2c9798.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=189733120&itemId=542051498&vendorItemId=4417957312&traceid=V0-113-d53a7df66f5ec6c0 
 categories: [1014] 
-color: 212121 
+color: 43A047 
 rank: 8 
 price: 5690 
 author: Ask View Shop 

@@ -2,11 +2,11 @@
 layout: post 
 title:  "흔한남매. 3, 아이세움" 
 description: TOP.8 
-date: 2020-01-22 02:55:07 
+date: 2020-01-22 03:15:10 
 img: https://static.coupangcdn.com/image/vendor_inventory/d946/a470ead75ea5f8349bafa2b40dbf449c8ced30fd5c40fc30956d5794daaa.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1138534858&itemId=2109091761&vendorItemId=70107873600&traceid=V0-113-2cb45bdd03c685d4 
 categories: [1011] 
-color: 212121 
+color: 4A148C 
 rank: 8 
 price: 10800 
 author: Ask View Shop 

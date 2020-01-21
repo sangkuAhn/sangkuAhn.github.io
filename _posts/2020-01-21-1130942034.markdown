@@ -2,11 +2,11 @@
 layout: post 
 title:  "쿠팡브랜드 - 베이스알파에센셜 여성용 소프트 이중쿠션 통굽슬리퍼" 
 description: TOP.6 
-date: 2020-01-22 02:55:07 
+date: 2020-01-22 03:15:10 
 img: https://static.coupangcdn.com/image/retail/images/238253127054454-9de4d533-1ed8-4eb9-9986-b201d08c8228.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1130942034&itemId=2098804790&vendorItemId=70097456678&traceid=V0-113-1a7159270764c4b3 
 categories: [1007] 
-color: 4A148C 
+color: 4CAF50 
 rank: 6 
 price: 10990 
 author: Ask View Shop 

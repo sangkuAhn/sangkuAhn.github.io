@@ -2,11 +2,11 @@
 layout: post 
 title:  "곰곰 광천 도시락김, 5g, 32개입" 
 description: TOP.8 
-date: 2020-01-22 02:55:07 
+date: 2020-01-22 03:15:10 
 img: https://static.coupangcdn.com/image/retail/images/8020250270528-10ac8b65-0c86-45a1-a733-2d57c2cdc98b.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=266254917&itemId=834542714&vendorItemId=5124578637&traceid=V0-113-7eba649f055d7e5d 
 categories: [1012] 
-color: 212121 
+color: 4A148C 
 rank: 8 
 price: 6990 
 author: Ask View Shop 

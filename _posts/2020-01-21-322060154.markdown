@@ -2,7 +2,7 @@
 layout: post 
 title:  "쿠팡 브랜드 - 베이스알파 에센셜 슬림 락시스템 크로스백" 
 description: TOP.4 
-date: 2020-01-22 02:55:07 
+date: 2020-01-22 03:15:10 
 img: https://static.coupangcdn.com/image/retail/images/257200440079914-0a578aeb-b08e-4606-9452-1889c26cb1b1.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=322060154&itemId=1031196483&vendorItemId=5479797878&traceid=V0-113-c8d9e4be60dbd943 
 categories: [1008] 

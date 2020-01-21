@@ -2,11 +2,11 @@
 layout: post 
 title:  "일산/ 킨텍스 상상체험 키즈월드" 
 description: TOP.5 
-date: 2020-01-22 02:55:07 
+date: 2020-01-22 03:15:10 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/10/30/100000044353/a770e61c-8134-4e12-aee4-a387c3e144c3.jpg 
 linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=100000044353&traceid=V0-113-1477e91b1241ec67 
 categories: [1025] 
-color: 4CAF50 
+color: ff1744 
 rank: 5 
 price: 10500 
 author: Ask View Shop 

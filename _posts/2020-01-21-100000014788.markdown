@@ -2,7 +2,7 @@
 layout: post 
 title:  "대구/다낭/ 대구/다낭/ 제주항공 오전출발/오후도착 바나산+맛사지 1시간 3박4일 패키지" 
 description: TOP.8 
-date: 2020-01-22 02:55:07 
+date: 2020-01-22 03:15:10 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/08/06/100000014788/36e93041-8fa1-4b1d-b1d4-f575aad3811d.jpg 
 linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=100000014788&traceid=V0-113-28b11426e016b969 
 categories: [1026] 

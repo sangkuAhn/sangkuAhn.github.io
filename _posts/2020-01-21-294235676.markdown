@@ -2,11 +2,11 @@
 layout: post 
 title:  "슈퍼카미트 커플 겨울 털 슬리퍼 실내화 WT9771" 
 description: TOP.8 
-date: 2020-01-22 02:55:07 
+date: 2020-01-22 03:15:10 
 img: https://static.coupangcdn.com/image/retail/images/2019/09/02/17/7/eb35c19f-c3e0-4cd7-9ef8-8fd9049f0ca5.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=294235676&itemId=928516121&vendorItemId=5305367867&traceid=V0-113-022efc58f933a1e2 
 categories: [1007] 
-color: ff1744 
+color: 212121 
 rank: 8 
 price: 8490 
 author: Ask View Shop 

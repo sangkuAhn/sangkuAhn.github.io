@@ -1,13 +1,13 @@
 ---
 layout: post 
 title:  "쿠팡 브랜드 - 코멧 호텔 수건 150g 30수 면사, 다크그레이, 10개" 
-description: TOP.28 
-date: 2020-01-22 02:55:07 
+description: TOP.2 
+date: 2020-01-22 03:15:10 
 img: https://static.coupangcdn.com/image/retail/images/14446098276487-4f58df2e-bddb-4c81-b2da-d86d00fcf756.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=187554379&itemId=536057673&vendorItemId=4813726643&traceid=V0-113-e62b92a8aba5334b 
-categories: [1014] 
-color: 03A9F4 
-rank: 28 
+categories: [1015] 
+color: 4CAF50 
+rank: 2 
 price: 19990 
 author: Ask View Shop 
 ---
