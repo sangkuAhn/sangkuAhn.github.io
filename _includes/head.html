@@ -1,9 +1,9 @@
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="ASKVIEW 베스트상품의 랭킹 순위">
+    <meta name="description" content="{% if page.desctiption %}{{page.desctiption}} - {{site.desctiption}}{% else %}{{site.desctiption}}{% endif %}">
 	<meta property="og:type" content="website"> 
 	<meta property="og:title" content="{% if page.title %}{{page.title}} - {{site.title}}{% else %}{{site.title}}{% endif %}">
-	<meta property="og:description" content="{% if page.title %}{{page.title}} - {{site.title}}{% else %}{{site.title}}{% endif %}">
+	<meta property="og:description" content="{% if page.desctiption %}{{page.desctiption}} - {{site.desctiption}}{% else %}{{site.desctiption}}{% endif %}">
 	<meta property="og:image" content="https://sangkuahn.github.io/images/askview.png">
 	<meta property="og:url" content="https://sangkuahn.github.io">
     <title>{% if page.title %}{{page.title}} - {{site.title}}{% else %}{{site.title}}{% endif %}</title>
