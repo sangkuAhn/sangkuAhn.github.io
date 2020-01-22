@@ -4,7 +4,7 @@
 	<meta property="og:type" content="website"> 
 	<meta property="og:title" content="{% if page.title %}{{page.title}} - {{site.title}}{% else %}{{site.title}}{% endif %}">
 	<meta property="og:description" content="{% if page.desctiption %}{{page.desctiption}} - {{site.desctiption}}{% else %}{{site.desctiption}}{% endif %}">
-	<meta property="og:image" content="https://sangkuahn.github.io/images/askview.png">
+	<meta property="og:image" content="{% if page.img %}{{page.img}} - {{site.img}}{% else %}{{site.img}}{% endif %}">
 	<meta property="og:url" content="https://sangkuahn.github.io">
     <title>{% if page.title %}{{page.title}} - {{site.title}}{% else %}{{site.title}}{% endif %}</title>
 	
