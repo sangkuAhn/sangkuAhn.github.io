@@ -44,7 +44,6 @@ include: [_pages]
 version: 0.8
 
 plugins:
-  - jekyll-paginate-v2
   - jekyll-seo-tag
 
   
