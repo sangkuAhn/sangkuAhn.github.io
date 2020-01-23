@@ -1,60 +1,29 @@
 ---
 layout: default
-pagination:
-    enabled: true
-    category: Penguin
-    per_page: 2
 ---
 <div class="page-container">
    
     <div class="content">
     <article>
-{% for post in site.categories[page.category] %}    
-    <div class="box" style="background-color:#{{post.color}}">
-     <input type="hidden" value="{{post.title}}">
-        <a href="{{post.linkUrl}}" target="_blank">
-           <img class="feat-image" src={{ post.img }} alt="{{post.title}}" >
-         </a>
-          <div class="container">
-            <h4>{{post.title}}</h4>
-            <!--<p>{{post.description}}</p>-->
-             <div class="action">{{ post.date | date: '%B %d, %Y' }}
-               <a href="{{post.url | prepend: site.baseurl}}" target="_blank">
-                <i class="fa fa-arrow-right" aria-hidden="true"></i>
-              </a>
-            </div> 
-        </div>   
-    
-    </div>
+{% for post in paginator.posts %}
+	<a href="{{ post.url | relative_url }}">
+      <strong>{{ post.title | escape }}</strong>
+	</a>
 {% endfor %}
- 
 {% if paginator.total_pages > 1 %}
-    <div class="pagination">
-        {% if paginator.previous_page %}
-            <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
-        {% else %}
-            <span>&laquo; Prev</span>
-        {% endif %}
-
-        {% for page in (1..paginator.total_pages) %}
-            {% if page == paginator.page %}
-                <em>{{ page }}</em>
-
-            {% elsif page == 1 %} 
-                <a href="{{ '/Penguin/index.html' | prepend: site.baseurl }}">{{ page }}</a>
-            {% else %}
-                <a href="{{ site.paginate_path | prepend: '/Penguin/' | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>     
-                <!-- 페이지 번호를 나타내기 위한 코드. -->
-            {% endif %}
-        {% endfor %}
-
-        {% if paginator.next_page %}
-            <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
-        {% else %}
-            <span>Next &raquo;</span>
-        {% endif %}
-    </div>
-{% endif %}       
+  <ul class="pager">
+    {% if paginator.previous_page %}
+    <li>
+      <a class="previous" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; 이전</a>
+    </li>
+    {% endif %}
+    {% if paginator.next_page %}
+    <li>
+      <a class="next" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">다음 &rarr;</a>
+    </li>
+    {% endif %}
+  </ul>
+{% endif %}     
        
 </article>
 </div>
