@@ -1,0 +1,10 @@
+---
+layout: default
+title: 여성패션
+description: "여성패션"
+permalink: "/1001"
+pagination: 
+  enabled: true
+  category: "1001"
+  permalink: /:num/
+---
