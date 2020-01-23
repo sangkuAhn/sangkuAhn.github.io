@@ -49,7 +49,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-sitemap
-  
+
 pagination:
   enabled: true
   per_page: 5
@@ -61,5 +61,7 @@ pagination:
   
 
   
-exclude:
-  - Gemfile
+language: ruby
+rvm:
+  - 2.6
+script: "bundle exec jekyll build"
