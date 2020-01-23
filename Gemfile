@@ -1,4 +1,4 @@
-source "https://rubygems.org"
+=beginsource "https://rubygems.org"
 ruby RUBY_VERSION
 
 # Hello! This is where you manage which Jekyll version is used to run.
@@ -26,3 +26,4 @@ group :jekyll_plugins do
 end
 
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+=end
