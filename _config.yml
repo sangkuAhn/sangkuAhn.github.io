@@ -43,6 +43,9 @@ api-token:
 include: [_pages]
 version: 0.8
 
+paginate: 5
+
+
 
 plugins:
   - jekyll-paginate-v2
