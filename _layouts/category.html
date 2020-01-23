@@ -5,6 +5,7 @@ layout: default
    
     <div class="content">
     <article>
+<!-- _layouts/home.html -->
 {% for post in paginator.posts %}
 	<a href="{{ post.url | relative_url }}">
       <strong>{{ post.title | escape }}</strong>
@@ -23,8 +24,8 @@ layout: default
     </li>
     {% endif %}
   </ul>
-{% endif %}     
-       
+{% endif %}
+
 </article>
 </div>
 </div>
