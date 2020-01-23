@@ -47,11 +47,10 @@ gems:
     - jekyll-paginate-v2
 
 pagination:
-    enabled: true
-    per_page: 2
-    limit: 0
-    sort_field: "date"
-    sort_reverse: true
+  enabled: true
+  per_page: 9
+  sort_reverse: true # 안 해주면 오래된 것부터 나옴
+
     
 plugins: 
     - jekyll-seo-tag
