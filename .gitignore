@@ -5,5 +5,4 @@ _site/
 .py
 .sh
 .pyc
-.jekyll-cache/
-*.jekyll
+
