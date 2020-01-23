@@ -45,7 +45,7 @@ version: 0.8
 
 plugins:
   - jekyll-paginate-v2
-  
+  - gemoji
 
 pagination:
   enabled: true
