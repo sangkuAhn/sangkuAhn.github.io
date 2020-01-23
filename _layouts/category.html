@@ -5,6 +5,7 @@ layout: default
    
     <div class="content">
     <article>
+{% assign category = page.category | default: page.title %}
 {% for post in site.categories[category] %}  
     <div class="box" style="background-color:#{{post.color}}">
      <input type="hidden" value="{{post.title}}">
