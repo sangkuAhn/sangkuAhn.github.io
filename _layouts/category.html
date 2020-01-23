@@ -5,7 +5,7 @@ layout: default
    
     <div class="content">
     <article>
-{% for post in paginator.categories[page.category] %}    
+{% for post in site.categories[page.category] %}    
     <div class="box" style="background-color:#{{post.color}}">
      <input type="hidden" value="{{post.title}}">
         <a href="{{post.linkUrl}}" target="_blank">
@@ -24,21 +24,6 @@ layout: default
     </div>
 {% endfor %}
  
-
-       <!-- Pagination links -->
-   <div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-  {% else %}
-    <span class="previous">Previous</span>
-  {% endif %}
-  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-  {% else %}
-    <span class="next ">Next</span>
-  {% endif %}
-</div>
        
        
 </article>
