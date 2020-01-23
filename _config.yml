@@ -45,6 +45,7 @@ version: 0.8
 
 plugins:
   - jekyll-paginate-v2
+  
 pagination:
   enabled: true
   per_page: 5
