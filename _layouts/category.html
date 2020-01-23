@@ -2,7 +2,7 @@
 layout: default
 ---
 <div id="container">
-<div id="grid" data-columns class="cols">
+<div id="grid" data-columns   class="cols">
 {% assign category = page.category | default: page.title %}
 {% for post in site.categories[category] %}  
     <div class="box" style="border-radius: 4px 4px 0 0;width: 150px;background-color:#{{post.color}}">
