@@ -5,10 +5,10 @@ layout: default
 <div id="grid" data-columns class="cols">
 {% assign category = page.category | default: page.title %}
 {% for post in site.categories[category] %}  
-    <div class="box" style="background-color:#{{post.color}}">
+    <div class="box" style="border-radius: 4px 4px 0 0;width: 150px;background-color:#{{post.color}}">
      <input type="hidden" value="{{post.title}}">
         <a href="{{post.linkUrl}}" target="_blank">
-           <img style="border-radius: 4px 4px 0 0;width: 300px;" class="feat-image1" src={{ post.img }} alt="{{post.title}}" >
+           <img style="border-radius: 4px 4px 0 0;width: 150px;" class="feat-image1" src={{ post.img }} alt="{{post.title}}" >
          </a>
           <div class="container">
             <h4>{{post.title}}</h4>
