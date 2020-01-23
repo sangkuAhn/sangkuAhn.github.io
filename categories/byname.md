@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: By Name
 permalink: /name/
 pagination: 
