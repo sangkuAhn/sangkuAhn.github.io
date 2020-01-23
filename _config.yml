@@ -48,4 +48,4 @@ plugins:
     - jekyll-seo-tag
 
 pagenate: 5
-  
+paginate_path: "/1001/page:num/" 
