@@ -3,8 +3,8 @@ title: ASKVIEW
 desctiption: ASKVIEW 베스트상품의 랭킹 순위 소개
 url: https://sangkuahn.github.io
 img: https://sangkuahn.github.io/images/askview.png
-#permalink: ':title/'
-permalink: /:year/:month/:title.html
+permalink: ':title/'
+#permalink: /:year/:month/:title.html
 markdown: kramdown
 baseurl: "/"
 baseWord: "제휴마켓팅이 적용되어 커미션이 발생할 수 있습니다."
