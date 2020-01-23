@@ -43,14 +43,13 @@ api-token:
 include: [_pages]
 version: 0.8
 
-gems:
- - jemoji
- - jekyll-sitemap
-
 
 plugins:
   - jekyll-paginate-v2
-
+  - jekyll-feed
+  - jemoji
+  - jekyll-sitemap
+  
 pagination:
   enabled: true
   per_page: 5
