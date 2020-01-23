@@ -46,6 +46,7 @@ version: 0.8
 plugins:
   - jekyll-paginate-v2
   - gemoji
+  - jekyll-seo-tag
 
 pagination:
   enabled: true
