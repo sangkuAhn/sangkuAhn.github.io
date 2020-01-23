@@ -9,7 +9,7 @@ pagination:
    
     <div class="content">
     <article>
-{% for post in paginator.categories[page.category] %}    
+{% for post in site.categories[page.category] %}    
     <div class="box" style="background-color:#{{post.color}}">
      <input type="hidden" value="{{post.title}}">
         <a href="{{post.linkUrl}}" target="_blank">
