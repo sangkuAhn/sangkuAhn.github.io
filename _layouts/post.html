@@ -15,6 +15,16 @@ layout: default
         {% endif %}
         {{page.content | markdownify}}
        <br>
+       {% if page.price %}    
+         <p style="text-align:center">{{page.price}} 원</p>
+         <br/>
+         <p style="text-align:center">보고계시는 상품은 {{page.date | date: '%Y, %b %d'}} 에 작성되었어요.<br/>
+                가격변동 및 추가 할인이 있을수 있으니, <br/>
+                꼭!! 가격을 확인해주세요<br/>
+                <br/>
+                오늘 하루도 즐거운 쇼핑되세요!~
+               감사합니다.<br/></p>
+        {% endif %}
        <br>
        <p style="text-align:center">
           <a href="{{page.linkUrl}}" target="_blank">
