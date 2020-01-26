@@ -48,3 +48,4 @@ paginate: 5
 plugins: 
     - jekyll-paginate
     - jekyll-seo-tag
+    - jekyll-sitemap
