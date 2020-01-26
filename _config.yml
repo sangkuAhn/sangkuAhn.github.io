@@ -3,7 +3,7 @@ title: ASKVIEW
 desctiption: ASKVIEW 베스트상품의 랭킹 순위 소개
 url: https://sangkuahn.github.io
 img: https://sangkuahn.github.io/images/askview.png
-permalink: ':title/'
+permalink: ':title'
 
 markdown: kramdown
 baseurl: "/"
