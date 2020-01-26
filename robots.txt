@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://sangkuahn.github.io/sitemap.xml
