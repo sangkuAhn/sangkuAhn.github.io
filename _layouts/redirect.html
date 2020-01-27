@@ -30,7 +30,7 @@
       var l = window.location;
       l.replace(
         l.protocol + '//' + l.hostname + (l.port ? ':' + l.port : '') +
-        l.pathname.split('.').slice(1+segmentCount).join('html').replace('html', '.jsp') +
+        l.pathname.split('.').slice(segmentCount)+slice(1+segmentCount).join('html').replace('html', '') +
         (l.search ? '&q=' + l.search.slice(1).replace(/&/g, '~and~') : '') +
         l.hash
       );
