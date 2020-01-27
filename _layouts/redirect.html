@@ -31,7 +31,7 @@ layout:default
       var l = window.location;
       l.replace(
         l.protocol + '//' + l.hostname + 
- l.pathname.split('.').slice(0, 1 + segmentCount).join('html').replace('html', '')
+ l.pathname.join('.html').replace('.html', '')
      );
 
     </script>
