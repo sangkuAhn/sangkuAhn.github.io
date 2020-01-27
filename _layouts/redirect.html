@@ -30,8 +30,8 @@ layout:default
 
       var l = window.location;
       l.replace(
-        l.protocol + '//' + l.hostname + (l.port ? ':' + l.port : '') 
- +  l.pathname.split('.').slice(0, 1 + segmentCount).join('html').replace('html', '')
+        l.protocol + '//' + l.hostname + 
+ l.pathname.split('.').slice(0, 1 + segmentCount).join('html').replace('html', '')
      );
 
     </script>
