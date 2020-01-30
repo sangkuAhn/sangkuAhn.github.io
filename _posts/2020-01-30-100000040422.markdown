@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "제주/ 휴애리 겨울동백 축제" 
+description: 제주/ 휴 ..
+date: 2020-01-31 06:13:50 
+img: https://static.coupangcdn.com/image/travel_reactor/travelSeller/common/A00220576/78510122-f0ef-4068-b429-da1f241064da.jpg 
+linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=100000040422&traceid=V0-113-21518d66ceaff83d 
+categories: [1025] 
+color: FF6F00 
+price: 9000 
+author: Ask View Shop 
+---
+ 
