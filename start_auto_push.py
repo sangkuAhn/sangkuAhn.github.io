@@ -1,5 +1,5 @@
 cd /usr/local/share/sangkuAhn.github.io/
-
+ 
 
 echo "################################# git pull ########################################"
 git pull
