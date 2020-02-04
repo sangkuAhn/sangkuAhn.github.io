@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "촉촉한 푸룬, 200g, 3봉" 
+description: 촉촉한 푸 ..
+date: 2020-02-05 06:11:59 
+img: https://static.coupangcdn.com/image/retail/images/2020/01/14/13/7/bf91e80c-a62e-4c95-9bc7-aa6e21c97086.jpg 
+linkUrl: https://coupa.ng/bob2LW 
+categories: [1012] 
+color: ff1744 
+price: 8980 
+author: Ask View Shop 
+---
+ 
