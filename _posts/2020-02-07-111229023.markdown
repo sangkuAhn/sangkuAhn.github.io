@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "매일바이오 플레인 450g, 1개" 
+description: 매일바이오 ..
+date: 2020-02-08 06:12:21 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/10/19/3822099450/67af71c2-63ab-4783-948b-e23de14a987c.jpg 
+linkUrl: https://coupa.ng/bozA5c 
+categories: [1012] 
+color: 4CAF50 
+price: 2560 
+author: Ask View Shop 
+---
+ 
