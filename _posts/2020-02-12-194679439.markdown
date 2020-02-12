@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 코멧 클래식 아령 5kg, 1개, 블랙" 
+description: 쿠팡 브랜 ..
+date: 2020-02-13 06:14:46 
+img: https://static.coupangcdn.com/image/retail/images/11941581415621-7187db85-be28-45e9-ba6f-52e090fe21fd.jpg 
+linkUrl: https://coupa.ng/bo5Bh5 
+categories: [1024] 
+color: 4CAF50 
+price: 11990 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "가평군/ 베이유키즈풀빌라펜션" 
+description: 가평군/  ..
+date: 2020-02-13 06:15:23 
+img: https://static.coupangcdn.com/image/travel_reactor/static/booking/image/pension/ddnayo/e227e4aa-8e53-457f-8f52-0ba777981605.jpg 
+linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=100000040027&traceid=V0-113-830c59ffb0338ccd 
+categories: [1025] 
+color: 7E57C2 
+price: 149000 
+author: Ask View Shop 
+---
+ 
