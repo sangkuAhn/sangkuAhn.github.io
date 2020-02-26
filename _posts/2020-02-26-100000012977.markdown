@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "제주/ 제주민속촌" 
+description: 제주/ 제 ..
+date: 2020-02-27 06:15:05 
+img: https://static.coupangcdn.com/image/travel_reactor/travelSeller/common/A00186691/050bbf17-260d-4ae6-9d3a-e7eef23f5f33.jpg 
+linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=100000012977&traceid=V0-113-bc9514fe00f3e1be 
+categories: [1025] 
+color: 4A148C 
+price: 5300 
+author: Ask View Shop 
+---
+ 

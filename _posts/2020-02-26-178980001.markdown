@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코디아이 봄비 편면내의" 
+description: 코디아이  ..
+date: 2020-02-27 06:10:47 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2019/01/22/15/2/bcd3245f-1e63-48c6-ac1f-a66a2209b7bf.jpg 
+linkUrl: https://coupa.ng/brg4u0 
+categories: [1003] 
+color: 212121 
+price: 6900 
+author: Ask View Shop 
+---
+ 
