@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "가평군/ 춘향이와방자펜션" 
+description: 가평군/  ..
+date: 2020-03-02 06:15:09 
+img: https://static.coupangcdn.com/image/travel_reactor/static/booking/image/pension/ddnayo/5834c42b-fbcb-4db1-a43d-ed6f5dadc9dd.jpg 
+linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=100000004299&traceid=V0-113-8ac1402ce1647ed1 
+categories: [1025] 
+color: ff1744 
+price: 58600 
+author: Ask View Shop 
+---
+ 

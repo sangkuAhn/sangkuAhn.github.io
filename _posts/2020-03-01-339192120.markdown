@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "곰곰 김말이, 400g, 2개" 
+description: 곰곰 김말 ..
+date: 2020-03-02 06:12:29 
+img: https://static.coupangcdn.com/image/retail/images/89614358714512-a5c93734-5c0b-4d58-aa98-fc605dcd007e.jpg 
+linkUrl: https://coupa.ng/brV10u 
+categories: [1012] 
+color: f44336 
+price: 6700 
+author: Ask View Shop 
+---
+ 
