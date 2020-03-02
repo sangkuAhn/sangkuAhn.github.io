@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "강화군/ 테라피펜션" 
+description: 강화군/  ..
+date: 2020-03-03 06:15:06 
+img: https://static.coupangcdn.com/image/travel_reactor/static/booking/image/pension/ddnayo/05df412b-45f1-416d-8d16-aaa52970d284.jpg 
+linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=100000003702&traceid=V0-113-c57aaf04b3f81e90 
+categories: [1025] 
+color: FF6F00 
+price: 45000 
+author: Ask View Shop 
+---
+ 
