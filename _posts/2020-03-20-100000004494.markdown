@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "경주시/ 스탈리펜션" 
+description: 경주시/  ..
+date: 2020-03-20 17:34:31 
+img: https://static.coupangcdn.com/image/travel_reactor/static/booking/image/pension/ddnayo/13420755-1287-4f95-abb8-c6176ee0c94c.jpg 
+linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=100000004494&traceid=V0-113-42dd2ca93c29df50 
+categories: [1025] 
+color: 4A148C 
+price: 67500 
+author: Ask View Shop 
+---
+ 
