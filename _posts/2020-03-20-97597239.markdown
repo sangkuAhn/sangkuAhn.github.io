@@ -2,10 +2,10 @@
 layout: post 
 title:  "한경희생활과학 스마트 체중계, MF-C203B, 화이트" 
 description: 한경희생활 ..
-date: 2020-03-20 17:24:04 
+date: 2020-03-21 06:35:26 
 img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/03/25/3737469763/6c47a1c2-da07-4fc4-9909-71390d702da1.jpg 
-linkUrl: https://coupa.ng/buW0pr 
-categories: [1016] 
+linkUrl: https://coupa.ng/bu2BRu 
+categories: [1024] 
 color: 9E9D24 
 price: 27900 
 author: Ask View Shop 
