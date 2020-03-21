@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "곰곰 아삭한 콩나물, 500g, 1봉" 
+description: 곰곰 아삭 ..
+date: 2020-03-22 06:22:13 
+img: https://static.coupangcdn.com/image/retail/images/199673253122926-b0372aa7-c1ca-4393-b384-558e67f61ac4.jpg 
+linkUrl: https://coupa.ng/bvcBEb 
+categories: [1012] 
+color: 7E57C2 
+price: 1880 
+author: Ask View Shop 
+---
+ 
