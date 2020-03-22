@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "통영시/ 아스트로 풀빌라펜션" 
+description: 통영시/  ..
+date: 2020-03-23 06:37:48 
+img: https://static.coupangcdn.com/image/travel_reactor/static/booking/image/pension/ddnayo/359585be-c92d-432e-96ca-22f5a20a6ba2.jpg 
+linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=100000004060&traceid=V0-113-94c419d24bcafd29 
+categories: [1025] 
+color: 9E9D24 
+price: 80000 
+author: Ask View Shop 
+---
+ 
