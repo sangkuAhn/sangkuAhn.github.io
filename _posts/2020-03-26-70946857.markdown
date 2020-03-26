@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "캣냅 헤어악세사리 A 세트" 
+description: 캣냅 헤어 ..
+date: 2020-03-27 06:18:41 
+img: https://static.coupangcdn.com/image/retail/images/2018/03/19/13/7/b451dd4b-a2ea-4c7a-8bad-a5606aba8885.jpg 
+linkUrl: https://coupa.ng/bv2JVw 
+categories: [1008] 
+color: FF6F00 
+price: 6000 
+author: Ask View Shop 
+---
+ 
