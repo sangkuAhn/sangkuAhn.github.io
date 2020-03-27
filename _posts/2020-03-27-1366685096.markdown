@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "시모어 비접촉식 적외선 온도계, 1개" 
+description: 시모어 비 ..
+date: 2020-03-28 06:36:21 
+img: https://static.coupangcdn.com/image/vendor_inventory/6b6b/39863f413a1153c492627dfb735c1a1f398b006f3332ee3f71efa88a67c9.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=1366685096&itemId=2398829698&vendorItemId=70393844359&traceid=V0-113-d95f32c81225c3b7 
+categories: [1024] 
+color: f44336 
+price: 55620 
+author: Ask View Shop 
+---
+ 
