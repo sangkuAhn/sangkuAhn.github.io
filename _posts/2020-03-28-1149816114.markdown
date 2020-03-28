@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코디아이 아동용 라이언 런닝 2종 세트" 
+description: 코디아이  ..
+date: 2020-03-29 06:15:09 
+img: https://static.coupangcdn.com/image/retail/images/2020/01/06/15/8/1479204a-70d5-4acd-9027-4525573f10f5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=1149816114&itemId=2123517765&vendorItemId=70122110213&traceid=V0-113-84c3d0c6b6809867 
+categories: [1005] 
+color: 212121 
+price: 8900 
+author: Ask View Shop 
+---
+ 

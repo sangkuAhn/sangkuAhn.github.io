@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "쿵스쿵스 라텍스 깔창 3세트" 
+description: 쿵스쿵스  ..
+date: 2020-03-29 06:17:31 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/01/25/4326577457/cc95a9ba-ee05-4a23-8fcd-2550c37c094d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=179851074&itemId=515031036&vendorItemId=4326577457&traceid=V0-113-8c9fe584e990073f 
+categories: [1007] 
+color: 006064 
+price: 8010 
+author: Ask View Shop 
+---
+ 
