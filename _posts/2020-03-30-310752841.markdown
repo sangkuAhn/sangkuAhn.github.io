@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "씨앤케이 미니빔프로젝터 CY90" 
+description: 씨앤케이  ..
+date: 2020-03-31 06:28:59 
+img: https://static.coupangcdn.com/image/retail/images/2019/09/26/11/4/eb7e588d-a2bc-4edf-86f1-c46e64f0c4b7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=310752841&itemId=980154393&vendorItemId=5397287549&traceid=V0-113-8d45fe477a4681c7 
+categories: [1016] 
+color: 006064 
+price: 169000 
+author: Ask View Shop 
+---
+ 

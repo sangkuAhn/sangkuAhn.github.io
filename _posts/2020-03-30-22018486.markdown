@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "캐스비 테트리스블록 보드게임, 랜덤 발송" 
+description: 캐스비 테 ..
+date: 2020-03-31 06:21:12 
+img: https://static.coupangcdn.com/image/retail/images/5357451893750-dc74a873-62b1-4571-a438-164de5be8a09.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=22018486&itemId=85791128&vendorItemId=3145940410&traceid=V0-113-1ee755e0ce1850bd 
+categories: [1011] 
+color: BF360C 
+price: 12300 
+author: Ask View Shop 
+---
+ 
