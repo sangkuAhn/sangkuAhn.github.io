@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "제이키드 주니어용 파리 레깅스" 
+description: 제이키드  ..
+date: 2020-04-17 04:35:04 
+img: https://static.coupangcdn.com/image/retail/images/2020/02/13/11/2/5fb14f79-9c44-4018-8b4b-9debc7be87c5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1257949168&itemId=2258835866&vendorItemId=70256138597&traceid=V0-113-7136ce31c0076428 
+categories: [1004] 
+color: 4A148C 
+price: 8700 
+author: Ask View Shop 
+---
+ 
