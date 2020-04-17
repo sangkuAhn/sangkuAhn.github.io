@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "채니봉봉 라일락퍼플 헤어핀세트" 
+description: 채니봉봉  ..
+date: 2020-04-18 04:35:00 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/05/02/4362072022/17fe1634-6127-4dec-b112-bd84d88a54c4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=183397920&itemId=525088333&vendorItemId=4362072022&traceid=V0-113-1dc5bd56b7f748a7 
+categories: [1004] 
+color: 4CAF50 
+price: 9900 
+author: Ask View Shop 
+---
+ 
