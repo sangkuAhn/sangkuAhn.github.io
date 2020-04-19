@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "쌤소나이트 Red BAYNES 토트" 
+description: 쌤소나이트 ..
+date: 2020-04-20 05:08:10 
+img: https://static.coupangcdn.com/image/retail/images/2019/12/16/20/6/227a1df8-2dae-4d25-b2fd-a471ae2cad87.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1343371165&itemId=2370804169&vendorItemId=70064857507&traceid=V0-113-4c9b6b7aed548e42 
+categories: [1008] 
+color: 4A148C 
+price: 80100 
+author: Ask View Shop 
+---
+ 
