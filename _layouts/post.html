@@ -34,17 +34,10 @@ layout: default
        <hr>
        <br>
        {{site.baseWord}}
-       <p></p>
-       <div id="post_list">
-        <ul>
-              <li><a href="{{ page.link_url0 }}" target="_blank"> {{ page.link_nm0 }}</a></li>  
-              <li><a href="{{ page.link_url1 }}" target="_blank"> {{ page.link_nm1 }}</a></li>      
-              <li><a href="{{ page.link_url2 }}" target="_blank"> {{ page.link_nm2 }}</a></li>
-        </ul>
-        </div>
+       <p></p>       
 
-      <!--  {% include post_list.html %} -->
-       <!-- {% include power_link.html %} -->
+        {% include post_list.html %} 
+        {% include power_link.html %} 
     </article>
     <!--         {% if page.categories %}
         {% include post_list.html %}
