@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "요플레 키즈 딸기, 240g, 4개" 
+description: 요플레 키 ..
+date: 2020-04-21 05:15:27 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/09/16/4971770196/45d1e117-06bf-42ea-92de-1a73641aafe0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=191493589&itemId=547351550&vendorItemId=4436090722&traceid=V0-113-f860941171e31b03 
+categories: [1011] 
+color: f44336 
+price: 7000 
+author: Ask View Shop 
+---
+ 
