@@ -1,0 +1,19 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 코멧 걸이형 압축팩, 일반형, 4개입, 1개" 
+description: 쿠팡 브랜 ..
+date: 2020-04-20 21:33:13 
+img: https://static.coupangcdn.com/image/retail/images/9655226973982-2c1af89e-a223-468b-82e7-ba84f2406523.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=344614593&itemId=1094686851&vendorItemId=5613437187&traceid=V0-113-5cb10b066871358c 
+categories: [1015] 
+color: 4A148C 
+price: 9110 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/an0733/221918028067 
+link_nm0: [특가정보] 삼성전자 그랑데 건조기 14Kg DV14R8520KP 
+link_url1: https://blog.naver.com/santokki14/221903036052 
+link_nm1: [쇼핑특가] 겟유즈드 시원한 디프론트 쿨맥스 블랙 청바지 DNEDDN101 2001중계 / SSED  
+link_url2: https://blog.naver.com/an0733/221841622567 
+link_nm2: [특가] 미니아트 실리콘 귀걸이 블링스타 3종 택1 
+---
+ 

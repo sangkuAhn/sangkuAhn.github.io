@@ -1,0 +1,19 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 베이스알파 키즈 아동용 레깅스 3종 세트" 
+description: 쿠팡 브랜 ..
+date: 2020-04-20 21:31:25 
+img: https://static.coupangcdn.com/image/retail/images/9984959229811-36627be4-0352-4c6b-9f44-ccd5f30d0618.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=284296508&itemId=902400893&vendorItemId=5261750424&traceid=V0-113-1900243c7360215b 
+categories: [1005] 
+color: 43A047 
+price: 10000 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/santokki14/221857539822 
+link_nm0: [08SweetCandy1개] 뷰티핏 디파인 립 틴트 3.5g 
+link_url1: https://blog.naver.com/sakai111/221813030697 
+link_nm1: [생활] 식탁보 추천 상품 순위 ~41위  
+link_url2: https://blog.naver.com/sakai111/221866991757 
+link_nm2: [추천상품] 고잉키즈 아동용 기본 레깅스 3종 세트 
+---
+ 

@@ -1,0 +1,19 @@
+---
+layout: post 
+title:  "동양북스/딴짓거리 EASY (놀면서 스마트해지는 두뇌 자극 플레이북), 동양북스" 
+description: 동양북스/ ..
+date: 2020-04-20 21:33:59 
+img: https://static.coupangcdn.com/image/retail-product-api/A00077021/2456459/3894200/main/9791157685103_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=241826513&itemId=768422544&vendorItemId=5010271082&traceid=V0-113-6a51d6ebc50ba4f4 
+categories: [1019] 
+color: ff1744 
+price: 11250 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/sakai111/221829616770 
+link_nm0: [도서] 모두의 데이터 분석 with 파이썬 
+link_url1: https://blog.naver.com/sakai111/221788467437 
+link_nm1: [특가] 양원농장 바로담은 여주즙... 
+link_url2: https://blog.naver.com/sakai111/221871575727 
+link_nm2: [생활] 호피치마 추천 특가 순위 ~36위 #스커트 #레오파드 #롱스커트 #플레어 
+---
+ 

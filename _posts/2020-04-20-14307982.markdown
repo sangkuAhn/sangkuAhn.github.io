@@ -1,0 +1,19 @@
+---
+layout: post 
+title:  "한글 12주 세트 전 3권, 삼성출판사" 
+description: 한글 12 ..
+date: 2020-04-20 21:33:59 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/01/30/3092673563/65ee06c8-1577-43f8-a249-0daf7782c961.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=14307982&itemId=59110176&vendorItemId=3092673563&traceid=V0-113-3e4b341586273886 
+categories: [1019] 
+color: 03A9F4 
+price: 13500 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/santokki14/221811305298 
+link_nm0: 생활 / 시저캔 베스트 ~12위 
+link_url1: https://blog.naver.com/fasyy4321/221819249482 
+link_nm1: [추천]배드민턴채 47가지 정보 
+link_url2: https://blog.naver.com/santokki14/221797007747 
+link_nm2: [특가] 스마트7 초 미세먼지 황사 마스크 KF80 KF94... 
+---
+ 

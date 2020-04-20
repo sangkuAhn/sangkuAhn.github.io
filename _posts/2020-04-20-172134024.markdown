@@ -1,0 +1,19 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 코멧 EVA 편안한 폼롤러, 와인 (60cm)" 
+description: 쿠팡 브랜 ..
+date: 2020-04-20 21:33:36 
+img: https://static.coupangcdn.com/image/retail/images/10943235946829-037dbe0b-5883-4cf2-b913-61febb928283.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=172134024&itemId=492137507&vendorItemId=4467404150&traceid=V0-113-5d1cb7be0fe6d274 
+categories: [1017] 
+color: 212121 
+price: 12340 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/santokki14/221781342649 
+link_nm0: [도서] EBS 다큐프라임 미래학교 
+link_url1: https://blog.naver.com/santokki14/221807079833 
+link_nm1: 생활 / 려자양윤모 베스트 ~48위 
+link_url2: https://blog.naver.com/an0733/221834678355 
+link_nm2: [추천상품] 우야몰 헬로 카봇 큐브팩세트A 큐브시계팩 카봇시계팩 카봇팩 캐릭터 장난감 완구 
+---
+ 

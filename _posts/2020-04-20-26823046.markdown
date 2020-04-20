@@ -1,0 +1,19 @@
+---
+layout: post 
+title:  "좌뇌개발 우뇌개발 12주 세트, 삼성출판사" 
+description: 좌뇌개발  ..
+date: 2020-04-20 21:33:59 
+img: https://static.coupangcdn.com/image/vendor_inventory/bcfd/7e9d1804678ab5b8e14c2d7d392bf7f6a7bd4c975ae3f8bf1e7676432d4b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=26823046&itemId=103753685&vendorItemId=3197747105&traceid=V0-113-86544a24100f8451 
+categories: [1019] 
+color: 43A047 
+price: 16200 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/sakai111/221861433087 
+link_nm0: [생활] 헤지스여성점퍼 추천 특가 순위 ~45위  
+link_url1: https://blog.naver.com/an0733/221796776847 
+link_nm1: [특가] [Clarks] 클락스 남성 캐주얼 부츠 워커 SKU1... 
+link_url2: https://blog.naver.com/sakai111/221868942605 
+link_nm2: [특가정보] 나이키 M2K 테크노 ESS CJ9583-100 
+---
+ 

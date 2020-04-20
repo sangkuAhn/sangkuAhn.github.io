@@ -1,0 +1,19 @@
+---
+layout: post 
+title:  "멀티 튜빙밴드 5종 풀 세트, 혼합 색상" 
+description: 멀티 튜빙 ..
+date: 2020-04-20 21:33:36 
+img: https://static.coupangcdn.com/image/retail/images/58544705368156-95f538a3-1842-4320-92b7-3de3b52f5019.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=324570317&itemId=1039047709&vendorItemId=5495559062&traceid=V0-113-3b25134f1ae5e3ba 
+categories: [1017] 
+color: BF360C 
+price: 26900 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/sakai111/221911577984 
+link_nm0: [도서] 밍꼬발랄 코믹스 3 - 김혜련 
+link_url1: https://blog.naver.com/fasyy4321/221839590977 
+link_nm1: 책추천 신사고 쎈 연산 초등 1학년 세트 
+link_url2: https://blog.naver.com/sakai111/221816913398 
+link_nm2: [도서] 바이러스 쇼크 
+---
+ 

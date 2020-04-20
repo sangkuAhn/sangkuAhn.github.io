@@ -1,0 +1,19 @@
+---
+layout: post 
+title:  "페스트, 민음사" 
+description: 페스트,  ..
+date: 2020-04-20 21:33:59 
+img: https://static.coupangcdn.com/image/vendor_inventory/ef55/50faaf9d1f647425c52f308ee278e98409094154b8b99ba86b4a9eae7247.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=3718112&itemId=18320793&vendorItemId=3049976837&traceid=V0-113-4e42ac9c58fe4c8b 
+categories: [1019] 
+color: f44336 
+price: 11700 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/sakai111/221784497573 
+link_nm0:  [생활] YBM리더스 특가 순위 ~50위 
+link_url1: https://blog.naver.com/sakai111/221819297592 
+link_nm1: [추천] 글램바디 볼륨업 시크릿 바디쉐이퍼 
+link_url2: https://blog.naver.com/santokki14/221769556020 
+link_nm2:  [생활] CD플레이어 정보  
+---
+ 

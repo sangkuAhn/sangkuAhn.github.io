@@ -1,0 +1,19 @@
+---
+layout: post 
+title:  "카카오프렌즈 파스틱, 24색" 
+description: 카카오프렌 ..
+date: 2020-04-20 21:34:22 
+img: https://static.coupangcdn.com/image/retail/images/405856053526505-90c9599e-c2d5-4444-936c-83fa81b1095e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=228953118&itemId=725904755&vendorItemId=4836019970&traceid=V0-113-f9e5c4b8b1b7cd6a 
+categories: [1021] 
+color: f44336 
+price: 9900 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/sakai111/221757746163 
+link_nm0:  [생활] 페트레이구스다운 정보  
+link_url1: https://blog.naver.com/an0733/221849917218 
+link_nm1:  TOP ~44위 모윰젖병 |  
+link_url2: https://blog.naver.com/legioss0914/221903067628 
+link_nm2: [개복숭아송로오일절임175g트러플바질페스토180g,1세트] 사비니타르투피 트러플 3종 세트, 트러플 치즈 180g  / 사MA 
+---
+ 

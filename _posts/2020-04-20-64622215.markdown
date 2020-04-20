@@ -1,0 +1,19 @@
+---
+layout: post 
+title:  "설화수 자음 2종 세트 + 쇼핑백, 1세트" 
+description: 설화수 자 ..
+date: 2020-04-20 21:32:15 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/08/05/4708389137/a3b7e0a6-639d-4e0a-a828-47b5319128e5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=64622215&itemId=659375024&vendorItemId=4708389137&traceid=V0-113-7ff664ebc773b5e3 
+categories: [1010] 
+color: FF6F00 
+price: 66890 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/sakai111/221888086294 
+link_nm0: [생활] 고메넛츠 추천 특가 순위 ~18위 #고메넛츠 #오트리 #시그니처 #프리미엄 #선물세트 #리저브 #쇼핑백 
+link_url1: https://blog.naver.com/sakai111/221790935629 
+link_nm1: [특가] 드림 1... 
+link_url2: https://blog.naver.com/sakai111/221834940495 
+link_nm2: [1box30g] 캐나다 모유 유산균 lgg 프로바이오틱스 500억 투입 100억 보장 신 
+---
+ 
