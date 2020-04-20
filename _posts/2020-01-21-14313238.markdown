@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "켈로그 크랜베리 아몬드 그래놀라, 550g, 1개" 
+description: TOP.31 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/03/22/4347631114/9f1ecccf-ba77-4104-988a-ac51d47550d6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=14313238&itemId=521276257&vendorItemId=4347631114&traceid=V0-113-8534530eb2cb6be4 
+categories: [1012] 
+color: 4A148C 
+rank: 31 
+price: 6590 
+author: Ask View Shop 
+---
+ 

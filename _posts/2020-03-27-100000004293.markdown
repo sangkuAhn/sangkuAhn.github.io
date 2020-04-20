@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "태안군/ 안면도 바닷가펜션" 
+description: 태안군/  ..
+date: 2020-03-28 06:37:45 
+img: https://static.coupangcdn.com/image/travel_reactor/static/booking/image/pension/ddnayo/7561a887-b39f-4c8e-ad06-2c5c1d329e1a.jpg 
+linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=100000004293&traceid=V0-113-8780d45afb291fa2 
+categories: [1025] 
+color: 212121 
+price: 75000 
+author: Ask View Shop 
+---
+ 

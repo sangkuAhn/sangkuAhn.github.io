@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "유세븐 플렉시 런닝화 5200" 
+description: TOP.58 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/retail/images/2019/06/18/17/6/a26ad47c-717f-4fbb-b8a3-8aca2eb4f435.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=241967089&itemId=768819435&vendorItemId=4941018447&traceid=V0-113-672cc42a3d1f2b2c 
+categories: [1007] 
+color: f44336 
+rank: 58 
+price: 13900 
+author: Ask View Shop 
+---
+ 

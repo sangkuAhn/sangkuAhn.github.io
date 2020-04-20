@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "나는 한 달에 1kg만 빼기로 했다, 북스고" 
+description: 나는 한  ..
+date: 2020-04-17 06:55:06 
+img: https://static.coupangcdn.com/image/retail/images/2020/04/10/18/3/15edb5ad-9d00-4eaf-9774-772e9db8c305.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1449878880&itemId=2496930443&vendorItemId=70490073373&traceid=V0-113-5f03849585b62689 
+categories: [1024] 
+color: 7E57C2 
+price: 16020 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "쿠첸 미니 전기밥솥 3~4인용, CJE-A0306" 
+description: 쿠첸 미니 ..
+date: 2020-04-19 05:41:25 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/08/30/3111328892/09e1adb5-9791-48a5-8d58-0006fadeb169.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1313759049&itemId=2331470605&vendorItemId=3112219028&traceid=V0-113-4b087b605f6e89b3 
+categories: [1013] 
+color: 43A047 
+price: 59000 
+author: Ask View Shop 
+---
+ 

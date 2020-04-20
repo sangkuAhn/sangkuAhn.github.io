@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 베이스알파에센셜 쿨러백, 그레이, 25L" 
+description: 쿠팡 브랜 ..
+date: 2020-04-19 06:14:14 
+img: https://static.coupangcdn.com/image/retail/images/665793033186797-6b5c4172-43aa-4083-ad3c-8f947cd47a1b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1164408651&itemId=2141508260&vendorItemId=70139883480&traceid=V0-113-d18e22716eae6705 
+categories: [1017] 
+color: 03A9F4 
+price: 11370 
+author: Ask View Shop 
+---
+ 

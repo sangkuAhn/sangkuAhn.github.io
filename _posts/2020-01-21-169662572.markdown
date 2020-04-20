@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "곰곰 시리얼바 현미 초콜릿, 25g, 12개입" 
+description: TOP.92 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/01/24/4223519287/a96f08a2-7b02-4d15-8003-4f17060f36f3.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=169662572&itemId=485533990&vendorItemId=4223519287&traceid=V0-113-ca98b4e82191d47c 
+categories: [1012] 
+color: BF360C 
+rank: 92 
+price: 8490 
+author: Ask View Shop 
+---
+ 

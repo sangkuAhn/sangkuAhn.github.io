@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "테이스티나인 전주식 비빔밥, 350g, 1개" 
+description: 테이스티나 ..
+date: 2020-03-31 06:22:22 
+img: https://static.coupangcdn.com/image/retail/images/2019/11/20/17/4/52974db4-a329-4554-a355-7133fb6f6fbf.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=340598187&itemId=1084327370&vendorItemId=5589500092&traceid=V0-113-082667cee5d083e4 
+categories: [1012] 
+color: 9E9D24 
+price: 14500 
+author: Ask View Shop 
+---
+ 

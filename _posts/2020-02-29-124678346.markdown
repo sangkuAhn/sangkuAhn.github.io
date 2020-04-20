@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "프로라미 코팅기 소형 H230, A4" 
+description: 프로라미  ..
+date: 2020-03-01 06:14:22 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/12/28/3895499804/b0c89be3-e53a-4ba6-b5ce-a290cfa4a0d5.jpg 
+linkUrl: https://coupa.ng/brMibP 
+categories: [1021] 
+color: FF6F00 
+price: 26900 
+author: Ask View Shop 
+---
+ 

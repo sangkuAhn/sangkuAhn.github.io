@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "크리스탈팬시 인스모조지, 혼합 색상, 72장" 
+description: TOP.22 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/11/08/3939888927/6988b5bf-001e-42c9-839e-3ef0efb3ee89.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=131397319&itemId=386756891&vendorItemId=3939888927&traceid=V0-113-271dfd3672625293 
+categories: [1021] 
+color: 006064 
+rank: 22 
+price: 6680 
+author: Ask View Shop 
+---
+ 

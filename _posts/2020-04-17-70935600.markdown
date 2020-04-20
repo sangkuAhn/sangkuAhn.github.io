@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "익스트림 자동버블건, 블루" 
+description: 익스트림  ..
+date: 2020-04-18 06:38:47 
+img: https://static.coupangcdn.com/image/retail/images/2018/03/19/11/6/e7dfc932-c40e-4b65-935b-d90646387fba.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=70935600&itemId=236915992&vendorItemId=3581396215&traceid=V0-113-5402586134a8ee4f 
+categories: [1020] 
+color: 7E57C2 
+price: 18820 
+author: Ask View Shop 
+---
+ 

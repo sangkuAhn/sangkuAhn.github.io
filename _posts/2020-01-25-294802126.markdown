@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "꿀고구마, 3kg, 1박스" 
+description: 꿀고구마, ..
+date: 2020-01-26 02:09:06 
+img: https://static.coupangcdn.com/image/retail/images/97324907140592-1244ab71-96c8-480b-9f60-70b36da58369.jpg 
+linkUrl: https://coupa.ng/bnfnOT 
+categories: [1012] 
+color: 43A047 
+price: 10500 
+author: Ask View Shop 
+---
+ 

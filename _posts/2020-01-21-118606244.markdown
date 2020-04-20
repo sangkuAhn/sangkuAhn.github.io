@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "삼성전자 무선 핸디 청소기 VC-H22, 에어본 + 뉴트럴 그레이" 
+description: TOP.63 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/10/23/3862420640/56f5441e-d712-49f9-a1e5-6d516e0ad3f1.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=118606244&itemId=353927693&vendorItemId=3862420640&traceid=V0-113-686417cde5fb9e98 
+categories: [1016] 
+color: 03A9F4 
+rank: 63 
+price: 34200 
+author: Ask View Shop 
+---
+ 

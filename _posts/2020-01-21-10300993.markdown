@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "플립즈 커버드 프레첼, 밀크 초콜릿, 1개" 
+description: TOP.90 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2019/03/20/17/7/e92802e7-2bb7-4871-9b78-4d61ab0b7919.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=10300993&itemId=45088247&vendorItemId=4041814087&traceid=V0-113-82afe14fccde87bb 
+categories: [1012] 
+color: 03A9F4 
+rank: 90 
+price: 4120 
+author: Ask View Shop 
+---
+ 

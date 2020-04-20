@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "반스 올드스쿨 블랙" 
+description: TOP.54 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/vendor_inventory/bd13/6677d153e47452b7f32f0718c3e329161031eab80ef7ef34ef566805c8c9.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=323474526&itemId=1035730126&vendorItemId=70154210661&traceid=V0-113-ef1a1ea6346c0d7d 
+categories: [1007] 
+color: f44336 
+rank: 54 
+price: 36000 
+author: Ask View Shop 
+---
+ 

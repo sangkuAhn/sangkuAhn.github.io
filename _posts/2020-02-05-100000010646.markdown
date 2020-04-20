@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "경주시/ 바다여행펜션" 
+description: 경주시/  ..
+date: 2020-02-06 06:15:19 
+img: https://static.coupangcdn.com/image/travel_reactor/static/booking/image/pension/ddnayo/73cc814a-a3d0-4a21-bb7a-6c05615d8449.jpg 
+linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=100000010646&traceid=V0-113-3261607c7852a383 
+categories: [1025] 
+color: 7E57C2 
+price: 42500 
+author: Ask View Shop 
+---
+ 

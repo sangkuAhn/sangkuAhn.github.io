@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "프라하/ 프라하 자유여행 6일" 
+description: 프라하/  ..
+date: 2020-02-03 06:16:16 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/10/21/100000043224/905edee4-8772-47aa-939c-18919563ac06.jpg 
+linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=100000043224&traceid=V0-113-26ec9022050983e0 
+categories: [1026] 
+color: 4A148C 
+price: 1620000 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "일산/ 킨텍스 레이싱 키즈월드" 
+description: 일산/ 킨 ..
+date: 2020-01-31 06:13:50 
+img: https://static.coupangcdn.com/image/travel_reactor/travelSeller/common/A00189542/113ed484-fcc9-4d3c-9f10-858e2382f1b4.jpg 
+linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=100000044339&traceid=V0-113-0ad97c94c7c35c63 
+categories: [1025] 
+color: 7E57C2 
+price: 13900 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 베이스알파에센셜 남성용 스트라이프 베이직 단목 양말 10켤레" 
+description: TOP.16 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/retail/images/238047545207895-b4daa98e-cff4-4aac-9e40-df99e3b4a91c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1103657061&itemId=2064492319&vendorItemId=70063712632&traceid=V0-113-60dba0db16eda6f1 
+categories: [1008] 
+color: 03A9F4 
+rank: 16 
+price: 9990 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "이고진 블랙 덤벨세트 23kg, 23000g" 
+description: TOP.71 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/08/08/4113132573/7d97549b-32d1-4c13-b331-7ea978f6d7cd.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1712103&itemId=448998918&vendorItemId=4113132573&traceid=V0-113-8f801629decdf296 
+categories: [1017] 
+color: f44336 
+rank: 71 
+price: 26000 
+author: Ask View Shop 
+---
+ 

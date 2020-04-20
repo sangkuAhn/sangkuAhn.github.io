@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "업클라스 윈터 기모 본딩 슬랙스 c01" 
+description: TOP.21 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/retail/images/2019/09/19/13/0/74449170-d7f4-4624-870c-3cbe0a1db055.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=305651317&itemId=963354562&vendorItemId=5366327867&traceid=V0-113-ed9bd16ad0348bac 
+categories: [1002] 
+color: 7E57C2 
+rank: 21 
+price: 15900 
+author: Ask View Shop 
+---
+ 

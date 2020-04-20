@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "설화수 자음 2종 세트 + 쇼핑백, 1세트" 
+description: TOP.1 
+date: 2020-01-22 03:15:10 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/08/05/4708389137/a3b7e0a6-639d-4e0a-a828-47b5319128e5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=64622215&itemId=659375024&vendorItemId=4708389137&traceid=V0-113-7ff664ebc773b5e3 
+categories: [1010] 
+color: 212121 
+rank: 1 
+price: 74700 
+author: Ask View Shop 
+---
+ 

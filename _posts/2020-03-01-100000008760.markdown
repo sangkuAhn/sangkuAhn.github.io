@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "여수/ 라테라스 리조트 코브스위트" 
+description: 여수/ 라 ..
+date: 2020-03-02 06:15:09 
+img: https://static.coupangcdn.com/image/travel_reactor/travelSeller/resort/A00174517/060e8cc5-01fc-450c-a3a1-f868320e0af0.jpg 
+linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=100000008760&traceid=V0-113-6c64968ceccaed6e 
+categories: [1025] 
+color: 7E57C2 
+price: 99000 
+author: Ask View Shop 
+---
+ 

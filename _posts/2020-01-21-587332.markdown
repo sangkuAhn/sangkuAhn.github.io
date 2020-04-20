@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "글래드 매직랩 일반형 30cm, 3개입" 
+description: TOP.98 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/02/12/3068764904/ca796b87-f0db-47ba-b4d7-625cc86ff69f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=587332&itemId=43850395&vendorItemId=3068764904&traceid=V0-113-fe53ccefa8cdf0fd 
+categories: [1013] 
+color: 4A148C 
+rank: 98 
+price: 13990 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "소프시스 언더랙 책상 1260, 티크 블랙" 
+description: TOP.68 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/07/01/4323613843/5cb61216-8cc5-40ab-ba2b-141914bf3ef2.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=179529909&itemId=514200918&vendorItemId=4323613843&traceid=V0-113-88c9b0004ce4eced 
+categories: [1015] 
+color: 03A9F4 
+rank: 68 
+price: 55510 
+author: Ask View Shop 
+---
+ 

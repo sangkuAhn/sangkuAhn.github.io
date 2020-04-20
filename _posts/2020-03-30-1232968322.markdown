@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "곰곰 신선한 우유, 2.3L, 1개" 
+description: 곰곰 신선 ..
+date: 2020-03-31 06:22:22 
+img: https://static.coupangcdn.com/image/retail/images/188570035344745-ad515e4b-a019-4b3b-a748-0fc90d7f4192.jpg 
+linkUrl: https://coupa.ng/bwFDkA 
+categories: [1012] 
+color: 7E57C2 
+price: 4580 
+author: Ask View Shop 
+---
+ 

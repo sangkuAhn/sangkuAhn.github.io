@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "곰곰 달콤한 딸기, 500g, 1팩" 
+description: 곰곰 달콤 ..
+date: 2020-01-29 06:11:38 
+img: https://static.coupangcdn.com/image/retail/images/332074730828914-76bd68f5-86df-4d67-862c-ef411368bed2.jpg 
+linkUrl: https://coupa.ng/bnuxDJ 
+categories: [1012] 
+color: 43A047 
+price: 10500 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "이고진 밸런스 보드, 핑크" 
+description: TOP.36 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/08/07/3949655698/13a2973e-73d7-4adc-ab26-6211e5d6b8d5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=132765062&itemId=390393055&vendorItemId=3949655698&traceid=V0-113-48cc89585e4e11a7 
+categories: [1017] 
+color: BF360C 
+rank: 36 
+price: 16440 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "로고스토리 메쉬 컴퓨터의자 AIR-MA200, 5.그레이(화이트쉘)" 
+description: TOP.73 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/vendor_inventory/6b10/380c079fdab8b73b5eb6ce9cc21d8ba1c2f3fb0972775de0dda0d8783dd7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=129211068&itemId=717102668&vendorItemId=4840128131&traceid=V0-113-c0c3f81412a710f3 
+categories: [1021] 
+color: BF360C 
+rank: 73 
+price: 39900 
+author: Ask View Shop 
+---
+ 

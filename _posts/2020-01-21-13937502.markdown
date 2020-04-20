@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "동원 양반 들기름김, 5g, 24개" 
+description: TOP.54 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/10/15/3090529410/7c8eb21c-7d49-4a44-80fa-d402870ec5b8.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=13937502&itemId=57775467&vendorItemId=3090529410&traceid=V0-113-4dc858501be99ec6 
+categories: [1012] 
+color: 006064 
+rank: 54 
+price: 6170 
+author: Ask View Shop 
+---
+ 

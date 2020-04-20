@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "마가렛트 오리지널, 396g, 1개" 
+description: TOP.91 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/retail/images/2019/09/18/21/4/c5c24b22-b88e-4011-9479-5258baeda920.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=306207704&itemId=965476314&vendorItemId=5370090692&traceid=V0-113-853875e4928eb518 
+categories: [1012] 
+color: 006064 
+rank: 91 
+price: 3340 
+author: Ask View Shop 
+---
+ 

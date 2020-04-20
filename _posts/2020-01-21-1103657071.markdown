@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 베이스알파에센셜 남성용 아가일 긴목 정장 신사 양말 6켤레" 
+description: TOP.33 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/retail/images/236649788570194-15bf46a1-f76a-4575-a921-8d656a703228.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1103657071&itemId=2064492330&vendorItemId=70063712649&traceid=V0-113-c7cf88b18a12e9ad 
+categories: [1008] 
+color: 4A148C 
+rank: 33 
+price: 9990 
+author: Ask View Shop 
+---
+ 

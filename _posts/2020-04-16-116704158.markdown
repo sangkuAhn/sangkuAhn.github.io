@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "이오시카 IPL 레이저 제모기 50K, SIPL-1000" 
+description: 이오시카  ..
+date: 2020-04-17 06:05:42 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/08/09/3852685377/64346f4e-e31b-4b87-911a-2de5fd25a7df.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=116704158&itemId=349554897&vendorItemId=3852685377&traceid=V0-113-5eeeb64edb2acead 
+categories: [1016] 
+color: 7E57C2 
+price: 109000 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "K2 베이직 귀마개, 블랙" 
+description: TOP.67 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/retail/images/46985749844026-6684931a-3169-43e4-b3e5-e305a7900691.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=320531572&itemId=1025698987&vendorItemId=5468983638&traceid=V0-113-89abe78ac772c042 
+categories: [1017] 
+color: 9E9D24 
+rank: 67 
+price: 8990 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "바디럽 퓨어썸 샤워기, 1개" 
+description: TOP.24 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/05/30/3198134535/954a6622-18a9-4957-b04d-e282f6275918.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=26869983&itemId=103900200&vendorItemId=3198134535&traceid=V0-113-a3fc27f4b44c5e85 
+categories: [1015] 
+color: FF6F00 
+rank: 24 
+price: 29800 
+author: Ask View Shop 
+---
+ 

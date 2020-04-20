@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "제이키드 주니어용 LA후드 상하복세트" 
+description: 제이키드  ..
+date: 2020-04-17 04:43:15 
+img: https://static.coupangcdn.com/image/retail/images/2020/02/13/15/0/21848b6e-077b-43cc-81e9-ec12206cfd28.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1258484938&itemId=2259402400&vendorItemId=70256695727&traceid=V0-113-ae43894828564db0 
+categories: [1005] 
+color: FF6F00 
+price: 24750 
+author: Ask View Shop 
+---
+ 
