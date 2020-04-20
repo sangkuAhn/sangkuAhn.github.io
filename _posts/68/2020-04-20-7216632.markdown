@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "듀플렉스 가정용 체지방 체중계, DP-6601BFS, 단일색상" 
+description: 듀플렉스  ..
+date: 2020-04-20 22:13:57 
+img: https://static.coupangcdn.com/image/retail/images/12461669151414-dc43a150-8310-4579-9e88-25bcb6f51ae4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7216632&itemId=31916098&vendorItemId=3082235930&traceid=V0-113-6b2b6f892363c651 
+categories: [1024] 
+color: 212121 
+price: 15900 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/sakai111/221900299644 
+link_nm0: [특가] NIKE 나이키 에어맥스 270 리액트 윈터 CD2049-001 
+link_url1: https://blog.naver.com/sakai111/221756918496 
+link_nm1:  [생활] 발목줄넘기 정보  
+link_url2: https://blog.naver.com/an0733/221919275539 
+link_nm2: [특가정보] 청춘농원 도매가 새싹인삼 새싹삼 100개 미니 소 사이즈 면역력채소 
+---

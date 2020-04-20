@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "Apple 애플펜슬 2세대 MU8F2KH/A, 단일 색상, 1개" 
+description: Apple ..
+date: 2020-04-20 22:12:47 
+img: https://static.coupangcdn.com/image/retail/images/2018/12/19/14/7/f421268c-a39e-41b9-9e7f-375b59de52a8.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=169628090&itemId=485434410&vendorItemId=70413958247&traceid=V0-113-5347b6494cfaa711 
+categories: [1016] 
+color: 43A047 
+price: 171900 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/santokki14/221769567463 
+link_nm0:  [생활] 흙쇼파 정보  
+link_url1: https://blog.naver.com/santokki14/221877902072 
+link_nm1: [6개] 아이깨끗해 손세정제 키친 200ml 리필 / 이깨끗해 BACNEBIAL 세균까지씻어요 BACNERI 
+link_url2: https://blog.naver.com/sakai111/221881280065 
+link_nm2: [생활] 쿠쿠블랙스톤압력밥솥 추천 특가 순위 ~25위 #CRP #블랙스톤 #10인용 #신세계TV쇼핑 #SALE! #6인용 #R 
+---

@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "삼성전자 갤럭시 핏e 스마트밴드, SM-R375N, 블랙" 
+description: 삼성전자  ..
+date: 2020-04-20 22:12:59 
+img: https://static.coupangcdn.com/image/retail/images/69485946928738-a92901ea-d954-4857-a251-56f849952269.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=237229825&itemId=751845881&vendorItemId=4899170305&traceid=V0-113-f360f7490d18a355 
+categories: [1017] 
+color: f44336 
+price: 47290 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/fasyy4321/221771265552 
+link_nm0:  [생활] 그립톡특가정보 순위 ~49위 
+link_url1: https://blog.naver.com/an0733/221819668522 
+link_nm1: [면도날8개,1개] 도루코 페이스7 II 프레쉬 면도기1개 
+link_url2: https://blog.naver.com/an0733/221907297036 
+link_nm2: [추천] 마이베비 콰트로 캔틴 290ml_메탈골드 / the mybevi  
+---

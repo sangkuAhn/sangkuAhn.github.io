@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 베이스알파 남성용 순면 런닝 5p" 
+description: 쿠팡 브랜 ..
+date: 2020-04-20 22:10:12 
+img: https://static.coupangcdn.com/image/retail/images/1669931718756-4a1b3d88-b93f-441d-a80a-077d56634dec.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=295583301&itemId=932090330&vendorItemId=5310974152&traceid=V0-113-2ddecc6f047d928d 
+categories: [1002] 
+color: 212121 
+price: 12110 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/an0733/221871498622 
+link_nm0: [100m1개] 싸파 다이니마 합사줄 다크그린 0.8호 / GREEN 100M SAPA OYNEEMAPE 100  
+link_url1: https://blog.naver.com/sakai111/221859409798 
+link_nm1: [다크그레이] 아임리빙 시어서커 리플 홑이불 
+link_url2: https://blog.naver.com/santokki14/221834418288 
+link_nm2: [도서] 엑셀 매크로&VBA 바이블 
+---

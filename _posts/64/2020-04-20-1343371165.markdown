@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "쌤소나이트 Red BAYNES 토트" 
+description: 쌤소나이트 ..
+date: 2020-04-20 22:11:25 
+img: https://static.coupangcdn.com/image/retail/images/2019/12/16/20/6/227a1df8-2dae-4d25-b2fd-a471ae2cad87.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1343371165&itemId=2370804169&vendorItemId=70064857507&traceid=V0-113-4c9b6b7aed548e42 
+categories: [1008] 
+color: 43A047 
+price: 80100 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/santokki14/221886725378 
+link_nm0: [3개320g] 미쓰리 떡볶이 밀떡 / 3209 HACO 미쓰리 MnCh 3200  
+link_url1: https://blog.naver.com/an0733/221810212692 
+link_nm1: [특가] 탑텐 탑텐 베이직 플란넬 셔츠 (MSV4WC1901) 
+link_url2: https://blog.naver.com/legioss0914/221905686711 
+link_nm2: [1set5p] 이크 재사용 실리콘 빨대 
+---

@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 탐사수, 2L, 12개" 
+description: 쿠팡 브랜 ..
+date: 2020-04-20 22:12:00 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/03/04/3213757282/456ca43b-ffe6-46ef-b793-d787986a9e52.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=27613130&itemId=109846121&vendorItemId=3213757282&traceid=V0-113-b860fd2b23f3b002 
+categories: [1012] 
+color: 7E57C2 
+price: 6790 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/santokki14/221877506331 
+link_nm0: [추천] 나이키조던 레트로4 후드티셔츠 후드티 / CHIC CHICOTO JOPIOAN  
+link_url1: https://blog.naver.com/an0733/221834908646 
+link_nm1: [파인애플] 디케이홈 영유아 이중거즈 블랭킷 L 
+link_url2: https://blog.naver.com/fasyy4321/221813759809 
+link_nm2: [추천]나이키조던키즈 49가지 정보 
+---

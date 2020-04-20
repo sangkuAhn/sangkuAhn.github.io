@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "카카오프렌즈 파스틱, 24색" 
+description: 카카오프렌 ..
+date: 2020-04-20 22:13:45 
+img: https://static.coupangcdn.com/image/retail/images/405856053526505-90c9599e-c2d5-4444-936c-83fa81b1095e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=228953118&itemId=725904755&vendorItemId=4836019970&traceid=V0-113-f9e5c4b8b1b7cd6a 
+categories: [1021] 
+color: FF6F00 
+price: 9900 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/sakai111/221887998768 
+link_nm0: [도서] [고급] 큰별쌤 최태성의 별별한국사 한국사능력검정시험 기출500제 - 1, 2급 
+link_url1: https://blog.naver.com/sakai111/221857730127 
+link_nm1: [추천상품] 나이키 리액트 인피니티 런 플라이니트 CD4371-002 남성용 운동화 나이키 
+link_url2: https://blog.naver.com/santokki14/221874957278 
+link_nm2: [아망떼2600거실장] 바오트 아망떼 아카시아 원목 2600 거실장 
+---

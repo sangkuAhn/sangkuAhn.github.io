@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "베게브랜드 스마트 베게본 사사미혼합 4P, 치킨 + 밀크 혼합맛, 6개입" 
+description: 베게브랜드 ..
+date: 2020-04-20 22:14:08 
+img: https://static.coupangcdn.com/image/retail/images/2018/05/17/17/2/60f40ead-8c67-4e2a-9712-b18820922627.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=213313&itemId=292784507&vendorItemId=3719664560&traceid=V0-113-a42d44fb57bfb9c3 
+categories: [1029] 
+color: 43A047 
+price: 6670 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/santokki14/221833122897 
+link_nm0:  노트북리퍼 베스트 추천 ~37위 -  
+link_url1: https://blog.naver.com/fasyy4321/221776176444 
+link_nm1:  TOP ~50위 [생활] 하루메이비원피스 
+link_url2: https://blog.naver.com/fasyy4321/221829453653 
+link_nm2: 웅진 순한 결명자 차 음료 
+---

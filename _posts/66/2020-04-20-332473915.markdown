@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "Apple 에어팟 프로, MWP22KH/A" 
+description: Apple ..
+date: 2020-04-20 22:12:47 
+img: https://static.coupangcdn.com/image/retail/images/2019/11/07/18/8/4febc558-85b2-48a8-816e-0940180702df.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=332473915&itemId=1062243893&vendorItemId=5541656862&traceid=V0-113-c776b7d074aa1d0a 
+categories: [1016] 
+color: 006064 
+price: 278190 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/an0733/221844651845 
+link_nm0: [Black] 프로소스 Prosource 코어 밸런스 디스크 밸런스쿠션 보드 
+link_url1: https://blog.naver.com/sakai111/221879248229 
+link_nm1: [도서] 연극과 문화사 
+link_url2: https://blog.naver.com/fasyy4321/221822736228 
+link_nm2: 책추천 보고서 작성 실무 강의 
+---

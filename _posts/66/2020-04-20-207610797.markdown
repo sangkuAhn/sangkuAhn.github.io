@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "코멧 아기 물티슈 라이트 캡형, 100매, 10팩" 
+description: 코멧 아기 ..
+date: 2020-04-20 22:12:24 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/05/15/4403776133/c190a91c-dfc3-4e60-a6b2-8b5fa7e88885.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=207610797&itemId=608607889&vendorItemId=4403776133&traceid=V0-113-c74e6d2c713a72b9 
+categories: [1014] 
+color: FF6F00 
+price: 8130 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/an0733/221799333351 
+link_nm0: [특가] 여수 한일관 갓피클... 
+link_url1: https://blog.naver.com/sakai111/221843553907 
+link_nm1: [디지털/가전] 아이패드프로10.5 추천 특가 순위 ~22위  
+link_url2: https://blog.naver.com/santokki14/221859683875 
+link_nm2:  코멕스 베스트 추천 ~34위 -  
+---

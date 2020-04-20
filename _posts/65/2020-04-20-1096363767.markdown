@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "비비고 소고기 장조림, 125g, 3개" 
+description: 비비고 소 ..
+date: 2020-04-20 22:12:00 
+img: https://static.coupangcdn.com/image/retail/images/860284997836259-001b86c9-54d9-4674-b4a3-baf534367726.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1096363767&itemId=2054117386&vendorItemId=70053409732&traceid=V0-113-ac340cd101d86ca4 
+categories: [1012] 
+color: 006064 
+price: 8980 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/santokki14/221777312467 
+link_nm0: 생활 / 큰발양말 베스트 ~30위 
+link_url1: https://blog.naver.com/an0733/221840201304 
+link_nm1: [쇼핑특가] 미니영 상큼발랄 레이스 파자마 세트 
+link_url2: https://blog.naver.com/sakai111/221849087092 
+link_nm2: [육아] 블랑슈물티슈 추천 특가 순위 ~20위  
+---

@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "리빙센스 리젠 가정용 에어프라이어 2L, LS-AF218NM(모카)" 
+description: 리빙센스  ..
+date: 2020-04-20 22:12:12 
+img: https://static.coupangcdn.com/image/retail/images/275228203323179-157168e0-ccd8-4ca1-8725-e39fe90296d9.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=180342750&itemId=516474999&vendorItemId=4331711107&traceid=V0-113-7cf305d19a15da9a 
+categories: [1013] 
+color: f44336 
+price: 28310 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/sakai111/221910650308 
+link_nm0: [생활] 유기농 추천 특가 순위 ~20위 #상하목장 
+link_url1: https://blog.naver.com/santokki14/221854426600 
+link_nm1:  상하세트 베스트 추천 ~37위 -  
+link_url2: https://blog.naver.com/sakai111/221776223852 
+link_nm2:  [생활] 에잇세컨즈코듀로이 특가정보 순위 ~50위 
+---

@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "버켄스탁 취리히 샌들 좁은발볼 1009533" 
+description: 버켄스탁  ..
+date: 2020-04-20 22:11:13 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/09/02/4682283640/c306a15a-b6fb-4894-ac6e-2f3d996fcb5c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1343347516&itemId=2370742837&vendorItemId=4682283640&traceid=V0-113-ab8657f92ed46aa4 
+categories: [1007] 
+color: 7E57C2 
+price: 71820 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/santokki14/221782511911 
+link_nm0: 생활 / 여성구스 베스트 ~42위 
+link_url1: https://blog.naver.com/fasyy4321/221825273821 
+link_nm1: [추천]리코코 50가지 정보 
+link_url2: https://blog.naver.com/sakai111/221843902762 
+link_nm2: [생활] 에이바자르 추천 특가 순위 ~36위  
+---

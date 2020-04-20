@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "더리빙 에띠앙 악세서리 정리함, 베이지" 
+description: 더리빙 에 ..
+date: 2020-04-20 22:11:25 
+img: https://static.coupangcdn.com/image/retail/images/583991876418013-8c324956-0fa5-4463-a909-824d85283ff4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=222533589&itemId=697703534&vendorItemId=70335831192&traceid=V0-113-0c94f819e3e4e47a 
+categories: [1008] 
+color: ff1744 
+price: 6400 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/legioss0914/221919217909 
+link_nm0: [28cm사파이어블루] 키친아트 인덕션 진공냄비 곰솥 
+link_url1: https://blog.naver.com/sakai111/221898424971 
+link_nm1: [도서] 신사고 쎈 수학 초등 2-1 (2020년용) 
+link_url2: https://blog.naver.com/santokki14/221771396255 
+link_nm2:  [생활] 행텐 정보  
+---

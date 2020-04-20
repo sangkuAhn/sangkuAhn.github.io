@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "잭케빈 남여공용 벨트 SC-A07" 
+description: 잭케빈 남 ..
+date: 2020-04-20 22:10:12 
+img: https://static.coupangcdn.com/image/retail/images/2019/05/28/14/0/cb75fda7-38f5-41a9-a2c0-f35c5476e6d3.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=211047248&itemId=630810411&vendorItemId=4846084148&traceid=V0-113-801d697c131c6050 
+categories: [1002] 
+color: 9E9D24 
+price: 7900 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/santokki14/221785702620 
+link_nm0: 생활 / 프로스펙스워킹화 베스트 ~57위 
+link_url1: https://blog.naver.com/an0733/221870693438 
+link_nm1: [애쉬그레이4개입] 보울보울 볼볼오리진 머그컵 
+link_url2: https://blog.naver.com/sakai111/221843924264 
+link_nm2: [디지털/가전] 레노버y540 추천 특가 순위 ~37위  
+---

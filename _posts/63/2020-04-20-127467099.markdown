@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "디와이진 남성용 일자핏 워싱 청바지" 
+description: 디와이진  ..
+date: 2020-04-20 22:10:12 
+img: https://static.coupangcdn.com/image/retail/images/2018/08/24/12/6/e51bf307-80fb-4fd7-a71e-64035699ba90.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=127467099&itemId=375808170&vendorItemId=3910528010&traceid=V0-113-b9222964a2c28c47 
+categories: [1002] 
+color: FF6F00 
+price: 22900 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/sakai111/221808426832 
+link_nm0: [도서] 외대부고 공신들의 진짜 1등 공부법 
+link_url1: https://blog.naver.com/fasyy4321/221813917342 
+link_nm1: 삼익 플룻 SMFL-411N 
+link_url2: https://blog.naver.com/santokki14/221853917145 
+link_nm2:  토끼식판 베스트 추천 ~35위 -  
+---

@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "코멧 하이드로콜로이드 스팟패치 원형, 120매입, 1개" 
+description: 코멧 하이 ..
+date: 2020-04-20 22:12:24 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/07/01/4399050496/eac79d6a-5d51-41fa-b7be-11e01e77aacd.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=187542484&itemId=536021148&vendorItemId=4399050496&traceid=V0-113-0cde81e1bf3322ce 
+categories: [1014] 
+color: FF6F00 
+price: 7950 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/an0733/221811209117 
+link_nm0: [특가] 남성 런닝화 마라톤화 기능성화 등산화AMDP 
+link_url1: https://blog.naver.com/an0733/221839789632 
+link_nm1: [추천상품] 비트윈맘스 몸매보정 매직바디 코르셋 
+link_url2: https://blog.naver.com/sakai111/221780525704 
+link_nm2: [현대백화점]프로스펙스 인도어 실내화 PG0KI15S021 남녀공용 인도어 실내화 
+---

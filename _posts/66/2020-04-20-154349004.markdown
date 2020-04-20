@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "이고진 스쿼트머신 1832 스쿼트싯업, 혼합 색상" 
+description: 이고진 스 ..
+date: 2020-04-20 22:12:59 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/08/08/4102356728/43ef0d83-b4aa-4782-be23-a5abb626ba9f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=154349004&itemId=445051765&vendorItemId=4102356728&traceid=V0-113-c4eeb6cab2bafe3a 
+categories: [1017] 
+color: 43A047 
+price: 65700 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/sakai111/221820017347 
+link_nm0: [생활] 갤럭시라이프스타일 추천 특가 순위 ~50위  
+link_url1: https://blog.naver.com/sakai111/221813537648 
+link_nm1: [특가] 베나프 하프 셔링 롱 원피스 FA4OP053 
+link_url2: https://blog.naver.com/legioss0914/221916053863 
+link_nm2: [특가] 라코스테 빅로고 반팔 티셔츠 TH6386 / SSTE ACOSTE LACOSI  
+---

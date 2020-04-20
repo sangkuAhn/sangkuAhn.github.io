@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "코베아 3웨이 올인원 멀티 스토브 M, 블랙, 1개" 
+description: 코베아 3 ..
+date: 2020-04-20 22:12:12 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/09/25/4988082229/85f0c402-2e7a-4f14-8df3-104d9a976021.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=247890571&itemId=784806134&vendorItemId=4988082229&traceid=V0-113-f0983996a6dfa6c3 
+categories: [1013] 
+color: BF360C 
+price: 129000 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/santokki14/221854236767 
+link_nm0:  젝시오아이언 베스트 추천 ~42위 -  
+link_url1: https://blog.naver.com/santokki14/221789572402 
+link_nm1: [특가] 다주타올 데코트렌드 타월 105g 면... 
+link_url2: https://blog.naver.com/an0733/221788731825 
+link_nm2:  TOP ~39위 [생활] 냉동생지 
+---

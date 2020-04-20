@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 베이스알파에센셜 남성용 스트라이프 베이직 단목 양말 10켤레" 
+description: 쿠팡 브랜 ..
+date: 2020-04-20 22:11:25 
+img: https://static.coupangcdn.com/image/retail/images/238047545207895-b4daa98e-cff4-4aac-9e40-df99e3b4a91c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1103657061&itemId=2064492319&vendorItemId=70063712632&traceid=V0-113-60dba0db16eda6f1 
+categories: [1008] 
+color: f44336 
+price: 10350 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/santokki14/221803806444 
+link_nm0: 생활 / 베비언스2단계24입 베스트 ~16위 
+link_url1: https://blog.naver.com/santokki14/221870387631 
+link_nm1:  스티브후드집업 베스트 추천 ~31위 -  
+link_url2: https://blog.naver.com/sakai111/221900344373 
+link_nm2: [생활] 아가방7부내의 추천 특가 순위 ~30위 #아가방 #시원한 #9900원 #NC엑스코점 #이야이야오 #*20년 #자가드 
+---

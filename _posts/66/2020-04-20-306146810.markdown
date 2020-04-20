@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 코멧 스포츠 라텍스 루프밴드 5종 세트, 혼합 색상" 
+description: 쿠팡 브랜 ..
+date: 2020-04-20 22:12:59 
+img: https://static.coupangcdn.com/image/retail/images/81322582335602-ea0115fb-2dc4-47bc-86a1-a9378cc7dbf6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=306146810&itemId=965291522&vendorItemId=5369727509&traceid=V0-113-f0e37eeadf09bdc1 
+categories: [1017] 
+color: 212121 
+price: 8250 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/legioss0914/221874102578 
+link_nm0:  아이리스 정보 ~35위 /아이리스 /수납장 /도어형 /STB /베이지 /브라운 /시스템 /공간박스 /20cm /OWR /화이 
+link_url1: https://blog.naver.com/santokki14/221774092585 
+link_nm1:  [생활] 가리비 정보  
+link_url2: https://blog.naver.com/legioss0914/221910283729 
+link_nm2: [오크] 파로마 유코스 실루엣 800드레스 TV다이 거실장 서랍장 / Parpma  
+---

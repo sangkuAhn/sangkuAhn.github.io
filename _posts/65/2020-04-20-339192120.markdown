@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "곰곰 김말이, 400g, 2개" 
+description: 곰곰 김말 ..
+date: 2020-04-20 22:12:00 
+img: https://static.coupangcdn.com/image/retail/images/18505822600320-d269f851-7dc0-4c1a-9711-c6c889601329.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=339192120&itemId=1080605750&vendorItemId=5581621867&traceid=V0-113-a30bdd28b5f5e589 
+categories: [1012] 
+color: ff1744 
+price: 6830 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/an0733/221795317260 
+link_nm0:  TOP ~49위 [생활] 마스크 kf 
+link_url1: https://blog.naver.com/santokki14/221798047476 
+link_nm1: 생활 / 꼼데가르송가디건 베스트 ~46위 
+link_url2: https://blog.naver.com/an0733/221788021363 
+link_nm2: [특가] 엘라모 하운드 반팔티셔츠 
+---

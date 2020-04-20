@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "플라팜 직사각 화분 + 받침, 다크그레이" 
+description: 플라팜 직 ..
+date: 2020-04-20 22:13:33 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/10/30/3593677981/8029c09e-eda1-458f-aca3-8bbd5caff00a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=72294667&itemId=241024916&vendorItemId=3593677981&traceid=V0-113-0359cf2d6e45252c 
+categories: [1020] 
+color: 212121 
+price: 7120 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/an0733/221902140685 
+link_nm0: [특가정보] 니꺼내꺼 디프런트 배색 져지 
+link_url1: https://blog.naver.com/fasyy4321/221804017467 
+link_nm1: 스마트퍼니처 이동식 서랍 올사출형 
+link_url2: https://blog.naver.com/fasyy4321/221791932215 
+link_nm2: 리빙조이 미니강판 
+---

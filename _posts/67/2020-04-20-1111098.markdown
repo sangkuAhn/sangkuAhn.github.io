@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "소프시스 위더스 멀티책상 1260, 블랙" 
+description: 소프시스  ..
+date: 2020-04-20 22:13:45 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/02/07/3005865668/2c08fec8-0db8-4948-9a4c-b029414ef75f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1111098&itemId=4784507&vendorItemId=3005865668&traceid=V0-113-aaa52a8c4e334171 
+categories: [1021] 
+color: 43A047 
+price: 36900 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/fasyy4321/221788050769 
+link_nm0: [추천]샤오미체중계 44가지 정보 
+link_url1: https://blog.naver.com/sakai111/221886224749 
+link_nm1: [도서] EBS 수능특강 수학영역 수학 1 (2020) 
+link_url2: https://blog.naver.com/sakai111/221875809857 
+link_nm2: [도서]옥주부의 진짜 쉬운 집밥 레시피 
+---

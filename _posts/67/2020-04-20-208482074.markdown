@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "엠지 접이식 노트북 테이블 고급형, 핑크" 
+description: 엠지 접이 ..
+date: 2020-04-20 22:13:45 
+img: https://static.coupangcdn.com/image/retail/images/2019/04/12/14/4/1305fee6-2446-4b02-af24-3d2bdca2107b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=208482074&itemId=618655468&vendorItemId=4622889814&traceid=V0-113-4dc2e052d3377b3b 
+categories: [1021] 
+color: f44336 
+price: 14000 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/santokki14/221771022237 
+link_nm0:  [생활] 맘스터치 정보  
+link_url1: https://blog.naver.com/sakai111/221852456638 
+link_nm1: [그레이그래이블] 퀴니 무드3 디럭스 유모차 
+link_url2: https://blog.naver.com/sakai111/221827084219 
+link_nm2: (comfort matte # menace 1개) 어반 디케이 바이스 립스틱 - menac 
+---

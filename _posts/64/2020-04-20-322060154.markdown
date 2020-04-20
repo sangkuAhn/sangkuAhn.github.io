@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 베이스알파 에센셜 슬림 락시스템 크로스백" 
+description: 쿠팡 브랜 ..
+date: 2020-04-20 22:11:25 
+img: https://static.coupangcdn.com/image/retail/images/257200440079914-0a578aeb-b08e-4606-9452-1889c26cb1b1.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=322060154&itemId=1031196483&vendorItemId=5479797878&traceid=V0-113-c8d9e4be60dbd943 
+categories: [1008] 
+color: 43A047 
+price: 15900 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/fasyy4321/221839668162 
+link_nm0: [추천]체크브라렛 55가지 정보 
+link_url1: https://blog.naver.com/sakai111/221854601148 
+link_nm1: [추천] 나이키 트레이닝팬츠 
+link_url2: https://blog.naver.com/santokki14/221781201485 
+link_nm2: (BURBERRY)버버리 체크 목도리 머플러 빅숄 실크스카프 
+---

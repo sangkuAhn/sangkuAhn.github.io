@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "자본과 이데올로기, 문학동네" 
+description: 자본과 이 ..
+date: 2020-04-20 22:13:21 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/25/14/1/ec2c6ccb-90b2-4d57-a4be-32a783953116.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1388563846&itemId=2424102919&vendorItemId=70418171173&traceid=V0-113-ba058032445b2e6c 
+categories: [1019] 
+color: ff1744 
+price: 34200 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/santokki14/221772146363 
+link_nm0:  [생활] 기타 정보  
+link_url1: https://blog.naver.com/fasyy4321/221776228777 
+link_nm1:  TOP ~56위 [생활] 계양 
+link_url2: https://blog.naver.com/an0733/221847645358 
+link_nm2:  TOP ~45위 스케쳐스자켓 |  
+---

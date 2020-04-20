@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "이고진 마에스트로 8200 워킹머신, GH-B001, 혼합 색상" 
+description: 이고진 마 ..
+date: 2020-04-20 22:13:57 
+img: https://static.coupangcdn.com/image/retail/images/2019/01/29/17/5/c95bb7bb-f454-4df3-a0f1-ac38c49546bb.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=181354198&itemId=519376617&vendorItemId=4341795473&traceid=V0-113-b5026d1f97f917f9 
+categories: [1024] 
+color: f44336 
+price: 209000 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/fasyy4321/221825984667 
+link_nm0: 레고 레고 스토리지 박스 브릭 4 부라 40031760 
+link_url1: https://blog.naver.com/fasyy4321/221908810560 
+link_nm1: 타미힐피거 커스텀핏 반팔 카라티셔츠 UO 
+link_url2: https://blog.naver.com/sakai111/221823515941 
+link_nm2: (gjb-225) 래시앙 봄상품 여성 일자 44사이즈부터 
+---

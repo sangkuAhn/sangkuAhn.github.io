@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 코멧 클래식 아령 5kg, 1개, 블랙" 
+description: 쿠팡 브랜 ..
+date: 2020-04-20 22:12:59 
+img: https://static.coupangcdn.com/image/retail/images/11941581415621-7187db85-be28-45e9-ba6f-52e090fe21fd.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=194679439&itemId=558647526&vendorItemId=4467450533&traceid=V0-113-a763503caae2d679 
+categories: [1017] 
+color: 7E57C2 
+price: 12120 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/sakai111/221874364602 
+link_nm0: [생활] 나이키레전드 추천 특가 순위 ~36위 #레전드 #나이키 #2.0 #티셔츠 #반팔티 #010 #718834 #드라이 # 
+link_url1: https://blog.naver.com/santokki14/221829991862 
+link_nm1:  리본원피스 베스트 추천 ~46위 -  
+link_url2: https://blog.naver.com/santokki14/221837016944 
+link_nm2: [쇼핑특가] 무크 여성캐주얼 로퍼 천연가죽 여성단화 발편안한 신발 여성로퍼 
+---

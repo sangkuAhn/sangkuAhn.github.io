@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "냥품멍품 치카치약 닭고기맛, 40g, 1개" 
+description: 냥품멍품  ..
+date: 2020-04-20 22:14:08 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/10/08/5274978252/bc60d148-7cdd-4f1a-9379-94c6129b60c0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=286647089&itemId=908758124&vendorItemId=5274978252&traceid=V0-113-9fce12b5b2f8ecfc 
+categories: [1029] 
+color: BF360C 
+price: 6900 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/santokki14/221777353911 
+link_nm0: 생활 / 관절팔팔 베스트 ~47위 
+link_url1: https://blog.naver.com/an0733/221839997222 
+link_nm1: [특가정보] 주노컴퍼니 5462 힙업롱거들 
+link_url2: https://blog.naver.com/fasyy4321/221762918248 
+link_nm2:  [생활] 스마트워치 정보  
+---

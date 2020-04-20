@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "팬물산 모니터 받침대, 워시화이트" 
+description: 팬물산 모 ..
+date: 2020-04-20 22:13:45 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/09/26/3073527393/8d3a1d85-826b-4533-bbfa-bd116d6a31a6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=10884874&itemId=47013911&vendorItemId=3073527393&traceid=V0-113-18614c1cf111502f 
+categories: [1021] 
+color: 03A9F4 
+price: 5900 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/santokki14/221853228844 
+link_nm0:  LGTV올레드 베스트 추천 ~45위 -  
+link_url1: https://blog.naver.com/fasyy4321/221843522259 
+link_nm1: [추천]2019맥북프로13인치 41가지 정보 
+link_url2: https://blog.naver.com/sakai111/221773472499 
+link_nm2:  [생활] 바람막이특가정보 순위 ~54위 
+---

@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "이고진 밸런스 보드, 핑크" 
+description: 이고진 밸 ..
+date: 2020-04-20 22:12:59 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/08/07/3949655698/13a2973e-73d7-4adc-ab26-6211e5d6b8d5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=132765062&itemId=390393055&vendorItemId=3949655698&traceid=V0-113-48cc89585e4e11a7 
+categories: [1017] 
+color: FF6F00 
+price: 18400 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/sakai111/221780486225 
+link_nm0: [Wonderbra] 원더브라 노와이어 브라팬티 4종세트 WBW9H0910_T 
+link_url1: https://blog.naver.com/sakai111/221861860894 
+link_nm1: [생활] 도토리인덕션 추천 특가 순위 ~31위  
+link_url2: https://blog.naver.com/santokki14/221877836936 
+link_nm2: [랑팔 타입:클레이버베나 / 타입:세이지] 랑팔라투르유기농샴푸1L*2 선택가능 / Shampooing RBapolHatou A 
+---

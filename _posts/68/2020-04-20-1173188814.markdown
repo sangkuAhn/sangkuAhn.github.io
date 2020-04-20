@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 탐사 전연령용 고양이 점보 건식사료, 20kg" 
+description: 쿠팡 브랜 ..
+date: 2020-04-20 22:14:08 
+img: https://static.coupangcdn.com/image/retail/images/501342547010073-eef2075d-3eb3-4ad5-ac56-5991d34f0a0f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1173188814&itemId=2151439093&vendorItemId=70149742855&traceid=V0-113-febbbaace535fbe0 
+categories: [1029] 
+color: 03A9F4 
+price: 28690 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/an0733/221877890236 
+link_nm0: (WSS1PS10A) 바쏘옴므 베이지 솔리드 베이직 캐주얼팬츠  
+link_url1: https://blog.naver.com/santokki14/221779337303 
+link_nm1: 구찌 쥬얼리 GUCCI YBA481664001 (481664) / RUNNING G 18K 
+link_url2: https://blog.naver.com/santokki14/221792444049 
+link_nm2: 생활 / 반바지 베스트 ~48위 
+---

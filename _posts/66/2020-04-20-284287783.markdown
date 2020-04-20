@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "데비 요가링 2p, 퍼플" 
+description: 데비 요가 ..
+date: 2020-04-20 22:12:59 
+img: https://static.coupangcdn.com/image/retail/images/7540478072169-8d96b82b-9592-40af-b6ce-12d11e0eb949.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=284287783&itemId=902381166&vendorItemId=5261711211&traceid=V0-113-1db2616f78a86168 
+categories: [1017] 
+color: 4A148C 
+price: 9750 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/santokki14/221890630168 
+link_nm0: [500웰스팜/슬림/화이트] 조은나라 무료배송-웰스팜받침대 콘솔 식물재배기받침대 다용도받침 렌지대 밥솥/렌지대 콘솔 / 680 
+link_url1: https://blog.naver.com/an0733/221905332860 
+link_nm1: [특가] 리복 우먼스트레이닝 하야수 삭스러닝 
+link_url2: https://blog.naver.com/fasyy4321/221831694325 
+link_nm2: 책추천 나는 꽤 괜찮은 사람입니다 
+---

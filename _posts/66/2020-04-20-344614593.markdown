@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 코멧 걸이형 압축팩, 일반형, 4개입, 1개" 
+description: 쿠팡 브랜 ..
+date: 2020-04-20 22:12:36 
+img: https://static.coupangcdn.com/image/retail/images/9655226973982-2c1af89e-a223-468b-82e7-ba84f2406523.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=344614593&itemId=1094686851&vendorItemId=5613437187&traceid=V0-113-5cb10b066871358c 
+categories: [1015] 
+color: f44336 
+price: 9110 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/santokki14/221814989895 
+link_nm0: 디지털/가전 / 삼성노트북플렉스 베스트 ~56위 
+link_url1: https://blog.naver.com/santokki14/221779768085 
+link_nm1: 생활 / 엘르속옷 베스트 ~57위 
+link_url2: https://blog.naver.com/santokki14/221826113706 
+link_nm2: [추천상품] 일렉트로룩스 퓨어A9 공기청정기 18평형 PA91-606DG 공식판매점 
+---

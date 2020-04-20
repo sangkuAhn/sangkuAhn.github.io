@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "듀플렉스 가정용 체지방 체중계, DP-6601BFS, 단일색상" 
+description: 듀플렉스  ..
+date: 2020-04-20 22:12:59 
+img: https://static.coupangcdn.com/image/retail/images/12461669151414-dc43a150-8310-4579-9e88-25bcb6f51ae4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7216632&itemId=31916098&vendorItemId=3082235930&traceid=V0-113-6b2b6f892363c651 
+categories: [1017] 
+color: 7E57C2 
+price: 15900 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/an0733/221868907961 
+link_nm0: [블랙5개] 큐티폴 고아 디너 포크 
+link_url1: https://blog.naver.com/sakai111/221813782516 
+link_nm1: [생활] 시에로맨투맨 추천 상품 순위 ~33위  
+link_url2: https://blog.naver.com/sakai111/221765252531 
+link_nm2:  [생활] 키플링에코백 정보  
+---

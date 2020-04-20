@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "곰곰 떡볶이 옛날맛 (냉동), 560g, 3개" 
+description: 곰곰 떡볶 ..
+date: 2020-04-20 22:12:00 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/08/22/5016667484/4819fac5-57d1-41a3-a901-4c083a390351.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=188709954&itemId=538914812&vendorItemId=5016667484&traceid=V0-113-ad7a6228f69fa5ea 
+categories: [1012] 
+color: 03A9F4 
+price: 11800 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/fasyy4321/221805433599 
+link_nm0: 드랍쉽 슈가파우더 1kg 설탕 화이트 슈거 파우더 가루 분말 원당 분당 제과 제빵 베이킹  
+link_url1: https://blog.naver.com/fasyy4321/221903656023 
+link_nm1: 와플 대리석 6인용 식탁세트 GD486-2 
+link_url2: https://blog.naver.com/fasyy4321/221905701045 
+link_nm2: [코디하임] 2개세트 스트라이프블라인드(대형) 가로155세로210 
+---

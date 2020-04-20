@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 코멧 클래식 논슬립 아령 2kg, 2개, 블랙" 
+description: 쿠팡 브랜 ..
+date: 2020-04-20 22:12:59 
+img: https://static.coupangcdn.com/image/retail/images/10531032915028-515bc034-64f2-499c-8429-50188d52badc.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=194679479&itemId=558647723&vendorItemId=4467451056&traceid=V0-113-992dcade1927290a 
+categories: [1017] 
+color: 006064 
+price: 11290 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/an0733/221838246004 
+link_nm0: [다크블루] 에보니아 코코 1인 소파의자 패브리룩 방수레더 
+link_url1: https://blog.naver.com/santokki14/221773673425 
+link_nm1:  [생활] 삼성제트 정보  
+link_url2: https://blog.naver.com/an0733/221817401164 
+link_nm2: [지컷] 물결퀼팅퍼 구스다운 점퍼(7259417014) 
+---

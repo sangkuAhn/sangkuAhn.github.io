@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "글램모먼트 여성용 시그니처 커버 하이웨스트 브리프 삼각 거들" 
+description: 글램모먼트 ..
+date: 2020-04-20 22:10:00 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/05/21/3867281920/d2360995-392a-4523-b3cd-702ecedc4afe.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=119536084&itemId=356244752&vendorItemId=3867281920&traceid=V0-113-b76dbc36bf75fb91 
+categories: [1001] 
+color: BF360C 
+price: 19840 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/sakai111/221903568993 
+link_nm0: [식품] [쿠폰할인] 햄스빌베이컨 냉동용 110g*2X2 
+link_url1: https://blog.naver.com/santokki14/221786130291 
+link_nm1: 생활 / 지오다노후드 베스트 ~50위 
+link_url2: https://blog.naver.com/an0733/221804037156 
+link_nm2: [특가] [멸치쇼핑]조말론 우드 세이지 앤 씨 솔트 캔들 200g 외 
+---

@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 시터스 디지털 체지방 체중계, QCB-N1BF, 블랙" 
+description: 쿠팡 브랜 ..
+date: 2020-04-20 22:13:57 
+img: https://static.coupangcdn.com/image/retail/images/164994483777687-bcbf3104-d346-420d-998c-3d45195199b3.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=192007603&itemId=549185884&vendorItemId=4441132350&traceid=V0-113-d4c92d56bc704e67 
+categories: [1024] 
+color: FF6F00 
+price: 12250 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/sakai111/221780376632 
+link_nm0:  [생활] 타운젠트수트 특가정보 순위 ~53위 
+link_url1: https://blog.naver.com/sakai111/221866387458 
+link_nm1: [생활] 솔트워터 추천 특가 순위 ~33위 #호이슈즈 #오리지널 #스페리 #MZ156 
+link_url2: https://blog.naver.com/santokki14/221863816051 
+link_nm2:  구체관절인형세트 베스트 추천 ~28위 -  
+---

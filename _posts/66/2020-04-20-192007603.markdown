@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 시터스 디지털 체지방 체중계, QCB-N1BF, 블랙" 
+description: 쿠팡 브랜 ..
+date: 2020-04-20 22:12:47 
+img: https://static.coupangcdn.com/image/retail/images/164994483777687-bcbf3104-d346-420d-998c-3d45195199b3.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=192007603&itemId=549185884&vendorItemId=4441132350&traceid=V0-113-d4c92d56bc704e67 
+categories: [1016] 
+color: ff1744 
+price: 12250 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/santokki14/221865850826 
+link_nm0: [1개] 카미타쿠미 더블 플러스 200ml 헹구지 않는 트리트먼트 
+link_url1: https://blog.naver.com/santokki14/221919367878 
+link_nm1: [쇼핑특가] 삼성전자 그랑데 건조기 14kg 방문설치 DV14R8520KW / S9  
+link_url2: https://blog.naver.com/santokki14/221807712591 
+link_nm2: 생활 / 포켓샐러드 베스트 ~48위 
+---

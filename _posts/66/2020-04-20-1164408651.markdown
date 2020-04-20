@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 베이스알파에센셜 쿨러백, 그레이, 25L" 
+description: 쿠팡 브랜 ..
+date: 2020-04-20 22:12:59 
+img: https://static.coupangcdn.com/image/retail/images/665793033186797-6b5c4172-43aa-4083-ad3c-8f947cd47a1b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1164408651&itemId=2141508260&vendorItemId=70139883480&traceid=V0-113-d18e22716eae6705 
+categories: [1017] 
+color: 4A148C 
+price: 11370 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/santokki14/221813383523 
+link_nm0: 생활 / 에잇세컨즈퀼팅 베스트 ~14위 
+link_url1: https://blog.naver.com/an0733/221792791545 
+link_nm1: [도서] 맛있는 디자인 프리미어 프로&애프터 이펙트 CC 2019 
+link_url2: https://blog.naver.com/santokki14/221908914060 
+link_nm2: [특가] 핫슈트 피캄 다이어트 땀복 세트 HS6014 
+---

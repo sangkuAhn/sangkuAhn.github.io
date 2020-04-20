@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 코멧 키친 천연펄프 키친타올 롤형 140매 3겹, 6롤, 4팩" 
+description: 쿠팡 브랜 ..
+date: 2020-04-20 22:12:12 
+img: https://static.coupangcdn.com/image/retail/images/12925092359671-1a242487-f541-4bd0-945c-ed376fb3a233.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=188121234&itemId=537197221&vendorItemId=4402619208&traceid=V0-113-181ee7e1f870415c 
+categories: [1013] 
+color: FF6F00 
+price: 12650 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/fasyy4321/221875277721 
+link_nm0: [추천]지오다노데님 25가지 정보 
+link_url1: https://blog.naver.com/sakai111/221836362426 
+link_nm1: [생활] 큐어시스 추천 특가 순위 ~32위  
+link_url2: https://blog.naver.com/santokki14/221789120928 
+link_nm2: [특가] 쇼핑두잇 퓨리셔스 손 소독용 스프레이 ... 
+---

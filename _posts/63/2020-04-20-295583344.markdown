@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 베이스알파 남성용 순면 반팔런닝 4p" 
+description: 쿠팡 브랜 ..
+date: 2020-04-20 22:10:12 
+img: https://static.coupangcdn.com/image/retail/images/891184052882-3715dce9-3b6f-4d2e-9862-5d9962ff3048.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=295583344&itemId=932090481&vendorItemId=5310974310&traceid=V0-113-124504993db8faea 
+categories: [1002] 
+color: 4CAF50 
+price: 11140 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/sakai111/221817932411 
+link_nm0: [생활] 통가발 추천 특가 순위 ~45위  
+link_url1: https://blog.naver.com/sakai111/221836622820 
+link_nm1: [쇼핑특가] 아이폰 풀커버 실리콘 케이스 
+link_url2: https://blog.naver.com/fasyy4321/221808386927 
+link_nm2: [추천]콤비자켓 51가지 정보 
+---

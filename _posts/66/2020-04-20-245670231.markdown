@@ -1,0 +1,18 @@
+---
+layout: post 
+title:  "앳플리 스마트 인바디 체중계, 흰색, T8" 
+description: 앳플리 스 ..
+date: 2020-04-20 22:12:59 
+img: https://static.coupangcdn.com/image/retail/images/2018/11/19/10/0/90b48c1c-7aa1-40a3-9d47-da78cf872f0d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=245670231&itemId=778731488&vendorItemId=4131848464&traceid=V0-113-a23dbed2e5f9fa5a 
+categories: [1017] 
+color: 43A047 
+price: 24800 
+author: Ask View Shop 
+link_url0: https://blog.naver.com/legioss0914/221918022245 
+link_nm0: [세정용분말10p60px2개,1세트] 노즈퓨리 어린이 코세척기  / PURI BURV KIOS 간평위생포장 0 NOSE  
+link_url1: https://blog.naver.com/santokki14/221811974054 
+link_nm1: 생활 / 자동차눈제거 베스트 ~28위 
+link_url2: https://blog.naver.com/sakai111/221915332885 
+link_nm2: [생활] CNP클렌징 추천 특가 순위 ~20위 #CNP #클렌징 #차앤박 #듀오세트 #퓨리파잉 #에이클린 #저자극 
+---
