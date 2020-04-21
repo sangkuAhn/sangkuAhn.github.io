@@ -1,16 +1,76 @@
-name: Jekyll site CI
+name: Publish
 
-on: [push]
+on:
+  push:
+    branches: master
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
-    - name: Build the site in the jekyll/builder container
+    - uses: actions/checkout@v1
+    - name: Set up Ruby 2.6
+      uses: actions/setup-ruby@v1
+      with:
+        ruby-version: 2.6.x 
+    - name: Cache
+      uses: actions/cache@v1.0.3
+      with:
+        path: vendor/bundle
+        key: ${{ runner.os }}-gem-${{ hashFiles('**/Gemfile.lock') }}
+        restore-keys: |
+          ${{ runner.os }}-gem-
+    - name: Setup Jekyll
       run: |
-        docker run \
-        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
-        jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
+        gem install bundler
+        bundle config path vendor/bundle
+        bundle install --jobs 4 --retry 3
+    - name: Build
+      run: |
+        if [[ -z "${SRC}" ]]; then
+          SRC=$(find . -path ./vendor -prune -o -name _config.yml -exec dirname {} \;)
+        fi
+
+        echo "#################################################"
+        echo "Source for the Jekyll site is set to ${SRC}"
+
+        bundle exec jekyll build -s ${SRC} -d build
+        echo "#################################################"
+        echo "Jekyll build done"
+        
+        cd build
+
+        # No need to have GitHub Pages to run Jekyll
+        touch .nojekyll
+
+    - name: Publish
+      run: |
+        echo "#################################################"
+        echo "Now publishing"
+        if [[ -z "${{secrets.JEKYLL_PAT}}" ]]; then
+          TOKEN=${{secrets.GITHUB_TOKEN}}
+        else 
+          TOKEN=${{secrets.JEKYLL_PAT}}
+        fi
+        
+        remote_branch="master"
+
+        if [ "${GITHUB_REF}" == "refs/heads/${remote_branch}" ]; then
+          echo "Cannot publish on branch ${remote_branch}"
+          exit 1
+        else
+          echo "Pushing on branch ${remote_branch}"
+        fi
+
+        cd build
+        
+        remote_repo="https://${TOKEN}@github.com/${GITHUB_REPOSITORY}.git" && \
+        git init && \
+        git config user.name "${GITHUB_ACTOR}" && \
+        git config user.email "${GITHUB_ACTOR}@users.noreply.github.com" && \
+        git add . && \
+        git commit -m 'jekyll build from Action' && \
+        git push --force $remote_repo master:$remote_branch && \
+        rm -fr .git && \
+        cd ..
