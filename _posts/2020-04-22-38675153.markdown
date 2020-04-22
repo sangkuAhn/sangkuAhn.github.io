@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "리복 로얄 스매쉬 벨크로 CN3298" 
+description: 리복 로얄 ..
+date: 2020-04-23 04:54:10 
+img: https://static.coupangcdn.com/image/retail/images/336912389099707-9863d2c3-3b25-4e86-9fcd-2bbe2c1d6807.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=38675153&itemId=456578118&vendorItemId=4553299632&traceid=V0-113-f48340e206e94368 
+categories: [1007] 
+color: A566FF 
+price: 14900 
+author: Ask View Shop 
+---
+ 
