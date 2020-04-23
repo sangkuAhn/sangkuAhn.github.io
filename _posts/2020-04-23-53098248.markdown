@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "핑크퐁 한글버스, 스마트스터디" 
+description: 핑크퐁 한 ..
+date: 2020-04-24 06:13:07 
+img: https://static.coupangcdn.com/image/vendor_inventory/17d7/dbeb4d68d2ab4c3ca97e9206da04332262f10b6090efe9df7d79c32bf38b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=53098248&itemId=186798206&vendorItemId=3444827637&traceid=V0-113-1666eb4ecad695c4 
+categories: [1019] 
+color: BF360C 
+price: 37900 
+author: Ask View Shop 
+---
+ 
