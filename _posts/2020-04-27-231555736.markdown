@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "타이트엔드 3IN1 쿨 바라클라바, 그레이" 
+description: 타이트엔드 ..
+date: 2020-04-28 04:46:21 
+img: https://static.coupangcdn.com/image/retail/images/2019/05/31/15/1/8e45f384-6fac-4c7f-a201-cd1f9b9ffaae.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=231555736&itemId=734430429&vendorItemId=4855904223&traceid=V0-113-538a2cccc0bff215 
+categories: [1006] 
+color: 4A148C 
+price: 13220 
+author: Ask View Shop 
+---
+ 
