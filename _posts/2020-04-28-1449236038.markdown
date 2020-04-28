@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "샤바스 스칸디나 멀티테이블 1200, 티크판넬 + 블랙프레임" 
+description: 샤바스 스 ..
+date: 2020-04-29 05:44:14 
+img: https://static.coupangcdn.com/image/retail/images/2020/04/10/11/8/66c7aa01-ebf3-4dfb-9d0b-18db8a902a52.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1449236038&itemId=2496139668&vendorItemId=70489297934&traceid=V0-113-df576ecc9d10d9c0 
+categories: [1015] 
+color: F361A6 
+price: 28720 
+author: Ask View Shop 
+---
+ 
