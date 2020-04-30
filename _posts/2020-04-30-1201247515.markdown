@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "엘라모 초록바다 반팔" 
+description: 엘라모 초 ..
+date: 2020-05-01 04:17:43 
+img: https://static.coupangcdn.com/image/retail/images/2020/01/22/13/6/442ad0b8-099d-4c80-b782-c159ff70d649.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1201247515&itemId=2186235960&vendorItemId=70184244127&traceid=V0-113-8fd364cfaaf86a03 
+categories: [1002] 
+color: 03A9F4 
+price: 12800 
+author: Ask View Shop 
+---
+ 
