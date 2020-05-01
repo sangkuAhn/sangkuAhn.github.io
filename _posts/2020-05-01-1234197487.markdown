@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "데이비드토이 테라섹트 RC완구, 혼합 색상" 
+description: 데이비드토 ..
+date: 2020-05-02 06:20:32 
+img: https://static.coupangcdn.com/image/retail/images/2020/02/04/11/5/1b8568c3-79d8-430d-8f94-80078fdefddd.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1234197487&itemId=2228359623&vendorItemId=70225991428&traceid=V0-113-f7a532038e420c3b 
+categories: [1020] 
+color: 5A8DF3 
+price: 39800 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "GAP 인증 호박고구마, 1.5kg, 1박스" 
+description: GAP 인 ..
+date: 2020-05-02 05:22:54 
+img: https://static.coupangcdn.com/image/retail/images/2020/04/13/14/4/1856d3a4-77e4-4723-bb68-f2ffc7df645f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1460379925&itemId=2512683932&vendorItemId=70505708400&traceid=V0-113-08ec52be3540014d 
+categories: [1012] 
+color: f44336 
+price: 10000 
+author: Ask View Shop 
+---
+ 

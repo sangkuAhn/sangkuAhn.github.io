@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "PRISM UHD RGB 109.22cm 스마트 TV PT43UL, 스탠드형" 
+description: PRISM ..
+date: 2020-05-02 05:51:41 
+img: https://static.coupangcdn.com/image/retail/images/227954010889468-06bb2345-d8ed-4b1d-9c36-71139a8c03b1.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1230258594&itemId=2223390182&vendorItemId=70221059420&traceid=V0-113-9d5ce316a68a98c4 
+categories: [1016] 
+color: FF6F00 
+price: 289000 
+author: Ask View Shop 
+---
+ 
