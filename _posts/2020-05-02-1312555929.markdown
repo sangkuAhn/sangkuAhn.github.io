@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "오키진 여성용 베이직 반팔티셔츠" 
+description: 오키진 여 ..
+date: 2020-05-03 04:10:21 
+img: https://static.coupangcdn.com/image/retail/images/2020/02/27/11/0/95789a42-8052-4b09-822c-bec199c2476d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1312555929&itemId=2329982445&vendorItemId=70326551741&traceid=V0-113-bbe23f2732fedff5 
+categories: [1001] 
+color: CF36BB 
+price: 10900 
+author: Ask View Shop 
+---
+ 
