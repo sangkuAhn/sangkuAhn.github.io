@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "푸드버킷 유기농양배추즙, 100ml, 100개" 
+description: 푸드버킷  ..
+date: 2020-05-04 06:36:34 
+img: https://static.coupangcdn.com/image/retail/images/40169939851177-37b4a661-8479-4ce4-b6e1-c85aac1035eb.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1524329806&itemId=2615462938&vendorItemId=5403864927&traceid=V0-113-4db79bb7b4212211 
+categories: [1024] 
+color: FF6F00 
+price: 27560 
+author: Ask View Shop 
+---
+ 

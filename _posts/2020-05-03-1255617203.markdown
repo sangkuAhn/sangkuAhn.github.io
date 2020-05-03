@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "오키진 여성용 러브레터링 반팔티" 
+description: 오키진 여 ..
+date: 2020-05-04 04:10:20 
+img: https://static.coupangcdn.com/image/retail/images/2020/02/10/11/3/59f571cc-645d-47a4-b8e0-472f110eda58.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1255617203&itemId=2255978299&vendorItemId=70253302844&traceid=V0-113-6c3e865b745d7390 
+categories: [1001] 
+color: 43A047 
+price: 9900 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아마다 캠퍼 캠핑매트, 오렌지" 
+description: 아마다 캠 ..
+date: 2020-05-04 05:38:56 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/06/14/3422944556/7d06ce16-161a-4928-a2fd-dd716694ce9d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=50200663&itemId=176893199&vendorItemId=3422944556&traceid=V0-113-660fea9b7502be14 
+categories: [1014] 
+color: CF36BB 
+price: 14070 
+author: Ask View Shop 
+---
+ 
