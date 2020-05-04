@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "노마드 그리들 강철, 1개" 
+description: 노마드 그 ..
+date: 2020-05-05 05:59:07 
+img: https://static.coupangcdn.com/image/retail/images/2020/02/06/16/7/2744938a-cd99-4d88-a736-57434e7d08b9.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1240575655&itemId=2236119763&vendorItemId=5615401376&traceid=V0-113-eb532018183261f5 
+categories: [1017] 
+color: 4CAF50 
+price: 35900 
+author: Ask View Shop 
+---
+ 
