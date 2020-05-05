@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "스타벅스 리유저블 벤티 콜드컵 2p, 혼합색상, 709ml" 
+description: 스타벅스  ..
+date: 2020-05-06 05:30:10 
+img: https://static.coupangcdn.com/image/retail/images/252787178976909-559792e0-83d2-4cba-94c1-c77204d53976.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1383083638&itemId=2417582848&vendorItemId=70411819130&traceid=V0-113-8ebc879fd8ee43db 
+categories: [1013] 
+color: F361A6 
+price: 17100 
+author: Ask View Shop 
+---
+ 

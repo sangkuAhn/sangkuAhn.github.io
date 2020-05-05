@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 코멧 의류용 압축팩 50 x 60 cm, 12개입, 1개" 
+description: 쿠팡 브랜 ..
+date: 2020-05-06 05:37:22 
+img: https://static.coupangcdn.com/image/retail/images/270466134523788-96419e7b-5e85-4a07-bd4a-c2f5b9563d34.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1123307559&itemId=2089253528&vendorItemId=70088227682&traceid=V0-113-5bbb3074b0cdcc27 
+categories: [1014] 
+color: 9E9D24 
+price: 11990 
+author: Ask View Shop 
+---
+ 
