@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코디아이 베어킹 수면조끼" 
+description: 코디아이  ..
+date: 2020-05-07 04:24:44 
+img: https://static.coupangcdn.com/image/vendor_inventory/65e8/ad428aaf18ee198ff9af6a76e941392ca8d5ec24297ad55c8e1a8ff24862.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1328298630&itemId=2351893767&vendorItemId=70348393938&traceid=V0-113-da516e9f8154d045 
+categories: [1003] 
+color: 006064 
+price: 10900 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "팜에이트 레드믹스, 300g, 1팩" 
+description: 팜에이트  ..
+date: 2020-05-07 05:22:27 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/19/14/3/37407382-9472-4f37-bf8c-5a3ebfbb73aa.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1366893932&itemId=2399041675&vendorItemId=70394044775&traceid=V0-113-e39422e84d812745 
+categories: [1012] 
+color: A566FF 
+price: 4500 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코디아이 남아용 빌리지 칠부내의" 
+description: 코디아이  ..
+date: 2020-05-07 04:24:44 
+img: https://static.coupangcdn.com/image/retail/images/2020/01/22/14/5/08926f3e-35ff-4f4b-96ad-8fcae7e259e9.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1201578242&itemId=2186663473&vendorItemId=70184668596&traceid=V0-113-d107a8ae3508c701 
+categories: [1003] 
+color: 006064 
+price: 9900 
+author: Ask View Shop 
+---
+ 

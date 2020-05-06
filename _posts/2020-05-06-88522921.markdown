@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "타요 배낭물총, 혼합색상" 
+description: 타요 배낭 ..
+date: 2020-05-07 05:15:15 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/11/20/3672361720/953da73b-919e-4144-8809-4cdd075da06e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=88522921&itemId=276990674&vendorItemId=3672361720&traceid=V0-113-5307fa5387454c66 
+categories: [1011] 
+color: 9E9D24 
+price: 6500 
+author: Ask View Shop 
+---
+ 
