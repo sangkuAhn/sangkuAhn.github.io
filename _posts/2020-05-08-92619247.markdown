@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "꼰띠키즈 에이드티" 
+description: 꼰띠키즈  ..
+date: 2020-05-09 04:39:15 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2018/05/17/16/8/407d5ea6-0a9c-4ded-97ba-954ffcb65a55.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=92619247&itemId=287691264&vendorItemId=3706363597&traceid=V0-113-e166b144b4b44ebd 
+categories: [1005] 
+color: 79ABFF 
+price: 4900 
+author: Ask View Shop 
+---
+ 
