@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "카파 남녀공용 CHAMP WAVE 운동화 KKWK133M2_WHT" 
+description: 카파 남녀 ..
+date: 2020-05-10 02:53:45 
+img: https://static.coupangcdn.com/image/vendor_inventory/d3dc/0bab77d05cbc206b8e6f5912fe9dfab6f3a6de53ccf5cd97ac12bafeddc8.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1281083557&itemId=2289219307&vendorItemId=70286262750&traceid=V0-113-9ef59ae10ea4f0d0 
+categories: [1007] 
+color: F361A6 
+price: 39000 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>가볍고편해요<br/>꼭 정사이즈 사세요<br/>다른 운동화들 발볼땜에 좀만 걸었다 하면<br/>뽀얗고 발목까지 오는데 전혀 불편하지 않아요<br/>여기저기 아프고 쪼이는데 이신발은<br/>오늘 도착하자마자 신고나가서 대형마트 대형시장<br/>온종일 다녔는데도 발이편했어요<br/>진짜 어디한곳 거슬리는곳이 없네요<br/>" 
+---

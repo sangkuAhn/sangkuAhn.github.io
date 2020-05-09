@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 꼬리별 펫밀크 180ml, 밀크, 10개입" 
+description: 쿠팡 브랜 ..
+date: 2020-02-18 06:16:48 
+img: https://static.coupangcdn.com/image/retail/images/164702679617956-6687cf61-9fb1-4c35-b14e-54cce6ab50e1.jpg 
+linkUrl: https://coupa.ng/bpLZuc 
+categories: [1029] 
+color: ff1744 
+price: 14000 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>5키로 미만이라 한팩 중 반만 급여했어요<br/>기다려~  도 잘하고 미친듯이 잘마시네요.<br/><br/>너무 잘 먹어용 사진은  다음에<br/>맛있는지 엄청 잘 먹네요 그릇을 싹싹 핥아먹었어요<br/>박스포장에 깔끔하게 왔고<br/>살짝 맛보니 진하고 고소한 우유맛이네요.<br/><br/>아침에   울꽁주들  모닝 우유 한잔 했네용<br/>우리 멍뭉이 최애 음료!<br/>타 제품보다 저렴하고 울 강쥐가 맛있게 먹어서 더욱 좋아요<br/>" 
+---

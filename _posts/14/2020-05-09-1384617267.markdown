@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "컬럼비아 여성용 베이직 카라 티셔츠 C12-YLD601" 
+description: 컬럼비아  ..
+date: 2020-05-10 02:46:33 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/06/11/3/464968a1-52aa-4c6b-a25a-eb35c4f02c3e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1384617267&itemId=2419347340&vendorItemId=70339883936&traceid=V0-113-3d91e39ebc5b1593 
+categories: [1006] 
+color: BF360C 
+price: 35000 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>근무할때 입을려구 구매했어요<br/>브랜드마다 사이즈 조금씩 차이가나서 작을까바 적정했는데  사이즈가 딱 좋아요<br/>원단 짱짱하니 좋네요,  다만 사이즈가 저에게는 작아서... <br/> 가슴둘레에 맞춰샀는데  너무 딱 맞아요.<br/><br/>원단도 양호합니다<br/>" 
+---
