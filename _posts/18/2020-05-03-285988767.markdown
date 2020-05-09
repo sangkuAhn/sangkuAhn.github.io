@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "디즈니 여성용 오버핏 롱 반팔티셔츠 RTN18-247" 
+description: 디즈니 여 ..
+date: 2020-05-04 04:10:20 
+img: https://static.coupangcdn.com/image/retail/images/576038801037644-a52f903a-5807-4c1e-a7b6-9a95fefda57b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=285988767&itemId=906924720&vendorItemId=5271444845&traceid=V0-113-cfafcb9544fe82a4 
+categories: [1001] 
+color: 03A9F4 
+price: 9900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>색깔도 만족해요.<br/> 레깅스랑 입으려고 샀는데 길이 딱좋아요<br/>아주 길지는 않고 옆으로 박시합니다~<br/>예뻐염<br/>이쁘고 편해요~ 받자마자 하자 없길래 손빨래코스 중성세제로 빨았더니 크기 그대로에요~<br/>좋아요.<br/> 빨아서 입었는데 길이 폭 변화없고 좋아요.<br/><br/>" 
+---

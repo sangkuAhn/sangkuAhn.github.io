@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "모리앤 감사하는마음 바구니, 핑크, 1개" 
+description: 모리앤 감 ..
+date: 2020-04-30 05:44:30 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/04/20/3019705780/ad853175-8f69-4712-b13f-06eef4ad674a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2789196&itemId=12895133&vendorItemId=3019705780&traceid=V0-113-4ef9e10bd1045f7f 
+categories: [1015] 
+color: F15F5F 
+price: 22050 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>근데 향은 별로라서 그냥 향수뿌렸어요~<br/>받아보고나니  하자 있는곳이 없네용<br/>배송빠르게 잘왔어요~  후기보고 바구니가 혹  더러울까 걱정했는데 깔끔하고 이쁘네요^^  시댁.<br/>친정꺼 두개주문했는데 두개다 이뻐요~  어머님.<br/>아버님이 너무좋아하셨네요 ㅎ<br/>상품평보고 걱정했는데<br/>엄마가 너무 좋아하셨어요~~~ 사진이랑 똑같이 왔어요^^<br/>이뻐요<br/>이뻐용 가격대비 괜찮네요<br/>" 
+---

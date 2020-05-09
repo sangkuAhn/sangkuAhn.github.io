@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "크록스 본사 여성 시에나 플랫 우먼 202811" 
+description: 크록스 본 ..
+date: 2020-04-19 04:59:47 
+img: https://static.coupangcdn.com/image/vendor_inventory/392b/a2e063a686d7a70032a7acf344d30394adb390f4719172880edfb82757f2.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=281561671&itemId=893809843&vendorItemId=5247138479&traceid=V0-113-ffabf0cec1fa4381 
+categories: [1007] 
+color: BF360C 
+price: 19900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>앞이 좁아서 앞 볼 넓으면 좀 힘들어요ㅜ 작은건 아닌데 새끼발가락이 아팠어요<br/>직장 실내화로 구입~<br/>편해보이지만 막상 신어보니 발가락 부분이 막혀있어서 조금 불편하고 뒤꿈치도 불편함.<br/><br/>평소 225 신는데 us5 주문하니 잘맞아요<br/>" 
+---

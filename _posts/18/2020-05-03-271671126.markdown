@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "르젠 인공지능 스탠드형 리모컨 DC 선풍기 LZEF-DC110" 
+description: 르젠 인공 ..
+date: 2020-05-04 05:53:21 
+img: https://static.coupangcdn.com/image/retail/images/2019/08/01/16/6/07222089-f1e6-4ed7-a893-fe6e3958bc75.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=271671126&itemId=854368467&vendorItemId=5168972099&traceid=V0-113-690e58b9378c221b 
+categories: [1016] 
+color: A57F92 
+price: 67460 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>그래도 뭐 큰문제는 아니라서 씁니다.<br/> 오래 써봐야 알겠지만 현재로써는 매우 만족해요.<br/><br/>예쁘네요~~ 리모컨도 있고 짱좋 ㅎㅎ<br/>조립 쉽게 할 수 있어서 좋아요<br/>좋네요.<br/> 소음없지 디자인 깔끔하지 편리하지 나무랄곳이 없습니다만 쫌 아쉬운건 낮은 단계로 돌릴수록 선풍기가 흔들리네요? 오히려 강풍이면 흔들림이 없구요.<br/><br/>키가 상당히 커서 좋네요 바람도 24단까지 제어되고 소음도 적어요<br/>" 
+---
