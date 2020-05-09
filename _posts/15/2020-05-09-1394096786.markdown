@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "리플라워 무광 동글이 올림머리 헤어 왕 집게핀" 
+description: 리플라워  ..
+date: 2020-05-10 03:00:57 
+img: https://static.coupangcdn.com/image/vendor_inventory/562f/6fa5e2b0e6bd36a73e2c5b44668e25eca8f356c7830dda36ef878c5b9d21.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1394096786&itemId=2429474844&vendorItemId=70423441689&traceid=V0-113-1804973ff0820155 
+categories: [1008] 
+color: 4A148C 
+price: 5000 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>가볍고 반묶음에좋아요<br/>머리숱이 많은편은 아닌데.<br/>.<br/>;;참고로 머리가 깁니다~<br/>반묶음정도~컬러화면과 같아요~<br/>숱이적당히많은편인데 하나묶기엔 조금 부족하지만 그래도묶여요 무난한듯 예뻐서 어디에나잘어울리고 좋아요<br/>아주긴머리는 전부다 올림머리해서 착용하기는 무리임<br/>안이쁜 핑크네요ㅠ근데 생각보다 짱짱해 좋아요<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "난닝구 듀지스 옆트임롱후드집업" 
+description: 난닝구 듀 ..
+date: 2020-03-16 06:10:16 
+img: https://static.coupangcdn.com/image/retail/images/2019/04/05/15/6/d904cf77-f23d-4851-80a3-514183c07616.jpg 
+linkUrl: https://coupa.ng/bubcu0 
+categories: [1001] 
+color: 4CAF50 
+price: 38000 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>그냥 편하게 입기에는좋을듯<br/>난닝구 듀지스 옆트임 롱후드집업, free, 그레이<br/>마르시구 키좀 크신분 전 키작고 통통하여  이쁘진않지만  그래도 지금부터  가을까지  좋을듯해요<br/>음.<br/>.<br/>약간 싼티나여<br/>" 
+---

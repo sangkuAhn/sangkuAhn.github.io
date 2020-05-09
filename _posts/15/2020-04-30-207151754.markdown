@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "주니데이 청소년 양말 스포티 6족 세트" 
+description: 주니데이  ..
+date: 2020-05-01 04:39:29 
+img: https://static.coupangcdn.com/image/retail/images/2019/04/07/0/1/4e34148e-3dd6-4c7d-a5d0-7a75ae27c0fe.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=207151754&itemId=612686025&vendorItemId=4607570667&traceid=V0-113-47e3ba0875b80469 
+categories: [1005] 
+color: AAD34A 
+price: 9900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>235cm인 저에게 맞네요<br/>240 아들 발에 맞는 양말이 많이 없어서 찾다가 구매했어요 아이가 맘에 들어하네요<br/>260cm까지여서 아들 신기려고 주문했는데 작아요<br/>얇아서 그런지 피부가 비치지만 이뻐요<br/>열살짜리 남자아이 양말로 구매했는데 쫀쫀하니 좋아요!! 보풀도 안 일어나고 천도 괜찮네요.<br/><br/>" 
+---

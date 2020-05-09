@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "팬콧키즈 팬콧 스판2 운동화 블랙" 
+description: 팬콧키즈  ..
+date: 2020-02-18 06:11:10 
+img: https://static.coupangcdn.com/image/operator/658834243/25e821c3-5e2c-97e1-7fce-ffc8378486ce.jpg 
+linkUrl: https://coupa.ng/bpLWYF 
+categories: [1005] 
+color: FF6F00 
+price: 19900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>가볍게 잘신을든해요<br/>신고 벗고 편합니다<br/>아이가 가볍고이쁘다해서 큰사이즈또사려보니 품절이네요 아쉬워요ㅜ<br/>저렴하게 샀는데 고급스럽고 잔잔한 펄이 예쁘네요.<br/> 아이가 잘 신고있어요<br/>정사이즈입니다<br/>" 
+---

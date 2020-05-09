@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "D뒷모습 USA 남자 박스 반팔 티셔츠" 
+description: D뒷모습  ..
+date: 2020-03-27 06:11:31 
+img: https://static.coupangcdn.com/image/vendor_inventory/191d/56836856df90b7b39b6066c9019e1dcfd7943469cc58c327e0b5388a3d1c.jpg 
+linkUrl: https://coupa.ng/bv2Gq2 
+categories: [1002] 
+color: 212121 
+price: 18000 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>면티로두꺼워서.<br/> 땀흡수가잘됨 제가 꼭원하든제품입니다.<br/> 감사합니다<br/>음ᆢ 디자인과 원단은 다 마음에 드는데요 세탁기에 한번돌렸을뿐인데  기장이 줄었어요ㅜㅜ<br/>한여름엔 더울것같음.<br/> 지금 날 더운데 입고 다니기 딱이네요.<br/> 110까지 입으시는 분들께도 맞으실듯요<br/>" 
+---
