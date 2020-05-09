@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "케이스위스/ 남성 여름 바람막이점퍼 4215HS201" 
+description: 케이스위스 ..
+date: 2020-05-04 04:17:46 
+img: https://static.coupangcdn.com/image/vendor_inventory/1d02/5fe24982f71a1add1a76c88288c43c7697e713042f2191af64f764f79bcc.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1436424228&itemId=2479333274&vendorItemId=70472655009&traceid=V0-113-9bfabb53e5d83dbd 
+categories: [1002] 
+color: f44336 
+price: 10900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>가격대비 좋은듯 합니다<br/>사고나서 가격이 떨어져 있어서 속상하네요... <br/>.<br/> 옷에 대한 품질은 매우 우수힙니다 제가 딱 찾던 제품입니다.<br/><br/>저렴한 가격으로 잘 장만했네요.<br/>.<br/>사이즈도 정사이즈고... <br/><br/>" 
+---
