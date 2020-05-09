@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "쏭스타일 워싱브이넥티" 
+description: 쏭스타일  ..
+date: 2020-05-04 04:10:20 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2016/04/04/18/7/920012f9-c385-45c8-a61b-fc1bcc2c5700.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1683927&itemId=7332033&vendorItemId=70086930614&traceid=V0-113-4d67ba9776f0f6f3 
+categories: [1001] 
+color: 79ABFF 
+price: 7900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>* 재구매: 여름에 입기 딱 좋아서 다른색 구매 의사 있음<br/>*배송: 공지 날짜보다 빨라요<br/>*상품: 부드러운 면소재<br/>*상품평<br/>*세탁후<br/>*재구매<br/>55반에서 66입는데<br/>가성비 갑~<br/>길이감도 짪지않고 엉덩이까지 내려옴<br/>단, 같은 사이즈인데 카키가 조금 더 큼<br/>뒤틀리거나 올풀림없음<br/>듭니당.<br/><br/>또 사고 싶어요.<br/><br/>모델이 입은거랑 같음<br/>부드러운 면소재<br/>비침 없음<br/>싼티 없음<br/>엉덩이 덮는 길이<br/>입으니 핏감이 완전 이쁩니다.<br/><br/>적당한 여유가 맘에 쏙~~<br/>정말 딱 면티~<br/>첨에볼땐 밎밎한데<br/>추천~!<br/>카키랑 화이트 같이 구매함<br/>품이 넉넉해서 예쁨<br/>품이 넉넉해서 편함<br/>화이트는 속옷만 입어도 될 정도로 비침이 없음<br/>" 
+---
