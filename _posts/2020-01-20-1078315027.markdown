@@ -9,6 +9,6 @@ categories: [1001]
 color: 212121 
 rank: 99 
 price: 19700 
-author: Ask View Shop 
+author: Ask View Shop
+cont:  "(얏호~~주말에 입고 나갈 수 있겠어!)2만원도 안되는 바지가 이 정도 고퀄인 건 처음.가격이 저렴해서 내심 뭔가 허술하겠지 싶었는데 완전 득템각!" 
 ---
- 
