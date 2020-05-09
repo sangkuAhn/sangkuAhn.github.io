@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "컨버스 척테일러 로우-블랙 (n)M9166C" 
+description: 컨버스 척 ..
+date: 2020-02-06 06:11:31 
+img: https://static.coupangcdn.com/image/vendor_inventory/30d1/a1a65e5afffac6b5da8eaf8448152f479fa3ada0c0531b8728ff75a32a21.jpg 
+linkUrl: https://coupa.ng/bokpSy 
+categories: [1007] 
+color: 4CAF50 
+price: 47000 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>바닥 쿠션 좋구요 발볼 넉넉해요<br/>예쁘고 편해요 진짜 가성비 짱이에요 맨날맨날 신으면 겨울엔 춥겠지<br/>예전에 타사 올드스쿨신발은 신발신으려고 손가락으로 땡기다찢어져서 산지2달도안돼 버렸는데 이건 품질도좋네요<br/>정사이즈 시키셔도 발볼 좁지않아요<br/>" 
+---

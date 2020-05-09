@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "MINIPLE 101 폴딩 보스턴백" 
+description: TOP.20 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/retail/images/2019/02/14/17/5/e1fe8cad-0ded-470f-8657-2b7937bc172e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=186462343&itemId=533121234&vendorItemId=4389124767&traceid=V0-113-4cb177fe6e36ae2c 
+categories: [1008] 
+color: ff1744 
+rank: 20 
+price: 15150 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>근데 어깨끈을 달아서매니까 끈이 금방끊어지네요 ㅜ<br/>디자인도 이쁘구 해외여행갈때 잘썼어요<br/>용량과 디자인 모두 마음에 딱듭니다<br/>진짜 은근 많이 들어가고 여행이나 본집갈때<br/>짐가방이 따로 없어서 구매했는데 가방자체가 가벼워서 좋습니다 잘 쓸거 같아요<br/>짐을 좀 챙겨야될때 정말 유용해요 튼튼하고!<br/>짐을너무 많이넣어서 그렇겠지만 좀아쉬워요<br/>" 
+---

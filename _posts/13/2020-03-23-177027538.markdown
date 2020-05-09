@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "공식/ FILA (공용) 마라톤 90 (FS1HTB1042X_WNV)" 
+description: 공식/ F ..
+date: 2020-03-24 06:17:20 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2019/01/15/21/7/e1eaad9d-9f02-4cf5-a40e-6b9b94b5faec.jpg 
+linkUrl: https://coupa.ng/bvwfDO 
+categories: [1007] 
+color: 212121 
+price: 39000 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>255신는데 260으로 주문했는데 새끼발가락이 조금 불편하다고하네요.<br/> 동생에게 선물해줬는데 조금 신으면 늘어나겠죠.<br/><br/>바닥 쿠션은 좋아요 발박은 펀한데 발볼이 아파요 벌볼 넓어서 편하다는 상품 보고 구매한건데 그렇다고 남들보다 발볼이 많이 넓거나 발등이 높은 편도 아닌데... <br/><br/>편하고 발걸음도 가벼운 운동화 근래들어 제일 잘신고있어요~~~<br/>" 
+---

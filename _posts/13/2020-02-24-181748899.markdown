@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "또봇V 벨크로 실내화" 
+description: 또봇V 벨 ..
+date: 2020-02-25 06:11:04 
+img: https://static.coupangcdn.com/image/retail/images/2019/02/14/13/2/ff98908c-cba3-43c6-a145-9de10ea448d4.jpg 
+linkUrl: https://coupa.ng/bqUpVH 
+categories: [1005] 
+color: FF6F00 
+price: 6900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>170사이즈가 품절이라 기다려서 다시 170으로 샀는데 아이는 만족하네요.<br/><br/>180  사이즈 꼭 껴서 190  주문했는데<br/>근데 크다는 평이 있어서 걍 운동화 사쥬로 200 했더니 넘 딱 맞아요ㅜㅜ 여유있게 210으로 살 걸 그랬어요.<br/>.<br/><br/>많이 크네요.<br/><br/>처음에 160사이즈 딱맞는시기라 170사려고했는데 품절이드라구요.<br/><br/>초등학교 입학하는 아이에게 사줬는데 넘넘 좋아하네요~<br/>회사마다 사이즈가 많이 차이나는지<br/>후기중에 사이즈 크게나오는거같다고 써진글도 봐서 160으로 샀는데, 아니에요.<br/>.<br/> 정사이즈인가봐요.<br/><br/>" 
+---

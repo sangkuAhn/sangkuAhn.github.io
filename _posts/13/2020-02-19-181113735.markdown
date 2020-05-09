@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "압소바 파코라반 마지막입고초특가밀키내의" 
+description: 압소바 파 ..
+date: 2020-02-20 06:12:59 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2019/01/28/22/2/0b8b5bdb-78cf-42bc-8eac-6e71da17100b.jpg 
+linkUrl: https://coupa.ng/bp30Yh 
+categories: [1003] 
+color: 006064 
+price: 4900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>배송도 빠르고 좀 얇은 편이라 봄  여름에 실내에서 입히기 좋을거 같아요.<br/><br/>생각보다입혀놓음 이쁘네요ㅎㅎ잘입고있어요<br/>요즘 낮엔 날이따뜻해서<br/>흰색과 민트색덕분에 아기 얼굴이 환하니 너무 예뻐보여요.<br/><br/>" 
+---

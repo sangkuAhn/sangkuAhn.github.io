@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "콜핑 2Layer 심파텍스 자켓 판테스(남) KMJ6147M 등산 바람막이/방수자켓" 
+description: 콜핑 2L ..
+date: 2020-04-17 04:51:26 
+img: https://static.coupangcdn.com/image/vendor_inventory/962c/9ff8fd76b64a59003238f41d2785f75f1142525c4f61b997226414debb4d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=18844310&itemId=75687847&vendorItemId=3126513151&traceid=V0-113-c63a277396eb5f3a 
+categories: [1006] 
+color: 006064 
+price: 27200 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>95로 신청햇는데, 정사이즈 잘 맞네요~<br/>빠른배송 감사합니다.<br/><br/>이쁘네요.<br/>^^<br/>" 
+---
