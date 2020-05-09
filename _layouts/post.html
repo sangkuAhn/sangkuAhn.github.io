@@ -1,12 +1,9 @@
 ---
 layout: default
 ---
-
 <div class="page-container">
-   
     <div class="content">
-    <article>
-        <h1 class="page-title">{{page.title}}</h1>
+    <article>        
         {% if page.author %}
         <div class="meta"><span><i class="fa fa-calendar-o" aria-hidden="true"></i> {{page.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;&nbsp;</span><span><i class="fa fa-pencil-square-o" aria-hidden="true"></i> {{page.author}}</span></div>
         {% endif %}
@@ -14,7 +11,9 @@ layout: default
          <p style="text-align:center"><a href="{{page.linkUrl}}" target="_blank"><img class="feat-image" src="{{page.img}}" alt="{{page.title}}"></a></p>
         {% endif %}
         {{page.content | markdownify}}
-       <br>
+       <br/>
+       <h1 class="page-title">{{page.title}}</h1>
+       <br/>
        {% if page.price %}    
          <p style="text-align:center"><h2 style="text-align: center;">{{page.price}}</h2> </p>
          <br/><br/>
@@ -41,10 +40,6 @@ layout: default
         
         {% include power_link.html %} 
         </div>
-    </article>
-    <!--         {% if page.categories %}
-        {% include post_list.html %}
-    {% else %}
-    {% endif %} -->    
+    </article>   
     </div>
 </div>
