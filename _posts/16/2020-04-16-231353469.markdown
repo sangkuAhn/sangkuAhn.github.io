@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "JB 레일라 니트모자" 
+description: JB 레일 ..
+date: 2020-04-17 05:07:52 
+img: https://static.coupangcdn.com/image/retail/images/2019/05/29/21/5/014fb149-7c15-43df-9798-94b3759c157b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=231353469&itemId=733730647&vendorItemId=4854355005&traceid=V0-113-0c33a7a51e3b74a0 
+categories: [1008] 
+color: 4CAF50 
+price: 16900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>가만히 덮고 자면 점점이 까맣게 탈것같아서 이건 휴가용으로 쓰고 구멍없는 다른모자 사야겠네요 ㅎㅎ<br/>밀짚 스타일이라 구멍사이사이로 햇빛이 들어와요<br/>베이지는 뭔가.<br/>.<br/> 안예쁜 베이지... <br/>ㅎㅎ<br/>봄부터 가을까지 잘 쓸거 같아요~모자 모양도 예쁘게 잘 잡히고 말아서 보관하기도 좋고 색상도 마음에 들고 좋아요<br/>사실 베이지사려다가 무료반품이라 다 사서 색상보고 고른건데<br/>실제로 보니 카멜이 예뻐서 베이지 반품했어요<br/>아주 예뻐요 챙도길어서 햇빛도 잘가려줄것같고 리본도 예쁘고 재질도 괜찮아요 올 여름 잘쓸것같아요<br/>예뻐요.<br/> 색상은 베이지보다 카멜이 예쁘네요.<br/><br/>카멜이 좀 분위기있는 색상이에요<br/>테라스에서 앉아있을때 + 낮잠잘때 얼굴 햇빛가리개 하려고 산건데<br/>" 
+---

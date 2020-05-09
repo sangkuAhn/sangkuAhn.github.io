@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "블랙야크 1+1 쿨토시 팔토시, 블랙+네이비" 
+description: 블랙야크  ..
+date: 2020-03-28 06:16:22 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/10/01/4880628995/2cd7168d-d5f5-49e7-b2f3-b90b04e9333d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=231402515&itemId=733841321&vendorItemId=5161277248&traceid=V0-113-e38c0cb352f67706 
+categories: [1006] 
+color: 9E9D24 
+price: 9950 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>번창하세요<br/>아직 착용은 못해봤지만 꼼꼼한 포장 지퍼백에 포장되어 재질도 부들부들 하고 좋습니다!<br/>여러번 서탁후에도 쫀쭌함이 살아있어서 재구매 했네요<br/>여름대비로 미리 구입했어요.<br/>벌써  2년째구매임니다<br/>중국산아니라 그나마 좋습니다 저렴하고 메이커라 나름 괜잔음<br/>번창하세요<br/>아직 착용은 못해봤지만 꼼꼼한 포장 지퍼백에 포장되어 재질도 부들부들 하고 좋습니다!<br/>여러번 서탁후에도 쫀쭌함이 살아있어서 재구매 했네요<br/>여름대비로 미리 구입했어요.<br/>벌써  2년째구매임니다<br/>중국산아니라 그나마 좋습니다 저렴하고 메이커라 나름 괜잔음<br/>" 
+---
