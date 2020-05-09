@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "재미있고 빠른 한글 쓰기 1~2 세트" 
+description: TOP.83 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/06/25/4160907527/b7ec8c22-c380-4569-b42c-f810da5c3149.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=167810474&itemId=480619524&vendorItemId=4160907527&traceid=V0-113-524583e09f251e56 
+categories: [1019] 
+color: 212121 
+rank: 83 
+price: 15300 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>7살아이 글씨가 너무엉망이라 시키고있는데 잘하네요,~^^<br/>잘받았습니다<br/>질은 좋으나 페이지 연결부분이 고리식이 아니라 접착식이라서 불편해요<br/>학생들 교육에 도움이 될거 같아요^^<br/>" 
+---

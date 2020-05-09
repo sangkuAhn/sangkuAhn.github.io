@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "고잉키즈 머리핀 24종 세트" 
+description: 고잉키즈  ..
+date: 2020-02-11 06:10:43 
+img: https://static.coupangcdn.com/image/retail/images/2018/12/11/12/1/8c19c2d1-0e35-4a7a-84ad-a88a7c2a4437.jpg 
+linkUrl: https://coupa.ng/boRtd2 
+categories: [1003] 
+color: BF360C 
+price: 10900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>배송빠르고 가성비좋으면 조카가 정말 눈을 떼지않고 만지고 머리에 꼽아보공 ~~~좋아하네요<br/>빤짝이 삔은 반짝이가 듬성듬성 비어 있네요... <br/><br/>애들이 좋아하네요 예쁘다고 ~ 마감처리가 잘 안된부부도 조금 있지만 가격대비 많이 괜찮은듯요<br/>장식 여기저기 지저분하게 뭍은 글루건은 살살 떼어 내니 떼져서 괜찮은데.<br/>.<br/> 고모줄은 장식하나가 떨어진 채로 왔고<br/>종류는 많지만 정말 딱 가격 만큼 합니당 ㅠㅠㅎ<br/>집게삔도 한두번 쓰면 부서질듯... <br/><br/>" 
+---
