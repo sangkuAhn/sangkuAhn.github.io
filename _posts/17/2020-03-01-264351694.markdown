@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "나스카 자외선차단 마스크, 베이지" 
+description: 나스카 자 ..
+date: 2020-03-02 06:11:23 
+img: https://static.coupangcdn.com/image/vendor_inventory/61c2/1947d57cba11bc03759d7457a73593f5af060d7c1c8809272e3ca18e6fc9.jpg 
+linkUrl: https://coupa.ng/brV1rf 
+categories: [1006] 
+color: 4A148C 
+price: 6100 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>5명이 공동구매해서 오늘 테니스 운동하면서 사용해보니 착용감도 좋고 목까지 가려주니<br/>급하게 구매해서 베트남 골프여행에 사용했는데 정말 만족합니다.<br/><br/>음,, 다른곳에서 더 싸게 팔지만 믿고 구입했습니다.<br/> 제가 생각한 베이지색이 아닙니다.<br/> 자외선차단은 아직 잘 모르겠습니다.<br/><br/>일단 얇아서 숨쉬기가 편해 라운딩 내내 불편함 없었구요.<br/> 자외선 차단도 잘되어 얼굴에 선블럭도 많이 안발라도 되었고 저녁에 빨아도 금새 건조되서 다음날도 문제없이 사용했어요.<br/>  가격대비 만족입니다~^^<br/>좋아요 다른분도 만족하시네요<br/>" 
+---
