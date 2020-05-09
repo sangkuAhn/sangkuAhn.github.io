@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "김해/ 초특가! 롯데워터파크 사우나/찜질권(~20/3/1)" 
+description: TOP.96 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/12/27/100000051283/67cc5e50-3d0c-4da0-a959-228e65577941.jpg 
+linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=100000051283&traceid=V0-113-f4bdc84c712bbb07 
+categories: [1025] 
+color: FF6F00 
+rank: 96 
+price: 5000 
+author: Ask View Shop 
+---
+ 

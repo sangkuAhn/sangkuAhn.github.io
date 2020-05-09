@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "컨버스 올스타 화이트 로우 M7652C" 
+description: 컨버스 올 ..
+date: 2020-04-23 04:54:10 
+img: https://static.coupangcdn.com/image/vendor_inventory/69ee/bbf804e2f06adcc59691204da95934ae80461cdaae09af8e165f157e2832.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=13242372&itemId=2441339970&vendorItemId=5391040704&traceid=V0-113-78def77ec67611ba 
+categories: [1007] 
+color: 9E9D24 
+price: 49500 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>240신는데 컨버스는 230이 딱 좋아요!<br/>굿굿굿굿굿♡<br/>좋아요 좋아요 전 발볼이 넓어서 반사이즈 작게 샀는데 발볼 없는 분들은 한사이즈 작게 사셔도 될듯<br/>" 
+---

@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "경기 광주/ 19/20 곤지암리조트 리프트권" 
+description: TOP.13 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/12/03/100000048356/d68f9a07-2667-452e-b57f-41b6dbbbed2e.jpg 
+linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=100000048356&traceid=V0-113-0e9a2c930fa035a5 
+categories: [1025] 
+color: BF360C 
+rank: 13 
+price: 48000 
+author: Ask View Shop 
+---
+ 

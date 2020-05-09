@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "라이테스/ 20데이즈 슬리밍 하이웨이스트 레깅스" 
+description: 라이테스/ ..
+date: 2020-04-21 04:46:33 
+img: https://static.coupangcdn.com/image/vendor_inventory/ee5c/9ed58486f1d4bf3ba4b6b3c0abced26e9b6590c7bb48d783e0de203ec696.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1469587034&itemId=2526622737&vendorItemId=70519424165&traceid=V0-113-f3d91e11440b730b 
+categories: [1006] 
+color: 1294AB 
+price: 129000 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>오늘 물건 받았구요.<br/><br/>좋습니다<br/>좋아요<br/>편하구요.<br/> 효과는 앞으로 기대해봐야겠죠?ㅋ<br/>평소 사이즈77인데 L 사이즈가 없어서 S,M시켰는데 딱좋네요<br/>" 
+---

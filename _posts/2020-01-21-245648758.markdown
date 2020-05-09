@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "COSLON 남성용 슬림 스판 긴팔셔츠" 
+description: TOP.79 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/08/01/4970133116/c09860c1-6194-4acd-8f81-7084c22fd6b6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=245648758&itemId=778648618&vendorItemId=4970133116&traceid=V0-113-9974cdf40f63ada8 
+categories: [1002] 
+color: 4CAF50 
+rank: 79 
+price: 19800 
+author: Ask View Shop 
+---
+ 

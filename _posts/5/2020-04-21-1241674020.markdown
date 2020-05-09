@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "패션컬러링 아이돌 스티커북, 마이리틀타이거" 
+description: 패션컬러링 ..
+date: 2020-04-22 06:13:20 
+img: https://static.coupangcdn.com/image/retail/images/2020/02/07/14/3/5700ae77-08e6-4dad-9582-85e15bcac8ab.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1241674020&itemId=2237419472&vendorItemId=70234924143&traceid=V0-113-a5defa39143508e2 
+categories: [1019] 
+color: 79ABFF 
+price: 4410 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>가격이 좋아서 샀더니.<br/>.<br/><br/>스티커보다는 색칠위주라 아이가 별로 안좋아하네요ㅠㅠ<br/>아기가 좋아해요<br/>친구 애기한데 선물했는데 무지 조아하네요 ㅎ<br/>" 
+---

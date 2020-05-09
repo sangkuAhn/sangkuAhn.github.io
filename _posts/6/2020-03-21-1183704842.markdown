@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "크록스 공식 공용 CROCBAND WHT 20SUCL11016" 
+description: 크록스 공 ..
+date: 2020-03-22 06:17:29 
+img: https://static.coupangcdn.com/image/vendor_inventory/021b/cd1c58901c33ddff9464ea43785fc79f652a703dfb28a51d013d5d6a0c3e.jpg 
+linkUrl: https://coupa.ng/bvczmp 
+categories: [1007] 
+color: 4CAF50 
+price: 37140 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>엄마 선물로 사드렸어요<br/>엄마는 요양원간호사이신데 오래 서계셔서 힘들어하셨는데<br/>이거 신으시고는 매우 만족하십니다<br/>정사이즈구요 딸이 신는거라 소감을 물어보니 아주 이뿌다고하네요<br/>편하고 좋아요<br/>" 
+---

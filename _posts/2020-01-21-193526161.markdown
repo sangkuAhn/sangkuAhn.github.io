@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "에이스 크래커, 97g, 10개입" 
+description: TOP.81 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/06/25/4455802600/b661de40-8ad8-41f9-8ae2-57c3f7638a67.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=193526161&itemId=554055233&vendorItemId=4455802600&traceid=V0-113-60f197534b87056b 
+categories: [1012] 
+color: BF360C 
+rank: 81 
+price: 6470 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "채니봉봉 베이비핑크 헤어핀세트" 
+description: TOP.65 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/retail/images/2019/01/31/20/2/b7391b34-cdec-4d77-9753-5a9c8995e838.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=183397923&itemId=525088339&vendorItemId=4362072037&traceid=V0-113-2cca987807003cfa 
+categories: [1003] 
+color: FF6F00 
+rank: 65 
+price: 9900 
+author: Ask View Shop 
+---
+ 

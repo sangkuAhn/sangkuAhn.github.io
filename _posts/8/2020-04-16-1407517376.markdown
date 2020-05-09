@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "썬키스트 딜라이트 만다린, 9kg, 1박스" 
+description: 썬키스트  ..
+date: 2020-04-17 05:32:41 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/30/17/4/443c9fcd-b76e-4166-8d2d-12eb7c51068f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1407517376&itemId=2443360065&vendorItemId=70437095918&traceid=V0-113-34f6f50533bb2149 
+categories: [1012] 
+color: 212121 
+price: 64900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>늘~쿠팡맨님들 넘~  감사해요~<br/>만다린~  새콤 달콤 맛있어요~~<br/>맛있습니다<br/>상태가 더러음 다신 사기싫음 사기꾼<br/>쿠팡~  사전예약 해서  아직까지 실패한적이 없네요~  사전예약  너무 좋아요~<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "리빙후레시 연예인마스크 미세먼지마스크 코마스크" 
+description: 리빙후레시 ..
+date: 2020-02-10 06:11:52 
+img: https://static.coupangcdn.com/image/operator/2133417909/7a1577c4-7a8f-91e4-04f1-eb2c3b2bdfc7.jpg 
+linkUrl: https://coupa.ng/boL1Dv 
+categories: [1008] 
+color: 7E57C2 
+price: 2900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>비닐을 벗기고 착용해봤는데 불쾌한냄새가 너무 많이나요.<br/><br/>" 
+---

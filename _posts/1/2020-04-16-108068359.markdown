@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "알로하제이 펀칭 레이스 아기썬햇" 
+description: 알로하제이 ..
+date: 2020-04-17 04:26:52 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/06/19/3801420060/aca0436c-fd91-42b9-84d0-781254e3783d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=108068359&itemId=327099260&vendorItemId=3801420060&traceid=V0-113-2b62f9a6986c0980 
+categories: [1003] 
+color: FF6F00 
+price: 15900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>130일 6.<br/>5키로 여아 s시켰어요<br/>너무 이쁘네요~<br/>다만 끈이좀 기네요<br/>만족합니다~~<br/>망에 넣어서 세탁했더니 목에묶는줄 올 나가는거 없이 깨끗하게 유지돼있네요<br/>모자끈에 있는 레이스 탄력있어서 리본 묶어놔도 아기 목<br/>모자를 뒤집어도 구분이 없는것같아요<br/>상품받고 삶고 건조기돌려서 씌웠는데 딱~맞네요<br/>여름에쓰기딱이구요 머리 두상 작은 저희 딸도 딱맞아용ㅋ<br/>우리아인 목에 줄안해도 안벗겨지고 딱맞아서 모자를 뒤집어서 목에줄을 모자머리둘레쪽에 리본으로 묶어놨어요 이게 더 이뿐것같아요^^<br/>재질도 여름에 써도 시원할것같은 원단이애요.<br/><br/>쪼이지않고 이쁘게 매듭지어져요.<br/><br/>" 
+---

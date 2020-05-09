@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "더에르고 컬러 헤어핀 7종 세트" 
+description: 더에르고  ..
+date: 2020-04-19 04:26:59 
+img: https://static.coupangcdn.com/image/retail/images/2019/12/02/12/3/3aa9632c-55de-4a93-9198-5979f1a66bf2.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1061475670&itemId=2005887322&vendorItemId=70005802016&traceid=V0-113-1b3cce5e0057c04f 
+categories: [1003] 
+color: 03A9F4 
+price: 3900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>조카 사줬어요 히히<br/>" 
+---

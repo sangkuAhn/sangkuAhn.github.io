@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "갭 베이비 여아 아이렛 바디 더블" 
+description: 갭 베이비 ..
+date: 2020-04-17 04:26:52 
+img: https://static.coupangcdn.com/image/retail/images/2019/06/26/12/6/1e5d3e46-08c8-4c06-b6b8-c1f1eabf5350.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1343349557&itemId=2370750629&vendorItemId=4981899170&traceid=V0-113-8acbb3e2fe82a10a 
+categories: [1003] 
+color: f44336 
+price: 19550 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>갭베이비 부드러운 면원단이예요! 화이트라 입혀놓으면 넘 예뻐요~<br/>여름에 시원하게 입힐 것 같아요~<br/>이제 막 돌아기인데 18개월~24개월 사이즈로 구매했는데.<br/>.<br/> 별로 크지 않아요~<br/>" 
+---

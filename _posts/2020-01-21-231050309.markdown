@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "상하목장 유기농 베이비 요구르트, 플레인, 4개입" 
+description: TOP.29 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/10/29/3822103499/dd548826-f613-43aa-992a-71d8a996be12.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=231050309&itemId=732680822&vendorItemId=3822103499&traceid=V0-113-ce2cfc1055eff2ae 
+categories: [1011] 
+color: 03A9F4 
+rank: 29 
+price: 2680 
+author: Ask View Shop 
+---
+ 

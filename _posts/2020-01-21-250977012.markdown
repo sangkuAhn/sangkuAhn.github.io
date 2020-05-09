@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "예닮 예양꽃 한복머리띠" 
+description: TOP.84 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/09/02/5010517213/5a8d85d4-712c-4a90-b439-13d3330cc2a6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=250977012&itemId=792218935&vendorItemId=5010517213&traceid=V0-113-5881157901e7164b 
+categories: [1003] 
+color: 4A148C 
+rank: 84 
+price: 15150 
+author: Ask View Shop 
+---
+ 

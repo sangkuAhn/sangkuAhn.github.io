@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "난닝구 여성용 비네츠 폴라티" 
+description: TOP.100 [▼1하락] 
+date: 2020-01-22 08:55:07 
+img: https://static.coupangcdn.com/image/retail/images/2019/12/11/13/5/b6cbe1ec-7a5a-4581-8dbf-9129bb1d208a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1082259366&itemId=2035196646&vendorItemId=70034625942&traceid=V0-113-97fa98c04ff45bbe 
+categories: [1001] 
+color: 006064 
+rank: 100 
+price: 10000 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>공장에서 나온듯한 냄새가 나서 세탁하니 아무문제 없음<br/>마음에 완전 마음에 들어요<br/>별점 주기도 싫음 목이 늘어나 입을 수가 없어 두번 입고 쓰래통에 넣어음<br/>비 좋아서 잘입을거 같아요<br/>생각보다 많이 안얇아서 기대이상<br/>제질좋아요 너무 얇아요<br/>" 
+---

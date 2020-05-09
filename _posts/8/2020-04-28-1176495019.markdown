@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "구름위에햇님 과일 우주복" 
+description: 구름위에햇 ..
+date: 2020-04-29 04:24:55 
+img: https://static.coupangcdn.com/image/retail/images/2020/01/14/11/4/6c4a092a-de59-4f79-ad52-4039d8e9a907.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1176495019&itemId=2155379138&vendorItemId=70153630487&traceid=V0-113-a54338fe7bea4e81 
+categories: [1003] 
+color: FF6F00 
+price: 14550 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>80으로했는데 품은 낙낙하나  길이가 딱 맞아서 90으로 시켜두 한여름 잘입히지 싶어요.<br/> 서비스로 이쁜 양말도 보내주시고 옷도 이쁘고 후기를 안 쓸수가없네요.<br/><br/>건조기 돌리니 한치수 작아짐<br/>구매때 참고!<br/>그냥저냥 입힐만한데<br/>사은품으로 주신 양말.<br/>.<br/>넘너무 맘에 들어요.<br/>.<br/>살짝 발목위로 종아리 덮는 길이라 좋으네요... <br/>낼모레 조리원 동기 모임있는데 잊혀갈까 고민중입니다^^<br/>아직 입혀보지는 않았지만 받아보고 기분이 좋아지는 상품이네요... <br/>상큼한 딸기향이 나는듯... <br/>아들입히려고 구매한건데 ㅋㅋ괘안겠죠? 레몬도 예쁜데 사이즈가 없어서.<br/>.<br/>입혀보고 다시 후기 올릴꺼예요^^<br/>이제 6개월된 아기 여름 옷으로시켰어요.<br/><br/>" 
+---

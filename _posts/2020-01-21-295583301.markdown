@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 베이스알파 남성용 순면 런닝 5p" 
+description: TOP.88 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/retail/images/55960159303493-f5a4d52f-3468-4027-92f2-e355273c7701.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=295583301&itemId=932090330&vendorItemId=5310974152&traceid=V0-113-2ddecc6f047d928d 
+categories: [1002] 
+color: 006064 
+rank: 88 
+price: 11990 
+author: Ask View Shop 
+---
+ 

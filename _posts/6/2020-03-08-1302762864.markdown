@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아가방 초특가 세일~ 상하복 5 000원" 
+description: 아가방 초 ..
+date: 2020-03-09 06:10:44 
+img: https://static.coupangcdn.com/image/vendor_inventory/0949/b4aa4e3485c899cdd70f0d8b2b88b0e8dd83462ed9600b7346fab8eecdd2.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=1302762864&itemId=2316768312&vendorItemId=70313476212&traceid=V0-113-58e8afd4072c681a 
+categories: [1003] 
+color: FF6F00 
+price: 5000 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>가격이 너무 사악해서 지른상품!  바지는 탄탄하고 좋은데 상의는 세탁만 했는데 목늘어짐 있어서 별하나 뺏어요.<br/><br/>" 
+---

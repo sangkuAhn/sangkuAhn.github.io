@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "핑크풋 6000 코넬 인덱스 노트, 랜덤 발송, 1개" 
+description: TOP.30 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/retail/images/2019/04/15/16/1/849b3871-70c6-4c15-a902-87da4d5f91e7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=209446069&itemId=622730142&vendorItemId=4635355062&traceid=V0-113-f8624beca21ad296 
+categories: [1021] 
+color: 006064 
+rank: 30 
+price: 4980 
+author: Ask View Shop 
+---
+ 

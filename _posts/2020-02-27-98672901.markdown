@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "팬톤 컬러풀 딱풀" 
+description: 팬톤 컬러 ..
+date: 2020-02-28 06:14:22 
+img: https://static.coupangcdn.com/image/retail/images/682924620023926-15a55c18-ae61-4e3e-bc85-7b56ca3e46f1.jpg 
+linkUrl: https://coupa.ng/brseCF 
+categories: [1021] 
+color: 9E9D24 
+price: 11140 
+author: Ask View Shop 
+---
+ 

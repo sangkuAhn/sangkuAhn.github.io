@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "갭 토들러 남아 포켓 반팔 티셔츠" 
+description: 갭 토들러 ..
+date: 2020-04-17 04:26:52 
+img: https://static.coupangcdn.com/image/retail/images/2019/06/26/16/7/2e2419db-29b8-4aae-b61f-26aecdd86973.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1343348448&itemId=2370746188&vendorItemId=4981576571&traceid=V0-113-921f5c560474d468 
+categories: [1003] 
+color: BF360C 
+price: 11710 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>검은 색이라 그런지 어느 옷이든 잘 어울려요<br/>너무 예뻐요<br/>다른 색도 사볼까 해요<br/>면도 너무보드랍고 다좋은데,검수좀해서 주시지그러셨어요?ㅜㅜ 목라운드있는데가 찢어지구 구멍이 나있네요 ㅠㅠ 상품받자마자 손빨래를 바로해버렸네요ㅜㅜ 그래서 반품도 못시키구 ㅠㅠ5개월된 크고 열많은 저희아들이 실내에서입기 딱이라 다시 주문했습니다.<br/>제발 검수좀 잘해주세요 ㅠㅠ<br/>색도 이쁘고 좋네요 돌아가인데 한치수 크게 삿는데 괜찮아요<br/>천에 레이온 함유가 있는지 부들 거리고<br/>" 
+---

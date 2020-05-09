@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 코멧 EVA 편안한 폼롤러, 남색 (91cm)" 
+description: TOP.31 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/retail/images/11020567185886-1d4226f1-2c4d-41d9-8e09-7076e21a8deb.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=172134024&itemId=558626159&vendorItemId=4467404117&traceid=V0-113-5d1cb7be0fe6d274 
+categories: [1017] 
+color: f44336 
+rank: 31 
+price: 14990 
+author: Ask View Shop 
+---
+ 

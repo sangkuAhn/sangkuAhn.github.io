@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 베이스알파에센셜 신사용 장목 양말 10켤레" 
+description: TOP.5 
+date: 2020-01-22 03:15:10 
+img: https://static.coupangcdn.com/image/retail/images/7494389550542-bd68d8f1-7add-4b6f-9114-b71d5745299e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=343999698&itemId=1092861158&vendorItemId=5609057037&traceid=V0-113-2ff008843cf7479a 
+categories: [1008] 
+color: 03A9F4 
+rank: 5 
+price: 9390 
+author: Ask View Shop 
+---
+ 

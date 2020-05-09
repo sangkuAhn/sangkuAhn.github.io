@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "제스파 쿠션플러스 안마기, ZP187" 
+description: 제스파 쿠 ..
+date: 2020-05-08 06:35:33 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/09/10/3009521782/7c7002c3-4435-4eb3-9ada-2e7b5c456f93.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1630536&itemId=7108074&vendorItemId=3009521782&traceid=V0-113-8bd6930329ed1366 
+categories: [1024] 
+color: 006064 
+price: 29800 
+author: Ask View Shop 
+---
+ 

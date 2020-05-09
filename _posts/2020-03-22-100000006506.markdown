@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "경주시/ 엘마르펜션" 
+description: 경주시/  ..
+date: 2020-03-23 06:37:48 
+img: https://static.coupangcdn.com/image/travel_reactor/static/booking/image/pension/ddnayo/aa56bf3c-c6e5-4dd3-a8df-76fb751cdbd2.jpg 
+linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=100000006506&traceid=V0-113-c52fcb44f8eca02d 
+categories: [1025] 
+color: 4CAF50 
+price: 60000 
+author: Ask View Shop 
+---
+ 

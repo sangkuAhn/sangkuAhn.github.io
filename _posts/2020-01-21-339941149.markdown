@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "버팔로 남성용 로퍼 CA03" 
+description: TOP.92 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/retail/images/2019/11/20/10/9/43096125-0a6a-41b0-974b-176918a68bd2.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=339941149&itemId=1082512286&vendorItemId=5585779365&traceid=V0-113-3091cdf7040b3ab6 
+categories: [1007] 
+color: 9E9D24 
+rank: 92 
+price: 30580 
+author: Ask View Shop 
+---
+ 

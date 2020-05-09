@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "삼성전자 컬러 레이저 프린터, SL-C433" 
+description: TOP.48 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/05/29/3156366311/efd87b8e-eccb-400a-a52b-e68603eda2ae.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=23187634&itemId=90181188&vendorItemId=3156366311&traceid=V0-113-480622317985b1a4 
+categories: [1021] 
+color: BF360C 
+rank: 48 
+price: 149000 
+author: Ask View Shop 
+---
+ 

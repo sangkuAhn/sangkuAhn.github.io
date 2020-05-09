@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "하이난/ 노쇼핑/특급호텔/하이난 패키지 3박5일/4박6일" 
+description: 하이난/  ..
+date: 2020-03-22 06:43:32 
+img: https://static.coupangcdn.com/image/travel_reactor/travelSeller/common/A00172888/15083076-f369-4c19-9f4e-38409bfa9a83.jpg 
+linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=100000024051&traceid=V0-113-bc78cbd501df329b 
+categories: [1026] 
+color: 43A047 
+price: 299000 
+author: Ask View Shop 
+---
+ 

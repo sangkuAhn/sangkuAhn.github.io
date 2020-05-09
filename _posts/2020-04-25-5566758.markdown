@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아이핏 안전문 미니 KH-002" 
+description: 아이핏 안 ..
+date: 2020-04-26 05:15:43 
+img: https://static.coupangcdn.com/image/retail/images/2016/07/22/15/6/0dd20536-e2fb-4dae-b507-feab410f89f7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5566758&itemId=25213734&vendorItemId=3037304598&traceid=V0-113-920af9e39d59d7b7 
+categories: [1011] 
+color: F361A6 
+price: 27200 
+author: Ask View Shop 
+---
+ 

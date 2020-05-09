@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "닌텐도 스위치 포켓 몬스터 소드 한국어 타이틀, 단일 상품" 
+description: 닌텐도 스 ..
+date: 2020-04-21 06:20:12 
+img: https://static.coupangcdn.com/image/retail/images/2019/09/25/11/0/f5fd31d2-948b-48fe-a2d4-c44a96e208cd.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=306607582&itemId=966661342&vendorItemId=5372669058&traceid=V0-113-52957ddf5cbecd8d 
+categories: [1020] 
+color: f44336 
+price: 50880 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "휠라 여성 에프 슬라이드 FS1SLA2053X_PNK" 
+description: 휠라 여성 ..
+date: 2020-05-09 04:53:38 
+img: https://static.coupangcdn.com/image/vendor_inventory/9482/d3babbca16e6c6ff67fed8d8f6b1b6a121baddbbb2e1680428538f03a068.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1281071442&itemId=2289204251&vendorItemId=70360127322&traceid=V0-113-f05e115a920a1f3b 
+categories: [1007] 
+color: FF1744 
+price: 18050 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>쿠션감 전혀 없어요<br/>" 
+---

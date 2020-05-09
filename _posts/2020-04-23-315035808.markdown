@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 탐사 락스, 2L, 6개" 
+description: 쿠팡 브랜 ..
+date: 2020-04-24 05:37:06 
+img: https://static.coupangcdn.com/image/retail/images/1385843253002-e637a3b3-3057-4d12-ab11-780a150249be.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=315035808&itemId=1001025618&vendorItemId=5429699959&traceid=V0-113-256dc2a5b321e10b 
+categories: [1014] 
+color: CF36BB 
+price: 8060 
+author: Ask View Shop 
+---
+ 

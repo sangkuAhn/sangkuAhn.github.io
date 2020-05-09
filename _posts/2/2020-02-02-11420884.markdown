@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "시계와 시간, 어스본코리아" 
+description: 시계와 시 ..
+date: 2020-02-03 06:14:01 
+img: https://static.coupangcdn.com/image/vendor_inventory/c1be/963722acdbdb0af36b0e90c0b1a37f1b490d989c7b0293b1f12ac79ec4af.jpg 
+linkUrl: https://coupa.ng/bnWP77 
+categories: [1019] 
+color: f44336 
+price: 12600 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>고장난 시계로 돌려가면 알려줬는데~<br/>그래서 시계에대해서 이야기를 해주고<br/>시간뿐 아니라 오전오후, 시간단위에 대해서 나왔더라고요~<br/>신기하게 시간개념과 시계를  잘보네요<br/>아이가 시계배울때라  그냥 부담없이 샀는데<br/>아이가 재미있고 흥미롭게 쉽게 이해할수있도록 잘 구성이 되어있는거 같아요.<br/><br/>아이가 초등학교에 올라가요~<br/>아이가 플랩을 열면서 재미있게 볼 수 있어서 구매했어요!!<br/>아이도 재미있어하네요!!!<br/>아주 강추합니다<br/>이 책은 시계도 다양하게 알려주고<br/>" 
+---

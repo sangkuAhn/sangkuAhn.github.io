@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "나이키 빅토리 솔리드 모던핏 816341, 010_블랙" 
+description: 나이키 빅 ..
+date: 2020-04-24 04:46:36 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2018/05/04/13/2/bf168554-7cb9-440c-ae11-7a9cc29e5383.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=88847479&itemId=277783461&vendorItemId=3674917583&traceid=V0-113-07efd3da68488712 
+categories: [1006] 
+color: F361A6 
+price: 30900 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "나이키 에어 맥스 2017 849559-010" 
+description: 나이키 에 ..
+date: 2020-03-21 06:17:21 
+img: https://static.coupangcdn.com/image/vendor_inventory/9956/2e63368db46da1e1f07a51ef38e6e3c60e5a01e5fdb4a07ea89876dc6a87.jpg 
+linkUrl: https://coupa.ng/bu2sYp 
+categories: [1007] 
+color: 7E57C2 
+price: 43000 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>감사합니다!<br/>상품도 기대한 것과 같이 좋네요!<br/>색상도 이쁘네여<br/>아이가 좋아합니다<br/>예상 배송 기간과 비슷하게 도착했습니다!<br/>저렴하게 잘 구입했네요!!^^<br/>" 
+---

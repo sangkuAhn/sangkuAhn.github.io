@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "고성군/ 켄싱턴 리조트 설악비치" 
+description: 고성군/  ..
+date: 2020-03-05 06:15:00 
+img: https://static.coupangcdn.com/image/travel_reactor/travelConnect/hotel/C00242129/59a23ab3-c039-4686-9130-7d1228950222.jpg 
+linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=30000000029031&traceid=V0-113-e65ece51478fed94 
+categories: [1025] 
+color: 7E57C2 
+price: 68311 
+author: Ask View Shop 
+---
+ 

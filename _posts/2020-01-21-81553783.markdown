@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "키친아트 4구 에그팬, 지름 26cm x 높이 2.5cm, 1개" 
+description: TOP.23 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/10/24/3631402684/675daa24-fb52-40c8-8611-9685980ce0dd.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=81553783&itemId=259883046&vendorItemId=3631402684&traceid=V0-113-15be9c4cfd1cc3f4 
+categories: [1013] 
+color: f44336 
+rank: 23 
+price: 9350 
+author: Ask View Shop 
+---
+ 

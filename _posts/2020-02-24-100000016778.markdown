@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "부산↔오사카/ 팬스타 승선권/자유여행" 
+description: 부산↔오사 ..
+date: 2020-02-25 06:16:09 
+img: https://static.coupangcdn.com/image/travel_reactor/product/content/vendorItemPackage/2018/04/06/3013815348/23ab432a-d281-4e6c-840a-b8920603db19.jpg 
+linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=100000016778&traceid=V0-113-ce5271c4333cd7da 
+categories: [1026] 
+color: f44336 
+price: 24000 
+author: Ask View Shop 
+---
+ 

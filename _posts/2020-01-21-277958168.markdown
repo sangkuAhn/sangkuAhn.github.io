@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 꼬리별 펫밀크 관절케어 130ml, 10개입" 
+description: TOP.97 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/10/30/5221106449/7a30a30b-2cb8-4876-a76e-a33aeed0ed23.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=277958168&itemId=880839726&vendorItemId=5221106449&traceid=V0-113-d8bf3e84af742778 
+categories: [1029] 
+color: BF360C 
+rank: 97 
+price: 11400 
+author: Ask View Shop 
+---
+ 

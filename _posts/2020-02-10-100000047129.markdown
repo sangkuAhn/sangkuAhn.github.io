@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "후쿠오카/하카타역/ 후쿠오카 재팬고 게스트하우스 하카타점 4호" 
+description: 후쿠오카/ ..
+date: 2020-02-11 06:15:39 
+img: https://static.coupangcdn.com/image/travel_reactor/travelSeller/hotel/A00171991/d4a05d11-f922-4e41-a113-650fb3dc5bf9.jpg 
+linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=100000047129&traceid=V0-113-6620648c7b17b092 
+categories: [1026] 
+color: f44336 
+price: 65500 
+author: Ask View Shop 
+---
+ 

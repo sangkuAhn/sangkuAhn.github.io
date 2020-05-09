@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "위시키즈 아동용 폴로 카라 티셔츠" 
+description: 위시키즈  ..
+date: 2020-02-20 06:17:17 
+img: https://static.coupangcdn.com/image/retail/images/2020/01/20/17/0/397fcd06-6aef-4678-9b3d-d86b78c02293.jpg 
+linkUrl: https://coupa.ng/bp32ut 
+categories: [1005] 
+color: 03A9F4 
+price: 6900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>가격대비 맘에들어요 봄,가을 잘 입어질거같아요<br/>가격도 저렴하고!~~ 작게나온거같아오<br/>나중에 하나 더 주문해야겠어요<br/>목부분이 너무 딱 맞아서 입히고<br/>벗기기 힘들어요 ㅠ 얼굴이 큰편도<br/>아닌데.<br/>.<br/> 디자인은 딱 깔끔하고 좋아요<br/>아이 유치원 원복에<br/>입으려고 샀어요 생각보다 얇아요<br/>평소 5호 입는 13kg 여아인데<br/>" 
+---

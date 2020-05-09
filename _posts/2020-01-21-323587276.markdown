@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 탐사 베이킹소다 주방세제 레몬향, 780ml, 2개" 
+description: TOP.14 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/retail/images/16123809162949-03ba02ca-15f2-4d34-9bbb-65133bf3f357.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=323587276&itemId=1036090204&vendorItemId=5489402284&traceid=V0-113-b6d4a87b28fc8545 
+categories: [1014] 
+color: FF6F00 
+rank: 14 
+price: 5990 
+author: Ask View Shop 
+---
+ 

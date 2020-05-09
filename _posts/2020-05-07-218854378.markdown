@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "루디아 "당일출고"레터링 옆트임 이지 원피스" 
+description: 루디아 " ..
+date: 2020-05-08 04:10:15 
+img: https://static.coupangcdn.com/image/vendor_inventory/5151/3905d823559bb883b72395a67014721eec62e73a410037006acca3186a10.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=218854378&itemId=678504164&vendorItemId=4746950454&traceid=V0-113-fb501d856d4d936d 
+categories: [1001] 
+color: FFB2D9 
+price: 9800 
+author: Ask View Shop 
+---
+ 

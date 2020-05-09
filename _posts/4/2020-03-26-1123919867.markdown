@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "민트코코아 커플용 스퀘어 체크 잠옷 세트" 
+description: 민트코코아 ..
+date: 2020-03-27 06:11:31 
+img: https://static.coupangcdn.com/image/retail/images/2019/12/26/17/8/65e0e9ec-50c0-4ad6-a378-71bec58d202a.jpg 
+linkUrl: https://coupa.ng/bv2Gqn 
+categories: [1002] 
+color: 7E57C2 
+price: 32900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>난방비도 아낄겸 5살 공주 도움으로<br/>남자것도 그렇고 전체적으로 사이즈가<br/>봄에 입기딱좋은거 같아요<br/>소매랑 바지 밑단 재봉이 깔끔해서 걸리지 않네요<br/>신랑이 집에서 팬티만 입으려고 해서<br/>신랑한테 입히고 저도 있습니다.<br/> 디자인 이뻐요.<br/><br/>실밥처리가 맘에는 안들지만 다른건 괜찮네요<br/>여자 44사이즈인데 L가 딱맞아요<br/>옷의 단추가 큰편이라 크게 움직여도 빠지지 않아서 좋고<br/>작게나왔어요<br/>좋아요!! 여름용도 있으면 좋겠네요.<br/><br/>키크신분들이 짧을것 같아요<br/>" 
+---

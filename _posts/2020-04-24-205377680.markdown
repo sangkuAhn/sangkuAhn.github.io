@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "에브리봇 Edge 물걸레 로봇청소기, 단일 상품" 
+description: 에브리봇  ..
+date: 2020-04-25 05:51:29 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/09/24/4585700737/e1a681ac-dde9-4a82-95de-c0b7dd456f5a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=205377680&itemId=604934086&vendorItemId=5192122730&traceid=V0-113-5af90b1ec523e36a 
+categories: [1016] 
+color: 4CAF50 
+price: 259000 
+author: Ask View Shop 
+---
+ 

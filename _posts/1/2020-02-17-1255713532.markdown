@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "사전예약/ 삼성전자 갤럭시S20 실리콘 휴대폰 케이스" 
+description: 사전예약/ ..
+date: 2020-02-18 06:13:23 
+img: https://static.coupangcdn.com/image/retail/images/2020/02/12/16/9/5c003956-0830-4862-97c7-91b5398f6ede.jpg 
+linkUrl: https://coupa.ng/bpLXVa 
+categories: [1016] 
+color: 7E57C2 
+price: 19800 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>그동안 써왔던 삼성실리콘커버 생각하시면 될거같아요.<br/> 미끄럽지않고 좋습니다!! ㅎㅎ<br/>배송도 빠르고 그립감이 좋네요 보통 투명 젤리 케이스 보다 약간 가벼워서 편하고 좋응거 같아요<br/>이뻐요<br/>" 
+---

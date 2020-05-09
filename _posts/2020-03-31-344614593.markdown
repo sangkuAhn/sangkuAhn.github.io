@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 코멧 걸이형 압축팩, 일반형, 4개입, 1개" 
+description: 쿠팡 브랜 ..
+date: 2020-04-01 06:24:37 
+img: https://static.coupangcdn.com/image/retail/images/9655226973982-2c1af89e-a223-468b-82e7-ba84f2406523.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=344614593&itemId=1094686851&vendorItemId=5613437187&traceid=V0-113-5cb10b066871358c 
+categories: [1014] 
+color: 7E57C2 
+price: 9080 
+author: Ask View Shop 
+---
+ 

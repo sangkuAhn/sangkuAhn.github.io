@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "메이키즈 아동용 옐로삐약 9부 내의 상하의 세트" 
+description: 메이키즈  ..
+date: 2020-03-29 06:15:09 
+img: https://static.coupangcdn.com/image/retail/images/5884657328835-b42dc468-465e-488f-ada8-d20e04c4ae4f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=1123392427&itemId=2089347560&vendorItemId=70088320306&traceid=V0-113-56f40eb77fc281e5 
+categories: [1005] 
+color: 006064 
+price: 11900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>너무 예뻐요.<br/> 노란 병아리 같아요.<br/> 아이가 너무 좋아해요!!굿!!!<br/>세탁 한번했는데 구멍남<br/>애들한테 잘맞구요.<br/>아이가좋아해요<br/>" 
+---

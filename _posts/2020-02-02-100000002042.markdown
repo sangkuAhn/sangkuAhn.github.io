@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "정선/ 메이힐스리조트 스키시즌 얼리버드(11/30~3/7)" 
+description: 정선/ 메 ..
+date: 2020-02-03 06:15:39 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/07/11/100000002042/fc6d5a32-0f4a-4c03-afa5-7b5c975209be.jpg 
+linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=100000002042&traceid=V0-113-381746ba0c71058f 
+categories: [1025] 
+color: 43A047 
+price: 45000 
+author: Ask View Shop 
+---
+ 

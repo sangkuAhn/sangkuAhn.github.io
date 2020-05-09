@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "케이스위스 4116SP205" 
+description: 케이스위스 ..
+date: 2020-03-31 06:17:34 
+img: https://static.coupangcdn.com/image/vendor_inventory/de73/ca11f1adb89807bb5ddb869d8273e2c02cb02f9300e174e5ac35118e9efb.jpeg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=1289284325&itemId=2299865759&vendorItemId=70337038241&traceid=V0-113-f52f4335a1c44271 
+categories: [1007] 
+color: 43A047 
+price: 15000 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>디자인도 좋고 발도 편해요.<br/><br/>" 
+---

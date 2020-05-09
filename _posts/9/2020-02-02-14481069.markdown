@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "LECAF 여성 덕다운 자켓 다운/패딩 조끼" 
+description: LECAF ..
+date: 2020-02-03 06:11:24 
+img: https://static.coupangcdn.com/image/vendor_inventory/9ac2/63c49274f4b60c2feb5b62d7b27235dff053b5ddfb95672a706cd893c41f.jpg 
+linkUrl: https://coupa.ng/bnWO5o 
+categories: [1006] 
+color: 212121 
+price: 19400 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>가볍고 따뜻하고 너무 좋아요<br/>가성비 끝판왕인것 같아요^^<br/>구입을 참잘했읍니다 한치수 올려서 구입해고 가격도저렴하고 주위에 자랑하고있읍니다 잘입고있어요<br/>너무 좋은 제품 너무 저렴하게 구매해서<br/>미안한 맘 고마운맘 입니다<br/>사진보다 예쁘고 가볍고 따뜻합니다<br/>온라인으로 구매한 의류제품중 단연 최고!!<br/>저렴한 가격에 득템했네요<br/>코로나 위기 잘 이겨내시고 더욱 번창하세요^^<br/>" 
+---

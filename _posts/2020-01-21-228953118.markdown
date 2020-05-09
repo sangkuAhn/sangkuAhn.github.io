@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "카카오프렌즈 파스틱, 24색" 
+description: TOP.85 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/retail/images/405856053526505-90c9599e-c2d5-4444-936c-83fa81b1095e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=228953118&itemId=725904755&vendorItemId=4836019970&traceid=V0-113-f9e5c4b8b1b7cd6a 
+categories: [1020] 
+color: 006064 
+rank: 85 
+price: 10340 
+author: Ask View Shop 
+---
+ 

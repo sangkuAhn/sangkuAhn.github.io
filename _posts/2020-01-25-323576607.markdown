@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "곰곰 맛있는 밤고구마, 1.5kg, 1개" 
+description: 곰곰 맛있 ..
+date: 2020-01-26 02:09:06 
+img: https://static.coupangcdn.com/image/retail/images/15189412875238-6c37fef0-4efc-4e4a-9ae3-c99537ea322d.jpg 
+linkUrl: https://coupa.ng/bnfnG9 
+categories: [1012] 
+color: FF6F00 
+price: 5750 
+author: Ask View Shop 
+---
+ 

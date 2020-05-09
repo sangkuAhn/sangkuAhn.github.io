@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "카카오프렌즈 1단 독서대, 어피치" 
+description: 카카오프렌 ..
+date: 2020-02-20 06:31:52 
+img: https://static.coupangcdn.com/image/retail/images/594799560011028-7e419b54-5b50-4ad5-be1e-1c23282f35bc.jpg 
+linkUrl: https://coupa.ng/bp364a 
+categories: [1015] 
+color: ff1744 
+price: 19600 
+author: Ask View Shop 
+---
+ 

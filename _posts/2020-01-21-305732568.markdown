@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 탐사 파워클린 액체세제, 2.5L, 4개" 
+description: TOP.21 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/retail/images/157842061928413-74b3ca28-1489-4342-995b-9413721edfbb.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=305732568&itemId=963650372&vendorItemId=5366789544&traceid=V0-113-19cbcea9a24da303 
+categories: [1014] 
+color: f44336 
+rank: 21 
+price: 8990 
+author: Ask View Shop 
+---
+ 

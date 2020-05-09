@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "가평군/ 아망떼펜션" 
+description: 가평군/  ..
+date: 2020-02-20 06:36:52 
+img: https://static.coupangcdn.com/image/travel_reactor/static/booking/image/pension/ddnayo/c22b6a70-2f57-46c8-af1f-10cfb4ac4659.jpg 
+linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=30000000029104&traceid=V0-113-2fd299b29a7fadc3 
+categories: [1025] 
+color: f44336 
+price: 31500 
+author: Ask View Shop 
+---
+ 

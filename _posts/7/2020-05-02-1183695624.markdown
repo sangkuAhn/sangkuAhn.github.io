@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "토마토팩토리 와이드 점프수트 멜빵바지" 
+description: 토마토팩토 ..
+date: 2020-05-03 04:10:21 
+img: https://static.coupangcdn.com/image/retail/images/2020/01/15/12/4/9cb754ac-222a-4894-81a5-dba960f15eb8.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1183695624&itemId=2164063881&vendorItemId=5283343873&traceid=V0-113-fcf1ff7308cab12a 
+categories: [1001] 
+color: 5A8DF3 
+price: 15990 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>낙낙한핏인데도심하게 뚱해보인진 않네요.<br/> 스판끼가 있어 활동도 편하고 동남아 여행가서 입으려고 구매했는데 만족스럽네요 다만 앞뒤판이 같아 어깨끈이 자꾸 내려와서 살짝 수선했더니 더 좋네요<br/>넉넉하니 편해요 집에서 편하게 입고있어요<br/>어깨끈이 자주 내려오는것 빼고는 가격대비 괜찮아요<br/>완전 편하게 입을수 있는 스타일이에요~~요즘 이런스타일에 꽃혀서 자주 사입는데 여기서 몇개더 구입해야겠어요!ㅋ잘입을께요^^<br/>" 
+---
