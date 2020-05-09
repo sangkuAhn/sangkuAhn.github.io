@@ -9,5 +9,5 @@ categories: [1003]
 color: ff1744 
 price: 11880 
 author: Ask View Shop 
+cont:  "●구매후기●<br/>길이도 6세 아이 한복에 적당해요<br/>너무 이뻐요<br/>이쁩니당.<br/><br/>한복엔 빠질수 읍죠^^<br/>화면 그대로 입니다^^ 한복에 다니 더 고급지네요~<br/>" 
 ---
- 
