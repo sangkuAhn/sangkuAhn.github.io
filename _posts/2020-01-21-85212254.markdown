@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "세라밴드 근력밴드, GREEN" 
+description: TOP.68 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2017/11/22/3036618126/1be0ac12-6a16-4220-bf8a-edcf6e69f35e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=85212254&itemId=269627000&vendorItemId=3653382828&traceid=V0-113-2f5d4b162d6040d4 
+categories: [1017] 
+color: BF360C 
+rank: 68 
+price: 8570 
+author: Ask View Shop 
+---
+ 

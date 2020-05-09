@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "K2 방한 넥 게이터, BLACK" 
+description: TOP.86 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/retail/images/46767812013045-32998652-04b0-44fb-b91c-588e267e15fc.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=320457360&itemId=1025457983&vendorItemId=5468587035&traceid=V0-113-6e2523755e20418b 
+categories: [1006] 
+color: ff1744 
+rank: 86 
+price: 13500 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "데비 요가링 2p, 블루" 
+description: TOP.74 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/retail/images/7628975945990-64c0866a-2749-4eed-8833-69b56e3019e4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=284287783&itemId=902381159&vendorItemId=5261711183&traceid=V0-113-1db2616f78a86168 
+categories: [1024] 
+color: 006064 
+rank: 74 
+price: 9730 
+author: Ask View Shop 
+---
+ 

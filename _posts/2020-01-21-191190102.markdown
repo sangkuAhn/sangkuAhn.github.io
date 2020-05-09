@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "팩트풀니스 : 우리가 세상을 오해하는 10가지 이유와 세상이 생각보다 괜찮은 이유, 김영사" 
+description: TOP.80 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/vendor_inventory/11e6/00834a94c72dea247d7a48cef6bcad0146c06a81066ed54a66b1957b1a0a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=191190102&itemId=546432953&vendorItemId=4466613202&traceid=V0-113-a9ff3c886c8054bc 
+categories: [1019] 
+color: 212121 
+rank: 80 
+price: 17820 
+author: Ask View Shop 
+---
+ 

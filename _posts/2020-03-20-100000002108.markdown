@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "제주시/ 까사델마마223 펜션" 
+description: 제주시/  ..
+date: 2020-03-21 06:37:01 
+img: https://static.coupangcdn.com/image/travel_reactor/static/booking/image/pension/ddnayo/330a6ba1-118e-4213-bc9c-62333cdce00c.jpg 
+linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=100000002108&traceid=V0-113-b91fbb138a052ff3 
+categories: [1025] 
+color: BF360C 
+price: 59000 
+author: Ask View Shop 
+---
+ 

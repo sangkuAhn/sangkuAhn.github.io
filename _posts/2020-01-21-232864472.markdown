@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "나야스타일 신발형 아쿠아슈즈 Aqua47-2" 
+description: TOP.87 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/retail/images/2019/05/31/17/0/388a52c1-5a55-4c15-b0cf-595f6ce06f6a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=232864472&itemId=739667819&vendorItemId=4867897441&traceid=V0-113-8f36b4906a781173 
+categories: [1006] 
+color: 43A047 
+rank: 87 
+price: 18900 
+author: Ask View Shop 
+---
+ 

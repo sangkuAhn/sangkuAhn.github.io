@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "test/ VI 3, VI3" 
+description: test/ ..
+date: 2020-04-17 06:05:42 
+img: https://static.coupangcdn.com/image/retail/images/346148554435617-b580b385-dfe6-4d5b-8879-69c16a382a3a.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1268643106&itemId=2330867482&vendorItemId=70327423400&traceid=V0-113-f9aa99275b504136 
+categories: [1016] 
+color: 006064 
+price: 10000000 
+author: Ask View Shop 
+---
+ 

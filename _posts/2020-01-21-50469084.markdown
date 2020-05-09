@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "캐논 가정용 WiFi PIXMA 잉크젯 복합기, MG3090, 단일 색상" 
+description: TOP.91 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/10/17/3425235922/ef11c75f-037d-4e31-b820-1c62bce54a25.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=50469084&itemId=177921906&vendorItemId=3425235922&traceid=V0-113-aa3dfd4c71fc0cf0 
+categories: [1016] 
+color: 03A9F4 
+rank: 91 
+price: 50270 
+author: Ask View Shop 
+---
+ 

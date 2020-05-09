@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "가평군/ 가평 아이엠펜션" 
+description: 가평군/  ..
+date: 2020-02-29 06:15:02 
+img: https://static.coupangcdn.com/image/travel_reactor/static/booking/image/pension/ddnayo/a66428c0-d7a5-46b0-8e91-b2186b764925.jpg 
+linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=100000003656&traceid=V0-113-524f3b5be5826dd5 
+categories: [1025] 
+color: 9E9D24 
+price: 101100 
+author: Ask View Shop 
+---
+ 

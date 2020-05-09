@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "정동진/ ★강릉★호텔 탑스텐 강릉" 
+description: 정동진/  ..
+date: 2020-02-03 06:15:39 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/07/12/100000000195/6e49f6e2-935c-4f77-a31e-170418ec7aa5.jpg 
+linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=100000000195&traceid=V0-113-45096f6cd24bc007 
+categories: [1025] 
+color: ff1744 
+price: 109000 
+author: Ask View Shop 
+---
+ 

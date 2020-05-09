@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "슬릿 반팔 브이 트임넥 티셔츠" 
+description: 슬릿 반팔 ..
+date: 2020-05-07 04:17:32 
+img: https://static.coupangcdn.com/image/vendor_inventory/0e65/b5a96cf7fed2877f8e4683fde2e0d7b6f059eed84ca3e4e1af8caa53a060.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=218749880&itemId=678160497&vendorItemId=4746146295&traceid=V0-113-f16c62f9a4592612 
+categories: [1002] 
+color: 03A9F4 
+price: 9500 
+author: Ask View Shop 
+---
+ 

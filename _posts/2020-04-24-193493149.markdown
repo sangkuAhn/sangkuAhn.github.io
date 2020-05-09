@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "국내산 파프리카 4개입, 400g, 1봉" 
+description: 국내산 파 ..
+date: 2020-04-25 05:22:32 
+img: https://static.coupangcdn.com/image/retail/images/2019/03/04/9/3/453006ba-74ac-4af9-8dab-416d24052ad0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=193493149&itemId=553931179&vendorItemId=4455430209&traceid=V0-113-c6586a36c1a50de2 
+categories: [1012] 
+color: F15F5F 
+price: 3520 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "제이디퍼니처 로미 4단 서랍장, 백화이트" 
+description: TOP.49 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/01/28/3165658367/baee0b0c-b92d-4e6c-911e-e48c881ffd39.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=24070995&itemId=93723578&vendorItemId=3165658367&traceid=V0-113-feb0fb36f7e1623f 
+categories: [1015] 
+color: FF6F00 
+rank: 49 
+price: 27450 
+author: Ask View Shop 
+---
+ 

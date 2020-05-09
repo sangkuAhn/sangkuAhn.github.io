@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아이엠아이 병아리 크로스 캔버스백" 
+description: 아이엠아이 ..
+date: 2020-02-25 06:11:46 
+img: https://static.coupangcdn.com/image/retail/images/2019/10/10/16/1/e8cc01cb-8eee-4ee0-bb13-794cc8f80b50.jpg 
+linkUrl: https://coupa.ng/bqUqly 
+categories: [1008] 
+color: FF6F00 
+price: 11990 
+author: Ask View Shop 
+---
+ 

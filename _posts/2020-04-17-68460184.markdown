@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "글라스코 스트라이프 보틀 유리화병, 단일 색상" 
+description: 글라스코  ..
+date: 2020-04-18 06:38:47 
+img: https://static.coupangcdn.com/image/retail/images/2018/03/05/9/7/2a2b4a6f-4585-4a0c-8651-b79706d46b3f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=68460184&itemId=228502161&vendorItemId=3558248875&traceid=V0-113-5b4b3bd11519f26b 
+categories: [1020] 
+color: 006064 
+price: 9900 
+author: Ask View Shop 
+---
+ 

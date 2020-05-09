@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "카카오프렌즈 파스틱, 24색" 
+description: 카카오프렌 ..
+date: 2020-02-20 06:27:38 
+img: https://static.coupangcdn.com/image/retail/images/405856053526505-90c9599e-c2d5-4444-936c-83fa81b1095e.jpg 
+linkUrl: https://coupa.ng/bp35WS 
+categories: [1011] 
+color: f44336 
+price: 10250 
+author: Ask View Shop 
+---
+ 

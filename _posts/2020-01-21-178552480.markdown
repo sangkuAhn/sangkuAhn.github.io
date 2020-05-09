@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 베이스알파 에센셜 고탄력 팬티 스타킹 20D 10p" 
+description: TOP.75 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/retail/images/10670857846440-5e8fa6f8-4307-4658-81dc-79deb66ecec8.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=178552480&itemId=511067621&vendorItemId=4312849035&traceid=V0-113-52d43cc7640599f1 
+categories: [1008] 
+color: FF6F00 
+rank: 75 
+price: 13270 
+author: Ask View Shop 
+---
+ 

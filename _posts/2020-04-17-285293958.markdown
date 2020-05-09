@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "브리타 막스트라 플러스 정수기 필터, 단일 상품, 4개" 
+description: 브리타 막 ..
+date: 2020-04-18 06:05:57 
+img: https://static.coupangcdn.com/image/retail/images/2019/08/19/21/8/f5bbc622-0c7b-4ff8-8965-ea4c50badc19.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=285293958&itemId=905060076&vendorItemId=5267631140&traceid=V0-113-47061e9bab2322e5 
+categories: [1016] 
+color: 03A9F4 
+price: 22490 
+author: Ask View Shop 
+---
+ 

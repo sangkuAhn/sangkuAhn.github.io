@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "고성/ 금강산콘도 " 
+description: 고성/ 금 ..
+date: 2020-02-06 06:15:19 
+img: https://static.coupangcdn.com/image/travelSeller/resort/A00227968/3cef4d44-4bff-4400-86a5-7f2e266dc0ae.jpg 
+linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=100000044623&traceid=V0-113-9638b3fe8416af84 
+categories: [1025] 
+color: ff1744 
+price: 48000 
+author: Ask View Shop 
+---
+ 

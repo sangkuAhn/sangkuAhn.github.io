@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "견우푸드 바베큐 폭립 오리지널, 1kg, 1개" 
+description: 견우푸드  ..
+date: 2020-04-24 05:22:42 
+img: https://static.coupangcdn.com/image/retail/images/1675903646882-6f95419b-89ff-46a9-b879-5c7e02730a03.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=340611241&itemId=1084350174&vendorItemId=5589573515&traceid=V0-113-69871b535b68d93c 
+categories: [1012] 
+color: 7E57C2 
+price: 17400 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "로베라 파스텔 스텝퍼, 핑크" 
+description: 로베라 파 ..
+date: 2020-04-18 06:14:10 
+img: https://static.coupangcdn.com/image/retail/images/2019/05/24/18/4/8ab89073-0a50-4458-b443-a0ab06ebc950.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=55671078&itemId=721201528&vendorItemId=4824401502&traceid=V0-113-7b6dd3e644ea6728 
+categories: [1017] 
+color: 7E57C2 
+price: 38850 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "여수/ 마린베이호텔" 
+description: 여수/ 마 ..
+date: 2020-02-03 06:15:39 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/06/19/100000030875/4dea5c5b-9abf-4b62-8994-274ce034dacb.jpg 
+linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=100000030875&traceid=V0-113-9a0fc752f50f442c 
+categories: [1025] 
+color: 4A148C 
+price: 67420 
+author: Ask View Shop 
+---
+ 

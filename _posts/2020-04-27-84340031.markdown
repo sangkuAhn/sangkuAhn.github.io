@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "리바이스키즈 T BEAR TS" 
+description: 리바이스키 ..
+date: 2020-04-28 04:39:10 
+img: https://static.coupangcdn.com/image/vendor_inventory/05fa/72ac903f1689ecd37543fc344aa4fb058b26fc5badc621f9377f47b73e75.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=84340031&itemId=267415898&vendorItemId=4700137859&traceid=V0-113-d9c2694019e29c2c 
+categories: [1005] 
+color: A566FF 
+price: 3900 
+author: Ask View Shop 
+---
+ 

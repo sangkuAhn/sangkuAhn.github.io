@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 코멧 클래식 논슬립 아령 3kg, 2개, 블랙" 
+description: 쿠팡 브랜 ..
+date: 2020-03-27 06:35:52 
+img: https://static.coupangcdn.com/image/retail/images/10584451576742-847c533f-418c-4dd9-b879-0bbfdfb84b17.jpg 
+linkUrl: https://coupa.ng/bv2SvC 
+categories: [1024] 
+color: FF6F00 
+price: 13200 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "가평군/ 드림펜션" 
+description: 가평군/  ..
+date: 2020-02-03 06:15:39 
+img: https://static.coupangcdn.com/image/travel_reactor/static/booking/image/pension/ddnayo/0da5009d-88ad-4855-869b-66612e7f83bb.jpg 
+linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=100000009914&traceid=V0-113-be7396e7416563c5 
+categories: [1025] 
+color: FF6F00 
+price: 15900 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "잭케빈 남여공용 벨트 SC-A07" 
+description: TOP.48 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/retail/images/2019/05/28/14/0/cb75fda7-38f5-41a9-a2c0-f35c5476e6d3.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=211047248&itemId=630810411&vendorItemId=4846084148&traceid=V0-113-801d697c131c6050 
+categories: [1008] 
+color: 4A148C 
+rank: 48 
+price: 7900 
+author: Ask View Shop 
+---
+ 

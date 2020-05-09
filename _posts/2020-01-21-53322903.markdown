@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "스티커로 얼굴 꾸미기, 삼성출판사" 
+description: TOP.52 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/09/28/3445806119/a9eed477-57ca-49b1-a911-8a0a31c64655.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=53322903&itemId=187297760&vendorItemId=3445806119&traceid=V0-113-6f5b5a6a2de44d80 
+categories: [1019] 
+color: 9E9D24 
+rank: 52 
+price: 7110 
+author: Ask View Shop 
+---
+ 

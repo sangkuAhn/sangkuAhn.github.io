@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "강화군/ 강화좋아요스파 펜션" 
+description: 강화군/  ..
+date: 2020-02-27 06:15:05 
+img: https://static.coupangcdn.com/image/travel_reactor/static/booking/image/pension/ddnayo/97a510cf-58f4-4585-b04e-da39910d846c.jpg 
+linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=100000006930&traceid=V0-113-1a753bfc9b76419f 
+categories: [1025] 
+color: 7E57C2 
+price: 38200 
+author: Ask View Shop 
+---
+ 

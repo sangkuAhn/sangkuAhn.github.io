@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "아동용 데이데이 레깅스" 
+description: TOP.79 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/retail/images/2019/11/01/11/9/d8238811-4d0d-4914-b3b3-e57cbbdfdb69.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=330340051&itemId=1055862503&vendorItemId=5528150170&traceid=V0-113-c4de2cd22edec7ab 
+categories: [1005] 
+color: BF360C 
+rank: 79 
+price: 6350 
+author: Ask View Shop 
+---
+ 

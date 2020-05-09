@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "카파 남여공용 워킹화KJWK133M1" 
+description: 카파 남여 ..
+date: 2020-04-17 04:59:38 
+img: https://static.coupangcdn.com/image/vendor_inventory/987b/969a34dec723e8944b3f7cae776776ace828344e1a08095671b6810e74a2.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=76791878&itemId=249184195&vendorItemId=70274472764&traceid=V0-113-be76bbf611088eda 
+categories: [1007] 
+color: 9E9D24 
+price: 23400 
+author: Ask View Shop 
+---
+ 

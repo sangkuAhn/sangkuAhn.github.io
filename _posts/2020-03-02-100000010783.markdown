@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "가평군/ 도그더왈츠 애견펜션" 
+description: 가평군/  ..
+date: 2020-03-03 06:15:06 
+img: https://static.coupangcdn.com/image/travel_reactor/static/booking/image/pension/ddnayo/670e5714-1cd1-4a2b-815f-558696625459.jpg 
+linkUrl: https://link.coupang.com/re/AFFTDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=100000010783&traceid=V0-113-d385c92c116be99e 
+categories: [1025] 
+color: 43A047 
+price: 43000 
+author: Ask View Shop 
+---
+ 

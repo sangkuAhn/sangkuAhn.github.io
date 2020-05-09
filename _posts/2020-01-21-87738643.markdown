@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "농심 안성탕면 125 g, 5개" 
+description: TOP.51 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2017/01/10/3000138062/e2035c4f-55f7-4e50-93bf-6ffd11040d01.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=87738643&itemId=275090721&vendorItemId=3000138062&traceid=V0-113-31e7cf52b43f0cb3 
+categories: [1012] 
+color: 212121 
+rank: 51 
+price: 2280 
+author: Ask View Shop 
+---
+ 

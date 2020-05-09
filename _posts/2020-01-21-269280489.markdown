@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "오뚜기 짜장면, 135g, 4개입" 
+description: TOP.36 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/retail/images/2019/06/05/14/7/80537124-1fe5-4c8b-b545-5ed9a192b5f9.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=269280489&itemId=744245754&vendorItemId=4878609631&traceid=V0-113-9c36e178e8208896 
+categories: [1012] 
+color: 4A148C 
+rank: 36 
+price: 1980 
+author: Ask View Shop 
+---
+ 

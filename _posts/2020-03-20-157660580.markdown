@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "이고진 인/디 클라인 벤치" 
+description: 이고진 인 ..
+date: 2020-03-20 17:25:30 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/08/09/4123585525/7ea329d3-2463-4af6-977e-f77d6f460964.jpg 
+linkUrl: https://coupa.ng/buW092 
+categories: [1017] 
+color: 4A148C 
+price: 62840 
+author: Ask View Shop 
+---
+ 

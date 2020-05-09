@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "반디 중장비 작동완구세트, 혼합 색상" 
+description: 반디 중장 ..
+date: 2020-04-30 06:21:33 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/11/26/3887843764/4290c2b9-b979-4218-91f1-32513df9b5da.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=123369102&itemId=365660118&vendorItemId=3887843764&traceid=V0-113-9791b99320705a3d 
+categories: [1020] 
+color: A57F92 
+price: 26700 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "삼진어묵 떡말이, 310g, 2개" 
+description: 삼진어묵  ..
+date: 2020-04-17 05:32:41 
+img: https://static.coupangcdn.com/image/retail/images/2019/04/11/9/2/77e0c7e0-6e84-4c32-996d-114f45488652.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=207988417&itemId=616516877&vendorItemId=4617462340&traceid=V0-113-76eff101fb988739 
+categories: [1012] 
+color: 4CAF50 
+price: 8000 
+author: Ask View Shop 
+---
+ 
