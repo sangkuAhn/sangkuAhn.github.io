@@ -1,24 +1,12 @@
-<div class="comment">
-<button class="show-comments"><i class="fa fa-comments" aria-hidden="true"> Load/Add comments</i></button>
-<div id="disqus_thread"></div>
-</div>
-<script src={{ "/js/jquery.min.js" | prepend: site.baseurl }}></script>
-<script>
-$(document).ready(function() {
-    $('.show-comments').on('click', function(){
-          var disqus_shortname = 'https-sangkuahn-github-io';          
-          $.ajax({
-                  type: "GET",
-                  url: "http://" + disqus_shortname + ".disqus.com/embed.js",
-                  dataType: "script",
-                  cache: true
-          });
 
-          $(this).fadeOut();
-    });
-});
-</script>
-<!-- 
+<div class="page__comments">
+  {% capture comments_label %}{{ site.data.ui-text[site.locale].comments_label | default: "Comments" }}{% endcapture %}
+      <h4 class="page__comments-title">{{ comments_label }}</h4>
+      <section id="disqus_thread"></section>    
+  
+</div>
+
+
 
  <script>
     var disqus_config = function () {
@@ -34,4 +22,3 @@ $(document).ready(function() {
     })();
   </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
- -->
