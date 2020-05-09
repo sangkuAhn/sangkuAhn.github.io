@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "메르시보꾸 D1778 핑퐁소매탑" 
+description: 메르시보꾸 ..
+date: 2020-02-28 06:11:15 
+img: https://static.coupangcdn.com/image/vendor_inventory/3a90/bc7ca07e7694b8d28c0bf62bbc6348f66bb8aa9e048f8e52f2c172eb205e.jpg 
+linkUrl: https://coupa.ng/brsdhB 
+categories: [1005] 
+color: 212121 
+price: 9900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>100cm 17kg 9호 샀어요~<br/>97.<br/>5센티 14.<br/>5 남아 입혔어요<br/>무난 해요~ 질은 늘 좋아서 믿고 사는편이에요<br/>박시한 스타일이라<br/>소매가 좀 길지만 루즈핏이라 감안<br/>옷만 펴두면 이상해보이지만 입으면 예뻐요~<br/>입던 사이즈대로 사면 총장이나 품이 낙낙하니 귀여워요~<br/>코디 그대로 구입했네요<br/>100cm 17kg 9호 샀어요~<br/>97.<br/>5센티 14.<br/>5 남아 입혔어요<br/>무난 해요~ 질은 늘 좋아서 믿고 사는편이에요<br/>박시한 스타일이라<br/>소매가 좀 길지만 루즈핏이라 감안<br/>옷만 펴두면 이상해보이지만 입으면 예뻐요~<br/>입던 사이즈대로 사면 총장이나 품이 낙낙하니 귀여워요~<br/>코디 그대로 구입했네요<br/>" 
+---

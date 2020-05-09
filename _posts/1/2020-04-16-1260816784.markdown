@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "test/ VI 1" 
+description: test/ ..
+date: 2020-04-17 06:05:42 
+img: https://static.coupangcdn.com/image/retail/images/345976841041192-979cf16c-d1b5-40d3-ac03-4ef4ac82fb65.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1260816784&itemId=2261846335&vendorItemId=70259119436&traceid=V0-113-bde458fd00487bf5 
+categories: [1016] 
+color: BF360C 
+price: 10000000 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>저렴하게 구입해서 잘 사용하고 합니다<br/>" 
+---

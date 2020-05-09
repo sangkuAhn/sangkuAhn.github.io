@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "푸마 팀골 23 팀백, 검정 + 백색" 
+description: 푸마 팀골 ..
+date: 2020-03-24 06:16:09 
+img: https://static.coupangcdn.com/image/retail/images/2020/02/06/14/3/fb534906-e700-4f39-96b9-f1634590b373.jpg 
+linkUrl: https://coupa.ng/bvwe7S 
+categories: [1006] 
+color: FF6F00 
+price: 23510 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>가성비 최고입니다.<br/> 신발 넣는 주머니도 넉넉하고 생각보다 많이 들어가서 운동가방 백팩 둘 다 들고 출근할 필요가 없어요<br/>사이즈도 너무 크지 않고 딱 좋아요<br/>아직 오래 안 써서 내구성은 잘 모르겠지만<br/>운동할때 신는 신발 + 리프팅 벨트 + 스트랩 + 무릎, 손목보호대 + 물병 두 개 + 운동복 반팔 + 수건 까지 넉넉히 잘 들어갑니다<br/>운동할때 쓰려고 산 가방인데<br/>좋아요 신랑 족구하는데 가방 필요해서 구입했어요<br/>좋아합니다<br/>편하게 들고 다니기 좋은 사이즈예요<br/>퓨마 로고도 이쁘게 잘 박혀있고<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "플레이도 휠 덤프트럭 세트, 혼합색상, 740g" 
+description: 플레이도  ..
+date: 2020-04-27 06:28:21 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/18/21/8/2d948b52-fe99-43e6-ba46-f6094e6e2de6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1405843138&itemId=2441269661&vendorItemId=70435043820&traceid=V0-113-81540b8155af4bfe 
+categories: [1021] 
+color: 4CAF50 
+price: 13930 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>시조카 어린이날 선물로 구매했어요.<br/><br/>아기가 아직 가지고 놀진 않았지만 상품 보기만 해도 만족스럽네요<br/>아이가 너무 좋아해요.<br/> 생각보다 내구성도 좋아보이네요.<br/><br/>좋아했으면 좋겠어요 ^^<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아디다스 에센셜 조거 바지 CV6800" 
+description: 아디다스  ..
+date: 2020-03-25 06:30:26 
+img: https://static.coupangcdn.com/image/vendor_inventory/5488/60bbf83e163660c0ada5fc8eb1b15296c67a123fd257b8401139c64a2963.jpg 
+linkUrl: https://coupa.ng/bvG0dT 
+categories: [1017] 
+color: ff1744 
+price: 29500 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>입거나 벗을때 털뭉치인지 실뭉치인지 검은 덩어리들이 우수수 떨어집니다.<br/> 처음엔 벌레들인줄 알고 식겁했네요<br/>입거나 벗을때 털뭉치인지 실뭉치인지 검은 덩어리들이 우수수 떨어집니다.<br/> 처음엔 벌레들인줄 알고 식겁했네요<br/>" 
+---

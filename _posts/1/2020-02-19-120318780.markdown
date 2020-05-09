@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "나이키 이니시에이터 (394055-001)" 
+description: 나이키 이 ..
+date: 2020-02-20 06:21:02 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2018/08/10/9/6/e0d34fc3-eae7-4225-8e7c-6ab29d02cae0.jpg 
+linkUrl: https://coupa.ng/bp33UT 
+categories: [1007] 
+color: 4CAF50 
+price: 62500 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>산에갔다왔는데 가볍고 좋아요<br/>생각했던것보다 디자인도 너무 예쁘고 사이즈도 딱 좋아요 감사합니다 ㅎㅎㅎ<br/>예쁘고 좋은 신발 잘 샀습니다<br/>" 
+---

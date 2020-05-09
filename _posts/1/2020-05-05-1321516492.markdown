@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "난닝구 여성용 뉴벨링 나염 반팔티" 
+description: 난닝구 여 ..
+date: 2020-05-06 04:10:21 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/04/19/1/d16789c3-8f11-40ea-a9b7-00b31796dfd0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1321516492&itemId=2342623038&vendorItemId=70339195032&traceid=V0-113-2ab86bf530b1c046 
+categories: [1001] 
+color: FF6F00 
+price: 10000 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>기장이 긴줄알았는데.<br/>.<br/>아님.<br/>.<br/>박스티아닌줄<br/>도움이돼요 한번씩 눌러주는 쎈쓰♡감사합니다<br/>루즈핏한 박스티라 편하게 입기좋아요<br/>물빠짐이 엄청심해요^<br/> -^;;;<br/>상품평이 도움이 되셨다면<br/>저렴한가격에 로켓배송이라 물빠짐은 뭐.<br/>.<br/>ㅎ<br/>" 
+---

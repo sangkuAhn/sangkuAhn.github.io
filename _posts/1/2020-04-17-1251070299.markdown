@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "하이베이비클럽 무발 타이즈 2종 + 돌돌이 양말 2종 세트" 
+description: 하이베이비 ..
+date: 2020-04-18 04:26:48 
+img: https://static.coupangcdn.com/image/retail/images/2020/02/11/10/5/e9de2499-04ee-497d-ab17-3983328c8c6a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1251070299&itemId=2250309318&vendorItemId=70247691306&traceid=V0-113-f26ef38247719fe9 
+categories: [1003] 
+color: FF6F00 
+price: 11960 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>8갤9키로인데타이즈 약간 길어요 가을까지 잘함 입을수있을거같아요<br/>남아에겐 좀 불편해요<br/>다리 길고 날씬한 애기 추천합니다<br/>배송굿이고 쭉쭉 잘늘어나고 배도 안불편할것같아여ㅋㅋ 바로 빨아서 잘입혓어용<br/>엄마 욕심에 사보았습니다.<br/>.<br/> ㅋㅋ<br/>현재 남아 72센티이며 접혀서 입히는 중입니다<br/>" 
+---

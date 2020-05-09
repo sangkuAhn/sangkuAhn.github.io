@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "리복 로얄EC라이드2 운동화 U CN3081" 
+description: 리복 로얄 ..
+date: 2020-04-22 04:53:44 
+img: https://static.coupangcdn.com/image/retail/images/336368538243566-6abb09f8-2014-4700-98c3-52cbebda110a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1332920055&itemId=2357756610&vendorItemId=70354189443&traceid=V0-113-5ed56da0943a1535 
+categories: [1007] 
+color: f44336 
+price: 39770 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>280신었는데 너무 작게 나옴<br/>발볼이 넓은 사람은 290신어도 될듯<br/>" 
+---

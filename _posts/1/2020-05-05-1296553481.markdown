@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "블랙야크/남성 기능성 기본라운드티 M트리플라운드T2" 
+description: 블랙야크/ ..
+date: 2020-05-06 04:46:57 
+img: https://static.coupangcdn.com/image/vendor_inventory/109c/1b5954c5f3ca7176f1a61b313f93639694ab0fdad3149796408a18c3b89c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1296553481&itemId=2309236676&vendorItemId=70306060749&traceid=V0-113-1b67db81c9909515 
+categories: [1006] 
+color: 1294AB 
+price: 34710 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>옷이부드럽고 촉감도 좋아요.<br/><br/>좋네요<br/>편하고 신축성도좋아서 한세트 더 구매했습니다<br/>" 
+---

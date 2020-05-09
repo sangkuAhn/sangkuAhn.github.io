@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "메이키즈 여아용 핑크프룻 오가닉 3종 런닝" 
+description: 메이키즈  ..
+date: 2020-05-07 04:31:55 
+img: https://static.coupangcdn.com/image/retail/images/250649348349903-32542c08-b3a9-4a4e-bc3a-5f21568d643e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1214911973&itemId=2204503939&vendorItemId=70202361386&traceid=V0-113-ab9ab61a77df4e3c 
+categories: [1004] 
+color: FF6F00 
+price: 10690 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>다음에 또 구매하려구요^^<br/>두개는 맘에 드는데 복숭아 모양은 사진보다 색상이 약간 어두워요.<br/> 낭서지 두개는 너무 예쁘네요.<br/><br/>색상도 이쁘고 만져보니 품질도 좋아요^^<br/>제 눈에는 약간 촌스러운 것 같은데 입을 딸래미가 최고라네요.<br/> 면도 좋고 배송도 빨라 흡족합니다.<br/><br/>" 
+---

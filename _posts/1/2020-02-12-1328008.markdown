@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "위드오가닉 아동용 배냇가운" 
+description: 위드오가닉 ..
+date: 2020-02-13 06:10:41 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2015/12/09/3007313756/a5c26846-c8d1-400a-a834-14f8b1671961.jpg 
+linkUrl: https://coupa.ng/bo5zeS 
+categories: [1003] 
+color: 212121 
+price: 20800 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>겨울용이라고 해서 샀는데 얇아요<br/>깔끔하니 이쁘네요.<br/><br/>사무실 같이 일하는 후배 선물하려고 구입했어요.<br/><br/>색상은 보시는 것과 똑같구요!<br/>실제로 받아보니 너무 예뻐요!!<br/>오가닉 코튼이라 좋았는데,<br/>잘산것같습니다.<br/><br/>제조국도 한국이라 더 좋네요!<br/>좀더 따듯해지면 입혀야겠어요<br/>촉감자체는 부드러운게 좋아요<br/>출산한 친구에게 선물해주었어요<br/>" 
+---

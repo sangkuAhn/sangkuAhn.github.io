@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "스카이패션 남성용 기능성 아웃도어 프로 경량 바람막이 자켓" 
+description: 스카이패션 ..
+date: 2020-05-04 04:46:45 
+img: https://static.coupangcdn.com/image/retail/images/2020/02/28/16/7/23707f5c-fc8a-4858-9a5e-2d6a2c79fe48.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1318423064&itemId=2338375280&vendorItemId=70334991145&traceid=V0-113-f50cf7b5dd93a97c 
+categories: [1006] 
+color: BF360C 
+price: 13900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>가볍고 좋대요.<br/> 남편이 95입는데 팔길이 때문에 100 샀는대 팔이 맞다네요.<br/><br/>굿~품질도  가격도  만족 합니다!!<br/>옷입어요<br/>좀 앏아서 지금은 추워서<br/>" 
+---
