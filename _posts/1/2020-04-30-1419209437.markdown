@@ -9,5 +9,5 @@ categories: [1007]
 color: 1294AB 
 price: 38550 
 author: Ask View Shop 
+cont:  "●구매후기●<br/>250신는데 늠나 이뻐요^^ 전 오래걸어도 발안아프더라구요.<br/><br/>엄마사드렸는데 젛아용<br/>제품 좋습니다<br/>" 
 ---
- 

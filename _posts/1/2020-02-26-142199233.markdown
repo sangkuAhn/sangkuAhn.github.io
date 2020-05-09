@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "해피랜드 창고대개방전~!앙증맞은 멜빵치마랑 레깅스 쫄바지랑 모두 함께 드려요" 
+description: 해피랜드  ..
+date: 2020-02-27 06:10:47 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2018/10/07/23/7/9b714185-cd7f-4f41-9638-c92164cac101.jpg 
+linkUrl: https://coupa.ng/brg4rO 
+categories: [1003] 
+color: f44336 
+price: 10600 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>100넉넉히맞는아인데 이옷 110이 딱맞거나좀작은느낌입니다<br/>등원할때 입히려고 샀어요.<br/><br/>바지는정사이즈같고 위에치마가 좀 많이작은느낌ㅜㅜ<br/>사진보다 실제로 본게 더이뻐요 멜빵 분리도 되고 사이즈가 커서 가을에 입음 딱 좋을거같아요<br/>셔츠가 있었다면 아주 좋았을텐데~~<br/>예뻐요.<br/><br/>옷은귀엽고이쁜데 좀작게나온것같아요<br/>원단도 좋고 좋아요.<br/><br/>좀넉넉히사도될것같아요<br/>" 
+---
