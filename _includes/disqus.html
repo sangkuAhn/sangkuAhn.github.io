@@ -1,12 +1,12 @@
-<!-- <div class="comment">
+<div class="comment">
 <button class="show-comments"><i class="fa fa-comments" aria-hidden="true"> Load/Add comments</i></button>
 <div id="disqus_thread"></div>
-</div> -->
+</div>
 <script src={{ "/js/jquery.min.js" | prepend: site.baseurl }}></script>
 <script>
 $(document).ready(function() {
     $('.show-comments').on('click', function(){
-          var disqus_shortname = '{{site.disqus-shortname}}';          
+          var disqus_shortname = 'https-sangkuahn-github-io';          
           $.ajax({
                   type: "GET",
                   url: "http://" + disqus_shortname + ".disqus.com/embed.js",
@@ -17,5 +17,4 @@ $(document).ready(function() {
           $(this).fadeOut();
     });
 });
-
 </script>
