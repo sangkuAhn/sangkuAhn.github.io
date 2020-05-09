@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "이라인 남성용 클래식무지 실크 카라상하잠옷" 
+description: 이라인 남 ..
+date: 2020-02-18 06:10:31 
+img: https://static.coupangcdn.com/image/retail/images/2019/09/17/15/9/e3bfa87d-1ab0-44d4-9d87-261dbdf28417.jpg 
+linkUrl: https://coupa.ng/bpLWE6 
+categories: [1002] 
+color: f44336 
+price: 19900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>겉감은 실크느낌이지만 안감은 부드럽지 않아요<br/>다리발목 부분에<br/>안나오네요 옷이 이쁘다 ~ 이런건 잘모르겟고 걍 편하게  입기는 좋다는!!  키 175  허리 30  입니당<br/>좋은데 계속  입으니 부풀러기가 생기네요<br/>중성세제로 한번 빨아서 입은지 2일째인데  아직 이불에 파란물은<br/>키 186/ 체중 길이감, 핏 적당해요.<br/><br/>" 
+---

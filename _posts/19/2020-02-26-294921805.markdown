@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "나이키 NIKE CORTEZ BASIC BQ5297-100" 
+description: 나이키 N ..
+date: 2020-02-27 06:11:35 
+img: https://static.coupangcdn.com/image/vendor_inventory/b0d5/bbba606730fdc738c8c9ca136d3009cee2772dbda7b3c5b6a45d368cc932.png 
+linkUrl: https://coupa.ng/brg4Yk 
+categories: [1007] 
+color: 4A148C 
+price: 68000 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>근데 사이즈 미스네요 ㅠㅠ 약간 큽니당 흑흑<br/>너무이뻐요ㅠㅜ실물이 더이뻐요  기엽기엽<br/>너어무 예쁩니다 역시!<br/>" 
+---
