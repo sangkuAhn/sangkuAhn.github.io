@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "나는샵 반전 카네이션 용돈박스 어버이날 선물 돈 나오는 현금상자, 02_반전 카네이션 용돈박스(핑크)" 
+description: 나는샵 반 ..
+date: 2020-05-04 05:46:09 
+img: https://static.coupangcdn.com/image/vendor_inventory/db49/0ac213f62e47f72bea7bba8369ac701dd37a3282629ba9842caa0dc4caa5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1491667443&itemId=2560684357&vendorItemId=70553168463&traceid=V0-113-5c75e71b753ac2f4 
+categories: [1015] 
+color: 7E57C2 
+price: 11500 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>가격도 적당하고 선물용으로 딱이네요<br/>양가 부모님께 카드와 함께 선물했는데 너무 좋아라 하시네요 ㅎ<br/>좋아요 ㅋㅋㅋ<br/>칸막이??가 꽃쪽으로 자꾸 기울어서 비누꽃이 좀 찌그러진 거랑 상자 뚜껑이 따로 없는게 조금 아쉬워요.<br/> 근데 부모님이 너무 좋아하셔서 만족합니다ㅎㅎ<br/>" 
+---

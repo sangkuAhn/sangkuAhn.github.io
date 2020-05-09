@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "심플리무드 솔트 세미 보이핏 밴딩 롤업 배기 청바지 팬츠" 
+description: 심플리무드 ..
+date: 2020-04-30 04:10:21 
+img: https://static.coupangcdn.com/image/vendor_inventory/0b40/49e206cdb80be974ac25b1ab287d59f4295d62c2964072d7a56ac680723e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1496074918&itemId=2569216783&vendorItemId=70561589771&traceid=V0-113-47f3f4d99e52805c 
+categories: [1001] 
+color: AAD34A 
+price: 14800 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>개인적으로 청바지는 밴드 들어간 거 안좋아하거든요.<br/>.<br/>ㅜㅜ그래도 핏 예뻐서 주문 했는데 편하기도 하고 바지 통도 어느 정도 넓어서 자주 입을 것같아요<br/>고무 밴딩이 편안하고 자연스러운 핏을 만들어 주어 너무 예뻐요~<br/>동생도 하나 사주려구요~<br/>사진보다 입었을때 핏이 더 예뻐요~<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "케이스위스 남성 샌들 타퍼 4116SD753" 
+description: 케이스위스 ..
+date: 2020-04-30 04:54:00 
+img: https://static.coupangcdn.com/image/vendor_inventory/9316/5cbba24cc339636d178bd7d933245580f2e26f8ad610153e968acc1ba675.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1495937392&itemId=2568912818&vendorItemId=70561291885&traceid=V0-113-fdbe4268b385d899 
+categories: [1007] 
+color: 4CAF50 
+price: 5900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>good<br/>" 
+---
