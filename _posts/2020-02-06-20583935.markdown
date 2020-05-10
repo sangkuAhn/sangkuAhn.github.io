@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "핑크퐁 한글카드 120, 스마트스터디" 
+description: 핑크퐁 한 ..
+date: 2020-02-07 06:14:07 
+img: https://static.coupangcdn.com/image/vendor_inventory/2fe6/af04f37a0257e9d2e0a9a50a7f2b5d69e6eeff919bc79d159b87f374e394.jpg 
+linkUrl: https://coupa.ng/borWpv 
+categories: [1019] 
+color: FF6F00 
+price: 13500 
+author: Ask View Shop 
+---
+ 

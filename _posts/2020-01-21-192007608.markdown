@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 시터스 모던 디지털 체중계, QCB-N1, 화이트" 
+description: TOP.73 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/retail/images/649745137706-9cc4db96-3f34-4381-a2ab-e4f72e85b123.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=192007608&itemId=549185890&vendorItemId=4441132373&traceid=V0-113-c93d3e203b0208e5 
+categories: [1017] 
+color: 4CAF50 
+rank: 73 
+price: 8890 
+author: Ask View Shop 
+---
+ 
