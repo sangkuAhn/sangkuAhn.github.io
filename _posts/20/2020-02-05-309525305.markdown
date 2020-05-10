@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "미니비 아동용 키윙 맨투맨 상하의세트" 
+description: 미니비 아 ..
+date: 2020-02-06 06:11:07 
+img: https://static.coupangcdn.com/image/retail/images/2019/09/30/14/1/d59a2ec7-2dba-4d8c-9850-62d723b93ce2.jpg 
+linkUrl: https://coupa.ng/bokpH8 
+categories: [1005] 
+color: 9E9D24 
+price: 9900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>130입는 조카에게 딱 맞네요<br/>가격대비 품질좋습니다<br/>바지 밑위길이가 너무짧아요<br/>봄가을용으로 입기 좋을거같네요<br/>상하의 모두 넉넉한 핏이라 그런지 좀 크네요.<br/><br/>색도 예쁘고 입으니 더 예쁘네요.<br/><br/>엉덩이라인도 입으면 불편하게 짧아요<br/>130입는 조카에게 딱 맞네요<br/>가격대비 품질좋습니다<br/>바지 밑위길이가 너무짧아요<br/>봄가을용으로 입기 좋을거같네요<br/>상하의 모두 넉넉한 핏이라 그런지 좀 크네요.<br/><br/>색도 예쁘고 입으니 더 예쁘네요.<br/><br/>엉덩이라인도 입으면 불편하게 짧아요<br/>" 
+---

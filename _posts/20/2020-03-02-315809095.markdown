@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "TOPTEN 10 탑텐 여성 올드스쿨 스웨터 풀오버" 
+description: TOPTE ..
+date: 2020-03-03 06:10:34 
+img: https://static.coupangcdn.com/image/vendor_inventory/effd/3dbb756a0e676ca384067894ee1cfb1a8c14d34c5b96b7df89c15e5f1bae.jpg 
+linkUrl: https://coupa.ng/br5CTt 
+categories: [1002] 
+color: 9E9D24 
+price: 4900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>통이 튼거빼곤 가격대비 만족<br/>회색샀는데 평소 편하게 잘입을수있어서 남색 재구매했어요 좋아요<br/>" 
+---

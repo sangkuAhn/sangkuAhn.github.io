@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "횡성한우 1등급 등심 구이용 (냉장), 300g, 1개" 
+description: 횡성한우  ..
+date: 2020-04-21 05:22:38 
+img: https://static.coupangcdn.com/image/retail/images/4885016479873-fde1309f-247f-4c57-95cd-486ff3c8d0c7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=319057047&itemId=1019380877&vendorItemId=5457742444&traceid=V0-113-9307fd6dc2f9ece5 
+categories: [1012] 
+color: 006064 
+price: 31400 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>고기가 살살녹아요ㅜㅜ<br/>또 먹고싶은 맛!<br/>백화점 제품 140g에 2만원대 좀 비싸지만<br/>상품평만 믿었는데 ... <br/> 기름이 너무 많네요 사진참조<br/>소고기넘좋아<br/>지방손실 감안하면... <br/>.<br/> 개인적인 리뷰이니 참조만 하세요 참조<br/>처음 받았을때 생각보다 고기색이 짙어서 의아했는데 포장을 벅겨서 공기중에 5~10분 지나니까 아주 먹기좋은 고기색으로 돌아왔어요.<br/>.<br/> 인터넷에 찾아보니 공기차단해서 고기 포장을 하면 색이 짙어 진다고 하더라고요 이런 고급고기를 그냥 후라이팬에 구울수가 없어서 스테이크 그릴에 구었습니다.<br/> 그릴마크가 살짝 들어간게 고급 스테이크 전문점 느낌이 나고 맛도 좋았습니다.<br/> 왜 횡성항우를 최고로 치는지 알겠더라고요.<br/>.<br/> 요즘같이 사회적 거리두기로 식당을 찾기 힘들댄 집에서 한것 분위기내서 먹는 횡성한우 최고인듯 합니다.<br/><br/>횡성에서 먹는것같아요ㅜㅜ<br/>" 
+---

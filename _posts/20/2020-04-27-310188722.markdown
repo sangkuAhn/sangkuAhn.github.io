@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "매듭없는 운동화끈 6colors" 
+description: 매듭없는  ..
+date: 2020-04-28 04:53:33 
+img: https://static.coupangcdn.com/image/vendor_inventory/9012/a96c09bb20654d43dc01d56684ced6c917d13b513151abe0c59e58e763e1.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=310188722&itemId=977897898&vendorItemId=70565603589&traceid=V0-113-772775eb697933ee 
+categories: [1007] 
+color: BF360C 
+price: 2100 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>만족합니다<br/>일반 운동화 끈보다 얋아서 불안하지만 만족합니다<br/>첫구매후 운동화 끈필요하면 계속 이것만 써요.<br/>.<br/><br/>" 
+---

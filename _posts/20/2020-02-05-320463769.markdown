@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "타이트엔드 쉴드 랩 마스크, 블랙" 
+description: 타이트엔드 ..
+date: 2020-02-06 06:11:21 
+img: https://static.coupangcdn.com/image/retail/images/2019/10/18/14/3/ba2d1c07-82f8-41a5-8ea6-f6c74f507531.jpg 
+linkUrl: https://coupa.ng/bokpRt 
+categories: [1006] 
+color: 006064 
+price: 11310 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>5cm만 둘레 크기를 키워 주삼.<br/><br/>다른것은 나무랄게없슈<br/>두번째  구매를 했지만,<br/>미세먼지는 막아주지 못해도 착용감은 좋아서 라이딩하기 적합합니다.<br/><br/>오자마자 뜯어봤습니다 재질도좋고 안쪽 기모부분이 부드럽고 따뜻합니다 귀까지 덮을수있고 원하는대로 쓰시면 될거같네요 조금 아쉬웠던건 코부분이 정확하게 대칭이 맞는게 아닌 살짝 틀어져서 미간상 조금 비뚤어보일수 있는데 이정도면 양반이라고 할수있겠네요<br/>작아요.<br/>.<br/>  ㅠㅠ<br/>" 
+---

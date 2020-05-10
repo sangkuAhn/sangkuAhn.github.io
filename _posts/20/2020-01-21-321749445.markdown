@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "여아용 하트뿅맨투맨" 
+description: TOP.95 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/retail/images/2019/10/17/14/3/0cec8e4d-c4aa-40d5-855d-70cb198b3400.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=321749445&itemId=1023047453&vendorItemId=5463933613&traceid=V0-113-76755b2a8e5e1040 
+categories: [1004] 
+color: 9E9D24 
+rank: 95 
+price: 11900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>15kg 92cm입니다^^<br/>건조기 돌려도 끄떡없네요<br/>구입했더니 크네요<br/>그래서 목이 아주 약간 큰가? 싶기도 한데<br/>길이감도짧지않은 귀엽고 탄탄한옷<br/>나이는 7세인데  보통6 7세사이즈 구입후 작아서 7  8세<br/>두툼하고 아이 내복이나 반팔만안에입고입으면<br/>두툼해요^^<br/>보시는대로 귀여워요!!<br/>상품평때문에걱정했었는데요<br/>상품평이라 얼굴가리랬더니 뒤집어버린ㅋㅋㅋ<br/>색상도 새하얀 하얀색이 아니고<br/>아이가 외투입으면 불편하다할정도로<br/>아이보리색이라 더 따뜻한느낌이고<br/>아이활동성에는 바지에 맨투맨이 최고니까요~<br/>안쪽은 기모처리되어있구요<br/>예쁩니다<br/>일부러 박시하게 입히려 크게 샀어요<br/>잘받았습니다!!<br/>잘산것 같아요<br/>재질이 좋아요<br/>제가 구매해본 결과<br/>톡톡하고 좋아요<br/>하트라 귀여움 뿅뿅!!<br/>" 
+---
