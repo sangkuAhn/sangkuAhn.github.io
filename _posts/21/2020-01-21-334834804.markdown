@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "퍼안감 미들부츠 JLBUM1120" 
+description: TOP.67 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/retail/images/2019/11/08/17/0/6e3395f8-6595-4eaa-af2b-95e0f3e87439.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=334834804&itemId=1068592659&vendorItemId=5555694051&traceid=V0-113-91244bbeddf69369 
+categories: [1007] 
+color: 7E57C2 
+rank: 67 
+price: 14900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>가격대비조아요<br/>가격이 완전 저렴하니 딱 그정도의 신발임<br/>모양은 귀엽고 이쁜데 안쪽 뒤꿉치에 박은 스테플못이 올라와서 직접 박고 얇은 깔창 깔아서 별하나 뺌<br/>사이즈는 앞코가 딱딱하니 정사이즈보다 하나 크게 주문해서<br/>신발 안 깔창에는 털이 없어요.<br/>  털깔창 사야했어요.<br/>  안 끝부분은 좀 중국스러운 금색이에요.<br/><br/>신으셔야함<br/>싸이즈 교환했음~~ 저는 좀작아서요<br/>오래걸을순 없구요 멋내기용정도 자가용운전자용^^<br/>" 
+---

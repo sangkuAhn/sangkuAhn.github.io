@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "단골언니 여성용 비네통 사무실 슬리퍼" 
+description: 단골언니  ..
+date: 2020-03-23 06:17:39 
+img: https://static.coupangcdn.com/image/retail/images/2019/10/28/13/9/0ed0065b-0db5-43ca-b2bc-6411036574cb.jpg 
+linkUrl: https://coupa.ng/bvl6Q5 
+categories: [1007] 
+color: 7E57C2 
+price: 13180 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>굽이높고 가격도 저렴하긴 한데 발등이 많이 불편해요<br/>상품평대로 조금 작아서 너무 좋네요~<br/>엄마가 집에서 이런 슬리퍼 신으시는데 다 헤져서 하나 구입했어요<br/>푹신하고 아주 만족합니다~<br/>" 
+---

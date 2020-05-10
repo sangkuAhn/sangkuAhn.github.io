@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "PARAGONA 남성용 베이직 플리스 나그랑 기모 티셔츠" 
+description: TOP.81 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/retail/images/2019/11/12/17/0/e82b2571-664b-4442-a390-8eed4e15d28b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=335753564&itemId=1071333339&vendorItemId=5561341003&traceid=V0-113-a46373052a89f3a3 
+categories: [1002] 
+color: 43A047 
+rank: 81 
+price: 5430 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>건설 현장직이라 작업복으로 구매하였는데 정말 좋아요 색상도 마음에들고 따뜻하고 2장 구매후 집에서 평상복으로 입어도 넘좋네요 재구매 하였습니다 좋은 제품 좋은 가격에 감사합니다<br/>부드러운 감촉과 색깔은 만족합니다.<br/><br/>사이즈도 정사이즈로 잘 맞습니다.<br/><br/>생각보다 조금 얇은듯한데<br/>싸서 좀 걱정했는데 면도 보들보들해서 넘 좋네영 아빠가 잘 입는것 같아서 좋네영 갱장히 편하데여 그리고 얇은데 따뜻하데유 가성비 진짜 좋은것같아여 한번 사서 입어보세여<br/>" 
+---

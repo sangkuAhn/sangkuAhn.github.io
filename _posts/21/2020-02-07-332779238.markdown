@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "시스터 무지와이드팬츠세트 (C061_C062)" 
+description: 시스터 무 ..
+date: 2020-02-08 06:10:16 
+img: https://static.coupangcdn.com/image/vendor_inventory/3c8f/1834495ac93b59415d8203ae17d25a9d335140ccecb141c5a2dc48b3d9f8.jpg 
+linkUrl: https://coupa.ng/bozAdp 
+categories: [1001] 
+color: FF6F00 
+price: 9900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>마실 갈때 입고 싶었는데;; 언니가 입은 거 보더니 난쟁이 똥자루 같다고 했어요;;;;;;<br/>배송 포장 만족합니다.<br/> 가성비는 좋은거  같아요<br/>생각보다 옷감이 너무 별로예요;; 할인해서 샀는데 아니였으면 진짜 화 날 뻔 했어요;;<br/>어디입고나가긴 그렇고 잠옷으로 입고잇어요<br/>외출복으론 2%부족한느낌ㅠㅠ잠옷으론문제없어요<br/>잠옷으로 입어야 할것 같아요;;;;;( 잠옷도 많은데;;;;;;;<br/>저렴한 가격에 집에서 편하게 입을 수 있는 옷을 잘 산 거 같아요^^ 얇긴 한데 어차피 홈웨어로 산거라 전 만족해요^^<br/>티길이짧고 밑위도 조금 짧은감잇어요<br/>" 
+---
