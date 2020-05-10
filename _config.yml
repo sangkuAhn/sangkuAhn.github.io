@@ -7,7 +7,7 @@ permalink: ':title/'
 
 markdown: kramdown
 baseurl: "/"
-baseWord: "제휴마켓팅이 적용되어 커미션이 발생할 수 있습니다."
+baseWord: "제휴마케팅이 포함된 광고로 일정 커미션을 지급 받을 수 있습니다."
 full-version: "https://sangkuahn.github.io"
 
 sass:
