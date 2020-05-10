@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "클리오 프로 대즐링 아이 팔레트, 001 글리츠샤워, 1개" 
+description: 클리오 프 ..
+date: 2020-04-17 05:16:05 
+img: https://static.coupangcdn.com/image/retail/images/10880791244016-cf409979-0d3e-4b6a-bdd7-cc58c0d52bc9.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=336792800&itemId=1074330103&vendorItemId=5567523948&traceid=V0-113-138949aa96326820 
+categories: [1010] 
+color: 43A047 
+price: 38460 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>그래도 이쁘긴합니다.<br/>.<br/><br/>근데 ㅋㅋㅋ 다들 케이스때문에.<br/>사신다고해서 무슨소리일까<br/>근데 케이스때문에 별 한개 뺍니다<br/>깔끔떠는성격이라 이거이거... <br/>그냥은 보관못하겠고,<br/>다양하게 색이 들어있어서 아이메이크업 포인트 주기 좋아요 5,18번은 질감이 별로라서 잘 안바르고 다른색들은 믹스매치해서 잘쓰고 있어용<br/>머리색이랑 넘나 잘어울리네요<br/>바라만 봐도 행복해요 ㅎㅎ 이제 글리터 섀도우는 안사도되겠어요 ^0^//<br/>빤짝이 덕후에욧<br/>빤짝이가 다 떨어져서 화장대에 다 뭍을거같네요<br/>상품평만 대충 보고 그냥 구매했어요... <br/>.<br/><br/>색도 다양하고 눈밑에 화이트블루펄 발라봣더니<br/>요아이를 보게됬는데<br/>케이스 겉 반짝이가 이리저리 묻고 떨어지네요<br/>쿠폰을 받아서 뭐 살까 하다가<br/>했더니 케이스완전 빤짝이 작렬!!!<br/>" 
+---

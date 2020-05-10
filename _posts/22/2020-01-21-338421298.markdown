@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "카템 논슬립 알로이페달 악셀 + 브레이크, 현대, 기아" 
+description: TOP.80 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/retail/images/2019/11/12/20/1/84183aa4-908f-4fca-87fd-4aa5497785fb.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=338421298&itemId=1078427858&vendorItemId=5577167243&traceid=V0-113-e63ff94dc7bd8ced 
+categories: [1018] 
+color: 006064 
+rank: 80 
+price: 9980 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>밑에서부터꼽으면 힘들고 안꼽아져요.<br/><br/>브레이크는 그림설명엔 밑에서부터 꼽으라는데<br/>브레이크도 위에서부터 꼽는게 바로들어가요.<br/><br/>악셀 작업은 걍 쓱 끼우면 들어가구요 브레이크 페달이 뒤쪽 뒤집어 보면 동그라라미 처럼 파인 부분이 있는데 그부분을 제일 마지막에 잡아 벌리면서 작업 하면 들어가네요 쪼그려서 작업하는거라 조금 힘듬<br/>악셀은 그림설명서대로 위에부터 꼽으면되는데<br/>엑셀을 잘 고정하지 않으면 빠지는 경향이 있으니 잘 고정하셔야 해요<br/>중국산이라 그런지 악셀페달 마감이 좋지 안네요<br/>차마다 틀릴수있겠지만 제차는 올뉴k7입니다<br/>" 
+---

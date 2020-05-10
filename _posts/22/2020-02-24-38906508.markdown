@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "뉴발란스 247(MRL247BO)_네이비" 
+description: 뉴발란스  ..
+date: 2020-02-25 06:11:32 
+img: https://static.coupangcdn.com/image/vendor_inventory/b7b4/2d18977a36c3aa5ed63c75e1056d03a551eba5af57c8f465f5028313c5d4.jpg 
+linkUrl: https://coupa.ng/bqUqfE 
+categories: [1007] 
+color: 7E57C2 
+price: 36900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>그림으로본거하구차이이가좀있어서<br/>만족<br/>" 
+---

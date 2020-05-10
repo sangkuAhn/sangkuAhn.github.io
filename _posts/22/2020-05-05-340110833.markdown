@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "리큐 진한겔 마이크로 버블워시 액상세제 일반용 본품, 2.7L, 4개" 
+description: 리큐 진한 ..
+date: 2020-05-06 05:37:22 
+img: https://static.coupangcdn.com/image/retail/images/258131153794024-210f11bb-fc4c-4cbd-b5ab-e3ae2b00359a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=340110833&itemId=2057500418&vendorItemId=70056777746&traceid=V0-113-b7bdf8aec5a6a5f2 
+categories: [1014] 
+color: BF360C 
+price: 41420 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>도움이 많이되네요<br/>사용전이예요.<br/> 일단 저렴하고 양도 많고 평도 좋아서 기대하고 있습니다!<br/>소량만 넣어도 마이크로 버블이 생기면서 세탁이 잘됩니다~<br/>어려울때 좋은제품을 좀 더 싸게 사서쓰니<br/>" 
+---
