@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "컨버스 척테일러 올스타 리프트 560251C" 
+description: 컨버스 척 ..
+date: 2020-04-26 04:46:56 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2019/02/13/10/2/28f08980-2c4a-4ed6-9708-304be3c8f30f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=142797870&itemId=415078070&vendorItemId=70547109553&traceid=V0-113-f747aa903c5b2b24 
+categories: [1006] 
+color: 5A8DF3 
+price: 54960 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>괜찮습니다 ㅎㅎㅎ<br/>잘받았습니다 예쁘네요ㅋㅋㅋ<br/>평소 235신어서 정사이즈 시켰는데 좀 큰감은 있지만<br/>괜찮습니다 ㅎㅎㅎ<br/>잘받았습니다 예쁘네요ㅋㅋㅋ<br/>평소 235신어서 정사이즈 시켰는데 좀 큰감은 있지만<br/>" 
+---

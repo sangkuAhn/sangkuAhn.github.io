@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "오르비 고로카 크로스백" 
+description: TOP.50 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/retail/images/2019/09/20/16/6/b9f223e4-4918-46b9-bef5-e970ea7ff6a0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=306250271&itemId=965615307&vendorItemId=5370299625&traceid=V0-113-fbe53382d0b258f9 
+categories: [1008] 
+color: BF360C 
+rank: 50 
+price: 21900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>가죽은 가볍고 막들고 다니기 좋아요<br/>구겨진거 열심히 다리는중... <br/><br/>구김이 살짝 있네요<br/>그래도 예쁩니다<br/>그래도가격대비 좋습니다<br/>그런데 싸니까 바느질이 몇구데 올이 나와서.<br/><br/>사이즈 색 다 좋아요<br/>재질이확실히 저렴한느낌이고 마감은 좀 별롭니다.<br/><br/>크기 디자인 수납갠찮은데<br/>가죽은 가볍고 막들고 다니기 좋아요<br/>구겨진거 열심히 다리는중... <br/><br/>구김이 살짝 있네요<br/>그래도 예쁩니다<br/>그래도가격대비 좋습니다<br/>그런데 싸니까 바느질이 몇구데 올이 나와서.<br/><br/>사이즈 색 다 좋아요<br/>재질이확실히 저렴한느낌이고 마감은 좀 별롭니다.<br/><br/>크기 디자인 수납갠찮은데<br/>" 
+---
