@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "콩지래빗 행복한거실 완구, 혼합 색상" 
+description: 콩지래빗  ..
+date: 2020-05-09 06:22:32 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/12/04/3670413337/bdcb23d4-2a51-4987-9239-c861a55851f3.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=88266679&itemId=276328216&vendorItemId=3670413337&traceid=V0-113-abead7e94968ccb7 
+categories: [1020] 
+color: 9E9D24 
+price: 23450 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>다만 벽지가 뜯기좋게 나오고 종이아닌 시트지로 보완되면 참좋겠어요.<br/><br/>아이도 좋아하지만 제가더 잼있네요.<br/>.<br/>소품하나하나 디테일이~최고네요~  넘좋아요.<br/>.<br/><br/>어린이날 선물로 샀는데<br/>원앤원 포장이 조금 그런것인지 ㅠㅠ 분명 새상품을 구매했는데 테이프에 머리카락이 붙어 있어요 ㅠㅠ 그것빼고는 만족<br/>캐릭터는 귀여워요.<br/> 근데 토끼가 먼지가 잘 붙는 소재라 금방 더러워지네요.<br/> 그 외에는 너무 마음에 듭니다.<br/><br/>" 
+---
