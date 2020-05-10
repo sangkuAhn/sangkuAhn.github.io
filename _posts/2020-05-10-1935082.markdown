@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "비에프에이 프리미엄 마사토, 1개" 
+description: 비에프에이 ..
+date: 2020-05-11 04:20:12 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2016/05/19/3012014364/c8412ec1-837a-44e1-b104-9437e93763e3.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1935082&itemId=8598337&vendorItemId=3012014364&traceid=V0-113-85068d4d9bebe819 
+categories: [1020] 
+color: 006064 
+price: 5900 
+author: Ask View Shop 
+---
+ 

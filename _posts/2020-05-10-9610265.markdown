@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "레토 모니터 받침대 LMS-P03, 블랙" 
+description: 레토 모니 ..
+date: 2020-05-11 03:51:20 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/08/09/3120276830/e7861597-9c24-4803-b67c-c06033776251.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=9610265&itemId=42405400&vendorItemId=3120276830&traceid=V0-113-5a37533feee65035 
+categories: [1016] 
+color: FFB2D9 
+price: 9500 
+author: Ask View Shop 
+---
+ 
