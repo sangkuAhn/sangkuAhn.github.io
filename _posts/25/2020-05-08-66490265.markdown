@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "쿠쿠토이즈 코코몽 모래놀이, 혼합 색상" 
+description: 쿠쿠토이즈 ..
+date: 2020-05-09 06:22:32 
+img: https://static.coupangcdn.com/image/retail/images/2018/02/20/18/3/144b6777-79d5-43d3-b241-436da85d89e0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=66490265&itemId=223459541&vendorItemId=3542578962&traceid=V0-113-cda668c41217956d 
+categories: [1020] 
+color: 006064 
+price: 7790 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>가격이 싼데도 구성도좋고 제품도 좋아요!!굿!<br/>내용역시 만족힙니다<br/>물론 빠른 배송이 찡이구요!!<br/>아이들과 갑자기 바다를 가게되어사 쿠팡 로켓배송으로 받았는데 제품에 문제도 없이 깔끔했어요.<br/>덕분에 아이들과 바다에서 즐거운 추억 만들었습니다.<br/><br/>우리손주 넘좋아해서 구매한 보람이 있네요<br/>" 
+---
