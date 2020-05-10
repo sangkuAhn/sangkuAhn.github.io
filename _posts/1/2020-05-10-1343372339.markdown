@@ -9,5 +9,5 @@ categories: [1006]
 color: 4CAF50 
 price: 14550 
 author: Ask View Shop 
+cont:  "●구매후기●<br/>발사이즈 275인데, 딱 맞네요.<br/> 좋습니다.<br/><br/>일단 디자인 촉감은 굿입니다.<br/><br/>크기도 딱맞구 매우 가볍고 색깔두 맘에듭니다<br/>푹신하기도 하구요<br/>" 
 ---
- 
