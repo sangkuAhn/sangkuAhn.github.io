@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "스팸 마일드 8호 선물세트 + 쇼핑백, 1세트" 
+description: 스팸 마일 ..
+date: 2020-01-27 18:11:31 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/01/28/3039222653/b12a07eb-43a7-40af-992b-73c1c552bd2d.jpg 
+linkUrl: https://coupa.ng/bnmXd3 
+categories: [1012] 
+color: 7E57C2 
+price: 22880 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>2개씩밖에 못사서 매우 아쉬워요 ㅠㅠㅠㅠ<br/>골드박스 선착순으로 2개 겟!<br/>대박 득템했어요 ㅎ<br/>스팸 작은거 9개 들었고요<br/>오늘 대형마트 가보니 똑같은거 3만원 넘게 팔더라구요 ㅎ<br/>워낙 스팸은 인지도가 좋아서 명절선물로 최고인듯합니다<br/>유통기한 넉넉하고<br/>이번에는 사진상처럼 흠집이 조금씩 있었네요<br/>작년 추석에 이어 이번 설에도 쿠팡 스팸 주문했습니다<br/>작년엔 박스상태며 스티커 등 아주 상태가 양호했었는데<br/>추석 선물로 잘 돌렸어요<br/>추석때 또 이용하렵니다^^<br/>" 
+---

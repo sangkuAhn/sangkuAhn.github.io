@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "메가두뇌력플러스 숨은그림찾기1000 탈것, 메가스터디" 
+description: 메가두뇌력 ..
+date: 2020-03-02 06:13:54 
+img: https://static.coupangcdn.com/image/retail/images/2018/01/10/14/7/21ab4bb9-51e1-42b3-ae91-4dd6415e4197.jpg 
+linkUrl: https://coupa.ng/brV2LS 
+categories: [1019] 
+color: ff1744 
+price: 6900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>5세 아들 시기가 시기인지라 집콕하는중인데ㅠㅠ<br/>8살 첫째는 혼자 잘하고 6살 둘짼 같이해달라고해요<br/>내일 나머지하고 다른시리즈 사려구요<br/>더 한다는거 말렸어요ㅎㅎ<br/>숫자세기도 배우고 ㅎ<br/>아이가 생각보다<br/>애들이 초집중해요<br/>오늘 이걸로 버텼네요<br/>이번구입은 실패ㅋㅋㅋㅋ<br/>저도 가끔 잘 안보이는게 있어서 ㅋㅋ시간보내기 좋네요<br/>좀 시간이 지나 시도해봐야겠어요ㅋ<br/>한번에 반권을 해버리네요... <br/><br/>흥미를 안보여요<br/>" 
+---
