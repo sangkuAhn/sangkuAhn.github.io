@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아디다스 튜블라 쉐도우 런닝화 M CQ0932" 
+description: 아디다스  ..
+date: 2020-05-12 02:53:29 
+img: https://static.coupangcdn.com/image/retail/images/338071301887079-8bd918f4-43ff-4112-ab9e-1b26d85f976e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1338835744&itemId=2365393485&vendorItemId=70361657370&traceid=V0-113-3028821aecf236d7 
+categories: [1007] 
+color: 5A8DF3 
+price: 37100 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>길이는 적당한데 말이죠 ㅎㅎㅎ<br/>발 볼 넓으신 분들은 괜찮겠어요.<br/> 정사이즈 시켰는데 한치수가 더 큰 느낌이 나서 당황 ㅎㅎ<br/>발목부분이 실켜서 피나요<br/>발이 조금 불편해요<br/>신발신을때 힘들어요 늘어나질 않아요<br/>" 
+---

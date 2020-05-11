@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "휠라 꼬모 뮬(1XM00971-001)_블랙" 
+description: 휠라 꼬모 ..
+date: 2020-05-12 02:53:29 
+img: https://static.coupangcdn.com/image/vendor_inventory/b042/fab9a82aeecf4b674895760a21746912f00f0245179dab89d06856b6f442.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1465052342&itemId=2519629173&vendorItemId=70575521048&traceid=V0-113-7e73124c2150becf 
+categories: [1007] 
+color: f44336 
+price: 27700 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>귀엽고 편하네요<br/>다들 예쁘다고 자기도 시켜달라는데 치수가 없네요<br/>예쁘고 편하긴헌데 좀 무거워요<br/>" 
+---

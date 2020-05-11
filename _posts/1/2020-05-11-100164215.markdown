@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "메이시스 리델 BL" 
+description: 메이시스  ..
+date: 2020-05-12 02:10:13 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2018/06/14/14/1/f829a499-179e-443e-995d-1a011911f05e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=100164215&itemId=306028391&vendorItemId=70669422412&traceid=V0-113-8101a9f679e64a21 
+categories: [1001] 
+color: 4CAF50 
+price: 8900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>검수 안하나요???? 새옷을 꿰매 입어야하나요???<br/>근데 마음에 드네요.<br/><br/>다 좋아요.<br/><br/>뚱뚱한 모습도슬쩍 잘 가려주네요.<br/><br/>무엇보다 예뻐요^^<br/>상품평이 좋지않아 고민했어요.<br/><br/>적당한 가오리 마음에 들어요<br/>짱입니다.<br/><br/>편하고 디자인도 멋지고 바느질,재질<br/>흰색도 주문해야 겠어요.<br/><br/>" 
+---
