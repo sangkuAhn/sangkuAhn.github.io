@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "휠라 디스럽터 샌들 FS1SPB2011X" 
+description: 휠라 디스 ..
+date: 2020-05-11 02:53:37 
+img: https://static.coupangcdn.com/image/retail/images/2019/04/22/13/6/74492e6b-1aae-4597-b52a-5aaadb992bad.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1343349689&itemId=2370751098&vendorItemId=4669616668&traceid=V0-113-be6d32c1334ed99d 
+categories: [1007] 
+color: A566FF 
+price: 59000 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>발은 작아보이기는한데~^^;;<br/>상품은아직 신고돌아다녀보지를 않아서 잘은 모르겠지만 맘에는들어서 다섯개예요 검정색이라 그냥 무난하겠지했는데 괜찮아요<br/>잘신겠습니다 그런데 발볼이 커보이네욥?<br/>중학생 조카에게 선물로 사줬습니다.<br/> 사이즈가 좀 크다고 하긴 했지만 그냥 잘 신고 있어요<br/>튼튼하고 무겁지않고 생각보다 투박하지 않고 키높이도 되고 좋아요~<br/>" 
+---
