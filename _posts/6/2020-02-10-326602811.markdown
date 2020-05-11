@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "바브키즈/ 스트라이프세트" 
+description: 바브키즈/ ..
+date: 2020-02-11 06:11:09 
+img: https://static.coupangcdn.com/image/vendor_inventory/7f5c/385acbd344c346679a6044c525f568f0cf363b5182bc12ed92a0ff00fec4.jpg 
+linkUrl: https://coupa.ng/boRtmH 
+categories: [1005] 
+color: ff1744 
+price: 6900 
+author: Ask View Shop 
+cont:  ●구매후기●<br/>아이가좋아하네요잘입힐께요<br/>얻어입힌것같은.<br/>.<br/>새것같진않아요<br/> 
+---

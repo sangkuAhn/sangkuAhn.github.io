@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "셔링크 블라우스" 
+description: 셔링크 블 ..
+date: 2020-04-26 04:10:26 
+img: https://static.coupangcdn.com/image/retail/images/2020/04/02/15/0/99de0366-b81e-4edc-ab2c-e9b055b2edd5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1444401932&itemId=2489312012&vendorItemId=70482539408&traceid=V0-113-8db1c309f3550fd5 
+categories: [1001] 
+color: AAD34A 
+price: 13900 
+author: Ask View Shop 
+cont:  ●구매후기●<br/>55인데 사이즈는 여유있게 잘맞고<br/>가격이 싸니깐 그냥 입을라고요.<br/><br/>단추는 장식이고 오픈안되요.<br/><br/>목뒤에 카라 들떠서 이상하네요<br/>목이 좀 파인게 좋은데 사진보다 덜파였어요<br/>사이즈도 적당하고 봄이 입기 좋은거같아요<br/>생각보다 덜파엿구요<br/>어찌보면 괜찮고 어찌보면 좀 저렴해보이고<br/>입어보니 화면처럼 맘에 드네요<br/>잘 입을게요^^<br/>화이트 블라우스 이쁜거 찾다 구매했어요<br/> 
+---

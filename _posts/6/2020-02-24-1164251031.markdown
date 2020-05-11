@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "구름위에햇님 파인애플 실내 우주복" 
+description: 구름위에햇 ..
+date: 2020-02-25 06:10:39 
+img: https://static.coupangcdn.com/image/retail/images/2020/01/10/15/1/97ef2671-2097-4e39-a1c5-43c2d601447a.jpg 
+linkUrl: https://coupa.ng/bqUpI3 
+categories: [1003] 
+color: ff1744 
+price: 9900 
+author: Ask View Shop 
+cont:  ●구매후기●<br/>100일 좀 지났는데 크다는 후기가많아서 한사이즈 위로 샀더니 컸는데, 세탁하고 건조기 돌리니까 딱 맞아졌어요 두깨감도 적당하고 간편하게 입히기 좋을것같네요<br/>Very beautiful and good quality size is perfect ! I love it<br/>귀여워요<br/>중국제품이라택이신경쓰여제거하고입혔는데<br/> 
+---

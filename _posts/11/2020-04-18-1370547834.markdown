@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "디스커버리 냉감 트레이닝바지 - 남여공용(봄.여름.신상)" 
+description: 디스커버리 ..
+date: 2020-04-19 04:18:44 
+img: https://static.coupangcdn.com/image/vendor_inventory/471b/a3331865678d04820a252ab20e1b54e18b13492519e56fd4208d232a823a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1370547834&itemId=2403093688&vendorItemId=70421431609&traceid=V0-113-789904428d9ac504 
+categories: [1002] 
+color: ff1744 
+price: 39000 
+author: Ask View Shop 
+cont:  ●구매후기●<br/>화면보다 크게 나온듯 ... <br/><br/>화면보다 크게 나온듯 ... <br/><br/> 
+---

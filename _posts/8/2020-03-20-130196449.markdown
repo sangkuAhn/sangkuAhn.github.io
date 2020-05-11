@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "KOMO/ 칼라컵(50개) - 색상선택, 혼합, 1개" 
+description: KOMO/ ..
+date: 2020-03-20 17:31:12 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2018/09/04/12/2/4ffb7291-9f98-4f56-80c2-1675ada75e3a.jpg 
+linkUrl: https://coupa.ng/buW3ES 
+categories: [1021] 
+color: 9E9D24 
+price: 1500 
+author: Ask View Shop 
+cont:  ●구매후기●<br/>4살아이부터 초등학생까지 너무너무 잘 가지고 논답니다!빠른 배송에 엄지척!<br/>가격대비 비싼 장난감에 비해 너무 잘 갖고 놀고 있습니다,<br/>다양한 놀이를 할 수 있고  컵을 쌓아서 무너뜨리는 경험으로<br/>정말 좋은 아이템입니다,<br/>주변 언니들과 함께 주문했는데<br/>집안에만 있는 아이의 스트레스도 풀고<br/>집콕하는 아이를 위한 아이템 색 종이컵!!아이가 너무 좋아해요<br/>코로나로 집콕중에.<br/>.<br/> 아이랑 컵쌓기놀이해하려고 구매했는데 너무 재미있게 잘 놀았어요 짱!!!!<br/> 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "카네이션 어버이날 설날 용돈봉투, 빨강" 
+description: 카네이션  ..
+date: 2020-05-07 06:28:38 
+img: https://static.coupangcdn.com/image/vendor_inventory/98f8/eaee406a746e563322e19c05c1f5b2daa92a516b841efa61e5db6219775f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1155856799&itemId=2131404145&vendorItemId=70129935393&traceid=V0-113-4f6a69e0de0e7561 
+categories: [1021] 
+color: A566FF 
+price: 4900 
+author: Ask View Shop 
+cont:  ●구매후기●<br/>만족합니다<br/>주문하고 2일만에 배송 왔어요!! 배송완전 빨라요!!<br/>추천합니다<br/>카네이션 장식도 너무 예쁘게 붙어서 와서 완전 만족해요<br/> 
+---

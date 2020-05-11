@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "투고 퍼펙트 슬리퍼" 
+description: 투고 퍼펙 ..
+date: 2020-02-18 06:11:35 
+img: https://static.coupangcdn.com/image/retail/images/2019/09/05/17/1/e28a7322-f3fc-4b30-863f-74938f5dea6e.jpg 
+linkUrl: https://coupa.ng/bpLXaQ 
+categories: [1007] 
+color: f44336 
+price: 11490 
+author: Ask View Shop 
+cont:  ●구매후기●<br/>남편이 사무실에서 한개 차안에서 한개가격대비 굿입니다<br/>발바닥과 발등부분이 일체형이라 떨어질 염려가 없어 좋은것 같아요<br/>사이즈가 약간 작아서  걱정이었는데  신으면 신을수록 편하고 너무 튼튼합니다<br/>싸이즈를 약간 큰것으로 하면 추천하고 싶습니다.<br/><br/>참 좋습니다.<br/><br/>헌데 생각보단 부드럽질 않아서 별점4점 드립니다<br/> 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "투영디자인 엘리트 스프링 유선노트, 랜덤 발송, 5개입" 
+description: 투영디자인 ..
+date: 2020-03-01 06:14:22 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/04/11/3933970920/c2bccd61-3929-40c0-8c5d-7ddeab11c2da.jpg 
+linkUrl: https://coupa.ng/brMibE 
+categories: [1021] 
+color: ff1744 
+price: 6080 
+author: Ask View Shop 
+cont:  ●구매후기●<br/>가볍고 편하게 들고 다닐 수 있어서 잘 산 것 같습니다^^<br/>골고루 보내주시고<br/>랜덤이지만 색상도<br/>맘에 드네요^^<br/>매수가 많지 않은거로<br/>생각보다 품질이 좋네요.<br/> 양도 많고 저렴해서 많이 구입했어요.<br/><br/>시켰는데 딱 좋네요<br/>여러 용도로 쓸 예정이라<br/>종이재질이나 스프링도<br/> 
+---

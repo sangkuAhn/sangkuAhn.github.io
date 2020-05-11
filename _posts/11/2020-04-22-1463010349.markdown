@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "언더아머 공식/남성 UA 차지드 퍼수트 2 러닝화" 
+description: 언더아머  ..
+date: 2020-04-23 04:54:10 
+img: https://static.coupangcdn.com/image/vendor_inventory/727b/0d260819a985a70553a286eb9a849f6c3b14bab0a871fb90aebf1dc1bd05.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1463010349&itemId=2516553383&vendorItemId=70509516066&traceid=V0-113-0696d4e020941fca 
+categories: [1007] 
+color: f44336 
+price: 44500 
+author: Ask View Shop 
+cont:  ●구매후기●<br/>무난해요<br/>신어보니 편하고 디진인도 이뻐요<br/> 
+---

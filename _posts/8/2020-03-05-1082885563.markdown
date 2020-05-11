@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "패션리더 학생용 방한대, 핑크" 
+description: 패션리더  ..
+date: 2020-03-06 06:11:23 
+img: https://static.coupangcdn.com/image/vendor_inventory/abac/59457cef977fb90644759001e2797fc2b76fa6b68e765ee5fa97cfb69b5f.jpg 
+linkUrl: https://coupa.ng/bsC3tp 
+categories: [1006] 
+color: 43A047 
+price: 1200 
+author: Ask View Shop 
+cont:  ●구매후기●<br/>괜잖아요<br/>너무 좋네요<br/>면도 좋고 포장 최고<br/>코로나 물러나라<br/> 
+---

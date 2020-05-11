@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "0165-기본 요가팬츠" 
+description: 0165- ..
+date: 2020-03-22 06:16:19 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2016/09/21/17/6/3fcabe9c-c730-420d-a7f9-fd1cc56ab77e.jpg 
+linkUrl: https://coupa.ng/bvcyWO 
+categories: [1006] 
+color: ff1744 
+price: 6900 
+author: Ask View Shop 
+cont:  ●구매후기●<br/>가격대비.<br/> 짱!짱!짱!<br/>딱, 찾던 스타일 입니다.<br/>  반신반의하면서 색깔별로 샀는데.<br/> 잘한것 같아요.<br/>중학생 딸이랑 잘 입을꺼같아요.<br/> ^^<br/>바지 엄청 편하고 찰랑찰라 거려서 너무 좋아요 편해요 키 165에 발목 충분히 덮습니다 길어서 너무 좋아요 !!!<br/>진짜 편해서 매일 입고다녀요! 보풀도 별로 안일어나는 편인 것 같아요 진짜 최고 ,,,<br/>허리부분에 밴드처리도 되어있고 끈도 있고.<br/> 나쁘지않은 가격에 입은 핏도 딱 떨어지고, 원단은 너무 얇지도 두껍지도 않으며, 부드러운 느낌!<br/> 
+---

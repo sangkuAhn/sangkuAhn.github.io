@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "곰 자수 쭈리 맨투맨" 
+description: 곰 자수  ..
+date: 2020-03-06 06:10:32 
+img: https://static.coupangcdn.com/image/vendor_inventory/f205/211ccb819e8c05b0df6833d7214852fbb813de85132cf54e9b05f98c4300.jpg 
+linkUrl: https://coupa.ng/bsC22U 
+categories: [1002] 
+color: 43A047 
+price: 15840 
+author: Ask View Shop 
+cont:  ●구매후기●<br/>아들입으려구저렴히샀어요.<br/>.<br/> 이쁘네요.<br/>.<br/>free가 남자 100 정도 되는것 같군요... <br/>잘입을께요.<br/>.<br/>다만 안에가 보풀이 너무많아서 보플제거하고 입어요.<br/>.<br/>별하나 뺌<br/> 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "여명 링 포인트 마스크" 
+description: 여명 링  ..
+date: 2020-02-09 06:11:51 
+img: https://static.coupangcdn.com/image/retail/images/2019/12/17/11/1/5ae9bd6a-d89f-45c3-a4bb-0ffa9ef1a47a.jpg 
+linkUrl: https://coupa.ng/boGhN8 
+categories: [1008] 
+color: 4A148C 
+price: 9900 
+author: Ask View Shop 
+cont:  ●구매후기●<br/>마스크가없어서 세탁못하고 오늘급하게 하고나왔는데 세탁을안해서그런지  숨쉬기가 좀불편했어요.<br/> 결국마스크벗고 다녔네요.<br/> 디자인은 겐찮은것같은데... <br/>쫌 아쉽네요<br/>세상이 더러워져구입했는데 괜찮네요자주 빨아서 써야겠어요<br/>착용감이 좋고 부드럽네요 무엇보다 앞에 링이 포인트가 있어서 멋스럽네요  감사하고 잘 쓸께요<br/> 
+---

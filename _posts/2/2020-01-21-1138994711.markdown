@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "인간을 키우는 고양이, 다독임북스" 
+description: TOP.2 
+date: 2020-01-22 03:15:10 
+img: https://static.coupangcdn.com/image/retail/images/2020/01/02/17/7/ecb2fc93-f471-4364-85a0-90154397e31c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1138994711&itemId=2109644226&vendorItemId=70108399191&traceid=V0-113-fa8275e46a39de1e 
+categories: [1019] 
+color: ff1744 
+rank: 2 
+price: 13500 
+author: Ask View Shop 
+cont:  ●구매후기●<br/>삼색아 사랑해<br/>이얏호응<br/>흥미 진진해요<br/> 
+---

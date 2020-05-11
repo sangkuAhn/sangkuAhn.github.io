@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코디아이 여아용 비비 쟈가드 내의" 
+description: 코디아이  ..
+date: 2020-03-07 06:10:55 
+img: https://static.coupangcdn.com/image/retail/images/2020/01/16/11/7/923b1285-2d7f-4361-881a-82fde0569e3a.jpg 
+linkUrl: https://coupa.ng/bsNooP 
+categories: [1003] 
+color: 006064 
+price: 10900 
+author: Ask View Shop 
+cont:  ●구매후기●<br/>구매하기 잘했다고 생각해요.<br/><br/>귀여워요<br/>이쁘고,잘 맞아요.<br/><br/>조카 사줬어요 좋아했어요<br/> 
+---

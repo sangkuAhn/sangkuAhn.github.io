@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "티탁 빅사이즈 카사프릴원피스" 
+description: 티탁 빅사 ..
+date: 2020-02-27 06:10:19 
+img: https://static.coupangcdn.com/image/vendor_inventory/d551/be70c18a21f3ddc9d57534bdf338e3ee9305c2dfd2163ba3523dba52cee0.jpg 
+linkUrl: https://coupa.ng/brg4dQ 
+categories: [1001] 
+color: 03A9F4 
+price: 15930 
+author: Ask View Shop 
+cont:  ●구매후기●<br/>생각한 색상보다 짙은 모카색이라 그닥이지만 입으니 나쁘지않아요 가성비괜찮아요<br/>집에서 입기 넘넘좋아요<br/>천 재질은 괜찮은데  품이 넉넉하네요<br/>호주머니가 없어서 아쉽네요<br/> 
+---

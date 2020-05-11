@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "뉴발란스/ 990 USA W990WB3" 
+description: 뉴발란스/ ..
+date: 2020-02-18 06:11:35 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2015/09/24/3001925273/16e22964-dc91-416d-9626-9971a26b5b32.jpg 
+linkUrl: https://coupa.ng/bpLXa1 
+categories: [1007] 
+color: 9E9D24 
+price: 39500 
+author: Ask View Shop 
+cont:  ●구매후기●<br/>예쁘고 편하고  좋은 가격에 득템했습니다<br/> 
+---

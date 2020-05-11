@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "노마드 슬라이딩 30LED 랜턴, 그린" 
+description: 노마드 슬 ..
+date: 2020-04-28 05:58:21 
+img: https://static.coupangcdn.com/image/retail/images/2019/01/09/18/4/8027630d-03b4-4334-a101-8a93131d125d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1019917&itemId=4312373&vendorItemId=5366991060&traceid=V0-113-12f93a484ac2beb0 
+categories: [1017] 
+color: F15F5F 
+price: 9400 
+author: Ask View Shop 
+cont:  ●구매후기●<br/>밝고좋아요 생각보다 아담해서 불편하지도않구 진짜밝아요!!!<br/>배송 빠르고 건전지만 있음 아주 편리해요! 캠핑가서도 유용하게 썼습니다<br/>생각보다 밝네요 가벼운만큼 내구성이 얼마나갈진모르겠지만 수납성도 좋고 전만족해요<br/> 
+---

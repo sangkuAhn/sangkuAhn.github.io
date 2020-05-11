@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "마크 패션 퀼팅 마스크 L" 
+description: 마크 패션 ..
+date: 2020-02-10 06:11:52 
+img: https://static.coupangcdn.com/image/retail/images/170789271933103-8de688fb-3b83-4ead-8bbd-3313d535040d.jpg 
+linkUrl: https://coupa.ng/boL1Dh 
+categories: [1008] 
+color: 006064 
+price: 10500 
+author: Ask View Shop 
+cont:  ●구매후기●<br/>너우커요ㅜ<br/>사이즈도 성인용딱이고<br/>세탁이 불편하고 안경에 김서림이 많이 생김<br/>업그레이드되었어요<br/>이쁩니다<br/>필터원단을 사서 넣어쓰니<br/> 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아동용 큐트엘리 7부 파자마 하의" 
+description: 아동용 큐 ..
+date: 2020-05-01 04:39:29 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/11/17/7/4e24f611-3dc4-44f0-a58c-320e551fefb0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1353232482&itemId=2381869121&vendorItemId=70377373587&traceid=V0-113-26e4de271c198e03 
+categories: [1005] 
+color: 9E9D24 
+price: 4620 
+author: Ask View Shop 
+cont:  ●구매후기●<br/>굿^^<br/>좋아요<br/>화면과 똑같고 배송도 빠르고 넘 좋아해요<br/> 
+---
