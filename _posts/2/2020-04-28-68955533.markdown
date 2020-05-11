@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "나이키/ 코튼 쿠션 크루 삭스 3팩_SX4700-101" 
+description: 나이키/  ..
+date: 2020-04-29 04:46:41 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2018/07/27/19/0/51fa59a9-d043-4786-9a7c-c7482146bb09.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=68955533&itemId=230461441&vendorItemId=70524375847&traceid=V0-113-f0135b9f252c8107 
+categories: [1006] 
+color: A566FF 
+price: 19800 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>땀흡수도 좋고 오래신을수있을거같네요<br/>또구매합니다<br/>운동할때 신으려고 삿는데 좋네요<br/>품질좋아요<br/>" 
+---

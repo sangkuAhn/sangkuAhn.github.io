@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "구성애 아줌마의 뉴초딩아우성, 올리브엠앤비" 
+description: 구성애 아 ..
+date: 2020-05-11 04:12:59 
+img: https://static.coupangcdn.com/image/vendor_inventory/f74a/fee02aaa7b2f2564c25b623ed7da4f66c68dfbfaf0aa5aa401d3c35bd2d6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=21650507&itemId=84523616&vendorItemId=3143847205&traceid=V0-113-732de9a487f81503 
+categories: [1019] 
+color: f44336 
+price: 9000 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>4학년 아들이 작년부터 아이가 생기는 과정을 궁금해하길래<br/>그건 어른시선이고<br/>다만, 그림이 좀 사실적이라서 괜찮나싶긴하지만<br/>딸이 질문하면 대답은 해주곤하는데 무슨내용을 얘기해줘야하나 고민학던 찰나에 책이 대신 해주니 좋아요.<br/><br/>목욕하면서도 아이들이 부모님의 모습을 보기도하니<br/>아이들 시선에선 별다를게 없는(?) 그림으로 받아들일수도 있을것같아요<br/>오히려 1학년 딸이 더 재미있게 보네요.<br/>.<br/><br/>요즘 호기시 많은 울 딸 이책 너무 재미지게 보내요.<br/><br/>이제서야 샀는데<br/>제가 읽어봤는데 지식면으로 쉽게 설명되어있어요.<br/><br/>지금 막와서 읽으려고 하는데 아이가 관심을 보이네요.<br/> 내용을 먼저는 알아야 할거 같아서 제가 먼저 읽으려고요.<br/> 아이는 초3인데.<br/> 성에 무척 관심있고 그런건 아닌데 이제 슬 알아야 할거 같아서 샀습니다.<br/> 도움이 되었음 좋겠네요<br/>" 
+---
