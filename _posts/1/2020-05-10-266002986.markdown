@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아디다스 여성 쇼트 트레이닝 반바지" 
+description: 아디다스  ..
+date: 2020-05-11 02:46:24 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2019/03/19/14/1/a96e3767-0b56-4d3e-a4cc-862e65ebc546.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=266002986&itemId=833828715&vendorItemId=5122952351&traceid=V0-113-38651af287733aa2 
+categories: [1006] 
+color: f44336 
+price: 10800 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>가격이 워낙 싸니까~~~<br/>두장구매했는데완전이뻐요편<br/>생각 보다는 쪼끔... <br/>.<br/>.<br/><br/>집에서 운동할려고 샀어요 길이짧고 많이얇아요 근데 가격대비 꼼꼼하게 잘만들었어요  외출복으로 사실분은 고려하심이 좋을듯<br/>하고다리가날씬해보입니다진짜고급져보이고올여름까지잘입을것같아요<br/>" 
+---

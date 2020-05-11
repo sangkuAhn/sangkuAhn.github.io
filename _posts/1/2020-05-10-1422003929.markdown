@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "세르딘 퍼프롱원피스" 
+description: 세르딘 퍼 ..
+date: 2020-05-11 02:10:14 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/31/13/5/ace15481-8173-480b-aa0e-fd16497cf06a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1422003929&itemId=2460669163&vendorItemId=70454173674&traceid=V0-113-9762b5a8389e0dc6 
+categories: [1001] 
+color: 03A9F4 
+price: 19800 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>157/59  복숭아뼈정도의  길이감이에요.<br/><br/>다른색상도 하낟니 구입할까 생각중이에요~<br/>롱 길이 워낙 좋아해서 딱 맘에 들어요<br/>베이지 구입했는데 블랙도 구입할려구요^^<br/>상품평 몇개 없어 고민 잠시했지만<br/>옷 받자마자  맘에 드네요<br/>재질도 좋고 사이즈도 넉넉하니 편해요<br/>천도 괜찮고,  시원하게 잘입을것같아요.<br/><br/>키는 작지만 롱을 좋아하는 편이라   길이감좋네요.<br/><br/>" 
+---
