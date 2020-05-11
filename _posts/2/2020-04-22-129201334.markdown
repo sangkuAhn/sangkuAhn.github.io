@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "아디다스/ 라이트 레이서 DB0646" 
+description: 아디다스/ ..
+date: 2020-04-23 04:54:10 
+img: https://static.coupangcdn.com/image/vendor_inventory/2494/4a27eb5ddc5ecf7ee00e33e9c280b897332daf16dc8494e4ec17f0c24b80.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=129201334&itemId=380582676&vendorItemId=5590480767&traceid=V0-113-3493ece89b562585 
+categories: [1007] 
+color: A57F92 
+price: 49900 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>발볼이큰편이라사이즈찿기가쉽지않았는데발이엄청편안하고가벼움,<br/>상품평에 본드떨어진 사진이있어서 걱정했는데 걱정안하시고 구매하셔도 될듯합니다 평소280신는데 정사이즈 구매하시면되구요 완전가볍고 통기성좋아요 쿠션감도 나쁘지않아서 조깅화로 써도될것같습니다 가격대비 가성비 굿굿굿!!!<br/>잘신고 있습니다.<br/> 가격대비 훌륭한 제품 깔끔해요 가볍고요<br/> 
+"
+---

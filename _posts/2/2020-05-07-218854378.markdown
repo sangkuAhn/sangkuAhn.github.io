@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "루디아 "당일출고"레터링 옆트임 이지 원피스" 
+description: 루디아 " ..
+date: 2020-05-08 04:10:15 
+img: https://static.coupangcdn.com/image/vendor_inventory/5151/3905d823559bb883b72395a67014721eec62e73a410037006acca3186a10.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=218854378&itemId=678504164&vendorItemId=4746950454&traceid=V0-113-fb501d856d4d936d 
+categories: [1001] 
+color: FFB2D9 
+price: 9800 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>그냥 가위질해서 올 풀리지 않게 박음질?<br/>그래도 이가격에 이정도 만족!<br/>그레이 주문해서 받았는데 이쁘고 편해서<br/>그레이도 주문하렵니당^<br/>블랙으로 하나 더 구입 했어요<br/>앞트임은 박음질이 좀 맘에 안듬!(울짐)<br/>앞트임이 좀 실망스럽네요.<br/>.<br/><br/>원단좋아요.<br/> 여름엔 좀 더울듯.<br/>.<br/><br/>천은 부들부들한 재질이네요<br/>하늘하늘한 원단!<br/> 
+"
+---

@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "온더리버 델몬 피크닉 데일리 맨투맨" 
+description: 온더리버  ..
+date: 2020-03-27 06:10:15 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/05/12/7/39f3d90a-b3db-4b53-ad5a-53fbeab7db16.jpg 
+linkUrl: https://coupa.ng/bv2FJe 
+categories: [1001] 
+color: 4A148C 
+price: 9900 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>받자마자 바로 입어 봤네영ㅋㅋㅋ<br/>봄에 입기 좋은 맨투맨이에요.<br/> 얇고 색상도 코랄빛이라 마음에 드네요.<br/> 오렌지와 핑크의 중간 어디쯤.<br/>.<br/> ?<br/>색감이 넘 맘에 듭니다 봄봄 하니 좋네요 박음질도 잘 되있구 잘 입을께영!<br/>색이 무척이나봄봄하니 이쁘네요^^<br/>아기 낳고입으려구요<br/>오버핏은 아니지만 편하게 입기 좋을 것 같아요! 가성비 굿입니당<br/>지금은 임신막달이라서 못입고<br/> 
+"
+---

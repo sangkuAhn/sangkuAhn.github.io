@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "지적 대화를 위한 넓고 얕은 지식: 제로, 웨일북" 
+description: 지적 대화 ..
+date: 2020-02-13 06:14:10 
+img: https://static.coupangcdn.com/image/retail/images/2019/12/02/14/9/f95f4e6f-3c76-47a4-b12c-0bb31d989da4.jpg 
+linkUrl: https://coupa.ng/bo5A2g 
+categories: [1019] 
+color: 212121 
+price: 17820 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>독서를 하기로 마음먹고 구매한 첫 도서입니다.<br/> 내용이 조금 낯설어서 이해가 가지않는 부분은 반복적으로 읽고있어여<br/>앞부분 읽다가 이해가 안되서 다시읽고 있어요.<br/> 아직 제가 모르는 세계를 잘알려줘서 좋은거 같아요!<br/>어휘력이 부족한데도 어려운 내용을 나름 편하게 이해할 수 있어 좋습니당<br/>첫문장부터 인상깊어서 꾸준히 읽고 싶은 책입니다 ㅎㅎ 부디 완독하기를... <br/><br/> 
+"
+---

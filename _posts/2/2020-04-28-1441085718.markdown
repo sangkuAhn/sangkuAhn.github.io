@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "프레시가든 생화 꽃다발 S, 튤립" 
+description: 프레시가든 ..
+date: 2020-04-29 05:44:14 
+img: https://static.coupangcdn.com/image/retail/images/2020/04/08/15/0/3518fc89-f721-466b-896e-7b994ca214bd.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1441085718&itemId=2484982745&vendorItemId=70478245081&traceid=V0-113-1af29dc50f2faeea 
+categories: [1015] 
+color: FF6F00 
+price: 26000 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>꽃놀이는 집에서<br/>넘 예뻐요<br/>봉오리 진 싱싱한 꽃이고 화병에 꽂으니 밤사이 피어납니다<br/>사진은 제가 포장지를 조금 짧게 자른 후 찍어서 튤립 줄기가 길어보이는데 원래는 튤립을 끝까지 감쌀정도로 포장되어왔었어요<br/>상품평이 별로라 걱정했는데 딱 예쁘고 통통하게 봉오리진 튤립이 와서 만족했어요ㅎㅎ 줄기 계속 조금씩 잘라주면서 물꽂이해서 한 일주일 두고 본거같네요.<br/> 원래 꽃이 필요하면 양재 꽃시장을 가는 편이라 가격이 터무니없게 느껴질수도 있지만 이런 배송으로 받아보는 가격으로는 적절히 형성된 가격이라 생각해요.<br/> ㅎㅎ 출근하기 싫은 일요일 밤에 시키고 월요일아침에 꽃보면서 출근 잘했어요<br/>진짜 이뻐요 ! 근데 몇몇개는 꽃봉오리가 많이 벌어져있네요ㅜㅜ<br/> 
+"
+---

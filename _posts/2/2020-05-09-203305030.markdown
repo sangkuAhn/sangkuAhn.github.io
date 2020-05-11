@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "휠라/ 남녀공용 리니어 반팔 티셔츠 FE2RSB5101x / FS2RSA2001X" 
+description: 휠라/ 남 ..
+date: 2020-05-10 02:46:33 
+img: https://static.coupangcdn.com/image/vendor_inventory/e1da/64633da9304dcef06c809c9dc8c6321043416135a6b50859d43969f80147.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=203305030&itemId=596375466&vendorItemId=4561739169&traceid=V0-113-92cf8e3e24855cb9 
+categories: [1006] 
+color: f44336 
+price: 18430 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>잘받앗습니다<br/>좋아요<br/>평소 여자 사이즈 95입는데 남녀공용으로 95시키니까 딱맞네요! 재질도 좋고 맘에 들어요<br/> 
+"
+---

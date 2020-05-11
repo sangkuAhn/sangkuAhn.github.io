@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "크록스 본사 남녀공용 바야밴드 반다나 프린트 클로그 206233" 
+description: 크록스 본 ..
+date: 2020-04-21 04:53:45 
+img: https://static.coupangcdn.com/image/vendor_inventory/a697/6b6acf493b9ab20c855898184b88c24efdb1ff91e7715a90eef46d99dba6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1152734839&itemId=2127511836&vendorItemId=70544989939&traceid=V0-113-7e69906d89ce79d7 
+categories: [1007] 
+color: 79ABFF 
+price: 55000 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>단, 사이즈가 좀 크다 하네요<br/>발볼이 넓어 편안한 신발찾던중이였는데<br/>선물했는데 막 좋아하네요<br/>아주 편안히 잘 신을뿐아니라 <<br/>약간씩 크게 나오는듯... <br/><br/>여름용이니 감안하고 신기겠답니다<br/>진짜 좋다고 칭찬일색 입니다<br/>한치수 크게 주문했어요 발볼이 넓은데도 편하고 좋아요<br/> 
+"
+---

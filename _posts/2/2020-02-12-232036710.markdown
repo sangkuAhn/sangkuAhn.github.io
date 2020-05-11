@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "폴더/ FILA 휠라 레이 스크립트 베이지" 
+description: 폴더/ F ..
+date: 2020-02-13 06:11:32 
+img: https://static.coupangcdn.com/image/vendor_inventory/6edb/1e40ea37cbf02fb3d12ef5007417f21365ce3a99c0796fc04f5b07eafd79.jpg 
+linkUrl: https://coupa.ng/bo5zBN 
+categories: [1007] 
+color: 4CAF50 
+price: 54900 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>다만, 발끝이 신발에 맞아 장시간 신고 있으면 아프게 될 것 같다.<br/><br/>마감처리도 깔끔하고 딸아이가 너무 맘에들어해요<br/>물량없음으로 구매하지 못 했습니다<br/>바로 신발매장에 갔지만<br/>보기에는 딩딩하지만 귀엽다.<br/><br/>색도 베이지색이어서 옷에 맞추기가 쉽다.<br/><br/>신발의 높이와 투박함,<br/>제가 원하는 디자인임을 알수 있었죠<br/>주문으로 얻게 되어 무척 기뻐요<br/>지나가는 아이가 신고있어 빤히 바라보았습니다<br/>진짜 귀여워서 샀어요!<br/> 
+"
+---

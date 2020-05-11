@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "카카오프렌즈 12색 색연필 + 사인펜 세트, 혼합색상, 1세트" 
+description: 카카오프렌 ..
+date: 2020-05-09 06:29:45 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/02/17/7/7ef7ecc4-b45c-41b0-90d8-4a0e7203f412.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1349374582&itemId=2377351493&vendorItemId=70372909447&traceid=V0-113-294e00cf3cadf1ce 
+categories: [1021] 
+color: 5A8DF3 
+price: 9800 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>새학기를 위해 준비했어요!빨리 고로나 없어져서,개학이 빨리 되야하는데 ㅠㅠ;;;<br/>써보지 안았는데 ... <br/>.<br/>.<br/><br/>아이 준비물이라 얼집으로 바로 보내서 잘몰르겠어요 ㅜㅜ<br/>아이가 아주 좋아해요<br/>어피치 덕후라 좋아합니다.<br/>배송도 빨라요.<br/><br/>일단은 딸래미가 넘나 좋아해요.<br/><br/> 
+"
+---

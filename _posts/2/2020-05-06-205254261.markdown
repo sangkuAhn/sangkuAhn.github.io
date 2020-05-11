@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "인스토리7 형광티셔츠 바캉스원피스" 
+description: 인스토리7 ..
+date: 2020-05-07 04:10:15 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2019/04/03/20/2/a6c7feda-f3b9-4fbf-a4dd-80b51d55e098.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=205254261&itemId=604300057&vendorItemId=4583810768&traceid=V0-113-e905af12f6b77d96 
+categories: [1001] 
+color: 006064 
+price: 12200 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>기장이며 재질까지 맘에들더이다<br/>상품잘받았어요.<br/>색깔도 너무 이뿌네요.<br/>새옷냄새도 전혀안나고 치마길이도 적당하고 딱입니다.<br/><br/>세탁기망 씌우고 세탁후에 입어봤습니당 ㅎ제가 168에60키로 정도인데요 살짝 루즈하니 넘 핏이 맘에 드네요 기장은 무릎을 덮고요 집에서 입을려고 산건데 간단한 외출용으로 입어도 괜찮겠어요 특히 색상이 살짝 다운된 연두색이랄까 ㅎ머하튼 가격에 비해 넘 잘산거 같아서 기분좋습니당<br/>세탁해서 입으려고 빨래통에 넣어뒀어요<br/>입어보고 맘에들면 다른색도 쥬문할게얌<br/>입어보진않았지만 꺼내자마자 맘에들었어요 ㅋㅋㅋㅋㅋ<br/> 
+"
+---

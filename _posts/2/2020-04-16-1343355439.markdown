@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "갭 여아용 베이비 로고 반팔 바디슈트" 
+description: 갭 여아용 ..
+date: 2020-04-17 04:26:52 
+img: https://static.coupangcdn.com/image/retail/images/2019/06/26/16/8/17abfc26-7e6d-49e3-a4b4-c8c760b39411.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1343355439&itemId=2370767050&vendorItemId=4985850512&traceid=V0-113-15e972e652811e29 
+categories: [1003] 
+color: BF360C 
+price: 12700 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>여름에입힐려고샀어요!이쁘고좋아용ㅎ<br/> 
+"
+---

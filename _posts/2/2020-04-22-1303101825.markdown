@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "케이스위스 남성 폴로 클래식 반팔 티셔츠" 
+description: 케이스위스 ..
+date: 2020-04-23 04:46:44 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2018/06/20/14/7/38529fee-b0d0-4968-b1b9-b469d36bdf3d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1303101825&itemId=2317131194&vendorItemId=3764798257&traceid=V0-113-f4a77d9e3359a7f0 
+categories: [1006] 
+color: F15F5F 
+price: 8500 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>도대체 입으라는건지 쓰레기를 보내준건지.<br/>.<br/>ㅜㅜ<br/>에휴ㅜㅜ<br/>옷에 이물질 엄청 붙어서 떨어지지도 않음<br/> 
+"
+---

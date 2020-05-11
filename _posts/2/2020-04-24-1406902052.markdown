@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "Apple Magic Keyboard Korean MXQT2KH/A, 혼합색상" 
+description: Apple ..
+date: 2020-04-25 05:51:29 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/30/14/5/828a5207-4e00-4aed-92b8-6c03353d627c.jpeg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1406902052&itemId=2442587089&vendorItemId=70436334525&traceid=V0-113-d332724ccec0b2ad 
+categories: [1016] 
+color: 03A9F4 
+price: 389000 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>고민하다가 샀는데 키감, 트랙패드 모두 마음에 드네요!!<br/>매직키보드.<br/>.<br/> 가격이 매직이라 고민 많이 했습니다만, 막상 받아서 써보니 만족스럽습니다.<br/> 무겁지만 갖고다닐만 하네요.<br/> 대신 맥북에 대한 뽐뿌는 없어졌어요.<br/><br/>일단 빨리 도착했습니다.<br/> 그런데 생각보다 무겁고 틸팅도 한계가 있더군요.<br/> 아직 아이패드가 도착하지 않아 사용은 못 해 봐서<br/>잘 모르겠습니다.<br/> 아무튼 잘 쓸게요<br/> 
+"
+---

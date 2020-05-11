@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "써니백 클러치백 MSK5113" 
+description: 써니백 클 ..
+date: 2020-04-21 05:00:58 
+img: https://static.coupangcdn.com/image/retail/images/2019/07/08/11/7/984f86d7-38bc-42c8-b9d7-2e94313a76e5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=255349569&itemId=801248047&vendorItemId=5036059357&traceid=V0-113-cfd90fa05652988c 
+categories: [1008] 
+color: A57F92 
+price: 35320 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>https://happyguy09.<br/>com/163<br/>가성비 퀄리티 정말 좋아요<br/>그래도 괜찮아요<br/>남편사줬는데<br/>너무 만족스러워하니 제가다뿌듯해용<br/>디자인굿 .<br/>내부마감재도 사진과같이 고급지고 사이즈도 딱 제가 찾는사이즈.<br/>  완전맘에 드네요.<br/>.<br/><br/>비슷한디자인에  제품가격이 제법 높은것도 있었지만 후기보고 구매결정했는데 어제오후늦게주문해서데 하루만에 오늘받았습니다.<br/><br/>빠른배송.<br/>.<br/>가격대비 고급진 지갑 .<br/>가성비 최고입니다<br/>생각보다 사이즈는 좀 작지만<br/>이것저것 찾아보고 최종구매결정한  아이입니다<br/>좋아요^^<br/> 
+"
+---

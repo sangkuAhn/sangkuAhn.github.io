@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "라코스테 남성지갑" 
+description: 라코스테  ..
+date: 2020-02-06 06:10:28 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2018/01/03/16/7/138b0c21-04bb-4880-979a-7bbccd9ae572.jpg 
+linkUrl: https://coupa.ng/bokpx2 
+categories: [1002] 
+color: 212121 
+price: 67900 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>군대가기전까지 쓰기괴안을거 같아요<br/>동료가 메이커있는지갑을 좋아해서 사줫는데 너무<br/>만족해 합니다.<br/><br/>생각외로 깔끔하다고 넘좋아라하네요<br/>아들 대학생되서 사줬는데<br/>저번에 샀던지갑보다 맘에들어서 좋음 디자인 예쁘고 군대 제대할때까지는 잘쓸수있을것같음  굿굿<br/> 
+"
+---

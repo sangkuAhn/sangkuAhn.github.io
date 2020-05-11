@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "달님이 햄버거 가게 소꿉놀이 세트, 혼합 색상" 
+description: 달님이 햄 ..
+date: 2020-04-30 06:21:33 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/02/20/3175519420/03f163d4-db91-4d1c-98e9-3e17e0c5c71c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=24932778&itemId=97050883&vendorItemId=3175519420&traceid=V0-113-d204983000692293 
+categories: [1020] 
+color: 4A148C 
+price: 27030 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>5살 아이가 유튜브보고 넘 갖고싶어해서 사줬는데<br/>가격대비 별루예요 아이가 유튜브에서 봣다고 사달라고 해서 사줫는데 .<br/>.<br/> 잠깐 가지고 놀다가 안노네요 .<br/>.<br/> 결제전으로 간다면 안사줄거같네요 ... <br/><br/>기특하게도 직접 먹여주기까지 하네요<br/>넘넘 좋아해요<br/>물넣고 나오는 곳도 있고 닭다리도 만들수 있고<br/>엄마 먹으라고 햄버거랑 닭다리 4개 만들어와서<br/>정말 잘 샀어요<br/>햄버거 패티와 프렌치 프라이를 직접 만들 수 있는게 좋은 것 같습니다.<br/><br/> 
+"
+---

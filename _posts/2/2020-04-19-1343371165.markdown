@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "쌤소나이트 Red BAYNES 토트" 
+description: 쌤소나이트 ..
+date: 2020-04-20 05:08:10 
+img: https://static.coupangcdn.com/image/retail/images/2019/12/16/20/6/227a1df8-2dae-4d25-b2fd-a471ae2cad87.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1343371165&itemId=2370804169&vendorItemId=70064857507&traceid=V0-113-4c9b6b7aed548e42 
+categories: [1008] 
+color: 4A148C 
+price: 80100 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>가격대비 가성비 매우 훌륭합니다.<br/><br/>배송도 빠르고 모든게 좋네요 ㅎㅎ<br/>생각보다 깔끔하고 품질도 좋아요 가죽도 구김없이 깔끔하게왔어요 가방끈도 튼튼해서 오래 쓸 거 같아요<br/>수납도 좋고 만족해요.<br/><br/>이쁘고 사진과 다르지 않게 왔네요.<br/> 구매를 하기전 조금 망설였는데 후기 믿고 구매했고 역시 후기 내용 그대로네요<br/>잘 쓰겠습니다^^<br/> 
+"
+---

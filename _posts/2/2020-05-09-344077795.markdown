@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "스타벅스 텀블러 콜드컵(보온 보냉) 473ml, 실버" 
+description: 스타벅스  ..
+date: 2020-05-10 03:29:50 
+img: https://static.coupangcdn.com/image/vendor_inventory/8871/8f75e044bba2504b4a2e1b9766934f91fa27fadd1879a24ab05a23ff24aa.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=344077795&itemId=1093131550&vendorItemId=70426470170&traceid=V0-113-7e7ec9f3dfc27c20 
+categories: [1013] 
+color: 4A148C 
+price: 12990 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>가격이 저렴하니깐요<br/>굳굳굳!!!! 배송은 로켓 총알배송이구요<br/>그런데ㅠㅠ골드에 오염되서 속상해요ㅠ<br/>너무 맘에 드네요<br/>다만, 빨대와 본품에 흠집이 좀 있긴한데요<br/>박스도 대박이예용<br/>사용하는데는 이상없어서 그냥 씁니당<br/>스텐이라서 너무 멋없지 않을까 생각했는데 재품을 보니 오히려 코팅이 까질 염려도 없고 깔끔하고 예쁘네요<br/>앞니에  콕콕 ㅋㅋㅋㅋ아파요ㅋㅋㅋ<br/>예뻐용배송도 빠르구용<br/>용량도 커서 음료를 좋아하는 사람에겐 딱일것 같아요<br/>주말에 급하게 필요해서 그냥 사용해요ㅠㅠ<br/>차안에서 먹다가 ㅋㅋㅋ플라스틱 빨대에 적응해 있는 저라 ㅋ<br/>참!<br/>품질도 좋아요!! 골드펄이여서 더 이쁘구요<br/>한개 더 주문해서 고이 모셔두었다 두고두고 쓸까 생각중이네요<br/> 
+"
+---

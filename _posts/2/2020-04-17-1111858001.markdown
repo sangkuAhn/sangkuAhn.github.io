@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "릴리푸리 여아용 원츄 레깅스 2종 세트" 
+description: 릴리푸리  ..
+date: 2020-04-18 04:35:00 
+img: https://static.coupangcdn.com/image/retail/images/2019/12/20/15/3/3699d2a7-4ffd-40eb-8ec3-ba53655f61d0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1111858001&itemId=2075343821&vendorItemId=70074459660&traceid=V0-113-fd95e45f0f7278f7 
+categories: [1004] 
+color: 006064 
+price: 12500 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>두께도 봄.<br/>가을 입기 적당하고<br/>아기도 편안해 하네요.<br/><br/>아이들이 좋아하고 무엇보다 재질이 맘에듭니다  너무이뽀용!!<br/>예뻐요.<br/><br/>입었을때 이쁘긴한데 검정색 빨아보니 실이랑 실밥? 같은게 너무 많이 나와서 맨살에 입어도 괜찮을지 걱정이에요<br/> 
+"
+---

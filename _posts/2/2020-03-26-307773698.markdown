@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "엠케이 마카롱 동글 카라 바디슈트" 
+description: 엠케이 마 ..
+date: 2020-03-27 06:12:42 
+img: https://static.coupangcdn.com/image/retail/images/2019/09/25/14/3/3c9378f9-528d-4a94-a9d1-9d397804b294.jpg 
+linkUrl: https://coupa.ng/bv2G02 
+categories: [1003] 
+color: FF6F00 
+price: 20020 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>✔️ 구경하다 이뻐서 구매했는데 받아보니 안쪽이 박음질하<br/>✔️ 단추는 나무같은 소재인데 왜 다 까져있죠... <br/>?<br/>✔️ 옷은 이쁘고 귀여워요.<br/> 저희 아들에게 색깔도 엄청 잘<br/>귀엽고 깜찍하고 예뻐요<br/>넉넉한 품때문에 불편하진 않을거같아요<br/>먼저 들었어요 ㅠㅠ<br/>며 좀 그래서 맨살에는 입히면 안되겠다는 생각이 제일<br/>별로였어요.<br/><br/>어울려서 더 마음에 들었는데 안쪽이 부드럽지도 않고<br/>예쁘게 잘맞아 너무너무 좋아요<br/>옷의 재질도 좋고<br/>재질이 생각보다 거칠해요<br/> 
+"
+---

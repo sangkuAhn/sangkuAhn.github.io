@@ -10,5 +10,6 @@ color: 212121
 rank: 4 
 price: 34690 
 author: Ask View Shop 
-cont:  ●구매후기●<br/>좋습니다<br/>좋습니다<br/> 
+cont: " ●구매후기●<br/>좋습니다<br/>좋습니다<br/> 
+"
 ---

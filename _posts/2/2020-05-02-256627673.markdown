@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "제이에이치스타일 남성용 웰시코기 자수 후드 반팔티" 
+description: 제이에이치 ..
+date: 2020-05-03 04:17:49 
+img: https://static.coupangcdn.com/image/retail/images/2019/07/30/15/2/b03ef8db-e17e-45f2-abd8-57e0aee37381.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=256627673&itemId=805967906&vendorItemId=5162899879&traceid=V0-113-2ab9b785d1e16b49 
+categories: [1002] 
+color: 1294AB 
+price: 24800 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>깔끔한 디자인에 포인트가 강아지라서 귀엽네요 ㅎㅎ 그런데 사이즈가 살짝 걱정 되어서 L입던 것을 XL시켰더니 좋게 받았습니다 ^^<br/>딱 지금 입기 좋은 옷같음 두깨는 좀있내용<br/>옷이 면 100이라그런지 재질도 좋고 시원하고 예뻐요<br/>잘 산듯합니다.<br/><br/> 
+"
+---

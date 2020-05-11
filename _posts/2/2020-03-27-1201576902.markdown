@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "코디아이 아동용 삐요 칠부내의" 
+description: 코디아이  ..
+date: 2020-03-28 06:12:48 
+img: https://static.coupangcdn.com/image/retail/images/2020/01/21/10/9/f3eb6802-42c0-44d6-b125-5abe3dfd6ac5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=1201576902&itemId=2186661855&vendorItemId=70184667070&traceid=V0-113-0e1ef00a671eec3e 
+categories: [1003] 
+color: 006064 
+price: 9900 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>100사이즈도 7부라서 그런지 괜찮은거 같아요<br/>110 사서 입혀도 좋을거 같네요.<br/><br/>20개월 14키로 통통 남아 / 사이즈 100 딱이에요.<br/><br/>7개월 여자아기  90사이즈 잘 맞아요 ^^<br/>90사이즈인데 쿠팡이고 어디고 다 90은품절이라 100시켰는데<br/>꺄노란색도 넘 잘받는다고 이쁘다고들하네요<br/>더위 많이 타는 아기라 빨리 입혔어요<br/>둥이라 똑같은것보다는 비슷한게 좋을듯싶어서 이제품이랑 비슷한거 같이시켰네요!ㅎㅎㅎ<br/>면도 좋고 색상 디자인 귀여워요 ㅎ<br/>색이 화사하니 예뻐요<br/>여기에서 몇개 더 샀어요 ㅎ<br/>이젠 좀더 짧은거 시켜야겠어 넘좋다 굿<br/>잘산거같아서 뿌듯해요!<br/> 
+"
+---

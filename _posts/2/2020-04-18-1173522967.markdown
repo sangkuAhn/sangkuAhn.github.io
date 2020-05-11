@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "반스 올드스쿨 블랙 (무료배송 당일발송)" 
+description: 반스 올드 ..
+date: 2020-04-19 04:59:47 
+img: https://static.coupangcdn.com/image/vendor_inventory/8596/603fb761cf1c099a7bd2532515d72b34d19ca298825f2730be297b5a2024.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1173522967&itemId=2151842852&vendorItemId=70150138882&traceid=V0-113-b283fdb607b6a67b 
+categories: [1007] 
+color: 4A148C 
+price: 39900 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>가성비 최고입니다 저렴하게 잘 샀습니다<br/>원래 적힌대로 주말에 주문 하고 바로 수요일에 받았어용ㅋㅋㅋ신발도 나름 하자없구 그냥 바로 신었어요 신난당<br/>조금크긴한데 평발이라 깔창깔아야해서 한치수크게 주문했어요 잘맞네요<br/> 
+"
+---

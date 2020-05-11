@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "갭 여아용 토들러 로고 크루넥 셔츠" 
+description: 갭 여아용 ..
+date: 2020-04-19 04:35:11 
+img: https://static.coupangcdn.com/image/retail/images/2018/12/06/16/7/dc7979dc-cbe6-44f2-94fc-629344030b79.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1343342115&itemId=2370728206&vendorItemId=4200084501&traceid=V0-113-199cb2556d5fe359 
+categories: [1004] 
+color: 4CAF50 
+price: 14870 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>돌 전부터 안에 바디수트 챙겨 입하고 요 티셔츠 입히면 이쁠것 같아요!<br/>선물용으로 구입했어요^^<br/>아주두꺼운 기모는 아니구요옷 재질은 좋습니다^^색감도 예뻐요 사이즈 비교를 위해서 비교사진 올릴게요.<br/>(카x스 5살 이랑 갭 4살)<br/>에쁜데 팔은 긴팔인데 배 길이가 짧게 나온 옷이예요 배랑 등이 잘 보일것 같아요.<br/><br/>제품 질 좋아요 색상은 화면보다 약간 차분한 느낌이에요<br/> 
+"
+---

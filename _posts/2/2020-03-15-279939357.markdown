@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "코디아이 레밍스 20수 후라이스내의" 
+description: 코디아이  ..
+date: 2020-03-16 06:10:50 
+img: https://static.coupangcdn.com/image/vendor_inventory/4748/9553c85132f226488fa4dbc3f19ecdd000f9e3c8b7a8c2fa1a6414b8acc9.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=279939357&itemId=888660555&vendorItemId=5237257540&traceid=V0-113-baeb419b1271172c 
+categories: [1003] 
+color: 7E57C2 
+price: 10900 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>너무 귀여워요<br/>돌아기 11.<br/>3키로 키는 대략 76 되는 것 같아요<br/>타이트한 핏이네요 겨울 외출복 입힐때 좋아요<br/> 
+"
+---

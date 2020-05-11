@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "블루포스 텝스 맨투맨 빅사이즈 긴팔티셔츠" 
+description: 블루포스  ..
+date: 2020-02-25 06:10:28 
+img: https://static.coupangcdn.com/image/retail/images/2019/07/17/15/6/39c23a59-0a59-47b3-9599-d2a001a250c4.jpg 
+linkUrl: https://coupa.ng/bqUpGg 
+categories: [1002] 
+color: 43A047 
+price: 23700 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>많이 두텁지 않고 옷감질도 뛰어나네요.<br/> 감사합니다<br/>사이즈가 정사이즈라 100은  남편한텐 딱 맞았구요<br/>사이즈가 정사이즈라 남편한텐 딱 맞았구요<br/>색깔별 봉재선이 약간 티나긴하지만 입고있으니 금방 적응되네요^^<br/>색상 넘예쁘구요 옷감도 좋구요^^<br/>저는 95를 입으니 어깨 팔이 좀 크긴했는데 손목에서 잡아주니 괜찮았어요<br/> 
+"
+---

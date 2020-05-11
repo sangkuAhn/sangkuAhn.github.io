@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "아디다스 BRAVADA (FV8086) 운동화/신발" 
+description: 아디다스  ..
+date: 2020-03-20 17:12:52 
+img: https://static.coupangcdn.com/image/vendor_inventory/cf8c/5b02a0ec8938df89d65724893ba50eedc1221da3f151b3d7d960877a48c8.jpg 
+linkUrl: https://coupa.ng/buWVuS 
+categories: [1007] 
+color: 9E9D24 
+price: 40000 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>가성비 좋은듯 이뻐요<br/>저렴한가격 정싸이즈 너무좋습니다.<br/><br/> 
+"
+---

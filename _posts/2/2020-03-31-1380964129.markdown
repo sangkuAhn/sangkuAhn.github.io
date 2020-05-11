@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "은행방앗간 증숙 깐은행 10개입 (냉동), 900g, 1박스" 
+description: 은행방앗간 ..
+date: 2020-04-01 06:22:14 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/23/16/0/b71029d8-7069-4629-8e09-160562847d59.jpg 
+linkUrl: https://coupa.ng/bwOqFy 
+categories: [1012] 
+color: 4A148C 
+price: 25000 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>까져있는 은행이라 먹기 쉬워서 좋아요 깔끔하게 한팩씩 소량 포장되어있고 바로 볶아 먹을수 있어서 무척 좋네요!<br/>깨끗하게  껍질이  손질되있어서  좋아요.<br/>  한봉한봉씩  포장도있어서  실속적이고  맛도  좋아요.<br/><br/>하하하<br/> 
+"
+---

@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "가데 남성용 구두 GDH217" 
+description: 가데 남성 ..
+date: 2020-02-03 06:11:36 
+img: https://static.coupangcdn.com/image/retail/images/2018/12/28/14/6/80a0ad57-6cb5-4859-b900-d5cb36405a74.jpg 
+linkUrl: https://coupa.ng/bnWPaF 
+categories: [1007] 
+color: 43A047 
+price: 35180 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>개인적으로는 굽은 딱 적당하며 새구두여서 그런지 뒷꿈치가 좀 딱딱한 편입니다.<br/> 그 외 품질적으로는 가격대비에 상당히 좋은 편인 것 같습니다.<br/> 번창하셨으면 합니다.<br/><br/>딱맞는거 같네요 별로 크다는 느낌은 없네요<br/>신발보다 한치수 큰 270으로 구매했는데<br/>한치수큰것 구매요 좋습니다 다음에 또 구입할것 같아요.<br/><br/> 
+"
+---

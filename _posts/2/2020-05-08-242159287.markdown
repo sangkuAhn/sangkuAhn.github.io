@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "옷픈마켓 심플 브이넥 루즈핏 면 반팔 롱원피스" 
+description: 옷픈마켓  ..
+date: 2020-05-09 04:10:15 
+img: https://static.coupangcdn.com/image/vendor_inventory/ca32/be47dd2c906780a10e6ae7d254a213b5e428ef2cbbaee71c47d8d046c956.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=242159287&itemId=769337030&vendorItemId=4942308341&traceid=V0-113-c017666168ad6ca6 
+categories: [1001] 
+color: f44336 
+price: 13800 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>어깨수술한 와이프가 편하게 입고 벗을수있도록 시켜주었더니 맘에 든다고합니다!<br/>어떤체형가진분이 입느냐 다르게 보일수도778899분들은 편하실수도.<br/>.<br/><br/>오자마자 빨아서 건조시켜서 입었어요.<br/>딱좋아요.<br/>면티정도 두께이고 길이도 좋아서 여기다가 가디건이나 점퍼한개 쓱걸치고 양말에 운동화한개면 외출끝!  두개구입했는데 더 구입하려구요.<br/><br/>음... <br/>.<br/>처음 일을때 공감했습니다<br/>집에서 입기편한것같네요<br/>항상 맘에드는 옷만 잘선택할수있음 얼마나 좋을까.<br/>.<br/>^^<br/>후기보고 사는편인데.<br/>.<br/>어떤분이 푸대자루 같다고 하셨거든요<br/> 
+"
+---

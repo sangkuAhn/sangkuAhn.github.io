@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "머시따 세상 편한 바지" 
+description: 머시따 세 ..
+date: 2020-05-01 04:17:43 
+img: https://static.coupangcdn.com/image/retail/images/10900979363800-154e7ad0-b248-4b47-af1f-4599dc447547.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1203568422&itemId=2189087664&vendorItemId=70187074775&traceid=V0-113-0e9baedfe250fcea 
+categories: [1002] 
+color: 79ABFF 
+price: 9900 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>별로 사이즈도 작고 이게 무슨 황당하네요<br/>집에서입으려고샀는덕생각보다괜찮아요신축성도좋은것같아요<br/> 
+"
+---

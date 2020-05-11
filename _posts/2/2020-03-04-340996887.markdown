@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "언더아머 공식/남성 UA 서지 러닝화" 
+description: 언더아머  ..
+date: 2020-03-05 06:11:30 
+img: https://static.coupangcdn.com/image/vendor_inventory/d384/4154ad6fdaac5abdd9a7e8abe2d5ecc8760a2d810928236cb278cb768095.jpg 
+linkUrl: https://coupa.ng/bsscFq 
+categories: [1007] 
+color: FF6F00 
+price: 39500 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>가격대비 좋습니다.<br/><br/>가볍고 편해요.<br/><br/>가성비는 좋지만 고급스러운 느낌은 없어요<br/>정사이즈에 그립감도 좋고 매쉬소재라 운동할때 좋아요<br/> 
+"
+---

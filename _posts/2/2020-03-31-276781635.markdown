@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "뉴발란스 697 WL697CR 그레이" 
+description: 뉴발란스  ..
+date: 2020-04-01 06:17:32 
+img: https://static.coupangcdn.com/image/vendor_inventory/0a77/4936bdd9b4caa8706d0250b626bee9fe4b8d12c606d8cdd0e53d1f8873e0.jpg 
+linkUrl: https://coupa.ng/bwOplg 
+categories: [1007] 
+color: 7E57C2 
+price: 47900 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>디자인이 예뻐요<br/>발볼이좁아요<br/>신발 박스 훼손이 맘에 들진 않지만 나머지는 괜찮네요<br/> 
+"
+---

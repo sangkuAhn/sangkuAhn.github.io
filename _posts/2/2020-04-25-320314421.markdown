@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "논슬립 멀티 방수화 AB-02" 
+description: 논슬립 멀 ..
+date: 2020-04-26 04:54:09 
+img: https://static.coupangcdn.com/image/retail/images/2019/10/18/11/7/3455fdfa-581f-44fc-bfab-33791bc05154.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=320314421&itemId=1024977947&vendorItemId=5467565165&traceid=V0-113-5d4f717ad60c11aa 
+categories: [1007] 
+color: A566FF 
+price: 7980 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>근데 몇달 신었더니 발가락끝에 굳은살이 생겨 너무 아파요.<br/>주위에서 한치수 큰걸 사보라고 하기에 두달정도 더 신을꺼라 비싼건 구입하기 그렇고 다시한번더 주문해봅니다.<br/>제발 더이상 발가락이 안아프길 바래봅니다ㅠㅠ<br/>발가락골절때문에 집안에서도 쿠션높은 신발 찾다가<br/>발볼도 넓고 쿠션도 좋게 나와서 반깁스 풀고<br/>석달정도 신은거 같네요.<br/>비끄럽지않아 주방에서 신긴 좋아요.<br/><br/>오래 서서 일을 하다보니 발바닥이 넘 아픈데 .<br/>.<br/><br/>이거 신고 지냅니다.<br/> 충격도 없어서 살것같네요<br/>주문했는데<br/>쿠션감이 있어 좋아요<br/> 
+"
+---

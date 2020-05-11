@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "핑크공주 유아용 머리끈 케이스형" 
+description: 핑크공주  ..
+date: 2020-03-15 06:10:38 
+img: https://static.coupangcdn.com/image/retail/images/1998554225173-9acd7f0a-0543-4ece-ade4-0fce4b0e7b99.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=310168547&itemId=977822628&vendorItemId=5393304425&traceid=V0-113-3b103309dad59ab3 
+categories: [1003] 
+color: ff1744 
+price: 5490 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>색깔 다양하고 엉키지않는 매끈한 소재라서 더 좋아요!!!<br/>생긱보다 고무줄크기가 조금작네요.<br/>.<br/>아기머리 묶기는 괜찮네요<br/>앗 이거.<br/>.<br/>아주 작은 고무줄이라서7세지만 초등언니같은 머리숱을 가진 저희 아이는 쓰기 어려워요.<br/> 조카 주려구요<br/> 
+"
+---

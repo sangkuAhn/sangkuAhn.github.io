@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "캔버스 스니커즈 AR612FHEM" 
+description: 캔버스 스 ..
+date: 2020-04-17 04:59:38 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/09/18/7/2df3110a-0d11-428a-bbd7-23578b2b02ef.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1349694677&itemId=2377770540&vendorItemId=70373322483&traceid=V0-113-d943cef76aacb865 
+categories: [1007] 
+color: f44336 
+price: 7020 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>제가 225에서 230 신는데, 이건 230이 딱 맞네요  예뻐요, 아직 걸어보지 않아서 편한지는 모르겠어요<br/> 
+"
+---

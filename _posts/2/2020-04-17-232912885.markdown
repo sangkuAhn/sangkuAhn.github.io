@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "케이스위스 남성 여름 바람막이 자켓" 
+description: 케이스위스 ..
+date: 2020-04-18 04:51:34 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2018/06/20/15/9/74f3d521-10ac-4fae-a6b4-56c4241d1188.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=232912885&itemId=739836725&vendorItemId=3764826099&traceid=V0-113-62f9814571597dae 
+categories: [1006] 
+color: BF360C 
+price: 11200 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>마음에 드네요 이미지사진이랑 거의 같아서 좋아요<br/>사이즈 정사이즈 딱 맞구요 맘에 듭니다<br/>이가격에 어디가서 이런거 못삽니다 ㅋㅋ<br/>좋아요 색깔다른것 있으면 하나더 구매하고싶어요<br/>케이스위스 바람막이 구매 했습니다<br/> 
+"
+---

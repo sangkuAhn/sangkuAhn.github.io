@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "리복 상설제품 로얄 브릿지 3.0 운동화 DV8338" 
+description: 리복 상설 ..
+date: 2020-04-25 04:53:43 
+img: https://static.coupangcdn.com/image/vendor_inventory/944a/f07c9de13a5e42b129645b5117ea6cf53fa6ea1aa4480f8d43ba8dd104e9.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=327989261&itemId=1049166755&vendorItemId=70331695810&traceid=V0-113-b90db06b6ae94bea 
+categories: [1007] 
+color: FF6F00 
+price: 31500 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>생각보다 별로에요<br/>아들 사줬어요정 사이즈이쁘네요<br/>좀 커보이긴 하는데 커플로 신으니까 예뻐요^^<br/> 
+"
+---

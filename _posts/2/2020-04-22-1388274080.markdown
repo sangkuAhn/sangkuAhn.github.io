@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "오렌지다몸 아동용 슈즈 프린팅 청자켓" 
+description: 오렌지다몸 ..
+date: 2020-04-23 04:39:32 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/24/17/5/c8db4ffa-5a00-44ba-abb9-f7891c02fd8a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1388274080&itemId=2423851116&vendorItemId=70417929290&traceid=V0-113-86a36c0d9671a3b7 
+categories: [1005] 
+color: CF36BB 
+price: 22500 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>걍 입히려 합니다.<br/><br/>그거빼곤  괜찮아요^^<br/>그래서  아쉬운데로  별하나 뺍니다<br/>근데 한가지 똑딱이가 아니라서<br/>단추잠그는 식이라  좀불편함이 있네요 ㅜ<br/>디자인도이쁘고,가격도저렴해서 좋아요.<br/>근데 냄새가  많이나고 옷감두께가 좀얇고 힘이 없는 원단이네요,그리고 정사이즈 보다 좀 큰것 같아요<br/>사실 이 부분이 마음에 들어 저이 아이가 구매한거라<br/>옷은 예뻐요^^<br/>조금 많이 실망을 하였습니다.<br/>반품하려 했는데 아이가 그냥  입는다 해서<br/>지금입히기에도  좋구요<br/>질은 나쁘지 않고요 다만 사진상에서 본거랑 실사가 차이 좀 나네요<br/> 
+"
+---

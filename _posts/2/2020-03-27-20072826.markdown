@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "오가닉붐 베이직 싱글 칠부 우주복" 
+description: 오가닉붐  ..
+date: 2020-03-28 06:12:48 
+img: https://static.coupangcdn.com/image/retail/images/2017/04/26/17/5/645069e3-ab21-4e5a-8012-a0b95dded60d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=20072826&itemId=79769425&vendorItemId=4453611285&traceid=V0-113-c9d9de7810b6b971 
+categories: [1003] 
+color: 9E9D24 
+price: 16700 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>4월초 예정인 둘째를 위해 구매 했어요 ^^<br/>내년 여름에는 반팔로 입힐수 있을거 같아요^,^<br/>넉넉한 칠부? 긴팔?옷 입은 핏나오네요.<br/> 이뻐요.<br/><br/>무릎에 곰돌이도 너무 귀엽고 날 더워지면 아이에게 더 많이 입히게 될거 같아요.<br/><br/>반팔이라 40일 된 아이에게 입히니<br/>사이즈고민하다 80으로 했는데<br/>생각보다 더 얇아 보이긴 한데 이거 입 힐때 쯤 되면 여름일꺼라서 적당히 잘 맞고 얇기도 정당할것 같아요.<br/> 마음에 듭니다.<br/><br/>시원하고 배도 안쫄리니 아기한테 편해서 여름 내내 몇개 사다가 돌려입었어요 ㅋㅋ<br/>열많은 아이라 이거 입히고 스와들업 입히고 있어요.<br/><br/>오가닉이라 그런지 재질이 너무 좋아요.<br/><br/> 
+"
+---

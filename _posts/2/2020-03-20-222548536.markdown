@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "BT21 패턴 슬리퍼 쿠키" 
+description: BT21  ..
+date: 2020-03-21 06:17:21 
+img: https://static.coupangcdn.com/image/retail/images/2019/05/16/11/5/57679685-185c-433f-8a70-d3f0d1035a8c.jpg 
+linkUrl: https://coupa.ng/bu2sZH 
+categories: [1007] 
+color: 03A9F4 
+price: 9780 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>가벼운거 좋아하시는분은 괜찮을듯 합니다.<br/> 안신은 느낌!!<br/>귀여우니까 만족!<br/>그림이 잘 안나온다는 리뷰가 있어서 걱정했는데 너무 이쁘고<br/>딴데보다 훨씬 싸네요!<br/>바닥은 말랑말랑 쿠션 좋아요.<br/>ㅎㅎ<br/>사이즈가 정사이즈긴한데 한사이즈 더큰게있었음좋았지 싶네요<br/>사이즈는 조금 크게 사세여 240신는데 오래 못 신을듯요(아쉽)<br/>사진에서 처럼 선명하지 않아요.<br/> 전체적으로 튼튼해 보이진않아요.<br/><br/>색상도 약간 물빠진듯 히끄리한게... <br/><br/>엄청 가벼워요.<br/><br/>제가 생각했던 느낌은 아닌듯합니다.<br/><br/>중학교 이번에 올라가는데 넘 만족하고 신을수 있을듯!<br/> 
+"
+---

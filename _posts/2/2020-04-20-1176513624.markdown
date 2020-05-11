@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "오브치치 빅나염 오버핏 맨투맨 트레이닝복" 
+description: 오브치치  ..
+date: 2020-04-21 04:17:37 
+img: https://static.coupangcdn.com/image/vendor_inventory/1304/e4564e9569363e8a88b0cea9e83047b1465368a339b1b363a85e92d1b880.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1176513624&itemId=2155398668&vendorItemId=70088461189&traceid=V0-113-19550dd4b8c45ff5 
+categories: [1002] 
+color: f44336 
+price: 59500 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>바지나이키로고가 튿어졌네요... <br/><br/>수선맡겼습니다... <br/>그것만빼면최고!!<br/>정말좋긴한데... <br/>한번입었는데... <br/><br/>핏 .<br/>사이즈 다좋아요<br/> 
+"
+---

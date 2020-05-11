@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "사운드북 100개 버튼 NEW, 삼성출판사" 
+description: 사운드북  ..
+date: 2020-05-02 06:13:19 
+img: https://static.coupangcdn.com/image/retail/images/249588516328383-3dada0db-a10b-4d14-8ae7-4c9a1c67bc43.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=234179463&itemId=743788974&vendorItemId=4872078531&traceid=V0-113-91bca98c7644372d 
+categories: [1019] 
+color: FFB2D9 
+price: 16800 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>가격도 저렴하고 나오는 사운드 도 다양하고 동요부터 한글 영어 수 모두 담겨져 있어서 가성비 갑인 것 같습니다.<br/><br/>가성비 좋아요<br/>구성이 잘 되어있어 4살에게 너무 좋아요<br/>금방 적응하고  잘 가지고 놀아요<br/>도착하자 마자 18개월된  조카가<br/>소리크기 조절도 되고 잘 따라 하네요<br/>아이에게 눌러주니 너무 신나 합니다.<br/><br/>잘 가지고 놉니다.<br/> 구매 대만족 입니다.<br/><br/>흥미도 잘 가지고<br/> 
+"
+---

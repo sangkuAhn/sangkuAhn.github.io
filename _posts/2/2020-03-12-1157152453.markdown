@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "스타일오늘 봄신상 이중프릴 맨투맨 티 긴팔 티셔츠" 
+description: 스타일오늘 ..
+date: 2020-03-13 06:10:19 
+img: https://static.coupangcdn.com/image/vendor_inventory/6b30/70c935fc1a19b80b7bab73adcf64f5e5b86a898bf1f17d77bffc0e75cb1a.jpg 
+linkUrl: https://coupa.ng/btHN2r 
+categories: [1001] 
+color: FF6F00 
+price: 12400 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>노랑 핑크 두개시켰는데 생각보다 노랑 화사하고 귀여움<br/>맘에들어서 다른 색도 전부 구매했어요<br/>사춘기 들어가는지 초4 아이가 롱티처럼 입었어요<br/>예뻐요.<br/><br/>제가 170에 하리가 긴편인데 골반 빝부분까지 와서 안정감있고 좋아요<br/>품도 살짝 넉넉하고 요즘 입기 딱 좋은 두께입니다<br/>핑크주문후 입은거보더니 주변에서 예쁘다고해서 보라색 추가주문했어요.<br/>생각했던 보라는 아니였어도 너무예뻐요.<br/>  잘입겠습니다.<br/><br/>화면보다 살짝 연한빛의 옐로우인데 그래서 넘 예쁘네요<br/> 
+"
+---

@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "이미 어쩔 수 없는 힘듦이 내게 찾아왔다면, 강한별" 
+description: 이미 어쩔 ..
+date: 2020-05-05 06:13:31 
+img: https://static.coupangcdn.com/image/vendor_inventory/9bcd/6b9fbf247d0775e011fabf654f47c50f010cd8d80e354c638f823251e880.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1409845550&itemId=2446209961&vendorItemId=70439924526&traceid=V0-113-9574953f843fe0a5 
+categories: [1019] 
+color: 79ABFF 
+price: 12150 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>다시는 쿠팡에서 책 안살꺼에요 .<br/>.<br/><br/>똑같은 말들의 되풀이... <br/> 같은 말 반복하시느라 고생하셨어요.<br/>.<br/> 온라인으로 제목에 이끌려 사버려서 후회 중입니다.<br/> 리뷰라도 꼼꼼히 보고 살 걸 그랬어요.<br/>.<br/><br/>집에만있기 우울한데 책제목에 끌려 샀어요.<br/>  가볍게읽기시작했는데 기분이 나아지는거같아요<br/> 
+"
+---

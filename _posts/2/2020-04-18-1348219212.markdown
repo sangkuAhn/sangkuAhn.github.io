@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "슈프림 Supreme/ 후드 긴팔티셔츠_슈프림 오버핏 티셔츠" 
+description: 슈프림 S ..
+date: 2020-04-19 04:10:17 
+img: https://static.coupangcdn.com/image/vendor_inventory/d850/c80f40271531a7cefb1e524875e9ca1fe76da1a562e081b46da5e055261e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1348219212&itemId=2375866560&vendorItemId=70371463702&traceid=V0-113-773f1ea971179343 
+categories: [1001] 
+color: FF6F00 
+price: 18400 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>맘에 들어요!!<br/>오버핏 후드 즐겨입어서 구매했는데 만족해요! 주문하고 칼배송되고 화면 그대로 똑같아요 사이즈 넉넉해서 봄날씨에 청자켓안에, 케쥬얼 점퍼안에 코디하니깐 예쁘고 날 더 풀리면 단품으로 입으려구요! 친구랑 남친이 예쁘다고 칭찬해줬어요 ㅎㅎ<br/>원단도 약간 도톰하니 좋은데 너무 오버핏이에요 특히 소매부분이 너무커서 접어야만 입을수 있어요 그것이 좀 불편합니다 하지만 끈처리도 잘되어있고 편하게 입고 있어요<br/>재질도 좋고 두께도 적당해요 요즘 입기에 좋음<br/>청바지랑 입으니 색감도 이쁘고 동생도 이쁘다고 하네요ㅋㅋ<br/> 
+"
+---

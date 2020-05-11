@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "채니봉봉 아련로즈마리 헤어핀세트" 
+description: 채니봉봉  ..
+date: 2020-03-15 06:10:38 
+img: https://static.coupangcdn.com/image/retail/images/2020/01/09/11/3/c6940beb-156f-4351-8a94-dd0d59f3d4f1.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=1163162036&itemId=2140056476&vendorItemId=70138456978&traceid=V0-113-5a27462f9aa3e942 
+categories: [1003] 
+color: 212121 
+price: 9900 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>가격대비 예쁘고 괜찮아요!<br/>넘귀여워요<br/>다른걸끼자니 쌩뚱맞아서<br/>생각보다 괜찮아요! 그런데 역시나 착한 가격때문인지 똑딱이가 억세요 부드러운 편은 아닌거 같아요<br/>선물용으로 구입했는데, 진짜 요 연보라 색감이랑 앙증맞은 사이즈 다양한 모양들은 진짜 너무 탐났어요<br/>아직어려서 잔머리가 많이빠져서<br/>한세트더구매했어요 ㅋㅋㅋ<br/>한쪽에만꼽으니 반대쪽이 잔머리가많고<br/> 
+"
+---

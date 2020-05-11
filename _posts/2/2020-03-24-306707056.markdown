@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "나이키 에어 맥스 캠던 슬라이드 (BQ4626-003)" 
+description: 나이키 에 ..
+date: 2020-03-25 06:17:29 
+img: https://static.coupangcdn.com/image/vendor_inventory/6a5a/b085bac33382058a4a676155141786c36423f828844c7ede512e01a9b5f0.jpg 
+linkUrl: https://coupa.ng/bvGUoJ 
+categories: [1007] 
+color: BF360C 
+price: 69000 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>너무 작다.<br/><br/>좋아요.<br/><br/> 
+"
+---

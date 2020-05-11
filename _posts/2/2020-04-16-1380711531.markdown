@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "LG전자 HD LED 80cm TV 32LM560BENA, 스탠드형, 자가설치" 
+description: LG전자  ..
+date: 2020-04-17 06:05:42 
+img: https://static.coupangcdn.com/image/retail/images/284020852185072-0261c79d-79cb-4b8e-a3a5-75e5dc1869cb.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1380711531&itemId=2415089544&vendorItemId=70409444571&traceid=V0-113-26af75de67632493 
+categories: [1016] 
+color: f44336 
+price: 277430 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>그거빼곤 좋아요<br/>내수용이 아닌건지 리모콘이 영어가 써있는데 쓰는데는 문제 없어요!<br/>로켓이라 시켰는데 빠르고요<br/>리모콘이 너무 조잡함 이전 채널 가기가 없네요<br/>배송비 만큼 배송이 빠르네요<br/>설명서도 자세해서 설치하는데 문제 없더라구요<br/>저렴한 가격에 좋은 티비 잘산거같아요!<br/>처음에 박스가 왔는데 티비가 안들어있는줄 알았어요^^;<br/>티비를 바꾸려고 시켰는데 베젤도 얇고 무게도 엄청 가벼워요<br/>화면도 깨끗하고 좋았어요.<br/>.<br/> 단지 소리가 전에 쓰던 제품과 달리 약간 멀리서 들리는 것깉은.<br/>.<br/> 암튼 소리는 좀 불만이네요.<br/><br/>화질도 생각보다 좋은데<br/> 
+"
+---

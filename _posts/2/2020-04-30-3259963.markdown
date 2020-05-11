@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "메일" 
+description: 메일 ..
+date: 2020-05-01 04:54:02 
+img: https://static.coupangcdn.com/image/retail/images/2019/07/02/16/6/1fec9da2-71db-47ae-9a9e-d6f25500b0a2.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=3259963&itemId=15095907&vendorItemId=5012556679&traceid=V0-113-bc7b4c41231117eb 
+categories: [1007] 
+color: AAD34A 
+price: 26750 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>1년 전 여름에 샀던건데 지금까지 튼튼하게 잘 신고있어요ㅋ 핑크라 여성스럽고 어디든 코디하기 좋더라구요 발도 편하고 아주 만족해요♡<br/>디자인은 심플하면서 화면 그대로입니다<br/>우선 발이 편안하구요 운동화235 신는데 저는 구두나 샌들은230 이 맞더라구요  이번에도 230 구매했는데  다 행히도 딱 맞았어요<br/>저는 아줌마라 굽이높으면 어쩌나했는데 앞굽이 있어  발을 편안히 잡아주는것같아 발이 불편하거나 높다라고 느껴지지않았어요 이정도 가격에 이정도 신발이면 개인적으로 훌륭하다고 생각합니다 오래 신을 신발이라면 다시 생각하시는게 나을것같고 한해  편안하게 신으실것같으면 강추입니다<br/>조금 큰건가요끈이 꽉 조이질 못하고 좀 헐거워서 걸을때 발에 힘이 많이 들어가네요.<br/>.<br/>앞으로 쏠리고ㅜㅜ 미끄럼방지용 스타킹 신어야할듯요.<br/>저렴히 구매했지만 딱 그만큼의 상품이에요<br/> 
+"
+---

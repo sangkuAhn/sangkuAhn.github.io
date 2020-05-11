@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "리틀래빗 아동용 기모 D 매직미키 상하의세트" 
+description: 리틀래빗  ..
+date: 2020-02-06 06:11:07 
+img: https://static.coupangcdn.com/image/retail/images/2019/11/04/15/0/f1b17880-529b-40be-bd8c-d2d64b2d99a0.jpg 
+linkUrl: https://coupa.ng/bokpNA 
+categories: [1005] 
+color: 4CAF50 
+price: 21750 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>23개월 87cm 여아에요<br/>다른옷과비교하니정말그래요<br/>바지는140할껄ㅜㅜ<br/>바지는짧고<br/>발란스좀잘맞추어 디자인 및 재단하라고 본사에<br/>색도 이쁘고 재질도 좋아요<br/>애기가 입었는데 옷도 너무 기엽고 나무 좋아해요!! 고생하시고 수골하세요!!<br/>윗옷은 130하고<br/>이거 윗도리대박커요<br/>입혀도그렇고ㅜㅜ<br/>지금 딱 맞아서 한치수 큰거 사도 될 거 같아요<br/>팁넣어주세요<br/>평소 100사이즈 입혀요<br/> 
+"
+---

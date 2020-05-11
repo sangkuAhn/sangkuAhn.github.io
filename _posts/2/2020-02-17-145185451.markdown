@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "르오트/ 고급소재 라운드 니트" 
+description: 르오트/  ..
+date: 2020-02-18 06:10:31 
+img: https://static.coupangcdn.com/image/vendor_inventory/dd2f/6a87b636200106a50ef1ebc873df714236a8c7ef4ab5ab2ae3995a6eff64.jpg 
+linkUrl: https://coupa.ng/bpLWEV 
+categories: [1002] 
+color: 4CAF50 
+price: 2900 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>가격대비 가성비 좋아요 섬유표시에 아크릴100프로아주 부드럽진않고 중간정도임<br/>넘 괜찮네요.<br/> 소재도 가성비 괜찮고 디자인도 좋아요 잘 입을께요<br/>말도 안되는 가격에 호기심에 주문했는데<br/>이 가격에 판매할 수 있는 제품은 아닌데 완전 득템했어요 66반인데 아주 편하게 잘맞고 색상도 고급스러워서 아주 만족합니다  사이즈만 맞으면 얼른 사세요<br/> 
+"
+---

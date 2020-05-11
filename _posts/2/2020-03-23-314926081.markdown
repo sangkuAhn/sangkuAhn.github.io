@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "쁘띠뮤 아동용 캐롯쮸리가디건" 
+description: 쁘띠뮤 아 ..
+date: 2020-03-24 06:14:59 
+img: https://static.coupangcdn.com/image/retail/images/2019/10/10/11/2/6e2518c3-499f-4711-b6cf-5f4694a3aea0.jpg 
+linkUrl: https://coupa.ng/bvweva 
+categories: [1005] 
+color: FF6F00 
+price: 6000 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>가격대비 좋아요.<br/> 그냥 집에서만 입을 거라서<br/>괜찮아요.<br/> 밖엔... <br/> 입고가기... <br/> 좀 없어보이긴 합니다.<br/><br/>싸게 잘샀어요 조금 크게 나온듯요<br/>옷은 이쁘고  면재질이라 좋아요쪼꼼 도톰한듯??ㅎ<br/>옷이 저렴해서 별 기대안했는데 생각보다 너무 괜찮아요^^득템했어요<br/>좋아요<br/>첫째 베이지로샀었는데  너무커서 못입혔었거든요ㅎ<br/> 
+"
+---

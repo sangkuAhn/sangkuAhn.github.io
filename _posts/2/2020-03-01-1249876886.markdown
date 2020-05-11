@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "오지다/ 레드포인트 스판 면팬츠 5컬러" 
+description: 오지다/  ..
+date: 2020-03-02 06:10:18 
+img: https://static.coupangcdn.com/image/vendor_inventory/6089/ca636c693e5a8098e455059628676844fa4ef6531328ffdf4f35cc12f3b8.jpg 
+linkUrl: https://coupa.ng/brV0Yc 
+categories: [1001] 
+color: 212121 
+price: 7900 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>상품 포장도 좋고  신축성도 좀습니다 다만 네이비색만 다른색보다 작게 나온듯 싶어요 다른 사이즈는 잘맞는데 네이비색만 ㅠㅠ 반품 하기도 그렇고  살좀 빠지면 입을게요 ㅎㅎ  다른색상은  잘맞아요^^<br/>청이라기보단 면이라기보단 엄청 빤질?거리는덕에 쫌 튀는거같아 그저그렇네요<br/>핏은이뻐요.<br/>허리뒷쪽이내려오고,반질거려요.<br/>그래도배송비없이이가격이면몇반만입어도손해는아닌것같아요.<br/><br/> 
+"
+---

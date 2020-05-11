@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "아워큐 코듀로이3부 멜빵바지" 
+description: 아워큐 코 ..
+date: 2020-02-18 06:11:10 
+img: https://static.coupangcdn.com/image/vendor_inventory/c9e9/3eedcd1dbb95d165975ef2145c4e0ba7194cbbf87f9f1d43a9018a8e72c8.jpg 
+linkUrl: https://coupa.ng/bpLWYl 
+categories: [1005] 
+color: 43A047 
+price: 7900 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>바지 재질이 좋긴 하는데 너무 크게나와요<br/>좋아요<br/> 
+"
+---

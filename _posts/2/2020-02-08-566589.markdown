@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "몽블랑 마이스터스튁 명함지갑 14108" 
+description: 몽블랑 마 ..
+date: 2020-02-09 06:11:51 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/01/28/3006900517/2e28a471-3200-4a5f-ac63-8a6b735dd551.jpg 
+linkUrl: https://coupa.ng/boGhOn 
+categories: [1008] 
+color: FF6F00 
+price: 102000 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>가격이 싸서 걱정했는데 전혀 그럴 필요가 없네요.<br/><br/>두개사서 하나 선물주고 제가 쓰는데 깔끔하고 좋네요<br/>만족스러운 상품입니다.<br/><br/>포장도 깔끔하고 선물받은 지인이 너무 좋아했어요^^<br/>가격이 싸서 걱정했는데 전혀 그럴 필요가 없네요.<br/><br/>두개사서 하나 선물주고 제가 쓰는데 깔끔하고 좋네요<br/>만족스러운 상품입니다.<br/><br/>포장도 깔끔하고 선물받은 지인이 너무 좋아했어요^^<br/> 
+"
+---

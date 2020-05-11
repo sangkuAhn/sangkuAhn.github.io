@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "타미힐피거 타미힐피거 크루넥 기모 맨투맨" 
+description: 타미힐피거 ..
+date: 2020-03-05 06:10:27 
+img: https://static.coupangcdn.com/image/vendor_inventory/d671/86281f31f66c2f76b58c427240bde7d6ee71a262ec178c7c588951130c22.jpg 
+linkUrl: https://coupa.ng/bssb7B 
+categories: [1002] 
+color: 7E57C2 
+price: 33900 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>사이즈 미스로 교환할까하다가 요즘은 박시하게 입는것도 괜찮을듯 싶어 그냥 입으라고했어요<br/>안감이 부드러운 기모라서 도톰해요 로고는 작지만 포인트로 들어가있고 목부분도 예뻐요 사진은 좀 밝게 나왔는데 완전 검은색입니다 저렴하게 잘 구매했습니다!<br/>어깨부분이 조금 과하다는거 빼고 만족합니다 가격도 싼거 같고요 좋네요<br/> 
+"
+---

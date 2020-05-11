@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "모스마켓 어린이 먼지차단 입체마스크" 
+description: 모스마켓  ..
+date: 2020-02-28 06:11:52 
+img: https://static.coupangcdn.com/image/vendor_inventory/4b42/0b855c629dbc5db04d774b4582c354488a5d848a3ecd1811cac54474d874.jpg 
+linkUrl: https://coupa.ng/brsdxi 
+categories: [1008] 
+color: 43A047 
+price: 2500 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>6세 8 세 충분하고 얼굴 많이 가려집니다<br/>귀아프지않고 귀여운 캐릭이라  다른 사람들도 이쁘다고하네요<br/>많이파세요<br/>방한용으로 적합하지만 급할때를 대비해서  구비해놨어요 중국제조라 걱정되서 오자마자 다 세탁했어요 끈이 탄력있어 좋고 줄이는 장치가 작고 부드러워 마음에 듭니다<br/>이시기에  2일 걸려배송됐습니다<br/>코로나덕에 요 마스크 엄청 잘 끼고 놀아요.<br/><br/>품질우수합니다<br/> 
+"
+---

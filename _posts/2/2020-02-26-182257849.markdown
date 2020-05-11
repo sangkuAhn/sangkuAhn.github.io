@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "마블 캡틴아메리카 테크 책가방세트 MV0269" 
+description: 마블 캡틴 ..
+date: 2020-02-26 12:28:20 
+img: https://static.coupangcdn.com/image/retail/images/2019/02/01/12/7/8aa808ab-16cb-45e0-8ce4-bf5861711822.jpg 
+linkUrl: https://coupa.ng/bq8BYg 
+categories: [1005] 
+color: 7E57C2 
+price: 40570 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>가격이 많이 다운되었고 괜찮아요.<br/> ^^ 최고입니다.<br/><br/>비싸고 좋은거는 소용이 없더라구요<br/>아들랑구 입학선물<br/>아들랑구가 너무 좋아해요<br/>우리아들 첫 책가방인데 아주 좋아하네요 감사합니다<br/>일단은 애들이 원하는걸 골라보라 하고 주문했어요<br/> 
+"
+---

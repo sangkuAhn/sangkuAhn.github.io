@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "카카오프렌즈 아동용 땡땡 장화" 
+description: 카카오프렌 ..
+date: 2020-04-21 04:39:21 
+img: https://static.coupangcdn.com/image/retail/images/2020/01/22/20/9/5413157b-0e3f-4e9c-b0f6-d859b970fc81.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1215138371&itemId=2204775209&vendorItemId=70202626525&traceid=V0-113-d99938916c4a1fbb 
+categories: [1005] 
+color: FFB2D9 
+price: 10250 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>가격이싸서 별루 일꺼라 생각했는데 마감도 그렇고 너무 괜찮아요<br/>완전 귀여워요<br/>운동화170신는 여아 여유있게 190주문했어요 벗겨지지않네용<br/>운동화180인데 200시켯더니 크긴해도 깔창넣어서 신으면 댈꺼같아요 .<br/> 갯벌갈때 신으려고 주문햇는데 튼튼하고 라이언 귀엽고 맘에드니오<br/>초등 2학년 조카 사줬눈데 귀염이 더 해졌네요<br/> 
+"
+---

@@ -1,0 +1,15 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 베이스알파 키즈 유아동용 동물친구들 양말 7족 세트" 
+description: TOP.51 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/retail/images/42850760864915-9626b678-6bdd-4e9e-ae9d-03d2c368d129.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=319682871&itemId=1022545452&vendorItemId=5462946598&traceid=V0-113-d3b9b8d5667b467c 
+categories: [1004] 
+color: 006064 
+rank: 51 
+price: 7990 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>구매하실때 참고하세요<br/>디자인도 맘에 들고 발바닥에 고무로 되어 있어 마음에 듭니다.<br/><br/>면은 두껍지 않아 간절기에 신기 좋아요<br/>발 사이즈 170정도이며 신발을 180을 신는 아이예요<br/>선물용으로 샀는데 귀여워서 2세 발 크기보다 클것 같지만 좋을것같아요!!<br/>제가 생각했던 건 딱 발목까지 였는데 다 올라오더라구요<br/>제가 생각했던거 보다 발목의 길이가 길어요<br/>구매하실때 참고하세요<br/>디자인도 맘에 들고 발바닥에 고무로 되어 있어 마음에 듭니다.<br/><br/>면은 두껍지 않아 간절기에 신기 좋아요<br/>발 사이즈 170정도이며 신발을 180을 신는 아이예요<br/>선물용으로 샀는데 귀여워서 2세 발 크기보다 클것 같지만 좋을것같아요!!<br/>제가 생각했던 건 딱 발목까지 였는데 다 올라오더라구요<br/>제가 생각했던거 보다 발목의 길이가 길어요<br/> 
+"
+---

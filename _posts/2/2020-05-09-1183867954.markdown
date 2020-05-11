@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "아디다스 반바지 남성용>>스포츠 바지" 
+description: 아디다스  ..
+date: 2020-05-10 02:46:33 
+img: https://static.coupangcdn.com/image/vendor_inventory/60f1/c300331aeda43e9ef084aeb98807261002c24982e8af6e6e384246f84e84.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1183867954&itemId=2164250191&vendorItemId=70533538953&traceid=V0-113-a85d08d3d95321cb 
+categories: [1006] 
+color: A57F92 
+price: 13300 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>가격대비 괜찮아요.<br/><br/>받아보고 너무얇아서 놀라긴했네요.<br/><br/>생각보단 작네요 주머니도 없어서... <br/><br/> -<br/> -;<br/>운동복으로 쓰려고 했는데 여름에 써야 될것 같습니다^^<br/>입으니 그렇게 비치진않네요<br/>집에서 입기엔 좋은 제품입니다^^<br/> 
+"
+---

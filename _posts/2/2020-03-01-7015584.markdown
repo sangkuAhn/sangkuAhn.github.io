@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "인벨로 IM-03 자전거 마스크" 
+description: 인벨로 I ..
+date: 2020-03-02 06:11:23 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2016/09/05/0/1/e4e1eaac-2f43-4d1c-8edb-7590d7748986.jpg 
+linkUrl: https://coupa.ng/brV1q8 
+categories: [1006] 
+color: 212121 
+price: 2800 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>2주째 사용중인데 흘러내리지도 않고 잘 쓰고있습니다<br/>고정 잘 되지도 않지만 머리 묶어서 억지로 고정 시키고 있어요.<br/> 그래도 턱 부분이 남는 건 어쩔 수가 없네요ㅠ.<br/><br/>안경에 김이 서리지않아서 정말 좋아요<br/>일단 성능 자체는 좋아요.<br/> 미세먼지 완벽차단! 그러나 고정할 수 있는 게 있었다면 더 좋았을 거 같아요.<br/> 사이즈 프리는 저에게 안 맞나 봐요 ㅠㅠ<br/>제 얼굴이 너무 작아서 자꾸 흘러내리고 위로 쓰라기에 쓰긴 한데,<br/>제품은 사진상과 동일하며 다만 생각했던것보다 성인이 사용하기엔 다소 작은 사이즈 같습니다.<br/> 그 외에 배송일정과 호흡하는데는 무리없이 편합니다.<br/><br/> 
+"
+---

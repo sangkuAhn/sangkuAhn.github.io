@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "타이틀리스트 한줄 라인 카라티셔츠 골프웨어, 화이트" 
+description: 타이틀리스 ..
+date: 2020-04-17 04:51:26 
+img: https://static.coupangcdn.com/image/vendor_inventory/b209/006a91a6b1ac12379b2a487341060e94e2bf90b79c966ebfd10271c9a9e3.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1384948521&itemId=2419795916&vendorItemId=70413971005&traceid=V0-113-8e5e0055255fe464 
+categories: [1006] 
+color: 9E9D24 
+price: 58000 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>괜찮아요<br/>냄새나고짜퉁같은느낌<br/>마음에 듭니다<br/>정사이즈에 원단좋고<br/> 
+"
+---

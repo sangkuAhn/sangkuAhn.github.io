@@ -1,0 +1,15 @@
+---
+layout: post 
+title:  "리셋 남성용 스킵 라운드 니트" 
+description: TOP.54 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/retail/images/2019/08/05/14/8/c2ede776-de6f-4eb7-a073-0482390fcf31.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=274772854&itemId=868079105&vendorItemId=5196788895&traceid=V0-113-bf1088abaffa0a34 
+categories: [1002] 
+color: 9E9D24 
+rank: 54 
+price: 22900 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>가성비 좋고 색감이나 옷감 좋네요.<br/> 다만 정전기로 인해 생각지도 못한 전기마사지를 받을 수 있습니다.<br/><br/>안에 아무것도 안입으면 약간 아줌마 스러운 옷이네요.<br/>.<br/> 붉은색 계열이라 그런가봐요.<br/>.<br/> 사진처럼 코디하면 괜찮은데 약간 얇은감이 있고요... <br/> 정 싸이즈 보다 작은 느낌도 있습니다.<br/><br/>평소 오버핏을 좋아해서 그런지 예상과는 좀 달랐습니다.<br/> 재질도 약간 거칠고 조금 작게 나온 것 같은 느낌도 들어요.<br/><br/> 
+"
+---

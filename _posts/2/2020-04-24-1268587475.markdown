@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "세이스타일 여성용 데니 언발 양트임 롱티셔츠" 
+description: 세이스타일 ..
+date: 2020-04-25 04:10:14 
+img: https://static.coupangcdn.com/image/retail/images/2020/02/13/17/1/59690bf9-1e7d-4c41-a636-b6f1548dd4e9.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1268587475&itemId=2272444004&vendorItemId=70269647607&traceid=V0-113-393c02616b18c5b9 
+categories: [1001] 
+color: 4CAF50 
+price: 10900 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>디자인도  괜찮고  길이도  딱이고  제가  찾던  옷인것  같아요 바느질  상태도  좋은것  같구요  괜찮은것  같아요<br/>백프로면은아닌듯하네요<br/>사이즈도 잘맞고 사진과 동일합니다.<br/><br/>엉덩이도 가려주고 예쁘게 입겠습니다.<br/><br/>운동할때입으려했는데하루입고  ㅠ<br/>편하게 잘 입겠습니다.<br/><br/> 
+"
+---

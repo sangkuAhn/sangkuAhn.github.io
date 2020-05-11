@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "뉴베라 멀티핏 아쿠아슈즈" 
+description: 뉴베라 멀 ..
+date: 2020-02-13 06:11:32 
+img: https://static.coupangcdn.com/image/retail/images/2019/07/25/17/6/52240c32-da89-481d-8bfc-2f08ad886180.jpg 
+linkUrl: https://coupa.ng/bo5zEV 
+categories: [1007] 
+color: ff1744 
+price: 9600 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>가격대비 착용감이 좋고 질도 괜찮아요.<br/><br/>가격이 9900원이라 이번 한번 신고 말아야지 생각했는데,<br/>가족여행을 가게되어 물놀이 용품을 준비하다보니 엄마<br/>살짝 큰데 벗겨질정도는 아니라 잘 신고 놀았어요.<br/><br/>심지어 같이 온 지퍼백도 그냥 비닐이 아니라 말랑말랑<br/>엄마도 이거 신고 물놀이 하고 해변을 걸으니 좋다고 하시네요.<br/><br/>워터슈즈가 없어서 쿠팡에서 주문했어요.<br/><br/>좋더라구요.<br/><br/>평소 245신는데 작다는 평이있어서 조금 크게주문했더니 적당히 여유있고 편해요<br/>평소에 저희엄마는 250을 신으세요^^<br/> 
+"
+---

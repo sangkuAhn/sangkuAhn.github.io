@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "미니비 아동용 루틱 맨투맨 상하의 세트" 
+description: 미니비 아 ..
+date: 2020-03-23 06:14:06 
+img: https://static.coupangcdn.com/image/retail/images/2019/09/30/11/9/f503e7e4-4265-433d-87cf-22f975af0947.jpg 
+linkUrl: https://coupa.ng/bvl5sK 
+categories: [1004] 
+color: ff1744 
+price: 9900 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>딱맞을거라곤 예상했는데 4세 아이가 입긴엔 살짝 작네요<br/>배송은 빠르고 상품도 만족해요<br/>배송은 빨라서 좋아요<br/>상품은 6세 아이가 입긴엔 사이즈가 살짝 작아요<br/>쨍한 컬러감이 이뻐요.<br/> 갠적으로 보라보다 파랑이 이뻐요<br/>딱맞을거라곤 예상했는데 4세 아이가 입긴엔 살짝 작네요<br/>배송은 빠르고 상품도 만족해요<br/>배송은 빨라서 좋아요<br/>상품은 6세 아이가 입긴엔 사이즈가 살짝 작아요<br/>쨍한 컬러감이 이뻐요.<br/> 갠적으로 보라보다 파랑이 이뻐요<br/> 
+"
+---

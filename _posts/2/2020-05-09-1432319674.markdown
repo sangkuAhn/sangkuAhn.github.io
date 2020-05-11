@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "플루크 아이디어 네온 그래픽 반팔 티셔츠 FST143" 
+description: 플루크 아 ..
+date: 2020-05-10 02:17:33 
+img: https://static.coupangcdn.com/image/retail/images/172091168968106-c85b4152-6cd3-402a-94c1-86e3edd465e5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1432319674&itemId=2473830546&vendorItemId=70166196488&traceid=V0-113-33bc1ea932c6a75f 
+categories: [1002] 
+color: 006064 
+price: 15800 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>보기에 많이 오버핏 같았는데 청바지랑 입으니<br/>사이즈딱임<br/>좀 크긴 한데, 이쁘고 좋아요!!<br/>핏이 예뻐요!<br/> 
+"
+---

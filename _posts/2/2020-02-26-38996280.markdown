@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "헬로카봇 카봇입체마스크" 
+description: 헬로카봇  ..
+date: 2020-02-27 06:11:12 
+img: https://static.coupangcdn.com/image/vendor_inventory/6dd0/f7c5dc545785a90639028713f047d6ac137870c357024c909b47de98297d.jpg 
+linkUrl: https://coupa.ng/brg4Lt 
+categories: [1005] 
+color: 212121 
+price: 5200 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>급해서 구매하기는했지만  가격이 비싼느낌<br/>끈조절 되는... <br/>.<br/><br/>사람 낚지마시고<br/>아이가 얼굴이 작은편이라 건조기 돌렸어요.<br/> 딱 맞게 줄어 좋아요.<br/><br/>약국가서 사지... <br/>.<br/> 사진 2개로 해놓고 사람엊갈리게 한개에 무료배송 5300원 어퍼지면 코닿을때 약국인데 거기서살껄 상품평도 사람 엊갈리게하고<br/>완전 실패입니다<br/>제품은 그냥 약국에 오천원에 파는 마스크입니다<br/>캐릭터는 아이가 좋아하네요<br/>한개만 발송된다고 크게 적어놓으세요<br/> 
+"
+---

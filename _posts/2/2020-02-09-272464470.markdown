@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "맘스케어 딸기 바디수트세트" 
+description: 맘스케어  ..
+date: 2020-02-10 06:10:48 
+img: https://static.coupangcdn.com/image/retail/images/2019/07/30/18/9/cf7e6157-1cc8-405b-84fb-405fb12b0263.jpg 
+linkUrl: https://coupa.ng/boL1kQ 
+categories: [1003] 
+color: 212121 
+price: 22800 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>두께감은 따뜻한봄 가을용이에요 @<br/>딸기슈트아넘귀여워요 아직안입혀봣는데<br/>빨강도 화면 처럼 이쁜빨강은 아니고 약간 어두움.<br/>.<br/><br/>사이즈는 한치수 크게 주문해도 될꺼같아요<br/>세탁해서 언능입혀봐야겟어요색상 제질 다괜찮아요<br/>입히면 귀여운 맛에 입음.<br/>.<br/><br/>젤 작은사이즈 인데도 커도 너무큼 (3개월 6키로 아기)<br/> 
+"
+---

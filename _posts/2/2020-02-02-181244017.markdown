@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "앨리스디자인 툭툭 미니블럭 대, 혼합 색상" 
+description: 앨리스디자 ..
+date: 2020-02-03 06:14:28 
+img: https://static.coupangcdn.com/image/retail/images/2019/01/28/11/9/1030c6ea-4739-4a70-850e-add62f3e57ef.jpg 
+linkUrl: https://coupa.ng/bnWQh7 
+categories: [1020] 
+color: 03A9F4 
+price: 6850 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>4세 미만이나 호기심 너무 많은 아이는 잘 살펴주세요<br/>8mm인줄  알고 구매했는대 10mm제품인가봐요.<br/>.<br/><br/>너무 잘 놀아서 쿠팡검색하니 블럭이 있네요♡<br/>도안 보고 만드는 식으로 옆으로 끼는건 잘 끼워 지는데 쌓기 블럭 식으로 하는건 결합이 잘 안 되서 우수수 떨어지는게 많아요.<br/><br/>바로 구입해서 애기가 잘 갖고 놀고 있어요<br/>알이 완두콩정도 크기에요<br/>애기가 문구점에서 작은거 샀는데<br/>어디에도 블럭사이즈가 안나와있어서.<br/>.<br/>에휴.<br/>.<br/><br/> 
+"
+---

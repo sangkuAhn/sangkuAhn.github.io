@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "안개나라 카네이션 팝업카드, 혼합 색상, 1세트" 
+description: 안개나라  ..
+date: 2020-05-05 06:28:01 
+img: https://static.coupangcdn.com/image/retail/images/2018/04/30/9/1/c23b4ac6-d19d-4544-9040-fd1583c760c0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=87660197&itemId=274946318&vendorItemId=3665836399&traceid=V0-113-b1c67f2a73ba12d3 
+categories: [1021] 
+color: 006064 
+price: 5010 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>생각보다 예쁘네요.<br/><br/>화면보다는 덜화사하네요ㅠㅠ<br/> 
+"
+---

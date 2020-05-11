@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "Brunch Brother 팝아이 슬리퍼(캐릭터 여성슬리퍼)" 
+description: Brunc ..
+date: 2020-02-09 06:11:38 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2018/05/03/0/9/f2f35020-cc5a-4be1-8ded-e34b9cf78ee0.jpg 
+linkUrl: https://coupa.ng/boGhLF 
+categories: [1007] 
+color: 212121 
+price: 13000 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>235보다 더 작은듯 해요<br/>귀여워요 학교 실내화로 좋아요 비오는날 물찬 느낌 없대요.<br/><br/>너무귀여워요.<br/>.<br/><br/>사무실에서 너무 애같이 않게 검정색으로 조신한척 하면서 귀여운거 신기 힘든데 딱이예염<br/>사이즈가 240치고는 너무 작습니다<br/>사이즈도 신발이 넘나 긔여워 보입니당<br/> 
+"
+---

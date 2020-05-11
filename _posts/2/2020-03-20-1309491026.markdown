@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "HKLP 일회용 마스크 50개입 재고보유 3중 필터 임의의 색상" 
+description: HKLP  ..
+date: 2020-03-20 17:14:04 
+img: https://static.coupangcdn.com/image/vendor_inventory/a2dd/9cd84ab513672460f3d64ca35fa6eb0a97bb5b5e2ce3b14db49a2637c54c.jpg 
+linkUrl: https://coupa.ng/buWVZS 
+categories: [1008] 
+color: 03A9F4 
+price: 21900 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>  후기 다시 올려요  생각할수록 너무 비싸고 기분 나빠요  마스크 팔아서 얼마나 재벌되시려고... <br/>.<br/> ㅜㅠ<br/>그동안 코로나19로 마스크 구입이 하늘에 별따기... <br/>.<br/>.<br/><br/>너무 필요해서 급하게 구입요  가격은 비싸게 주고 구입<br/>벌써 4개나 줄줄 끊기네요<br/>분명50 매주문했는데두장이  부족ㅠ 하시다보면 그럴수있죠<br/>이딴쓰레기를 6만원가까이 팔다니 어이가없네요<br/>이런시국에 마스크로 장난질치지마세요<br/>착용하면 끈이 바로 끊어집니다<br/>했는데 그냥 그냥 없어서 아쉬워서 쓰려구요<br/> 
+"
+---

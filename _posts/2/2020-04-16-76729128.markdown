@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "해피데이 인디안 캠핑매트, 와인" 
+description: 해피데이  ..
+date: 2020-04-17 06:13:55 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/10/17/3607714288/749b7895-5e61-4f9b-8f26-c246c20ed6c3.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=76729128&itemId=249025602&vendorItemId=3607714288&traceid=V0-113-b588faa7c3113daf 
+categories: [1017] 
+color: f44336 
+price: 14600 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>근데 큰 하자는 아닌듯 해서 일단 사용해 보려구요<br/>대충 잘린듯 한 면이 보이고 페인곳도 보이더라구요<br/>두께나 사이즈는 일단 만족!!!!!<br/>생각보다 눈도 안아프고 색도 예뻐요.<br/> 버창하세요.<br/><br/>생개보다커요성인45명명도편하게누울수있어요 두께는얇아요  34평거실에깔았는데매트로써도되겠어요ㅋ<br/>후기에 안좋은 평이 좀 있어서 상품이 도착하자마자 매트를 확인헀는데<br/> 
+"
+---

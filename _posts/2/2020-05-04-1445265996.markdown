@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "달리샵 밴딩 롱런데님 와이드 일자핏팬츠" 
+description: 달리샵 밴 ..
+date: 2020-05-05 04:10:16 
+img: https://static.coupangcdn.com/image/vendor_inventory/798d/c6f5945cb575f50759413a3236188a974ad11218da65fd8e2b4fca5142b6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1445265996&itemId=2490495865&vendorItemId=70483699461&traceid=V0-113-a88ab773353f30b5 
+categories: [1001] 
+color: CF36BB 
+price: 6930 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>55사이즈에 157키인데 맞아요 기장도 딱이구요 편하게 입기에는 문제없어요<br/>바지 엄청 편하네요 핏도 이쁘고 근데 160cm정도 사람에게 딱 발목 이쁘게 드러나는 길이여서 키가 좀 더 크신 분들은 어정쩡해보일 거예요<br/>진짜편하고 이뻐요 가격도좋고 하나더주문합니나<br/> 
+"
+---

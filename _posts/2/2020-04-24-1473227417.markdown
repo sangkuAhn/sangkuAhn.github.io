@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "뉴발란스 남여공용/ MR530SG - NBPDAS165W" 
+description: 뉴발란스  ..
+date: 2020-04-25 04:53:43 
+img: https://static.coupangcdn.com/image/vendor_inventory/0b6f/9783515cd5d0290c54335c380632bcc72a6cc0c55bedf192af1278689030.JPG 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1473227417&itemId=2532190559&vendorItemId=70524945578&traceid=V0-113-b4b08113b3e25f34 
+categories: [1007] 
+color: AAD34A 
+price: 84000 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>발 사이즈에 딱 맞습니다<br/> 
+"
+---

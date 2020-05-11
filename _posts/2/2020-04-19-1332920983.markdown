@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "아디다스 QUESTAR TND 런닝화 DB1122" 
+description: 아디다스  ..
+date: 2020-04-20 04:59:56 
+img: https://static.coupangcdn.com/image/retail/images/2018/03/16/15/5/c897f10d-40ae-40ab-8f87-53251d1846e1.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1332920983&itemId=2357757488&vendorItemId=70354190324&traceid=V0-113-83ef93bb93e74577 
+categories: [1007] 
+color: BF360C 
+price: 46300 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>걷는일이 많은 직업인데 편하고 폭신한 신발찾다가 구매했는데 정말 잘 샀습니다.<br/><br/>대박 배송빠름<br/>많이 파시고 번창하세요<br/>맘에 들어요<br/>사이즈도 잘 맞고 예쁩니다<br/>오후<br/>이렇게 만족하는 제품은 오랜만이네요<br/>걷는일이 많은 직업인데 편하고 폭신한 신발찾다가 구매했는데 정말 잘 샀습니다.<br/><br/>대박 배송빠름<br/>많이 파시고 번창하세요<br/>맘에 들어요<br/>사이즈도 잘 맞고 예쁩니다<br/>오후<br/>이렇게 만족하는 제품은 오랜만이네요<br/> 
+"
+---

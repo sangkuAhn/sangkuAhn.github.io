@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "제니트 보트넥소매트임 니트 N943" 
+description: 제니트 보 ..
+date: 2020-02-27 06:10:19 
+img: https://static.coupangcdn.com/image/vendor_inventory/81e1/e67cd87de1ef4efdac36f0de15156779d1baaeaca0a5fb160a28ff7c9952.jpg 
+linkUrl: https://coupa.ng/brg4g1 
+categories: [1001] 
+color: 4CAF50 
+price: 18900 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>ㅎㅎ 약간  진한 인디핑크  이쁘용 강추  요즘 입고 다녀요 ㆍ<br/>고급쓰럽다구요  ^^<br/>그래도 또 구매의사잇음요<br/>길이감도좋은데<br/>다른색도 인으ㅁ좋겟어요<br/>디자인도 이쁘고 색깔도 고급지고  여하턴  디자인  내 스타일  굿<br/>디자인이 맘에 들어요<br/>살짝 목이 더 파엿음 더 이쁠듯 .<br/><br/>색은 쨍하지않아 분위기있어보이고<br/>소매가  넓어서 겉옷입을때 살짜기  불편<br/>입으면 보는것보다 이뻐요<br/>주변사람들도 예쁘다해서<br/>추천했어요<br/> 
+"
+---

@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "뉴발란스 운동화 M6076YL" 
+description: 뉴발란스  ..
+date: 2020-04-26 04:54:09 
+img: https://static.coupangcdn.com/image/retail/images/849989663529542-3b02ed73-241c-4f13-a772-e9951572e2c6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1343372339&itemId=2370808408&vendorItemId=70223535527&traceid=V0-113-0ae0a887aa3529e5 
+categories: [1007] 
+color: 7E57C2 
+price: 15750 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>발사이즈 275인데, 딱 맞네요.<br/> 좋습니다.<br/><br/>일단 디자인 촉감은 굿입니다.<br/><br/>크기도 딱맞구 매우 가볍고 색깔두 맘에듭니다<br/>푹신하기도 하구요<br/> 
+"
+---

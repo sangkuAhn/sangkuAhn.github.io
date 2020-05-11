@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "캐릭터 조리개 파우치 여행용" 
+description: 캐릭터 조 ..
+date: 2020-02-25 06:11:46 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2018/09/04/18/3/a06982c0-b429-4ff9-ae25-2160d385d177.jpg 
+linkUrl: https://coupa.ng/bqUqoi 
+categories: [1008] 
+color: 03A9F4 
+price: 2690 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>귀여우니까 이쯤은 괜찮은거 같아요ㅋㅋ<br/>끈쪽이랑 눈쪽 마감처리가 신경이 조금 쓰이지만<br/>너무 너무 귀엽고 이뻐요 !!<br/>단점은 .<br/>.<br/> 꼬리빗 넣어놨는데 안에 실키해보이는<br/>보들보들해서 계속 만지게 되요ㅎㅎ<br/>사진이랑 똑같이 너무너무 귀여워용<br/>쓸어담고 조이기만 하면 돼서 너무<br/>엄청 많이 들어가고 빨리 화장하고 정리할때<br/>천이 찢어 졋엉려 ㅜㅜㅜㅠㅠㅠ 슬퍼<br/>편해요 !!<br/>화장품이 좀 있는편인데,가볍게 쏙 들어가네요빈 공간도 조금 남아있어구요글구 파우치가 넘 귀여워요:)하지만 밑에 있는 화장품을 꺼내는것은 좀 어려울것 같네요ㅠ<br/> 
+"
+---

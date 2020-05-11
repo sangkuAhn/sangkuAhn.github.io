@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "포플러앤씨 테이끄 브이 펀칭 블라우스" 
+description: 포플러앤씨 ..
+date: 2020-04-26 04:10:26 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2019/08/07/15/0/11055d05-b6a1-494c-9cc3-0194f06a7b66.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=315878783&itemId=1004308987&vendorItemId=5213241254&traceid=V0-113-543f2e9af392d67a 
+categories: [1001] 
+color: FF6F00 
+price: 15900 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>난 15900원에 주문해ㅈ오늘 힘들게 받앗는데 가격이  5500 원이나 내렷내요 기분참 별로내요 하지만 상품후기는 솔직하게  평할게요 우선 깔끔 합니다 그동안 중국제품 바느질 원단 만족햇던 적이 없엇는데 이번엔 아주 좋내요 색도 아주 좋아요 탁하지않은 순백색 좀 비쳐요 나시  받처 입어야할듯  제게 팔기장은 좀 길지만 살짝 올려입어도 핏이 이쁘내요<br/>늦봄, 여름 , 초가을까지 두루 입을 것 같아요.<br/><br/>늦은배송에 안그래도 기분 별로인데  평쓰려고보니 참나<br/>디자인 만족<br/>디자인, 원단, 색상 모두 다 사진과 똑같아요.<br/><br/>배송은 좀 많이 늦었지만<br/>상품은 정말 좋아요.<br/><br/>생각보다 좋아서 너무 마음에 들어요.<br/><br/>석유냄새가 심해서 울샴푸 세탁후<br/>섬유유연제사용하니 냄새 사라지네요<br/>여름에도 쭉입어도 될듯해요<br/>워낙 다른게 나오는 상품이 많아서 기대 안했는데<br/> 
+"
+---

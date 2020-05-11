@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "기스모 쿨마스크 인증 자외선차단마스크, 연그레이" 
+description: 기스모 쿨 ..
+date: 2020-03-02 06:11:23 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2018/09/06/14/4/d02240aa-6fd0-4a48-88ac-677fe7273c97.jpg 
+linkUrl: https://coupa.ng/brV1ss 
+categories: [1006] 
+color: 9E9D24 
+price: 4800 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>가격대비 좋아요<br/>매일 두시간정도씩 동네뒷산 걸을때<br/>무더운 한여름에 티셔츠 하나만 입고<br/>벗기가 번거롭네요<br/>속치마 천같은 건데 달라붙을 정도로 넉넉치 않음<br/>숨쉴수 있는 면으로 된거로 넉넉히 컸다면 더 잘팔렸을텐데.<br/>.<br/><br/>쓰려고 샀는데 그냥 평지가 아니라<br/>원단이 가볍고 시원한게 마음에 듭니다<br/>자외선이 차단이 얼마나 될지는 잘 모르겠지만<br/>장시간 노출할때 쓰면 더좋을것 같아요<br/>조금 숨이 찰때도 있어서 매번 썼다<br/>하늘 하늘해서 가볍고 시원해요<br/> 
+"
+---

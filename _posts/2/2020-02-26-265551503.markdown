@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "시크릿 쥬쥬 신학기 NEW EVA실내화" 
+description: 시크릿 쥬 ..
+date: 2020-02-27 06:10:58 
+img: https://static.coupangcdn.com/image/vendor_inventory/3458/3388aee467859f488ecdb7f562920285fa7588c33f1fdbc2e853e21a5a11.jpg 
+linkUrl: https://coupa.ng/brg4z4 
+categories: [1004] 
+color: 4CAF50 
+price: 8800 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>맞아서 다행이었어요ㅎ<br/>배송 오자마자 바로 신겨보니 조금 여유있게<br/>사이즈 선택에서 좀 걱정이었는데.<br/>.<br/><br/>싼가격에 잘 샀어요<br/>쑥쑥 자라는 발 사이즈 따라갈 제간이 없던데 만족도 좋아요<br/>얼마나 신중하게 고르던지... <br/>;;<br/>유치원에서 급식먹으러 갈때 잘 신고있습니다<br/>이번이 유치원 입학이라 실내화를 준비하기 위해  고르고 고른 제품이네요^^<br/> 
+"
+---

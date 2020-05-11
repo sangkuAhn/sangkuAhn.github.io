@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "ENCOREE PUS96PLUS_WHBK (퍼스96플러스 화이트블랙)" 
+description: ENCOR ..
+date: 2020-02-25 06:11:32 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2017/06/12/18/1/5f819329-5a79-462f-8861-70d5e03f5677.jpg 
+linkUrl: https://coupa.ng/bqUqgE 
+categories: [1007] 
+color: BF360C 
+price: 59000 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>밑창이 두껍지 않아서 아쉬워요<br/>신발도 편하고 데일리로 신으면 좋을 거 같아용<br/>신발은 편하고 간지나너 이쁘지만 키가 직아보인다는.<br/>.<br/>ㅋ<br/>아들이 평상시 갖고싶다던 신발인데 사이즈도 적당하고 좋아해요<br/>여기저기 둘러보다 여기가 싸서 구매 했어요<br/> 
+"
+---

@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "후아유 테디 덤블 집업 WHJJA1116U" 
+description: 후아유 테 ..
+date: 2020-03-04 06:10:27 
+img: https://static.coupangcdn.com/image/retail/images/2019/12/24/14/8/65a7e2ba-e764-4987-8e67-44b0d0b7d2b5.jpg 
+linkUrl: https://coupa.ng/bsgGbm 
+categories: [1002] 
+color: 43A047 
+price: 29900 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>182/88 인데 귀여워요<br/>깔끔허니 좋아요<br/>마음에 들어요<br/>생각보다 괜찮아요<br/>양털옷이 입고싶어 구매했어요<br/>와이프가 귀엽다고 잘어린다고 했어요<br/>182/88 인데 귀여워요<br/>깔끔허니 좋아요<br/>마음에 들어요<br/>생각보다 괜찮아요<br/>양털옷이 입고싶어 구매했어요<br/>와이프가 귀엽다고 잘어린다고 했어요<br/> 
+"
+---

@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "마켓에이 그물 통기성 방수 슬리퍼" 
+description: 마켓에이  ..
+date: 2020-04-30 04:54:00 
+img: https://static.coupangcdn.com/image/retail/images/2020/01/10/13/1/2dc0def5-f2ca-4546-b99f-44c8518597c0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1175747217&itemId=2154509928&vendorItemId=70152782419&traceid=V0-113-30a289b9202cb9e9 
+categories: [1007] 
+color: A6A6A6 
+price: 9900 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>디자인 착용감 다 좋은데 발냄새가 좀 남닏ㄱㆍ<br/>발바닥 조금 오돌토돌  해서 살짝 지압되는듯 해요 ㅋ<br/>앞에 끈이있어 사이즈 조절되니 좋아요.<br/><br/>전에 샀던 핑크색은 모양이 찍으러 들지 않았었는데 이건 한쪽으로 모양이 삐뚤게 오고 흰색으라 그런지 좀 깨끗해 보이지 않는 느낌이 드네요.<br/> 그래도 신발은 편하고 좋습니다.<br/><br/>처음엔 좀 무거운듯 했으나 계속 신으니 모르겠어요.<br/><br/> 
+"
+---

@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "코코도르/ 카네이션 디퓨저 120ml 2개, 01_카네이션120ml/디어카네이션 + 카네이션120ml/디어카네이션" 
+description: 코코도르/ ..
+date: 2020-05-09 05:46:28 
+img: https://static.coupangcdn.com/image/operator/2478865467/a0dcb80a-f496-6b76-561a-987f3639b0b5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1436103234&itemId=2478865467&vendorItemId=70472194407&traceid=V0-113-3502d57a45868e36 
+categories: [1015] 
+color: AAD34A 
+price: 9900 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>가격도 저렴하고 이뻐서 어버이날 선물로 구매했어요<br/>근데 향은 별로 맘에안드신데요 이발소냄새난다고... <br/><br/>잘 산거같아요<br/> 
+"
+---

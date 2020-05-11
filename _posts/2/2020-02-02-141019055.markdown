@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "달퐁 숲속 여우 신생아 우주복" 
+description: 달퐁 숲속 ..
+date: 2020-02-03 06:10:48 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/11/29/4007085606/ab83a162-2041-4600-99f1-411a6923c5c5.jpg 
+linkUrl: https://coupa.ng/bnWOSv 
+categories: [1003] 
+color: FF6F00 
+price: 16820 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>ㅋㅋㅋㅋㅋ너무 귀엽고 이쁜데 ㅋㅋㅋㅋㅋㅋㅋㅋ우리애가 2개월인데 너무 작아욬ㅋㅋㅋㅋㅋㅋㅋㅋㅋ 저희집애는 2개월 하고10일좀 넘어가는데 7.<br/>4키로랍니다 ㅋㅋㅋㅋㅋㅋ우량아예요 태어났을때도 4.<br/>5키로였으니;;; 도움운 안되겠지만 ㅋㅋ 후기 올려봅니당<br/>가격대비 좋아요<br/>배넷저고리도 좋지만 손.<br/>발 다 감싸주는 우주복 스타일도 있음 좋게따 싶어 구매해봤어요!정말 이쁘더라구요<br/>외출복으로 입히는중<br/>이쁘고 재질도 이정도면 짱짱함<br/> 
+"
+---

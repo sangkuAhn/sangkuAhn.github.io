@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "인디고 황금 돈봉투 세트, 혼합 색상, 8세트" 
+description: 인디고 황 ..
+date: 2020-05-02 06:28:41 
+img: https://static.coupangcdn.com/image/retail/images/2019/08/26/15/4/d0aa0d7c-2971-4a56-b780-2c023ba1f45d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=288646008&itemId=914078314&vendorItemId=5283007708&traceid=V0-113-b62b3e2a2a6d73d6 
+categories: [1021] 
+color: A566FF 
+price: 12000 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>생일때  쓰니 좋아요.<br/>특별한 용돈같은 기분<br/>선물 준비한 사람이 마음에 들면 최고라고 생각합니다.<br/><br/>전 만족합니다.<br/><br/>좀 비싼 편이긴 했지만 명절 이벤트로 생각하고 구입해봤어요.<br/><br/>지폐를 꽂아 둘 수 있고, 간단하게 편지 쓸 공간도 있고, 나름 견고한 봉투여서 고급스러워 보여요.<br/><br/> 
+"
+---

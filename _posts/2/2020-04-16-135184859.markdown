@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "리바이스키즈 솔리드 캐주얼 점퍼 키즈" 
+description: 리바이스키 ..
+date: 2020-04-17 04:43:15 
+img: https://static.coupangcdn.com/image/vendor_inventory/c1af/ab72f7ee6173a45dc48c8c89d9ee0ece8a0857c07cec7fb7d700bca6c290.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=135184859&itemId=396710265&vendorItemId=3966304990&traceid=V0-113-db8ba4c9256c301e 
+categories: [1005] 
+color: FF6F00 
+price: 9900 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>색감도 너무 좋고 울아기에게 잘 맞아요.<br/> 간절기에 입기 딱이예요^^<br/>색도예쁘고 너무 얇지도 않아요<br/>키100 몸무게15아이 110잘맞아요<br/>핫핑크 색도 이쁘고 길이감도 좋아요.<br/> 물론 이가격에 이 퀄리티라 아주 만족이예요.<br/><br/> 
+"
+---

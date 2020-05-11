@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "페스트, 민음사" 
+description: 페스트,  ..
+date: 2020-04-17 06:30:18 
+img: https://static.coupangcdn.com/image/vendor_inventory/ef55/50faaf9d1f647425c52f308ee278e98409094154b8b99ba86b4a9eae7247.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=3718112&itemId=18320793&vendorItemId=3049976837&traceid=V0-113-4e42ac9c58fe4c8b 
+categories: [1019] 
+color: BF360C 
+price: 11700 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>가격도 정가보다 저렴하게 구매했구요<br/>문장은 주옥같고, 줄거리는 흥미진진<br/>앞으로도 종종 쿠팡 이용하려 합니다<br/>울아이 학교에서 읽으라는 책 구매했어요  조금 어려워하긴하지만 읽고 있어요<br/>책 위 아래 모서리 부분이 좀 찍혀서 왔지만 크게 문제 없어서 그냥 봐요<br/>한참 역병이 도는 시기에 구입했어요.<br/><br/>했으나<br/>현 상황이 더 흥미진진진 이네요 ㅠ<br/> 
+"
+---

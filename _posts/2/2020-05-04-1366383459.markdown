@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "폭신 여성 비비드 컬러 베이직 기본 쪼리 bt097" 
+description: 폭신 여성 ..
+date: 2020-05-05 04:54:03 
+img: https://static.coupangcdn.com/image/vendor_inventory/f1e9/84400d2d891d1a697e2dac02e39340f0ca82873456835480caa0ba758e8a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1366383459&itemId=2398476107&vendorItemId=70393504332&traceid=V0-113-328aa6bc1d29728e 
+categories: [1007] 
+color: A57F92 
+price: 8900 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>개커요ㅠ넘넘커서 신을수가잇을까싶네여,어이가없네여,싼마이<br/> 
+"
+---

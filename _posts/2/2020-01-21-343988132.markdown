@@ -1,0 +1,15 @@
+---
+layout: post 
+title:  "낫소 노멀 방한 슬리퍼" 
+description: TOP.72 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/retail/images/2019/11/25/10/7/1fb063a1-ef9c-47cf-9a29-ae811b56dd69.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=343988132&itemId=1092834235&vendorItemId=5609004980&traceid=V0-113-2e1a98a95e44e488 
+categories: [1007] 
+color: 4A148C 
+rank: 72 
+price: 9900 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>280구하기 힘든데 ㅋㅋ<br/>도착하자마자 신랑 신어봤는데 푹신하고 따뜻하대요<br/>색상도 카멜이라 이쁘네요<br/>스타킹 신으면 안에 털때문에 미끄러운건 있어요<br/>신랑 발사이즈가 커서<br/>양말신고 신으면 발 싹 감싸주는 느낌이라서 편합니다!<br/>퀄리티 너무 좋아요.<br/> 털도 빵빵하고 마감도 괜찮고 밑창도 두꺼워서 편해요.<br/> 사이즈는 살짝 작게 나온거 같아요.<br/> 510mm 크게 사세요.<br/> 제가 225인데 230 딱 맞네요.<br/><br/>푹신하고 따뜻하네요<br/> 
+"
+---

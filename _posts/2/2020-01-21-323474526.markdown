@@ -1,0 +1,15 @@
+---
+layout: post 
+title:  "반스 올드스쿨 블랙" 
+description: TOP.54 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/vendor_inventory/bd13/6677d153e47452b7f32f0718c3e329161031eab80ef7ef34ef566805c8c9.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=323474526&itemId=1035730126&vendorItemId=70154210661&traceid=V0-113-ef1a1ea6346c0d7d 
+categories: [1007] 
+color: f44336 
+rank: 54 
+price: 36000 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>디자인은 만족합니다<br/>사진보다 실물 훨씬 이뻐요^^ 고민 노노! 여러개 쟁여놓고 싶네요^^ 크게 나온다고 해서 사이즈 고민했는데 발볼 넓은 저는 원래 신는 사이즈로  했더니 잘 맞네요 !!<br/>신발 딱맞게 잘 맞아요 감사합니다.<br/>ㅎ<br/>예쁩니다<br/>조금 크네요 참고하세요<br/>평소 240신는데 그대로 구입하니<br/> 
+"
+---

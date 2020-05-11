@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "애나프린세스 여아용 소피아 헤어밴드" 
+description: 애나프린세 ..
+date: 2020-02-13 06:10:41 
+img: https://static.coupangcdn.com/image/retail/images/2018/11/01/17/7/dedd4dce-4aa3-43ae-a915-c9e09d87880e.jpg 
+linkUrl: https://coupa.ng/bo5zfK 
+categories: [1003] 
+color: f44336 
+price: 4840 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>12개월 아기 좀 큰 두상에 잘 맞아요 아주 얇고 가벼워서<br/>머리 길으면 더 이쁘겠죠 ㅎ<br/>사이즈 미스 많은데 이거 살짝 쫀쫀하니 좋네요<br/>신생아라 아직 많이 크지만<br/>애기가 걍 가만히 있어요<br/>이거 한듯 안한듯한 느낌인가봐요( 제가 아가 본인이 아니라 정확히는 모르지만) 머리핀이나 다른 걸 머리에하거나 씌우면 난리가 나는 아가가 이거는 잘하고 있어요.<br/> 꽤 오랫동안^^아이도 편하고 보는 사람도 예쁘구요.<br/><br/>이뻐요<br/>짧은머리보다 ㅎㅎ나중에<br/> 
+"
+---

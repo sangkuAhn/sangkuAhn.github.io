@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "포포팬시 룰루랄라 초등 영어노트, 민트, 10개" 
+description: 포포팬시  ..
+date: 2020-04-22 06:28:37 
+img: https://static.coupangcdn.com/image/retail/images/2020/01/29/10/8/a9dacc21-4a76-4cc1-ae6a-f9b369a8077c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1229234587&itemId=2222753242&vendorItemId=70220432846&traceid=V0-113-30deb9065575fcc5 
+categories: [1021] 
+color: 7E57C2 
+price: 9250 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>28쪽이라 너무 얇지도 질리게 두껍지도 않고요<br/>넓은칸 영어노트가 필요해서 구매했습니다.<br/><br/>스프링이라서 더욱 좋네요.<br/><br/>스프링타입이라 넘기기도 좋네요<br/>아이가 영어공부시작하고 단어숙제 하려고샀어요<br/>일곱살 아이 알파벳 입문용으로 구입했는데 대성공!<br/>줄 넓은 영어 노트에요 (얼마전 다른 노트 초등학생용이라는 후기 믿고 구매했다가 줄이 좁아 한번 실패했었어요 ㅠ ㅠ )<br/>캐릭터 넘 귀여워요 칸도 적당한것같아요 좋아요<br/> 
+"
+---

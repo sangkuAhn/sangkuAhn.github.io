@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "집시 컬러링북:설렘의 온도, 시드앤피드" 
+description: 집시 컬러 ..
+date: 2020-03-20 17:28:21 
+img: https://static.coupangcdn.com/image/vendor_inventory/55ae/4fdaa4516efe0ed1a030b7905f96b7e9f73270d0f22c447b8aefc365d3b8.jpg 
+linkUrl: https://coupa.ng/buW2mc 
+categories: [1019] 
+color: 43A047 
+price: 11700 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>그림 넘나예쁘고 힘들이지 않아도 이쁘게되네요<br/>그림이 이뻐서 색 칠하면서 심쿵해요ㅋ<br/>그림체나 감성이 너무 따듯하고 포근하네여<br/>배경이 많아 살짝 부담이긴한데 그림체가 진짜 취저라 아끼면서 칠하고있어요<br/>일잠깐쉬면서 하는데 너무 좋고 시간가는지 모르겠네여 ㅠㅠ 휴.<br/>.<br/><br/>진짜 취미로 시작한건데 색연필욕심이나서 큰일이네여<br/>처음하시기에도 괜찮고 컬러링하면서 추가해도되고 빼도 되고<br/>초보자도 할 수 있어서 좋구요<br/>파스텔로해도 너무 예쁠거같아여 ㅠㅠ<br/> 
+"
+---

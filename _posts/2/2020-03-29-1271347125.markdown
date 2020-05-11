@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "(주)쏭스타일 시크릿트임롱티 긴팔 티셔츠" 
+description: (주)쏭스 ..
+date: 2020-03-30 06:10:18 
+img: https://static.coupangcdn.com/image/vendor_inventory/340a/d73724de2a33bb68175eee4248000f93f6c131ae8cb63a257ca4d55ca928.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=1271347125&itemId=2276061837&vendorItemId=70273195129&traceid=V0-113-81a040f23e30642a 
+categories: [1001] 
+color: 03A9F4 
+price: 14900 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>길이감좋아요<br/>단점<br/>많이 커요<br/>색상이 너무 맘에 듭니다! 퍼플하고 두가지 샀는데 둘다 길이도 괜찮고 두깨감도 적당합니다!<br/>원단도톰하니좋아요<br/>원단이 톡톡해요<br/>장점<br/>지금은 더울듯이요<br/>처음 한번빨았는데도 먼지 장난아니네요<br/>편하기는 하네요<br/> 
+"
+---

@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "리복 로얄 브릿지 3.0 DV8338_COU" 
+description: 리복 로얄 ..
+date: 2020-04-27 04:53:57 
+img: https://static.coupangcdn.com/image/vendor_inventory/30f3/c1b569ec57449c6ce904f8d634ee09a97ecdce692acfc4d1def000e87743.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1176832951&itemId=2155823607&vendorItemId=70331695847&traceid=V0-113-987ff525d6a16021 
+categories: [1007] 
+color: A6A6A6 
+price: 31500 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>발볼이 넓고  높아 구매 어려움이  있던중  지인 소개로 리복에  진입.<br/>  착용감이  편하고  가볍고 볼이 일단 넉넉<br/>앞으로 자주 보게 될것같습니다.<br/><br/> 
+"
+---

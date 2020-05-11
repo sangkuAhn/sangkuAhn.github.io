@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "케이스위스 공용 라인 트레이닝복세트 K292KS119NA" 
+description: 케이스위스 ..
+date: 2020-04-17 04:51:26 
+img: https://static.coupangcdn.com/image/vendor_inventory/18e2/51e7e376c9a19e489978518f77ba8130df84676c12ddaef1663679a25da4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=286056904&itemId=907134773&vendorItemId=70265108923&traceid=V0-113-5132b99617f8931b 
+categories: [1006] 
+color: f44336 
+price: 32900 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>good<br/>남편이 188키에 98킬로 거구체격인데 110싸이즈 넉넉히 맞고<br/>스타일도 이뿌다고 하네요 가성비 좋은거 같애요^^<br/> 
+"
+---

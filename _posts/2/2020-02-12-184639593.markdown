@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "포포팬시 하드커버 마이노트, 랜덤 발송, 6개입" 
+description: 포포팬시  ..
+date: 2020-02-13 06:14:34 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/06/27/4374745341/a3de987c-f75d-4593-9090-01f5df94a1af.jpg 
+linkUrl: https://coupa.ng/bo5BcN 
+categories: [1021] 
+color: FF6F00 
+price: 12110 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>색상은 랜덤인데 검정2 베이지2 파랑1 흰색1 분배잘되서왔어요<br/>앞뒤 표지는 두껍게 되어있고, 적당한 양이라 마음에 듭니다.<br/><br/>이정도면 1년 거뜬히 쓸꺼같네요<br/>저렴한 가격에 유선스피링노트를 구매하게되서 좋습니다.<br/><br/>집콕해서 공부해야하는 이들에게 추천합니다.<br/><br/>표지도 두껍고 장수도 많아용 색깔도 골고루 와서 너무 좋아용 다음에도 공책 살 일 있으면 이거 살거같아영<br/>표지도 두껍고 장수도많고 좋습니다<br/> 
+"
+---

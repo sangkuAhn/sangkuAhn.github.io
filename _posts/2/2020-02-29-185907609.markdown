@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "비타할로 진심을 담은 경북 프리미엄 능금 사과즙 100%, 80ml, 30개입" 
+description: 비타할로  ..
+date: 2020-03-01 06:14:34 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/03/18/4385316685/2f9b288b-fab3-42e7-823c-80ccbb7b07eb.jpg 
+linkUrl: https://coupa.ng/brMifc 
+categories: [1024] 
+color: FF6F00 
+price: 10770 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>간단히 마시고싶어서 급히 주문했어요 ㅎㅎ<br/>금방 다 먹고 친정어머니 몇 봉지 드렸더니<br/>다먹으면 또살께요<br/>다먹으면 재주문갑니다앙<br/>두 번째 시켜서 먹었어요.<br/><br/>맛있어요 달달해요 신랑이 너무 좋아해서<br/>사과가 좋다는말에 일반 사과는 먹기힘들고 해서<br/>새로 또 시켜야겠네요.<br/><br/>최근에 간에 이상진단을 받아서약먹고있는중인데<br/>포장 좋고 너무 맛있어요 홓홓<br/>혹시나 도움되는 음식이 있을까 해서 찾아보다가<br/> 
+"
+---

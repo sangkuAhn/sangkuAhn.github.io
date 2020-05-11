@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "차량용 에어레스트 롱쿠션 뒷자석매트, 1개" 
+description: 차량용 에 ..
+date: 2020-05-02 06:06:07 
+img: https://static.coupangcdn.com/image/retail/images/2020/02/18/15/9/1dbd043f-d059-4687-99b7-7ff7daa5cd4a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1290613620&itemId=2301653073&vendorItemId=70298583104&traceid=V0-113-8a0180f45ac0ae33 
+categories: [1018] 
+color: 03A9F4 
+price: 19270 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>이미지와 실제 제품과는 차이가 있습니다.<br/><br/>일반 에어 매트릭스와 동일한 품질<br/>진짜 뒷자석이 넓어졌어요 ㅎㄹㄹ<br/>폭이 22센치이면 좁은데 이미지는 넓은 이미지를 사용하여 제품과 차이가 있고 공기를 빵빵하게 넣어도 무게를 지탱하지 못하네요<br/> 
+"
+---

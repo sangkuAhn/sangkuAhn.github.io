@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "휠라/ 정품/ 레인져 스크립트 (FS1SIB1394X)" 
+description: 휠라/ 정 ..
+date: 2020-04-21 04:53:45 
+img: https://static.coupangcdn.com/image/vendor_inventory/be3a/f1e38a710d45c9a7ae8ce194dc4aa3d761a580f93678139665dd6a9b9d42.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=321908970&itemId=1030578088&vendorItemId=70412375695&traceid=V0-113-d3b43fe10cf0dd1e 
+categories: [1007] 
+color: BF360C 
+price: 30580 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>색상이 아이보리네요<br/>정사이즈기는 하나 신다보면 뒷쪽에 양말보플이 계속 묻어  계속 신고다니다보면 더러워지는 단점이 있다<br/>좋아요<br/>흰색인줄알고 확인못한채 구입했네요<br/> 
+"
+---

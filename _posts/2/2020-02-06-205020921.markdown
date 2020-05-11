@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "언더아머 이그나이트 슬리퍼 블랙" 
+description: 언더아머  ..
+date: 2020-02-07 06:11:30 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2018/05/30/13/3/06609834-6f3f-4e7c-b654-5ecec9b31149.jpg 
+linkUrl: https://coupa.ng/borVh1 
+categories: [1007] 
+color: 9E9D24 
+price: 39900 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>3개월 넘게 쓰고 있는데 아직도 푹신푹신합니다.<br/> 좋아요!<br/>그리고 비 올때나 물놀이갈때는 안 신는편이 좋겠네요<br/>냄새도 날것같고요<br/>스펀지 같은거라 물흡수가 잘될것같고 빨리 마르지 않을것같네요<br/>신었을때 편하고 주변사람들이 이쁘다고해서 왠지 기분이 좋네요<br/>여튼 편하게 신고 있어요<br/>쿠션감 있고 찍찍이 발등 조절도 되고<br/>쿠션감이 있어서 발도 편하고 발등에는 찍찍이가 있어서 자신한테 맞는 발등높이나 발볼을 맞출수가 있어서 좋아요<br/>퀄리티도 좋네요 아들이 맘에 든다네요<br/> 
+"
+---

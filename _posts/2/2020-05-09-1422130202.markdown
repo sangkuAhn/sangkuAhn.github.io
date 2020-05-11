@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "데일리슈 하늘가람 여성 뮬 JC7457" 
+description: 데일리슈  ..
+date: 2020-05-10 02:53:45 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/31/18/0/f15afc46-a126-4b4a-b716-0918c672df13.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1422130202&itemId=2460828993&vendorItemId=70454331374&traceid=V0-113-4e932da967a74c78 
+categories: [1007] 
+color: F15F5F 
+price: 12360 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>두번인가 신고 버리게 됫던적이 있엇어요 반신반의하며<br/>샀는데 너무 편하고 부드럽고 가볍고 그러네요<br/>예전에 밑창 비슷한걸 산적이 있었는데 무겁고 뻣뻣해서<br/>저렴하게 잘 산것 같아요ㅎ<br/>착화 모습도 맘에들고 이뻐요<br/> 
+"
+---

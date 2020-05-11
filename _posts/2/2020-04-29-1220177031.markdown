@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "안다르 여성용 뉴지니 9부 테크핏 레깅스" 
+description: 안다르 여 ..
+date: 2020-04-30 04:46:48 
+img: https://static.coupangcdn.com/image/retail/images/2020/01/30/10/5/224f220d-6724-4b6f-b5fe-7a0b70d344da.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1220177031&itemId=2210812279&vendorItemId=70208612529&traceid=V0-113-f56f1277c5909ec9 
+categories: [1006] 
+color: 4CAF50 
+price: 16000 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>신축성 좋지만 입고 벗기가 넘 타이트해서 좀 힘드네요<br/>착용했을때 넘 편해요<br/> 
+"
+---

@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "단골언니 코스모스 베이직 통굽 슬립온" 
+description: 단골언니  ..
+date: 2020-02-13 06:11:32 
+img: https://static.coupangcdn.com/image/retail/images/2019/08/14/19/6/5ef7b5bf-a2a4-43c8-8086-d975cc33fa8b.jpg 
+linkUrl: https://coupa.ng/bo5zEI 
+categories: [1007] 
+color: ff1744 
+price: 17020 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>가격대비 로켓와우로 빠르게 받아볼수있어서 좋으네쇼<br/>굽은 과하지않아서 좋아요<br/>봄여름에 이것만큼 코디 쉽고 편안한게 없죠.<br/>.<br/><br/>재재재재재재구매<br/>전 발볼이 넓은 편이라 5mm 크게 주문했어요<br/>질은 괜찮으나 오래신으면 양 새끼발가락이 불편합니다ㅎ 이외 불만사항은 없습니다 ㅋ 키커보이고 좋아요<br/>코트에도 패딩에도 어디든 잘 어울려요<br/>퀄은 많이 떨어지지만<br/>한 달에 한번씩 재구매 합니다<br/>한철 신는다 생각하고 시켰어<br/> 
+"
+---

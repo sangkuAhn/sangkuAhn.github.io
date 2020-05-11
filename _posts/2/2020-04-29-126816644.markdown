@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "리바이스키즈 T 리바이스 로고반팔 TS" 
+description: 리바이스키 ..
+date: 2020-04-30 04:39:30 
+img: https://static.coupangcdn.com/image/vendor_inventory/7fa1/4f347824e004389b7afcc010c0d0cdb25db24553ab04f5a7cf384c134d97.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=126816644&itemId=374281370&vendorItemId=4704939244&traceid=V0-113-d0c56496820d7996 
+categories: [1005] 
+color: 7E57C2 
+price: 3900 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>3900원에 득템했어요.<br/><br/>그레이라서 무난하네요.<br/>  저렴하게 샀어요.<br/><br/>생각했던 대로!<br/>아들 올 여름 잘 입을듯 하네요 ㅎ<br/>얇지않고 적당히 두께 있어요.<br/><br/>좋아요<br/> 
+"
+---

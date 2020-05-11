@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "갭 키즈 아동용 아치 로고 풀 집 후드" 
+description: 갭 키즈  ..
+date: 2020-04-19 04:43:22 
+img: https://static.coupangcdn.com/image/retail/images/2019/09/30/11/8/41897a15-a06b-4af0-bf87-01c44d572ac7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=310705859&itemId=979894734&vendorItemId=5396915142&traceid=V0-113-4a74a1e6362d7c56 
+categories: [1005] 
+color: 03A9F4 
+price: 23290 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>딸 키 150cm  xl<br/>배송빠르구요  이뻐요 저령하게 잘샀어요<br/>사이즈가 생각보다 커서 아직 입히진 못하고 있는데 색상도 생각보다 얌전하고 예쁘네요<br/>엄마 키 162cm xxl<br/>좀 크지만  아우터처럼 입으니 괜찮아요<br/>초등 딸이랑 커플티로 샀어여<br/>커플티로 찰떡입니다.<br/> 3.<br/>1 만원에 갭을 두벌 구매하다니 굿이예요.<br/> 기모없는 제품으로 전혀 두껍지 않아요.<br/> 시보리 짱짱하고 그레이에 와인,네이비 컬러매치가 예뻐요.<br/> 구입 권합니다<br/> 
+"
+---

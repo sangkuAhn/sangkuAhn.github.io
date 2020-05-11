@@ -1,0 +1,15 @@
+---
+layout: post 
+title:  "나이키 제이크루 킬샷2 화이트 네이비 흰남432997-107" 
+description: TOP.95 
+date: 2020-01-22 02:55:07 
+img: https://static.coupangcdn.com/image/vendor_inventory/7195/9fd24b5f646803157f32788d1f625a12b29cfc811b0b452cdebacc09da9b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=335053908&itemId=1069180015&vendorItemId=5556925645&traceid=V0-113-2f08b6bb714bae7a 
+categories: [1007] 
+color: f44336 
+rank: 95 
+price: 160000 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>가품같네요 퀄이<br/>가품으로 보입니다<br/>짱예뻐요 꼼꼼한 포장 감사합니다 :)<br/> 
+"
+---

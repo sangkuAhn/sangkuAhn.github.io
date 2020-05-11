@@ -1,0 +1,14 @@
+---
+layout: post 
+title:  "헬로카봇 베이 벨크로 미끄럼방지 EVA 아동 실내화" 
+description: 헬로카봇  ..
+date: 2020-02-28 06:11:15 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2019/01/10/17/1/cd717701-d1a6-4c33-b2bf-f5925db30c62.jpg 
+linkUrl: https://coupa.ng/brsdiE 
+categories: [1005] 
+color: 43A047 
+price: 7900 
+author: Ask View Shop 
+cont: " ●구매후기●<br/>8세남아 이제 예비초가 신을 실내화를 찾아보다가<br/>발바닥쪽에 미끄럼방지 고무가 따로 되있어서 더 좋았어요 ㅋ<br/>어린이집에서 신으려고 샀어요<br/>이게 괜찮겠다 해서 일단 주문했어요<br/>편하게 신을수있네요<br/>평소 180신지마누요건 여름용이라 지금안신을꺼라 190샀어요 아들이 좋아합니다 집에서 신고다녀요<br/>한 사이즈 크게 주문했어요 ^^<br/>현재 180정도 신지만 1년 신을게 아니라서 일단 여유있게<br/> 
+"
+---
