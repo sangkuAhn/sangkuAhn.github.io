@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "메이시스 루즈핏 베이직 데일리룩 블라우스" 
+description: 메이시스  ..
+date: 2020-05-13 02:10:19 
+img: https://static.coupangcdn.com/image/vendor_inventory/9451/f2ff66036e8dc495c09ebb266e3e2612483c835f09cffe3ea3497289a522.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1487291857&itemId=2553743820&vendorItemId=70546290381&traceid=V0-113-1728a3bdf8b969c6 
+categories: [1001] 
+color: 79ABFF 
+price: 10900 
+author: Ask View Shop 
+---
+ 
