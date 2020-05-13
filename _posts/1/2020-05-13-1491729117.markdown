@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "슈펜 매일 신는 스니커즈2" 
+description: 슈펜 매일 ..
+date: 2020-05-14 02:53:48 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/09/10/0/69d15560-a6f5-42e8-bbfc-ad3e97d140c5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1491729117&itemId=2560770973&vendorItemId=70353737974&traceid=V0-113-e892470369f1e445 
+categories: [1007] 
+color: 4A148C 
+price: 10300 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>꼭 사이즈에 맞게 구매하세요! 아니면 발톱에 멍들고 물집 생기고 피 안 통해요... <br/>ㅎ 그래서 다른 사이즈로 재구매했습니다ㅋㅋㅋ 발바닥도 푹신푹신하고 신을만해요.<br/> 가격도 만 원대니까 그냥 막 신고 버리기 좋습니다<br/>" 
+---
