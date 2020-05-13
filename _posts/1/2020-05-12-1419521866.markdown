@@ -9,5 +9,5 @@ categories: [1021]
 color: 5A8DF3 
 price: 71900 
 author: Ask View Shop 
+cont:  "●구매후기●<br/>가격대비 디잔인 좋고 튼튼함<br/>좋아요<br/>" 
 ---
- 
