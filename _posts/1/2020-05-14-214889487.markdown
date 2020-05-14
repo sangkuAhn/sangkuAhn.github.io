@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "크록스 본사 남녀공용 크록밴드 플랫폼 클로그 205434" 
+description: 크록스 본 ..
+date: 2020-05-15 02:53:45 
+img: https://static.coupangcdn.com/image/vendor_inventory/8291/862b6377a49d52ffd34b9a9815d54aa41c0e915f3dad4019477aa5f1f6f3.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=214889487&itemId=656232988&vendorItemId=70547334662&traceid=V0-113-608bacb14da5f951 
+categories: [1007] 
+color: A566FF 
+price: 29000 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>가격좋고 예뻐요 잘신고 있어요 높아서 불편할줄알았는데 아니네요 편해요<br/>악세사리는 가지고있던  끼웠습니다<br/>좀더 무겁습니다<br/>크록스는 다 알고있듯이 품질좋습니다<br/>키높이가 된다는 것 외에는 특장점은 없습니다<br/>키높이까지되니 더욱 만족합니다<br/>푹신할 줄 알았지만 다른 크록스와 착화감이 비슷하고<br/>" 
+---
