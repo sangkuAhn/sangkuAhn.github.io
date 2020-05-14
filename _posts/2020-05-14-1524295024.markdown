@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "농협 일품 의성진쌀, 10kg, 1개" 
+description: 농협 일품 ..
+date: 2020-05-15 03:22:36 
+img: https://static.coupangcdn.com/image/retail/images/2020/02/03/15/9/6370fbf6-017f-4194-81e6-3722fedc9171.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1524295024&itemId=2615393308&vendorItemId=70220705763&traceid=V0-113-a6af868d440e381a 
+categories: [1012] 
+color: FFB2D9 
+price: 25520 
+author: Ask View Shop 
+---
+ 
