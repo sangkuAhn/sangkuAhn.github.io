@@ -9,5 +9,5 @@ categories: [1021]
 color: 43A047 
 price: 6750 
 author: Ask View Shop 
+cont:  "●구매후기●<br/>너무 이뻐요이뻐요배송도 늦지않게 신경써주시고 감사합<br/>" 
 ---
- 
