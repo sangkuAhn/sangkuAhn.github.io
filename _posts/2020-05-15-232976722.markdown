@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "신일 기본형 스탠드 선풍기 SIF-PA12NX" 
+description: 신일 기본 ..
+date: 2020-05-16 03:51:26 
+img: https://static.coupangcdn.com/image/retail/images/2019/06/03/16/7/57879034-6d0e-418d-bcbb-0fa1aa3348e9.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=232976722&itemId=740022173&vendorItemId=4868722465&traceid=V0-113-3f152f656fb9f6bf 
+categories: [1016] 
+color: FF6F00 
+price: 45900 
+author: Ask View Shop 
+---
+ 

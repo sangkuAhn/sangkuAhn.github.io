@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "신일 서큘레이터형 선풍기 SIF-D14BN" 
+description: 신일 서큘 ..
+date: 2020-05-16 03:51:26 
+img: https://static.coupangcdn.com/image/retail/images/2018/05/28/16/2/e8a73a38-cbed-4f40-93c7-a4c7381e7693.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=95537803&itemId=294738142&vendorItemId=3725204537&traceid=V0-113-f4c63a40f81b9cd3 
+categories: [1016] 
+color: 79ABFF 
+price: 72360 
+author: Ask View Shop 
+---
+ 

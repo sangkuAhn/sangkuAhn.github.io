@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "TOMKID 톰키드 레터링 반팔 티셔츠" 
+description: TOMKI ..
+date: 2020-05-16 02:39:17 
+img: https://static.coupangcdn.com/image/vendor_inventory/ca72/e8acbdb1a64fae88dd33116a6ef758d2cb94bb4ee4742936e9e9557adde6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=83147883&itemId=263768356&vendorItemId=4655031312&traceid=V0-113-4b061d6d1c54fb99 
+categories: [1005] 
+color: 7E57C2 
+price: 1900 
+author: Ask View Shop 
+---
+ 
