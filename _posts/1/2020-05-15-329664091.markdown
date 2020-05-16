@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "이뿌니 캔버스 미니크로스백 핸드폰가방 휴대폰가방" 
+description: 이뿌니 캔 ..
+date: 2020-05-16 03:00:54 
+img: https://static.coupangcdn.com/image/vendor_inventory/ed54/31297465451058e04240688586f459d68450768f6d08c40fed355cec061f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=329664091&itemId=1054021612&vendorItemId=5523667296&traceid=V0-113-bc7fe6b4aac4f6a7 
+categories: [1008] 
+color: 43A047 
+price: 10900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>가방끈이 짧아서 별하나뺐어요<br/>작은가방 찾고있었는데 귀엽고 편해요<br/>편하고 좋습니다.<br/><br/>" 
+---

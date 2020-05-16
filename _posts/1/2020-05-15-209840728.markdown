@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "간빠레 베이직 4부 허리밴딩 린넨 반바지, 베이지" 
+description: 간빠레 베 ..
+date: 2020-05-16 02:17:37 
+img: https://static.coupangcdn.com/image/vendor_inventory/8264/f477b074efa17f07eb113c39d9faad3ecc39e6a9042609bf0661e421763c.JPG 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=209840728&itemId=624282971&vendorItemId=4639460174&traceid=V0-113-01287dd75c9e1084 
+categories: [1002] 
+color: 4A148C 
+price: 15900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>많이 얇아서 팬티 보일줄 알았는데 안보이구요 길이 딱좋고 시원한 재질에 가격대비 넘 만족입니다.<br/> 하나 더 살거에요.<br/><br/>바지 통이 조금만 좁게 나왔으면 더 이뻤을듯<br/>아주 맘에 들어요 여름에 시원하게 입고 다니기 좋을거같네옹<br/>이뻐요 시원한 재질에 아주 편함<br/>" 
+---

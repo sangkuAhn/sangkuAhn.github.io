@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코몽트 추성훈의 기능성 베이직 반팔티셔츠 KMT19218" 
+description: 코몽트 추 ..
+date: 2020-05-16 02:46:29 
+img: https://static.coupangcdn.com/image/operator/2457456039/ca38e7ce-ab51-760f-ebaa-1faf24c4da02.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1419659574&itemId=2457456039&vendorItemId=70450986364&traceid=V0-113-6f84776e3f39ba8c 
+categories: [1006] 
+color: f44336 
+price: 5900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>그러기엔 좀 아까운듯하네요<br/>배송도 빠르고 촉감도 넘좋으네요<br/>싸게 잘 샀습니다<br/>아주 좋아요<br/>작업복으로 입으려고 구입했는데<br/>" 
+---

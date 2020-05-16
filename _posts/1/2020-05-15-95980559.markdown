@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "홍대언니 바다에서 온 샌들" 
+description: 홍대언니  ..
+date: 2020-05-16 02:53:42 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2018/05/30/2/7/c2780977-648c-40f5-ae97-11991d366df2.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=95980559&itemId=295895863&vendorItemId=3727709390&traceid=V0-113-4dad42c0a901af18 
+categories: [1007] 
+color: FF6F00 
+price: 1900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>가격이저렴해서 사실 큰기대를 안하고 구매했는데<br/>나오더라구요혹시나 발볼이나 발에 살좀있으신분들은<br/>다만 제가 발볼이있는편이여서 발사이즈에 맞추니까 발이밖으로<br/>사무실에서 서로 사겠다고 난리도 아닙니다.<br/><br/>세상에 이렇게 저렴하고 편할수없어요  이쁘게 잘신을게요<br/>아주 이쁘고 쌉니다<br/>이 신발은 거저 주은겁니다.<br/><br/>절대 후회안합니다<br/>제품을 받아보니 가격대비 완전 괜찮은 신발이더라구요<br/>한사이즈 크게신으셔도 좋을것같아요.<br/><br/>" 
+---

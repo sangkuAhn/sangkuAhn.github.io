@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "에코컴퍼니 벨벳 요술행주 랜덤 발송, 12개" 
+description: 에코컴퍼니 ..
+date: 2020-05-16 03:29:47 
+img: https://static.coupangcdn.com/image/retail/images/2019/06/10/17/6/2e742ddb-25a3-4542-96eb-b7150fdd29b4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=237368886&itemId=752126846&vendorItemId=4899839139&traceid=V0-113-9b235d01265854f2 
+categories: [1013] 
+color: CF36BB 
+price: 11050 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>30센치 좀 작아보여서 재어봤더니 딱 정사이즈<br/>☆■빠른배송■<br/>☆●쿠팡맨●☆님들께<br/>기특한 녀석입니다!!!<br/>너무 좋아서 3셋 추가 주문  지금 했습니다.<br/><br/>늘 감사합니다 (.<br/>) 꾸벅<br/>도톰하고  정사각형으로 넓고 융인지 보드랍고<br/>보들보들하고 가격도 좋네요<br/>사이즈가 더 다양해지면 좋겠네요^^<br/>슬슬 힘 안주고 문질러도 묵은 때가 빠지는 거 같아요.<br/><br/>신세계네요<br/>집 걸레를 다 이녀석으로 바꾸고 싶습니다.<br/><br/>탈수 흡수력  뛰어나고  다 굿이네요 ^^<br/>파스텔톤이라 질리지도 않겠고<br/>행주 색감이 너무 예뻐요<br/>" 
+---

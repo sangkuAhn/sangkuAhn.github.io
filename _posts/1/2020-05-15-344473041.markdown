@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아디다스94678, 상세설명참조" 
+description: 아디다스9 ..
+date: 2020-05-16 02:46:29 
+img: https://static.coupangcdn.com/image/vendor_inventory/b690/b7b5e039eba089b7468a0b85629ed3dfa84a71113b767c7b5d12bfdfbc99.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=344473041&itemId=1094258972&vendorItemId=5612568739&traceid=V0-113-e892da5131e562e7 
+categories: [1006] 
+color: FF6F00 
+price: 16000 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>딱 필요한 사이즈라 마음에 듭니다!!<br/>배송도 빠르고 물건도 좋아요<br/>이거 아디다스 정품 맞는건가요?<br/>정말 짱이야<br/>조카생일선물로 짱짱짱짱 짱이야<br/>" 
+---

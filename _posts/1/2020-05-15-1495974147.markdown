@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "오래 준비해온 대답, 복복서가" 
+description: 오래 준비 ..
+date: 2020-05-16 04:14:34 
+img: https://static.coupangcdn.com/image/retail/images/2020/04/22/18/7/e141cdd9-a7b6-432d-9723-44b9b88e808a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1495974147&itemId=2569008954&vendorItemId=70561386730&traceid=V0-113-249c07589bbfd6f7 
+categories: [1019] 
+color: 1294AB 
+price: 14850 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>내가 에세이를 좋아하는 걸 처음 알았다.<br/><br/>술술 읽혀서 너무 빠르게 다 읽어버릴까봐 아까운 책.<br/>.<br/><br/>아니면 김영하 작가님이여서 그런거 일지도.<br/>.<br/><br/>좋아하는 작갸의 읽기 편한... <br/> 너무 맘에 들어요.<br/><br/>" 
+---
