@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아트조이 명화그리기 20 x 20cm, 파란 머리의 소녀" 
+description: 아트조이  ..
+date: 2020-05-18 04:28:36 
+img: https://static.coupangcdn.com/image/retail/images/2018/10/12/17/2/24138ebd-6201-47d2-a00d-2515c6373cd2.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=68137427&itemId=424000916&vendorItemId=4043431596&traceid=V0-113-62966cd704a889ff 
+categories: [1021] 
+color: A566FF 
+price: 6900 
+author: Ask View Shop 
+---
+ 
