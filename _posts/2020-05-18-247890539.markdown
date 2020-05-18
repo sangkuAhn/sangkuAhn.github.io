@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코베아 3웨이 올인원 멀티스토브 L, 블랙, 1개" 
+description: 코베아 3 ..
+date: 2020-05-19 03:31:38 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/07/15/4988082027/34a753bd-932a-4ae7-b503-e23a7727b1c2.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=247890539&itemId=784806074&vendorItemId=4988082027&traceid=V0-113-d8bff6103d4f8a3c 
+categories: [1013] 
+color: 006064 
+price: 199000 
+author: Ask View Shop 
+---
+ 

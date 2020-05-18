@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "매일우유 저지방2% 우유, 900ml, 1개" 
+description: 매일우유  ..
+date: 2020-05-19 03:24:22 
+img: https://static.coupangcdn.com/image/retail/images/2019/03/11/13/8/8a35b364-4ee8-4526-95b6-199143699b0c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=196519637&itemId=566109472&vendorItemId=4485892964&traceid=V0-113-d3d0966fcf6f9cb6 
+categories: [1012] 
+color: 79ABFF 
+price: 2390 
+author: Ask View Shop 
+---
+ 

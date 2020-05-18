@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "듀플렉스 LED 모기퇴치기, DP-40IK" 
+description: 듀플렉스  ..
+date: 2020-05-19 03:46:02 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/06/11/4778254630/1f99034d-d6dd-4594-806a-9435714c8171.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=222173797&itemId=695654966&vendorItemId=4778254630&traceid=V0-113-178a81ad453a5b9b 
+categories: [1015] 
+color: F15F5F 
+price: 32350 
+author: Ask View Shop 
+---
+ 
