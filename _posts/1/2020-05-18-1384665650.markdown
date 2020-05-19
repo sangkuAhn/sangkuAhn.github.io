@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "빌락트 남성용 데일리 밴딩 트레이닝 팬츠" 
+description: 빌락트 남 ..
+date: 2020-05-19 02:48:21 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/20/12/0/097d7ff9-e4c7-4012-8483-2a076d626e48.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1384665650&itemId=2419404216&vendorItemId=70413589476&traceid=V0-113-486323f76cbe744a 
+categories: [1006] 
+color: A566FF 
+price: 8900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>가격도 착하고 스판성도 좋아 남편이 편하게 잘 입을 수 있겠다고 좋아하네요<br/>감사합니다♡♡<br/>너무 얇음.<br/>.<br/> 레깅스 인줄 차콜 그레이 두개 같은 사이즈  주문했는데 그레이는 기장이 더 길음.<br/>.<br/><br/>편하고  아주좋아요<br/>" 
+---

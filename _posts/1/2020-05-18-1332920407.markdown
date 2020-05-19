@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아디다스 키엘 운동화 M D69237" 
+description: 아디다스  ..
+date: 2020-05-19 02:55:33 
+img: https://static.coupangcdn.com/image/retail/images/338350436526214-13de3d06-69ed-4b63-8a9a-8645991fe358.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1332920407&itemId=2357756950&vendorItemId=70354189843&traceid=V0-113-590943fdacffa0e6 
+categories: [1007] 
+color: BF360C 
+price: 26920 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>사이즈가 너무커요<br/>편해요<br/>" 
+---
