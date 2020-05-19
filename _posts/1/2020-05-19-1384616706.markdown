@@ -9,5 +9,5 @@ categories: [1006]
 color: A566FF 
 price: 22440 
 author: Ask View Shop 
+cont:  "●구매후기●<br/>그냥 평범한 슬리퍼.<br/><br/>딸아이가 맘에 들어해요.<br/> 실물이 더 이뻐요<br/>약간 부직포? 같은 뭔가 미끌거리는 게 있긴한데 그냥 무난하다.<br/><br/>편해요<br/>" 
 ---
- 
