@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "올로미미 아동용 7부 슬라브 실내복 세트" 
+description: 올로미미  ..
+date: 2020-05-20 02:39:06 
+img: https://static.coupangcdn.com/image/retail/images/2020/02/26/22/0/5e6a35a4-3cf6-4105-bfac-d8bf38183e07.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1312399458&itemId=2329803922&vendorItemId=70326375409&traceid=V0-113-28e2f7b50045fd99 
+categories: [1005] 
+color: f44336 
+price: 9900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>33개월 4살 여아 여유있게 맞아요<br/>너무 내복스럽지않고 좋아오^^<br/>넘 마음에 들어요 내복같지 않아서 밖에 잠깐 외출할때도 좋을거같아요 잘입힐게요<br/>외출(?)해도 될만큼이예용<br/>이쁘게 잘 맞네요.<br/> 넘 예뻐요.<br/><br/>칠부인데 한여름에 입기는 더울 톡톡한 재질이네요<br/>" 
+---

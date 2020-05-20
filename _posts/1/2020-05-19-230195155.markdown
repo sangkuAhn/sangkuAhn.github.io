@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "크록스 라이트라이드" 
+description: 크록스 라 ..
+date: 2020-05-20 02:53:31 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2019/01/31/14/0/36559e6d-6d38-4c63-ad0e-cf7883d4b7f3.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=230195155&itemId=2287111062&vendorItemId=70595243727&traceid=V0-113-6dcb438a42d1608e 
+categories: [1007] 
+color: CF36BB 
+price: 20500 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>만족스럽습니다<br/>반품합니다<br/>사이즈를 220mm을 시켰는데 240mm 신는분이 신어도 크네요.<br/><br/>정품인지 의심스럽습니다.<br/><br/>짝퉁 인것 같아요.<br/> 집에 있는 크록스 라이트하고는 달라요.<br/>ㅠ  교묘하게 달라요.<br/> 같은 듯 다른 상품  싸게 사서 할말은 없지만요.<br/>진품 원하시면 심사숙고하시길요.<br/><br/>" 
+---
