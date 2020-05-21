@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "gomgom 한돈 1등급 삼겹살 (냉장), 1kg, 1개" 
+description: gomgo ..
+date: 2020-05-22 03:22:29 
+img: https://static.coupangcdn.com/image/retail/images/577340726038179-12ed90f4-35ef-499b-8221-ef1119c1043b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1440898109&itemId=2484761227&vendorItemId=70478026816&traceid=V0-113-0132d6f9e9c446d7 
+categories: [1012] 
+color: 5A8DF3 
+price: 23460 
+author: Ask View Shop 
+---
+ 
