@@ -9,5 +9,5 @@ categories: [1007]
 color: A6A6A6 
 price: 27100 
 author: Ask View Shop 
+cont:  "●구매후기●<br/>넘예쁜데용!<br/>원하던 디자인색과 사이즈에요<br/>이쁩니다... <br/>.<br/>정말 이뻐요... <br/>.<br/>와이프 선물로 구매했는데 어무 좋아하네요!<br/>" 
 ---
- 

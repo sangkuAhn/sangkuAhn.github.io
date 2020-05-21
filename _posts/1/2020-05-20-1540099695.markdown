@@ -9,5 +9,5 @@ categories: [1005]
 color: 4A148C 
 price: 35000 
 author: Ask View Shop 
+cont:  "●구매후기●<br/>다만, 남아,여아 선택만 있으면 더 좋을것 같습니다.<br/><br/>두께도 적당하고 초등2학년 남아 사이즈 괜챦습니다.<br/><br/>좀더 더워지면 아껴두었다가 잘 쓸것 같아요<br/>" 
 ---
- 
