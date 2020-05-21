@@ -9,5 +9,5 @@ categories: [1004]
 color: FF1744 
 price: 2900 
 author: Ask View Shop 
+cont:  "●구매후기●<br/>이쁘지만 사이즈 작아요<br/>저렴해서 기대안하고 또 혹시 너무 질이 안좋을까봐 걱정했는데 너무 좋아요<br/>" 
 ---
- 
