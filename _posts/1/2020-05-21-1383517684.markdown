@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "채니봉봉 플라밍고 헤어핀 세트" 
+description: 채니봉봉  ..
+date: 2020-05-22 02:24:42 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/24/11/1/c1003c4e-48b4-4e30-acd4-731947c15dbe.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1383517684&itemId=2418149038&vendorItemId=70412370317&traceid=V0-113-208be1c1bf3bb6c2 
+categories: [1003] 
+color: A6A6A6 
+price: 6810 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>계속 품절되길래 얼른 샀어요<br/>다른건 뜨개질삔이 있어서 더운느낌이라 봄느낌으로 주문했어요!<br/>좋아오<br/>화면이랑 똑같고 너무 이쁘고 귀여워요^^<br/>" 
+---
