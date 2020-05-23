@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코디아이 아동용 제이든 7부 바지" 
+description: 코디아이  ..
+date: 2020-05-22 02:24:42 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/20/15/3/afaf6a3d-6432-48b5-b82d-c2d2f52ee4a6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1384848637&itemId=2419663313&vendorItemId=70413841570&traceid=V0-113-05cb8ba234f71fb1 
+categories: [1003] 
+color: FF6F00 
+price: 10900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>딱 붙고 쫄리지 않아 좋아요<br/>봄<br/> -여름에 잘 입을 수 있을것 같아요<br/>시원히 잘 입힐께요<br/>아이가 아파 입원했는데 병원바지가 맞지안아 로켓배송했네요 시원히 잘 입힐게서요 11개월11kg이예요<br/>편하게 막 입히는 바지가 필요했거든요<br/>" 
+---

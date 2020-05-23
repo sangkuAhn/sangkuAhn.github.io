@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "데일리 심플 쪼리 ALL" 
+description: 데일리 심 ..
+date: 2020-05-21 02:53:28 
+img: https://static.coupangcdn.com/image/vendor_inventory/7935/9b2a00c3ef1b07ad67338f3d8f6746e11bfc921e61d17708fdc9250bbeff.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=334389986&itemId=1067433473&vendorItemId=5553275064&traceid=V0-113-ea034ccbeeafc869 
+categories: [1007] 
+color: A6A6A6 
+price: 8910 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>그냥 몇번신다 버리겠습니다.<br/>.<br/>ㅎㅎ<br/>발 편하고 좋아요<br/>" 
+---

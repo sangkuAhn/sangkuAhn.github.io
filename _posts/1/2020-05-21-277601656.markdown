@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "르엠마 빅사이즈 루즈핏 리린 체크 셔츠 롱원피스 VC3" 
+description: 르엠마 빅 ..
+date: 2020-05-22 02:10:13 
+img: https://static.coupangcdn.com/image/vendor_inventory/76d5/cdca1427616848f4eacc6f517c5f9c2306fb52f313debbc501036a23e8de.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=277601656&itemId=879734524&vendorItemId=70727835015&traceid=V0-113-b8b5c0e3a7154ab6 
+categories: [1001] 
+color: f44336 
+price: 22600 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>가격 대비 대 만족 입니다<br/>아주만족합니다<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "크록스 본사 남녀공용 바야밴드 클로그 205089" 
+description: 크록스 본 ..
+date: 2020-05-21 02:53:28 
+img: https://static.coupangcdn.com/image/vendor_inventory/8399/946dfa763344073ff5bfa6319e77f7e28dded4d67a4a89c19193d85dc48d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1565168302&itemId=627285587&vendorItemId=70703997935&traceid=V0-113-401252d121d554f6 
+categories: [1007] 
+color: 4CAF50 
+price: 28900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>귀여워요 전 235정도인데 240했더니 딱 좋아요 편하고 귀여워요<br/>생각보다 앞이 넓어요<br/>예뻐요 신으면 키높이 처럼 키 커지고 끈 뒤로 안 넘기면 잘벗겨져요<br/>편해요<br/>평발이신 분은 좋을듯<br/>" 
+---
