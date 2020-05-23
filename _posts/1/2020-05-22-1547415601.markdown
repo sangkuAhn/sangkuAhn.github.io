@@ -9,5 +9,5 @@ categories: [1005]
 color: FF6F00 
 price: 46110 
 author: Ask View Shop 
+cont:  "●구매후기●<br/>사진으로만 보고 노란색인줄 알고 주문했는데 노란색이 아니였어요.<br/> 그래도 색깔 이뻐요! 남자아이인데 쨍하니 이쁘네요ㅋ<br/>" 
 ---
- 

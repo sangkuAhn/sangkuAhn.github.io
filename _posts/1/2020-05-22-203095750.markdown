@@ -9,5 +9,5 @@ categories: [1005]
 color: FF6F00 
 price: 4500 
 author: Ask View Shop 
+cont:  "●구매후기●<br/>돌아기 입힐려고<br/>아기자기한 옷도 이쁘지만 편하게 제일인듯^^ㄱ<br/>이뻐요! 한치수큰거살껄그랬어요<br/>" 
 ---
- 
