@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "진주햄 천하장사 후랑크, 90g, 10개" 
+description: 진주햄 천 ..
+date: 2020-05-25 16:12:56 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/27/14/9/d6bc92d4-c5b2-4cbd-a5cb-33f266cf9b02.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1396505883&itemId=2431929154&vendorItemId=70425865844&traceid=V0-113-9012d4f0fa3efd24 
+categories: [1012] 
+color: 43A047 
+price: 13900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>10개입으로 출출할 때 하나씩 하나씩 꺼내 먹고 있어요<br/>그냥 먹어도 맛있고 케찹, 머스타드, 칠리소스랑도 찰떡!!<br/>양도 푸짐하니 냉장고에 쟁여놓고 먹기 딱이네요<br/>오도독 씹히는 식감과 전자레인지로도 충분한 육즙이 터져 맛도 좋고 양도 많아 좋습니다<br/>이렇게 핫도그까지  만들어 먹을 수 있으니 일석이조<br/>자취생 강추!!!<br/>정말 천하장사 후랑크 맛집이네요 bb<br/>진주햄 천하장사 후랑크 <br/>짭조름하고 씹을때마다 육즙이 나와서 맛있어요ㅎㅎ<br/>최공 최공<br/>탱글탱클한 식감 씹을수록 고소함 취향저격!!<br/>하나만 먹어도 든든해서 아침식사 대용으로 먹고 있어요 :)<br/>한개당 1,000원 대 인데 간식으로 먹기 좋아요<br/>" 
+---

@@ -9,5 +9,5 @@ categories: [1004]
 color: A566FF 
 price: 44100 
 author: Ask View Shop 
+cont:  "●구매후기●<br/>150신는애기170 여유있음<br/>레드이쁨<br/>메이딘차이나임<br/>배송담날옴<br/>비오는날 신기려 여유있게 2사이즈 업해서삿음<br/>아직큼<br/>" 
 ---
- 
