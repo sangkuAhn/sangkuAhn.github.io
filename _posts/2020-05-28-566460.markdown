@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "유파 와플 메이커, TSK-2126BW" 
+description: 유파 와플 ..
+date: 2020-05-29 08:19:54 
+img: https://static.coupangcdn.com/image/retail/images/39450885617178-c04af2ed-a057-486d-bdd1-536021883f8b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=566460&itemId=540464757&vendorItemId=4413599269&traceid=V0-113-8ec54c2c9372b531 
+categories: [1013] 
+color: 006064 
+price: 33880 
+author: Ask View Shop 
+---
+ 
