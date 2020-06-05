@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "Apple 2019년 맥북 프로 터치바 16 16GB, 스페이스 그레이, i9-2.3GHz 8-core, SSD 1TB, MVVK2KH/A" 
+description: Apple ..
+date: 2020-06-05 16:41:14 
+img: https://static.coupangcdn.com/image/retail/images/2019/12/06/11/8/03ab0c9c-682e-454b-8697-1fa59ae0a106.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1066005124&itemId=2012813588&vendorItemId=70012621867&traceid=V0-113-a6d8735473b50635 
+categories: [1016] 
+color: D9418C 
+price: 3118260 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>ssd 소음이 굉장히 크게 나네요.<br/> 조용한데서 특정한 상황일 때 서걱서걱 소리가 들립니다.<br/> 찾아보니까 이번 16인치에서 상당히 많이 나타나는 고질병인 것 같습니다.<br/> 부팅할 때, 그리고 로드가 좀 있을 때 납니다.<br/><br/>그 외엔 만족스러우나 해당 증상때문에 밤에 작업할 때 스트레스 받고 못 쓸 것 같아 교환 신청했습니다.<br/><br/>그냥 맥북 프로 고급형에 메모리(RAM)만 32GB로 올린 CTO 제품이니 다들 구매할때 참고하세요.<br/><br/>그래픽카드 5500M 4GB 입니다.<br/><br/>역시 에플상품의 고민은 주문배송일만 늦출뿐.<br/>.<br/>이왕사능거 오래쓸생각에 과감하게 투자하자 라고 생각하고 투자하였습니다 받고나서 꼭 갓난애기를 다루는갓마냥 다루고있지만 정말 좋습니다 어지간한 게이밍노트북 뺨치는것 같아요... <br/>.<br/>아 뭐랄까 그냥 좋아요 에플 만세 쿠팡 만세 !<br/>제가 받은 제품은 생산 일자 2020년 4월 생산 제품이네요.<br/><br/>" 
+---
