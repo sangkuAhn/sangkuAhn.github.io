@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "라코스테 LACOSTE 레이디 미니 크로스백 NF2609" 
+description: 라코스테  ..
+date: 2020-06-11 15:51:15 
+img: https://static.coupangcdn.com/image/vendor_inventory/04c9/f6905f46b6a7c4dea835d068c0abffc031f6c313ff8d1e1656715fb3ff11.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=267283931&itemId=837981276&vendorItemId=70562907910&traceid=V0-113-3f545743067c7299 
+categories: [1008] 
+color: A566FF 
+price: 46800 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>간단하게 핸드폰에 카드지갑 열쇠 이런거 넣고 다니기 딱 좋아요.<br/><br/>보기는 작아도 들어갈건 다들어간다는거<br/>색상도 넘이뻐요 네이비색이네요<br/>싸게 잘산거같아요<br/>어디 편한곳갈때 너무좋을듯요<br/>이거 검정도 데일리로 쓰는데 작긴해도<br/>폰하나 지갑하니 넣고 다니기 좋습니다<br/>" 
+---

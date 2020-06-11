@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "스마트 훌라후프 360도회전 접이식 훌라후프" 
+description: 스마트 훌 ..
+date: 2020-06-11 17:17:18 
+img: https://static.coupangcdn.com/image/vendor_inventory/a6dd/dd5e684c8c0515692658eef878fd1703f8776ccf6fd24f580e9dc5bdd892.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1508471320&itemId=2589453795&vendorItemId=70677040695&traceid=V0-113-fd4c3d8d3ab62868 
+categories: [1021] 
+color: D9418C 
+price: 12800 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>너무 허접합니다 작동 이상이 ㅠㅜ메인딘 차이나 ㅠㅜ<br/>질도 안좋고 잘 돌아가지도않아요<br/>최악이예요 우ㅜㄴ래이렇개 안돌아가고 쇳가루 같은거 떨어지나요 티게무슨 다이어트 훌라후프라고  12천원도 아깝네요<br/>" 
+---

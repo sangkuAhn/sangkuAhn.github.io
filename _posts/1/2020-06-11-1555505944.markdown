@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "수제명가 애견용 셰프시리즈 건강 한입 간식, 리얼황태, 2개입" 
+description: 수제명가  ..
+date: 2020-06-11 17:31:43 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/10/22/3252869115/e87a34b7-63a4-4843-bce5-061a00786c18.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1555505944&itemId=2660544618&vendorItemId=70651192528&traceid=V0-113-65c3f917bea18cc7 
+categories: [1029] 
+color: D9418C 
+price: 7900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>간식은 잘 살펴서 사주는 편이에요<br/>물에 불려서 주니 잘먹내영<br/>우리 댕댕이는 알러지때메 먹으면 안되는게 많아서<br/>이웃 친구 진돌이에게도 보약 좀 먹여줘야겠네요ㅎㅎ<br/>황태는 믿고 먹여도 되겠죵<br/>" 
+---
