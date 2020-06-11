@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "니코 스탠드 선풍기 NKF-H1402" 
+description: 니코 스탠 ..
+date: 2020-06-11 16:41:15 
+img: https://static.coupangcdn.com/image/retail/images/2019/07/03/6/9/013436f8-04e1-4cbb-85ac-7c5aedf338c7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=251981044&itemId=794360976&vendorItemId=70858488209&traceid=V0-113-8934692a25aa6db9 
+categories: [1016] 
+color: 4374D9 
+price: 39800 
+author: Ask View Shop 
+---
+ 

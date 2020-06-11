@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "데코토닉 플레인 레더 가랜드, C(핑크 + 화이트 + 민트)" 
+description: 데코토닉  ..
+date: 2020-06-11 17:10:06 
+img: https://static.coupangcdn.com/image/retail/images/2017/12/13/17/9/e977cc92-4b1b-41ea-b77a-1ddd648302b5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=53116913&itemId=186838332&vendorItemId=3444949260&traceid=V0-113-95d70519636b9a34 
+categories: [1020] 
+color: 4374D9 
+price: 5480 
+author: Ask View Shop 
+---
+ 
