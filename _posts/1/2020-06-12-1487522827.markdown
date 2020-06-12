@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코튼원 여성용 반팔 잠옷 세트" 
+description: 코튼원 여 ..
+date: 2020-06-12 15:01:13 
+img: https://static.coupangcdn.com/image/retail/images/2020/04/14/18/0/232f68c1-dabb-4e85-b4d2-a36737ebeff1.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1487522827&itemId=2554055212&vendorItemId=70546596161&traceid=V0-113-130c87108a016082 
+categories: [1001] 
+color: 353535 
+price: 19900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>거즈면이란 상품을 이번에 처음 접해봤는데 넘 시원하고 이뻐서 여자꺼  잠옷까지  사게 되었네요.<br/>  남자껄 처음 샀는데  맘에 들어하길래  저도  여기 제품으로  사서 입었네요.<br/>ㅎㅎ  어쩌다 보니 커플잠옷이  되었네요.<br/> 다른분들에게도 추천할만하네요.<br/><br/>보이는 대로에요 넉넉한 핏을 원하면 그건 아닙니다<br/>시원하대요 원단도 좋고 ㅎㅎ<br/>" 
+---

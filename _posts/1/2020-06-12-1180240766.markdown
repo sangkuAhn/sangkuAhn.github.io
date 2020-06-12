@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "빅사이즈클럽 CRAMP 어썸 박스 반팔티, 블랙" 
+description: 빅사이즈클 ..
+date: 2020-06-12 15:08:25 
+img: https://static.coupangcdn.com/image/retail/images/2020/01/15/16/3/1e6bcb4d-fdc5-4a78-ae65-dcd8ab9b6c22.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1180240766&itemId=2160022120&vendorItemId=70158230429&traceid=V0-113-4a1e05c6d1bdf2f6 
+categories: [1002] 
+color: 4CAF50 
+price: 19500 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>기본핏은 아닙니다<br/>막 우겨서 그냥 입는다네요ㅋ<br/>멀리사는 동생 한테 보낼 티셔츠인데<br/>새옷 냄새가 좀 심해서 한창 냄새 날리고 나서 있어야겠네요.<br/><br/>옷이 너무 오버핏이긴해요<br/>재질이랑 사이즈가 맘에들었음 좋겠네요.<br/><br/>저는 괜찮은것같은데 신랑은 힙합청년들이 입는것같다고 별로라는데ㅋㅋ<br/>" 
+---
