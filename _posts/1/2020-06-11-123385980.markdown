@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "에코리즈 스포츠타올, 네이비, 1개" 
+description: 에코리즈  ..
+date: 2020-06-12 07:37:17 
+img: https://static.coupangcdn.com/image/retail/images/2018/08/09/17/7/b2c70af4-a2be-4fc5-a5ce-8b85a21fcac6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=123385980&itemId=365709086&vendorItemId=3887933688&traceid=V0-113-8a4b8e3d0d826a16 
+categories: [1006] 
+color: 4374D9 
+price: 7110 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>매일운동할때.<br/>.<br/> 물에 적신후 사용하면 엄청 시원합니다<br/>잘마르고 땀흡수도 잘됩니다<br/>잘마르고.<br/>땀흡수도잘됩니다<br/>저는받고바로세탁했는데 물빠짐현상이없었어요<br/>좋아요.<br/>받고바로세탁해도 생각보다검은물이나오지않아요<br/>" 
+---

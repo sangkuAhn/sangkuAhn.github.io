@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "양말하우스 여아용 공주 레스커즈 혼합 4켤레" 
+description: 양말하우스 ..
+date: 2020-06-12 07:15:42 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/06/14/3/0db70109-aaa3-4f63-b0cc-6617c2140aed.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1322013679&itemId=2343352323&vendorItemId=70339918473&traceid=V0-113-4c39899053e35af3 
+categories: [1003] 
+color: 9E9D24 
+price: 12500 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>너무너무 예뻐요<br/>레이스 양말 정말 짱이예요^^<br/>사진보다 더 예쁘네요<br/>양말하나만 불량품이에요반품 귀찮아서 그냥 짤라서 신얼거에요... <br/><br/>퀄리티 좋네요 배송도 빠르고!<br/>품질도 엄청좋구 우선 아이가 많이 좋아할것 같아요<br/>" 
+---

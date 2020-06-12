@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "흔한남매 안 흔한 일기 2, 아이세움" 
+description: 흔한남매  ..
+date: 2020-06-12 09:03:42 
+img: https://static.coupangcdn.com/image/retail/images/2020/05/19/17/8/487b9bf2-432d-4437-a36e-82783ed4abd0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1598315315&itemId=2730483847&vendorItemId=70720622450&traceid=V0-113-21342a0bdc92a509 
+categories: [1019] 
+color: 5A8DF3 
+price: 10800 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>살짝기대했어요빠른새벽 배송과<br/>역시나 예약이 아니니 퍼즐이없네요.<br/><br/>원래 새 제품 비닐포장되어있는데 받자마자  뜯어보니 비닐포장없이 책덩그러니.<br/>.<br/>모서리찌그러져있고 누가뜯고반품한것마냥 새제품 아니다라는 느낌받았어요.<br/> 소독제막뿌렸네요.<br/> 아이는마냥 좋아하니 그냥 봅니다만 집찝합니다.<br/> 다음부턴 비닐포장되있는 새제품 보내주세요.<br/><br/>할인에 적립금도 있으니 좋아요<br/>항상 예약판매로 받았는데<br/>" 
+---

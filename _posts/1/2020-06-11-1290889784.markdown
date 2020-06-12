@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "잘빠진 마들렌 반팔 플레어 원피스" 
+description: 잘빠진 마 ..
+date: 2020-06-12 07:01:17 
+img: https://static.coupangcdn.com/image/retail/images/2020/02/17/11/9/9a2c732a-f221-4efe-8a29-cc7fab719d85.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1290889784&itemId=2302006550&vendorItemId=70298933425&traceid=V0-113-f3fb9fbe65369c0c 
+categories: [1001] 
+color: f44336 
+price: 15900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>그냥 잠옷으로나 입으려고 샀는데<br/>디자인은 일자핏에  포인트 샤링밑단 나풀나풀 여성스러워요 윗쪽은 통짜  팔도 통짜 핏감은 기대 안하셔야돼요  대신<br/>밑단이 머메이드 디자인이라 편하면서 귀여운 느낌이에요!<br/>사이즈는 많이 넉넉해요 평소 77 완전 박시하게 입는 스탈인데 이옷은 아주 넉넉해요<br/>살짝도톰해요,<br/>스판끼도있고.<br/>.<br/>괜찮네요.<br/>.<br/>아이낳고 살빼고<br/>옷도 크고 품이 낙낙해서 솔직히 좀 추리(?)할줄 알았는데<br/>옷질은괜찮아요.<br/><br/>와우!!!!! 생각보다 이쁘네여<br/>위에 쟈켓입으면  더 이쁠것같아요<br/>이쁘게 입을꺼예요.<br/>ㅋ될지모르겠지만<br/>저언혀 그런거 없고 예쁘네요<br/>전임부복으로입을생각으로산거라.<br/><br/>키크신분이입으시면이쁠꺼같아요^^<br/>한여름빼고 입을수있어요<br/>" 
+---

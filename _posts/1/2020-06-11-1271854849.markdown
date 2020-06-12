@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "나이키 피어오브갓 박스 반팔 티셔츠 3컬러, 화이트" 
+description: 나이키 피 ..
+date: 2020-06-12 07:08:30 
+img: https://static.coupangcdn.com/image/vendor_inventory/fe1f/1935ad912e95ee42fe74ae0a516d4a9f1f757a725c51ca79768357dead28.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1271854849&itemId=2276660033&vendorItemId=70785442701&traceid=V0-113-c53c5dc558f26534 
+categories: [1002] 
+color: A57F92 
+price: 24900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>177.<br/>80킬로 평상105  입는데 이건 박시형105정도 됩니다ㆍ<br/>가격도 저렴하고 재질도 괜찮네요ㅎㅎ<br/>배송도 너무 빨랏아요<br/>배송도 빠르고 박스핏이라서 착용감이 정말 편해요<br/>참고하세요ㆍ<br/>하나 구입했는데 너무나 편하고 이뻐서<br/>하나더 구매 했어요 딱 박시하게 입기 좋아요<br/>" 
+---

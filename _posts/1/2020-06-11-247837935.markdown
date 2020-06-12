@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "베이비블리 여아용 로맨틱썬캡" 
+description: 베이비블리 ..
+date: 2020-06-12 07:22:53 
+img: https://static.coupangcdn.com/image/retail/images/2019/06/25/14/3/4f86836e-8746-4485-8e67-8759f59cc84b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=247837935&itemId=784670792&vendorItemId=4987680491&traceid=V0-113-d35b7b9086f29656 
+categories: [1004] 
+color: F15F5F 
+price: 14500 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>7세 딸아이 두상에 무리없이 잘 맞고<br/>8살 아이 사이즈도 딱좋아요.<br/><br/>넘 잘 어우리고 만족스럽습니다.<br/><br/>리얼이뻐서 남김<br/>연베이지 품절이라 진베이지 삿는데<br/>올여름 잘 하고 다닐 것 같아요.<br/><br/>요 이쁜모자쓰고 놀이터에서 열심히 놀거예요<br/>육세인데 좀큰편이지만 두고두고 잘쓸듯요<br/>최고네요 튼튼하고<br/>핑크색 은은하니 이뻐요.<br/><br/>후회절대안함요<br/>" 
+---

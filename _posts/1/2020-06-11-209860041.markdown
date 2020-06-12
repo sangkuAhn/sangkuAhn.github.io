@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "크록스 CROCS 클레오2 11214-13S" 
+description: 크록스 C ..
+date: 2020-06-12 07:44:28 
+img: https://static.coupangcdn.com/image/vendor_inventory/9b71/eccde431df347717285a313b8576a763222ba65d6985244097557d1b2673.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=209860041&itemId=624351638&vendorItemId=70866192545&traceid=V0-113-a5dbd240dcd70ece 
+categories: [1007] 
+color: BD24A9 
+price: 24550 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>90세 어머니께서 마음에 들어하시고 편안하게 잘 신겠다하시네요<br/>감춰주고발도  편하지만 30분이상 걸으니<br/>굽이 말랑말랑하니 아이와 등원하거나 병원같이 가까운곳 갈때 신으니 뒷금치 안아프고 좋아요 벗겨지지도 않네요^^<br/>발볼이넓고 무지외반증도 있는데<br/>새신발이라 그런지 약간불퓐한점이 없지않아<br/>아껴신고싶을정도로 이쁘네요<br/>이뻐요<br/>있긴한데 이정도는신경쓰일정도는 아니고<br/>" 
+---

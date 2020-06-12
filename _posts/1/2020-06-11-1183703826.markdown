@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "크록스공식 공용 CROCBAND STU (20SUCL11016)" 
+description: 크록스공식 ..
+date: 2020-06-12 07:44:28 
+img: https://static.coupangcdn.com/image/vendor_inventory/4e36/76e64e345dc20998a5eb50d3015d2d0c3fc0e96def19e205c37e02978e1b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1183703826&itemId=2164074910&vendorItemId=70416710501&traceid=V0-113-b1d3ba05e22915c1 
+categories: [1007] 
+color: 353535 
+price: 32600 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>다 좋은데 ㅠㅠㅠㅠㅠ 사이즈가 잘못왔어요 한치수작게 ㅠㅠㅠㅠㅠㅠㅜ비올땐을려했는데 엄마한테 맞아서 그냥 엄마드릴라구여<br/>사이즈가 걱정이였는데 정사이즈예요, 240인데 한칫수크게 샀더니 여유있고 좋아요.<br/>ㅈㅣ비츠끼워놓으니 예쁩니다<br/>예뻐용 흰색은 부담스럽고 네이비색은 너무 평범해서 색깔 바꿔서 사봤어요 일하면서 괜히한번씩 쳐다보게되네요ㅎㅎ<br/>" 
+---

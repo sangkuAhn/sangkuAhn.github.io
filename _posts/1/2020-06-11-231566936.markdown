@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "업클라스 남녀공용 아이스 슬랙스 b10 2개" 
+description: 업클라스  ..
+date: 2020-06-12 07:08:30 
+img: https://static.coupangcdn.com/image/retail/images/2019/05/31/16/8/8ca9efae-528b-4822-aaf1-7b83f26fe0c4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=231566936&itemId=734494342&vendorItemId=4856003798&traceid=V0-113-7096fb37f1ffde57 
+categories: [1002] 
+color: 35B62C 
+price: 17800 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>1+1이라 여름 커플템으로 입기에도 좋은거 같아요<br/>밴드처리도 두껍게 되있어서 뱃살에 말려 내려가지 않아 좋네요<br/>원단 느낌은 모달을 첨가한듯한 부드럽고 고급스러운데다, 핏감도 슬림하니 좋아요ㅎㅎ 시중에 판매되는 쿨원단을 소재로한 바지들과는 완전히 다른느낌이네요.<br/><br/>잘받았어요ㅎ로켓배송으로 방금받았어요더위많은 남편입기 딱인거 같아요재질이 시원하고 부드러워요 <br/>" 
+---

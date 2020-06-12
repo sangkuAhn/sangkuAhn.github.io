@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아디다스 아딜렛 샌들 K (G26879)" 
+description: 아디다스  ..
+date: 2020-06-12 07:44:28 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2019/02/15/16/1/302a83ed-4aab-4b96-b98d-39a490aa7db4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=187504226&itemId=535912391&vendorItemId=4644662274&traceid=V0-113-923da4ea2129f4dd 
+categories: [1007] 
+color: 006064 
+price: 25540 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>가격대비 상품 너무 좋아요 ^^ 사이즈는 정사이즈인듯 해요<br/>발볼이 넉넉해서 편해요 그리고 신발이 정말 가벼워서 걸을 때 다리에 무리 안 가서  좋습니다 !<br/>크다는 말이 많아서 한사이즈 작게 220주문했는데 완전 꼭맞아서 올여름 바짝 신겨야할듯 230은 클듯하고 애매한 사이즈는 신기기힘들듯<br/>" 
+---
