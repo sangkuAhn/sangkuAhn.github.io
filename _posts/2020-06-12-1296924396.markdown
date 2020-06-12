@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "곰곰 한입 떡갈비, 564g, 1개" 
+description: 곰곰 한입 ..
+date: 2020-06-12 16:13:03 
+img: https://static.coupangcdn.com/image/retail/images/340357980827744-48b34a45-2802-47bc-a9fd-19f7389d669d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1296924396&itemId=2309730404&vendorItemId=70306551790&traceid=V0-113-5c9b34d6f7b0ce94 
+categories: [1012] 
+color: 7E57C2 
+price: 6610 
+author: Ask View Shop 
+---
+ 
