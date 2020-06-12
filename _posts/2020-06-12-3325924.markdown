@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "키움정, 240정, 1개" 
+description: 키움정,  ..
+date: 2020-06-12 09:25:30 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/10/23/3023342024/80cce4cc-423f-4a52-909e-e593866e3fd5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=3325924&itemId=15519214&vendorItemId=3023342024&traceid=V0-113-ae8b29372628338d 
+categories: [1024] 
+color: BF360C 
+price: 45000 
+author: Ask View Shop 
+---
+ 

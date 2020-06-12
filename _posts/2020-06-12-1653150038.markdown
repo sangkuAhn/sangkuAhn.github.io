@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "돈의 속성, 스노우폭스북스" 
+description: 돈의 속성 ..
+date: 2020-06-12 09:03:42 
+img: https://static.coupangcdn.com/image/retail/images/2020/06/02/11/8/b576b7fd-65c9-4bac-a8d0-db25f839b9dc.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1653150038&itemId=2816558557&vendorItemId=70806080447&traceid=V0-113-b5adc868399e2b8f 
+categories: [1019] 
+color: 03A9F4 
+price: 15120 
+author: Ask View Shop 
+---
+ 

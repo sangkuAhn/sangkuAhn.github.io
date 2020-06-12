@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "애쓰지 않고 편안하게, 놀" 
+description: 애쓰지 않 ..
+date: 2020-06-12 09:03:42 
+img: https://static.coupangcdn.com/image/vendor_inventory/d74f/acc24558578c6152f2bdee91893992a4e3c7b3c061d438e63385c24034db.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1594115368&itemId=2723488010&vendorItemId=70689758458&traceid=V0-113-94a04953d747226c 
+categories: [1019] 
+color: 4374D9 
+price: 13500 
+author: Ask View Shop 
+---
+ 
