@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "비바세븐 아동용 미니와플 5종 양말" 
+description: 비바세븐  ..
+date: 2020-06-13 07:30:01 
+img: https://static.coupangcdn.com/image/retail/images/2019/05/23/16/8/3f404e67-5908-4d91-ba5f-6ac820dd2267.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=228908798&itemId=725714093&vendorItemId=4835546735&traceid=V0-113-ac4880ab23e6d5b5 
+categories: [1005] 
+color: F361A6 
+price: 6880 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>그냥 봤을땐 22개월 아이에게 클줄 알았는데 딱 맞네요<br/>더워져서 아이 양말을 덧버선같은 걸 신겨 보냈더니 목 있는 양말을 신기라고 해서.<br/>.<br/>얇은 양말 찾다가 샀어요.<br/> 여름 데일리로 좋네요.<br/> 얇아서 아마 한철용인 것 같은데 어차피 요 때 애들은 금방 커서 크게 상관 없을 것 같아요.<br/><br/>살짝 여유있긴한데 길이도 적당하고 마음에 들어요<br/>" 
+---

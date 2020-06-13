@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코리아보드게임즈 5초 준다 보드게임, 혼합 색상" 
+description: 코리아보드 ..
+date: 2020-06-13 09:10:50 
+img: https://static.coupangcdn.com/image/retail/images/2019/12/03/10/1/147cc6ee-aa1f-4ccf-80e9-6283cb777d30.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1056997210&itemId=2000001590&vendorItemId=70000012245&traceid=V0-113-f4ba8e145d60e727 
+categories: [1020] 
+color: FF6F00 
+price: 17220 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>노란색 보라색 난이도 차이에 대한 설명은 없던데.<br/>.<br/><br/>누구나 쉽게 할 수 있는거같아요<br/>번역투나 문화권달라서 차이있는거 빼곤<br/>별 50개 드립니다<br/>쉽고 재밌어요.<br/><br/>애들도 좋아하고,<br/>어른들의 경우 한잔 걸치고 하면 진짜 재밌습니다 ㅋㅋㅋㅋ<br/>재밌습니당<br/>잼써요 순발력이 좋을 수록 와따네요<br/>초 세는기구 소리가 진짜 웃겨서 멍때리게 되네요<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "FILA/ 포르마 17 (F1WKZ0051_BLK)" 
+description: FILA/ ..
+date: 2020-06-13 07:44:24 
+img: https://static.coupangcdn.com/image/vendor_inventory/45fb/59b90e515c8eefce3ed995046af862994d0943d25c58baa6426f4074e6bf.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1195975687&itemId=2179188382&vendorItemId=70413847739&traceid=V0-113-d0abc15ebae5a459 
+categories: [1007] 
+color: A566FF 
+price: 30000 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>가볍고 편해서 좋아요.<br/> 비가 오면 신지 말아야할듯.<br/> 통풍 잘되고 디자인도 굿.<br/><br/>생각보다 이쁨<br/>정사이즈보다 적게 나왔어요ㅜ치수 생각 잘하고 사야됨요ㅠ반품 귀차나 억지로 신는중.<br/>.<br/>아이가 신는데 쪼여서 조금 불편하다해요ㅠ<br/>" 
+---

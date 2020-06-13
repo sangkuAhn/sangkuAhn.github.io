@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "샤바스 스칸디나 멀티테이블 800, 티크판넬 + 블랙프레임" 
+description: 샤바스 스 ..
+date: 2020-06-13 09:18:02 
+img: https://static.coupangcdn.com/image/retail/images/2020/04/10/11/6/5e6ac32e-4040-4e24-ab1a-2d69c8127e9b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1449236007&itemId=2496139554&vendorItemId=70489297626&traceid=V0-113-6c601ac98eb523f7 
+categories: [1021] 
+color: 006064 
+price: 27900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>가격대비라고 상품평을 보고 산 제품이지만<br/>강추합니다<br/>그래도 조금 제품에 실망 스럽습니다<br/>다만 다른 후기처럼 철가루가 꽤 많이 떨어져요.<br/><br/>배송하신분이 너무 친절해서 그냠사용합니다<br/>아이공부책상으로 구매했어요  방학때만쓸거라 저렴한걸로했는데 기대이상이예요 평소에는 다른용도로  쓸수도 있겠어요<br/>조립은 어렵지않고 간단한 편이에요,<br/>처음엔 뭐가 자꾸 몸에 튀길래 벌렌 줄 알았는데 철가루더라구요.<br/>.<br/><br/>청소기 없는 자취생 분들은 난감하실 수도 있어요<br/>큰 사이즈로 살라다가 로켓배송이 너무 급해서 두개 사서 이어 붙였어요.<br/><br/>" 
+---
