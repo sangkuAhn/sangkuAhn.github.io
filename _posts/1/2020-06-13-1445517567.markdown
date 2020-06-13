@@ -9,5 +9,5 @@ categories: [1010]
 color: 4CAF50 
 price: 13900 
 author: Ask View Shop 
+cont:  "●구매후기●<br/>눈시림 살짝있어요 그래도 여드름 안나고 좋네용<br/>유투브 보고 주문했는데 발림성 좋고 색깔은 그린색이에요 만족해요<br/>최고<br/>" 
 ---
- 

@@ -9,5 +9,5 @@ categories: [1007]
 color: A566FF 
 price: 43540 
 author: Ask View Shop 
+cont:  "●구매후기●<br/>사진이랑 조금 달라요<br/>약간 큰 감이 있지만, 편하고 좋습니다.<br/><br/>품질이 당연 좋아요 그런디 조금 작아유 ㅠㅠ 한치수 좀 크게살걸 ㅠㅠㅠ<br/>" 
 ---
- 

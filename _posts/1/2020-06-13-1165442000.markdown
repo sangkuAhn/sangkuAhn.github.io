@@ -9,5 +9,5 @@ categories: [1016]
 color: F15F5F 
 price: 158000 
 author: Ask View Shop 
+cont:  "●구매후기●<br/>터보가 조금 시끄럽지만 매우 만족 합니다<br/>" 
 ---
- 
