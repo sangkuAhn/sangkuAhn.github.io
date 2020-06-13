@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "디스커버리 냉감 트레이닝 바지, 블랙" 
+description: 디스커버리 ..
+date: 2020-06-13 07:08:26 
+img: https://static.coupangcdn.com/image/vendor_inventory/4b0b/81c64f8f503dd35245c94451729842e7935b05e5bb4739516887bf6a6518.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1610483106&itemId=2750387336&vendorItemId=70740345222&traceid=V0-113-f22a08813ae9edc0 
+categories: [1002] 
+color: A566FF 
+price: 32000 
+author: Ask View Shop 
+---
+ 

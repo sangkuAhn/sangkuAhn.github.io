@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "데일리앤 여름 루즈핏 데님 멜빵 롱원피스 첵스" 
+description: 데일리앤  ..
+date: 2020-06-13 07:01:13 
+img: https://static.coupangcdn.com/image/vendor_inventory/8820/cd1e080ba927a0d3af1cf32bd390a7d3c1fce8b3ebcdcd41b179066c956c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1579526441&itemId=2700517903&vendorItemId=70690861101&traceid=V0-113-4f3e36cb0fe2b9a8 
+categories: [1001] 
+color: BD24A9 
+price: 17700 
+author: Ask View Shop 
+---
+ 

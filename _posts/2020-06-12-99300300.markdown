@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "퍼니메이드 데이 미니 보냉가방, 블랙" 
+description: 퍼니메이드 ..
+date: 2020-06-13 08:20:24 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/10/26/3749467104/d3f0083c-a3d0-409e-a7de-725477eb9527.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=99300300&itemId=303916093&vendorItemId=3749467104&traceid=V0-113-977fa719438494b8 
+categories: [1013] 
+color: A566FF 
+price: 12060 
+author: Ask View Shop 
+---
+ 
