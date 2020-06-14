@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "곰곰 고당도 수박, 7kg미만, 1통" 
+description: 곰곰 고당 ..
+date: 2020-06-14 16:12:44 
+img: https://static.coupangcdn.com/image/retail/images/92569418880369-7e7db2a3-96e1-4817-ab19-fa555a635e0c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1578509597&itemId=2699030860&vendorItemId=70689421755&traceid=V0-113-839b941dec7e9e45 
+categories: [1012] 
+color: FF6F00 
+price: 13490 
+author: Ask View Shop 
+---
+ 
