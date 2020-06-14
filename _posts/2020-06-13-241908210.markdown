@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "오키진 여성용 에어쿨린넨 8부바지" 
+description: 오키진 여 ..
+date: 2020-06-14 07:01:14 
+img: https://static.coupangcdn.com/image/retail/images/2019/06/24/18/6/50c99924-0f5e-4480-b69d-43683ac0a9eb.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=241908210&itemId=768682333&vendorItemId=4972279877&traceid=V0-113-dc66dd54c6b2b6f7 
+categories: [1001] 
+color: FF6F00 
+price: 13900 
+author: Ask View Shop 
+---
+ 

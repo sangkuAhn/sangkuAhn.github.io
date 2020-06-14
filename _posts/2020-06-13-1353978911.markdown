@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "오키진 여성용 브런치 찰랑 밴딩팬츠" 
+description: 오키진 여 ..
+date: 2020-06-14 07:01:14 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/03/9/0/dee96bcf-8f1c-47e8-9776-348329ba9aef.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1353978911&itemId=2382518561&vendorItemId=70378003215&traceid=V0-113-9a1034f18e412564 
+categories: [1001] 
+color: 4CAF50 
+price: 13900 
+author: Ask View Shop 
+---
+ 

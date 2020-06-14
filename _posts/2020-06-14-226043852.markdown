@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "딩동펫 아이스 쿨링 방석, 그레이" 
+description: 딩동펫 아 ..
+date: 2020-06-14 09:32:25 
+img: https://static.coupangcdn.com/image/retail/images/2019/05/20/22/3/499be50c-5d72-4b0f-a82a-7ef12f9fcbdf.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=226043852&itemId=716121369&vendorItemId=4939191200&traceid=V0-113-50ec08376951c2de 
+categories: [1029] 
+color: FF6F00 
+price: 22400 
+author: Ask View Shop 
+---
+ 
