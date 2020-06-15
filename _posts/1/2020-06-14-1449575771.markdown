@@ -9,5 +9,5 @@ categories: [1005]
 color: 7E57C2 
 price: 7900 
 author: Ask View Shop 
+cont:  "●구매후기●<br/>건조기 돌리면 줄어들까봐요<br/>보통입는 사이즈보다 2사이즈 크게 삿어요<br/>역시 크게 주문하길 잘햇어요<br/>" 
 ---
- 
