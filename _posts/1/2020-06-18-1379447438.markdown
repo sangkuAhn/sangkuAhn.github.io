@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "카르페디엠 심플베이직 자동 장우산" 
+description: 카르페디엠 ..
+date: 2020-06-19 07:51:43 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/17/19/6/2c7a662c-d4ba-42fc-af4b-4016eca61321.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1379447438&itemId=2413555979&vendorItemId=70407963953&traceid=V0-113-febeb86cf807866b 
+categories: [1008] 
+color: FF6F00 
+price: 8170 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>6월 15일 가격 8170원<br/>7500원의 가격에 기대했던것보다 훨씬 좋네요!<br/>검정색이랑 올리브색 두개 구매했는데 색도 너무 맘에 들어요<br/>구입가격: ₩8,179<br/>근데 두개 브래드가 다른건지 뭔지 찍찍이부분이 다르게 표시되어있네요??<br/>뭐 상관은 없어서 그냥 쓰려구요!!<br/>새로 구입했어요<br/>원래 가지고 다니던 장우산을 잃어버려서 .<br/>.<br/> ㅠㅠㅠ<br/>일단 가격대비 진짜 좋은우산이네요 긋긋긋!<br/>크기도 혼자쓰기 그냥 딱 좋아요! 너무크지도않고 작지도않지만 조금더 컸으면 좋을거같아요 ㅠ 두명이쓰기엔 무리에요 우산은 짱짱하고 퀄리티 좋아요 근데 스프링이 강한건가 펼칠때 강하게 펼쳐져서 고장나진 않을까 걱정되긴하는데 바람에 쉽게 흔들리거나 까바질거같진않아요<br/>펴봤는데 구멍난곳없고 짱짱해서 잃어버리지만 않으면 오래쓸꺼같아요.<br/><br/>" 
+---
