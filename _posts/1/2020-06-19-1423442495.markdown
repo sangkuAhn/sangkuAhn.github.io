@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "폰코니 Z035 핑크도트베어 11종 지비츠세트" 
+description: 폰코니 Z ..
+date: 2020-06-19 15:44:20 
+img: https://static.coupangcdn.com/image/vendor_inventory/ff56/267433e228d08f96ce9f7cd990f5399e217ec26648d70da1d968d23d1a57.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1423442495&itemId=2462498835&vendorItemId=70455974651&traceid=V0-113-d5acd4a874a6a9e8 
+categories: [1007] 
+color: 006064 
+price: 14500 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>완전 이뻐요대만족입니당<br/>" 
+---
