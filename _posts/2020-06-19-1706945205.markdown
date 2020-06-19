@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "일곱 해의, 문학동네" 
+description: 일곱 해의 ..
+date: 2020-06-19 09:03:52 
+img: https://static.coupangcdn.com/image/retail/images/2020/06/16/10/5/bcd4449a-ca3e-466a-a193-e77948b46155.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1706945205&itemId=2905077030&vendorItemId=70894014084&traceid=V0-113-f1e3fbc0cd8491bd 
+categories: [1019] 
+color: 4A148C 
+price: 12150 
+author: Ask View Shop 
+---
+ 

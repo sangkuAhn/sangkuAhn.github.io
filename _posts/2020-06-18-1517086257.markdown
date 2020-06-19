@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "내셔널지오그래픽 냉감 바지(A14) 긴바지" 
+description: 내셔널지오 ..
+date: 2020-06-19 07:08:27 
+img: https://static.coupangcdn.com/image/vendor_inventory/29fd/085eee86ed86a72dbea3d948c9a47f6aed10fe0e439094cf28afc92ca3f3.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1517086257&itemId=2603385788&vendorItemId=70779137632&traceid=V0-113-1effca418451a8e1 
+categories: [1002] 
+color: 4A148C 
+price: 35000 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "마니커 닭다리살 (냉장) 600g, 1개" 
+description: 마니커 닭 ..
+date: 2020-06-19 08:13:23 
+img: https://static.coupangcdn.com/image/retail/images/2020/01/13/12/2/98dabcf2-1a66-4273-817c-1d818e2ba204.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1172799932&itemId=2151030684&vendorItemId=70149344931&traceid=V0-113-47c90fb4207e144c 
+categories: [1012] 
+color: D9418C 
+price: 9990 
+author: Ask View Shop 
+---
+ 

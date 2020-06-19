@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "세이스타일 쿨 끈나시 V넥 밴딩 점프수트" 
+description: 세이스타일 ..
+date: 2020-06-19 07:01:14 
+img: https://static.coupangcdn.com/image/retail/images/2019/07/26/9/8/df0fd281-99c1-4418-924d-9ec612b327c6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=207253804&itemId=613148834&vendorItemId=70260679619&traceid=V0-113-bb5e5631c2615118 
+categories: [1001] 
+color: 03A9F4 
+price: 16900 
+author: Ask View Shop 
+---
+ 

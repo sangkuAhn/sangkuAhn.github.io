@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 코멧 키친 티타늄코팅 궁중팬, 28cm, 1개" 
+description: 쿠팡 브랜 ..
+date: 2020-06-19 08:20:35 
+img: https://static.coupangcdn.com/image/retail/images/83230484726541-d3d04ca5-2799-4dd2-99ff-cabe616797c7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1610668548&itemId=2750691386&vendorItemId=70740645139&traceid=V0-113-1b8305862982ee6c 
+categories: [1013] 
+color: 9E9D24 
+price: 12490 
+author: Ask View Shop 
+---
+ 

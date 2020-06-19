@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "프레드페리 프레드페리 베이스라인 캔버스 B8223-100 (4378119)" 
+description: 프레드페리 ..
+date: 2020-06-19 07:44:30 
+img: https://static.coupangcdn.com/image/vendor_inventory/7834/1da1c0b0e653d31caa220ea9530c7cbf75e6f435fe16cded7424812dcb4f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1224438457&itemId=2216003196&vendorItemId=70605045842&traceid=V0-113-61d068571d2ce5b2 
+categories: [1007] 
+color: 5A8DF3 
+price: 84900 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "인텍스 패밀리 프레임 사각 풀장, 혼합 색상" 
+description: 인텍스 패 ..
+date: 2020-06-19 09:11:14 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/05/17/3017222331/de5989a3-e5c2-4d20-9f2e-18bc97f87f72.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=90362789&itemId=281926573&vendorItemId=3030541029&traceid=V0-113-dd829bc496725a0a 
+categories: [1020] 
+color: 4A148C 
+price: 88000 
+author: Ask View Shop 
+---
+ 
