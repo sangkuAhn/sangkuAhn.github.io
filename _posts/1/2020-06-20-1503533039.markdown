@@ -9,5 +9,5 @@ categories: [1007]
 color: 03A9F4 
 price: 5500 
 author: Ask View Shop 
+cont:  "●구매후기●<br/>신발커요<br/>자전거탈때나 물가에서 놀때 신으라고 사줬어요.<br/> 편해보이네요.<br/><br/>정사이즈아님<br/>헐렁해요<br/>" 
 ---
- 

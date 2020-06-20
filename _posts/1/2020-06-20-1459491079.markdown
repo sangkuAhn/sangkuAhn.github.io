@@ -9,5 +9,5 @@ categories: [1001]
 color: 03A9F4 
 price: 10900 
 author: Ask View Shop 
+cont:  "●구매후기●<br/>고민하다시켰는데 완전대박나게 이뻐요<br/>시원한원단으로  가격대비good !!사이즈는  88정도<br/>쿠팡쇼핑하다 우연히.<br/>.<br/><br/>화면보다 색감이 촌스러워요<br/>" 
 ---
- 
