@@ -2,10 +2,10 @@
 layout: post 
 title:  "흔한남매 1~5권 세트 전5권, 아이세움" 
 description: 흔한남매  ..
-date: 2020-06-20 09:03:19 
+date: 2020-06-20 16:05:31 
 img: https://static.coupangcdn.com/image/retail/images/2020/06/17/11/6/393834e6-cdc8-4228-a98e-399fdc1aafee.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1712218186&itemId=2913938839&vendorItemId=70902632877&traceid=V0-113-9d26bb5a4ebbf244 
-categories: [1019] 
+categories: [1011] 
 color: f44336 
 price: 52200 
 author: Ask View Shop 

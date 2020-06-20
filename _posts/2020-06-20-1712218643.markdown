@@ -2,11 +2,11 @@
 layout: post 
 title:  "흔한남매 5, 아이세움" 
 description: 흔한남매  ..
-date: 2020-06-20 09:03:19 
+date: 2020-06-20 16:05:31 
 img: https://static.coupangcdn.com/image/retail/images/2020/06/17/11/4/b0d76e1e-351b-4453-8fdd-3385e1c0ba0a.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1712218643&itemId=2913939529&vendorItemId=70902632929&traceid=V0-113-db1865100deb9df7 
-categories: [1019] 
-color: BF360C 
+categories: [1011] 
+color: 4374D9 
 price: 10800 
 author: Ask View Shop 
 ---
