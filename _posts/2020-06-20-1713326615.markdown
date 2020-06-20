@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "말하기를 말하기, 콜라주" 
+description: 말하기를  ..
+date: 2020-06-20 09:03:19 
+img: https://static.coupangcdn.com/image/retail/images/2020/06/17/18/8/8a303958-164c-4370-ae79-377078293e27.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1713326615&itemId=2915760436&vendorItemId=70904430592&traceid=V0-113-b0e9a56d1c0caf22 
+categories: [1019] 
+color: A566FF 
+price: 11700 
+author: Ask View Shop 
+---
+ 
