@@ -9,5 +9,5 @@ categories: [1007]
 color: 35B62C 
 price: 20900 
 author: Ask View Shop 
+cont:  "●구매후기●<br/>너무 예뻐요 ㅎㅎㅎ<br/>신던것보다 크게 시키면 완전 좋을것같아요<br/>이뻐요<br/>" 
 ---
- 
