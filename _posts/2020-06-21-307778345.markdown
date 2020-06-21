@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "테팔 엑스트라 프라이팬, 26cm, 1개" 
+description: 테팔 엑스 ..
+date: 2020-06-21 16:20:29 
+img: https://static.coupangcdn.com/image/retail/images/2019/09/27/12/9/fefcc703-2c5d-49be-b1c3-fbf7070c5ffb.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=307778345&itemId=970455865&vendorItemId=5379634850&traceid=V0-113-7dc4109dd691c824 
+categories: [1013] 
+color: 4CAF50 
+price: 17900 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "카늘 유모차 선풍기, 1개, 네이비" 
+description: 카늘 유모 ..
+date: 2020-06-21 16:06:05 
+img: https://static.coupangcdn.com/image/vendor_inventory/7951/08c3fccdde124daf5a2b65dc6a19a89fa6e79e5fc11593ce7db05295f380.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1548195421&itemId=2650047987&vendorItemId=70640770920&traceid=V0-113-e8e0ab3f57c22078 
+categories: [1011] 
+color: BF360C 
+price: 9800 
+author: Ask View Shop 
+---
+ 

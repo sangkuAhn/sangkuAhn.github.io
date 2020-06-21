@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "듀플렉스 전기 모기퇴치기, DP-1007IK" 
+description: 듀플렉스  ..
+date: 2020-06-21 16:27:42 
+img: https://static.coupangcdn.com/image/retail/images/600021384565841-d43ba05e-dc39-4414-97e3-38ce48cd581d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=222173814&itemId=695655026&vendorItemId=4778254672&traceid=V0-113-2eb7df2fdad4ef34 
+categories: [1014] 
+color: f44336 
+price: 13690 
+author: Ask View Shop 
+---
+ 

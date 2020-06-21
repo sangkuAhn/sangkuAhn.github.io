@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "영원한 올챙이, 고요한소리" 
+description: 영원한 올 ..
+date: 2020-06-21 17:03:46 
+img: https://static.coupangcdn.com/image/retail/images/2020/02/24/11/6/14a924b4-b4bc-433f-ac95-6c7cf61395fc.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1291478032&itemId=2302660261&vendorItemId=70299574146&traceid=V0-113-0e990ca4d3667205 
+categories: [1019] 
+color: BF360C 
+price: 450 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "테팔 Only Cook 프라이팬 세트 2개, 혼합 색상, 프라이팬 20cm + 28cm" 
+description: 테팔 On ..
+date: 2020-06-21 16:20:29 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/03/28/4433293912/0d7aa9d2-cbdf-4d6a-a385-739a2c573154.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=191241882&itemId=546594868&vendorItemId=4433293912&traceid=V0-113-3bdb73aa6a1d0f0c 
+categories: [1013] 
+color: FF6F00 
+price: 32310 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "예샘 익스트림 에어 워터건 소, 혼합 색상" 
+description: 예샘 익스 ..
+date: 2020-06-21 17:10:59 
+img: https://static.coupangcdn.com/image/retail/images/2019/07/11/17/8/90eb40ac-f4b5-447a-82d8-94fe58f62966.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=257796471&itemId=808748300&vendorItemId=5056890007&traceid=V0-113-5adb45942ce75785 
+categories: [1020] 
+color: FF6F00 
+price: 7900 
+author: Ask View Shop 
+---
+ 

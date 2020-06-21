@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코디아이 플라워 바디슈트" 
+description: 코디아이  ..
+date: 2020-06-21 15:15:41 
+img: https://static.coupangcdn.com/image/retail/images/2020/05/12/15/2/84258d2e-0f53-4a35-8fa2-8a885770d1c4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1596918597&itemId=2728290294&vendorItemId=70718502526&traceid=V0-113-ff913cfdffa96992 
+categories: [1003] 
+color: CF36BB 
+price: 9900 
+author: Ask View Shop 
+---
+ 
