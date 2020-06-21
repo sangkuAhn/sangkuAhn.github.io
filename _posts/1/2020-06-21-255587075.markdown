@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "데일리앤 스콧 프린팅 반팔 면 롱원피스" 
+description: 데일리앤  ..
+date: 2020-06-21 15:01:16 
+img: https://static.coupangcdn.com/image/vendor_inventory/9280/e723bb3553a1f47922122c1b070a800eb405746be38526e096c6a7a8f63e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=255587075&itemId=801787247&vendorItemId=5037505703&traceid=V0-113-d7cb43ec4b8f10e6 
+categories: [1001] 
+color: A57F92 
+price: 7700 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>다른색도 사야 겠어요ㅋㅋ<br/>상품평보고  설마 설마하는마음에 구매했는데 역시나입니다.<br/>.<br/><br/>앏아도  얇아도  너무얇아서 다른식구있음 집에서도 못입습니다... <br/><br/>여기 저기 보다가 디자인도 괜찮고 가격도 좋고      집에서 딸이랑 같이 입으려고 3벌 샀는데<br/>이번구매한상품은 완젼 실패네요.<br/>.<br/>ㅠ<br/>저희는 마음에 쏙드네요.<br/> 면재질도 좋고 품도 좋고 길이도 좋고<br/>천이 좀 거칠고 구김이 잘 가지만 시원하고 얇아서 여름에 입기 좋아요<br/>" 
+---

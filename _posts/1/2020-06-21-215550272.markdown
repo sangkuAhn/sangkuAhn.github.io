@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "메이시스 여름신상 하루특가 빅SIZE 상의하의" 
+description: 메이시스  ..
+date: 2020-06-21 15:01:16 
+img: https://static.coupangcdn.com/image/vendor_inventory/0e20/14597d707cf1c9f85fe4f0b132af843e17a3d08b9ee908205676383a5637.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=215550272&itemId=659714271&vendorItemId=4708894814&traceid=V0-113-55285c4ec9144269 
+categories: [1001] 
+color: 9E9D24 
+price: 11200 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>55싸이즈나 66싸이즈가  입어야 저런핏이 나올듯하네요<br/>바지가 매우얇고 구김엄청가고 비치며 먼지겁나붙음... <br/>ㅠㅠ<br/>반품귀찮아서 집에서 잠옷으로 입기로함... <br/><br/>사이즈가 넉넉하구 비침도 없구 편하게 잘입을께요<br/>사진에있는 바지랑 원단이 같은건가 의심이듬.<br/>.<br/><br/>역간까슬한데 얇고 구김 잘가며 걸을때 다리에 감김... <br/><br/>" 
+---

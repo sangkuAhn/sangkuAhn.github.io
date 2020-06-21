@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "에이비엠 링세줄머리끈" 
+description: 에이비엠  ..
+date: 2020-06-21 15:51:40 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/06/28/4077398424/6507789b-d797-42eb-8f3c-f8e7949f799d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=151013794&itemId=436013698&vendorItemId=4077398424&traceid=V0-113-4991eccdb4d4344f 
+categories: [1008] 
+color: 4374D9 
+price: 5880 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>50개 라서 한참 쓸 수 있을 것 같네요.<br/><br/>갯수가 많아서  한참 쓰겠어요 빠른 배송 감사합니다.<br/> 잘 쓸께요  생각보다 좀 얇아요<br/>다만, 링이 세줄이라 좀더 짱짱하게 느껴지는 느낌이네요 ㅎㅎ<br/>머리끈 자주 잃어버려서 이번에 아예 대용량으로 구매했는데요<br/>아이들 머리카락이 뜯기던 작은 고무줄 안녕<br/>엉킴이 없네요.<br/><br/>여러개 모아서 팔에 끼우면 팔찌느낌이라 더욱 굿♡<br/>요 고무줄은 머리도 단단히 묶기고<br/>이 가격에 고무줄 가성비 좋네요.<br/><br/>일반적으로 생각하는 머리끈의 짱짱함과 똑같구요<br/>작은 아기고무줄 졸업했어요.<br/>ㅎㅎ<br/>" 
+---

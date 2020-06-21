@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "마스크 분실 방지 무지 목걸이 끈" 
+description: 마스크 분 ..
+date: 2020-06-21 15:30:04 
+img: https://static.coupangcdn.com/image/vendor_inventory/378c/de191cd17fe8c17751d17715899215b4877215ed49ec4ebd9032df8ba130.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1639124199&itemId=2795277919&vendorItemId=70784936427&traceid=V0-113-4df3a0b7e80b36b2 
+categories: [1005] 
+color: A566FF 
+price: 1400 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>가격이 너무 좋아요.<br/> 다른곳 스탑퍼넣고 더 비싸던데 아이가 스탑퍼있는건 목에 거슬려서 싫어하더라구요.<br/><br/>그냥쓸께요, 이뻐요^^ 유용하구요<br/>두개샀는데 한개는 고리불량인듯 ㅜ<br/>마스크목걸이 너무편해요! 아이들 마스크 어디에뒀나 찾기도쉽고ㅎㅎ 몇개더살걸 그랬어요<br/>컬러도 4개샀는데 모두다르게 보내주셨어요<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "ZARA 자라 플리츠 버킷백 2종 컬러" 
+description: ZARA  ..
+date: 2020-06-21 15:51:40 
+img: https://static.coupangcdn.com/image/vendor_inventory/c6d6/781e6a3fb89d2838de3011874c4d1017046343db45fae8d5f741496de4c4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1322274272&itemId=2343667542&vendorItemId=70340228489&traceid=V0-113-66a8feba0e31a2e4 
+categories: [1008] 
+color: A566FF 
+price: 33000 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>감사합니다<br/>매장보다 직구하니 조금이라도 저렴하기도하고<br/>재질도 좋고 가방이 이뻐요<br/>직구라 오래걸릴줄 알았는데 저는 7일정도 걸린거같네요<br/>" 
+---

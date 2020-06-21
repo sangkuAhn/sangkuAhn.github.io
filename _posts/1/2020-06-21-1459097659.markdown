@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "마리앤모리 아동용 빌리 포켓 팬츠" 
+description: 마리앤모리 ..
+date: 2020-06-21 15:22:52 
+img: https://static.coupangcdn.com/image/retail/images/80435046058717-c036b59f-9357-47f3-93c8-0de487d838c1.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1459097659&itemId=2510794489&vendorItemId=70503848879&traceid=V0-113-4998d9d584d7db7b 
+categories: [1004] 
+color: A566FF 
+price: 8900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>95센치 15키로 110 잘맞아오<br/>가성비짱<br/>배송도빠르고 넘좋아요<br/>살이 갑자기쪄서130 했는데<br/>옷이 천이 좋고 아이가 편안해하네요 색상도 너무 예뻐요<br/>자주넘어지는 아들래미 무릎보호!<br/>키큰6세<br/>편하고 무릎도 덮는 기장에 너무 좋네요<br/>허리여유있고 잘맏아요<br/>95센치 15키로 110 잘맞아오<br/>가성비짱<br/>배송도빠르고 넘좋아요<br/>살이 갑자기쪄서130 했는데<br/>옷이 천이 좋고 아이가 편안해하네요 색상도 너무 예뻐요<br/>자주넘어지는 아들래미 무릎보호!<br/>키큰6세<br/>편하고 무릎도 덮는 기장에 너무 좋네요<br/>허리여유있고 잘맏아요<br/>" 
+---

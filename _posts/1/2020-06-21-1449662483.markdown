@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "디캣 차량용 방향제 클립형 30C 블랙체리 그레이, 2개입, 1개" 
+description: 디캣 차량 ..
+date: 2020-06-21 16:56:33 
+img: https://static.coupangcdn.com/image/retail/images/2020/04/10/17/3/7d5fde77-133e-489e-94cf-0e955f22d3c9.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1449662483&itemId=2496688072&vendorItemId=70489835930&traceid=V0-113-b17dd5198b3c2803 
+categories: [1018] 
+color: 43A047 
+price: 30140 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>너무 만족해서 1세트 다른 디자인으로 구입할거예요<br/>디자인이 예뻐서 선택한 상품이였어요<br/>보통에 블락체리향 보다 뭔가 깊이감 있는 느낌이었요<br/>속에 부러진것이 왔어요<br/>외관은 이쁜데 향이 잘 안나네여<br/>향은 가장 무난한 블랙체리로 선택했는데<br/>" 
+---

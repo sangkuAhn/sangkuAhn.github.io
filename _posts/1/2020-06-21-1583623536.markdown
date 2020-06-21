@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "캐럿 그래픽 반팔 티셔츠 유니버스, 화이트" 
+description: 캐럿 그래 ..
+date: 2020-06-21 15:08:28 
+img: https://static.coupangcdn.com/image/retail/images/94016893792747-ccd279c2-7ffe-4dea-8ce5-f75bf43a4075.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1583623536&itemId=2707042458&vendorItemId=70697326459&traceid=V0-113-0fa04e8c051fac01 
+categories: [1002] 
+color: 5A8DF3 
+price: 8990 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>간지 좔좔 면이 너무좋아요 디자인도 깔끔하고 여름에 입기 좋아용남친한테 사줬더니 엄청 좋아하네요ㅋ 커플티로 입기도 부담없고 조아횽<br/>유니클로 미디엄 사이즈에요.<br/> 참고하세요<br/>" 
+---

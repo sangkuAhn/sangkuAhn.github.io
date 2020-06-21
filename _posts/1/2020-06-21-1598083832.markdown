@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "파타고니아 프린팅 나염 반팔 티셔츠, 블랙" 
+description: 파타고니아 ..
+date: 2020-06-21 15:08:28 
+img: https://static.coupangcdn.com/image/vendor_inventory/79d7/99360316b0a177a0eb66521101c5b01326cbd5804ae5194b3a38186cf60e.PNG 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1598083832&itemId=2730140643&vendorItemId=70720285161&traceid=V0-113-0c213248213bce36 
+categories: [1002] 
+color: A566FF 
+price: 17000 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>여름반팔인데 이렇게 두껍다니 아쉽네요<br/>제가95싸이즈인데110되어보여서걱정햇는데먼저주말에써핑성지인양양인구에가서보니젊은친구들이옷을다크게이보잇어더라구요 요즘큰싸이즈대세 오히려큰싸이즈굿좋네요<br/>조금 두툼해요.<br/><br/>" 
+---
