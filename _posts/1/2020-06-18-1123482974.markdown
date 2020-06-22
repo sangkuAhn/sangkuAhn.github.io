@@ -2,12 +2,12 @@
 layout: post 
 title:  "나이키 나이키/ NSW 컨셉 블루 1_911901-010 티셔츠" 
 description: 나이키 나 ..
-date: 2020-06-22 16:48:50 
+date: 2020-06-19 07:37:18 
 img: https://static.coupangcdn.com/image/vendor_inventory/7911/a33b117252e679001ac2809ff0220f46716967b1c0ebe7dca207f4e4e6e6.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1123482974&itemId=2089451578&vendorItemId=70268485126&traceid=V0-113-55468f39f1692392 
-categories: [1017] 
-color: A6A6A6 
+categories: [1006] 
+color: A566FF 
 price: 19900 
 author: Ask View Shop 
+cont:  "●구매후기●<br/>중딩1년 조카거라 만나봐야 상품평 가능함<br/>중딩1년 조카거라 만나봐야 상품평 가능함<br/>" 
 ---
- 

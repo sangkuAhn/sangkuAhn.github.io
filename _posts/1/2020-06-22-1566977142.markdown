@@ -9,5 +9,5 @@ categories: [1007]
 color: BF360C 
 price: 9900 
 author: Ask View Shop 
+cont:  "●구매후기●<br/>너무 이쁘고 편해요 푹신푹신거리고 여름때 많이 애용할거같아요ㅋㅎㅋㅎ<br/>아이가 좋아해요<br/>어린이집에서 신으려고 한치수 크게 주문했는데 편하고 좋네요.<br/><br/>" 
 ---
- 
