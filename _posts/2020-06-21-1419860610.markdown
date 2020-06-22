@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "모던지 린넨 포켓 긴팔셔츠" 
+description: 모던지 린 ..
+date: 2020-06-22 07:01:16 
+img: https://static.coupangcdn.com/image/vendor_inventory/bba8/d1ea0357b1aaeac42ba577d58a5403635ee9d5de616cc850f9d87a2afacf.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1419860610&itemId=2457725113&vendorItemId=70451252614&traceid=V0-113-54ece099f07e9f52 
+categories: [1001] 
+color: FF6F00 
+price: 11900 
+author: Ask View Shop 
+---
+ 

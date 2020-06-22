@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "곰곰 바닐라 아이스크림, 474ml, 4개" 
+description: 곰곰 바닐 ..
+date: 2020-06-22 08:13:17 
+img: https://static.coupangcdn.com/image/retail/images/6162532354052-40afe159-cf8b-4f2c-aa5c-6a069c66654f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1321100571&itemId=2342070132&vendorItemId=70338648532&traceid=V0-113-c25f2a5f2759c5ce 
+categories: [1012] 
+color: A57F92 
+price: 7890 
+author: Ask View Shop 
+---
+ 

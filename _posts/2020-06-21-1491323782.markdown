@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코디아이 아임덕 바디슈트" 
+description: 코디아이  ..
+date: 2020-06-22 07:15:40 
+img: https://static.coupangcdn.com/image/retail/images/2020/04/13/19/5/61a0c607-2c6d-4152-8509-e2bae4285a49.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1491323782&itemId=2560141692&vendorItemId=70552636009&traceid=V0-113-a6a72bd384805355 
+categories: [1003] 
+color: 4CAF50 
+price: 8900 
+author: Ask View Shop 
+---
+ 

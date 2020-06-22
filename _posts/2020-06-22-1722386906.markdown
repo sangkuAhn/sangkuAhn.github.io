@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "마흔의 마음학, 지식인하우스" 
+description: 마흔의 마 ..
+date: 2020-06-22 09:03:44 
+img: https://static.coupangcdn.com/image/retail/images/2020/06/19/17/1/13521095-e78a-4fb4-8d7d-6d1e4ed16e33.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1722386906&itemId=2931576657&vendorItemId=70920209167&traceid=V0-113-3d8bacc1dca8e9b6 
+categories: [1019] 
+color: 4CAF50 
+price: 13050 
+author: Ask View Shop 
+---
+ 
