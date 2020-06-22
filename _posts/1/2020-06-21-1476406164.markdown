@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "릴리푸리 여아용 줄라이 상하복 세트" 
+description: 릴리푸리  ..
+date: 2020-06-22 07:22:53 
+img: https://static.coupangcdn.com/image/retail/images/2020/04/09/17/6/a6e1b98c-a6f0-4df4-bd5c-591e5d042a78.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1476406164&itemId=2537079196&vendorItemId=70529801147&traceid=V0-113-cc734bcd57500c55 
+categories: [1004] 
+color: 9E9D24 
+price: 8900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>색깔이 너무 칙칙해요 예쁜 머스타드색도 아니고<br/>옷에 구멍 다 나있고 모르고 헹궈서 반품도 안된다고 하고 최악이네요!!<br/>입혀보니 정말 이뻐요<br/>착한가격에 잘구매한거같아요<br/>" 
+---

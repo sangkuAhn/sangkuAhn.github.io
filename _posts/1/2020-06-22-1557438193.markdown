@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "레고 75551 미니언즈 미니언들과 숨겨진 방, 혼합색상" 
+description: 레고 75 ..
+date: 2020-06-22 09:10:57 
+img: https://static.coupangcdn.com/image/retail/images/2020/05/08/12/8/20a2d919-67de-4943-8c7a-901b84614901.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1557438193&itemId=2663265912&vendorItemId=70653853484&traceid=V0-113-adcbc2e8479d9117 
+categories: [1020] 
+color: A6A6A6 
+price: 71160 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>셋이였음 더 좋았을텐데.<br/>.<br/>그게 좀 아쉽네요<br/>코로나19로 집 안에서 생활하는 중 몇 시간 안되지만 아들과 함께 시간을 보냈내요.<br/> 배송은 빨랐으나 제품 관리는 좀 더 신경 써주세요.<br/><br/>퀄리티가 좋고 크기도 좋아요 그런데 2개를 사야 3명다 전시가되서 아쉽네요 ㅜㅜ<br/>" 
+---

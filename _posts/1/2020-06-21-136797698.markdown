@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "시크릿 앞창가리개 일반형, 1개" 
+description: 시크릿 앞 ..
+date: 2020-06-22 08:56:31 
+img: https://static.coupangcdn.com/image/retail/images/2018/09/20/18/0/84250a32-e7f4-4c93-a92a-46d0396e9330.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=136797698&itemId=400891586&vendorItemId=3976757667&traceid=V0-113-7e3f4b1d5953a6f4 
+categories: [1018] 
+color: A566FF 
+price: 7000 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>맥스크루즈 차량에 맞는 제품 찾기가 어렵더라구요.<br/><br/>맥스크루즈차량에는 위아래가 5센티정도 부족하지만 양옆은 넉넉해서 차안쪽으로 30센티정도 앞유리에 큐방을 부착할수 있을 정도로 큽니다.<br/> 위아래 폭이 조금 아쉽습니다.<br/><br/>암막효과는 굉장히 좋습니다.<br/><br/>여름대비용으로샀습니다.<br/> 검정차라 실내엄청뜨거운데 조금이나마 그늘만들어줫네요 여름때 써봐야알거같습니다<br/>재질은 걍 우비?.<br/>  또한 우비처럼 얇아요.<br/><br/>재질이 얋아서 전에 구입한 은박지(얋은 돗자리 정도 두께) 가림막을 안에 함께 설치했는데 좀 낫겠죠.<br/><br/>접기 편해서 사용후에는 아주 작은 사이즈로 서랍에 넣어다닙니다<br/>큐방은 아주 허접할정도는 아니지만 허술 함.<br/>(까맣고 힘없이 부들부들한 큐방)<br/>평상시에는 필요없는데 여름휴가때 쓰려고요.<br/><br/>" 
+---
