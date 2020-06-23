@@ -9,5 +9,5 @@ categories: [1002]
 color: 7E57C2 
 price: 14000 
 author: Ask View Shop 
+cont:  "●구매후기●<br/>사이즈천 가격모두 좋아요<br/>생각보다 꼼꼼한포장 이쁘게 잘맞네요.<br/>너무좋아해요<br/>예뻐여 잘ㄹ 산듯<br/>" 
 ---
- 
