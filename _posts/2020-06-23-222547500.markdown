@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "빈슨메시프 티클라 300 타프, 브라운, 1개" 
+description: 빈슨메시프 ..
+date: 2020-06-24 08:53:14 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/07/01/4782159537/c6538b8d-1118-4749-9666-e6b354355fd6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=222547500&itemId=697750313&vendorItemId=4782159537&traceid=V0-113-f429599c9db492c1 
+categories: [1017] 
+color: A57F92 
+price: 27900 
+author: Ask View Shop 
+---
+ 

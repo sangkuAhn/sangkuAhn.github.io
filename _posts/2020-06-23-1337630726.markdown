@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코디아이 퓨어베어 바디슈트" 
+description: 코디아이  ..
+date: 2020-06-24 07:19:29 
+img: https://static.coupangcdn.com/image/retail/images/2020/02/26/21/6/9cbb6a00-cc9c-4da8-9faf-d85d2fa76883.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1337630726&itemId=2364038270&vendorItemId=70360326448&traceid=V0-113-fda01c536c819878 
+categories: [1003] 
+color: D9418C 
+price: 9900 
+author: Ask View Shop 
+---
+ 

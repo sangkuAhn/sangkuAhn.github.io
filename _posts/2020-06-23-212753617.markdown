@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "패스트캠프 아이두젠 타프스크린, 초코브라운, 1개" 
+description: 패스트캠프 ..
+date: 2020-06-24 08:53:14 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/10/04/4674878010/7ef41c65-3882-4a05-970f-49a7ec547edc.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=212753617&itemId=642518446&vendorItemId=4674878010&traceid=V0-113-7114be2f646cc5db 
+categories: [1017] 
+color: 006064 
+price: 256940 
+author: Ask View Shop 
+---
+ 

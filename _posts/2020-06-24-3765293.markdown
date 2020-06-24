@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아기 초점책 4권 세트, 애플비" 
+description: 아기 초점 ..
+date: 2020-06-24 09:07:40 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2017/01/04/3005513768/1b6f7c2e-03a6-4319-8e45-df40894522d1.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=3765293&itemId=18576401&vendorItemId=3005513768&traceid=V0-113-852d8373ed625666 
+categories: [1019] 
+color: A566FF 
+price: 11250 
+author: Ask View Shop 
+---
+ 

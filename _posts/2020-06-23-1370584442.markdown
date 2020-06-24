@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "지오지아 쿨데이 라운드 반팔티 ABA2US1101" 
+description: 지오지아  ..
+date: 2020-06-24 07:04:44 
+img: https://static.coupangcdn.com/image/retail/images/30797852850722-de036736-a140-439e-97cf-1a34e97f3cba.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1370584442&itemId=2403134829&vendorItemId=70373194139&traceid=V0-113-7740aed48872dd95 
+categories: [1001] 
+color: 353535 
+price: 7500 
+author: Ask View Shop 
+---
+ 
