@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "도노도노 유모차 휴대용 선풍기, 화이트, 1개" 
+description: 도노도노  ..
+date: 2020-06-24 16:06:03 
+img: https://static.coupangcdn.com/image/retail/images/2020/04/16/13/4/4227aa74-10b4-4b30-8cc4-35dea0bd68dc.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1472648704&itemId=2531335737&vendorItemId=70721168337&traceid=V0-113-77dde82891615a1c 
+categories: [1011] 
+color: F15F5F 
+price: 38800 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>바람 조절 5단계 까지 있구요 집에있는 선풍기 만큼 쎄고 좋아요<br/>유모차 끌다가 저도 더우면 한번씩 돌려서 손에 땀도 식히고 다시 돌려주네요 ㅋㅋㅋ<br/>정말 쎄요 좋아요<br/>좋아요<br/>" 
+---

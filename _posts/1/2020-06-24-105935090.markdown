@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "미소로 지퍼케이스 문구세트, 블루, 3개" 
+description: 미소로 지 ..
+date: 2020-06-24 17:17:54 
+img: https://static.coupangcdn.com/image/retail/images/2018/06/18/17/3/3e5ee3f7-7a64-4ae2-a8a5-d28b9ce4c296.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=105935090&itemId=320594707&vendorItemId=3785917989&traceid=V0-113-9183f78b6cff9c78 
+categories: [1021] 
+color: 353535 
+price: 6530 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>상품이 매우 좋으며 배송은 빠르네요<br/>아이가  조아해요  친구들생일선물로 쵝오 인거 같으네요<br/>유치원 남아들에게 줄 수 있어 좋네요<br/>유치원 여아들에게 줄 수 있어 좋네요<br/>" 
+---
