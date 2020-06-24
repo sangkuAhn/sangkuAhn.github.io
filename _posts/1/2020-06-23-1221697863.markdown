@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "카카오프렌즈 부끄라이언 페이스 비치볼, 혼합 색상" 
+description: 카카오프렌 ..
+date: 2020-06-24 08:53:14 
+img: https://static.coupangcdn.com/image/retail/images/2020/01/28/17/5/e7baed6b-74be-4ad2-9c7a-21b58a3fd92b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1221697863&itemId=2212711060&vendorItemId=70210492876&traceid=V0-113-6d757e4b102a5f83 
+categories: [1017] 
+color: 353535 
+price: 7830 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>ㅠㅠ<br/>구웃짜!라이언좋아하는데.<br/>.<br/>넘 이뽕뽕<br/>그냥 귀여워서샀음<br/>써보니 바람도 안빠지고<br/>아이가 좋아하는 캐릭터로 사봤는데 일반 비치볼보다 훨씬 짱짱하네요<br/>완전 귀여워요<br/>일반 비치볼쓰고 잃어버리기 일쑤여서<br/>좋아요<br/>튼튼하네욥<br/>ㅠㅠ<br/>구웃짜!라이언좋아하는데.<br/>.<br/>넘 이뽕뽕<br/>그냥 귀여워서샀음<br/>써보니 바람도 안빠지고<br/>아이가 좋아하는 캐릭터로 사봤는데 일반 비치볼보다 훨씬 짱짱하네요<br/>완전 귀여워요<br/>일반 비치볼쓰고 잃어버리기 일쑤여서<br/>좋아요<br/>튼튼하네욥<br/>" 
+---

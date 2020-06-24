@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아이원더 에스닉 왕골 라탄슬리퍼 여성샌들" 
+description: 아이원더  ..
+date: 2020-06-24 07:48:17 
+img: https://static.coupangcdn.com/image/vendor_inventory/a95c/0a5e09bb8828eef5672c36a3fcd94ac0688ccbf5209dc7491dcdcbfdfa62.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=239627810&itemId=762284270&vendorItemId=70744127649&traceid=V0-113-220a4c3b00f2a644 
+categories: [1007] 
+color: FF6F00 
+price: 6490 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>동료들이가볍고이쁘다고주문부탁해서<br/>두치수큰거사니맞음250신는데260샀음편함<br/>생각보다 이뻐요가볍기도 하고 싼맛은 좀나지만.<br/>.<br/>요런 신발들 자체가 좀 그렇잖아요그래도 무난하게 신고 다니기 좋아요.<br/>.<br/><br/>서너켤레주문했어요<br/>신고나가니 이쁘다고 하네요<br/>직장에서실내화로신고있는데<br/>" 
+---

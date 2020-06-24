@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "케즈 스트링 버켓 백 KDSB100053L1" 
+description: 케즈 스트 ..
+date: 2020-06-24 07:55:29 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/20/18/6/8084b48e-0585-4589-9678-a23512eaf96f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1376987679&itemId=2410532840&vendorItemId=70405043289&traceid=V0-113-824bc2a9322c66a4 
+categories: [1008] 
+color: A566FF 
+price: 36910 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>너무 너무 이뻐요.<br/>크기도 적당하고 각이 잡혀있어서 넘어지지않고 재질이며 다 맘에 들어요.<br/>지금 잘들고 다녀요.<br/>네이비도 사고싶네요^^<br/>에코백을 좋아하는데 일반 스퀘어모양이 아니라 버킷백이라 더 세련되 보여요 크기도 생각보다 작지않아요<br/>예뻐요  조금 작은것 같지만 잘 쓸께요<br/>지금 계절에 잘 어울립니다<br/>천이 두툼해서 각이 잘 잡혀있어 이쁩니다<br/>핸드폰 지갑 파우치정도는 들어가는크기이고<br/>" 
+---

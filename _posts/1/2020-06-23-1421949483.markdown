@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "그뤠잇라이프 PVC 스마일 슬리퍼" 
+description: 그뤠잇라이 ..
+date: 2020-06-24 07:48:17 
+img: https://static.coupangcdn.com/image/retail/images/2020/04/02/16/3/2757c702-ba63-474a-922d-055c4327bc84.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1421949483&itemId=2460590470&vendorItemId=70454097814&traceid=V0-113-e04b0cfd7ebc2811 
+categories: [1007] 
+color: 4A148C 
+price: 7900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>발볼이 좁은 저에겐 너무 커요... <br/><br/>슬리퍼 구매시 쿠션감과 세탁의 간편성을 가장  고려했는데요<br/>저는 완전 스폰지 생각하고 있었는데 그게 아니네요 ㅎㅎ 사진이랑 똑같아요 ㅎㅎ 넘 예뻐요 만족 합니당 대만족 !!<br/>쿠션감  좋고 무엇보다 세탁이 간편해서 너무 좋습니다 그냥 샤워기로 물만 뿌려도 지져분한게 싹 딱이고 잘 마르고여 너무 좋습니다<br/>" 
+---

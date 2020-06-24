@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "한일카페트 대나무 쿨 죽부인, 그린" 
+description: 한일카페트 ..
+date: 2020-06-24 08:38:44 
+img: https://static.coupangcdn.com/image/retail/images/588404814613980-256d78f6-e355-4979-98a5-4ac32efcdfad.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1620716339&itemId=2765680980&vendorItemId=70755548360&traceid=V0-113-17bc9130ce1929f3 
+categories: [1015] 
+color: FF6F00 
+price: 16580 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>너무 약해요 금방 부셔질거같아요<br/>대가 부러져 있는곳 투성이고.<br/>.<br/> 불량품이 온 수준이에요<br/>피부 긁힐까봐 무서워서 못쓰겠어요<br/>" 
+---

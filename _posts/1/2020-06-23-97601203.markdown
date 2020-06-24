@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "시크릿쥬쥬 튜브75, 혼합 색상, 1개" 
+description: 시크릿쥬쥬 ..
+date: 2020-06-24 07:19:29 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/08/19/3737503598/548ccb80-c831-421b-b536-be72fc370a4b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=97601203&itemId=299674409&vendorItemId=3737503598&traceid=V0-113-07d8a19bfcb379ad 
+categories: [1003] 
+color: 4CAF50 
+price: 9200 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>7살이되서 튜브바꾼건데 생각보다 많이 커요<br/>냄새가 많이나요 끈도 얇고<br/>사이즈는 8세 아이에게 맞아요.<br/><br/>색도 사진보다는 흐릿하고 하지만 별의여산이라고 너무 좋아합니다<br/>아이가 좋다하니 그걸로 만족이요<br/>인터넷 사진보다는 튜브에 프린트된 이미지가 흐려요.<br/><br/>크기가 너무 크지도 작지도 않게 잘 썼어요.<br/> 122센티.<br/> 21키로<br/>" 
+---
