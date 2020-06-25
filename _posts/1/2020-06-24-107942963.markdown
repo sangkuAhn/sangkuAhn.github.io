@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "플레이비츠 CANDY 지비츠 베스트" 
+description: 플레이비츠 ..
+date: 2020-06-25 07:15:48 
+img: https://static.coupangcdn.com/image/vendor_inventory/8797/86c4fa3d3a19995a8bc148ed8caeffc0c0da371467a57200616981eb7385.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=107942963&itemId=326819904&vendorItemId=3800703354&traceid=V0-113-8957e7917f04d43e 
+categories: [1003] 
+color: 9E9D24 
+price: 890 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>가격 좋아요<br/>가장 마음에 들어요<br/>감자튀김이랑초코송이랑롤리팝골랐네요ㅋ<br/>고급스러운 디자인이 너무 마음에<br/>노란꽃이뻐서또고른건데... <br/>다른지비츠들보다끼우는게힘들어요ㅠ<br/>들어요<br/>배송 빠르고<br/>붙여줬더니고마워하면서신나게신고나가요^^<br/>사실애들보단엄마만족인것같긴하지만ㅋ<br/>손가락아파서애기신발에포기ㅜㅜ<br/>애들신고있는거보면너무귀엽고이뻐요ㅋ<br/>어른거에끼울려구요ㅠㅠ<br/>이번에 주문한 녀석들 중<br/>이번에둘째크록스사면서지비츠도추가구매했어요<br/>제가봐도너무귀여워서만족ㅋㅋㅋㅋ<br/>첫째는직접선택ㅋㅋㅋ<br/>포인트로 하나만 해도 예쁜것 같아요<br/>핑크 색감도 너무 이쁘고<br/>" 
+---

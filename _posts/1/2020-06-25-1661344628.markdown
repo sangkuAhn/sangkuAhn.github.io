@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "푸름아빠 거울육아:엄마의 감정을 거울처럼 비추는 아이, 한국경제신문" 
+description: 푸름아빠  ..
+date: 2020-06-25 09:04:06 
+img: https://static.coupangcdn.com/image/vendor_inventory/e304/033d51595c9ae45d6f1edcaa189aa0f30eb5930ec66fc7fe6e901f6ee4d1.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1661344628&itemId=2830718024&vendorItemId=70820156967&traceid=V0-113-c50d1746b44d4bd5 
+categories: [1019] 
+color: f44336 
+price: 15120 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>책을 사서 아직 다 읽어보진못했지만 마음이 든든합니다.<br/> 감사합니다.<br/><br/>푸름씨가유학가는날부분을읽으며 저도흐느꼈습니다.<br/> 이런책을써주셔서 감사합니다.<br/><br/>" 
+---

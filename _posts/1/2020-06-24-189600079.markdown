@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "크록스 코스트 클로그 (204151-100)" 
+description: 크록스 코 ..
+date: 2020-06-25 07:44:39 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2019/02/13/17/8/4be9463b-1ef0-45dd-b211-39eb0bc5850a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=189600079&itemId=541498841&vendorItemId=70942322934&traceid=V0-113-bdeb48b040a9c5ee 
+categories: [1007] 
+color: BF360C 
+price: 26500 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>가격대비굿<br/>만족합니다<br/>사이즈 딱 좋아요<br/>생각보다 빨리 왔네요.<br/><br/>아주 기본적입니다.<br/>.<br/><br/>운동화230235 신는데 사이즈 딱입니당<br/>" 
+---

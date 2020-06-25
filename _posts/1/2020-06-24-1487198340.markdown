@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "흔한남매 남아용 베이직 장화" 
+description: 흔한남매  ..
+date: 2020-06-25 07:30:14 
+img: https://static.coupangcdn.com/image/retail/images/2020/04/20/14/9/6c51a048-e86b-411f-8cac-3d7e523f0639.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1487198340&itemId=2553614289&vendorItemId=70616952568&traceid=V0-113-d226c708e18cb573 
+categories: [1005] 
+color: 7E57C2 
+price: 16900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>다른 구매자들을 위해 조금 가볍게 만들면 어떨까합니다.<br/><br/>사진 실물 동일합니다.<br/><br/>어차피 애들이 신을 장화니까요.<br/>.<br/><br/>예뻐요<br/>조금 아쉽습니다.<br/>.<br/><br/>좀 두꺼운 느낌.<br/>.<br/>좀 무거운 느낌.<br/>.<br/><br/>좋아요<br/>" 
+---

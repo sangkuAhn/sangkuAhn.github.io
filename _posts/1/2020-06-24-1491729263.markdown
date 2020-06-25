@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "슈펜키즈 남아용 패턴장화" 
+description: 슈펜키즈  ..
+date: 2020-06-25 07:30:14 
+img: https://static.coupangcdn.com/image/retail/images/2020/02/17/18/4/46757875-15c6-4885-9213-675bf998a6f6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1491729263&itemId=2560771661&vendorItemId=70276564913&traceid=V0-113-d55295902b5b17e1 
+categories: [1005] 
+color: A6A6A6 
+price: 17150 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>싸고 좋아요! 잘못 사면 무거운 장화인데 많이 무겁지도 않고 좋네요<br/>아들이 비올때 신나하며 학교에 신고 갔어요<br/>운동화 170신는 아이라.<br/> 180으로 주문했는데 딱 맞아요.<br/> 발에 살없는데도 볼도 딱 맞네요.<br/> 한치수 큰거로 교환하려고 했는데 아이가 신고가고싶어해서 그냥 신었습니다.<br/> 이번 장마 끝나면 못신을꺼 같아여 ㅎㅎㅎ 참.<br/> 가벼운 편이에요.<br/> 그래서 마음에 드네요<br/>장화 예뻐요 화면이랑 같아요^^<br/>" 
+---
