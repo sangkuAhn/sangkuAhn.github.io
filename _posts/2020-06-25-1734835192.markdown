@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "김미경의 리부트 + 책갈피 DIY키트, 웅진지식하우스" 
+description: 김미경의  ..
+date: 2020-06-25 17:03:39 
+img: https://static.coupangcdn.com/image/retail/images/2020/06/23/11/2/b4ee43b6-8d76-458d-aa90-e51927f81d09.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1734835192&itemId=2953220389&vendorItemId=70941731838&traceid=V0-113-a14174da8b040bf4 
+categories: [1019] 
+color: A566FF 
+price: 14400 
+author: Ask View Shop 
+---
+ 

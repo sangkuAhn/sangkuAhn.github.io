@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "크록스 CROCS 클레오2 11214-13S" 
+description: 크록스 C ..
+date: 2020-06-25 15:44:24 
+img: https://static.coupangcdn.com/image/vendor_inventory/6692/b69dc5eeea25c1e6ed92ab4024029cad20d8c7d461447ddb671eed1a087f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1558191252&itemId=2664401637&vendorItemId=70919799000&traceid=V0-113-fd2df1a41daf341a 
+categories: [1007] 
+color: f44336 
+price: 29970 
+author: Ask View Shop 
+---
+ 

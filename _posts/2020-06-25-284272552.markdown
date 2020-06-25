@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "내셔널지오그래픽 에코보틀, 혼합 색상, 350ml" 
+description: 내셔널지오 ..
+date: 2020-06-25 16:20:25 
+img: https://static.coupangcdn.com/image/retail/images/2019/08/19/15/9/382fb1b5-7e88-416a-a23c-0ca1ab014772.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=284272552&itemId=902341465&vendorItemId=70116087202&traceid=V0-113-aee44671f721cae5 
+categories: [1013] 
+color: CF36BB 
+price: 8000 
+author: Ask View Shop 
+---
+ 

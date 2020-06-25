@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "프로틴방앗간 하루단백바 카카오, 45g, 10개" 
+description: 프로틴방앗 ..
+date: 2020-06-25 16:49:15 
+img: https://static.coupangcdn.com/image/retail/images/12669802441736-271978c0-f21c-425b-b4a2-30e51f25d811.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1335921784&itemId=2361742955&vendorItemId=70358095411&traceid=V0-113-e817a99c8d974ea9 
+categories: [1017] 
+color: f44336 
+price: 22500 
+author: Ask View Shop 
+---
+ 
