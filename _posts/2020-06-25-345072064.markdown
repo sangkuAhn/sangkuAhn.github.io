@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "PIGRA 스위스 볼펜 P03 1.0mm, 블랙, 12개" 
+description: PIGRA ..
+date: 2020-06-25 09:18:30 
+img: https://static.coupangcdn.com/image/retail/images/2019/11/26/21/1/f19d227f-930f-46e9-8907-04a69806dfde.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=345072064&itemId=1095933632&vendorItemId=5616488184&traceid=V0-113-9e74732ab966af60 
+categories: [1021] 
+color: A566FF 
+price: 12650 
+author: Ask View Shop 
+---
+ 

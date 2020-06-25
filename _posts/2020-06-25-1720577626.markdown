@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "교토의 디테일, 북바이퍼블리" 
+description: 교토의 디 ..
+date: 2020-06-25 09:04:06 
+img: https://static.coupangcdn.com/image/retail/images/2020/06/17/21/9/4a512dd9-f1ba-4476-b4b4-94a107d452ff.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1720577626&itemId=2928450561&vendorItemId=70917117961&traceid=V0-113-bb663af16438397f 
+categories: [1019] 
+color: 1294AB 
+price: 15120 
+author: Ask View Shop 
+---
+ 

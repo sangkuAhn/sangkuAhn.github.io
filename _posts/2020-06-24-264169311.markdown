@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "까르페디엠 스마트 자동장우산" 
+description: 까르페디엠 ..
+date: 2020-06-25 07:51:53 
+img: https://static.coupangcdn.com/image/vendor_inventory/b9a2/821ec85c02cbd02b41d6a880deb28433ff9337cbb04ec507d01389b3995d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=264169311&itemId=835686524&vendorItemId=5100594153&traceid=V0-113-ebed0a1f9b0e29b7 
+categories: [1008] 
+color: CF36BB 
+price: 6800 
+author: Ask View Shop 
+---
+ 

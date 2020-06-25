@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "핏플랍 샌들 서파 블랙" 
+description: 핏플랍 샌 ..
+date: 2020-06-25 07:44:39 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2019/03/27/15/4/c30e4eb1-732c-40a1-aba8-fcb6939f8361.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=96772013&itemId=297750686&vendorItemId=4552955562&traceid=V0-113-c682012cf6f6d3de 
+categories: [1007] 
+color: BF360C 
+price: 29900 
+author: Ask View Shop 
+---
+ 
