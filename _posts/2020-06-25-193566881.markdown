@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코드26 공기청정제습기, CODE-APD13+" 
+description: 코드26  ..
+date: 2020-06-26 08:42:00 
+img: https://static.coupangcdn.com/image/retail/images/512362271782703-1adbd5c0-d461-42e3-a7a2-e10dd7c1bd7d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=193566881&itemId=554169013&vendorItemId=4485961674&traceid=V0-113-7bd310ed2092470c 
+categories: [1016] 
+color: A6A6A6 
+price: 84500 
+author: Ask View Shop 
+---
+ 
