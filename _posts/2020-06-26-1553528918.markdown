@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "퓨어스펙 당도선별 자몽, 2.5kg, 1봉" 
+description: 퓨어스펙  ..
+date: 2020-06-26 16:12:59 
+img: https://static.coupangcdn.com/image/retail/images/2020/05/07/17/4/52b71ac0-1e86-4d57-a087-45a0cc06258c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1553528918&itemId=2657255120&vendorItemId=70647865352&traceid=V0-113-61af275cc1e7d108 
+categories: [1012] 
+color: 7E57C2 
+price: 12700 
+author: Ask View Shop 
+---
+ 
