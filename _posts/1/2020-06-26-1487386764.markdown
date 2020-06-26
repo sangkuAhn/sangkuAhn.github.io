@@ -9,5 +9,5 @@ categories: [1002]
 color: 1294AB 
 price: 26910 
 author: Ask View Shop 
+cont:  "●구매후기●<br/>괜찮음 세탁후에도 그대로임 세탁망 써서 그런갛<br/>배송 빠르고 옷 예쁘고 한여름엔 조금 더워요<br/>여자 사이즈보다 훨씬 커요<br/>" 
 ---
- 
