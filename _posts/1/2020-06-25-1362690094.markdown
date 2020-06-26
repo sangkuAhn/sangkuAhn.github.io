@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "헤즈 올리브 다이노 아동우산" 
+description: 헤즈 올리 ..
+date: 2020-06-26 07:30:02 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/04/11/2/7e9aabb3-d337-4d4e-8bd7-72cdb8f0df11.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1362690094&itemId=2394080172&vendorItemId=70305748046&traceid=V0-113-296aaf03d64441a2 
+categories: [1005] 
+color: f44336 
+price: 12900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>30개월 아이한테 딱이에요.<br/> 공룡 좋아해서 더 좋고요.<br/><br/>우산 고를 때 투명창 있고 아이가 들기에 무겁거나 너무 크지 않은 것을 사야겠다싶었는데 딱이네요.<br/> s사이즈도 예전에 쓰던 것 보다 무거운지 무겁다고 하면서도 똑바로 잘 들고 크기도 적당해요.<br/> 혼자서 펴고 접기에도 안전하게 되어있어서 좋습니다.<br/><br/>30개월 아이한테 딱이에요.<br/> 공룡 좋아해서 더 좋고요.<br/><br/>우산 고를 때 투명창 있고 아이가 들기에 무겁거나 너무 크지 않은 것을 사야겠다싶었는데 딱이네요.<br/> s사이즈도 예전에 쓰던 것 보다 무거운지 무겁다고 하면서도 똑바로 잘 들고 크기도 적당해요.<br/> 혼자서 펴고 접기에도 안전하게 되어있어서 좋습니다.<br/><br/>" 
+---

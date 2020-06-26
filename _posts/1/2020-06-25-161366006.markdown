@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "제이앤제이 스마트 가꾸로 골프 장우산" 
+description: 제이앤제이 ..
+date: 2020-06-26 07:51:38 
+img: https://static.coupangcdn.com/image/retail/images/2019/02/11/11/6/8b296a5c-6eee-4623-bb63-3ffbe76466ea.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=161366006&itemId=463514153&vendorItemId=4977922813&traceid=V0-113-aecaa19d79355b22 
+categories: [1008] 
+color: 03A9F4 
+price: 13750 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>거꾸로우산 이쁘구좋네요.<br/>이번에우산을 다교체하려고  이것저것구매하다가 독특한우산이있어 구매해봅니다.<br/>.<br/> 서있는우산.<br/>.<br/>남편이 접수했다하네요.<br/>특이하게생겼다면서 단지아쉬운게있다면 자동우산이아니라는것.<br/>.<br/>조금 아쉽네요.<br/>.<br/><br/>겉보기엔이뻐요 우산은별로신경안쓰고살았는데이번에하나갖고싶다는생각이들어서구매했어요 늘천원이천원하는비닐우산만들다가이쁜걸로하나장만했지요<br/>근데 생각보다 작아요 ㅠㅠ<br/>디자인은 이뻐요 ㅎㅎ 물기없앨때도 편하구요,,<br/>아직 한번밖에 안써서 더써봐야 잘 알수있을듯 하네요<br/>" 
+---
