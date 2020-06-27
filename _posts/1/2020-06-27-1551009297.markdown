@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "밀레 남성 로바트 2 MVMUB443 BLA" 
+description: 밀레 남성 ..
+date: 2020-06-27 15:44:25 
+img: https://static.coupangcdn.com/image/vendor_inventory/d6e3/b19ad94290330c2d73a0ab1f2dd12548cdb90529339b3501e8f77c90e6a6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1551009297&itemId=2653912079&vendorItemId=70644673545&traceid=V0-113-9821aaead8d8a504 
+categories: [1007] 
+color: A57F92 
+price: 27000 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>가격대비 신발이 너무편해요<br/>생각보다는 별로 였어요<br/>좋아요 ᆢ 좋은상품 저렴하게 주셔서<br/>" 
+---

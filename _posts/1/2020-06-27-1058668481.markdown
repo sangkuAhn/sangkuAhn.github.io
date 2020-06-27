@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "하람커머스 EVA코트형 방수우의 우비 우의 레인코트" 
+description: 하람커머스 ..
+date: 2020-06-27 15:51:38 
+img: https://static.coupangcdn.com/image/vendor_inventory/eb36/b0eb4e59efd9413b45c019466a3a346ff40da2c8b314b68559d93c1e7d34.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1058668481&itemId=2002213430&vendorItemId=70002188799&traceid=V0-113-f61ce8116e8d302b 
+categories: [1008] 
+color: A566FF 
+price: 1500 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>그냥 정말 무난하게 입었습니다.<br/> 정리하기 불편할정도로 커서 일단 비막을땐 좋아요.<br/><br/>맘에 듭니다^^<br/>빠른배송 감사합니다 ^^<br/>빠른배송에 반가웠어요<br/>예쁜 비옷 입니다<br/>좋은가격 길이감도 좋고 선명한 컬러도 좋아요<br/>좋은가격 만큼이나 예쁜색상도 좋았어요<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "카카오프렌즈 70 빼꼼블루밍 자동 장우산 10029" 
+description: 카카오프렌 ..
+date: 2020-06-27 15:51:38 
+img: https://static.coupangcdn.com/image/retail/images/2020/02/11/11/6/86f79d12-52ff-4cd1-a1f8-9daddbe6a92b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1251664524&itemId=2251109442&vendorItemId=70152916756&traceid=V0-113-5666c5cb7c4c76c9 
+categories: [1008] 
+color: 03A9F4 
+price: 13480 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>넘좋은데 초등학생 3학년이 하기에는 넘커요 중학생이나 부터가능할것같아요<br/>색상이나 사용감은 넘좋으네요^^<br/>이뻐요<br/>" 
+---
