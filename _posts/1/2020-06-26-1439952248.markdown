@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "버켄스탁(BIRKENSTOCK) ARIZONA EVA 슬리퍼 (womens)" 
+description: 버켄스탁( ..
+date: 2020-06-27 07:44:21 
+img: https://static.coupangcdn.com/image/vendor_inventory/fa4b/1aa59f0d2f62fe9bd1fa63767b0ef8c57eb065c5404c72878a50e9901007.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1439952248&itemId=2483580452&vendorItemId=70476888883&traceid=V0-113-a1a336ff46bce58b 
+categories: [1007] 
+color: 4374D9 
+price: 38250 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>발이 조곰 아픔<br/>편하고 실용적이네요<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "클리오 프로 아이팔레트, 7호 피치 그루브, 1개" 
+description: 클리오 프 ..
+date: 2020-06-27 07:58:45 
+img: https://static.coupangcdn.com/image/retail/images/2020/05/08/14/2/92d83250-1dd3-47f8-9b5c-daaa45f26e58.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1566292130&itemId=2678258653&vendorItemId=70565604802&traceid=V0-113-f430b42fe28b31ac 
+categories: [1010] 
+color: 4374D9 
+price: 20160 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>ㅁ발라요 배솓<br/>매장에서 세일을해서 사려고보니 매진이라 쿠팡서 찾아조니 매장세일가보다 더 저렴하네요.<br/>.<br/>개이득... <br/>ㅋ<br/>예뻐오<br/>" 
+---

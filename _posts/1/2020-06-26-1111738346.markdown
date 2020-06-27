@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아디다스 가방 팀백 크로스백 리니어 엑스스몰 더플, FREE" 
+description: 아디다스  ..
+date: 2020-06-27 07:37:10 
+img: https://static.coupangcdn.com/image/vendor_inventory/69e1/ae3977b27bb23d951dbb09cb59522336c6076085e69c185998f35d322e7a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1111738346&itemId=2075157172&vendorItemId=70375962620&traceid=V0-113-f4b56b957bf4a608 
+categories: [1006] 
+color: F361A6 
+price: 15500 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>가성비 대비 좋아요<br/>가성비 좋고 무난하게 들고다닐수있어서 좋고  헬스장 다닐때  굿<br/>말이 필요없음.<br/><br/>좋아좋아 아디다스<br/>체육관에(헬스) 갈때 필요해서 구매 했어요<br/>" 
+---

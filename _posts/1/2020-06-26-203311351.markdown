@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "베베슈에뜨 라이트빔 레인 망토 우비" 
+description: 베베슈에뜨 ..
+date: 2020-06-27 07:22:47 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/06/03/4561816973/f8634756-c128-44f5-ae35-cc2602f47d42.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=203311351&itemId=596408430&vendorItemId=4561816973&traceid=V0-113-2f85b0a09fb5e48a 
+categories: [1004] 
+color: 1294AB 
+price: 18500 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>낙낙하여 안에옷이 아무핏이나 구애없이 입을수있어요<br/>산지는 좀 됐지만 오늘 비가 너무 와서 24개월 여자애 쓰구갔다왔는데 비도 안맞고 좋네요<br/>소매있는건 아니라 망토지만 손목쪽을 잡아주어 더 좋아요<br/>어린이집 준비물로 급하게 구입! 넘 예쁘네요 망토형이라 더 예쁜듯ㅎㅎ<br/>" 
+---
