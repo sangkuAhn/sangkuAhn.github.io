@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "유니맥스 전기 벌래퇴치기, UMK-11WB" 
+description: 유니맥스  ..
+date: 2020-06-27 08:34:45 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/04/30/3788569143/08efb53b-2e69-4dcf-aa18-94a474a6055e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=106514130&itemId=322022067&vendorItemId=3788569143&traceid=V0-113-eef14342cd66c376 
+categories: [1015] 
+color: 35B62C 
+price: 24900 
+author: Ask View Shop 
+---
+ 

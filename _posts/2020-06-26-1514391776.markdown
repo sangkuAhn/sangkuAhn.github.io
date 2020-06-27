@@ -2,12 +2,12 @@
 layout: post 
 title:  "언더아머 언디나이어블 4.0 더플백 1342656-001, 블랙" 
 description: 언더아머  ..
-date: 2020-06-26 15:37:06 
+date: 2020-06-27 08:49:08 
 img: https://static.coupangcdn.com/image/retail/images/2020/04/24/8/3/014ee501-127f-4065-9819-95a558dc59de.jpg 
-linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1514391776&itemId=2638861560&vendorItemId=70498577986&traceid=V0-113-ec050048ed8bd78c 
-categories: [1006] 
-color: A57F92 
-price: 28900 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1514391776&itemId=2638861560&vendorItemId=70409484730&traceid=V0-113-ec050048ed8bd78c 
+categories: [1017] 
+color: F15F5F 
+price: 28700 
 author: Ask View Shop 
 ---
  

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "유비소프트 SWITCH 저스트댄스 2020 한글판, 단일 상품" 
+description: 유비소프트 ..
+date: 2020-06-27 09:10:45 
+img: https://static.coupangcdn.com/image/retail/images/2019/11/05/14/7/52c2a16e-bda3-4cff-b5f4-176bc18a7706.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=331115887&itemId=1058032982&vendorItemId=70935566258&traceid=V0-113-6328e1dcbca17be6 
+categories: [1020] 
+color: 35B62C 
+price: 44000 
+author: Ask View Shop 
+---
+ 

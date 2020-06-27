@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "곰곰 우삼겹 순두부 찌개, 705g, 1세트" 
+description: 곰곰 우삼 ..
+date: 2020-06-27 08:13:09 
+img: https://static.coupangcdn.com/image/retail/images/151507870172297-83024440-74c0-4955-ac49-5ddd4bf22924.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1637283332&itemId=2792368476&vendorItemId=70782064297&traceid=V0-113-86548287590c93cc 
+categories: [1012] 
+color: 7E57C2 
+price: 7490 
+author: Ask View Shop 
+---
+ 

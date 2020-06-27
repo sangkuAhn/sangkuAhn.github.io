@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "블루빈 남성용 MNM워싱4부 반바지, 카키" 
+description: 블루빈 남 ..
+date: 2020-06-27 07:08:25 
+img: https://static.coupangcdn.com/image/vendor_inventory/cc18/c837448576b2b8ec4850f3e031fe4818804e9c2156cc95d908cf36bb6f96.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=216088230&itemId=663060198&vendorItemId=4715710596&traceid=V0-113-c435db4a6e585da1 
+categories: [1002] 
+color: 43A047 
+price: 17900 
+author: Ask View Shop 
+---
+ 

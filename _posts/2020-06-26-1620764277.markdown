@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "카카오프렌즈 하이프렌즈 우산" 
+description: 카카오프렌 ..
+date: 2020-06-27 07:29:58 
+img: https://static.coupangcdn.com/image/retail/images/2020/05/20/11/5/1b24c55c-0002-4634-9a3f-1f66d5833659.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1620764277&itemId=2765763958&vendorItemId=70640839997&traceid=V0-113-5d4eb2fbb5438eaa 
+categories: [1005] 
+color: 5A8DF3 
+price: 14900 
+author: Ask View Shop 
+---
+ 
