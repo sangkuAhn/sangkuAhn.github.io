@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "오뚜기 진진짜라, 135g, 4개" 
+description: 오뚜기 진 ..
+date: 2020-06-28 08:13:12 
+img: https://static.coupangcdn.com/image/retail/images/2020/04/03/17/1/56787318-964d-47f5-a864-aa0c4a1abf07.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1423285377&itemId=2462300558&vendorItemId=70417459583&traceid=V0-113-516ce928bba12ed6 
+categories: [1012] 
+color: A566FF 
+price: 5300 
+author: Ask View Shop 
+---
+ 

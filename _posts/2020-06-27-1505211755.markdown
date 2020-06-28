@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "엑스핏 GTS 스마트워치, 단일상품, 블랙" 
+description: 엑스핏 G ..
+date: 2020-06-28 08:49:14 
+img: https://static.coupangcdn.com/image/retail/images/2020/04/21/17/8/160da4c1-6c0e-4024-ac6d-57072529a274.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1505211755&itemId=2584253427&vendorItemId=70576462345&traceid=V0-113-b4a8478ac5cae8c9 
+categories: [1017] 
+color: A566FF 
+price: 49800 
+author: Ask View Shop 
+---
+ 
