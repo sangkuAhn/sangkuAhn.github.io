@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "여성용 웨지힐 슬리퍼 하이안" 
+description: 여성용 웨 ..
+date: 2020-06-28 07:44:26 
+img: https://static.coupangcdn.com/image/retail/images/2020/04/02/15/8/f9493945-ebe7-467a-ac86-89a30c54fa29.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1436305299&itemId=2479148919&vendorItemId=70472475057&traceid=V0-113-0d24654d1c3dc108 
+categories: [1007] 
+color: 5A8DF3 
+price: 16090 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>굽 쿠션도 푹신합니다<br/>두개의 스트랩이 등에 부드럽게 잘맞아 잘 잡아주고<br/>딱딱한거 싫은데 넘 푹신거려요 ㅎㅎ아직 외출은 안해서 외출해서 신고나가봐야겟지만 발 아프진않을듯요 디자인은 괜찬네요^^<br/>발사이즈가 230도맞고 235도맞는데 잘맞는듯하네요<br/>신발 잘받았어요.<br/>.<br/>너무나 정성스럽게 만들어놓으신것같아서 아껴서 잘신을게요 <br/>" 
+---

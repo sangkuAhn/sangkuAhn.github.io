@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "리훈 2020 이야기다이어리 톨 만년형, 베이비핑크" 
+description: 리훈 20 ..
+date: 2020-06-28 09:18:03 
+img: https://static.coupangcdn.com/image/retail/images/521092386516751-82e3b270-1772-4237-a0b2-3c429cccf760.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=314908293&itemId=1000503573&vendorItemId=5428937651&traceid=V0-113-1700697be8ea3794 
+categories: [1021] 
+color: 7E57C2 
+price: 12560 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>너무 좋아요 진짜 제가 다이어리 3년째 쓰고 있는데 제일 좋은 것 같아요 일단 색이 너무 마음에 들고 그 다음에 제가 속지 재질을 가리는데 재질조차도 너무 마음에 들고 속지도 너무 깔끔하고 잘 되어있네요 그리고 펜도 마음에 들고 다이어리 사이즈도 너무 마음에 듭니다 내년에도 또 살 생각하고 있어요<br/>다이어리로써 단순하고 무난하지만 너무 무난하고 단순해서 많은 내용을 담을 수 없음<br/>색 전귀탱입니당!! 같이온팬도 얇아서 다이어리 쓰기 너무좋아요<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "콜맨 뉴샌들" 
+description: 콜맨 뉴샌 ..
+date: 2020-06-28 07:44:26 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/04/15/1/50e1c311-1d2b-43a2-86a0-7467814683e4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1350018241&itemId=2378209992&vendorItemId=70373758380&traceid=V0-113-a6ca30a62c398dc8 
+categories: [1007] 
+color: 353535 
+price: 27210 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>가격대비 좋아요.<br/>  마무리도  깔끔하고  색깔도  예쁩니다.<br/> 다른분 말씀대로 발볼이 넓으신 분은  한 칫수  크게  신는 게  좋을 것 같아요.<br/> 신다보면  조금 늘어나는 것도  있으니 왠만한  분들은 신던  사이즈로  신으셔도  될 것  같아요.<br/><br/>그외 디자인,상품성,착한가격은 매우만족<br/>발 볼이 넓어 걱정했는데 현재 불편함도 없고 잘 신고 있습니다<br/>발볼이 넓은사람은 처음신을때 조금불편!<br/>" 
+---

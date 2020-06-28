@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "팬콧 아동용 고급형 패턴 아쿠아슈즈" 
+description: 팬콧 아동 ..
+date: 2020-06-28 07:15:38 
+img: https://static.coupangcdn.com/image/retail/images/2019/06/27/12/3/1e6aed9c-065c-4c3f-8a16-537bb446a5c9.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=87019625&itemId=275778212&vendorItemId=4981554065&traceid=V0-113-c9766099e3f16796 
+categories: [1003] 
+color: A566FF 
+price: 11580 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>가장 취약한 앞,뒤부분이 너무 튼튼하게 잘 되어있고 바닥도 튼튼해요<br/>단순히 고무처럼 코팅해놓은것보다 훨씬 튼튼합니다 내구성은 왕이네요!<br/>딴거 샀다가 사이즈 안맞아서 급하게 반품신청해놓고<br/>발만 많이 커지지 않는다면 내년에도 신기겠어요<br/>새벽배송되는거 다시 주문해서 잘 받았어요.<br/> 사이즈 잘 맞고, 깔창 빼보니 마감도 깔끙해요.<br/> 고무바닥도 도톰하구요.<br/><br/>아이가 맘에 들어해요 무엇보다 바닦부분과 앞부분 고무처리가 너무 만족해요<br/>아쿠아슈즈 잘 닳고 낡아져서 한번 신고 버리는 경우도 다반사인데<br/>올해길면 내년까진 잘 신길듯요<br/>운동화 200 신는 아이 신기려고 샀는데 제품이 엄청납니다<br/>전에 신겼던건 앞부분도 금방 뜯어져서 발이 티어나오고 바닦도 너무 얇아서 아이가 발바닥 다친적이 있거든요^^<br/>집에서만 신겨봐서 아직 사용감은 모르지만 아이는 이쁘다고 만족하네요^^<br/>" 
+---
