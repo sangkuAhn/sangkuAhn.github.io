@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "쌈지 냉감 쿨 긴팔티셔츠, 블랙" 
+description: 쌈지 냉감 ..
+date: 2020-06-28 15:08:24 
+img: https://static.coupangcdn.com/image/vendor_inventory/3152/1ccc136d906acd045c5a8c08460c7287796e59ca94376337ca4bf829572c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1530584513&itemId=2624929224&vendorItemId=70635044904&traceid=V0-113-785a1d1584f8c517 
+categories: [1002] 
+color: D9418C 
+price: 3900 
+author: Ask View Shop 
+---
+ 
