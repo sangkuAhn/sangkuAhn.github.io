@@ -9,5 +9,5 @@ categories: [1007]
 color: 4CAF50 
 price: 21000 
 author: Ask View Shop 
+cont:  "●구매후기●<br/>배송도 빠르고 가격도 저렴하구 무게도 가볍네요 쿠션도 그닥 나쁘진 않아요<br/>" 
 ---
- 
