@@ -9,5 +9,5 @@ categories: [1002]
 color: 353535 
 price: 21000 
 author: Ask View Shop 
+cont:  "●구매후기●<br/>배송은 2일걸려서 쏘쏘합니다<br/>옷이뻐요 포장두 깔끔해요<br/>이쁘네요<br/>잘받았습니다 <br/>" 
 ---
- 
