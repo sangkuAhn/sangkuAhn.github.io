@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "(헬로가든) 미네트 상하복, 베이지외" 
+description: (헬로가든 ..
+date: 2020-06-29 07:30:02 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2019/06/13/1/9/85827b39-36a6-400d-a236-2971db7a0f47.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=238900665&itemId=759421365&vendorItemId=4915417740&traceid=V0-113-6439445cadc43f34 
+categories: [1005] 
+color: 35B62C 
+price: 15800 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>120cm/20kg 딸래미한테 폼은 큰데 길이는 잘 맞아요<br/>가볍고 시원하고 예뻐요^^<br/>시원하고 이쁘네여ᆢ<br/>" 
+---

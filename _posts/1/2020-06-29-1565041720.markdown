@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "스틸인터렉티브 그립 레볼루션 닌텐도 스위치 컨트롤러, grip-01(블루 + 레드), 1개" 
+description: 스틸인터렉 ..
+date: 2020-06-29 09:10:50 
+img: https://static.coupangcdn.com/image/retail/images/2020/05/06/17/6/0d9e744b-a3ec-4da8-9779-10031dd35c7b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1565041720&itemId=2676104828&vendorItemId=70666649135&traceid=V0-113-dcc95d0c487c178c 
+categories: [1020] 
+color: BD24A9 
+price: 49780 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>HD진동 미지원만 제외하면 마음에 들어요<br/>HD진동 미지원이라서 스플래툰2의 경우 오징어폼으로 이동할 때 오는 미세한 진동이 거대한 바위가 굴러가는 진동으로 변해버립니다.<br/> 게임 플레이에 방해될 정도로 강하기 때문에 진동을 끄고 하셔야 합니다.<br/> 미세한  진동이 자주 사용되는 게임을 하시면 참고하세요<br/>가성비 좋코 오히려 쓰기는 편한듯<br/>그립감, 스틱의 느낌, 십자버튼 전부 조이콘보다 좋습니다<br/>흠.<br/>.<br/>그립감은 최고 버튼도 스틱도 부드러운데 정품과 비교하면 진동이 타이밍도안맞고  디테일이 떨어짐<br/>" 
+---
