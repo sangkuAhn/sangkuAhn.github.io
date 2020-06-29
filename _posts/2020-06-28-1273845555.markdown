@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "친환경인증 새송이버섯, 400g, 1봉" 
+description: 친환경인증 ..
+date: 2020-06-29 08:13:13 
+img: https://static.coupangcdn.com/image/retail/images/2020/02/18/18/9/66a34937-2796-4541-8b50-78fa70ad80cd.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1273845555&itemId=2279382943&vendorItemId=70276523444&traceid=V0-113-72882ae9ce0e7936 
+categories: [1012] 
+color: D9418C 
+price: 1550 
+author: Ask View Shop 
+---
+ 

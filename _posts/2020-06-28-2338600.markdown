@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "유니맥스 버그킬러 8W 모기퇴치기, UMK-08W" 
+description: 유니맥스  ..
+date: 2020-06-29 08:34:48 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/10/24/3016646708/f327b609-f955-4038-b528-6340911ff818.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2338600&itemId=10753814&vendorItemId=3016646708&traceid=V0-113-fc2bac6ef63cf179 
+categories: [1015] 
+color: 9E9D24 
+price: 14800 
+author: Ask View Shop 
+---
+ 
