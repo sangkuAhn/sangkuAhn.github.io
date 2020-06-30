@@ -3,8 +3,10 @@ layout: default
 ---
 <div class="page-container">
     <div class="content">
-    <article>        
-        <h1 class="page-title">[특가] {{page.title}}</h1>
+    <article>
+        <div  class="text_center">        
+          <h1 class="page-title ">[특가] {{page.title}}</h1>
+        </div>
         {% if page.author %}
           <div class="text_center pad_size1">
             <span><i class="fa fa-calendar-o" aria-hidden="true"></i> {{page.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -25,11 +27,11 @@ layout: default
           </div>                  
         {% endif %}
         {% if page.cont %}    
-          -
-        {% else %}    
          <div class="text_center pad_size1 pad_top_down">
             <a href="{{page.linkUrl}}" target="_blank" class="btn btn--success">[상품구매 바로가기]</a>
-         </div>
+         </div>          
+        {% else %}    
+        -
         {% endif %}    
        {{site.baseWord}}
        {% include disqus.html %} 
