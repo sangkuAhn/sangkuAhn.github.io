@@ -1,9 +1,9 @@
 <div id="post_list" class="pad_size1">
 <p><h2>[NEW POST]</h2></p>	
-<span style="margin: 5px 5px 5px 5px;text-align: left;">
+<span>
  {% for post in site.posts %}  
 	  {% if forloop.index <= 5 %}
-	    <a href="https://sangkuahn.github.io{{ post.url }}"> - {{ post.title }}</a><br>
+	    <a href="https://sangkuahn.github.io{{ post.url }}" class="pad_size1"> - {{ post.title }}</a><br>
 	  {% else %}
 	  	{% break %}
 	  {% endif %}
