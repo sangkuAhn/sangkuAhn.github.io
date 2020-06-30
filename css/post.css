@@ -7,7 +7,7 @@
 	text-align: left;list-style: none;margin: 0px;padding: 0px;max-width: 100%;width: 100%;
  	
  	}
- 	
+
 .btn {
 display: inline-block;
     margin-bottom: 0.25em;
@@ -23,6 +23,15 @@ display: inline-block;
 }
 .btn--success {
   background-color: #3fa63f;color: #fff;
+}
+.pad_size1 {
+  padding: 1em 1em 1em 1em;
+}
+.pad_size2 {
+  padding: 2em 2em 2em 2em;
+}
+.pad_top_down{
+      padding: 2em 0 2em 0;
 }
 </style>
 
