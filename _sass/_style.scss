@@ -250,21 +250,29 @@ header {
 }
 
 .btn {
-  display: inline - block;margin - bottom: 0.25 em;padding: 0.5 em 1 em;font - family: -apple - system,
-  BlinkMacSystemFont,
-  "Roboto",
-  "Segoe UI",
-  "Helvetica Neue",
-  "Lucida Grande",
-  Arial,
-  sans - serif;font - size: .75 em;font - weight: bold;text - align: center;text - decoration: none;border - width: 0;border - radius: 4 px;cursor: pointer
+display: inline-block;
+    margin-bottom: 0.25em;
+    padding: 0.5em 1em;
+    font-family: -apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
+    font-size: .75em;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    border-width: 0;
+    border-radius: 4px;
+    cursor: pointer;
 }
 .btn--success {
-  background - color: #3fa63f;color:# fff;
+  background-color: #3fa63f;color: #fff;
 }
 .btn--success: hover {
-  background - color: #328532;color:# fff
+  background-color: #328532;color: #fff;
 }
+.btn--success:visited {
+    background-color: #3fa63f;
+    color: #fff;
+}
+
 // Disqus comments button
 
 .show-comments {
