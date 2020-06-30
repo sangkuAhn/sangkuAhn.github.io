@@ -15,7 +15,11 @@ layout: default
        <h1 class="page-title">[특가] {{page.title}}</h1>
        <br/>
        {% if page.price %}    
-         <p style="text-align:center"><h2 style="text-align: center;">{{page.price}}</h2> </p>
+       <p style="text-align:center">
+          <a href="{{page.linkUrl}}" target="_blank">
+             <h2 style="text-align: center;">[상품정보 및 구매 바로가기]</h2>
+          </a>
+       </p>
          <br/><br/>
          <div>
          <p style="text-align:left">{{page.cont}}</p>         
