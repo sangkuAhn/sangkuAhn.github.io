@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "세로레터링 오버핏 반팔티 (MDVT594NL), 화이트" 
+description: 세로레터링 ..
+date: 2020-06-30 15:08:24 
+img: https://static.coupangcdn.com/image/vendor_inventory/92d3/3ba68ae83cd67c4f4181c42f068e7ed7bc130463e0c8d5f0d504041fa69f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1464026675&itemId=2518033548&vendorItemId=70510928508&traceid=V0-113-7e25b7d5bd552451 
+categories: [1002] 
+color: FF6F00 
+price: 13800 
+author: Ask View Shop 
+---
+ 

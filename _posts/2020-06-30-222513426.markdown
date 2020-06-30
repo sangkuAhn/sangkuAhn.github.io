@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "고잉키즈 여아용 로즈세트" 
+description: 고잉키즈  ..
+date: 2020-06-30 15:15:36 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/07/25/4781821382/f63fdf72-12b7-49b4-bb27-737a9617c3ab.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=222513426&itemId=697621994&vendorItemId=4781821417&traceid=V0-113-0fcf86e8405971a1 
+categories: [1003] 
+color: BD24A9 
+price: 26900 
+author: Ask View Shop 
+---
+ 
