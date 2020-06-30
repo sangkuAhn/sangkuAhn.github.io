@@ -1,7 +1,7 @@
 ---
 layout: post 
-title:  "프리콘: 시작부터 완벽에 다가서는 일, 엠아이디" 
-description: 프리콘:  ..
+title:  "프리콘 시작부터 완벽에 다가서는 일, 엠아이디" 
+description: 프리콘  ..
 date: 2020-06-12 09:03:42 
 img: https://static.coupangcdn.com/image/retail/images/2020/05/26/16/6/85269f76-ff23-465d-bc0b-c05d6cc36dde.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1626001966&itemId=2773955882&vendorItemId=70763764447&traceid=V0-113-ebaa068add958ed5 
@@ -10,4 +10,3 @@ color: A57F92
 price: 18000 
 author: Ask View Shop 
 ---
- 
