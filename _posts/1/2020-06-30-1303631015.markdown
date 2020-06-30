@@ -9,5 +9,5 @@ categories: [1007]
 color: 7E57C2 
 price: 19900 
 author: Ask View Shop 
+cont:  "●구매후기●<br/>가볍고 굽이 좀 있는 깔끔스타일<br/>배송도빠르고 제품도맘에듭니다 감사합니다<br/>짱<br/>" 
 ---
- 

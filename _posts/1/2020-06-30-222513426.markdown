@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "고잉키즈 여아용 로즈세트" 
+description: 고잉키즈  ..
+date: 2020-06-30 15:15:36 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/07/25/4781821382/f63fdf72-12b7-49b4-bb27-737a9617c3ab.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=222513426&itemId=697621994&vendorItemId=4781821417&traceid=V0-113-0fcf86e8405971a1 
+categories: [1003] 
+color: BD24A9 
+price: 26900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>12킬아기.<br/>색이약간칙칙.<br/>사진 완전 잘나옴.<br/> 박음질굿<br/>다들 너무 귀엽다면서ㅋㅋㅋㅋ<br/>당시<br/>모델컷이 예뻐서 구입했어요<br/>몸무게 : 10 kg  10.<br/>5 kg<br/>신체사이즈 103cm 16키로<br/>아쉬운점은 다리가 종아리까지 달라붙어야<br/>이 수영복 어디가나 흔하지않아 그건 특별하니 좋았어요<br/>이런옷은 어디서냐고 물어보시더라구요^^<br/>이옷 너무 귀염져요ㅠㅠ<br/>입히고 계곡에 놀러갔는데, 시선집중 됐어요!<br/>젖으면 늘어나서 더 웃기다는.<br/> .<br/><br/>종아리가 일자핏이라 이상해요<br/>짱짱하니 좋습니다!!!^^<br/>키 : 80cm <br/>핏이 더 예쁠거같은데<br/>" 
+---

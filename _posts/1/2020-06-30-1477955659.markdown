@@ -9,5 +9,5 @@ categories: [1004]
 color: 5A8DF3 
 price: 7900 
 author: Ask View Shop 
+cont:  "●구매후기●<br/>내의가 다 이쁘고 가격도 괜찮고 좋아요<br/>단골 될듯하네요<br/>내의가 다 이쁘고 가격도 괜찮고 좋아요<br/>단골 될듯하네요<br/>" 
 ---
- 
