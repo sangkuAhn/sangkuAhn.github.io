@@ -5,10 +5,10 @@
     <meta name="naver-site-verification" content="fe73013289ae40cd9831027ca2b78448b6af9ffc" />
 	<meta property="og:type" content="website"> 
 	<meta property="og:title" content="{% if page.title %}{{page.title}} - {{site.title}}{% else %}{{site.title}}{% endif %}">
-	<meta name="description" content="{% if page.cont %}{{ page.cont | replace: '<br/>', ' , '  | truncate: 160 | escape}} {% else %} {{page.description}} - {{site.description}}{% endif %}">
+	<meta name="description" content="{% if page.cont %}{{page.excerpt | default: page.cont | strip_html | normalize_whitespace | truncate: 160 | escape}}{% else %} {{page.description}} - {{site.description}}{% endif %}">
 	<meta property="og:image" content="{% if page.img %}{{page.img}} - {{site.img}}{% else %}{{site.img}}{% endif %}">
 	<meta property="og:url" content="https://sangkuahn.github.io">	
-    <meta name="description" content="{% if page.cont %}{{  page.cont | replace: '<br/>', ' , '  | truncate: 160 | escape}} {% else %} {{page.description}} - {{site.description}}{% endif %}">
+    <meta name="description" content="{% if page.cont %}{{page.excerpt | default: page.cont | strip_html | normalize_whitespace | truncate: 160 | escape}}{% else %} {{page.description}} - {{site.description}}{% endif %}">
     <title>{% if page.title %}{{page.title}} - {{site.title}}{% else %}{{site.title}}{% endif %}</title>
 	<!--  JQUERY -->
 	<script src="//code.jquery.com/jquery-2.1.3.min.js"></script>
