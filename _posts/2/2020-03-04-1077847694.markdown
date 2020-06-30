@@ -9,6 +9,5 @@ categories: [1007]
 color: 03A9F4 
 price: 32900 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>빠르고 포장도 잘되서 와서 좋아요!<br/> 
-"
+cont:  "빠르고 포장도 잘되서 와서 좋아요!<br/>" 
 ---

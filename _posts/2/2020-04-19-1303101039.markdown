@@ -9,6 +9,5 @@ categories: [1006]
 color: 43A047 
 price: 8500 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>사기당했음<br/>한숨만  나옵니다 ㅜㅜ<br/> 
-"
+cont:  "사기당했음<br/>한숨만  나옵니다 ㅜㅜ<br/>" 
 ---

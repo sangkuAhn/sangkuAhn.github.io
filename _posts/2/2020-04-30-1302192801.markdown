@@ -9,6 +9,5 @@ categories: [1006]
 color: CF36BB 
 price: 8100 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>가성비좋아요<br/> 
-"
+cont:  "가성비좋아요<br/>" 
 ---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "심플리무드 애니 린넨 벌룬소매 허리끈 롱 원피스" 
+description: 심플리무드 ..
+date: 2020-05-22 02:10:13 
+img: https://static.coupangcdn.com/image/vendor_inventory/f178/5e93381a49d832ddacb376ca1218e6d181833b15490ddc4d60b924758b14.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1524487515&itemId=2615724570&vendorItemId=70606762427&traceid=V0-113-6b2470ce3024563a 
+categories: [1001] 
+color: CF36BB 
+price: 24800 
+author: Ask View Shop 
+cont:  "입어봤더니 사진과 핏 색상 그대로네요 잘입을게요<br/>캐주얼하면서도 여성스럽게 입기좋아요!!가격도 저렴한데 가성비 짱짱 입니다!<br/>허리라인 밴딩이 신의 한수 갑자기 날씨가 여름이 됐어요 너무 시원하게 입을 수 있을듯요<br/>" 
+---

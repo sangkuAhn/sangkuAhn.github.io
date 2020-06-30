@@ -10,6 +10,5 @@ color: 4CAF50
 rank: 4 
 price: 1329000 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>가방등등... <br/><br/>만족합니다.<br/><br/>악세사리류 미포함 입니다.<br/><br/>좋네요<br/> 
-"
+cont:  "가방등등... <br/><br/>만족합니다.<br/><br/>악세사리류 미포함 입니다.<br/><br/>좋네요<br/>" 
 ---

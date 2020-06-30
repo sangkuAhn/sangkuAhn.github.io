@@ -9,6 +9,5 @@ categories: [1021]
 color: 006064 
 price: 5010 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>생각보다 예쁘네요.<br/><br/>화면보다는 덜화사하네요ㅠㅠ<br/> 
-"
+cont:  "생각보다 예쁘네요.<br/><br/>화면보다는 덜화사하네요ㅠㅠ<br/>" 
 ---

@@ -9,6 +9,5 @@ categories: [1003]
 color: 006064 
 price: 4800 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>얇고<br/>여름내의로딱이예요<br/> 
-"
+cont:  "얇고<br/>여름내의로딱이예요<br/>" 
 ---

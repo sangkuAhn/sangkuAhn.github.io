@@ -9,6 +9,5 @@ categories: [1014]
 color: 4A148C 
 price: 15900 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>감사드려요.<br/>.<br/><br/>넘 비싸네요<br/>휴대용 편하고 좋아요<br/>감사드려요.<br/>.<br/><br/>넘 비싸네요<br/>휴대용 편하고 좋아요<br/> 
-"
+cont:  "감사드려요.<br/>.<br/><br/>넘 비싸네요<br/>휴대용 편하고 좋아요<br/>" 
 ---

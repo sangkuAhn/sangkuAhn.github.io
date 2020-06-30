@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "행복한초록 여름 꿈꾸는 원피스" 
+description: 행복한초록 ..
+date: 2020-05-16 02:24:52 
+img: https://static.coupangcdn.com/image/vendor_inventory/ccfa/89f69fd73119e6db1aa379c531f08aaf760345fc41977e8964b53397317b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=93736543&itemId=290390342&vendorItemId=4824064177&traceid=V0-113-cc17ac62919fd5c4 
+categories: [1003] 
+color: 1294AB 
+price: 12800 
+author: Ask View Shop 
+cont:  "가격 그자체 손세탁바랍니다 ㅋㅋㅋ 머스타드가 탈색이 좀 잇네요 재질은 뻣뻣해요 그냥 편허게 막입기에는 좋아요^^<br/>귀엽긴 구엽네요 재질만 좀 업됏으면 ㅋㅋㅋ<br/>이뻐요 넘 맘에들어요 많이파세요<br/>" 
+---

@@ -9,6 +9,5 @@ categories: [1002]
 color: FF6F00 
 price: 20000 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>가성비 좋고 면도 좋네요<br/>괜찮음<br/>맘에 들어요<br/>허접하지 않아요^<br/> 
-"
+cont:  "가성비 좋고 면도 좋네요<br/>괜찮음<br/>맘에 들어요<br/>허접하지 않아요^<br/>" 
 ---

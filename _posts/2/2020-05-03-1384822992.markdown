@@ -9,6 +9,5 @@ categories: [1003]
 color: 7E57C2 
 price: 8900 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>80사이즈인데 조금크네요.<br/> 85<br/> -90느낌<br/> 
-"
+cont:  "80사이즈인데 조금크네요.<br/> 85<br/> -90느낌<br/>" 
 ---

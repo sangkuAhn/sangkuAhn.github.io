@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "ZRK-1998 롱 원피스" 
+description: ZRK-1 ..
+date: 2020-06-27 07:01:12 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2018/05/31/15/5/3c8b92c2-2380-49ed-a664-ac19999dda8c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=96576002&itemId=297262622&vendorItemId=3731281324&traceid=V0-113-f6baa0f114c78694 
+categories: [1001] 
+color: f44336 
+price: 15900 
+author: Ask View Shop 
+cont:  "두께감이 살짝있어 시원하게 입으려했는데<br/>디자인.<br/> 핏  딱! 찾던 스타일입니당<br/>몸에 달라 붙지않고<br/>사진과 달라 별 하나 뺌.<br/><br/>사진과 색깔이 달라요<br/>살짝 아쉬워요<br/>조금 비침은 있지만<br/>치마가  좀더 밝은색인 줄... <br/>바탕이 갈색이 이라  ... <br/><br/>풍성하니 시원하고 좋아요<br/>" 
+---

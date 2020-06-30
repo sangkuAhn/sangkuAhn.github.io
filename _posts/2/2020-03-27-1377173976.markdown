@@ -9,6 +9,5 @@ categories: [1019]
 color: 03A9F4 
 price: 13050 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>굿<br/> 
-"
+cont:  "굿<br/>" 
 ---

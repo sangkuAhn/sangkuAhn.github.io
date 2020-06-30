@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "여성용 린넨 스트링 숏팬츠" 
+description: 여성용 린 ..
+date: 2020-06-28 07:01:14 
+img: https://static.coupangcdn.com/image/retail/images/2020/04/29/14/3/a364e3af-93ee-47c0-9742-3b39e919d1e7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1546885866&itemId=2648268111&vendorItemId=70639190250&traceid=V0-113-163aa446c7fffdc1 
+categories: [1001] 
+color: 1294AB 
+price: 9900 
+author: Ask View Shop 
+cont:  "가볍고 밑에가 퍼져서 다리가 안두꺼워보여 좋아요 가격도 저렴하고 잘산듯<br/>구김때매 린넨 싫어해요<br/>살짝 퍼져서 다리 이뻐보이고<br/>새옷 기름냄새가 너무 심해서 한번 빨아서 입고싶은데 세탁하기 좀 무섭네요... <br/>! 빨지말고 그냥 일회용이라고 생각하고 입어야할것같아요ㅜㅜ<br/>집에서 입으려고 샀어요<br/>편하고 좋은데ㅋㅋㅋㅋ 돌돌이로 저렇게 7번을 뗐어요... <br/><br/>편하네요 77입는데 잘 맞아요<br/>" 
+---

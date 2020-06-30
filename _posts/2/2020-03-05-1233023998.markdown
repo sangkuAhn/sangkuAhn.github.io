@@ -9,6 +9,5 @@ categories: [1001]
 color: 9E9D24 
 price: 16200 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>보기보다 얇고 디자인이 별로예요<br/> 
-"
+cont:  "보기보다 얇고 디자인이 별로예요<br/>" 
 ---

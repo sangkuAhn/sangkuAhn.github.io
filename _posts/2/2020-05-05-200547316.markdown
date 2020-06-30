@@ -9,6 +9,5 @@ categories: [1003]
 color: A57F92 
 price: 7920 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>디자인 너무 귀여워요<br/> 
-"
+cont:  "디자인 너무 귀여워요<br/>" 
 ---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "하라몰 쥬엔햇 라피아햇 RH062" 
+description: 하라몰 쥬 ..
+date: 2020-05-19 03:02:45 
+img: https://static.coupangcdn.com/image/retail/images/2019/06/04/15/5/f72c4b92-55a8-40dd-ad79-8b3701ae182e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=234144374&itemId=743662218&vendorItemId=4877306177&traceid=V0-113-f29d1ddc29c15bb4 
+categories: [1008] 
+color: FF1744 
+price: 12900 
+author: Ask View Shop 
+cont:  "<br/>딸이랑연말 여행을 두고 구입했습니다.<br/><br/>가격대비 이뻐용<br/>결국 사진빨이 관건입니다.<br/><br/>다들 이쁘다고 빌려쓰고 사진도 찰칵!<br/>다른 모자를 여럿 가져가기를 잘한것 같습니다.<br/><br/>동남아 섭령 13번째 50대 아지매.<br/><br/>모자는 핏과 색상 입니다.<br/><br/>목 긴 사람이 쓰면 더 예쁠 거예요<br/>별 지웠습니다.<br/> 모자산이 너무 크고 앞으로<br/>부드러워서 가방에 넣어가지고 다니기에도 좋았어용<br/>스타일 구겨지는 사진들뿐.<br/><br/>여러모양 여러 색깔 재질별 다 써본결과<br/>여행 다녀온뒤.<br/><br/>여행가서 이쁘게 잘사용했어요<br/>예쁘고 맘에 들어요!!<br/>이마를 덮은 모양탓에<br/>이뻐용<br/>쳐져 내려서 자꾸만 손이가고<br/>" 
+---

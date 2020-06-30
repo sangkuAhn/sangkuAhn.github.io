@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "까꿍놀이터 키즈 비비7부레깅스" 
+description: 까꿍놀이터 ..
+date: 2020-05-16 02:39:17 
+img: https://static.coupangcdn.com/image/vendor_inventory/6f10/a1136d8412d5087176cb287efc2dd5649e603b1741c48b63ab60a8eb1641.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=213320216&itemId=646176960&vendorItemId=4682149060&traceid=V0-113-c88bfac4abc29716 
+categories: [1005] 
+color: 79ABFF 
+price: 3900 
+author: Ask View Shop 
+cont:  "5갤 아기 8키로라 딱맞게 입히는게 싫어서 치수업 시켜서 주문하는데  길이감도 배부분밴드도 편하게 잘맞아서 좋아요^^<br/>5갤8키로 아기라  넉넉한 느낌으로 입히려고 s사이즈 주문했는데 배부분 쫄리지않고 편하게 잘맞아요^^<br/>기대이상으로 원단도 괜찮고 두깨감도 중간 딱 느낌이라 좋아요<br/>요즘 이 바지만 입힐 정도로 좋아요<br/>저렴한 가격에 원단도 좋고 배부분밴딩도 여유있어서 좋아요^^<br/>편하고 두께도 적당하고 부드러워요<br/>" 
+---

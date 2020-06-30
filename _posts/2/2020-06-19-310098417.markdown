@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "심플 도큐먼트 파일백 8분류 72456, 파스텔블루, 3개" 
+description: 심플 도큐 ..
+date: 2020-06-19 09:18:28 
+img: https://static.coupangcdn.com/image/retail/images/2019/10/01/11/9/164c1e4d-f8e9-40e4-8a8d-a8e3d37df0ea.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=310098417&itemId=977553100&vendorItemId=5392806283&traceid=V0-113-e51801b4c608a1b9 
+categories: [1021] 
+color: 353535 
+price: 9080 
+author: Ask View Shop 
+cont:  "색깔도 이쁘고 네임 스티커도 예쁜데 똑딱이가 자꾸 말을 안 들어요ㅠㅠ<br/>아주 좋아요 스티커도 들어있어서 헷갈리지 않게 잘 붙였네요 색상도 예쁘고요<br/>온라인 수업때문에 수업 자료가 많은데 그래서 샀는데<br/>좋고 많이 들어가요!! 색깔도 이쁘고요!!<br/>" 
+---

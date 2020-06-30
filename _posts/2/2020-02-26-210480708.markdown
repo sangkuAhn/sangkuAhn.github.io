@@ -9,6 +9,5 @@ categories: [1008]
 color: 4CAF50 
 price: 6240 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>가볍고 좋네요<br/>좋아요<br/>피부에 닿는 안쪽에 제질이 호흡할때  땀이 많이차요<br/> 
-"
+cont:  "가볍고 좋네요<br/>좋아요<br/>피부에 닿는 안쪽에 제질이 호흡할때  땀이 많이차요<br/>" 
 ---

@@ -9,6 +9,5 @@ categories: [1007]
 color: 212121 
 price: 45000 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>괜찬은데 싸이즈 오배송은 쫌 .<br/>.<br/><br/> 
-"
+cont:  "괜찬은데 싸이즈 오배송은 쫌 .<br/>.<br/><br/>" 
 ---

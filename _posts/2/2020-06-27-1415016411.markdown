@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "엔비룩 여성용 플레인 컬러 반팔 티셔츠" 
+description: 엔비룩 여 ..
+date: 2020-06-28 07:01:14 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/27/11/4/eaa27c70-2cd1-48b6-bb26-67646365873f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1415016411&itemId=2451740598&vendorItemId=70445381533&traceid=V0-113-adb9e484fc5ff951 
+categories: [1001] 
+color: A6A6A6 
+price: 9900 
+author: Ask View Shop 
+cont:  "부들부들하고 면 좋아보여요<br/>색상이 예뻐서 구매했는데 받아보니 화면과 같아요<br/>세탁해 봐야 알겠지만 ㅋㅋ<br/>싼 가격에 잘샀네요<br/>저렴한데 부들부들 좋아요<br/>제 키가 168인데 엉덩이 약간 덮으려고 해요<br/>추가구매의사있어요<br/>" 
+---

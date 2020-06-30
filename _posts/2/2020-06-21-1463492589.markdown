@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "엔비룩 여성용 레이온 라운드 티셔츠" 
+description: 엔비룩 여 ..
+date: 2020-06-21 15:01:16 
+img: https://static.coupangcdn.com/image/retail/images/2020/04/13/11/0/db7643ba-da24-4b8f-bccd-0805b7043a85.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1463492589&itemId=2517269138&vendorItemId=70510243530&traceid=V0-113-bf77ecba3a0f04e0 
+categories: [1001] 
+color: 1294AB 
+price: 9900 
+author: Ask View Shop 
+cont:  "너무 얇아서 내복같아요 별로<br/>똑같은 티 찾기가 영 힘들었었어요<br/>색이 좀 아쉽긴 한데 (백색이예요) 주름도 덜지고 찰랑찰랑 괜찮네요!<br/>야들야들하니 부드럽네요.<br/> 여름에 가볍게 입기 좋습니다.<br/> 블랙색상 하나더 살려구요.<br/><br/>찰랑거리는 모달티를 2년전에 사서 참 잘입었었는데<br/>" 
+---

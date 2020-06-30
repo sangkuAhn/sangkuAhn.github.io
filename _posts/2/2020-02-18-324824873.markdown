@@ -9,6 +9,5 @@ categories: [1017]
 color: ff1744 
 price: 12900 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>가성비갑<br/>옷이 아주 멋지다<br/>좋아요<br/>가성비갑<br/>옷이 아주 멋지다<br/>좋아요<br/> 
-"
+cont:  "가성비갑<br/>옷이 아주 멋지다<br/>좋아요<br/>" 
 ---

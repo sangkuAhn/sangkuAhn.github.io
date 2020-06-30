@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "메이시스 나뭇잎 패턴 루즈핏 화려한 블라우스" 
+description: 메이시스  ..
+date: 2020-06-20 15:01:10 
+img: https://static.coupangcdn.com/image/vendor_inventory/b533/092c82740327dc4e01ddb0084f237c083f7e96454ccec6465fceeda4921f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1459491079&itemId=2511340753&vendorItemId=70504384103&traceid=V0-113-93fb6798207e3b31 
+categories: [1001] 
+color: 03A9F4 
+price: 10900 
+author: Ask View Shop 
+cont:  "고민하다시켰는데 완전대박나게 이뻐요<br/>시원한원단으로  가격대비good !!사이즈는  88정도<br/>쿠팡쇼핑하다 우연히.<br/>.<br/><br/>화면보다 색감이 촌스러워요<br/>" 
+---

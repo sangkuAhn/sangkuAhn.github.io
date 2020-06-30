@@ -9,6 +9,5 @@ categories: [1007]
 color: CF36BB 
 price: 65550 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>발편한신발입니다<br/>아주 만족합니다<br/>편하고 맘에 들어요<br/> 
-"
+cont:  "발편한신발입니다<br/>아주 만족합니다<br/>편하고 맘에 들어요<br/>" 
 ---

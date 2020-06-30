@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "디스커버리 냉감 트레이닝 바지, 블랙" 
+description: 디스커버리 ..
+date: 2020-05-12 02:17:26 
+img: https://static.coupangcdn.com/image/vendor_inventory/4b0b/81c64f8f503dd35245c94451729842e7935b05e5bb4739516887bf6a6518.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1392022779&itemId=2427433444&vendorItemId=70642019979&traceid=V0-113-0f44e90a2c4ba4c1 
+categories: [1002] 
+color: A566FF 
+price: 36000 
+author: Ask View Shop 
+cont:  "배송일정보다 빨라서 좋아요<br/>소재 얇고 텐션도 좋습니다.<br/> 실밥 마감까지만 신경써 주시면 완벽합니다<br/>시원한재질에 핏도 좋네요^^<br/>여름등산에 제격인 바지입니다.<br/>강추<br/>제품은 입어보니 편안해서 좋구요<br/>" 
+---

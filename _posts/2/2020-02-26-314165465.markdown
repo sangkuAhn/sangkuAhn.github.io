@@ -9,6 +9,5 @@ categories: [1003]
 color: 03A9F4 
 price: 7900 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>귀여워용<br/>금방 늘어나더라구요<br/>내의는 보이는대로 이쁜데<br/>생각보다 많이 얇아서<br/> 
-"
+cont:  "귀여워용<br/>금방 늘어나더라구요<br/>내의는 보이는대로 이쁜데<br/>생각보다 많이 얇아서<br/>" 
 ---

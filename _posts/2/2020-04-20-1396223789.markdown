@@ -9,6 +9,5 @@ categories: [1004]
 color: 353535 
 price: 39760 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>괜찮아요<br/>괜찮아요<br/> 
-"
+cont:  "괜찮아요<br/>" 
 ---

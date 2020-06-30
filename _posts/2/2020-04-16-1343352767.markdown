@@ -9,6 +9,5 @@ categories: [1003]
 color: 9E9D24 
 price: 16480 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>사진에 보이는거처럼 색상 예쁘고 맘에들어요<br/>선물용으로 샀어요<br/> 
-"
+cont:  "사진에 보이는거처럼 색상 예쁘고 맘에들어요<br/>선물용으로 샀어요<br/>" 
 ---

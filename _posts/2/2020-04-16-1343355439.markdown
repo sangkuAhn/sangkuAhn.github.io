@@ -9,6 +9,5 @@ categories: [1003]
 color: BF360C 
 price: 12700 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>여름에입힐려고샀어요!이쁘고좋아용ㅎ<br/> 
-"
+cont:  "여름에입힐려고샀어요!이쁘고좋아용ㅎ<br/>" 
 ---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "하라몰 델시 라피아햇 RH041" 
+description: 하라몰 델 ..
+date: 2020-06-12 15:51:33 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/07/15/4720942726/4bb032ff-8be2-437c-917e-d183675ba5b1.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=216528782&itemId=665790696&vendorItemId=4720942726&traceid=V0-113-0d1067bda5fe7858 
+categories: [1008] 
+color: 35B62C 
+price: 8900 
+author: Ask View Shop 
+cont:  "거울을 수시로 보고 모양 잡지않는이상<br/>그리고 짜임이 성글어서 햇빛도 많이 들어와요.<br/><br/>기본 스타일의 밀짚모자입니다<br/>답답해서 쓸까 싶기도 한데 그래도 피부를<br/>메인사진은 약간 벙거지같은 느낌이 나는데 챙 넓은 기본 밀짚이에요 해가 강해서 걸을때 쓰려고 샀어요 만족합니다<br/>모양 잘 잡아서 쓰면 이쁘긴 합니다.<br/><br/>모양 잡기가 어려워요<br/>밖에서 쓰다보면 금새 모양이 일그러지는데<br/>상세설명의 모델이 쓴 모양을 유지하기가 어렵네요.<br/><br/>얼굴에 거뭇거뭇 잡티들이 올라오더라구요.<br/><br/>위해서 착용해 보려 합니다.<br/><br/>해서 썬크림만 바르고 다녔는데<br/>해서 해가리기로 이용하려고 구매했네요.<br/><br/>햇볕을너무 좋아하는 사람입니다.<br/><br/>" 
+---

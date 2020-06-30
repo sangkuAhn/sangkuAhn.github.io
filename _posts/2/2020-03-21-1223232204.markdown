@@ -9,6 +9,5 @@ categories: [1010]
 color: f44336 
 price: 18200 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>약간 환해진것 같아요! 촉촉해서 화장 잘먹네요<br/> 
-"
+cont:  "약간 환해진것 같아요! 촉촉해서 화장 잘먹네요<br/>" 
 ---

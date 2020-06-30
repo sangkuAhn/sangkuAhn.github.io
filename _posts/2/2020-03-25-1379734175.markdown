@@ -9,6 +9,5 @@ categories: [1016]
 color: 006064 
 price: 2065000 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>자신의 사용패턴과 ARM이 맞다면 최고의 선택이 될껍니다<br/> 
-"
+cont:  "자신의 사용패턴과 ARM이 맞다면 최고의 선택이 될껍니다<br/>" 
 ---

@@ -9,6 +9,5 @@ categories: [1008]
 color: ff1744 
 price: 4390 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>솔직히 너무 작아서 못써요<br/> 
-"
+cont:  "솔직히 너무 작아서 못써요<br/>" 
 ---

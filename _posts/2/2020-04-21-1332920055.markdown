@@ -9,6 +9,5 @@ categories: [1007]
 color: f44336 
 price: 39770 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>280신었는데 너무 작게 나옴<br/>발볼이 넓은 사람은 290신어도 될듯<br/> 
-"
+cont:  "280신었는데 너무 작게 나옴<br/>발볼이 넓은 사람은 290신어도 될듯<br/>" 
 ---

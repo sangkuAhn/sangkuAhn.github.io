@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "나이키/ 다운쉬프터 9 AQ7481_002" 
+description: 나이키/  ..
+date: 2020-06-22 07:44:30 
+img: https://static.coupangcdn.com/image/vendor_inventory/91e9/b4bc15c935bb4cf56c03ee9565fdad0143214cb2ba1bd68fa377125426d1.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=243195288&itemId=772031194&vendorItemId=5246642027&traceid=V0-113-33848a2dc150fe5c 
+categories: [1007] 
+color: 1294AB 
+price: 56700 
+author: Ask View Shop 
+cont:  "가볍고, 디자인도 깔끔하게 이쁘네요.<br/><br/>가볍고,편하고,디자인도괜찮고.<br/> 바빠서사진은못찍었네요.<br/><br/>낫네요^^굿입니다.<br/><br/>다만, 칼발이라 잘 맞지,<br/>만족합니다.<br/><br/>발볼있으신분들은 불편할꺼같아요.<br/><br/>사이즈 정사이즈 딱 좋아요.<br/><br/>사이즈좋고 사진으로보던것보다<br/>싸게잘산거 같아요<br/>" 
+---

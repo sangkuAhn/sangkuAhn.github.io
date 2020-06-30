@@ -9,6 +9,5 @@ categories: [1003]
 color: AAD34A 
 price: 9900 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>여름 한철 잘 입힐듯 하네요<br/> 
-"
+cont:  "여름 한철 잘 입힐듯 하네요<br/>" 
 ---

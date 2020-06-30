@@ -9,6 +9,5 @@ categories: [1018]
 color: 006064 
 price: 19600 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>빠른배송 굿<br/>흡착판도 잘 붙고 설치와 사용법도 간편하고 괜찮습니다.<br/><br/> 
-"
+cont:  "빠른배송 굿<br/>흡착판도 잘 붙고 설치와 사용법도 간편하고 괜찮습니다.<br/><br/>" 
 ---

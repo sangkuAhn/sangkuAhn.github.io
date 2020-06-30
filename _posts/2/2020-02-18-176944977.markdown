@@ -9,6 +9,5 @@ categories: [1002]
 color: 03A9F4 
 price: 18700 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>가성비 최고네요<br/>사이즈가 작아요<br/>생각보다 구김이 지지만 옷은 괜찮음<br/>핏도 좋고요<br/> 
-"
+cont:  "가성비 최고네요<br/>사이즈가 작아요<br/>생각보다 구김이 지지만 옷은 괜찮음<br/>핏도 좋고요<br/>" 
 ---

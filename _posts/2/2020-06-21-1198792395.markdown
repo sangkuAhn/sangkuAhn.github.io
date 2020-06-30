@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아토팜 탑투토 워시, 2개" 
+description: 아토팜 탑 ..
+date: 2020-06-21 16:06:05 
+img: https://static.coupangcdn.com/image/vendor_inventory/8a0f/2805dd7db1d414c595e11662bd755f697b982eb9d097148cfb649459dc2f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1198792395&itemId=2183110665&vendorItemId=5373266296&traceid=V0-113-57ffc4c7ae51aa04 
+categories: [1011] 
+color: 353535 
+price: 21900 
+author: Ask View Shop 
+cont:  "300ml는 집에서 쓰기 딱 좋고 100ml는 여행용으로 너무 좋아요.<br/><br/>거품도 잘나고 한번에 다쓸수있어서 좋아요!!<br/>놀러다닐때 가지고 다니려고요 넘나좋은것<br/>대용량은 워낙 질려해서 300짜리 두개로 샀어요<br/>또 튜브용기도 하나 서비스로 주셨네요<br/>손으로 거품내서 씻기도 좋고 깨끗하게 씻겨요.<br/> 아이 피부에 자극이 없어서 좋구요.<br/><br/>아기때부터 유치원생인 지금까지 늘 이것만 사용해요.<br/> 이젠 머리감는 삼푸는 따로 쓰지만 바디는 이게 제일 낫네요.<br/> 다른 제품도 사용했는데 건조하고 깨끗하게 씻기지 않아 아토팜으로 다시 돌아왔어요.<br/><br/>아기때부터 쭉 쓰던거예요 향도 강하지않고 거품도 잘나고 특히 화해어플에서 나쁜성분하나도 없단걸 확인한거에 더 믿고 쓰고있어요 유명 브랜드 이거저거 다봐도 안좋은성분 한두개는꼭 있더라구요 근데 이건 1도 없이 안심성분만있어 걱정없이 계속쓰게되네요 좋아요 싸게잘샀어요<br/>요기가 젤저렴해요<br/>제조일은 300ml는  2020년 4월 29일이고 100ml는 2020년 3월 30일로 최근이네요.<br/><br/>" 
+---

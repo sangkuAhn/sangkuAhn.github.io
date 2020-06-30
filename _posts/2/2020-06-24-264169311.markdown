@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "까르페디엠 스마트 자동장우산" 
+description: 까르페디엠 ..
+date: 2020-06-25 07:51:53 
+img: https://static.coupangcdn.com/image/vendor_inventory/b9a2/821ec85c02cbd02b41d6a880deb28433ff9337cbb04ec507d01389b3995d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=264169311&itemId=835686524&vendorItemId=5100594153&traceid=V0-113-ebed0a1f9b0e29b7 
+categories: [1008] 
+color: CF36BB 
+price: 6800 
+author: Ask View Shop 
+cont:  "남자애들이 쓰기 좋은 색감이고요<br/>노랑색 병아리같이 귀욤그자체네용 완전 쨍한 노랑아니여서 더 좋은거같아욤 크기는 크진 않지만 적당하고 가격이 넘 저렴한거에 비해서는 튼튼하네요 다만 우산살이 검정색이라 은색?얼굴비치는 우산살 재질보다 색상이 좀 대비되긴하지만 때안타고 좋을거같아요ㅋㅋ  장마온다길래 구입했는데 비가 안와서 당분간 못쓰겠지만 뭐 잘 버틸거같네용 많이파세여<br/>상태는 불량없이 왔어요<br/>이상품 매해마다 쓰는데 내년에도 구입하려고요.<br/><br/>튼튼하고 견고해요! 보라색이 분위기내기 ! 비오는 날 <br/>" 
+---

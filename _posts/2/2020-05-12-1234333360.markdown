@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "쿠팡 단독/ 아디다스 남성 프리모션 드로즈 4종 패키지" 
+description: 쿠팡 단독 ..
+date: 2020-05-13 02:17:38 
+img: https://static.coupangcdn.com/image/operator/2228580211/42b02d20-2472-4ac9-4b01-c87a30c3a8bd.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1234333360&itemId=2228580211&vendorItemId=70226210245&traceid=V0-113-6dd335db598d5a99 
+categories: [1002] 
+color: A566FF 
+price: 38900 
+author: Ask View Shop 
+cont:  "가성비 좋습니다.<br/> 사이즈 잘 맞고 좋아요<br/>안전하고 꼼꼼하게  보내주셔서 강추합니다<br/>쿠팡 리뷰 잘 안남기는데 완전 맘에 들어여 디자인 너무 이쁨 보이시하면서 스포티한느낌 물씬! 사던지 말던지 광고 아닙니다 ㅋㅋ<br/>" 
+---

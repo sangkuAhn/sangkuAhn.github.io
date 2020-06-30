@@ -9,6 +9,5 @@ categories: [1005]
 color: FF6F00 
 price: 1900 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>세번째  사네요.<br/>.<br/>굿굿굿.<br/>.<br/><br/>세번째  사네요.<br/>.<br/>굿굿굿.<br/>.<br/><br/> 
-"
+cont:  "세번째  사네요.<br/>.<br/>굿굿굿.<br/>.<br/><br/>" 
 ---

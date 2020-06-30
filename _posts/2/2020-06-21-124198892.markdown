@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "키라키라샵 심플U자 복고 올림 머리핀_AHC1043" 
+description: 키라키라샵 ..
+date: 2020-06-21 15:51:40 
+img: https://static.coupangcdn.com/image/vendor_inventory/34d5/6d0ae1be70aa4fce81e9dece14488a95dee18f6a9da962e51e401e3c8c6f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=124198892&itemId=367652601&vendorItemId=3892853362&traceid=V0-113-6a0f95e212b81011 
+categories: [1008] 
+color: 03A9F4 
+price: 2500 
+author: Ask View Shop 
+cont:  "고무줄 안하고 바로 꼽아도 흔들리지않아요<br/>연필 볼펜이 편한데 밉다하여 구매.<br/> 머리속에 쏙 숨길 수 있지만 매끄러운지라 숱이 적어서도 잘 풀리네요... <br/><br/>우와요 작은게 머리를 단단히 고정시켜주네오<br/>재구입 합니다<br/>한번에 2개 구입하고  가볍고  쓰기 편해요  옆에  지인이 한번 써보고  하나 달래서 들고 가버렸네요<br/>" 
+---

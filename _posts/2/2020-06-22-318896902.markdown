@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "인블룸 커피프렌즈 카페 유리컵 400ml, 단일 색상, 2개" 
+description: 인블룸 커 ..
+date: 2020-06-23 08:19:48 
+img: https://static.coupangcdn.com/image/retail/images/512269777365781-c1a1b060-0f85-4bfb-aa24-2b80b1f988b2.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=318896902&itemId=1018729005&vendorItemId=5456683945&traceid=V0-113-34013b243eb31d50 
+categories: [1013] 
+color: BF360C 
+price: 7830 
+author: Ask View Shop 
+cont:  "그것만 빼면 별다섯개입니다<br/>넘 이뻐요<br/>디자인 예뻐요<br/>설거지할때 손안들어가서 밑에까지 닦기가 힘들어요ᆢ<br/>예쁜데 엄청 얇아요 조심조심 사용해야겠어요<br/>첨엔 약간작은게 아쉬웠지만 이쁘고 가볍고 약해보이지 않아요 만족합니다<br/>" 
+---

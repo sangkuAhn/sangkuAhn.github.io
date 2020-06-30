@@ -9,6 +9,5 @@ categories: [1008]
 color: 9E9D24 
 price: 3900 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>Good quality.<br/>Fast delivery<br/>괜히 샀다... <br/>.<br/><br/>너무 감사합니다<br/>싸이즈도 딱 좋고 가격도 저렴히 파시고<br/>중국산일줄이야... <br/>... <br/><br/> 
-"
+cont:  "Good quality.<br/>Fast delivery<br/>괜히 샀다... <br/>.<br/><br/>너무 감사합니다<br/>싸이즈도 딱 좋고 가격도 저렴히 파시고<br/>중국산일줄이야... <br/>... <br/><br/>" 
 ---

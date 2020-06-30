@@ -9,5 +9,5 @@ categories: [1002]
 color: BD24A9 
 price: 32000 
 author: Ask View Shop 
-cont:  "●구매후기●<br/>이뻐요  옷재질 진짜 좋아요  진짜 나이키 보다 질 좋<br/>" 
+cont:  "이뻐요  옷재질 진짜 좋아요  진짜 나이키 보다 질 좋<br/>" 
 ---

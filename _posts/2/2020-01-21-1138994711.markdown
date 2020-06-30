@@ -10,6 +10,5 @@ color: ff1744
 rank: 2 
 price: 13500 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>삼색아 사랑해<br/>이얏호응<br/>흥미 진진해요<br/> 
-"
+cont:  "삼색아 사랑해<br/>이얏호응<br/>흥미 진진해요<br/>" 
 ---

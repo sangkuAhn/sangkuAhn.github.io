@@ -9,6 +9,5 @@ categories: [1006]
 color: ff1744 
 price: 9900 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>soso 써봐야 알듯<br/>가성비 좋아 추천<br/>마른편이면 S .<br/>.<br/>참고요<br/>상단 내부 실리콘밴딩 흘러 내림 방지해줌 이게 좋음<br/>일반인은 M사용이 맞음<br/>조아요<br/> 
-"
+cont:  "soso 써봐야 알듯<br/>가성비 좋아 추천<br/>마른편이면 S .<br/>.<br/>참고요<br/>상단 내부 실리콘밴딩 흘러 내림 방지해줌 이게 좋음<br/>일반인은 M사용이 맞음<br/>조아요<br/>" 
 ---

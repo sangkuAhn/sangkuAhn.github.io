@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코디아이 여아용 소피아 바디슈트" 
+description: 코디아이  ..
+date: 2020-06-28 07:15:38 
+img: https://static.coupangcdn.com/image/retail/images/2020/02/26/21/3/270c7bda-c586-4a71-904b-e7d706c81dd9.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1337630639&itemId=2364038185&vendorItemId=70360326355&traceid=V0-113-ec54b63c19d95777 
+categories: [1003] 
+color: f44336 
+price: 10900 
+author: Ask View Shop 
+cont:  "너무이뻐여 딸아이라서 꼭사주고싶엇어요!그리구 넘넘좋앗어요!<br/>넘나.<br/>이뻐요^^담달에 둘째 태어나면 입히려고 샀어요<br/>모자 없으니까 좀 실망하거든요!<br/>아들맘이였는데.<br/> 딸래미 옷 보니.<br/>설레네요<br/>" 
+---

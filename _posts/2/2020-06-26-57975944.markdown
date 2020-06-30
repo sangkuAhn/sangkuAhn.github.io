@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "카템 센터 콘솔 포켓 대형, 1개" 
+description: 카템 센터 ..
+date: 2020-06-27 08:56:21 
+img: https://static.coupangcdn.com/image/retail/images/2018/01/04/16/8/324353cc-aff5-4253-8157-53f85a647dab.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=57975944&itemId=201071802&vendorItemId=3477689112&traceid=V0-113-4f16968440074d00 
+categories: [1018] 
+color: A6A6A6 
+price: 8650 
+author: Ask View Shop 
+cont:  "가방둬도 콘솔박스 뒤로 안넘어가고<br/>그물망이 너무 타이트해서 사진처럼 책이 들어가기에는 힘들어요.<br/>.<br/>;;<br/>만족합니다<br/>생각보다 너무 작아요.<br/>.<br/>;;<br/>생각보다 작아서 움찔 했지만 편하긴 하네요ㅎ<br/>수납의기능에도 충실합니다.<br/><br/>완전편해요.<br/><br/>차종은 디스커버리 스포츠 입니다.<br/><br/>" 
+---

@@ -9,6 +9,5 @@ categories: [1007]
 color: 006064 
 price: 29900 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>최고! 정사이즈.<br/> 7센틴데 발이 편함! 굿!!<br/>편해요<br/> 
-"
+cont:  "최고! 정사이즈.<br/> 7센틴데 발이 편함! 굿!!<br/>편해요<br/>" 
 ---

@@ -9,6 +9,5 @@ categories: [1007]
 color: 9E9D24 
 price: 40000 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>가성비 좋은듯 이뻐요<br/>저렴한가격 정싸이즈 너무좋습니다.<br/><br/> 
-"
+cont:  "가성비 좋은듯 이뻐요<br/>저렴한가격 정싸이즈 너무좋습니다.<br/><br/>" 
 ---

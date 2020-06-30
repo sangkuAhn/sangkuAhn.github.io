@@ -9,6 +9,5 @@ categories: [1012]
 color: 9E9D24 
 price: 41500 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>알이 톡톡 씹히구  맛있어요<br/> 
-"
+cont:  "알이 톡톡 씹히구  맛있어요<br/>" 
 ---

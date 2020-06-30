@@ -9,6 +9,5 @@ categories: [1007]
 color: 43A047 
 price: 25600 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>사진과  똑같고 이쁜데 다만 수치가  5는 더 큰거같아요<br/> 
-"
+cont:  "사진과  똑같고 이쁜데 다만 수치가  5는 더 큰거같아요<br/>" 
 ---

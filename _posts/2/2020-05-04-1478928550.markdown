@@ -9,6 +9,5 @@ categories: [1008]
 color: A566FF 
 price: 31200 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>생각보다이쁨<br/>이뻐요.<br/>아주 조금 넉넉합니다<br/> 
-"
+cont:  "생각보다이쁨<br/>이뻐요.<br/>아주 조금 넉넉합니다<br/>" 
 ---

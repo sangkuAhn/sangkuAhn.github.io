@@ -9,6 +9,5 @@ categories: [1002]
 color: 4CAF50 
 price: 12900 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>대단히 만족하고 좋았습니다<br/> 
-"
+cont:  "대단히 만족하고 좋았습니다<br/>" 
 ---

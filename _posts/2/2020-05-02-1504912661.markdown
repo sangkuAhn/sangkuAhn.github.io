@@ -9,6 +9,5 @@ categories: [1020]
 color: F15F5F 
 price: 35160 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>어린이날선물로 줬는데  좋아하네요<br/>어린이날선물로 줬는데  좋아하네요<br/> 
-"
+cont:  "어린이날선물로 줬는데  좋아하네요<br/>" 
 ---

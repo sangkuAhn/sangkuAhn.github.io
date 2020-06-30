@@ -9,6 +9,5 @@ categories: [1007]
 color: FF1744 
 price: 18050 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>쿠션감 전혀 없어요<br/> 
-"
+cont:  "쿠션감 전혀 없어요<br/>" 
 ---

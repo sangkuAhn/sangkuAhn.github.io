@@ -9,6 +9,5 @@ categories: [1007]
 color: A57F92 
 price: 8900 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>개커요ㅠ넘넘커서 신을수가잇을까싶네여,어이가없네여,싼마이<br/> 
-"
+cont:  "개커요ㅠ넘넘커서 신을수가잇을까싶네여,어이가없네여,싼마이<br/>" 
 ---

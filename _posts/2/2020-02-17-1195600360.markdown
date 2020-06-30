@@ -9,6 +9,5 @@ categories: [1012]
 color: 03A9F4 
 price: 69000 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>엄청신선하고맛이 좋아요<br/> 
-"
+cont:  "엄청신선하고맛이 좋아요<br/>" 
 ---

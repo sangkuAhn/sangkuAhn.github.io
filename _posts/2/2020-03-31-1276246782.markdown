@@ -9,6 +9,5 @@ categories: [1006]
 color: 43A047 
 price: 24200 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>줄이 자꾸 흘러내리는데 고정하는 방법 없나.<br/><br/> 
-"
+cont:  "줄이 자꾸 흘러내리는데 고정하는 방법 없나.<br/><br/>" 
 ---

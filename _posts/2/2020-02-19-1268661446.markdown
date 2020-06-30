@@ -9,6 +9,5 @@ categories: [1019]
 color: 212121 
 price: 6175 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>글이 생각보다 재미있어요<br/> 
-"
+cont:  "글이 생각보다 재미있어요<br/>" 
 ---

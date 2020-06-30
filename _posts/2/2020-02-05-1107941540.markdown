@@ -9,6 +9,5 @@ categories: [1007]
 color: ff1744 
 price: 50000 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>정사이즈보다 5mm 큰것 같아요<br/>한칫수 작게 신청하세요.<br/> 헐떡여요<br/> 
-"
+cont:  "정사이즈보다 5mm 큰것 같아요<br/>한칫수 작게 신청하세요.<br/> 헐떡여요<br/>" 
 ---

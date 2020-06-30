@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "슈즈앤 웨지 스트랩 샌들 sn017" 
+description: 슈즈앤 웨 ..
+date: 2020-06-24 15:44:27 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/20/16/6/f506bb2d-fef4-4a8d-8659-6be0d11121c7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1387642328&itemId=2423208757&vendorItemId=70417315563&traceid=V0-113-3c5383a8b4215524 
+categories: [1007] 
+color: 4CAF50 
+price: 10450 
+author: Ask View Shop 
+cont:  "냄새도 하나도 안나고<br/>딱 원하는 스타일이라 구매했늰데 역시 발도 편하고 낑기는 느낌없이 부드러워요.<br/> 정싸쥬네요<br/>또 구매하고 싶어용 !<br/>마감은 조금 아쉽지만 전 넘만족합니다<br/>매일 이것만 신고 다녀용 ㅎㅎ<br/>발하나도안아프고 편하고 이쁘고<br/>사세용 꼭 강추<br/>생각외로 너무좋아요<br/>저렴한 가격에 잘 산거 같아요.<br/><br/>진짜 편해서<br/>하루죙일 얘들 따라다녀도 안아픔<br/>" 
+---

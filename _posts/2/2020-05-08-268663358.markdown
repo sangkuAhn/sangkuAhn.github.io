@@ -9,6 +9,5 @@ categories: [1008]
 color: 4CAF50 
 price: 34500 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>생각보다 작긴한데 가볍게 들고다니기 좋네여<br/> 
-"
+cont:  "생각보다 작긴한데 가볍게 들고다니기 좋네여<br/>" 
 ---

@@ -9,6 +9,5 @@ categories: [1007]
 color: 43A047 
 price: 49000 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>Awesome<br/>사이즈가 작지만 마음에 듭니다<br/>정말좋아요<br/> 
-"
+cont:  "Awesome<br/>사이즈가 작지만 마음에 듭니다<br/>정말좋아요<br/>" 
 ---

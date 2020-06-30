@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "달리샵 에브리 골지 밴딩 팬츠" 
+description: 달리샵 에 ..
+date: 2020-05-20 02:10:16 
+img: https://static.coupangcdn.com/image/vendor_inventory/115e/121d749534a0b9db96551965e0ca2a480cc007403a70874266cbe08f5073.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1234914080&itemId=2229322293&vendorItemId=70226944239&traceid=V0-113-9686ed5d210dc6d9 
+categories: [1001] 
+color: CF36BB 
+price: 6230 
+author: Ask View Shop 
+cont:  "가격이 너무싸서 별로 기대안했는데 생각보다 되게 좋았어요.<br/> 마감도 이 정도면 깔끔합니다.<br/><br/>바지가 너무 편하고 예뻐요<br/>빠른배송 저렴한가격 꼼꼼한포장 입니다<br/>" 
+---

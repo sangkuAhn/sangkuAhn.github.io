@@ -9,6 +9,5 @@ categories: [1003]
 color: BF360C 
 price: 5000 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>가성비굿<br/> 
-"
+cont:  "가성비굿<br/>" 
 ---

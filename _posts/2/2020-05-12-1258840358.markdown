@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "라이트무드 피어오브갓 나이키 박스티셔츠 3color, 블랙" 
+description: 라이트무드 ..
+date: 2020-05-13 02:17:38 
+img: https://static.coupangcdn.com/image/vendor_inventory/8a9e/9785825004e62408f823b37969d88904543840bc9bc5d76b7f079d5ce63b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1258840358&itemId=2259750290&vendorItemId=70546432218&traceid=V0-113-033d61c9ea512646 
+categories: [1002] 
+color: CF36BB 
+price: 29000 
+author: Ask View Shop 
+cont:  "박시해서 너무 편하고 좋습니다<br/>사지마세요 새거에 먼지 잔뜩부쳐서 왓네요 재질도별로고<br/>생각보다 너무 마음에 들어요<br/>" 
+---

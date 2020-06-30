@@ -9,6 +9,5 @@ categories: [1005]
 color: 7E57C2 
 price: 1900 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>간절기에딱이예요^^<br/>이뻐요ᆢ색감도밝고조카가잘입고다닙니다<br/> 
-"
+cont:  "간절기에딱이예요^^<br/>이뻐요ᆢ색감도밝고조카가잘입고다닙니다<br/>" 
 ---

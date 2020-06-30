@@ -9,6 +9,5 @@ categories: [1003]
 color: A57F92 
 price: 7900 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>보들보들하네여<br/>예쁘네요<br/> 
-"
+cont:  "보들보들하네여<br/>예쁘네요<br/>" 
 ---

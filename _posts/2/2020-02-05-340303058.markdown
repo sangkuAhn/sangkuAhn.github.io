@@ -9,6 +9,5 @@ categories: [1007]
 color: 006064 
 price: 3900 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>상품이 정말 마음에 들어요<br/>좋아요<br/>탄력이 넘쳐서 조금 그닥;;<br/> 
-"
+cont:  "상품이 정말 마음에 들어요<br/>좋아요<br/>탄력이 넘쳐서 조금 그닥;;<br/>" 
 ---

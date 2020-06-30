@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "TOMKID 그래픽TS2" 
+description: TOMKI ..
+date: 2020-05-19 02:41:09 
+img: https://static.coupangcdn.com/image/vendor_inventory/764c/79fade39221bd86f5842d631ab4482428017fc6ebaef89c07b82f3755527.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=211158550&itemId=631992567&vendorItemId=4655271519&traceid=V0-113-d208f1193d29c361 
+categories: [1005] 
+color: AAD34A 
+price: 1900 
+author: Ask View Shop 
+cont:  "몇벌 사서 입혀보는데 옷갈아입기 세상 귀찮은 아들램때문에 후다다닥.<br/><br/>목 부분이 좁아 입힐때 좀 불편하네요.<br/><br/>배송은 좀 오래걸렸지만,<br/>사진은 없지만 옷도 딱 맞고, 부드럽고 좋네요<br/>얇으면서 부드러워서 한 여름까지 입히기 좋을듯해요.<br/><br/>옷감도 나쁘지 않고요.<br/><br/>옷은 이뻐요.<br/><br/>옷이 저렴해서 별 기대 안했는데 너무 좋네요.<br/><br/>우리 아이가 짱구라 그런가... <br/>ㅋ<br/>" 
+---

@@ -9,6 +9,5 @@ categories: [1007]
 color: FF6F00 
 price: 21000 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>230사이즈인데 240 편안하게 신기 좋네요 잘 신을게요<br/>마음에 꼭 들어요.<br/><br/> 
-"
+cont:  "230사이즈인데 240 편안하게 신기 좋네요 잘 신을게요<br/>마음에 꼭 들어요.<br/><br/>" 
 ---

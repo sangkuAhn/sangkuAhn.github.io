@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "엄마의 걱정 공장, 거북이북스" 
+description: 엄마의 걱 ..
+date: 2020-05-16 04:14:34 
+img: https://static.coupangcdn.com/image/vendor_inventory/1646/7bbc72a7c2016a05b279b5485438ad89c2951de9a7df89d7b624961ed4e7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=39133827&itemId=144007043&vendorItemId=3359476791&traceid=V0-113-45670f84d45c91cc 
+categories: [1019] 
+color: 7E57C2 
+price: 10350 
+author: Ask View Shop 
+cont:  "4학년 남아예요.<br/><br/>생각보다 재밌진 않다고.<br/>보통이라고 하네요.<br/><br/>쉽게는 읽고 넘어갔어요.<br/><br/>아이가 넘 잼있는지 하루만에 다 읽고 또 읽고 친구들에게 추천해주고 빌려주기까지ㅋㅋ책않좋아하는 애가 왠일인가 싶어 읽었는데 저도 잼나더라구요ㅎㅎ사주길 잘했더라는<br/>초2학년 아들읽어주려 구매했는데 재미있어서 먼저읽었네요<br/>" 
+---

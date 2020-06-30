@@ -9,6 +9,5 @@ categories: [1003]
 color: FF6F00 
 price: 5960 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>목깃 소매 누렇고 더럽다.<br/><br/> 
-"
+cont:  "목깃 소매 누렇고 더럽다.<br/><br/>" 
 ---

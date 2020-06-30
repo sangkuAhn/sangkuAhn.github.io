@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "빅사이즈클럽 CRAMP 남성용 기능성 경량 티셔츠" 
+description: 빅사이즈클 ..
+date: 2020-06-12 15:37:10 
+img: https://static.coupangcdn.com/image/retail/images/2020/02/13/15/6/ca3c2a0a-7ec7-41f9-80a7-6ef1f69a46ab.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1271510071&itemId=2276255178&vendorItemId=70273424953&traceid=V0-113-77a483462aaa0ce8 
+categories: [1006] 
+color: f44336 
+price: 13500 
+author: Ask View Shop 
+cont:  "176/75 어깨 사이즈 딱 맞습니다!<br/>가성비 굳!<br/>굳굳굳!<br/>넉넉하니 길이가 어무 길지않고 적당해요<br/>로카티 재질인데 퀄리티 더 좋고, 핏도 더 여유있어서 좋음.<br/><br/>재질! 핏 모두 만족 입니다<br/>좋은거같아요 감사합니다<br/>짭 아디다스보다 이티셔츠가<br/>팔 운동 더 하겠습니다!<br/>팔뚝 통이 좀더 좁으면 좋았을텐데 ㅠ<br/>" 
+---

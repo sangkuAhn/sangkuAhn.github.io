@@ -9,6 +9,5 @@ categories: [1002]
 color: FF6F00 
 price: 65800 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>배송이 정확히 한달 걸렸고,<br/>제품은 예쁘고 좋습니다<br/>배송이 정확히 한달 걸렸고,<br/>제품은 예쁘고 좋습니다<br/> 
-"
+cont:  "배송이 정확히 한달 걸렸고,<br/>제품은 예쁘고 좋습니다<br/>" 
 ---

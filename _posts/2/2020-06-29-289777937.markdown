@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "루루백 루릴리시 쇼퍼백" 
+description: 루루백 루 ..
+date: 2020-06-29 15:51:30 
+img: https://static.coupangcdn.com/image/retail/images/2019/08/27/18/2/03d94fe8-68a8-414b-a800-6080a29f9020.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=289777937&itemId=917220976&vendorItemId=5286971932&traceid=V0-113-8484b2c18c2e3916 
+categories: [1008] 
+color: A566FF 
+price: 13990 
+author: Ask View Shop 
+cont:  "디자인도모두산뜻햐요<br/>받아보자마자 아이예뻐라 ! ㅎ<br/>별기대 안하고 주문했는데 생각했던거보다 넘 이뻐요<br/>색상도이쁘고크기도넉넉하니<br/>와인.<br/>블랙만 있는게 아쉽네요 ㅠㅠ<br/>재구매 의사있어요<br/>카키.<br/>베이지 이런색상도 있었다면 깔별로 샀을텐데요<br/>커서 이것저것 다 들어가요<br/>크로스보다 숄더로 매니까 편하고 예뻐요<br/>" 
+---

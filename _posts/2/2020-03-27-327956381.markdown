@@ -9,6 +9,5 @@ categories: [1007]
 color: FF6F00 
 price: 54000 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>금색뽀인트 이쁩니다.<br/><br/> 
-"
+cont:  "금색뽀인트 이쁩니다.<br/><br/>" 
 ---

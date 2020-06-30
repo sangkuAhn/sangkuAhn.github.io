@@ -9,6 +9,5 @@ categories: [1005]
 color: FF6F00 
 price: 10800 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>m이 너무 커서 s로 주문했더니.<br/>.<br/><br/>아주좋습니다<br/>이건 너무 꽉 조이고 끼네요.<br/>.<br/> 에혀;;<br/>이뻐요<br/> 
-"
+cont:  "m이 너무 커서 s로 주문했더니.<br/>.<br/><br/>아주좋습니다<br/>이건 너무 꽉 조이고 끼네요.<br/>.<br/> 에혀;;<br/>이뻐요<br/>" 
 ---

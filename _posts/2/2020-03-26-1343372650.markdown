@@ -9,6 +9,5 @@ categories: [1007]
 color: 006064 
 price: 49500 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>색잘못보고 구입했지만 그냥 편하게 신고 다니고 있어요<br/> 
-"
+cont:  "색잘못보고 구입했지만 그냥 편하게 신고 다니고 있어요<br/>" 
 ---

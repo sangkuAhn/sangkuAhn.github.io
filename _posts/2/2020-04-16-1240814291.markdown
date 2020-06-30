@@ -9,6 +9,5 @@ categories: [1002]
 color: 7E57C2 
 price: 22500 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>엄청편해요<br/>재질은 좋은거같은데 보풀이 일어나지 않았으면 좋겠어요.<br/><br/>품질은 괜찮음<br/> 
-"
+cont:  "엄청편해요<br/>재질은 좋은거같은데 보풀이 일어나지 않았으면 좋겠어요.<br/><br/>품질은 괜찮음<br/>" 
 ---

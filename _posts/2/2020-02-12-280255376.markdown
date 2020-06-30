@@ -9,6 +9,5 @@ categories: [1007]
 color: 4A148C 
 price: 59900 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>편해용<br/> 
-"
+cont:  "편해용<br/>" 
 ---

@@ -9,6 +9,5 @@ categories: [1007]
 color: ff1744 
 price: 53900 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>무겁지도않코.<br/><br/>사진과똑같아요<br/>커플로.<br/>두개구매핫는데.<br/>괜찮네요<br/>편하네요<br/> 
-"
+cont:  "무겁지도않코.<br/><br/>사진과똑같아요<br/>커플로.<br/>두개구매핫는데.<br/>괜찮네요<br/>편하네요<br/>" 
 ---

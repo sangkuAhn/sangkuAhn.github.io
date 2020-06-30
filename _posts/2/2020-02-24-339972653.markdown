@@ -9,6 +9,5 @@ categories: [1007]
 color: 006064 
 price: 59000 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>깔창도 한개 더 주어서 쿠션감이 좋네요<br/>사진보다  더 예쁘네요<br/> 
-"
+cont:  "깔창도 한개 더 주어서 쿠션감이 좋네요<br/>사진보다  더 예쁘네요<br/>" 
 ---

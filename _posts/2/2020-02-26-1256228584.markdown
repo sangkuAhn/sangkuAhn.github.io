@@ -9,6 +9,5 @@ categories: [1003]
 color: 9E9D24 
 price: 9300 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>너무 예뻐요<br/>손녀선물인데 만족합니다^^<br/> 
-"
+cont:  "너무 예뻐요<br/>손녀선물인데 만족합니다^^<br/>" 
 ---

@@ -9,6 +9,5 @@ categories: [1006]
 color: 9E9D24 
 price: 58000 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>괜찮아요<br/>냄새나고짜퉁같은느낌<br/>마음에 듭니다<br/>정사이즈에 원단좋고<br/> 
-"
+cont:  "괜찮아요<br/>냄새나고짜퉁같은느낌<br/>마음에 듭니다<br/>정사이즈에 원단좋고<br/>" 
 ---

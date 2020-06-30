@@ -9,6 +9,5 @@ categories: [1006]
 color: 4CAF50 
 price: 16000 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>신축성 좋지만 입고 벗기가 넘 타이트해서 좀 힘드네요<br/>착용했을때 넘 편해요<br/> 
-"
+cont:  "신축성 좋지만 입고 벗기가 넘 타이트해서 좀 힘드네요<br/>착용했을때 넘 편해요<br/>" 
 ---

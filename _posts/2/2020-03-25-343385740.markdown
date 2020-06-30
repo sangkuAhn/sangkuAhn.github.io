@@ -9,6 +9,5 @@ categories: [1006]
 color: 03A9F4 
 price: 16000 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>많이 길어요... <br/>ㅋㅋㅋ<br/>좋아요<br/> 
-"
+cont:  "많이 길어요... <br/>ㅋㅋㅋ<br/>좋아요<br/>" 
 ---

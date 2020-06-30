@@ -9,6 +9,5 @@ categories: [1020]
 color: 03A9F4 
 price: 54880 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>게임은 재미없어요 차라리 무쌍이더나아요<br/>게임은 재미없어요 차라리 무쌍이더나아요<br/> 
-"
+cont:  "게임은 재미없어요 차라리 무쌍이더나아요<br/>" 
 ---

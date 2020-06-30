@@ -9,6 +9,5 @@ categories: [1007]
 color: 03A9F4 
 price: 22000 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>가벼워요<br/>귀여워요 최고입니ㅇ<br/>정사이즈<br/>쿠션좋앙ㅅ<br/>가벼워요<br/>귀여워요 최고입니ㅇ<br/>정사이즈<br/>쿠션좋앙ㅅ<br/> 
-"
+cont:  "가벼워요<br/>귀여워요 최고입니ㅇ<br/>정사이즈<br/>쿠션좋앙ㅅ<br/>" 
 ---

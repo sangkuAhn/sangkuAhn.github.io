@@ -9,6 +9,5 @@ categories: [1007]
 color: 9E9D24 
 price: 12900 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>빨리 털실내화보내주세요<br/>상품이 제대로 안오고 무슨보이차가 왔어요<br/>조금 작아요<br/> 
-"
+cont:  "빨리 털실내화보내주세요<br/>상품이 제대로 안오고 무슨보이차가 왔어요<br/>조금 작아요<br/>" 
 ---

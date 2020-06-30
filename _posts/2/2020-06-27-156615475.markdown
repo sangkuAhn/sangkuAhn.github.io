@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "미쉐린 라디우스 스탠다드 와이퍼 650mm + 400mm, 1세트" 
+description: 미쉐린 라 ..
+date: 2020-06-28 08:56:26 
+img: https://static.coupangcdn.com/image/retail/images/2018/11/08/13/1/8c141b84-b1fe-4e91-a458-612ef85fb8ce.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=156615475&itemId=450967062&vendorItemId=4116851725&traceid=V0-113-3a3c49747115623f 
+categories: [1018] 
+color: FF1744 
+price: 9720 
+author: Ask View Shop 
+cont:  "가격대비는<br/>비쥬얼은 좀 떨어지지요<br/>사용전입니다<br/>싼가격에 좋네요<br/>좋네요<br/>" 
+---

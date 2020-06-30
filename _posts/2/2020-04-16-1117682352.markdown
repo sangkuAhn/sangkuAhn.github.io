@@ -9,6 +9,5 @@ categories: [1007]
 color: 212121 
 price: 72000 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>발볼이많이좁아요잠조하세요<br/> 
-"
+cont:  "발볼이많이좁아요잠조하세요<br/>" 
 ---

@@ -9,6 +9,5 @@ categories: [1007]
 color: BF360C 
 price: 12900 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>발편해여<br/>역시.<br/>.<br/>싼티나긴 하네요.<br/>.<br/><br/>정말좋은  로퍼입니다^^편해요<br/> 
-"
+cont:  "발편해여<br/>역시.<br/>.<br/>싼티나긴 하네요.<br/>.<br/><br/>정말좋은  로퍼입니다^^편해요<br/>" 
 ---

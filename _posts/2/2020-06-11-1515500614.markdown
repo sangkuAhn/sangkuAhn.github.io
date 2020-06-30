@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "엔비룩 여성용 린넨 기본 티셔츠" 
+description: 엔비룩 여 ..
+date: 2020-06-12 07:01:17 
+img: https://static.coupangcdn.com/image/retail/images/2020/04/24/11/4/7e47935d-f7d6-43b9-a2c4-5e1d7eca279f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1515500614&itemId=2601127814&vendorItemId=70592310512&traceid=V0-113-c383d37d67400933 
+categories: [1001] 
+color: 4CAF50 
+price: 9900 
+author: Ask View Shop 
+cont:  "그래서 부드러운소재 면소재는 아니기 때문에<br/>그런분들은 패쑤<br/>다른색으로 재구매해야겠어요<br/>맘에속드려요<br/>색도 예쁘고요.<br/> 한철입겠거니 했는데 기대이상입니다^^(아주얇은린넨기지는아님)<br/>색상도예쁘네요<br/>일단 막빨아도 늘어짐 없다는게 최고<br/>잘입을게요<br/>전 나름 만족합니다<br/>팔둑부분은 좀ㅋㅋ<br/>품은 괜찮은데(날씬하지 않음ㅠ)<br/>피부가 예민하시면 비추예요<br/>하지만 전 그런 피부가 아니라서ㅎ<br/>" 
+---

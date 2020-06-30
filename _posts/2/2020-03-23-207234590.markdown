@@ -9,6 +9,5 @@ categories: [1006]
 color: 212121 
 price: 9000 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>너무 예뻐요 색은 더 흐려요<br/>대박입니다<br/>아주이뻐요<br/> 
-"
+cont:  "너무 예뻐요 색은 더 흐려요<br/>대박입니다<br/>아주이뻐요<br/>" 
 ---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "스타벅스 뉴 로고 콜드컵 473ml + 아이스큐브 세트, 혼합 색상" 
+description: 스타벅스  ..
+date: 2020-06-12 08:20:29 
+img: https://static.coupangcdn.com/image/retail/images/178806871745305-6e330651-170a-472d-86eb-55f4ccb35d41.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=331561371&itemId=1059435729&vendorItemId=5535800547&traceid=V0-113-2ce6e48cf4f65816 
+categories: [1013] 
+color: 006064 
+price: 23800 
+author: Ask View Shop 
+cont:  "생각햇던거 보다 좋네요<br/>재질도 튼튼하고 가볍고 예쁩니다<br/>좋아요<br/>특히 여름에 아이스커피 딱이에요<br/>" 
+---

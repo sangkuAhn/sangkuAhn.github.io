@@ -9,6 +9,5 @@ categories: [1007]
 color: FF6F00 
 price: 24910 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>그냥보통이예요<br/> 
-"
+cont:  "그냥보통이예요<br/>" 
 ---

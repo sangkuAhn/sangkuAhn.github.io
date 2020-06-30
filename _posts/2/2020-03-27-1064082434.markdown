@@ -9,6 +9,5 @@ categories: [1007]
 color: 7E57C2 
 price: 64500 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>스탈일리쉬 레벨 업^^<br/>좋아요<br/> 
-"
+cont:  "스탈일리쉬 레벨 업^^<br/>좋아요<br/>" 
 ---

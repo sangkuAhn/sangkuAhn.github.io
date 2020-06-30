@@ -9,6 +9,5 @@ categories: [1007]
 color: 7E57C2 
 price: 37900 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>넘좋아요<br/>완전 예뻐요 사진이랑 똑같습니다 배송도 빨리 왔어요<br/> 
-"
+cont:  "넘좋아요<br/>완전 예뻐요 사진이랑 똑같습니다 배송도 빨리 왔어요<br/>" 
 ---

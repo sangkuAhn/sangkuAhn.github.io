@@ -9,6 +9,5 @@ categories: [1003]
 color: 03A9F4 
 price: 3900 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>조카 사줬어요 히히<br/> 
-"
+cont:  "조카 사줬어요 히히<br/>" 
 ---

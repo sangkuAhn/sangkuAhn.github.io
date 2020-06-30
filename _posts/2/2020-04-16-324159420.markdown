@@ -9,6 +9,5 @@ categories: [1007]
 color: 03A9F4 
 price: 41900 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>너무너무 이쁘고 편해요 진짜 다른색이 나오면<br/>더이쁘겠에요 ㅎㅎ<br/>완전 강추<br/>좋아요<br/> 
-"
+cont:  "너무너무 이쁘고 편해요 진짜 다른색이 나오면<br/>더이쁘겠에요 ㅎㅎ<br/>완전 강추<br/>좋아요<br/>" 
 ---

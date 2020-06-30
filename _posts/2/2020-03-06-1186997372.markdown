@@ -9,6 +9,5 @@ categories: [1003]
 color: 006064 
 price: 10900 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>구매하기 잘했다고 생각해요.<br/><br/>귀여워요<br/>이쁘고,잘 맞아요.<br/><br/>조카 사줬어요 좋아했어요<br/> 
-"
+cont:  "구매하기 잘했다고 생각해요.<br/><br/>귀여워요<br/>이쁘고,잘 맞아요.<br/><br/>조카 사줬어요 좋아했어요<br/>" 
 ---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "핸날 모던 일자 집게핀" 
+description: 핸날 모던 ..
+date: 2020-06-19 15:51:32 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/20/10/7/f675287b-7d26-44bc-a32e-0a152a7b2b45.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1377052983&itemId=2410617247&vendorItemId=70405122342&traceid=V0-113-09aecc6b41b69a9c 
+categories: [1008] 
+color: 9E9D24 
+price: 7500 
+author: Ask View Shop 
+cont:  "긴머리 염색하는데 편하게 잘썼어요<br/>예뻐요! 사이즈도 작지도 크지도 않고 딱이네요<br/>크기가 커서 놀랐네요... <br/>제 검지손가락 길이라서.<br/>.<br/>앞머리 귀찮을때 집을려고 샀는데 커서 부담스럽지만 많이 집혀서 그럭저럭 쓸만하네요<br/>" 
+---

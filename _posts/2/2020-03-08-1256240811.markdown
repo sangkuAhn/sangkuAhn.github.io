@@ -9,6 +9,5 @@ categories: [1003]
 color: 212121 
 price: 8700 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>손녀백일 선물하기에 너무 좋아요<br/> 
-"
+cont:  "손녀백일 선물하기에 너무 좋아요<br/>" 
 ---

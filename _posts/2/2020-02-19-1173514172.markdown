@@ -9,6 +9,5 @@ categories: [1007]
 color: f44336 
 price: 44900 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>이쁘고 좋아용 푹신하니<br/>저렴하게 잘샀어요 ㅎㅎ 예뻐요 배송도 빠르고<br/>좋아요!<br/> 
-"
+cont:  "이쁘고 좋아용 푹신하니<br/>저렴하게 잘샀어요 ㅎㅎ 예뻐요 배송도 빠르고<br/>좋아요!<br/>" 
 ---

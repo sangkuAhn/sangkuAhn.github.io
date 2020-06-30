@@ -9,6 +9,5 @@ categories: [1002]
 color: FF6F00 
 price: 2900 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>몇달간 20개 구매햇는데 더 구매 하려고요<br/>예상보다 작아요<br/>지금 입었는데 좋은거같네요<br/> 
-"
+cont:  "몇달간 20개 구매햇는데 더 구매 하려고요<br/>예상보다 작아요<br/>지금 입었는데 좋은거같네요<br/>" 
 ---

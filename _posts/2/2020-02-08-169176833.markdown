@@ -9,6 +9,5 @@ categories: [1005]
 color: 7E57C2 
 price: 1500 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>개별포장에 사이즈도 맞춤이네요<br/>초등24학년 사용했어요<br/>초등저학년쓰기 딱 좋아요<br/> 
-"
+cont:  "개별포장에 사이즈도 맞춤이네요<br/>초등24학년 사용했어요<br/>초등저학년쓰기 딱 좋아요<br/>" 
 ---

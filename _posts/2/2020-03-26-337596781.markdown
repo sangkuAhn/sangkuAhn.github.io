@@ -9,6 +9,5 @@ categories: [1007]
 color: 4A148C 
 price: 65000 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>잘 받았습니다.<br/> 한치수 작게 사도 될뻔했네요<br/> 
-"
+cont:  "잘 받았습니다.<br/> 한치수 작게 사도 될뻔했네요<br/>" 
 ---

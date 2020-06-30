@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "나야스타일 신발형 아쿠아슈즈 Aqua65-1-43" 
+description: 나야스타일 ..
+date: 2020-06-21 15:44:28 
+img: https://static.coupangcdn.com/image/retail/images/2019/05/31/17/9/c9a9f4e7-0167-4d96-bdbc-d8096f60a9d9.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=232859296&itemId=739645574&vendorItemId=4867831429&traceid=V0-113-284dd301ac570c18 
+categories: [1007] 
+color: FF1744 
+price: 28650 
+author: Ask View Shop 
+cont:  "비올때 신으려고 샀는데 비가 안오네요.<br/>.<br/> 발가락보다 앞부분이 더 길어서 끝까지 발이 안닿아 아쉽지만 볼은 딱 맞아서 이대로 신어야할 것 같습니다.<br/><br/>신발바닥이 구멍이나 있는줄 모르고 구매했어요<br/>평소 생활하는데는 어울리지 않네요<br/>" 
+---

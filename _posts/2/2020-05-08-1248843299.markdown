@@ -9,6 +9,5 @@ categories: [1006]
 color: BF360C 
 price: 22000 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>만족하고 괜찮습니다<br/>일단 옷 그 자체가 너무 예쁘고 길이도 적당하네요 추천합니다.<br/><br/> 
-"
+cont:  "만족하고 괜찮습니다<br/>일단 옷 그 자체가 너무 예쁘고 길이도 적당하네요 추천합니다.<br/><br/>" 
 ---

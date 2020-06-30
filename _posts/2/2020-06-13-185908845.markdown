@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아르코맨 센서티브 쉐이빙 폼 200ml, 2개" 
+description: 아르코맨  ..
+date: 2020-06-14 08:27:35 
+img: https://static.coupangcdn.com/image/vendor_inventory/c0da/ed00a11447b158b2b6e88eb62e93b8ea6b06eadf4688f44debf8005aee05.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=185908845&itemId=531638314&vendorItemId=70393806895&traceid=V0-113-16e8abb889bdbc8d 
+categories: [1014] 
+color: 9E9D24 
+price: 9920 
+author: Ask View Shop 
+cont:  "문앞으로 지정해서 배달을받는데  왜경비실로 갖다놓는지 택배기사보고도 문앞으로 갖다줄라고문자까지보냈는데 쌩까고 반품합니다 택배기사잘못입니다<br/>배송 빠르고 좋아요!!<br/>좋은것같아용<br/>" 
+---

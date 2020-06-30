@@ -9,6 +9,5 @@ categories: [1007]
 color: 212121 
 price: 38900 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>딱좋아요<br/>아주조아용.<br/><br/>좋아요<br/> 
-"
+cont:  "딱좋아요<br/>아주조아용.<br/><br/>좋아요<br/>" 
 ---

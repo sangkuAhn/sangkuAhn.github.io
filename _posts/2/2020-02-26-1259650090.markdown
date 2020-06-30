@@ -9,6 +9,5 @@ categories: [1007]
 color: 7E57C2 
 price: 52000 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>보통<br/>예상보다  좋음<br/>외관 상태 다좋은데 깔창이 에러네요<br/> 
-"
+cont:  "보통<br/>예상보다  좋음<br/>외관 상태 다좋은데 깔창이 에러네요<br/>" 
 ---

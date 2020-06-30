@@ -9,6 +9,5 @@ categories: [1007]
 color: 4CAF50 
 price: 25700 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>발 볼이 너무 작아요<br/>솔직히 안이뻐요.<br/>.<br/>ㅎ<br/> 
-"
+cont:  "발 볼이 너무 작아요<br/>솔직히 안이뻐요.<br/>.<br/>ㅎ<br/>" 
 ---

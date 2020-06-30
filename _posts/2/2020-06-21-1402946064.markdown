@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "핑 2단 골프 파우치, 블랙" 
+description: 핑 2단  ..
+date: 2020-06-21 15:37:16 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/26/20/1/0fee4858-3ab5-4dd3-bc4e-c4674734be33.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1402946064&itemId=2437718400&vendorItemId=70431543522&traceid=V0-113-5abf31b369e1c909 
+categories: [1006] 
+color: 7E57C2 
+price: 28140 
+author: Ask View Shop 
+cont:  "가격대비 품질 디자인 다 만족합니다<br/>선물하려고 주문했는데 너무 맘에들어 그냥 제가 가질까 고민중입니다^^;<br/>수납공간 넉넉하고 디자인이나 마감부 모두 훌륭합니다.<br/><br/>약간 작긴 하지만, 유용하게 사용할 것 같습니다.<br/><br/>이거 무조건 구매하세요<br/>" 
+---

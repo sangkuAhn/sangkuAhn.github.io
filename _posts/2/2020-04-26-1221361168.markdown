@@ -9,6 +9,5 @@ categories: [1003]
 color: 353535 
 price: 11900 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>생각보다품질이좋았습니다^<br/> -<br/> -<br/> -^<br/> 
-"
+cont:  "생각보다품질이좋았습니다^<br/> -<br/> -<br/> -^<br/>" 
 ---

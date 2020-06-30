@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "현대지성/일 잘하는 사람은 알기 쉽게 말한다 (쉽고 정확하게 설명하는 7가지 법칙), 현대지성" 
+description: 현대지성/ ..
+date: 2020-06-19 17:03:27 
+img: https://static.coupangcdn.com/image/retail-product-api/A00077021/11344743/13035422/main/9791190398008_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1066490908&itemId=2013336817&vendorItemId=70013137960&traceid=V0-113-907cf74a274e8a41 
+categories: [1019] 
+color: 03A9F4 
+price: 11700 
+author: Ask View Shop 
+cont:  "받는사람도 좋은 의미로 전달받고 책이 인상깊게 남았으면 좋겠네요.<br/>.<br/>^^<br/>새로운일을시작했을때 필요한 대화나  생각하지못하는내용이 나와 생각하고 있었는데 상대방과 대화를하다가 이책에 나왔던 내용을써먹었네요 정말 처음으로 필요 이상 필요한책이라고생각합니다<br/>회사 워크샵때 직원들에게 책선물해주려고 샀습니다.<br/><br/>" 
+---

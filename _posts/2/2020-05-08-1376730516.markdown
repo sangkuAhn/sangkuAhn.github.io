@@ -9,6 +9,5 @@ categories: [1001]
 color: 43A047 
 price: 21160 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>원피스 정말 이뻐요 맘에 들어요<br/> 
-"
+cont:  "원피스 정말 이뻐요 맘에 들어요<br/>" 
 ---

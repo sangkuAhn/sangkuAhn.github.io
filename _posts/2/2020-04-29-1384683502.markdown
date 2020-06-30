@@ -9,6 +9,5 @@ categories: [1007]
 color: f44336 
 price: 60650 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>예쁘네요<br/>이뻐요.<br/><br/>쿠션 정말 굳입니다요♡<br/>편해요.<br/><br/> 
-"
+cont:  "예쁘네요<br/>이뻐요.<br/><br/>쿠션 정말 굳입니다요♡<br/>편해요.<br/><br/>" 
 ---

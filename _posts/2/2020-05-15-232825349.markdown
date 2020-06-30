@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "스타벅스 맥주캔 텀블러 440ml" 
+description: 스타벅스  ..
+date: 2020-05-16 03:29:47 
+img: https://static.coupangcdn.com/image/vendor_inventory/026b/bc330e49b2afdf78c2d55bdb95a9bf0d29b6870e16012d5d8f32a7d7325f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=232825349&itemId=739530254&vendorItemId=4874338065&traceid=V0-113-bf2772189a4f72cb 
+categories: [1013] 
+color: 43A047 
+price: 4750 
+author: Ask View Shop 
+cont:  "가볍고 예쁜 텀블러입니다<br/>다른분들에게 드린것도 이럴꺼라 생각 하면 참담하네요!<br/>다좋은데 아무리 세척해도 쇠... <br/>같은 냄새가 안빠져요... <br/>찝찝<br/>별한개도 아까워요 회사사람들 나눠주고 제꺼 두개 쓰는대 둘다.<br/>.<br/>벗겨지네요 까만게 뭍어나고 위에 흡입구는 아구도 안맞아 줄줄 세고.<br/>.<br/><br/>스탠소재라서 고깃집에서 쓰기 좋네요!<br/>아구 안맞는건 뚜껑 얹어서 쓰고 있었는대 벗겨지는건.<br/>.<br/><br/>" 
+---

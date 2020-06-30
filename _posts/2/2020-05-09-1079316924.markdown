@@ -9,6 +9,5 @@ categories: [1015]
 color: F361A6 
 price: 13850 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>생각보다 안예뻐요<br/>엄마가향기가너무좋다고좋아하시네용<br/>정말 예뻐요<br/> 
-"
+cont:  "생각보다 안예뻐요<br/>엄마가향기가너무좋다고좋아하시네용<br/>정말 예뻐요<br/>" 
 ---

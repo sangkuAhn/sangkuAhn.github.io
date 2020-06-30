@@ -9,6 +9,5 @@ categories: [1006]
 color: 006064 
 price: 27200 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>95로 신청햇는데, 정사이즈 잘 맞네요<br/>빠른배송 감사합니다.<br/><br/>이쁘네요.<br/>^^<br/> 
-"
+cont:  "95로 신청햇는데, 정사이즈 잘 맞네요<br/>빠른배송 감사합니다.<br/><br/>이쁘네요.<br/>^^<br/>" 
 ---

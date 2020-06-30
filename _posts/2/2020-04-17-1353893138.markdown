@@ -9,6 +9,5 @@ categories: [1007]
 color: 4A148C 
 price: 10500 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>실물깡패<br/> 
-"
+cont:  "실물깡패<br/>" 
 ---

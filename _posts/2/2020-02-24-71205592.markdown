@@ -9,6 +9,5 @@ categories: [1005]
 color: 4CAF50 
 price: 36500 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>여아인데 칼라가 맘에 들어서 삿어요<br/>예뻐요<br/>저렴하게 잘 샀어여<br/>휠라 가방은 매번 맘에 들어요<br/> 
-"
+cont:  "여아인데 칼라가 맘에 들어서 삿어요<br/>예뻐요<br/>저렴하게 잘 샀어여<br/>휠라 가방은 매번 맘에 들어요<br/>" 
 ---

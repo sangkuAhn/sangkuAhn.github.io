@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "더시럽 데일리 버킷스타일 심플 에코슬링백" 
+description: 더시럽 데 ..
+date: 2020-06-21 15:51:40 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/11/16/7/ab5f2982-16fc-4c68-9689-16ab2b06704f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1383692496&itemId=2418313654&vendorItemId=70412531548&traceid=V0-113-304d66abf47eb37d 
+categories: [1008] 
+color: FF1744 
+price: 14700 
+author: Ask View Shop 
+cont:  "간편하게 메기 편하고 좋아요^^♡♡♡<br/>" 
+---

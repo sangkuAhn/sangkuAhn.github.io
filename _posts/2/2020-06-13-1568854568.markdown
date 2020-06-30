@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "뉴발란스 운동화 WX608RV1" 
+description: 뉴발란스  ..
+date: 2020-06-13 15:44:22 
+img: https://static.coupangcdn.com/image/retail/images/92188879016794-c620c1cd-d387-4189-9c70-d8dfcc007339.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1568854568&itemId=2682776500&vendorItemId=70628432971&traceid=V0-113-96eb661ed78804c1 
+categories: [1007] 
+color: A566FF 
+price: 43540 
+author: Ask View Shop 
+cont:  "사진이랑 조금 달라요<br/>약간 큰 감이 있지만, 편하고 좋습니다.<br/><br/>품질이 당연 좋아요 그런디 조금 작아유 ㅠㅠ 한치수 좀 크게살걸 ㅠㅠㅠ<br/>" 
+---

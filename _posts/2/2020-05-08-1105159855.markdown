@@ -9,6 +9,5 @@ categories: [1015]
 color: 5A8DF3 
 price: 39000 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>굳굳<br/>만족합니다<br/>부모님이 좋아하시네요<br/> 
-"
+cont:  "굳굳<br/>만족합니다<br/>부모님이 좋아하시네요<br/>" 
 ---

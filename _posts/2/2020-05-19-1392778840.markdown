@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "채니봉봉 미니꽃밭 헤어핀 8종세트" 
+description: 채니봉봉  ..
+date: 2020-05-20 02:24:42 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/20/16/0/2e0791c1-8d3d-4379-989a-160fe6ad079b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1392778840&itemId=2428226191&vendorItemId=70422211775&traceid=V0-113-1d9d62e9a553ec7d 
+categories: [1003] 
+color: FF1744 
+price: 9500 
+author: Ask View Shop 
+cont:  "싼티 나요<br/>예뻐요<br/>이걸 9천원 넘게주고사다니.<br/>.<br/><br/>" 
+---

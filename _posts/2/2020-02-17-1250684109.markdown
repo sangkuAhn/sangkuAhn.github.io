@@ -9,6 +9,5 @@ categories: [1020]
 color: f44336 
 price: 56070 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>사전예약에 빠른배송 감사합니다!<br/>사전예약에 빠른배송 감사합니다!<br/> 
-"
+cont:  "사전예약에 빠른배송 감사합니다!<br/>" 
 ---

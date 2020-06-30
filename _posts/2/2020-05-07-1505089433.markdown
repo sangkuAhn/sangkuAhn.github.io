@@ -9,6 +9,5 @@ categories: [1005]
 color: FF1744 
 price: 7900 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>제 동생도 좋아하는것 같고 제가 보기에도 예뻐용<br/> 
-"
+cont:  "제 동생도 좋아하는것 같고 제가 보기에도 예뻐용<br/>" 
 ---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아이윙크 퍼들점퍼 구명조끼, 백곰 블루" 
+description: 아이윙크  ..
+date: 2020-06-30 07:15:38 
+img: https://static.coupangcdn.com/image/retail/images/2019/05/20/12/1/55f70cc1-469c-419e-8522-c54555a0ef78.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=224761406&itemId=708655373&vendorItemId=4801588413&traceid=V0-113-5dc575cd9c01d204 
+categories: [1003] 
+color: 43A047 
+price: 8910 
+author: Ask View Shop 
+cont:  "6세 아들.<br/> 21키로.<br/> 잘 맞아요<br/>아직 사용전인데 물에 잘 뜰것 같지 않아서 조금 걱정이네오<br/>아직 중심을 잘 못잡는건지 아님 제대로 물에 안뜨는건지 애기 혼자 띄워놓으면 자꾸 앞으로 쓰러져서 물을 먹게돼요.<br/><br/>자유수영을 돕네요<br/>튜브만으론 불안해서 아기 팔에 걸어주려고 구매했어요.<br/><br/>" 
+---

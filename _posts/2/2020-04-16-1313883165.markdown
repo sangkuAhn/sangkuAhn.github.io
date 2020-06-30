@@ -9,6 +9,5 @@ categories: [1007]
 color: 212121 
 price: 12900 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>하얀색과 같이 두개 구매했어요 편하고 깔끔하고 이쁩니다<br/> 
-"
+cont:  "하얀색과 같이 두개 구매했어요 편하고 깔끔하고 이쁩니다<br/>" 
 ---

@@ -9,6 +9,5 @@ categories: [1017]
 color: f44336 
 price: 23190 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>실제로 보면 더 예뻐요<br/>실제로 보면 더 예뻐요<br/>실제로 보면 더 예뻐요<br/>실제로 보면 더 예뻐요<br/> 
-"
+cont:  "실제로 보면 더 예뻐요<br/>" 
 ---

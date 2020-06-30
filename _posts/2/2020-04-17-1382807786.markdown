@@ -9,6 +9,5 @@ categories: [1003]
 color: FF6F00 
 price: 7900 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>시원하고 너무좋아요!!<br/>시원하고 좋아요.<br/><br/> 
-"
+cont:  "시원하고 너무좋아요!!<br/>시원하고 좋아요.<br/><br/>" 
 ---

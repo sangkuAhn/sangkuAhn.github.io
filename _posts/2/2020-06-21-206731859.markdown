@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "핸날 Matt 하트&토끼집게핀 세트" 
+description: 핸날 Ma ..
+date: 2020-06-21 15:15:41 
+img: https://static.coupangcdn.com/image/retail/images/2019/04/04/20/8/91b4cf17-0e4b-41d3-87a1-4b6d766dd42f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=206731859&itemId=610768636&vendorItemId=4602595834&traceid=V0-113-feab2d02485ba30a 
+categories: [1003] 
+color: 5A8DF3 
+price: 9900 
+author: Ask View Shop 
+cont:  "5살 딸아이가 앞머리를 기르는 중인데<br/>고정하려고 샀어요<br/>그렇다고 그렇게 무거운건 아닙니다 생각보다 커서 좀 큰 아이들에게 적당할거같아요<br/>너무 이쁜데  앞머리 고정이 안됨 ㅋㅋㅋㅋㅋㅋ<br/>다른 꽃핀 더 사야하나 고민하고 있었는데 안 사도 되네요<br/>똑딱핀으로 다시 사야할까봐요 ㅜㅋㅋ<br/>사진이랑 같고집게가 좀 뻣뻣하다?해야할까요?<br/>여러색상으로 있으니 매일 다른걸로 꽂으면 되겠다고 좋아하네요<br/>조금더 가벼웠으면 하는 아쉬움이 있었어요<br/>좀 무겁기도 하고요ㅠㅠ<br/>핀촉감은 지문방지 필름같은 느낌이에요<br/>흘러내리지않게 잡아주는느낌이에요<br/>" 
+---

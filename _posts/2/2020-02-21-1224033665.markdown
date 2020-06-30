@@ -9,6 +9,5 @@ categories: [1003]
 color: f44336 
 price: 4000 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>완전 좋아요<br/>좋아호<br/>지금 입히긴 조금더운데 이뻐요<br/> 
-"
+cont:  "완전 좋아요<br/>좋아호<br/>지금 입히긴 조금더운데 이뻐요<br/>" 
 ---

@@ -9,6 +9,5 @@ categories: [1006]
 color: 006064 
 price: 17100 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>간지 좔좔흘러서 멋이좋음<br/>좀커요ㅜㅜ<br/>좋아요<br/> 
-"
+cont:  "간지 좔좔흘러서 멋이좋음<br/>좀커요ㅜㅜ<br/>좋아요<br/>" 
 ---

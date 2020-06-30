@@ -9,6 +9,5 @@ categories: [1008]
 color: BF360C 
 price: 3000 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>가볍고 착용감 좋아요<br/>착용감 좋아요^^<br/>착용이 너무 편하고 좋아서 재구매 합니다<br/> 
-"
+cont:  "가볍고 착용감 좋아요<br/>착용감 좋아요^^<br/>착용이 너무 편하고 좋아서 재구매 합니다<br/>" 
 ---

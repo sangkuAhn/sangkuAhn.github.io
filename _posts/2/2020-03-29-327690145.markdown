@@ -9,6 +9,5 @@ categories: [1002]
 color: 7E57C2 
 price: 12800 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>가격은 저렴하고,간절기에 입기 좋네요.<br/><br/>좋아용ㅎㅎㅎㅎ<br/> 
-"
+cont:  "가격은 저렴하고,간절기에 입기 좋네요.<br/><br/>좋아용ㅎㅎㅎㅎ<br/>" 
 ---

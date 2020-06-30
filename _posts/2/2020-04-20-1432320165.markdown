@@ -9,6 +9,5 @@ categories: [1002]
 color: 4CAF50 
 price: 29000 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>편안한 착용감에 컬러도 무난합니다<br/> 
-"
+cont:  "편안한 착용감에 컬러도 무난합니다<br/>" 
 ---

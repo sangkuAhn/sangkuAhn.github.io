@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "프롬헤븐 가도 웨이스트 힙색" 
+description: 프롬헤븐  ..
+date: 2020-06-30 07:08:26 
+img: https://static.coupangcdn.com/image/retail/images/2019/06/19/13/8/38788492-10fb-4e4e-8c7c-63dd1c3deac6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=242507888&itemId=770165901&vendorItemId=4944653103&traceid=V0-113-1eb97808658e834e 
+categories: [1002] 
+color: 9E9D24 
+price: 14050 
+author: Ask View Shop 
+cont:  "가방 크기가 생각보다 작아서 실망했어요.<br/> 그래도 잘 매고 다녀요.<br/><br/>자전거 탈때 쓰려고 샀는데 이어폰 구멍있어서 좋네요<br/>적당한 크기의 가방입니다<br/>크기는 운동할때 가지고다니기 적당한데  앞으로매니 쏠려요 목쪽으로  그래서 목이 쓸렸어요<br/>" 
+---

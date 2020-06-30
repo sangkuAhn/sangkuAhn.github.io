@@ -9,6 +9,5 @@ categories: [1007]
 color: FF6F00 
 price: 25700 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>가성비 굿<br/>편하고 좋아요<br/>편하네요 잘신고있어요<br/> 
-"
+cont:  "가성비 굿<br/>편하고 좋아요<br/>편하네요 잘신고있어요<br/>" 
 ---

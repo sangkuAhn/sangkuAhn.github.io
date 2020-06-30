@@ -9,6 +9,5 @@ categories: [1007]
 color: BD24A9 
 price: 48900 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>실물이 더 예뻐요<br/> 
-"
+cont:  "실물이 더 예뻐요<br/>" 
 ---

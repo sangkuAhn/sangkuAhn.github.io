@@ -9,6 +9,5 @@ categories: [1007]
 color: BD24A9 
 price: 57250 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>가볍고 편함<br/>실물도 이쁘고 발볼니 넓게 나와서 좋네요<br/>좋아요<br/> 
-"
+cont:  "가볍고 편함<br/>실물도 이쁘고 발볼니 넓게 나와서 좋네요<br/>좋아요<br/>" 
 ---

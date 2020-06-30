@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "프라임리본 7cm 글리터 스팽클 똑딱핀세트" 
+description: 프라임리본 ..
+date: 2020-06-27 07:15:36 
+img: https://static.coupangcdn.com/image/retail/images/2019/05/21/16/3/24eaebc9-a6db-4e01-a512-27fbfd2f9dfa.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=226706005&itemId=718503152&vendorItemId=4817945604&traceid=V0-113-68c0235d06dd12f3 
+categories: [1003] 
+color: A6A6A6 
+price: 7900 
+author: Ask View Shop 
+cont:  "삔공준데 안해요 ... <br/><br/>삔을 뺄때 아파해요<br/>스팽글.<br/>반짝이 사이에 머리카락이 많이 걸려서<br/>싸이즈도 크고 아이들이 좋아해요<br/>이뻐요 아이가 정말 좋아합니다<br/>집에 잇는 삔 싹 정리하고 이거 사준건데<br/>" 
+---

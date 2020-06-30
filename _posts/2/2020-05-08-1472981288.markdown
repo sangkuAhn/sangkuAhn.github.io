@@ -9,6 +9,5 @@ categories: [1011]
 color: FF6F00 
 price: 54810 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>배송빠르고 친절하세요<br/> 
-"
+cont:  "배송빠르고 친절하세요<br/>" 
 ---

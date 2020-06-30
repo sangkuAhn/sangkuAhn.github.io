@@ -9,6 +9,5 @@ categories: [1007]
 color: 7E57C2 
 price: 79000 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>세련되고<br/>중후합니다<br/> 
-"
+cont:  "세련되고<br/>중후합니다<br/>" 
 ---

@@ -9,6 +9,5 @@ categories: [1006]
 color: 03A9F4 
 price: 10700 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>골프 웨어로 아주 좋습니다.<br/><br/>적당히 좋아요<br/>품질이 좋아서 피부에 닿는 느낌이 좋아요 ^^<br/> 
-"
+cont:  "골프 웨어로 아주 좋습니다.<br/><br/>적당히 좋아요<br/>품질이 좋아서 피부에 닿는 느낌이 좋아요 ^^<br/>" 
 ---

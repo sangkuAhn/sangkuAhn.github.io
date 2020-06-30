@@ -9,6 +9,5 @@ categories: [1003]
 color: 212121 
 price: 5000 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>미숙아로태어나 아직입혀보지는못했는데 크면 입힐께요ㅋㅋ<br/> 
-"
+cont:  "미숙아로태어나 아직입혀보지는못했는데 크면 입힐께요ㅋㅋ<br/>" 
 ---

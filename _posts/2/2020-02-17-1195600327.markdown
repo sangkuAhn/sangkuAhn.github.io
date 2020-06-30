@@ -9,6 +9,5 @@ categories: [1012]
 color: f44336 
 price: 39000 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>좋습니다.<br/><br/> 
-"
+cont:  "좋습니다.<br/><br/>" 
 ---

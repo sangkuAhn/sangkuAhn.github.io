@@ -9,5 +9,5 @@ categories: [1007]
 color: A566FF 
 price: 5400 
 author: Ask View Shop 
-cont:  "●구매후기●<br/>빠른  배송으로 잘  받았습니다<br/>" 
+cont:  "빠른  배송으로 잘  받았습니다<br/>" 
 ---

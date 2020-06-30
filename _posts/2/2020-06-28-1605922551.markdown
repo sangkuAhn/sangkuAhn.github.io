@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "2입기획/ 미샤 타임 레볼루션 스테디셀러 세트, 2세트" 
+description: 2입기획/ ..
+date: 2020-06-28 15:58:44 
+img: https://static.coupangcdn.com/image/retail/images/191039772107154-4a0e03a5-d7d1-431e-88b8-16177d07c2ff.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1605922551&itemId=2742798639&vendorItemId=70732834757&traceid=V0-113-1585df516d1fb465 
+categories: [1010] 
+color: 353535 
+price: 73200 
+author: Ask View Shop 
+cont:  "2세트라 저렴하게 샀어요<br/>항상 사용하는제품이라 안심하고 구매 많이저렴 하게 사서 기분 좋았음<br/>항상 이것만 쓰는데 싸게 사서 쟁여놓고 쓰려구요ㅎㅎ<br/>" 
+---

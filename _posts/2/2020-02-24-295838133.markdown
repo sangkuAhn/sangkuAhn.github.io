@@ -9,6 +9,5 @@ categories: [1007]
 color: FF6F00 
 price: 40900 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>맘에들고사이즈도딱맞아요<br/>잘신고있어요<br/>폭신폭시 발이 편안해요 좋아요<br/> 
-"
+cont:  "맘에들고사이즈도딱맞아요<br/>잘신고있어요<br/>폭신폭시 발이 편안해요 좋아요<br/>" 
 ---

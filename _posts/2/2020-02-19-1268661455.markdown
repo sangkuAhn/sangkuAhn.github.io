@@ -9,6 +9,5 @@ categories: [1019]
 color: BF360C 
 price: 6175 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>ㅋㅋㅋ<br/>부록값만해도 잡지금액 이상인데bb<br/>부록이 탐나서 잡지를 오랜만에 사 보았어요b ㅋㅎ<br/> 
-"
+cont:  "ㅋㅋㅋ<br/>부록값만해도 잡지금액 이상인데bb<br/>부록이 탐나서 잡지를 오랜만에 사 보았어요b ㅋㅎ<br/>" 
 ---

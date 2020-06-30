@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "맘스케어 유아용 패턴매쉬 반팔 수트" 
+description: 맘스케어  ..
+date: 2020-06-25 07:15:48 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/08/14/3773753447/f6e6a384-68bc-4bd6-903b-aa0d15a6554d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=103708328&itemId=314896826&vendorItemId=3773753447&traceid=V0-113-6cbc0b126ce27f8d 
+categories: [1003] 
+color: BF360C 
+price: 7800 
+author: Ask View Shop 
+cont:  "건조기 돌리기 전,후 에요 ㅋㅋ 혹시 건조기 쓰실분 사이즈 주는거 보시고 주문하세용.<br/> 80사이즈 샀는데 거의 60사이즈 돼부렀슴돠<br/>배송빠르구요<br/>사이즈 넉넉해서 시원하게 입히기 좋아요<br/>사장님이 제가 산 사이즈 품절이라며 전화주셔서 한사이즈 크게 변경해서 구매했어요 아기가 이제 3개월됬는데 몸통이 커가지고 ㅜㅜ 다른 옷들이 몸통만 안맞아 한치수 더 큰걸 입혔더니 헐렁하게 잘 맞더라구요 애가 답답한걸 싫어해서 요번에 산 상품 빨아서 입히니 헐렁하게 잘 맞아요 태열도 있고 더운거나 답답한걸 몹시 싫어하는 96일된 아기라서 살짝 커도 만족해요<br/>" 
+---

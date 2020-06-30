@@ -9,6 +9,5 @@ categories: [1003]
 color: ff1744 
 price: 10500 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>아가한테 너무 잘맞고 천이 부드러우니 좋네요<br/> 
-"
+cont:  "아가한테 너무 잘맞고 천이 부드러우니 좋네요<br/>" 
 ---

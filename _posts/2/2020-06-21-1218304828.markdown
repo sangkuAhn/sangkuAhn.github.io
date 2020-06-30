@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "버켄스탁 아리조나 에바(보통 발볼) 129421_BK" 
+description: 버켄스탁  ..
+date: 2020-06-21 15:44:28 
+img: https://static.coupangcdn.com/image/vendor_inventory/9796/db92fd05ee6ba218c080db8e2bb4ed621879097c73632ff8efcb5b40e76f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1218304828&itemId=2208484089&vendorItemId=70206301689&traceid=V0-113-d0a4b63cf2036fcd 
+categories: [1007] 
+color: 43A047 
+price: 34500 
+author: Ask View Shop 
+cont:  "올여름 슬리퍼는 이걸로 쭈욱 신을듯  ㅎㅎㅎㅎㅎ<br/>해외직구여서 늦을줄 알앗는데 딱 비오는 오늘 신어서 너므 좋았어요!!! 제가 발볼이 넓은편인데 280살려다<br/>후기보고 270 으로 사서 너무 잘 산듯해요!!!<br/>" 
+---

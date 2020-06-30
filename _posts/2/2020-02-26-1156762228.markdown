@@ -9,6 +9,5 @@ categories: [1005]
 color: 212121 
 price: 7900 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>160 신는데 살짝 여유있어요 좋아요<br/>160 신는데 살짝 여유있어요 좋아요<br/> 
-"
+cont:  "160 신는데 살짝 여유있어요 좋아요<br/>" 
 ---

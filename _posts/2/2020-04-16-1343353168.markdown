@@ -9,6 +9,5 @@ categories: [1003]
 color: FF6F00 
 price: 14020 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>이뻐요 ㅎㅎㅎ 재질도조코 ㅋㅋㅋ<br/> 
-"
+cont:  "이뻐요 ㅎㅎㅎ 재질도조코 ㅋㅋㅋ<br/>" 
 ---

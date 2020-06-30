@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "버켄스탁 아리조나 에바 슬리퍼 블랙 129423" 
+description: 버켄스탁  ..
+date: 2020-06-21 15:44:28 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2018/05/30/13/3/bb97d881-8442-4b9e-bf7d-e908e9b0fa04.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1596416224&itemId=2727413008&vendorItemId=70854025676&traceid=V0-113-bab8fea84838c30f 
+categories: [1007] 
+color: A566FF 
+price: 31000 
+author: Ask View Shop 
+cont:  "이뻐요 다소 바닥이 좀 나온듯<br/>" 
+---

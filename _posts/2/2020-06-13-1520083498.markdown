@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "릴리푸리 여아용 폼폼 원피스" 
+description: 릴리푸리  ..
+date: 2020-06-13 15:22:47 
+img: https://static.coupangcdn.com/image/retail/images/2020/04/27/21/3/91294e20-c7fb-423a-b2d3-5fd89e7bc1e8.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1520083498&itemId=2608294965&vendorItemId=70599403888&traceid=V0-113-0285f2863c69a650 
+categories: [1004] 
+color: F361A6 
+price: 13860 
+author: Ask View Shop 
+cont:  "140사면내년까진입겟는데 130 이라올해만입히는걸로<br/>땀 흡수 잘 되는 시원한 재질입니다 아이가 이쁘다고 좋아해요 밝은 노랑으로 촌스럽지 않고 입으니 완전 러블리 하네요정사이즈에요<br/>옷이뻐요<br/>이뻐요<br/>작은 초2인데 120센티안되고 몸무게20인데 130 딱맞아요<br/>치마길이 무릎<br/>" 
+---

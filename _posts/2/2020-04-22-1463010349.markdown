@@ -9,6 +9,5 @@ categories: [1007]
 color: f44336 
 price: 44500 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>무난해요<br/>신어보니 편하고 디진인도 이뻐요<br/> 
-"
+cont:  "무난해요<br/>신어보니 편하고 디진인도 이뻐요<br/>" 
 ---

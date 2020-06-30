@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "헬로카봇 테크노마스터 로봇완구, 혼합색상" 
+description: 헬로카봇  ..
+date: 2020-06-12 09:10:54 
+img: https://static.coupangcdn.com/image/retail/images/2020/05/13/10/2/6535804b-f56a-480f-899f-62af12a696d9.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1573166041&itemId=2690221209&vendorItemId=70680683351&traceid=V0-113-cacb8db5179f14ed 
+categories: [1020] 
+color: 353535 
+price: 33810 
+author: Ask View Shop 
+cont:  "아이가 카봇 타령해서 하나 사줬어요 배송빠르고ㅠ저렴해서 좋아요<br/>크기는 조금 작았지만 조카가 어려서 괜찮은거 같아요 저렴해서 좋구여!!<br/>튼튼하고 오프라인에서 판매하는것하고 동일하네요<br/>" 
+---

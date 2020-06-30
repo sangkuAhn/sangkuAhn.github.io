@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "캔디베이비 아동용 레이싱카 우산" 
+description: 캔디베이비 ..
+date: 2020-06-26 07:30:02 
+img: https://static.coupangcdn.com/image/retail/images/938855389807042-8463cc50-ca8c-456c-ad63-8dd392504361.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1356077126&itemId=2385700881&vendorItemId=4023778420&traceid=V0-113-5148aafd7341121e 
+categories: [1005] 
+color: 35B62C 
+price: 16110 
+author: Ask View Shop 
+cont:  "로켓배송에는 요아이밖에 없어서 작으면 어쩌나 걱정하며 주문했는데 사이즈가 딱 좋네요^^<br/>무엇보다 우리 애기가 너무좋아해요<br/>아이가 좋아하는 디자인이라 구매했는데 재질은 별로 인것같아요 우산 끝부분이 팽팽하게 펴지지 않고 약간 우는듯이 쭈글거리네요 두번 구매하지는 않을 것 같아요<br/>웬 초딩들이 남의 우산을 그리 훔쳐가는지ㅠㅠ<br/>이름도 크게 여기저기 써붙였구만.<br/>.<br/><br/>일주일새 두개나 도난당하고 여유우산은 없고 비는 계속오고<br/>창피하지만 지붕에 매직으로 이름 크게 써줘야겠어요ㅋ<br/>처음에 받고나서 만졌을때 싸구려 비닐로 느껴졌으나 믹상 펴서보니 나름 튼튼하고 꽤 쓸만한제품 이었습니다<br/>초등1학년 남아가 쓸 우산을 찾았어요<br/>" 
+---

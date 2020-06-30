@@ -9,6 +9,5 @@ categories: [1008]
 color: 7E57C2 
 price: 2900 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>비닐을 벗기고 착용해봤는데 불쾌한냄새가 너무 많이나요.<br/><br/> 
-"
+cont:  "비닐을 벗기고 착용해봤는데 불쾌한냄새가 너무 많이나요.<br/><br/>" 
 ---

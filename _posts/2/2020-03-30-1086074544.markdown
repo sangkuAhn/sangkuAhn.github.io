@@ -9,6 +9,5 @@ categories: [1007]
 color: ff1744 
 price: 36000 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>정품인지 아닌지 의문이에요<br/> 
-"
+cont:  "정품인지 아닌지 의문이에요<br/>" 
 ---

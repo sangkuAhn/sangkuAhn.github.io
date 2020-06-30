@@ -9,6 +9,5 @@ categories: [1005]
 color: ff1744 
 price: 6900 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>아이가좋아하네요잘입힐께요<br/>얻어입힌것같은.<br/>.<br/>새것같진않아요<br/> 
-"
+cont:  "아이가좋아하네요잘입힐께요<br/>얻어입힌것같은.<br/>.<br/>새것같진않아요<br/>" 
 ---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코코블랑 여성용 제니아 스트링포인트원피스" 
+description: 코코블랑  ..
+date: 2020-05-23 07:10:13 
+img: https://static.coupangcdn.com/image/retail/images/2019/07/17/17/6/62e7e5e5-eff7-4af6-bcb8-38b9c0040930.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=212409565&itemId=640561159&vendorItemId=5096413272&traceid=V0-113-78823b1494f41e69 
+categories: [1001] 
+color: A566FF 
+price: 13900 
+author: Ask View Shop 
+cont:  "로켓배송찾아보다가 주문해서 바로입을수있었는데여<br/>만족스럽게 입고다녔어요<br/>많이 짧다는 분도 계셧지만<br/>여행갈때 급하게 입으려구<br/>저는 키가 작은편이고 적당히짧은거 좋아해서<br/>정말 만족스러워요!!<br/>제키가 164정도 되거든요? 짧다는생각 삿을때 전혀 안하고샀다가 입어야할 날에 딱입구 알았네요.<br/> 그래서.<br/>너무멘붕이에요.<br/> 엄청짧아요.<br/> 배송오고 바로입어볼걸그랬어요.<br/> 엉덩이를 겨우덮어요.<br/> 이게치마인지 긴티셔츠인지 모르겠어요.<br/> 이렇게짧을줄알았으면 안샀을텐데.<br/> 저렴한게 다 이유가있네요.<br/> 핏도 별루에요.<br/> 제가지금 48점도되는데 너무헐렁해요.<br/><br/>키가 158이고 몸무게는 47정도에요<br/>키크신분들은 작을수도있어요 키작은분들에게 어울리거같아요<br/>핏도 너무 꽉 끼지않고 헐렁해서 좋았어요<br/>후기에 너무 짧다고 많이들 쓰셨는데 전 제가 원하는길이라서 좋았구요<br/>" 
+---

@@ -9,6 +9,5 @@ categories: [1003]
 color: f44336 
 price: 5900 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>내복입니다<br/>배송빠르고 좋아요<br/>추천합니다<br/> 
-"
+cont:  "내복입니다<br/>배송빠르고 좋아요<br/>추천합니다<br/>" 
 ---

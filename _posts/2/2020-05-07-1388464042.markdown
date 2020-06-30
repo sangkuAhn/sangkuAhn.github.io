@@ -9,6 +9,5 @@ categories: [1006]
 color: A566FF 
 price: 22290 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>수납공간도 많고 가볍고 편리성을 고려해 세련된 디자인입니다<br/> 
-"
+cont:  "수납공간도 많고 가볍고 편리성을 고려해 세련된 디자인입니다<br/>" 
 ---

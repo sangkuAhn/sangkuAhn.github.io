@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "나이키 헤리티지 짐색 2.0 BA5901-010, 블랙" 
+description: 나이키 헤 ..
+date: 2020-05-13 02:46:27 
+img: https://static.coupangcdn.com/image/retail/images/2020/04/07/13/0/3ea43130-3c76-4ed4-b27a-71097fd9f5c2.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1435729534&itemId=2478336383&vendorItemId=70471672078&traceid=V0-113-af6d0ee3fc3b6b44 
+categories: [1006] 
+color: 4A148C 
+price: 17380 
+author: Ask View Shop 
+cont:  "생각보다 크기도 넉넉하고 내구성이 좋아서 운동다닐 때 잘 쓰고 있습니다!<br/>튼튼하고 귀엽고 다했어요 진짜 정품인지는 저는 알아 볼 수 있는 능력이 없지만 어쨌든 예뻐요 잘 쓸게요!<br/>하이킹 갈때 들고가랴고 삿어여.<br/> 어깨부분이 좀 불편하지만 좋아요<br/>" 
+---

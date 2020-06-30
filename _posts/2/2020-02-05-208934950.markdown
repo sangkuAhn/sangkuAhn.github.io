@@ -9,6 +9,5 @@ categories: [1003]
 color: 7E57C2 
 price: 7900 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>집에서  갈아입고 하기엔 좋아요.<br/> 면좋고요<br/> 
-"
+cont:  "집에서  갈아입고 하기엔 좋아요.<br/> 면좋고요<br/>" 
 ---

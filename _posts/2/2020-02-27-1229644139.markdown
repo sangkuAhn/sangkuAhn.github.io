@@ -9,6 +9,5 @@ categories: [1016]
 color: 4CAF50 
 price: 137000 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>굿<br/>배송은 아쉬웠지만<br/>좋아요<br/>크기도 적당하고 이마랑 귀 두곳을 잴 수 있어서 좋습니다<br/> 
-"
+cont:  "굿<br/>배송은 아쉬웠지만<br/>좋아요<br/>크기도 적당하고 이마랑 귀 두곳을 잴 수 있어서 좋습니다<br/>" 
 ---

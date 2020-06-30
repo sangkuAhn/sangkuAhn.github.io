@@ -9,6 +9,5 @@ categories: [1019]
 color: 212121 
 price: 16200 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>소장각!!!^^<br/> 
-"
+cont:  "소장각!!!^^<br/>" 
 ---

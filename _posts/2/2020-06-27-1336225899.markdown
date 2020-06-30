@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "헤즈 아동용 핑크 페이즐리 우산" 
+description: 헤즈 아동 ..
+date: 2020-06-28 07:30:02 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/09/13/2/b884ac28-c7fa-4954-a2e5-a33a35828ad2.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1336225899&itemId=2362101421&vendorItemId=70358441352&traceid=V0-113-60f3ec9cffdfaaf3 
+categories: [1005] 
+color: 5A8DF3 
+price: 13650 
+author: Ask View Shop 
+cont:  "6살 아이가 쓰기에 딱 적당해요^^<br/>개인적으로 좀 큼지막한 크기를 좋아해서 넉넉한 느낌이 좋아요^^<br/>아이가 다치지 않게 잘 나온 우산인거 같네요<br/>예쁘고 여성스러워서 아이가 만족합니다.<br/><br/>초 저학년으로 딱 좋아요<br/>초등 12학년에게 딱 맞는 사이즈의 우산이네요!!<br/>" 
+---

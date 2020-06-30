@@ -9,6 +9,5 @@ categories: [1024]
 color: 212121 
 price: 7650 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>비싼데 앞뒤 두번 바꿔서 썻어요 싸면 많이 살꺼같은데 비싸요 .<br/>.<br/><br/> 
-"
+cont:  "비싼데 앞뒤 두번 바꿔서 썻어요 싸면 많이 살꺼같은데 비싸요 .<br/>.<br/><br/>" 
 ---

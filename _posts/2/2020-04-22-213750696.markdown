@@ -9,6 +9,5 @@ categories: [1006]
 color: 03A9F4 
 price: 23200 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>괜찮네요<br/>남편이 잘입고있어요<br/>재봉불량... <br/><br/>조금짧지만 너무너무 편해요<br/> 
-"
+cont:  "괜찮네요<br/>남편이 잘입고있어요<br/>재봉불량... <br/><br/>조금짧지만 너무너무 편해요<br/>" 
 ---

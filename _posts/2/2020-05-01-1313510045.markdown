@@ -9,6 +9,5 @@ categories: [1001]
 color: FF6F00 
 price: 9900 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>불량이에여ㅠ검수 확실히 해주세요ㅠ<br/>좋아요<br/>튼튼해요 근데 입으면 뭔가 더워요<br/> 
-"
+cont:  "불량이에여ㅠ검수 확실히 해주세요ㅠ<br/>좋아요<br/>튼튼해요 근데 입으면 뭔가 더워요<br/>" 
 ---

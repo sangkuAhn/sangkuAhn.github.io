@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "수페르가 스니커즈 S006CW0999" 
+description: 수페르가  ..
+date: 2020-05-14 02:53:48 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/24/12/3/fb84e368-c216-4375-a904-b5e5729b978b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1414523376&itemId=2451119337&vendorItemId=70440203211&traceid=V0-113-32dabcc19711cc5c 
+categories: [1007] 
+color: 4A148C 
+price: 44310 
+author: Ask View Shop 
+cont:  "좋아요<br/>흰색구매 후 예뻐서 깔별로 구매.<br/> 키높이를 포기할정도로 예뻐요!!  통통 235240 인데.<br/> 245 가 딱이네요!!<br/>" 
+---

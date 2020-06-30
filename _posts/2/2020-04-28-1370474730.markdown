@@ -9,6 +9,5 @@ categories: [1002]
 color: 03A9F4 
 price: 79000 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>정사이즈고 색상은 약간 더 진해요<br/> 
-"
+cont:  "정사이즈고 색상은 약간 더 진해요<br/>" 
 ---

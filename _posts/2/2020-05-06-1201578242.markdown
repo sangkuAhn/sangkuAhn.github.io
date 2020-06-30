@@ -9,6 +9,5 @@ categories: [1003]
 color: 006064 
 price: 9900 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>키 97남아 딱 맞아요 사이즈가 좀 작은것 같아요<br/> 
-"
+cont:  "키 97남아 딱 맞아요 사이즈가 좀 작은것 같아요<br/>" 
 ---

@@ -9,6 +9,5 @@ categories: [1006]
 color: 4CAF50 
 price: 20900 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>고급집니다<br/>사이즈도 맞고 좋습니다<br/> 
-"
+cont:  "고급집니다<br/>사이즈도 맞고 좋습니다<br/>" 
 ---

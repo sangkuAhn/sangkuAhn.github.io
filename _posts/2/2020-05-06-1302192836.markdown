@@ -9,6 +9,5 @@ categories: [1006]
 color: 7E57C2 
 price: 15640 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>색상도 이쁘고 아주 좋네요 오렌지색상 너무이쁘요.<br/><br/>좋음^^<br/> 
-"
+cont:  "색상도 이쁘고 아주 좋네요 오렌지색상 너무이쁘요.<br/><br/>좋음^^<br/>" 
 ---

@@ -9,6 +9,5 @@ categories: [1001]
 color: 9E9D24 
 price: 10800 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>쒯다뻑<br/>축쳐지는 느낌목주위가 입을수록깊게 파임<br/>편하게 잘입고있어요<br/> 
-"
+cont:  "쒯다뻑<br/>축쳐지는 느낌목주위가 입을수록깊게 파임<br/>편하게 잘입고있어요<br/>" 
 ---

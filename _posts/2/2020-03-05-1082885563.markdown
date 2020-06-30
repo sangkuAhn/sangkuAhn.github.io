@@ -9,6 +9,5 @@ categories: [1006]
 color: 43A047 
 price: 1200 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>괜잖아요<br/>너무 좋네요<br/>면도 좋고 포장 최고<br/>코로나 물러나라<br/> 
-"
+cont:  "괜잖아요<br/>너무 좋네요<br/>면도 좋고 포장 최고<br/>코로나 물러나라<br/>" 
 ---

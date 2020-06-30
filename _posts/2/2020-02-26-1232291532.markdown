@@ -9,6 +9,5 @@ categories: [1017]
 color: 9E9D24 
 price: 47280 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>편하고 가성비 좋아요<br/>편하고 가성비 좋아요<br/>편하고 가성비 좋아요<br/>편하고 가성비 좋아요<br/> 
-"
+cont:  "편하고 가성비 좋아요<br/>" 
 ---

@@ -9,6 +9,5 @@ categories: [1016]
 color: F361A6 
 price: 48600 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>역시 로켓배송 빠르네요 상품 잘 받았습니다 감사합니다<br/> 
-"
+cont:  "역시 로켓배송 빠르네요 상품 잘 받았습니다 감사합니다<br/>" 
 ---

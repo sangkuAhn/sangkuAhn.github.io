@@ -9,6 +9,5 @@ categories: [1006]
 color: 9E9D24 
 price: 14250 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>조아요???<br/>초봄에 입으면 좋을것같아요<br/> 
-"
+cont:  "조아요???<br/>초봄에 입으면 좋을것같아요<br/>" 
 ---

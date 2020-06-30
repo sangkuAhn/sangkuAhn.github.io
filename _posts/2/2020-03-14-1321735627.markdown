@@ -9,6 +9,5 @@ categories: [1003]
 color: 03A9F4 
 price: 7800 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>신축성도 있고 예뻐요<br/> 
-"
+cont:  "신축성도 있고 예뻐요<br/>" 
 ---

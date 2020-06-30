@@ -9,6 +9,5 @@ categories: [1007]
 color: 7E57C2 
 price: 29570 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>심플합니다.<br/><br/>정상 사이즈구요<br/>좋습니다<br/>심플합니다.<br/><br/>정상 사이즈구요<br/>좋습니다<br/> 
-"
+cont:  "심플합니다.<br/><br/>정상 사이즈구요<br/>좋습니다<br/>" 
 ---

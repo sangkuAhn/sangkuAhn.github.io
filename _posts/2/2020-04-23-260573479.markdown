@@ -9,6 +9,5 @@ categories: [1001]
 color: F15F5F 
 price: 16800 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>비추 다름<br/> 
-"
+cont:  "비추 다름<br/>" 
 ---

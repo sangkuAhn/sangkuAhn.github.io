@@ -9,6 +9,5 @@ categories: [1006]
 color: 9E9D24 
 price: 39900 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>디자인하고길이는맘에드는데가죽이뻣뻣해서불편해요<br/>생가보다 좋아요<br/>좋습니다<br/> 
-"
+cont:  "디자인하고길이는맘에드는데가죽이뻣뻣해서불편해요<br/>생가보다 좋아요<br/>좋습니다<br/>" 
 ---

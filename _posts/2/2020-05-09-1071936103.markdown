@@ -9,6 +9,5 @@ categories: [1007]
 color: FFB2D9 
 price: 9800 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>무배에 이정도면 딱 좋아요 옐로우 예뻐요<br/>지압도 되고 좋네요<br/>편하고 좋아요<br/> 
-"
+cont:  "무배에 이정도면 딱 좋아요 옐로우 예뻐요<br/>지압도 되고 좋네요<br/>편하고 좋아요<br/>" 
 ---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "키즈 캐릭터 마스크 50매 랜덤배송" 
+description: 키즈 캐릭 ..
+date: 2020-05-22 02:31:54 
+img: https://static.coupangcdn.com/image/vendor_inventory/fe97/b812a25c0f070fd75c47e7abb792ac01f966153c69a5983a488e6f5b88bd.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1540099695&itemId=2638275804&vendorItemId=70629127200&traceid=V0-113-41807ae4af229ba3 
+categories: [1004] 
+color: 7E57C2 
+price: 35000 
+author: Ask View Shop 
+cont:  "다만, 남아,여아 선택만 있으면 더 좋을것 같습니다.<br/><br/>두께도 적당하고 초등2학년 남아 사이즈 괜챦습니다.<br/><br/>좀더 더워지면 아껴두었다가 잘 쓸것 같아요<br/>" 
+---

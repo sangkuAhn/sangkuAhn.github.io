@@ -9,6 +9,5 @@ categories: [1007]
 color: 03A9F4 
 price: 75400 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>나이키 운동화 편안하고 가벼움<br/>스타일도 좋음 정사이즈 잘맞음.<br/><br/> 
-"
+cont:  "나이키 운동화 편안하고 가벼움<br/>스타일도 좋음 정사이즈 잘맞음.<br/><br/>" 
 ---

@@ -9,6 +9,5 @@ categories: [1019]
 color: ff1744 
 price: 22500 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>굿이예요<br/>딸아이가 원해서 구매합니다 스티커도 귀엽네요<br/>딸아이가 좋아하는 책이에요.<br/><br/> 
-"
+cont:  "굿이예요<br/>딸아이가 원해서 구매합니다 스티커도 귀엽네요<br/>딸아이가 좋아하는 책이에요.<br/><br/>" 
 ---

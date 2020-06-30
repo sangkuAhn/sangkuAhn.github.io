@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "브이컷 말랑 플랫슈즈" 
+description: 브이컷 말 ..
+date: 2020-06-27 07:44:21 
+img: https://static.coupangcdn.com/image/retail/images/2020/04/13/17/9/9420de1a-76fb-4bd0-b236-25492a2d6b27.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1464727427&itemId=2519130674&vendorItemId=70512044005&traceid=V0-113-91df59254033af90 
+categories: [1007] 
+color: 4A148C 
+price: 13900 
+author: Ask View Shop 
+cont:  "다 매진이네요 다시 또 입고될가능성없나요?<br/>된다면 언제쯤 돠는지 ... <br/>.<br/>ㅠㅠㅠ<br/>레드 블랙 두가지 구매했는데 너무 잘했다 생각들어요 고민하지마시구 주문 고고하세용 잘신겠습니다^^!<br/>원래 진짜 후기 잘 안남기는데 이 신발 물건이네요 착화감도 좋고 상당히 부드럽고 가격도 착한데다가 너무 편해요<br/>일할땨 신으려고 샀는데 너무 가볍고 편해요<br/>좋아요 235<br/> -40신는데 35 시켰어요.<br/> 근데 40시켜도 좋을것같네용 편해요<br/>직원들도 다 사주려고 하는데<br/>" 
+---

@@ -9,6 +9,5 @@ categories: [1002]
 color: ff1744 
 price: 39000 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>화면보다 크게 나온듯 ... <br/><br/>화면보다 크게 나온듯 ... <br/><br/> 
-"
+cont:  "화면보다 크게 나온듯 ... <br/><br/>" 
 ---

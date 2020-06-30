@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "헤즈 아동용 빈티지 다이노 우산" 
+description: 헤즈 아동 ..
+date: 2020-06-26 07:30:02 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/09/13/9/39529130-1183-4fe3-87a3-453799bcb15e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1336225658&itemId=2362100864&vendorItemId=70358440862&traceid=V0-113-e8777c1fbb8c4dc7 
+categories: [1005] 
+color: BD24A9 
+price: 13270 
+author: Ask View Shop 
+cont:  "6세 사용하니 사이즈 딱입니다.<br/><br/>손잡이도 폭신하고, 수동이라서 아이가 천천히 펴고 접을수있네요.<br/><br/>아이들이 너무너무 좋아해요^^<br/>우산 살이 쇠가 아니라서 손 다칠 걱정 없고,<br/>접고 펼때도 쇠를 누르지않아도 되어 아이가 쉽게 사용하네요.<br/><br/>" 
+---

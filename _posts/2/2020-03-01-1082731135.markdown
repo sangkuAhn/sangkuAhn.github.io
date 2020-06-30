@@ -9,6 +9,5 @@ categories: [1007]
 color: 212121 
 price: 14900 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>실내에서신기편하고좋습니다.<br/><br/>좋아요<br/> 
-"
+cont:  "실내에서신기편하고좋습니다.<br/><br/>좋아요<br/>" 
 ---

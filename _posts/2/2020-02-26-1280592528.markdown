@@ -9,6 +9,5 @@ categories: [1008]
 color: 7E57C2 
 price: 15500 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>코로나로 부터 오는 불안감이 사라지는듯해요<br/> 
-"
+cont:  "코로나로 부터 오는 불안감이 사라지는듯해요<br/>" 
 ---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "달리샵 실키 패턴 원피스" 
+description: 달리샵 실 ..
+date: 2020-06-13 07:01:13 
+img: https://static.coupangcdn.com/image/vendor_inventory/5be9/27c894cfaeabb737f67243d21390ff844e4acd4483b4b1b4cd8567366ff8.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1445265938&itemId=2490495835&vendorItemId=70483699355&traceid=V0-113-274d320bc713f8e0 
+categories: [1001] 
+color: A57F92 
+price: 15920 
+author: Ask View Shop 
+cont:  "55입으시는 분들은 예쁘게 맞을거에요<br/>그린, 네이비 둘 다 구매했는데 색상만 다른 줄 알았는데 소재며, 안감도 다 달라요.<br/><br/>그린은 치마 안감이 붙어 있어서 비추는거 없이 너무 만족스럽고 소재도 만졌을때 부드럽고 핏도 예뻐서 네이비 색상도 구매한건데 오늘 받은 네이비 색상은 안감도 없고 소재도 까슬까슬해서 당황했어요;;;<br/>다행히 이쁘게 잘 맞아요.<br/><br/>리본으로 품조절 가능해서 좋아요.<br/><br/>아이가 입을꺼라 브이넥 깊을까 걱정했는데<br/>이 가격에 이정도 퀄리티면 괜찮은 거 같아요<br/>저만 그런건가요,,,아니면 색상에 따라 다른건지요,,,<br/>제가 좀 마른편인데도 너무 크지않고 적당히 맞았어요<br/>키162 길이도 너무 짧지않아서 좋았어요<br/>후들후들 부드럽고 시원한재질이네요.<br/><br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "닌텐도스위치 링 피트 어드밴처 한글판, 단일 상품" 
+description: 닌텐도스위 ..
+date: 2020-06-26 09:10:49 
+img: https://static.coupangcdn.com/image/retail/images/2019/10/14/18/8/ff824ac9-09a4-4282-b288-8a206e0eccb5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=306723828&itemId=967037961&vendorItemId=70865212027&traceid=V0-113-b81cf571ec012705 
+categories: [1020] 
+color: BF360C 
+price: 126900 
+author: Ask View Shop 
+cont:  " 정가 84,800원입니다 <br/>게임에서 제자리걸음을 많이 시킨다던데 층간소음 걱정이 살짝 드네요.<br/><br/>너무 재밌어요!!!!!<br/>아직 게임 플레이는 한번도 안해봤습니다.<br/> 포장 뜯으니까 기분은 좋습니다.<br/><br/>오와... <br/>이거 진짜 운동되네요ㅠ 토할뻔햇어요ㅠ<br/>저는 139,000원 주고 샀습니다.<br/> 호구잡혔지만 당시에 가장 싸서 샀어요.<br/> 리뷰 쓰는 지금은 198,000원이네요.<br/><br/>제가격에 살수 있다니 운이 너무 좋았다!!!!!<br/>" 
+---

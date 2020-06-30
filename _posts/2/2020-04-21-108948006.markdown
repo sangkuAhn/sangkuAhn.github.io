@@ -9,6 +9,5 @@ categories: [1012]
 color: AAD34A 
 price: 19900 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>딱히 터지거나 하자가 있거나 하는 일 없이 잘 받았습니다<br/>이제품 처음 입니다<br/>좋아요<br/> 
-"
+cont:  "딱히 터지거나 하자가 있거나 하는 일 없이 잘 받았습니다<br/>이제품 처음 입니다<br/>좋아요<br/>" 
 ---

@@ -9,6 +9,5 @@ categories: [1007]
 color: BF360C 
 price: 69000 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>너무 작다.<br/><br/>좋아요.<br/><br/> 
-"
+cont:  "너무 작다.<br/><br/>좋아요.<br/><br/>" 
 ---

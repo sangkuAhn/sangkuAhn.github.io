@@ -9,6 +9,5 @@ categories: [1007]
 color: f44336 
 price: 127370 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>개쩝니다 이거없이스쿼트하지마<br/>굿<br/>발을 꽉 잡아즙니다<br/> 
-"
+cont:  "개쩝니다 이거없이스쿼트하지마<br/>굿<br/>발을 꽉 잡아즙니다<br/>" 
 ---

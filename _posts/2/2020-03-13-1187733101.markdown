@@ -9,6 +9,5 @@ categories: [1002]
 color: 006064 
 price: 99000 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>굿 좋습니다<br/> 
-"
+cont:  "굿 좋습니다<br/>" 
 ---

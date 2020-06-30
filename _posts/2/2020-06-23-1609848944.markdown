@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "멜팅나인 무광 여름 조리 KY011" 
+description: 멜팅나인  ..
+date: 2020-06-24 07:48:17 
+img: https://static.coupangcdn.com/image/retail/images/2020/05/18/19/0/0d604d1c-ce19-434c-b646-0399eac02c74.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1609848944&itemId=2749389783&vendorItemId=70739355540&traceid=V0-113-274cfe2eb0c6f1eb 
+categories: [1007] 
+color: f44336 
+price: 13200 
+author: Ask View Shop 
+cont:  "지인짜 만족해요!! 기본 쪼리인데 마감이나 끈도 너무 저가 쪼리처럼 엉망이지 않고 튼튼하고 푹신푹신해요.<br/> 굽도 사아알짝 있는데 그래서 오히려 더 편한 것 같아요.<br/> 진짜 만족합니다!!! 정사이즈 딱이에용!!<br/>후기없어서 고민했는데 로켓배송이라 구매했어요<br/>" 
+---

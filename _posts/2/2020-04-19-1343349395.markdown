@@ -9,6 +9,5 @@ categories: [1003]
 color: FF6F00 
 price: 8050 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>원단좋아요 잘입힐께요<br/> 
-"
+cont:  "원단좋아요 잘입힐께요<br/>" 
 ---

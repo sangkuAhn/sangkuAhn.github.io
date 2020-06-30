@@ -9,6 +9,5 @@ categories: [1003]
 color: 006064 
 price: 6000 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>괜찮아요 올해까지 입힐수 있겠어요<br/> 
-"
+cont:  "괜찮아요 올해까지 입힐수 있겠어요<br/>" 
 ---

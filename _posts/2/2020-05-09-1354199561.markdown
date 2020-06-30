@@ -9,6 +9,5 @@ categories: [1015]
 color: f44336 
 price: 34220 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>부모님께 보내드렸는데 향도 좋구 이쁘다하네요<br/> 
-"
+cont:  "부모님께 보내드렸는데 향도 좋구 이쁘다하네요<br/>" 
 ---

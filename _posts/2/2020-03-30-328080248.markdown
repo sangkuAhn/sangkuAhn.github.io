@@ -9,6 +9,5 @@ categories: [1007]
 color: ff1744 
 price: 58000 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>너무이쁘네요맘에들어요<br/> 
-"
+cont:  "너무이쁘네요맘에들어요<br/>" 
 ---

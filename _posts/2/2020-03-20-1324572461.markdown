@@ -9,6 +9,5 @@ categories: [1008]
 color: 006064 
 price: 27500 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>제얼굴에 딱 맞아요 ^^<br/> 
-"
+cont:  "제얼굴에 딱 맞아요 ^^<br/>" 
 ---

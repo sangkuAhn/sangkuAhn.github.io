@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "TOMKID 해브펀 반팔 티셔츠" 
+description: TOMKI ..
+date: 2020-05-22 02:31:54 
+img: https://static.coupangcdn.com/image/vendor_inventory/abd3/4ac1eaab3a698c036cfcdb9c9214d40502fdbb6e1a32833ea1df9781cc7e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=82151666&itemId=261382523&vendorItemId=4655256030&traceid=V0-113-8d649b63ba20caad 
+categories: [1004] 
+color: FF1744 
+price: 2900 
+author: Ask View Shop 
+cont:  "이쁘지만 사이즈 작아요<br/>저렴해서 기대안하고 또 혹시 너무 질이 안좋을까봐 걱정했는데 너무 좋아요<br/>" 
+---

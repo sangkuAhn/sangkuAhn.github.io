@@ -9,6 +9,5 @@ categories: [1003]
 color: 4CAF50 
 price: 7900 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>넘 귀엽고... <br/>시원할것같아요^^ 좋습니다^^<br/> 
-"
+cont:  "넘 귀엽고... <br/>시원할것같아요^^ 좋습니다^^<br/>" 
 ---

@@ -9,6 +9,5 @@ categories: [1006]
 color: FF6F00 
 price: 26000 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>good<br/>무난함<br/>부드러운천인데  안감쪽에 먼지가  잘  붙음.<br/><br/> 
-"
+cont:  "good<br/>무난함<br/>부드러운천인데  안감쪽에 먼지가  잘  붙음.<br/><br/>" 
 ---

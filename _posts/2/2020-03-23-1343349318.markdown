@@ -9,6 +9,5 @@ categories: [1007]
 color: f44336 
 price: 43140 
 author: Ask View Shop 
-cont: " ●구매후기●<br/>ㅇㅋ<br/>가벼워용<br/>편안하고도  높은 컬러티.<br/>.<br/><br/> 
-"
+cont:  "ㅇㅋ<br/>가벼워용<br/>편안하고도  높은 컬러티.<br/>.<br/><br/>" 
 ---
