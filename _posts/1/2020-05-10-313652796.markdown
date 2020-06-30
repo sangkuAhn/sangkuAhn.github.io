@@ -1,6 +1,6 @@
 ---
 layout: post 
-title:  "삼성전자 FHD 108cm TV UN43N5000AFXKR, 벽걸이형, 방문설치" 
+title:  "삼성전자 FHD 108cm TV UN43N5000AFXKR 벽걸이형 방문설치" 
 description: 삼성전자  ..
 date: 2020-05-11 03:51:20 
 img: https://static.coupangcdn.com/image/retail/images/17911735339438-de053924-75d8-4ae9-9398-27a03e813975.jpg 

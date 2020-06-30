@@ -1,6 +1,6 @@
 ---
 layout: post 
-title:  "부산出 하이난/ "4명출발" 5성급숙박 하이난 세미패키지 5일/6일, 최저가 179부터~" 
+title:  "부산出 하이난 4명출발 5성급숙박 하이난 세미패키지 5일/6일 최저가 179부터~" 
 description: 부산出 하 ..
 date: 2020-02-25 06:16:09 
 img: https://static.coupangcdn.com/image/travel_reactor/travelSeller/common/A00185322/e6fffbfe-11c9-4247-803f-dd64841a032a.jpg 
@@ -10,4 +10,3 @@ color: 03A9F4
 price: 289000 
 author: Ask View Shop 
 ---
- 
