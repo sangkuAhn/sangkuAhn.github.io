@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "곰곰 감자 에그 샐러드, 1kg, 1개" 
+description: 곰곰 감자 ..
+date: 2020-06-30 08:13:13 
+img: https://static.coupangcdn.com/image/retail/images/74475733367323-1c211d9e-3e68-43c7-b749-5c3da562d3a0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1547920529&itemId=2649737703&vendorItemId=70640600289&traceid=V0-113-f4454befd18122e7 
+categories: [1012] 
+color: 353535 
+price: 11460 
+author: Ask View Shop 
+---
+ 
