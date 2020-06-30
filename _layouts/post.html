@@ -5,11 +5,15 @@ layout: default
     <div class="content">
     <article>        
         {% if page.author %}
-        <div class="meta"><span><i class="fa fa-calendar-o" aria-hidden="true"></i> {{page.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;&nbsp;</span><span><i class="fa fa-pencil-square-o" aria-hidden="true"></i> {{page.author}}</span></div>
+        <div class="meta"><span><i class="fa fa-calendar-o" aria-hidden="true"></i> {{page.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        	<span><i class="fa fa-pencil-square-o" aria-hidden="true"></i> {{page.author}}</span>
+        </div>
         {% endif %}
+        
         {% if page.img %}    
          <p style="text-align:center"><a href="{{page.linkUrl}}" target="_blank"><img class="feat-image" src="{{page.img}}" alt="{{page.title}}"></a></p>
         {% endif %}
+        
         {{page.content | markdownify}}
        <br/>
        <h1 class="page-title">[특가] {{page.title}}</h1>
@@ -17,12 +21,12 @@ layout: default
        {% if page.price %}    
        <p style="text-align:center">
           <a href="{{page.linkUrl}}" target="_blank">
-             <h2 style="text-align: center;">[상품정보 및 구매 바로가기]</h2>
+             <h2>[상품정보 및 가격확인 바로가기]</h2>
           </a>
        </p>
          <br/><br/>
          <div>
-         <p style="text-align:left">{{page.cont}}</p>         
+         	<p style="text-align:left">{{page.cont}}</p>         
         </div>
          <br/>
           
@@ -30,10 +34,10 @@ layout: default
        <br>
        <p style="text-align:center">
           <a href="{{page.linkUrl}}" target="_blank">
-             <h2 style="text-align: center;">[상품정보 및 구매 바로가기]</h2>
+             <h2 style="text-align: center;">[상품구매 바로가기]</h2>
           </a>
        </p>
-       <!-- <p style="text-align:center"> {{page.date | date: '%Y, %m %d'}} 에 작성되었어요.<br/></p> -->
+
        <br>
        <br>
        <br>
@@ -42,10 +46,9 @@ layout: default
 
        {{site.baseWord}}
        <p></p>       
-        {% include disqus.html %} 
+        
         {% include post_list.html %} 
-
-        </div>
+        
     </article>   
     </div>
 </div>

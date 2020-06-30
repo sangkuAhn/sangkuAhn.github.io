@@ -2,37 +2,34 @@
 layout: compress
 ---
 <!DOCTYPE html>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<html lang="en">
+<html lang="ko">
 {% include head.html %}
 <body>
-<header>
-<div id="mySidenav" class="sidenav"><a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-  {%include menu-links.html%}
+	<div id="mySidenav" class="sidenav"><a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+	  {%include menu-links.html%}
+	</div>
+	<!-- Use any element to open the sidenav -->
+	<div>
+		<div> id="slid" onclick="openNav()">
+			<span style="display: inline-block;font: normal normal normal 14px/1 FontAwesome;padding: 50% 10%;background: #333;" aria-hidden="true">MENU</span>
+		</div>
+		<div> id="slid2" onclick="goTop()">
+			<span style="display: inline-block;font: normal normal normal 14px/1 FontAwesome;padding: 50% 10%;background: #333;" aria-hidden="true">TOP↑</span>
+		</div>
+	</div>
+
+<div>
+	<a href="{{site.baseurl}}/">
+		<h1 class="header-title">{{site.title}}
+			<span class="fa fa-sun-o" aria-hidden="true"></span> 
+		</h1>
+	</a>
+	<h2 class="header-tagline">Best Top.100</h2>
+	<div id="main" style="padding: 5% 5% 5% 5%;">
+		<div style="padding-bottom: 10px;margin-bottom: 10px;color:#1245AB;"><span>ASK VIEW TOP.100은 매일 갱신(AM:10시30분 FM:18시30분) 됩니다.</span></div>
+	
+	<div class="gcse-search" style="width: 80%; padding: 0 5% 0 5%;"></div>	
 </div>
-<!-- Use any element to open the sidenav -->
-<span id="slid" onclick="openNav()">
-<i style="display: inline-block;font: normal normal normal 14px/1 FontAwesome;padding: 50% 10%;background: #333;" aria-hidden="true">MENU</i>
-</span>
-<span id="slid2" onclick="goTop()">
-<i style="display: inline-block;font: normal normal normal 14px/1 FontAwesome;padding: 50% 10%;background: #333;" aria-hidden="true">TOP↑</i>
-</span>
-
-
-<a href="{{site.baseurl}}/"><h1 class="header-title">{{site.title}}<i class="fa fa-sun-o" aria-hidden="true"></i> </h1></a>
-<h2 class="header-tagline">Son of the Sun</h2>
-<!-- <div id="myTopMenu" class="top_menu">
-	  { include top_menu.html }
-</div> -->
-<!--</header>
-<script async src="https://cse.google.com/cse.js?cx=006821212200280075854:090rjnng8ev"></script>	
-<div class="gcse-search"></div>
--->
-<!-- <div class="gcse-searchbox-only"></div> -->
-<div id="main" style="padding: 5% 5% 5% 5%;">
-	<div style="padding-bottom: 10px;margin-bottom: 10px;color:#1245AB;"><span>ASK VIEW TOP.100은 매일 갱신(AM:10시30분 FM:18시30분) 됩니다.</span></div>
-<script async src='https://cse.google.com/cse.js?cx=partner-pub-3309468445717403:scakuetu6bz'></script>
-<div class="gcse-search" style="width: 80%; padding: 0 5% 0 5%;"></div>
 
 
 
@@ -55,7 +52,7 @@ document.documentElement.scrollTop = 0;
  }
 
 </script>
-<link href="//maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet" type="text/css"> 
+
 {% include analytics.html %}
 </body>
 </html>
