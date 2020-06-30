@@ -6,12 +6,10 @@
 	
 	<meta property="og:type" content="website"> 
 	<meta property="og:title" content="{% if page.title %}{{page.title}} - {{site.title}}{% else %}{{site.title}}{% endif %}">
-	<meta property="og:description" content="{% if page.desctiption %}{{page.desctiption}} - {{site.desctiption}}{% else %}{{site.desctiption}}{% endif %}">
+	<meta name="description" content="{% if page.cont %}{{page.excerpt | default: page.cont | replace: '<br/>', ' '  | strip_html | normalize_whitespace | truncate: 160 | escape}}{% else %} {{page.description}} - {{site.description}}{% endif %}">
 	<meta property="og:image" content="{% if page.img %}{{page.img}} - {{site.img}}{% else %}{{site.img}}{% endif %}">
-	<meta property="og:url" content="https://sangkuahn.github.io">
-	<!-- <meta name="description" content="{% if page.desctiption %}{{page.desctiption}} - {{site.desctiption}}{% else %}{{site.desctiption}}{% endif %}"> -->
-	<meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
-    
+	<meta property="og:url" content="https://sangkuahn.github.io">	
+    <meta name="description" content="{% if page.cont %}{{page.excerpt | default: page.cont | replace: '<br/>', ' '  | strip_html | normalize_whitespace | truncate: 160 | escape}}{% else %} {{page.description}} - {{site.description}}{% endif %}">
     <title>{% if page.title %}{{page.title}} - {{site.title}}{% else %}{{site.title}}{% endif %}</title>
 	
 	<!-- <script data-ad-client="ca-pub-3309468445717403" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> -->
