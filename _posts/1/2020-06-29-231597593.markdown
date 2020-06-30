@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "프로월드컵 아동용 메이트 주니어샌들" 
+description: 프로월드컵 ..
+date: 2020-06-30 07:30:03 
+img: https://static.coupangcdn.com/image/retail/images/2019/05/31/14/9/4ad74b85-2a83-486c-a323-8a127b1b33d6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=231597593&itemId=734624061&vendorItemId=4856292230&traceid=V0-113-6819a32a6cf964e3 
+categories: [1005] 
+color: 03A9F4 
+price: 24660 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>단 바닥이 좀 미끄럽지 않을까 조심스럽기는 하네요.<br/><br/>대박 짱 예쁨<br/>발사이즈도 정사이즈로 나온것 같고 아이도 신어보고 좋아하네요.<br/><br/>배송은말할것도없고 240신는 딸아이에게 잘맞아요.<br/><br/>품질도 좋아보입니다.<br/>다른것들도많지만 제가어릴땐 프로월드컵이 프로였기에 믿고구매했는데 탁월한선택이었네요<br/>" 
+---

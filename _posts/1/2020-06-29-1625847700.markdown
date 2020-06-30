@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "키라키라샵 새틴 헤어 곱창 머리끈 50개 1세트 AHB1657" 
+description: 키라키라샵 ..
+date: 2020-06-30 07:51:38 
+img: https://static.coupangcdn.com/image/vendor_inventory/2f98/27e16334e25d4b84e31bc77bd10c5d1c5531ed9e96e4a98681bf283e9bb5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1625847700&itemId=2773711342&vendorItemId=70763523400&traceid=V0-113-e69c9ef55577ecce 
+categories: [1008] 
+color: 4CAF50 
+price: 9900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>너무많아서 오래오래잘쓸것같아요<br/>애들이 아주 좋아해요  저렴하게 잘 샀네요!  많이파세요<br/>여튼 대박 제품입니다<br/>일단  여러색깔이 다들어 있어서 기분에 따라 골라쓰는<br/>질도좋고 예뻐서 너무마음에드네요<br/>행복이 있겠네요 세련된 색도 있고  화려한색도  있고<br/>" 
+---

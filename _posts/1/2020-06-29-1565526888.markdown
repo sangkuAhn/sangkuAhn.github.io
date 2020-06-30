@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "여성 스트랩 샌들 ST2507" 
+description: 여성 스트 ..
+date: 2020-06-30 07:44:25 
+img: https://static.coupangcdn.com/image/retail/images/2020/05/08/12/7/4a8c82f5-5d9a-422b-bc6e-9f90d305b607.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1565526888&itemId=2676894188&vendorItemId=70667423902&traceid=V0-113-705f10e183a95d90 
+categories: [1007] 
+color: A566FF 
+price: 12900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>무릎이 안좋아서 너무 밑창이 얇은 신발은 못신는데 적당히 쿠션감 있습니다!<br/>어디에나 매치하기 좋은 디자인에 예쁜 아이보리 색상이라 맘에 들어요:)<br/>여름에 가볍게 신기 좋은 신발 찾다가 구매했는데<br/>예쁘고 편해요!<br/>저 끈 부분 찐한회색이라고 생각하시면 될 거 같아요<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "메르시밴드 집게 핀" 
+description: 메르시밴드 ..
+date: 2020-06-30 07:51:38 
+img: https://static.coupangcdn.com/image/retail/images/2020/05/04/0/1/54b75030-521d-4bac-a0f0-924a90ec932c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1565708800&itemId=2677268056&vendorItemId=70667805900&traceid=V0-113-3340f0f4308bae10 
+categories: [1008] 
+color: 4374D9 
+price: 10000 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>잘 찝히고 심플하고 좋아요! 자세히보면 좀 싼티나는 색같긴한데 햇빛비추면 안그럴꺼같기도하고 그래도 가격대비 만족입니다아아! 너무너무 잘쓰고있어요!<br/>" 
+---

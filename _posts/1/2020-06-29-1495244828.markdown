@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "단군 남성용 에브리띵 오버핏 반팔티, 화이트" 
+description: 단군 남성 ..
+date: 2020-06-30 07:08:26 
+img: https://static.coupangcdn.com/image/retail/images/2020/04/21/13/1/8a4c53aa-a004-4ff4-957b-6046668712ec.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1495244828&itemId=2567855177&vendorItemId=70725791380&traceid=V0-113-e82bc6a98b8c6c13 
+categories: [1002] 
+color: 006064 
+price: 15900 
+author: Ask View Shop 
+cont:  "●구매후기●<br/>굿!!<br/>배송빠르고좋습니다.<br/><br/>사진과 동일함<br/>색감 이쁘고 맘에듭니다.<br/>ㅎㅎ<br/>역쉬 단군이네요<br/>잘입을게여<br/>질감 좋고 핏좋고 사이즈 좋고<br/>" 
+---
