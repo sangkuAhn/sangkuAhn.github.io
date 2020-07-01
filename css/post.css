@@ -39,16 +39,36 @@ margin-left:0.3em;
 color:#000000;
 font-size: 2em;  
 }
+.idxStyle .redSy{
+margin-left:0.3em;
+color:red;
+font-size: 0.5em;  
+}
+.idxStyle .blueSy{
+margin-left:0.3em;
+color:blue;
+font-size: 0.5em;  
+}
+
+.idxMoneyStyle{
+margin-left:0.3em;
+color:#000000;
+font-size: 1em;  
+}
+.idxMoneyStyle .redSy{
+margin-left:0.3em;
+color:red;
+font-size: 0.7em;  
+}
+.idxMoneyStyle .blueSy{
+margin-left:0.3em;
+color:blue;
+font-size: 0.7em;  
+}
+
 .idxBkImg{
   background-color: #ffffff !important;
 }
-.redSy{
-  color:red;
-}
-.blueSy{
-  color:blue;
-}
-
 
 </style>
 
