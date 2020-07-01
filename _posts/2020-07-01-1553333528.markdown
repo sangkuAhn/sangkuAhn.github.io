@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "팜에이트 친환경 시즈널 샐러드, 550g, 1봉" 
+description: 팜에이트  ..
+date: 2020-07-01 16:13:04 
+img: https://static.coupangcdn.com/image/retail/images/2020/05/07/17/1/16384cc3-f4d3-4652-9e5f-20064e610673.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1553333528&itemId=2656950852&vendorItemId=70647658817&traceid=V0-113-29e69a976ad689ca 
+categories: [1012] 
+color: FF1744 
+price: 5990 
+author: Ask View Shop 
+---
+ 
