@@ -41,10 +41,15 @@ disqus-shortname: https-sangkuahn-github-io
 api-token:   
 
 include: [_pages]
+# exclude:
+#   - _posts/
+#   - _posts/1/
+#   - _posts/2/
+ 
+
 version: 0.8
 
 paginate: 
 
 plugins: 
-    - jekyll-seo-tag
-    - jekyll-feed
+    - jekyll-seo-tag    
