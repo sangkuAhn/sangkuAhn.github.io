@@ -7,12 +7,6 @@ layout: default
         <div  class="text_center">        
           <h1 class="page-title ">[특가] {{page.title}}</h1>
         </div>
-        {% if page.author %}
-          <div class="text_center pad_size1">
-            <span><i class="fa fa-calendar-o" aria-hidden="true"></i> {{page.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;&nbsp;</span>
-          	<span><i class="fa fa-pencil-square-o" aria-hidden="true"></i> {{page.author}}</span>
-          </div>
-        {% endif %}
         {% if page.img %}    
          <div  class="text_center">
           <a href="{{page.linkUrl}}" target="_blank"><img class="feat-image" src="{{page.img}}" alt="{{page.title}}"></a>
@@ -33,7 +27,15 @@ layout: default
         {% else %}    
         -
         {% endif %}    
-       {{site.baseWord}}
+        {% if page.author %}
+          <div class="text_center pad_size1">
+            <span><i class="fa fa-calendar-o" aria-hidden="true"></i> {{page.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;&nbsp;</span>
+            <span><i class="fa fa-pencil-square-o" aria-hidden="true"></i> {{page.author}}</span>
+          </div>
+        {% endif %}
+        <div class="pad_size1">
+          <span>{{site.baseWord}}</span>
+        </div>
        {% include disqus.html %} 
        {% include post_list.html %}        
     </article>   
