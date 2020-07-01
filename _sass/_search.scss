@@ -56,16 +56,6 @@
 
   .search-input {
     display: block;
-  /*
-    max-width: 100% !important;
-    margin: 0.2em 0.2em 0.2em 0.2em;
-    padding: 0.2em 0.2em 0.2em 0.2em;
-    border: none;
-    outline: none;
-    box-shadow: none;
-    background-color: transparent;
- 
-*/
     -webkit-appearance: none;
     -moz-appearance: none;
     appearance: none;
@@ -79,13 +69,7 @@
     padding: 10px 10px 10px 35px;
     vertical-align: middle;
     white-space: normal;
-    margin-left: 20px;
-    margin-right: 20px;
     max-width: 100% !important;
-
-
-
-
     font-size: $type-size-3;
 
     @include media-query($large) {
