@@ -37,7 +37,7 @@
   padding-bottom: 1em;
 
   &__inner-wrap {
-    width: 100%;
+    max-width: 100% !important;   
     margin-left: auto;
     margin-right: auto;
     padding-left: 1em;
@@ -47,9 +47,6 @@
     -webkit-animation-delay: 0.15s;
     animation-delay: 0.15s;
 
-    @include media-query($x-large) {
-      max-width: $max-width;
-    }
 
   }
 
@@ -59,12 +56,36 @@
 
   .search-input {
     display: block;
+  /*
+    max-width: 100% !important;
     margin: 0.2em 0.2em 0.2em 0.2em;
     padding: 0.2em 0.2em 0.2em 0.2em;
     border: none;
     outline: none;
     box-shadow: none;
     background-color: transparent;
+ 
+*/
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    display: inline-block;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 1px 1px 0 rgba(85,95,110,.2);
+    box-shadow: 0 1px 1px 0 rgba(85,95,110,.2);
+    -webkit-transition: background .4s ease,-webkit-box-shadow .4s ease;
+    transition: box-shadow .4s ease,background .4s ease;
+    transition: box-shadow .4s ease,background .4s ease,-webkit-box-shadow .4s ease;
+    padding: 10px 10px 10px 35px;
+    vertical-align: middle;
+    white-space: normal;
+    margin-left: 20px;
+    margin-right: 20px;
+    max-width: 100% !important;
+
+
+
+
     font-size: $type-size-3;
 
     @include media-query($large) {
