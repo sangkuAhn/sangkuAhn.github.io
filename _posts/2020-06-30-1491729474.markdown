@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "슈펜 라탄 쿠션 플랫 0.7cm" 
+description: 슈펜 라탄 ..
+date: 2020-07-01 07:44:26 
+img: https://static.coupangcdn.com/image/retail/images/2020/04/06/10/6/267c827f-e24c-4cf4-aff4-05da87100f86.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1491729474&itemId=2560772615&vendorItemId=70470291260&traceid=V0-113-4b0a26f734abac95 
+categories: [1007] 
+color: 9E9D24 
+price: 12640 
+author: Ask View Shop 
+---
+ 

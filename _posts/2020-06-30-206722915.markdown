@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "라이프굿즈 밸런스풋패드 기능성 바른자세 깔창" 
+description: 라이프굿즈 ..
+date: 2020-07-01 07:44:26 
+img: https://static.coupangcdn.com/image/vendor_inventory/3899/e12f2c5a8d0b8da4119e9bfc2a47e9101a2872dbb93b408cce981626e492.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=206722915&itemId=610725629&vendorItemId=4602462852&traceid=V0-113-2bc9e22d842d3d3a 
+categories: [1007] 
+color: 006064 
+price: 33900 
+author: Ask View Shop 
+---
+ 
