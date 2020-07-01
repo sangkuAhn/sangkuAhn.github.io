@@ -33,6 +33,23 @@ display: inline-block;
 .pad_top_down{
       padding: 2em 0 2em 0;
 }
+
+.idxStyle{
+margin-left:0.3em;
+color:#000000;
+font-size: 2em;  
+}
+.idxBkImg{
+  background-color: #ffffff !important;
+}
+.redSy{
+  color:blue;
+}
+.blueSy{
+  color:blue;
+}
+
+
 </style>
 
  
