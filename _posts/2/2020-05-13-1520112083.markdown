@@ -3,7 +3,7 @@ layout: post
 title:  "쿠팡 브랜드 - 탐사 퀵드라이 항균 패션 마스크 대형 2개입" 
 description: 쿠팡 브랜 ..
 date: 2020-05-14 03:37:04 
-img: https://static.coupangcdn.com/image/retail/images/526907633366877-8eb07633-a208-48bc-bcee-d4db0f8d7002.jpg 
+img: https://i.ibb.co/3kjPZfh/526876718115289-901399d4-6b21-40fa-aa86-f68af94daadd.jpg
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1520112083&itemId=2529746330&vendorItemId=70522536267&traceid=V0-113-8e1c0a6959ce7f0a 
 categories: [1014] 
 color: BD24A9 

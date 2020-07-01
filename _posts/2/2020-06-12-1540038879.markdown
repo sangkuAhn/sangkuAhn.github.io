@@ -3,7 +3,7 @@ layout: post
 title:  "K2 심리스 쿨토시 2p x 2세트, Black" 
 description: K2 심리 ..
 date: 2020-06-13 08:49:14 
-img: https://static.coupangcdn.com/image/retail/images/2020/05/04/11/4/e81f8b7c-9e68-4712-9722-e5ee41c06130.jpg 
+img: https://i.ibb.co/mtdx2Z1/e81f8b7c-9e68-4712-9722-e5ee41c06130.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1540038879&itemId=2638186666&vendorItemId=70629060453&traceid=V0-113-9b7abdaec9ef6d3e 
 categories: [1017] 
 color: 7E57C2 

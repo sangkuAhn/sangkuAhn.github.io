@@ -3,7 +3,7 @@ layout: post
 title:  "Apple 애플워치3 GPS 38mm, 스페이스그레이 알루미늄 케이스+블랙 스포츠 밴드(MTF02KH/A)" 
 description: Apple ..
 date: 2020-02-06 06:14:41 
-img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/03/14/4222443133/f66347a8-d021-4ffd-8767-5ac272880064.jpg 
+img: https://i.ibb.co/47D41Bx/ad1c1829-be3b-476c-acae-bfdf7998a67b.jpg
 linkUrl: https://coupa.ng/bokq3z 
 categories: [1024] 
 color: f44336 

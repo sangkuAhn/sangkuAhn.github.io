@@ -3,7 +3,7 @@ layout: post
 title:  "보아르 모아 파워 제습기 7L VO-DE001" 
 description: 보아르 모 ..
 date: 2020-07-01 16:41:49 
-img: https://static.coupangcdn.com/image/retail/images/2020/06/15/17/9/dd713f56-8f7d-48da-9df0-608e8f40405e.jpg 
+img: https://i.ibb.co/FqdvTFp/dd713f56-8f7d-48da-9df0-608e8f40405e.jpg
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1704346105&itemId=2900397055&vendorItemId=70889360342&traceid=V0-113-0f7c09271410ff7b 
 categories: [1016] 
 color: 43A047 
