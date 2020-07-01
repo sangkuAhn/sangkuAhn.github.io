@@ -5,28 +5,7 @@ layout: compress
 <html lang="ko">
 {% include head.html %}
 <body>
-<div id="mySidenav" class="sidenav"><a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-  {%include menu-links.html%}
-</div>
-<!-- Use any element to open the sidenav -->
-<div id="slid" onclick="openNav()">
-<i style="display: inline-block;font: normal normal normal 14px/1 FontAwesome;padding: 50% 10%;background: #333;" aria-hidden="true">MENU</i>
-</div>
-<div id="slid2" onclick="goTop()">
-<i style="display: inline-block;font: normal normal normal 14px/1 FontAwesome;padding: 50% 10%;background: #333;" aria-hidden="true">위로↑</i>
-</div>
-
-
-<div class="page-top text_center">
-	<a href="/">
-		<h1 class="header-title">{{site.title}}
-			<span class="fa fa-sun-o" aria-hidden="true"></span> 
-		</h1>
-		<h2 class="header-tagline">Best Top.100</h2>
-	</a>
-	<div class="pad_size1" style="color:#1245AB;"><span>ASK VIEW TOP.100은 매일 갱신(AM:10시30분 FM:18시30분) 됩니다.</span></div>	
-	<div class="gcse-search" style="width: 80%"></div>	
-</div>
+{% include gnbhead.html %}
 {{content}}
 {% include footer.html %}
 </body>
