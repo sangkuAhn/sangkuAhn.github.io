@@ -3,7 +3,7 @@ layout: post
 title:  "도도파트너스 보스 슬리퍼" 
 description: 도도파트너 ..
 date: 2020-02-28 06:11:39 
-img: https://static.coupangcdn.com/image/retail/images/60706829364815-1cbbae1d-409e-4b90-9764-df65d7b794ab.jpg 
+img: https://i.ibb.co/WBbZcxQ/65255009251329-4011b597-e953-4366-a6bf-e3c6753ed924.jpg
 linkUrl: https://coupa.ng/brsdrX 
 categories: [1007] 
 color: FF6F00 
