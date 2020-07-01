@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "애드에딧 딘토 슬링 메신저백" 
+description: 애드에딧  ..
+date: 2020-07-01 07:08:27 
+img: https://static.coupangcdn.com/image/retail/images/2019/07/11/16/2/22c99244-ef30-428e-a748-f379da173f3e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=99397182&itemId=304133068&vendorItemId=5072972125&traceid=V0-113-c72dab37584d4019 
+categories: [1002] 
+color: CF36BB 
+price: 9500 
+author: Ask View Shop 
+cont:  "350ml 생수병,폰,지갑,손수건,티슈,휴대용선풍기,무선이어폰,휴대용손소독제,팩트가 다 들어가요.<br/> 착용감도 좋고 가볍고 디자인도 품질도 좋네요.<br/><br/>아주 좋아요.<br/><br/>저는 앞의 텍은 떼어버렸어요.<br/>깔끔하게.<br/><br/>지퍼를 열기 전까지는 좋은데 안쪽까지 공간이 넉넉하지 않고 딱 필요한 물품 몇가지만 넣을수 있어요 물통,휴지,지갑,핸드폰  넣으니까 꽉차고 움직일때마다 손잡이가 흔들리면서 소리 나는게 걸리적거리고 없는게 나아요 부피가 덜 나가는 물품만 넣을수 있고 박음질이 튼튼하지 않고 지퍼하고  같이 보이는  안감이 왜 넣었을까 똑같이 안감처리를 하지 하루 밖에 사용을 안했는데 문제점이  보이네요 이것도 막 쓰고 버려야하나 이런 생각이 주문한것 중에 반은 실패했는데 씁쓸하네요<br/>품질이 오래쓸 만한 것은 아니에요.<br/> 금방 떨어져서 새로운 거 구입해야했음.<br/><br/>" 
+---

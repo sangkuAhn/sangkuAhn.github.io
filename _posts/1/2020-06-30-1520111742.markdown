@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "릴리푸리 여아용 러브둥둥원피스" 
+description: 릴리푸리  ..
+date: 2020-07-01 07:22:51 
+img: https://static.coupangcdn.com/image/retail/images/2020/04/27/23/0/2e478b7a-6dbd-4331-975f-d3f447d97cbc.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1520111742&itemId=2608336391&vendorItemId=70668948589&traceid=V0-113-574253fb6edef48c 
+categories: [1004] 
+color: F15F5F 
+price: 12900 
+author: Ask View Shop 
+cont:  "아이가 너무좋아하네요 시원하니 올여름 잘입힐겠어요<br/>아이가 제일 좋아하는 원피스 입니다^^<br/>요재품 140사이즈  로켓배송이 없어서 주문안했었는데.<br/>.<br/>가격도 인하하고 로켓배송 떠자마자 주문했네요.<br/>소재도 부드럽고 민소매이라 시원하네요.<br/>7.<br/>8월에 입기 딱좋은 원피스.<br/>울6살공주 넉넉하게 잘맞아요.<br/><br/>착한가격에 빠른배송으로 잘사서 더좋으네요<br/>" 
+---
