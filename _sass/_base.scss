@@ -1,4 +1,5 @@
 
+
 *{
     -webkit-transition: all 0.2s; /* Safari */
     -webkit-transition-timing-function: linear; /* Safari */
@@ -6,25 +7,7 @@
     transition-timing-function: linear;
       }
 
-body {
-      
-         background: #fff;         
-         font-size: 15px;
-         font-weight: 300;
-         overflow-x: hidden;         
-         margin: 0;
-         padding: 0;
-         color: #494e52;
-         font-family: -apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
-         line-height: 1.5;
 
-         @include media-query($on-palm) {
-          padding: 10px;        
-    }
-
-  
-         
-}
 
 
 ::-webkit-scrollbar {

@@ -1,6 +1,7 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="Content-Language" content="ko">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="naver-site-verification" content="fe73013289ae40cd9831027ca2b78448b6af9ffc" />
 	<meta property="og:type" content="website"> 
@@ -15,14 +16,15 @@
 	<!-- tag -->
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.2.6/vue.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.16.0/axios.min.js"></script>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-69920584-4"></script>
-	<script async src="https://cse.google.com/cse.js?cx=partner-pub-3309468445717403:scakuetu6bz"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-69920584-4"></script>
+	
+  <script src="/js/main.min.js"></script>
 	<!--  BOOTSTRAP -->	       
-    <link rel="stylesheet" href="/css/main.css">    
-    <link rel="stylesheet" href="/css/post.css"> 
-    <link href="//maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet" type="text/css">     
-    {% seo title=false %}
-
+  <link rel="stylesheet" href="/css/main.css">    
+  <link rel="stylesheet" href="/css/post.css"> 
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet" type="text/css">     
+  {% seo title=false %}
+  {% include google-search-scripts.html %}
 	<script>
 	  window.dataLayer = window.dataLayer || [];
 	  function gtag(){dataLayer.push(arguments);}
@@ -34,5 +36,4 @@
 		function closeNav() {document.getElementById("mySidenav").style.width = "0";}
 		function goTop(){document.documentElement.scrollTop = 0;}
 	</script>
-
 </head>

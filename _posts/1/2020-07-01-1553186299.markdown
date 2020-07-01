@@ -9,5 +9,5 @@ categories: [1029]
 color: F15F5F 
 price: 18990 
 author: Ask View Shop 
+cont:  "배변패드가 하루 열장20장정도 쓰니 부담없이 쓸수있어서 항상구매하는 제품이에요<br/>빠르고 좋습니다!<br/>아주좋아요<br/>" 
 ---
- 
