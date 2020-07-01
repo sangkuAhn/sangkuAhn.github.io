@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "애들랜드 파워 경찰 배낭 물총, 혼합색상" 
+description: 애들랜드  ..
+date: 2020-07-01 09:10:51 
+img: https://static.coupangcdn.com/image/retail/images/2020/04/29/19/8/4f7fb7dd-4d3f-465f-bc31-f80f6c9a106e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1552172976&itemId=2655414669&vendorItemId=70646243837&traceid=V0-113-9e0ad773c2b417e3 
+categories: [1020] 
+color: 35B62C 
+price: 8190 
+author: Ask View Shop 
+cont:  "근데 끈이너무 허접해요<br/>꽉채우면 정말 무거운데 5살 아들 잘메고다니네요<br/>끈이 모두 풀려서 와서 조금 그렇네요 ㅜㅜ<br/>많이들어가는 만큼 많이 무거워요<br/>물이 많이 들어가는거라 조금 무겁긴해요<br/>물이 많이들어가는 구조예요<br/>물총이 압이좀쎄서 한번에 물이 쭉쭉나가요<br/>" 
+---
