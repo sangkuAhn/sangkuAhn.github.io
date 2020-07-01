@@ -22,7 +22,7 @@ display: inline-block;
     cursor: pointer;
 }
 .btn--success {
-  background-color: #3fa63f;color: #fff;
+  background-color: #3fa63f;color: #fff !important;
 }
 .pad_size1 {
   padding: 1em 1em 1em 1em;
