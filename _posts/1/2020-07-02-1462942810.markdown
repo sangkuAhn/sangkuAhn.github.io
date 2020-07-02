@@ -9,5 +9,5 @@ categories: [1006]
 color: BF360C 
 price: 24500 
 author: Ask View Shop 
+cont:  "편하고 통기성 좋고 너무 좋아요<br/>" 
 ---
- 

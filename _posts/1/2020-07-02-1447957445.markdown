@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "쌈용 맛배추, 400g, 1팩" 
+description: 쌈용 맛배 ..
+date: 2020-07-02 16:13:04 
+img: https://static.coupangcdn.com/image/retail/images/2020/04/09/16/6/72ab2fa6-6ce1-4f35-b3e3-8a7b8df987ea.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1447957445&itemId=2494460909&vendorItemId=70487659090&traceid=V0-113-7cc68fbe1421da51 
+categories: [1012] 
+color: FF6F00 
+price: 3480 
+author: Ask View Shop 
+cont:  "(버려지는 꼬다리 음식물쓰레기 발생안함)<br/>(통으로 한잎씩 뜯어먹고 싶었는데ㅠ)<br/>장점<br/>짧게 팩트만 별 네개이유<br/>.<br/> ★강추합니당!!!!<br/>그리고 저 육수에 간장 +설탕+간마늘+식초 하면 찍먹 소스 완성<br/>다 맛있었어요 ㅎㅎ<br/>또 구매 해 겉절이, 국, 전도 해 먹고 싶어지네요.<br/><br/>마라탕에 넣었는데 배추의 단맛이 국물에 잘 배고<br/>맛이 달아 깜놀<br/>밀페유나베 육수는 찬물에 다시마+버섯+통마늘 해서 냉장고에 하루정도 뒀어요<br/>배추 역시 마라소스에 젖어 맛이 참 좋다보니<br/>새벽에와서 신선<br/>생각보다 비쌌다.<br/><br/>쌈용 배추지만 밀페유나베도 해먹고 겉절이도 해먹고 ㅋㅋㅋ<br/>쌈용이라 크기도 작고 야들야들해서 먹기 좋았어요.<br/><br/>아삭 씹는 식감 소리 따봉!<br/>알배추가 썰어져 펼쳐있었다<br/>양이 작은편 (저녁생식먹는터라 지극히 내 주관^^)<br/>오히려 썰어져있어 한번 세척후 털어 바로 입으로 쏙<br/>육수가 다했다... <br/> 배추가 달아서 더 맛있어진 느낌<br/>존맛이었어요 굿굿<br/>" 
+---
