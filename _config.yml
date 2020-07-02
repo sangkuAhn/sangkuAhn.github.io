@@ -57,4 +57,3 @@ version: 0.8
 paginate: 
 
 plugins: 
-    - jekyll-seo-tag    
