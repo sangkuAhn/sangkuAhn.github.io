@@ -1,9 +1,9 @@
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="Content-Language" content="ko">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="naver-site-verification" content="fe73013289ae40cd9831027ca2b78448b6af9ffc" />
+	<meta charset="UTF-8">
+	<meta http-equiv="Content-Language" content="ko">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="naver-site-verification" content="fe73013289ae40cd9831027ca2b78448b6af9ffc" />
 	<meta property="og:locale" content="ko_KR">
 	<meta property="og:type" content="article"> 
 	<meta property="og:title" content="{% if page.title %}{{page.title}} - {{site.title}}{% else %}{{site.title}}{% endif %}">
@@ -14,7 +14,7 @@
 	<meta property="article:author" content="https://sangkuahn.github.io/" />
 	<meta property="article:published_time" content="{{ page.date }}" />
 	<meta property="og:description" content="{% if page.cont %}{{ page.cont | replace: '<br/>', ' ' | truncate: 160 | escape}}{% else %} {{page.description}} - {{site.description}}{% endif %}">
-    		
+
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" content="@ahnsk3939" />
 	<meta name="twitter:creator" content="@ahnsk3939">
@@ -22,36 +22,33 @@
 	<meta name="twitter:title" content="{% if page.title %}{{page.title}} - {{site.title}}{% else %}{{site.title}}{% endif %}">
 	<meta name="twitter:description" content="{% if page.cont %}{{ page.cont | replace: '<br/>', ' ' | truncate: 160 | escape}}{% else %} {{page.description}} - {{site.description}}{% endif %}">
 	<meta name="twitter:image" content="{% if page.img %}{{page.img}}{% else %}{{site.img200}}{% endif %}">
-	
+
 	<link rel="canonical" href="{{ page.url | prepend: site.url }}">
-	
+
 	<title>{% if page.title %}{{page.title}} - {{site.title}}{% else %}{{site.title}}{% endif %}</title>
 	<meta name="description" content="{% if page.cont %}{{ page.cont | replace: '<br/>', ' ' | truncate: 160 | escape}}{% else %} {{page.description}} - {{site.description}}{% endif %}">
-	
-    	<link rel="apple-touch-icon-precomposed" href="{{site.img200}}">
+
+	<link rel="apple-touch-icon-precomposed" href="{{site.img200}}">
 	<link rel="apple-touch-icon-precomposed" sizes="60x60" href="{{site.img60}}">
 	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{site.img114}}">
 	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{site.img144}}">
-	
-	
+
+
 	<!--  JQUERY -->
 	<script src="//code.jquery.com/jquery-2.1.3.min.js"></script>
 	<!-- tag -->
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.2.6/vue.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.16.0/axios.min.js"></script>
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-69920584-4"></script>
-	
-  <script src="/js/main.min.js"></script>
-	<!--  BOOTSTRAP -->	       
-  <link rel="stylesheet" href="/css/main.css">    
-  <link rel="stylesheet" href="/css/post.css"> 
-  <link href="//maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet" type="text/css">     
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-69920584-4"></script>
 
-  {% include google-search-scripts.html %}
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'UA-69920584-4');
-</script>	
+	<script src="/js/main.min.js"></script>
+	<!--  BOOTSTRAP -->	       
+	<link rel="stylesheet" href="/css/main.css">    
+	<link rel="stylesheet" href="/css/post.css"> 
+	<link href="//maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet" type="text/css">     
+
+	{% include google-search-scripts.html %}
+	<script>
+	
+	</script>	
 </head>
