@@ -8,7 +8,7 @@
 	<meta property="og:type" content="article"> 
 	<meta property="og:title" content="{% if page.title %}{{page.title}} - {{site.title}}{% else %}{{site.title}}{% endif %}">
 	<meta property="og:url" content="{{ site.url }}{{ page.url }}">		
-	<meta property="og:image" content="{% if page.img %}{{page.img}}{% else %}{{site.img_m}}{% endif %}">
+	<meta property="og:image" content="{% if page.img %}{{page.img}}{% else %}{{site.img200}}{% endif %}">
 	<meta property="og:site_name" content="AskView Best Top.100">
 	<meta property="article:publisher" content="https://sangkuahn.github.io/" />
 	<meta property="article:author" content="https://sangkuahn.github.io/" />
@@ -26,10 +26,10 @@
 	<title>{% if page.title %}{{page.title}} - {{site.title}}{% else %}{{site.title}}{% endif %}</title>
 	<meta name="description" content="{% if page.cont %}{{ page.cont | replace: '<br/>', ' ' | truncate: 160 | escape}}{% else %} {{page.description}} - {{site.description}}{% endif %}">
 	
-    	<link rel="apple-touch-icon-precomposed" href="https://i.ibb.co/10Rv9k8/ask-view-logo.jpg">
-	<link rel="apple-touch-icon-precomposed" sizes="60x60" href="https://i.ibb.co/10Rv9k8/ask-view-logo.jpg">
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://i.ibb.co/10Rv9k8/ask-view-logo.jpg">
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://i.ibb.co/10Rv9k8/ask-view-logo.jpg">
+    	<link rel="apple-touch-icon-precomposed" href="{{site.img200}}">
+	<link rel="apple-touch-icon-precomposed" sizes="60x60" href="{{site.img60}}">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{site.img114}}">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{site.img144}}">
 	
 	
 	<!--  JQUERY -->
