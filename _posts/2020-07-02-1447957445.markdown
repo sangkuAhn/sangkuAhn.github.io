@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "쌈용 맛배추, 400g, 1팩" 
+description: 쌈용 맛배 ..
+date: 2020-07-02 16:13:04 
+img: https://static.coupangcdn.com/image/retail/images/2020/04/09/16/6/72ab2fa6-6ce1-4f35-b3e3-8a7b8df987ea.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1447957445&itemId=2494460909&vendorItemId=70487659090&traceid=V0-113-7cc68fbe1421da51 
+categories: [1012] 
+color: FF6F00 
+price: 3480 
+author: Ask View Shop 
+---
+ 
