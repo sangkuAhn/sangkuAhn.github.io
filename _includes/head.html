@@ -13,7 +13,7 @@
 	<meta property="article:publisher" content="https://sangkuahn.github.io/" />
 	<meta property="article:author" content="https://sangkuahn.github.io/" />
 	<meta property="article:published_time" content="{{ page.date }}" />
-	<meta name="og:description" content="{% if page.cont %}{{ page.cont | replace: '<br/>', ' ' | truncate: 160 | escape}}{% else %} {{page.description}} - {{site.description}}{% endif %}">
+	<meta property="og:description" content="{% if page.cont %}{{ page.cont | replace: '<br/>', ' ' | truncate: 160 | escape}}{% else %} {{page.description}} - {{site.description}}{% endif %}">
     	
 	<meta name="twitter:card" content="summary_large_image"/>
 	<meta name="twitter:title" content="{% if page.title %}{{page.title}} - {{site.title}}{% else %}{{site.title}}{% endif %}">
