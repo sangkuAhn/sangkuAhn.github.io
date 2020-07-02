@@ -7,8 +7,8 @@
 	<meta property="og:type" content="website"> 
 	<meta property="og:title" content="{% if page.title %}{{page.title}} - {{site.title}}{% else %}{{site.title}}{% endif %}">
 	<meta name="og:description" content="{% if page.cont %}{{ page.cont | replace: '<br/>', ' ' | truncate: 160 | escape}}{% else %} {{page.description}} - {{site.description}}{% endif %}">
-	<meta property="og:image" content="{% if page.img %}{{page.img}} - {{site.img}}{% else %}{{site.img}}{% endif %}">
-	<meta property="og:url" content="https://sangkuahn.github.io">	
+	<meta property="og:image" content="{% if page.img %}{{page.img}}{% else %}{{site.img}}{% endif %}">
+	<meta property="og:url" content="{% if site.url %}{{site.url}}{% else %}{{site.url}}{% endif %} ">	
     <meta name="description" content="{% if page.cont %}{{ page.cont | replace: '<br/>', ' ' | truncate: 160 | escape}}{% else %} {{page.description}} - {{site.description}}{% endif %}">
     <title>{% if page.title %}{{page.title}} - {{site.title}}{% else %}{{site.title}}{% endif %}</title>
 	<!--  JQUERY -->
