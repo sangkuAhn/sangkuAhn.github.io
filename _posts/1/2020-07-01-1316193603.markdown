@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "콩 남성 데일리 심플 스니커즈" 
+description: 콩 남성  ..
+date: 2020-07-02 07:44:20 
+img: https://static.coupangcdn.com/image/retail/images/2020/02/27/16/0/376e3a45-a681-472c-9ed4-1350399091d3.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1316193603&itemId=2335071240&vendorItemId=70331719244&traceid=V0-113-1be47bff39961fb9 
+categories: [1007] 
+color: 43A047 
+price: 19800 
+author: Ask View Shop 
+cont:  "280 이 온것 같아요ㅜ 밖에서 신어서 반품도 안되고ㅜ<br/>9,900원짜리 신발도 이러지는 않더구만 ... <br/><br/>그리고 뒷굽이 왜 높죠? 키높이 신발도 아닌데 오래 걷기 힘들어요<br/>디자인은 예쁜데 그외 모든건 아쉬움이 남네요<br/>바닥은 쿠션이라고는 전혀없고 돌을 깔아놓은듯<br/>통풍은 아예 안되서 30분 신었는데 발에 땀이 차기 시작합니다<br/>통풍이 안되서 발에 무좀걸리겠어요<br/>포장상태 엉망 비닐 봉투에 담아, 신발안에도 80년대처럼  종이 구겨서 넣어놓고 ㅠㅠ<br/>" 
+---

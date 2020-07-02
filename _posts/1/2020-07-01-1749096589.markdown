@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "케즈 챔피온 컨버스화 62135" 
+description: 케즈 챔피 ..
+date: 2020-07-02 07:44:20 
+img: https://static.coupangcdn.com/image/retail/images/2020/04/17/13/6/2cad0817-024a-44c4-ae9d-6f95bc146a55.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1749096589&itemId=2978732144&vendorItemId=70546350969&traceid=V0-113-6feb3e7b67da5abf 
+categories: [1007] 
+color: A6A6A6 
+price: 30810 
+author: Ask View Shop 
+cont:  "사이즈가 크다해서 한칫수 작게 샀는데 딱맞고 좋습니다^^<br/>일단 다른 모델 상품평을보니 정사이즈보다 작게 주문하라고해서 한치수 작게 고를까 두치수 작게 고를까 엄청고민 되었어요.<br/> 제가 발볼이 많이 넓어 신발을 조금 크게 신어햐해서요.<br/> 근데 발만 커보임 먼가 이상해 보이더라구요... <br/> 이거저거 검색해보다 첨알게된 브랜드.<br/>.<br/>ㅎ 완전 이쁘네요 깔끔하고^^ 결론은 두치수 작게 선택했는데 작지 않아요.<br/> 오히려 걸을때 살짝 헐거워요 벗겨질정돈 아니고 괜찮습니다.<br/> 글고 발바닥도 쿠션이 있어요 보통 스니커즈는 딱딱한 밑창이던데 요건 적당히 몽글몽글 담에 눈독들인 다른 모델도 구입 예정!!<br/>평소 230신으시는 분이라면 한치수 작게 구매하셔요.<br/><br/>" 
+---

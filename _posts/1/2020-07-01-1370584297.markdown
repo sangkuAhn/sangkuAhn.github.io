@@ -9,5 +9,5 @@ categories: [1007]
 color: BF360C 
 price: 37720 
 author: Ask View Shop 
+cont:  "마음에 들게 잘샀어요<br/>발도 편하고 배송은 두말할거 없이 빠릅니다!<br/>" 
 ---
- 
