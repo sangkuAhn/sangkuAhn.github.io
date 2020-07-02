@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "UA 언디나이어블 4.0 미디엄 더플 백 가방 1342657-001" 
+description: UA 언디 ..
+date: 2020-07-03 06:22:48 
+img: https://static.coupangcdn.com/image/vendor_inventory/4fe8/5649d196669ae2e68c710168e73016f5fee4648b1ecf15761e336d73a9bc.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1704411081&itemId=2900500039&vendorItemId=70889444537&traceid=V0-113-6db8b24261d49026 
+categories: [1004] 
+color: FF1744 
+price: 45500 
+author: Ask View Shop 
+---
+ 
