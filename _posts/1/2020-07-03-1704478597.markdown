@@ -9,5 +9,5 @@ categories: [1002]
 color: F361A6 
 price: 18000 
 author: Ask View Shop 
+cont:  "디자인이 예쁘네요<br/>부드러운 소재입니다<br/>생각보다... <br/>얇아요.<br/>.<br/>속이 조금보임... <br/><br/>어깨 배색이 되어있어서<br/>조금은 얇구요<br/>" 
 ---
- 
