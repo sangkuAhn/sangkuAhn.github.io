@@ -9,5 +9,5 @@ categories: [1007]
 color: F361A6 
 price: 22000 
 author: Ask View Shop 
+cont:  "ㅋㅋ<br/>무슨 말이 필요하겠음?<br/>사이즈 딱맞네요 막신기 좋은거같아요<br/>역시 크록스!<br/>" 
 ---
- 
