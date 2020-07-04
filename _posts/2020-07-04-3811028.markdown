@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "인텍스 프레임 풀장 덮개 커버" 
+description: 인텍스 프 ..
+date: 2020-07-04 16:11:20 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2016/05/26/19/8/0e65cddc-6439-4ce4-a576-97a6b913e885.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=3811028&itemId=18754620&vendorItemId=3027531830&traceid=V0-113-d5dd6479a79567e5 
+categories: [1020] 
+color: BF360C 
+price: 19000 
+author: Ask View Shop 
+---
+ 
