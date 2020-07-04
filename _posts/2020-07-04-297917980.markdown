@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "UA 언디나이어블 색팩 가방 1261954-001" 
+description: UA 언디 ..
+date: 2020-07-05 06:37:12 
+img: https://static.coupangcdn.com/image/vendor_inventory/ec4b/1afdf0062bfb0b312319c6673b16e9e9ce922e74bd9310b41d67f2bf1e8f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=297917980&itemId=938256437&vendorItemId=70889445289&traceid=V0-113-df69b2350a2c3c07 
+categories: [1006] 
+color: 1294AB 
+price: 17500 
+author: Ask View Shop 
+---
+ 
