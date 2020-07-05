@@ -9,5 +9,5 @@ categories: [1003]
 color: F361A6 
 price: 7730 
 author: Ask View Shop 
+cont:  "받아보니 더 귀여워요^^<br/>아이들이 엄청 좋아해요<br/>좋아요<br/>" 
 ---
- 
