@@ -9,5 +9,5 @@ categories: [1002]
 color: F361A6 
 price: 25000 
 author: Ask View Shop 
+cont:  "다만 착용시 더운감이 있네요<br/>배송은 구매 다음날 도착했어요<br/>원단부드럽고좋습니다<br/>재질이 부드러워서 좋네요<br/>" 
 ---
- 

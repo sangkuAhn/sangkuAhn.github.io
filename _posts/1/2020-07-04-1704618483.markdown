@@ -9,5 +9,5 @@ categories: [1007]
 color: A566FF 
 price: 31500 
 author: Ask View Shop 
+cont:  "쿠션이 너무 좋아서 사무실에서 신기 좋네요 ㅎㅎ<br/>" 
 ---
- 

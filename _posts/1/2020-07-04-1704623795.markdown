@@ -9,5 +9,5 @@ categories: [1007]
 color: 5A8DF3 
 price: 11600 
 author: Ask View Shop 
+cont:  "가격 완전 저렴<br/>매우 만족합니다.<br/>.<br/><br/>사이즈도 정사이즈.<br/>.<br/>딱 맞아요.<br/>.<br/><br/>세일 할때  세뚜로 구매했네요<br/>여름에 시원하게 신을수 있을꺼 같아요<br/>적당한 배송.<br/>.<br/><br/>" 
 ---
- 

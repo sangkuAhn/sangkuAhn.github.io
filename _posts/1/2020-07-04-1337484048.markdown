@@ -9,5 +9,5 @@ categories: [1007]
 color: 353535 
 price: 13900 
 author: Ask View Shop 
+cont:  "굿<br/>볼이 좁아요.<br/> 한 사이즈 크게 샀는데도.<br/> ㅠㅠ<br/>한치수크게신는게 좋을꺼 같네요<br/>" 
 ---
- 

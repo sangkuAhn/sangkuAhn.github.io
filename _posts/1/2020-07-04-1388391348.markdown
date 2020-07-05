@@ -9,5 +9,5 @@ categories: [1007]
 color: FF1744 
 price: 56100 
 author: Ask View Shop 
+cont:  "만족허요<br/>미안할 정도의 저렴한 가격대비에 좋은 재품입니다<br/>신랑이 가볍고 너무 좋다네요<br/>" 
 ---
- 
