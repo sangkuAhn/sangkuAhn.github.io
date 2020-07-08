@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "푸딩팩토리 하이클래스 시카고 치즈피자, 핫치킨, 370g" 
+description: 푸딩팩토리 ..
+date: 2020-07-08 15:12:34 
+img: https://static.coupangcdn.com/image/vendor_inventory/bdd8/0f8f4c00c4e2670244d625cf2db1c29550f44c372b09bdfd01e16744be8e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=219618016&itemId=682354037&vendorItemId=4754435327&traceid=V0-113-04a093e2cfbabeea 
+categories: [1012] 
+color: 7E57C2 
+price: 5900 
+author: Ask View Shop 
+---
+ 
