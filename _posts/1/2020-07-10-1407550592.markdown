@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "메탈 유핀 비녀" 
+description: 메탈 유핀 ..
+date: 2020-07-10 14:51:13 
+img: https://static.coupangcdn.com/image/vendor_inventory/2cfd/aa1d0b87f7c56766c207a65af128de8a3f77361410b87fed7ea3e8a1c0e8.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1407550592&itemId=2443403719&vendorItemId=70437138965&traceid=V0-113-0dc32a6efc76fb00 
+categories: [1008] 
+color: 5A8DF3 
+price: 7900 
+author: Ask View Shop 
+cont:  "너무 맘에 들어요 간편히 쓰기도 좋고 예뻐요 예쁘게 포장도 해주시니 더 좋네요.<br/><br/>너무너무 실속있고 좋아요  사실 반신반의 인데 뒷모습이 맘에 들어 질러봤는데택배비 까지 아까워서 그냥 믿고 질러서 택배비를 아꼈죠근데 현명한 선택이었네요<br/>핀하나 주문했는데,,너무나 고급스러운 선믈을받은기분이에요 여러군데에서 핀종류 사봤지만,,판매자님처럼 포장해주신곳은 첨이에요 너무 기분좋은 쇼핑에 감사드립니다 ^^<br/>" 
+---

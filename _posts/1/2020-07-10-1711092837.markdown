@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아이세움 흔한남매 5" 
+description: 아이세움  ..
+date: 2020-07-10 16:03:20 
+img: https://static.coupangcdn.com/image/vendor_inventory/594b/7f6328786c358f3a88989a8e4c2fac22d0216652197b37503c46af683214.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1711092837&itemId=2912219284&vendorItemId=70900924814&traceid=V0-113-fb25de71a6010536 
+categories: [1019] 
+color: BD24A9 
+price: 10800 
+author: Ask View Shop 
+cont:  "마트보다 싸고 냐하부채까지 있어서 더 좋아하네요마침 TV에서 냐하부채들고 흔한남매하고 있네요^^<br/>별점을 주는것도 아깝네요.<br/> 이거 소비자 기만 아닌가요? 냐햐부채 준다고 해서 일부러 구매한건데 왜 쓰레기같은 사은품이 온건지 모르겠네요<br/>부채 준다고해서 여기서 구매했는데 왜 부채가  아니고 수첩이 오나요 미리 말을 해주던지 아니면 수첩준다고 바꿔  놓던지 해야할거 아닙니까<br/>" 
+---
