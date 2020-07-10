@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "캐럿 여성 린넨 와이드 팬츠" 
+description: 캐럿 여성 ..
+date: 2020-07-11 06:01:13 
+img: https://static.coupangcdn.com/image/retail/images/60716230603431-051d9fb7-a470-48ab-97e6-279ff378fdc0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1740777242&itemId=2963668346&vendorItemId=70952118383&traceid=V0-113-5555b6cd6c86a6d7 
+categories: [1001] 
+color: f44336 
+price: 14490 
+author: Ask View Shop 
+---
+ 

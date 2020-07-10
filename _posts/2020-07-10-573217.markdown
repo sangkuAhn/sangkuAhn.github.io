@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "수박 수영장:안녕달 그림책, 창비" 
+description: 수박 수영 ..
+date: 2020-07-11 08:03:48 
+img: https://static.coupangcdn.com/image/vendor_inventory/1a3b/d2b2bc4455763a91466bd8437b9d3d482fbc6158f5c8590aeb95018656e0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=573217&itemId=2010189&vendorItemId=3137242063&traceid=V0-113-f0324bb5d2b875cb 
+categories: [1019] 
+color: FF1744 
+price: 10800 
+author: Ask View Shop 
+---
+ 

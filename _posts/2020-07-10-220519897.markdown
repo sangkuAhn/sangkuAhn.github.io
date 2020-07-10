@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "삼성전자 세라믹 전자레인지 화이트 23L 버튼식" 
+description: 삼성전자  ..
+date: 2020-07-11 08:18:12 
+img: https://static.coupangcdn.com/image/retail/images/65040552623408-aafe4751-36ad-4063-9f43-88da5e57f97e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=220519897&itemId=687281623&vendorItemId=3106107464&traceid=V0-113-99ec1223e67e1dff 
+categories: [1021] 
+color: 43A047 
+price: 85500 
+author: Ask View Shop 
+---
+ 

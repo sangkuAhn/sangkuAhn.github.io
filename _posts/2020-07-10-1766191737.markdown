@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "좀비 아이, 위즈덤하우스" 
+description: 좀비 아이 ..
+date: 2020-07-11 08:03:48 
+img: https://static.coupangcdn.com/image/retail/images/2020/07/01/11/7/54ba049d-d73b-4980-af39-b5f7da373ca2.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1766191737&itemId=3007393032&vendorItemId=70995608716&traceid=V0-113-eba57bfb822d96cb 
+categories: [1019] 
+color: 03A9F4 
+price: 10800 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "푸딩팩토리 새우튀김 300g, 버터플라이 새우튀김" 
+description: 푸딩팩토리 ..
+date: 2020-07-11 07:13:21 
+img: https://static.coupangcdn.com/image/vendor_inventory/a274/bb8d4c61d0a72c5664ddcca743e8f69005547c6b5d76e0bfa7f8474c0206.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1795796932&itemId=3055109401&vendorItemId=4758330764&traceid=V0-113-ec7ff06381c50c1c 
+categories: [1012] 
+color: 9E9D24 
+price: 5500 
+author: Ask View Shop 
+---
+ 
