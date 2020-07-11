@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "여성용 링클프리 오픈 카라 반팔 셔츠" 
+description: 여성용 링 ..
+date: 2020-07-12 06:01:14 
+img: https://static.coupangcdn.com/image/retail/images/2020/04/23/15/0/046e9720-9a90-46b2-b1bf-bf020ebd559c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1504858956&itemId=2583680035&vendorItemId=70575893277&traceid=V0-113-71c42819238f8159 
+categories: [1001] 
+color: 353535 
+price: 17800 
+author: Ask View Shop 
+---
+ 

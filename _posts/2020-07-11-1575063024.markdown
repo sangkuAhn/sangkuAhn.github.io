@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "펭수 치카치카 한번에 양치컵, 혼합색상, 2개" 
+description: 펭수 치카 ..
+date: 2020-07-12 07:34:55 
+img: https://static.coupangcdn.com/image/retail/images/2020/05/13/18/8/1a2348c7-e918-4d17-9e98-473a983f070c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1575063024&itemId=2693239368&vendorItemId=70683671589&traceid=V0-113-6ea038fa35e69c9f 
+categories: [1015] 
+color: 5A8DF3 
+price: 5820 
+author: Ask View Shop 
+---
+ 

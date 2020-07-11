@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "곰곰 새콤달콤 대석 자두, 1kg, 1팩" 
+description: 곰곰 새콤 ..
+date: 2020-07-12 07:13:17 
+img: https://static.coupangcdn.com/image/retail/images/249933291004101-dafc3718-b1a0-4b1b-904b-ab1ac080bf6a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1683871134&itemId=2868229676&vendorItemId=70857453223&traceid=V0-113-b2411814452e4ddd 
+categories: [1012] 
+color: 4374D9 
+price: 8800 
+author: Ask View Shop 
+---
+ 

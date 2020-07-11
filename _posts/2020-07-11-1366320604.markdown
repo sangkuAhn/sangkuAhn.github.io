@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "통굽 스니커즈 FT3960" 
+description: 통굽 스니 ..
+date: 2020-07-12 06:44:29 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/18/16/3/4d3e95a6-2cee-4bf1-86cd-4d2be95e60d6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1366320604&itemId=2398398051&vendorItemId=70393428871&traceid=V0-113-3fac835409cd9605 
+categories: [1007] 
+color: D9418C 
+price: 17900 
+author: Ask View Shop 
+---
+ 

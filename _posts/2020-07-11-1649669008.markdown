@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "모두의치킨 후라이드 크리스피치킨, 900g, 2팩" 
+description: 모두의치킨 ..
+date: 2020-07-12 07:13:17 
+img: https://static.coupangcdn.com/image/vendor_inventory/dd80/4dfcd26af3b5d63b53bea7daaf44218e1dea5fcf1a8df341a38ce8bfc5dd.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1649669008&itemId=2810708381&vendorItemId=70799904536&traceid=V0-113-a6dea48469201438 
+categories: [1012] 
+color: BF360C 
+price: 18900 
+author: Ask View Shop 
+---
+ 
