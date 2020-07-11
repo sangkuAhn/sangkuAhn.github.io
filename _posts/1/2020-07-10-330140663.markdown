@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "새콤달콤 반전스팽글 미니 크로스백" 
+description: 새콤달콤  ..
+date: 2020-07-11 06:30:01 
+img: https://static.coupangcdn.com/image/retail/images/2019/10/31/16/3/2bc91cb9-38a8-4909-8d19-e62dd3d83573.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=330140663&itemId=1055328017&vendorItemId=5526803020&traceid=V0-113-baa876aeb48dc460 
+categories: [1005] 
+color: 006064 
+price: 9900 
+author: Ask View Shop 
+cont:  "미니사이즈라해서 많이 작을줄 알았는데 생각보다 작지않아서 다행이었어요아이가 고른건데 받아보고 너무 좋아하네요^^<br/>색감도 사진 그대로예요<br/>오! 입이 떡 벌어지게 이쁘네요<br/>우리딸이 유치원 갈때까지 꼭 메고 가네요<br/>튼튼해보이고 냄새도 안 나요<br/>" 
+---

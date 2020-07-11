@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "캐럿 여성 린넨 와이드 팬츠" 
+description: 캐럿 여성 ..
+date: 2020-07-11 06:01:13 
+img: https://static.coupangcdn.com/image/retail/images/60716230603431-051d9fb7-a470-48ab-97e6-279ff378fdc0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1740777242&itemId=2963668346&vendorItemId=70952118383&traceid=V0-113-5555b6cd6c86a6d7 
+categories: [1001] 
+color: f44336 
+price: 14490 
+author: Ask View Shop 
+cont:  "168인데 길이도 딱 좋고 재질도 너무 좋아서 하나더 주문하려구요.<br/>.<br/><br/>가격대비최고입니다.<br/><br/>오트밀 블랙 두개 다 구매했어요.<br/><br/>오트밀은 속옷색깔만 신경쓰면 될거같아요.<br/>강추<br/>옷이쫌무거울수도있는ㄷ데 전좋아요<br/>졸 짱편함 블랙입어보고 오트밀도주문했으요<br/>키171인데 길이도 괜찮아요.<br/><br/>핏도 이쁩니다 모델이 입으거랑 똑같아요<br/>" 
+---

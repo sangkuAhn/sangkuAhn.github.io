@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "폴햄 남성용 프레시 이지쿨 숏 팬츠 PHA2PH1052, BK" 
+description: 폴햄 남성 ..
+date: 2020-07-11 06:08:25 
+img: https://static.coupangcdn.com/image/retail/images/96296597143494-28aff121-5bbb-4e84-afda-832841dc36b8.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1630786791&itemId=2781650739&vendorItemId=70760677098&traceid=V0-113-536eb34c9a3d0493 
+categories: [1002] 
+color: F15F5F 
+price: 17900 
+author: Ask View Shop 
+cont:  "가격대비 디자인이며<br/>시원한 소재에 구김도 잘 없을 것 같고 남편키가 170이라 길이도 적당합니다<br/>시원해 보여 참좋아요<br/>여름철에 입기좋게 원단도 얇고 시원합니다.<br/> 밴딩처리 되어있어서 착용감도 좋네요.<br/><br/>" 
+---

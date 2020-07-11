@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "빅사이즈클럽 PB 캐릭터 반팔티" 
+description: 빅사이즈클 ..
+date: 2020-07-11 06:08:25 
+img: https://static.coupangcdn.com/image/retail/images/2020/04/16/20/8/df685cda-d7d3-415a-b0e8-5d557d7c7d6d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1478183805&itemId=2539590470&vendorItemId=70482149260&traceid=V0-113-f36d48754ddc87b9 
+categories: [1002] 
+color: A566FF 
+price: 18500 
+author: Ask View Shop 
+cont:  "믿고 사는 빅사이즈 클럽 이에영!!!!!<br/>배송도 빠르고 포장상태도 좋고 사이즈는 다행히 잘 맞아서 좋아요 잘입을께요<br/>저도 남자친구도 오버핏으로 입는걸 너무 좋아해서ㅠㅠ 최고에요 진짜!!!!!!<br/>품질은 일반 반팔티로 보시면 되시고  상품착용 후 밖에나가서 아는분이 뒤에서 보면 야톰!!! 하고 부를거에요 ㅎ<br/>" 
+---
