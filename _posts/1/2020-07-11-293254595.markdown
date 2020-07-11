@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "가온 자동차 코일매트 확장형, 추가정보란 차종코드번호 및 색상입력 필수" 
+description: 가온 자동 ..
+date: 2020-07-11 15:56:26 
+img: https://static.coupangcdn.com/image/vendor_inventory/291f/234a4ffd545ea2b60d5fcc8d137daa8f89025d0773551add7dea113d909c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=293254595&itemId=926029488&vendorItemId=5301621196&traceid=V0-113-0ffa3752261d69a1 
+categories: [1018] 
+color: FF1744 
+price: 28900 
+author: Ask View Shop 
+cont:  "가성비,,짱<br/>기존 순정보다 작고  확장형이 아님.<br/> 재단도 깔끔하지 않고 마감도 아예 없고 왼발 두는 곳은 슥슥하고 움직임.<br/> 저렴한 값 합니다.<br/><br/>댓글보니 차종마다 차이가 있는 듯 하네요<br/>이번엔  정말싸게구입햇어요<br/>작년에는7만원  정도주고삿는데<br/>잘 맞네요 비슷한 가격의 다른 회사 제품에 비해 풋레스트포함 모든 부분이 제일 잘 맞습니다 다만 브라운 컬러가 생각보다 덜 브라운브라운 해서 다음에 다시 그레이로 해야겄어요<br/>저는 두번째 구매인데 (제네시스g70)두번 다 사이즈가 완벽히<br/>" 
+---
