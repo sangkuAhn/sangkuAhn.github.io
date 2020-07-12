@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "24섹션 파일홀더 아코디언파일, 혼합색상, 1개" 
+description: 24섹션  ..
+date: 2020-07-12 08:18:09 
+img: https://static.coupangcdn.com/image/retail/images/2020/04/29/16/9/23f437ef-67be-438d-872a-bea1d9404de5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1548651357&itemId=2650590776&vendorItemId=70641415952&traceid=V0-113-db9f4549a018337e 
+categories: [1021] 
+color: 9E9D24 
+price: 13900 
+author: Ask View Shop 
+cont:  "1칸에 a4용지 50개?!  넘개도 들아가고요.<br/><br/>24칸 이라 사용이 엄청 편합니다.<br/> 인덱스 스티커도 있네요 ^^  ㅎㅎ 회사 서류정리용도로 쓰고있으며 종류별로 분류해서 잘 활용할수 있어서 굿 입니다 ^^  굿 아이디어 상품임을 인증합니다 ^^<br/>많이 파세요<br/>분리가되어 찾기도 편해요  강추입니다.<br/><br/>사진 그대로 색상 예쁘고 튼튼한거 같아요.<br/> 바로 정리해봤는데 너무 좋습니다.<br/> 좋은제품 감사합니다.<br/><br/>착한가격에 잘 샀슫니다.<br/><br/>" 
+---
