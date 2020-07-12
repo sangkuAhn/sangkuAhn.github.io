@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "탐사베이직 수, 2L, 12개" 
+description: 탐사베이직 ..
+date: 2020-07-13 07:13:15 
+img: https://static.coupangcdn.com/image/retail/images/70889675328826-748b9e20-e581-4712-93fb-922a86b19805.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1767600418&itemId=3009823191&vendorItemId=70998027072&traceid=V0-113-f10410bb040b0b37 
+categories: [1012] 
+color: A57F92 
+price: 5690 
+author: Ask View Shop 
+---
+ 
