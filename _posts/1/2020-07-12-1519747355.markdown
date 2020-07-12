@@ -9,5 +9,5 @@ categories: [1005]
 color: A566FF 
 price: 35640 
 author: Ask View Shop 
+cont:  "굽이 있어서 편하다고 해요 핑크에 프릴이 달려서<br/>저학년 여자아이들은 좋아할수밖에 없는  디자인인것 같습니다^^<br/>" 
 ---
- 

@@ -9,5 +9,5 @@ categories: [1006]
 color: 5A8DF3 
 price: 9000 
 author: Ask View Shop 
+cont:  "괜찮은거 같아요<br/>그냥 편하게 입을꺼 같아요.<br/><br/>제발 사이즈 좀 정확히 적어주세요.<br/>치마 길이 표기 39 실측 37쎈티 짮은 편임 알았다면 안구매<br/>" 
 ---
- 
