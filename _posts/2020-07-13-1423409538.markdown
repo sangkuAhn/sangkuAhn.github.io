@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "일동후디스 초유플러스 우유, 930ml, 2개" 
+description: 일동후디스 ..
+date: 2020-07-13 15:13:10 
+img: https://static.coupangcdn.com/image/retail/images/2020/04/03/16/1/6db75b50-9c3c-46bf-bd93-79445a4e8b1e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1423409538&itemId=2462454804&vendorItemId=70455931067&traceid=V0-113-0a617c9622d4ed2f 
+categories: [1012] 
+color: 353535 
+price: 5640 
+author: Ask View Shop 
+---
+ 
