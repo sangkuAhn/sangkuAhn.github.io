@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "GUESS 여성 오리지날 반팔 티셔츠 YK2K9405" 
+description: GUESS ..
+date: 2020-07-13 14:08:25 
+img: https://static.coupangcdn.com/image/vendor_inventory/418f/e8843866b30ef2a56d9199c6e8f542e0cc51a66418b0a59ac95cb090b989.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1291273374&itemId=2302457577&vendorItemId=70299374879&traceid=V0-113-2d516867117ea118 
+categories: [1002] 
+color: 4374D9 
+price: 14000 
+author: Ask View Shop 
+cont:  "더워서 그런지 허리부분이 노래짐<br/>이뻐용ㅎ 흰티에 청바지 게스는진리<br/>" 
+---

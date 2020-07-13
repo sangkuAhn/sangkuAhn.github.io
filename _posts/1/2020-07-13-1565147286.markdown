@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "크로스 스트랩 심플 샌들" 
+description: 크로스 스 ..
+date: 2020-07-13 14:44:23 
+img: https://static.coupangcdn.com/image/retail/images/2020/05/08/12/7/385303d0-17c7-475d-91bd-5f4f27394a96.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1565147286&itemId=2676287105&vendorItemId=70666829361&traceid=V0-113-014f12e578ed4b58 
+categories: [1007] 
+color: 9E9D24 
+price: 9900 
+author: Ask View Shop 
+cont:  "240신는데 245시켰어요 근데도 작네요 뒷꿈치가 좀 튀어나와요 9그냥 저보다 발 사이즈 작은 사람 드려야겠어요 <br/>괜찮아여.<br/>편하고 기대안했는데 잘신을것같아여<br/>앞쪽끈이 좀 짝짝으로 붙어잇어서 새끼발까락 한쪽이 자꾸 밖으로 삐져나가네요ㅜㅜ 그거말구 신발은 예쁜구 편한데 ㅜ<br/>" 
+---
