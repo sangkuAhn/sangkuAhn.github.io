@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "SH 서현 헤리 레터링 라우렌 롱 트임 원피스" 
+description: SH 서현 ..
+date: 2020-07-13 06:01:14 
+img: https://static.coupangcdn.com/image/vendor_inventory/f0f7/1e45bbcbd7d3759ed59d337b8c2e3fffd212745c2842607ed0ce8f46d060.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1765319643&itemId=3005902438&vendorItemId=71064002825&traceid=V0-113-16eb0cd897cb39e9 
+categories: [1001] 
+color: 43A047 
+price: 8600 
+author: Ask View Shop 
+cont:  "다른 색이 있음 또 사고 싶네요<br/>소재가  생각헜던것보다 훨씬 좋네요<br/>소재가 부드럽고 너무좋아요<br/>소재도 가볍고 시원하고 정말 좋습니다.<br/>.<br/><br/>이가격에 이렇게 편안함.<br/>.<br/> 어디에도 없을듯<br/>이가격이 맞나 싶을정도네요<br/>정말 예쁘고 맘에 들어요<br/>" 
+---

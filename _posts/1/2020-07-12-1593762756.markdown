@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "엔비룩 포켓 코튼 롱 원피스" 
+description: 엔비룩 포 ..
+date: 2020-07-13 06:01:14 
+img: https://static.coupangcdn.com/image/retail/images/2020/05/18/10/3/2773b440-6d6c-43e0-b319-df5b507bd1d2.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1593762756&itemId=2722944462&vendorItemId=5132798729&traceid=V0-113-d403383934b4e150 
+categories: [1001] 
+color: A566FF 
+price: 20270 
+author: Ask View Shop 
+cont:  "골반이좀있는분은  스타일안살듯  참고하세요<br/>싸이즈는 5566정도가능할듯 가슴사이즈큰편이거나<br/>제품 아주좋아요  이제품똑같은거 다른데서 더비싸게팔던데 여기가훨씬 싸네요  택배도 대한통운이라 안심할수있고<br/>" 
+---
