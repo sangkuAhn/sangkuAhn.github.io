@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "애나프린세스 헤어밴드4종 세트" 
+description: 애나프린세 ..
+date: 2020-07-14 06:15:40 
+img: https://static.coupangcdn.com/image/retail/images/2020/05/11/10/7/65776de5-70e2-4632-bf1d-b60a85cde9c9.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1578463200&itemId=2698965948&vendorItemId=70689356736&traceid=V0-113-f887d97e190d2e7b 
+categories: [1003] 
+color: FF1744 
+price: 19800 
+author: Ask View Shop 
+cont:  "10개월아기 머리작고 숱없어서 산ㅋㅋㅋㅋ잘늘어나서 좋아요 이뻐요<br/>재질 괜찮아요<br/>" 
+---

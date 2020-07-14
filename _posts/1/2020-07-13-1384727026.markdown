@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "플리플랍 사각 쪼리 sn012" 
+description: 플리플랍  ..
+date: 2020-07-14 06:44:27 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/20/15/2/2bcd06a5-f289-4dee-96ad-610dbd55b7cb.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1384727026&itemId=2419498163&vendorItemId=70413681280&traceid=V0-113-75a46e69cacc5acf 
+categories: [1007] 
+color: f44336 
+price: 8900 
+author: Ask View Shop 
+cont:  "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ발에 땀이많은 제탓,,,^^<br/>가엾은 새끼 발가락이 자꾸 탈출을 시도하지만<br/>곰발이지만 쪼리라서 그냥 정사이즈시켰는데<br/>곰발인 제 탓이지 신발은 아주 예쁘고 튼튼하고 편하네용!<br/>딱딱한 일자바닥이라 걸을때 어떨지.<br/>.<br/><br/>딸아인 240 그나마 저보단 날씬이 발<br/>로켓 배송 상품이 아닌데 주문 다음날 바로왔네요❣❣<br/>로켓배송으로 주문했어요.<br/><br/>발에 땀나거나 더우면 발바닥이랑 붙는현상이있네욬ㅋㅋㅋ<br/>보기엔 튼튼하던데... <br/><br/>빠른배송 감사합니더!<br/>앞부분이 스퀘어라 더 이쁜듯 합니다!<br/>애나멜 재질?이에요 (빤딱빤딱)<br/>여행가는 딸이 급 필요하다해서<br/>여행가서 끈떨어지진 않겠죠?<br/>일단 착화샷올립니다.<br/><br/>잘 구슬려서 신발위에 안착시키면 잘 맞습니다ㅎㅎ<br/>잘 맞네용!!!!<br/>저는 235 발볼이 넓은 못난이발<br/>저렴하게구매 좋니요<br/>편하고 가볍게 신기좋을듯합니다!<br/>" 
+---

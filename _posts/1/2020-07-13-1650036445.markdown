@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "난닝구 라티모 플라워 나시 원피스" 
+description: 난닝구 라 ..
+date: 2020-07-14 06:01:14 
+img: https://static.coupangcdn.com/image/retail/images/2020/06/01/15/6/1da19777-21ed-486d-b86a-b5ff700daa33.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1650036445&itemId=2811254503&vendorItemId=70800802048&traceid=V0-113-48dc26bc59dfcf27 
+categories: [1001] 
+color: D9418C 
+price: 19000 
+author: Ask View Shop 
+cont:  "굿.<br/> 이뻐요 시원해 보여요<br/>다 사진 그대루에요.<br/><br/>싸이즈가  없어서 고민했는데66까지는 루즈핏스럽게 입을꺼같아요.<br/><br/>임부복 느낌 아니에요<br/>쿠팡에 같은 디저인 같은 드레스인데 더저렴.<br/> 이건.<br/>브랜드가 난닝구라고 두배 비쌈<br/>허걱 뒷통수 맞은 느낌<br/>" 
+---

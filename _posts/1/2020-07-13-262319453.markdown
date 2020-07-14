@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "뽀로로 장화" 
+description: 뽀로로 장 ..
+date: 2020-07-14 06:30:04 
+img: https://static.coupangcdn.com/image/retail/images/2019/07/24/22/2/70302913-5065-4e71-a221-23ca38472761.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=262319453&itemId=821231847&vendorItemId=5152242381&traceid=V0-113-5c1130b192e2291e 
+categories: [1005] 
+color: 1294AB 
+price: 12250 
+author: Ask View Shop 
+cont:  "27개월 아기<br/>가성비 갑.<br/> 마감처리도 넘 괜찮고용<br/>너무너무 귀여워요͙͙͙<br/>발 140<br/> -150 애매한 사이즈인데 150 널널하니 딱조하요<br/>아직 비가안와서 신고는 못나가밧는데<br/>올해만 신길거라 크게 안시기려구요ㅎㅎ감사<br/>일단 아기가 너무 좋아하네요<br/>일단외관은 엄청 귀여워요͙͙͙<br/>입체적이어서<br/>정말 느므느므 귀여운거 아닙니까.<br/><br/>조금 무겁지만 좋아요 나이키 아디다스 140신는 29개월여아 150딱맞아요<br/>짱 카와이네ɞ ɞ ɞ<br/>춤추고 난리났어요<br/>허접한 뽀로로 ? 가 아니어서 ㅋㅋ<br/>" 
+---

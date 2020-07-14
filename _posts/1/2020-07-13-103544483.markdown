@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "크록스 바야밴드 슬라이드 205392-4CC" 
+description: 크록스 바 ..
+date: 2020-07-14 06:44:27 
+img: https://static.coupangcdn.com/image/vendor_inventory/04ff/35f9bafd8ab1c6bb9613ffe5194dac0b44469628ae2527d47800639d305b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=103544483&itemId=314588989&vendorItemId=70507085261&traceid=V0-113-d347fd6bae386dd5 
+categories: [1007] 
+color: D9418C 
+price: 19900 
+author: Ask View Shop 
+cont:  "가볍고 편안합니다.<br/> 남들에게 튀지않는 모던한 디자인도 맘에 들어요^^<br/>약간 재질이 딱딱한감이 있지만 잘신고있어요 사이즈가 작을까했는데 정사이즈로잘맞네요<br/>크록스제품 역시 좋네요바닥이 도톰한게 쿠션감도 있고 덜 미끄러울것 같아서 만족해요 남편이 좋아합니다 ㅋㅋ 색깔도 디자인도 잘 빠졌어요 굿<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "하이베이비클럽 시스루 덧신 4종 세트" 
+description: 하이베이비 ..
+date: 2020-07-14 06:15:40 
+img: https://static.coupangcdn.com/image/retail/images/2020/05/11/13/8/c318efab-624f-4e80-b637-2ccfe81d841e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1578732543&itemId=2699376778&vendorItemId=70689759554&traceid=V0-113-e6afe9a4c80c1e94 
+categories: [1003] 
+color: 4374D9 
+price: 8310 
+author: Ask View Shop 
+cont:  "6갤 아기인데 아직 좀 커요 ㅎㅎ 그래도 여름에 잘 신을수있을것같아요<br/>발길이 거의 13cm, 발등 높은 아이<br/>시원해보이고, 미끄럼방지 부분이 넓게 되있어서 선택했어요.<br/><br/>아주 얇아서 여름에 신기기 좋네요.<br/> 미끄럼 방지도 있고 아기에게 사이즈가 큰데도 벗겨지지도 않아요 만족합니다<br/>" 
+---
