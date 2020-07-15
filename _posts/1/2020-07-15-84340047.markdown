@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "리바이스키즈 T BEAR TS" 
+description: 리바이스키 ..
+date: 2020-07-15 14:30:02 
+img: https://static.coupangcdn.com/image/vendor_inventory/6ce2/a7b005d59ecc0e25bae5fee27d9ae8a1dc4da3acb0fb4a917439e78bb46e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=84340047&itemId=267415937&vendorItemId=4700138365&traceid=V0-113-0faecd76a6b1d7dd 
+categories: [1005] 
+color: 006064 
+price: 1900 
+author: Ask View Shop 
+cont:  "110cm, 20kg 남아, 올해 딱맞게 입히고 말려고 저렴하게 3벌 구매해 봅니다.<br/> 품절인 사이즈가 많아 120 1장 130 2장 구매했어요.<br/> 130이 마음에 드는 디자인이 모두 회색 계통만 남아 아쉽네요.<br/><br/>11개월 둘째 입힐려고 구매햇어요<br/>90 은 딱맞고 100은 좀 크네요 ㅋㅋㅋ<br/>리바이스 브랜드 정품이 맞고 아이도 편해하고 너무 면도 보드랍네요.<br/><br/>물론 운좋으면 두 해 입히려나.<br/>.<br/> 하지만 한 해만 입혀도 가격적으로 행복합니다.<br/><br/>싸게 구매해서 내년까지 입힐수 잇을거 같아요 ^^<br/>얇지않은 살짝 도톰한 면입니다.<br/> 지금 현재 16개월 11키로 정말 예쁘게 맞아요.<br/><br/>저는 2900원에 구매하였고 행운이었습니다.<br/><br/>" 
+---

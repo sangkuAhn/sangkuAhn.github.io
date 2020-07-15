@@ -9,5 +9,5 @@ categories: [1005]
 color: 9E9D24 
 price: 11900 
 author: Ask View Shop 
+cont:  "아이한테 딱 좋으네요.<br/>.<br/><br/>좋네요^^<br/>좋아요 좋아요^^<br/>" 
 ---
- 
