@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "크록스 본사 라이트라이드 클로그" 
+description: 크록스 본 ..
+date: 2020-07-15 06:44:32 
+img: https://static.coupangcdn.com/image/vendor_inventory/cc52/90644946bf083278d5006ae73ac553d366ad1fe1a307655c84a3c4f1fa70.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1214351028&itemId=2203842704&vendorItemId=71038992668&traceid=V0-113-0c4a2792db8f7f80 
+categories: [1007] 
+color: f44336 
+price: 23500 
+author: Ask View Shop 
+cont:  "270 선택했는데 거의 정사이즈거나 약간 여유가 있는 형태입니다.<br/><br/>굿 입니다.<br/><br/>발바닥도 푹신하고 물도 빠지고 잘 마르고 역시 캠핑엔 크록스가 사랑입니다♥<br/>생각보다 가볍진않은데 푹신푹신하고 좋습니다 품절되기전에 싸게 잘사서 좋아요 10미리정도 크게사라해서 크게샀는데 딱 맞네요 발볼이 어지간한 신발들보다 좁은편이에요<br/>좋네요.<br/> 사이즈는 나이키 270 신으면 딱 맞는데<br/>" 
+---
