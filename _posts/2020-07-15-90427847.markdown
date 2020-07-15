@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코멕스 아이스탱크 바퀴형, 혼합 색상, 45L" 
+description: 코멕스 아이스탱크 바퀴형, 혼합 색상, 45L ..
+date: 2020-07-16 07:49:20 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/06/07/3152884345/808ddca6-a7be-4165-a78f-3cfddbd0385f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=90427847&itemId=282073524&vendorItemId=3152884345&traceid=V0-113-03f31a8a17b95bda 
+categories: [1017] 
+color: BF360C 
+price: 56760 
+author: Ask View Shop 
+---
+ 
