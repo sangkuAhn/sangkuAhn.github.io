@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "푸딩팩토리 닭갈비, 김치닭갈비 500g" 
+description: 푸딩팩토리 닭갈비, 김치닭갈비 500g ..
+date: 2020-07-16 07:13:16 
+img: https://static.coupangcdn.com/image/vendor_inventory/8d73/ec26e7d11797b396aeb995e6f66ff5b77b7e2edce9075491d56623f6b1e0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=219618457&itemId=682355577&vendorItemId=4754439962&traceid=V0-113-61a3fbb4c009c750 
+categories: [1012] 
+color: F361A6 
+price: 5900 
+author: Ask View Shop 
+cont:  "그래도저렴하게사서만족해요 먹어보고 리뷰다시남길께요<br/>세팩 샀는데 아쉽... <br/>... <br/><br/>양배추랑 떡이랑 고구마랑 넣고 해도 될 정도의 간이구요<br/>양이마니적어보여요 두개주문했는데 둘이서두개다먹을거같아요<br/>오자마자 뜯어서 양파만 넣고 후다닥했는데<br/>이것은 넘나 맛나네요<br/>진짜 맛나네요<br/>진짜 맛나요,,<br/>첨에 양보고 적은가 했는데 떡,양배추,미나리,양파 많이넣고 볶았더니 둘이 먹기에 양이 알맞네요 대신 밥볶을 양념은 안남았어요 기름을 두르고 마늘 넣고  닭갈비 넣으니 수분이 코팅되서 안나온듯요 맛있어요 !!<br/>" 
+---

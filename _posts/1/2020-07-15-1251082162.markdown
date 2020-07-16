@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "핑크퐁 더 레이니 데이 배색 아동 우의 EVA-20001" 
+description: 핑크퐁 더 레이니 데이 배색 아동 우의 EVA-2000 ..
+date: 2020-07-16 06:30:03 
+img: https://static.coupangcdn.com/image/retail/images/2020/02/11/11/0/ae091aeb-ef09-4338-ae37-6580a21804a5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1251082162&itemId=2250324989&vendorItemId=70247707002&traceid=V0-113-0e3710e36d8cd16a 
+categories: [1005] 
+color: 4A148C 
+price: 6560 
+author: Ask View Shop 
+cont:  "사용후 후기 남길께요<br/>아직 미사용중 좋길 바래요<br/>일회성입니다<br/>하루만에 모자찢어져서 비추요<br/>" 
+---

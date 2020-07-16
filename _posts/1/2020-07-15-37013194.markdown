@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "프로스펙스 뉴라이트업" 
+description: 프로스펙스 뉴라이트업 ..
+date: 2020-07-16 06:44:28 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2017/09/15/17/9/b8e1feb2-2bb3-4bd1-9d5b-74a12c966bd2.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=37013194&itemId=136309601&vendorItemId=3291810827&traceid=V0-113-b6cdbce201358c08 
+categories: [1007] 
+color: 353535 
+price: 14900 
+author: Ask View Shop 
+cont:  "가볍고갠찬은신발인데<br/>나같이발볼이널은사람은<br/>무조건한치수크게주문하세요<br/>사이즈가 넘 작게나와 발이 아파요.<br/> 보통 240mm를 신으면 약간의 여유가 있어 불편함이 없이 잘 신었는데  발 볼, 길이 딱 맞는 사이즈라 조금만 걸어도 발이 아프네요.<br/><br/>신은 느낌<br/>키높이 운동화 같지 않아 좋네요 그냥 런닝화를<br/>" 
+---
