@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "GAP 새콤달콤 자두, 1.5kg, 1개" 
+description: GAP 새콤달콤 자두, 1. ..
+date: 2020-07-18 07:13:17 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/07/19/4966699756/974bee6f-d5c2-433d-bd45-211424ca8c4f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=233608548&itemId=741825495&vendorItemId=4873370491&traceid=V0-113-b79dd33c0479fff1 
+categories: [1012] 
+color: A6A6A6 
+price: 10900 
+author: Ask View Shop 
+---
+ 
