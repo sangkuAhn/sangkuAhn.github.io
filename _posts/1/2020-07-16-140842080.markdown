@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "반스 올드스쿨 뮬" 
+description: 반스 올드스쿨 뮬 ..
+date: 2020-07-17 06:44:31 
+img: https://static.coupangcdn.com/image/vendor_inventory/f3d6/609d7c504c5a8563f2fae575cec2d7267373bb9c64a31add6de49d24d2cf.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=140842080&itemId=410296693&vendorItemId=71044052116&traceid=V0-113-76dab23e87346648 
+categories: [1007] 
+color: 5A8DF3 
+price: 40000 
+author: Ask View Shop 
+cont:  "235신는데 240시켰어요<br/>5월 17일 시켜서 6월2일에 도착했어요<br/>5월 31일 오늘은 40,000원이에요.<br/>.<br/> ㅠㅠ<br/>그돈이 그돈이라는 생각이드네요 ㅎㅎㅎ<br/>근데 신발끈이 하나가 안왔어요<br/>기다린거였는데<br/>신발은 이뿜요<br/>신발은 잘맞아요.<br/><br/>어제 52000원에 삿는데 오늘은 45000원이네요.<br/>.<br/> 무슨 하루만에 7000원이 차이나는지 모르겠어요... <br/> 신발은 마음에 드는데 주식 떨어진것처럼 가슴이 아파요... <br/><br/>에? 아무리 뒤져봐도 없어요.<br/><br/>에이비씨 마트가기 귀찮아서 오래걸려도<br/>짝퉁.<br/> 박음질이 왜 있나요?정품엔 없는곳에.<br/> 신발 끈 구멍 안 박음질도 정리 안되고 엉망<br/>차비에 신발끈 사러간거 보면<br/>" 
+---
