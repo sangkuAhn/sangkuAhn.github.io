@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "수학도둑 77, 서울문화사" 
+description: 수학도둑 77, 서울문화사 ..
+date: 2020-07-18 15:06:01 
+img: https://static.coupangcdn.com/image/retail/images/2020/07/15/18/6/5acae0dc-b3d5-4358-8a9f-48d7bae76e4a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1826635722&itemId=3107829736&vendorItemId=71095585099&traceid=V0-113-064ed04eb7df8533 
+categories: [1011] 
+color: 4A148C 
+price: 9450 
+author: Ask View Shop 
+---
+ 

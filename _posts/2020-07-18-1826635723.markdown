@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "에그박사 1, 아이세움" 
+description: 에그박사 1, 아이세움 ..
+date: 2020-07-18 15:06:01 
+img: https://static.coupangcdn.com/image/retail/images/2020/07/15/18/5/7bf8daa3-f248-4c1c-81b1-9cf65e44ab56.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1826635723&itemId=3107829737&vendorItemId=71095585101&traceid=V0-113-ffa58483e8d8df0f 
+categories: [1011] 
+color: 7E57C2 
+price: 10800 
+author: Ask View Shop 
+---
+ 

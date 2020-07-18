@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코로나19와 싸우는 영웅들, 겜툰" 
+description: 코로나19와 싸우는 영웅들, ..
+date: 2020-07-18 15:06:01 
+img: https://static.coupangcdn.com/image/retail/images/2020/07/15/18/0/30a8401d-d572-4a2f-95f8-dd29af203363.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1826635796&itemId=3107829813&vendorItemId=71095585190&traceid=V0-113-c6edbe1132b0b786 
+categories: [1011] 
+color: 7E57C2 
+price: 11700 
+author: Ask View Shop 
+---
+ 
