@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "티팜 스포츠 드라이쿨 3p" 
+description: 티팜 스포츠 드라이쿨 3p ..
+date: 2020-07-18 06:37:15 
+img: https://static.coupangcdn.com/image/retail/images/2019/08/29/18/3/13065b52-e497-4973-9887-60141c0c46d7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=291735529&itemId=922728415&vendorItemId=5295758511&traceid=V0-113-eaae851ccd17ea62 
+categories: [1006] 
+color: 006064 
+price: 16900 
+author: Ask View Shop 
+cont:  "가격도 착하고 시원해보여요 <br/>가격좋고 사이즈 딱이고 부담없이 입기에 딱이긴 한데.<br/>.<br/>ㅇ ㅏ!!시원하다 라는 생각은 암듬.<br/>.<br/><br/>또 구매예정입니다 <br/>밖에서 일하는 직업이라 작업복겸 샀어요<br/>아 ㅋㅋ 가성비뭔데<br/>저같은 달림이들한테 러닝티셔츠는 이걸로 종결해도될듯<br/>처음왔을때 커보였는데 입으니 커보이지 않아요<br/>평소 100사이즈 입는 신랑<br/>" 
+---

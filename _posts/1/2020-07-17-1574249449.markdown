@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "기억1, 열린책들" 
+description: 기억1, 열린책들 ..
+date: 2020-07-18 08:04:04 
+img: https://static.coupangcdn.com/image/retail/images/87110089066114-a90c184f-723b-41a8-96f6-a8824cba923b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1574249449&itemId=2691925943&vendorItemId=70682374888&traceid=V0-113-ea104c86c414a7a3 
+categories: [1019] 
+color: D9418C 
+price: 13320 
+author: Ask View Shop 
+cont:  "굿굿<br/>아들이 공부할 때 옆에서 독서를 즐깁니다^^<br/>오랜만에 베르나르 베르베르의 작품을 읽게 되어 기분이 좋네요<br/>책이 좀 꾸겨져 있어서 좀 그랬음 ... <br/>!<br/>" 
+---

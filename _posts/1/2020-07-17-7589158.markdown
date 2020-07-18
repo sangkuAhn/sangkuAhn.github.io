@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코스모스, 사이언스북스" 
+description: 코스모스, 사이언스북스 ..
+date: 2020-07-18 08:04:04 
+img: https://static.coupangcdn.com/image/vendor_inventory/922e/6758ee6454f7612a8cbe3042c0c4b284e7583649a1060723be262fd1214b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7589158&itemId=33198252&vendorItemId=3048981691&traceid=V0-113-d9ce5860fead87e4 
+categories: [1019] 
+color: CF36BB 
+price: 16650 
+author: Ask View Shop 
+cont:  "그리고 그 단어들을 찾아보고 다시 읽어본다면 더 재밌음.<br/><br/>아주 좋은책이예요<br/>어려운 단어들이 많지만 천체에 관해 무지한 사람이 읽어도 재밌는것같음.<br/><br/>유투브 방송보다가 추천해서 샀는데.<br/> 별생각 없이 샀다가.<br/><br/>저희 아이가 읽는다고 사줬는데 아주 만족합니다.<br/> 초등학생인데 꿀잼이라고 합니다.<br/> 좀 어렵긴 하지만 재미있어합니다.<br/><br/>책이 많이 두껍긴 하지만 제가 많이 좋아하는 분야이기 때문에 열심히 읽고 있어요! 틈 날 때 마다 집에서 종종 읽는 편인데 내용도 흥미롭고 술술 잘 읽혀요!<br/>퇴근하고 틈틈이 4일만에 읽음.<br/><br/>" 
+---

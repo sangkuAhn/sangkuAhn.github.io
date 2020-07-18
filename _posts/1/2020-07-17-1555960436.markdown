@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "바브키즈/ 프레쉬세트" 
+description: 바브키즈/ 프레쉬세트 ..
+date: 2020-07-18 06:30:04 
+img: https://static.coupangcdn.com/image/vendor_inventory/3038/00dccff1a7b1134b2290155fc1bf5ecb04f3f95c5dd14279e17fc25a3af1.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1555960436&itemId=2661153652&vendorItemId=70651760750&traceid=V0-113-88bfb8a1c379012d 
+categories: [1005] 
+color: 4A148C 
+price: 10900 
+author: Ask View Shop 
+cont:  "같은옷 맞나요? 두가지다샀는데 바지길이가 전혀다른옷같아요 사이즈는 동일한 9호인데  뭐가잘못된거죠??<br/>바지가 시원해서 여름에 딱입니다 ㅎㅎ 넘 이뻐서 다른 색도 하나 더 살려고요^^<br/>코로나로 집콕만하다가 유치원을 가게되서 여유분으로 샀습니다<br/>화면상 산뜻해보여<br/>" 
+---

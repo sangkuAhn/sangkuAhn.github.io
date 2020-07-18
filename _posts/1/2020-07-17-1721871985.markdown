@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "난닝구 리베코 패턴 나시 원피스" 
+description: 난닝구 리베코 패턴 나시 원 ..
+date: 2020-07-18 06:01:14 
+img: https://static.coupangcdn.com/image/retail/images/2020/06/18/11/9/c52b6d75-f462-4175-99fa-ebbffdbe8cae.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1721871985&itemId=2930732329&vendorItemId=70866498122&traceid=V0-113-00ff7ac0501ebf10 
+categories: [1001] 
+color: 4374D9 
+price: 17820 
+author: Ask View Shop 
+cont:  "감사해용 나의 인생 원피스를 만들어줘서 흑륻<br/>그리고 원피스 길이감 미쳤어요ㅠㅠㅠ<br/>그리고 한창 유행하는 페이즐리 무늬라 자주 입을거같아요<br/>난닝구 제품치고 무지 빠른 로켓 배송에 비교적 저렴한 가격에 구입해 입어보니 나름 괜찮아요.<br/> 근데 너무 통짜로 커서 살짝 허리 들어가듯 라인이 잡히면 더 이쁠듯 합니다.<br/> 패턴은 무난해서 아무때나 편히 입을 수 있고 구겨져도 그것대로 매력있는 옷입니다.<br/><br/>다 사!!!!!! 이거 안사면 후회함<br/>딱예쁨 발목까지오는데 진짜예뻐요 살짝 퍼지는 그 느낌이 휴양지원피스같으면서도 데일리하게 입을수있다구요!!!!<br/>백화점가면 난닝구 옷 자주 구매하는데 귀찮아서 쿠팡으로 구매해 봤어요.<br/>시원한 소재,길이도 길어서 좋네요.<br/>맘에들어요<br/>어깨끈 조절 기능도 있어서 아무리 통통해도 입을수있구요.<br/><br/>엄머머 이 원피스 본 사람들은 진짜 안사면 안되요<br/>" 
+---

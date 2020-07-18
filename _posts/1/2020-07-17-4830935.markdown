@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "기탄교육 기탄 수학 E단계 5권세트(7세~초1)" 
+description: 기탄교육 기탄 수학 E단계  ..
+date: 2020-07-18 08:04:04 
+img: https://static.coupangcdn.com/image/retail/images/75369854777319-90959c15-ef4a-4bc3-8680-0005a74ae2bc.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4830935&itemId=21997366&vendorItemId=3006997894&traceid=V0-113-93ede4c76172fbaf 
+categories: [1019] 
+color: A566FF 
+price: 22500 
+author: Ask View Shop 
+cont:  "D등급 더하기 끝내고 빼기하기 좋네요<br/>내년에 초등  입학하는 아이 수학  좀 가르치려고 샀어요<br/>더하기는 술술풀어 E단계부터 시작했는데요<br/>서점에서 할인해주는 가격이랑 같지만 서점 가지 않고 받으니 편하네요.<br/><br/>아직 E1단계라그런지  재밌데요ㅎ<br/>풀어라해도 안풀었는데  이건재밌어서 몇장씩푸네요<br/>학습지 끊고 시작한건데 학습지 연산은<br/>" 
+---

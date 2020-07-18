@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "임영웅 굿즈 응원봉 Hero임영웅 사랑해, Hero 임영웅" 
+description: 임영웅 굿즈 응원봉 Hero ..
+date: 2020-07-18 08:04:04 
+img: https://static.coupangcdn.com/image/vendor_inventory/0e4e/5aba68a14a45d0788b745107eb033eb66f6daaf7dbc864267859a3d3c255.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1473161954&itemId=2532086800&vendorItemId=70524837344&traceid=V0-113-977619506219ad2d 
+categories: [1019] 
+color: 353535 
+price: 8900 
+author: Ask View Shop 
+cont:  "금액대비 가성비는 좋은듯 하네요<br/>너무 잘받았습니다.<br/>  미스터트롯 콘서트 갈때 꼭 들고 갈거예요 ㅎㅎ<br/>디자인은 이뻐요<br/>양면인줄 알았는데 아니어서 조금 실망<br/>좀 저렴한느낌<br/>콘서트는 언제할까요 ㅎ<br/>" 
+---

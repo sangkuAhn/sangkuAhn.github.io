@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "신형 거짓말탐지기, 단일색상" 
+description: 신형 거짓말탐지기, 단일색상 ..
+date: 2020-07-18 08:11:17 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2017/02/13/19/7/da50567f-ddf3-4de8-b571-e0b77ba0a131.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=14841905&itemId=61214708&vendorItemId=4408423367&traceid=V0-113-275d73a461cdd614 
+categories: [1020] 
+color: A57F92 
+price: 10900 
+author: Ask View Shop 
+cont:  "겁많은애들이 자꾸 진동모드만해서 .<br/> 아숩네여<br/>솔직히 잘 안맞음요 놀러가서 쓰려고 구매했는데 그냥 킬링타임 재미로 쓰려구요<br/>아이들이 너무 좋아하고 재미있어 하네요 잘산거 같아요<br/>애들 생일파티 한다길래 샀어요 ㅎㅎ 친구들끼리 놀기 딱 좋져<br/>전기모드만 있는 제품이 있다면 그걸 사겠어요 ㅋㅋㅋ<br/>진동모드.<br/> 전기모드가 따로 있어서<br/>" 
+---
