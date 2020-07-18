@@ -9,5 +9,5 @@ categories: [1003]
 color: 1294AB 
 price: 8900 
 author: Ask View Shop 
+cont:  "100일 여자아기 6.<br/>5킬로인데 적당히 널널하게 딱 맞아요 ^^<br/>기대이상으로 너무 예쁘네요♡<br/>너무 예뻐요 남아에게도 예쁘고 시원하게 잘 맞을 것 같아요<br/>" 
 ---
- 

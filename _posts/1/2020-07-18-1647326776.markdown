@@ -9,5 +9,5 @@ categories: [1001]
 color: 006064 
 price: 10100 
 author: Ask View Shop 
+cont:  "배송은  좀느리고, 옷은 괘안코  좋아요<br/>" 
 ---
- 
