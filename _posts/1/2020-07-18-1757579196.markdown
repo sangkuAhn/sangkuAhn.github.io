@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "청도 황도복숭아, 1.8kg(6~8과), 1개" 
+description: 청도 황도복숭아, 1.8kg ..
+date: 2020-07-19 07:13:19 
+img: https://static.coupangcdn.com/image/retail/images/2020/06/29/10/8/cee966aa-c712-4fea-823f-36e3b9770fc7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1757579196&itemId=2993356050&vendorItemId=70981649072&traceid=V0-113-f479c629089a6cd6 
+categories: [1012] 
+color: 7E57C2 
+price: 17900 
+author: Ask View Shop 
+cont:  "맛은 무난하고 상품자체는 실망입니다<br/>실망이커요 ㅠ 애기먹이랴구산건데달지도않고상태도 별로네요<br/>아주 질 좋은 황도를 예상했나봐요<br/>와 진짜 상상초월할정도로 맛이없어요... <br/>.<br/> 찾아가서 바꾸고싶어요... <br/>... <br/>... <br/>이런 복숭아는 처음이에요 양심껏 드셔보시고 파십시요<br/>하루하루 후숙해서 먹고있어요<br/>" 
+---

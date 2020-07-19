@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "리복 상설제품 로얄 브릿지 3.0 운동화 DV8340" 
+description: 리복 상설제품 로얄 브릿지  ..
+date: 2020-07-19 06:44:30 
+img: https://static.coupangcdn.com/image/vendor_inventory/13e7/8c24ea5886c0e5d829ca3bebe1dd2060a58a67014b3757d66f8807fabd7a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=327958832&itemId=1049047329&vendorItemId=70331698372&traceid=V0-113-8bd3fd8104d72b24 
+categories: [1007] 
+color: A566FF 
+price: 30500 
+author: Ask View Shop 
+cont:  "굳굳<br/>좋아요.<br/>맘에 쏙들어요.<br/>운동화 약간에 키높이효과도있고 편하고 좋아요.<br/><br/>중학생 남  신어보더니 가볍고 좋다고하네여<br/>" 
+---
