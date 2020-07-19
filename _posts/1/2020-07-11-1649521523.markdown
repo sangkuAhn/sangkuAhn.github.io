@@ -9,5 +9,5 @@ categories: [1003]
 color: F15F5F 
 price: 16050 
 author: Ask View Shop 
+cont:  "쿠팡배송이야 말할거없이 최고지요<br/>" 
 ---
- 

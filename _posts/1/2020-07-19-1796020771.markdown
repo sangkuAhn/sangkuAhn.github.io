@@ -9,5 +9,5 @@ categories: [1005]
 color: 4A148C 
 price: 31190 
 author: Ask View Shop 
+cont:  "교환할까 하다가 내년에 신기려고 걍 뒀습니다.<br/><br/>다른 뉴발 신발보다 사이즈가 조금 더 크네요.<br/><br/>바닥 고무창이라 미끄러질 염려도 없구요<br/>품질은 좋습니다.<br/><br/>" 
 ---
- 

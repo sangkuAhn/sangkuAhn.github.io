@@ -9,5 +9,5 @@ categories: [1007]
 color: 4CAF50 
 price: 24270 
 author: Ask View Shop 
+cont:  "좋아요<br/>" 
 ---
- 
