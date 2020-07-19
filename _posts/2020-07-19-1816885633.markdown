@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "더 콩쿠르 13 특별판, 서울미디어코믹스" 
+description: 더 콩쿠르 13 특별판, 서 ..
+date: 2020-07-20 08:03:48 
+img: https://static.coupangcdn.com/image/retail/images/2020/07/13/18/5/10c8bb81-b7a2-4051-827f-797347e1c275.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1816885633&itemId=3091996035&vendorItemId=71079820462&traceid=V0-113-e786ee677c86282e 
+categories: [1019] 
+color: F15F5F 
+price: 19800 
+author: Ask View Shop 
+---
+ 
