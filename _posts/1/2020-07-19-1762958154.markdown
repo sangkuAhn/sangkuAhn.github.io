@@ -9,5 +9,5 @@ categories: [1001]
 color: F15F5F 
 price: 14900 
 author: Ask View Shop 
+cont:  "얇아요 마니 비치는 듯요<br/>" 
 ---
- 

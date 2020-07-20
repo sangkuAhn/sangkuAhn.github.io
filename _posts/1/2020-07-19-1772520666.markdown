@@ -9,5 +9,5 @@ categories: [1010]
 color: BF360C 
 price: 14900 
 author: Ask View Shop 
+cont:  "골드박스 떠서 삿는데<br/>끈적이는거 시릉데<br/>두 제품다 팩하고 다섯시간 지난 지금까지 끈적끈적해요<br/>생각보다 넘 끈적 ㅠ<br/>" 
 ---
- 

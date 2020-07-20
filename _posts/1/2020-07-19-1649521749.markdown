@@ -9,5 +9,5 @@ categories: [1005]
 color: F15F5F 
 price: 14150 
 author: Ask View Shop 
+cont:  "이번여름 잘사용할거같아요<br/>" 
 ---
- 
