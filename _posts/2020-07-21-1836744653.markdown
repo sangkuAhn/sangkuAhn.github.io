@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "사이코지만 괜찮아 1, 성안당" 
+description: 사이코지만 괜찮아 1, 성안 ..
+date: 2020-07-22 08:06:12 
+img: https://static.coupangcdn.com/image/retail/images/2020/07/17/11/3/87ca9a2a-0460-4bca-a577-39f25d03908f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1836744653&itemId=3123059098&vendorItemId=71110754345&traceid=V0-113-74e8455fef3fc894 
+categories: [1019] 
+color: F15F5F 
+price: 15120 
+author: Ask View Shop 
+---
+ 

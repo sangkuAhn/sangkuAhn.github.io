@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아모레퍼시픽 이너프 프로젝트 스킨케어 2종 세트, 1세트" 
+description: 아모레퍼시픽 이너프 프로젝트 ..
+date: 2020-07-22 06:58:50 
+img: https://static.coupangcdn.com/image/retail/images/534430901989084-1260a755-133e-4b34-affe-c586f1630f28.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1593450090&itemId=2722406372&vendorItemId=70712625359&traceid=V0-113-d535358c4246c143 
+categories: [1010] 
+color: 4A148C 
+price: 25920 
+author: Ask View Shop 
+---
+ 
