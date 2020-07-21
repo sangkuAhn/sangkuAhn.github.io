@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "나이키 에어맥스 알파 트레이너 AA7060-401" 
+description: 나이키 에어맥스 알파 트레이 ..
+date: 2020-07-21 06:44:27 
+img: https://static.coupangcdn.com/image/vendor_inventory/0824/c319592d8a0b79f28c631cd53d1ad41685876218290383adb9ce656071f5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1245181133&itemId=2242026003&vendorItemId=71005362559&traceid=V0-113-ca7bf61fa84fb30f 
+categories: [1007] 
+color: D9418C 
+price: 40500 
+author: Ask View Shop 
+cont:  "뒷면에 에어가 있어 착화감이 부드러울거라 생각했는데 전체적으로 딱딱한 편입니다.<br/><br/>디자인 무난하고 가격도 저렴해서 운동할때 쓰면 좋을 것 같습니다<br/>보통<br/>아주 만족<br/>" 
+---
