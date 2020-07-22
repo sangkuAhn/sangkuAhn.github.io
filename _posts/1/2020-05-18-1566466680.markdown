@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "닌텐도 스위치 제노블레이드 크로니클스 디피니티브 에디션 한국어 타이틀, 단일상품" 
+description: 닌텐도 스 ..
+date: 2020-05-19 04:22:04 
+img: https://static.coupangcdn.com/image/retail/images/2020/05/11/11/3/9df830c9-4882-4973-a895-d7e29f1d5f91.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1566466680&itemId=2678524837&vendorItemId=70669042743&traceid=V0-113-214b75e895879b5b 
+categories: [1020] 
+color: A566FF 
+price: 59800 
+author: Ask View Shop 
+cont:  "너무 재밌는데 구매후 6처넌 더 다운됐네용^^아까비요<br/>로켓배송으로 잘 샀습니다ㅋㅋ 근데 가격 왜 자꾸 내려가나요 짜증나게ㅠㅠㅋㅋㅋㅋㅋ<br/>유명한 게임이라 관심 있었는데, 가격이 괜찮아서 사버렸어요!ㅎㅎㅎ<br/>" 
+---
