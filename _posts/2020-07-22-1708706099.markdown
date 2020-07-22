@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "슈펜 볼드 쪼리 AFDM20S33" 
+description: 슈펜 볼드 쪼리 AFDM20 ..
+date: 2020-07-23 06:44:24 
+img: https://static.coupangcdn.com/image/retail/images/2020/06/15/14/6/1b983e57-dc58-47f1-bc65-71632c333b82.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1708706099&itemId=2907918998&vendorItemId=70714637572&traceid=V0-113-7dad57042cefcd94 
+categories: [1007] 
+color: 35B62C 
+price: 20000 
+author: Ask View Shop 
+---
+ 
