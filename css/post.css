@@ -76,14 +76,13 @@ font-size: 0.7em;
   background-color: #ffffff !important;
 }
 .button_sy3{
-    height: 25px;
-    padding: 0 10px;
-    line-height: 25px;
-    font-size: 13px;
+    padding:0.3em;
+    line-height: 1em;
+    font-size: 1em;
     background-color: #1a99d9;
     display: inline-block;
     text-align: center;
-    font-weight: 600;
+    font-weight: 1000;
     color: #fff !important;
 }
 </style>
