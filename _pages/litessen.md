@@ -1,0 +1,214 @@
+---
+layout: default
+permalink: /litessen/
+---
+
+<div class="main_text">		
+<!-- askview_메인_상단 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3309468445717403"
+     data-ad-slot="1034729628"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+**다운로드는 아래 링크를 눌러주세요.**
+
+**중등수학1**
+
+[**[정답] 라이트센 중등수학1상 다운로드:**](https://drive.google.com/file/d/1CvSdM-BrfFbfv7aBZE6nyZ1M6kiwkyCX/view?usp=sharing){: target="_blank"}[https://drive.google.com/file/d/1CvSdM-BrfFbfv7aBZE6nyZ1M6kiwkyCX/view?usp=sharing](https://drive.google.com/file/d/1CvSdM-BrfFbfv7aBZE6nyZ1M6kiwkyCX/view?usp=sharing){: target="_blank"}
+
+[**[정답] 라이트센 중등수학1하 다운로드:**](https://drive.google.com/file/d/1WawijzckD84faoUTTKPWwhWPFLjVJzIl/view?usp=sharing){: target="_blank"}[https://drive.google.com/file/d/1WawijzckD84faoUTTKPWwhWPFLjVJzIl/view?usp=sharing](https://drive.google.com/file/d/1WawijzckD84faoUTTKPWwhWPFLjVJzIl/view?usp=sharing){: target="_blank"}
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-3309468445717403"
+     data-ad-slot="3199420661"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+**중등수학2**
+
+[**[정답] 라이트센 중등수학2상 다운로드:**](https://drive.google.com/file/d/19qpXkVnsrQahjF9GSmB_dRHMIzso7TnI/view?usp=sharing){: target="_blank"}[https://drive.google.com/file/d/19qpXkVnsrQahjF9GSmB_dRHMIzso7TnI/view?usp=sharing](https://drive.google.com/file/d/19qpXkVnsrQahjF9GSmB_dRHMIzso7TnI/view?usp=sharing){: target="_blank"}
+
+[**[정답] 라이트센 중등수학2하 다운로드:**](https://drive.google.com/file/d/1qP0A0E-z22Z26c_b-0jC85By-WE86wa7/view?usp=sharing){: target="_blank"}[https://drive.google.com/file/d/1qP0A0E-z22Z26c_b-0jC85By-WE86wa7/view?usp=sharing](https://drive.google.com/file/d/1qP0A0E-z22Z26c_b-0jC85By-WE86wa7/view?usp=sharing){: target="_blank"}
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-3309468445717403"
+     data-ad-slot="3199420661"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+**중등수학3**
+
+[**[정답] 라이트센 중등수학3상 다운로드:**](https://drive.google.com/file/d/1r0q6Xuiu4NwvfZC-cv5hMT-5gKd1hSkD/view?usp=sharing){: target="_blank"}[https://drive.google.com/file/d/1r0q6Xuiu4NwvfZC-cv5hMT-5gKd1hSkD/view?usp=sharing](https://drive.google.com/file/d/1r0q6Xuiu4NwvfZC-cv5hMT-5gKd1hSkD/view?usp=sharing){: target="_blank"}
+
+[**[정답] 라이트센 중등수학3하 다운로드:**](https://drive.google.com/file/d/1C6MY3tyIgyHoyW8qyMSAkD1eQg6J8cIw/view?usp=sharing){: target="_blank"}[https://drive.google.com/file/d/1C6MY3tyIgyHoyW8qyMSAkD1eQg6J8cIw/view?usp=sharing](https://drive.google.com/file/d/1C6MY3tyIgyHoyW8qyMSAkD1eQg6J8cIw/view?usp=sharing){: target="_blank"}
+
+
+<div class="main_text">		
+<!-- askview_메인_상단 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3309468445717403"
+     data-ad-slot="1034729628"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+1. 학습 부담을 줄인 최적의 문제기본서
+주제별로 꼭 알아야 할 개념을 자세히 다루고 기본 유형을 충분히 연습할 수 있도록 구성하였습니다. 어려운 내용, 출제 빈도가 낮거나 최근 출제 경향에 맞지 않는 유형 등은 과감히 생략하여 학습 부담을 줄임으로써 수학을 어려워하는 학생들의 학습 성취도를 높일 수 있도록 하였습니다.
+
+2. 유형의 세분화
+어렵지 않은 학교 시험 문제를 총망라한 후 문제해결에 필요한 개념, 해결 방법 등에 따라 유형을 더욱 세분화하여 유형에 따른 풀이 전략을 익힐 수 있도록 하였습니다.
+
+3. 입체적인 학습
+문제의 난이도를 A, B 2단계로 나누어, A단계 기본 문제를 강화하고, B단계 유형을 더욱 세분화하여 난이도별, 유형별 입체적인 학습이 가능합니다.
+
+4. 유형 실전 마무리
+B단계의 유형에 대한 마무리 학습 문제를 구성하여 유형별 문제해결력을 키우고 완벽하게 실전에 대비할 수 있도록 하였습니다.
+
+
+1. 2015 개정 교육과정을 충실히 반영한 개념 정리 및 유형 분류
+2. 어려운 문제를 제외한 모든 문제를 구성
+3. 유형을 세분화하여 제시
+4. 서술형 출제 비중 강화에 따른 최적의 서술형 주관식 문항
+
+
+
+**라이트쎈 중등 수학1(상)**
+
+I. 자연수의 성질
+1. 소인수분해
+2. 최대공약수와 최소공배수
+
+Ⅱ. 정수와 유리수
+3. 정수와 유리수
+4. 유리수의 계산
+
+Ⅲ. 방정식
+5. 문자와 식
+6. 일차방정식의 풀이
+7. 일차방정식의 활용
+
+Ⅳ. 그래프와 비례
+8. 좌표평면과 그래프
+9. 정비례와 반비례
+
+
+**라이트쎈 중등 수학1(하)**
+
+Ⅴ. 기본 도형
+10. 기본 도형
+11. 위치 관계
+12. 평행선
+13. 작도와 합동
+
+Ⅵ 평면도형
+14. 다각형
+15. 원과 부채꼴
+
+
+Ⅶ 입체도형
+16. 다면체와 회전체
+17. 입체도형의 겉넓이와 부피
+
+Ⅷ 통계
+18. 자료의 정리와 해석
+
+
+**라이트쎈 중등 수학2(상)**
+
+Ⅰ. 수와 식
+1. 유리수와 소수
+2. 단항식의 계산
+3. 다항식의 계산
+
+Ⅱ. 부등식
+4. 일차부등식
+5. 일차부등식의 활용
+
+Ⅲ. 방정식
+6. 연립일차방정식의 풀이
+7. 연립일차방정식의 활용
+
+Ⅳ. 함수
+8. 일차함수와 그래프(1)
+9. 일차함수와 그래프(2)
+10. 일차함수와 일차방정식의 관계
+
+
+**라이트쎈 중등 수학2(하)**
+
+Ⅰ. 삼각형의 성질
+1. 삼각형의 성질⑴
+2. 삼각형의 성질⑵
+
+Ⅱ. 사각형의 성질
+3. 평행사변형
+4. 여러 가지 사각형
+
+Ⅲ. 도형의 닮음
+5. 도형의 닮음
+6. 평행선 사이의 선분의 길이의 비
+7. 삼각형의 무게중심
+8. 닮음의 활용
+
+Ⅳ. 피타고라스 정리
+9. 피타고라스 정리
+
+Ⅴ. 확률
+10. 경우의 수
+11. 확률
+
+
+
+**라이트쎈 중등 수학3(상)**
+
+Ⅰ. 제곱근과 실수
+1. 제곱근의 뜻과 성질
+2. 무리수와 실수
+3. 근호를 포함한 식의 곱셈과 나눗셈
+4. 근호를 포함한 식의 덧셈과 뺄셈
+
+Ⅱ. 다항식의 곱셈과 인수분해
+5. 다항식의 곱셈
+6. 다항식의 인수분해
+
+Ⅲ. 이차방정식
+7. 이차방정식의 풀이
+8. 이차방정식의 활용
+
+Ⅳ. 이차함수
+9. 이차함수의 그래프 ⑴
+10. 이차함수의 그래프 ⑵
+
+**라이트쎈 중등 수학3(하)**
+
+Ⅰ 삼각비
+1. 삼각비
+2. 삼각비의 활용
+
+Ⅱ 원의 성질
+3. 원과 직선
+4. 원주각
+5. 원주각의 활용
+
+Ⅲ 통계
+6. 대푯값과 산포도
+7. 상관관계
