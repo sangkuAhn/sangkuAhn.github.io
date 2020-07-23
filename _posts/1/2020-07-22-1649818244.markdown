@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "제이라인 여성용 로엔지 뮬 슬리퍼 JLSR3009" 
+description: 제이라인 여성용 로엔지 뮬  ..
+date: 2020-07-23 06:44:24 
+img: https://static.coupangcdn.com/image/retail/images/2020/05/27/19/7/5cb767ac-ef62-48ec-8930-4af4c9d83c83.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1649818244&itemId=2810920569&vendorItemId=70800470259&traceid=V0-113-9e8d6e3ad4a55eb0 
+categories: [1007] 
+color: 43A047 
+price: 12900 
+author: Ask View Shop 
+cont:  "가격만큼이에용<br/>가성비 굿ㅋㅋ편하고 사이즈도 잘맞아요<br/>상품평이없어서 고민했는데<br/>일단 새벽배송이라 바로와서좋았구요<br/>" 
+---

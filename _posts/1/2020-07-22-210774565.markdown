@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "밸롭 인젝션 아쿠아슈즈 파파야" 
+description: 밸롭 인젝션 아쿠아슈즈 파파 ..
+date: 2020-07-23 06:44:24 
+img: https://static.coupangcdn.com/image/retail/images/2019/07/19/21/0/a0b91d1f-5acd-4c70-bec0-825a0aded7b0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=210774565&itemId=628725605&vendorItemId=5123671340&traceid=V0-113-4c780ebe26442c47 
+categories: [1007] 
+color: 353535 
+price: 16990 
+author: Ask View Shop 
+cont:  "가볍고 디자인이 예쁨<br/>돌을 밟았을때도 발보호를 할수있을듯<br/>물놀이 안할땐 드라이빙 슈즈로 신어도 좋을듯 합니다.<br/><br/>물놀이뿐 아니라 운전할때도 편하네요<br/>밑창도 들어있고 바닥에 살짝 두께가 있어서<br/>신발 245 신어서 250구매 했어요.<br/><br/>예쁘고 좋은 아쿠아슈즈! 싸게 잘샀어요  배송도 완전 로켓와우!<br/>조금 크네요 물에서 신으실땐 발에 딱 맞는 정사즈 신으세요 바닥 쿠션도 튼튼해요<br/>" 
+---

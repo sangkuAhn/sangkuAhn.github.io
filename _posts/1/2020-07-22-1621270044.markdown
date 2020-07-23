@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "맨타임 SS 와이드 밴딩 팬츠" 
+description: 맨타임 SS 와이드 밴딩 팬 ..
+date: 2020-07-23 06:08:25 
+img: https://static.coupangcdn.com/image/retail/images/2020/05/25/17/5/2f79fc71-95f6-4d73-990a-4c28f1cf756a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1621270044&itemId=2766493000&vendorItemId=70756354763&traceid=V0-113-3a8b3385751fece4 
+categories: [1002] 
+color: A566FF 
+price: 11600 
+author: Ask View Shop 
+cont:  "그것제외 너무가격대비 좋습니다<br/>급하게 필요해서 사게 되었는데 괜찮네요 하체가 통통한 편이어서 좀 통이 넓은 바지를 찾고 있엇는데 이 바지가 제가 찾는 바지였네요ㅋㅋ<br/>질감이 예상했던 것과는 좀 다른데 마음에 듬<br/>첫 손빨래때 물이조금 빠지긴하지만<br/>" 
+---
