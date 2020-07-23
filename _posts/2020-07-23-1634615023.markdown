@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "워크센스 쿠브스 플랫 버드 쪼리" 
+description: 워크센스 쿠브스 플랫 버드  ..
+date: 2020-07-24 06:44:28 
+img: https://static.coupangcdn.com/image/retail/images/2020/05/28/15/0/53d83956-698a-49f4-9f45-be8cccacf082.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1634615023&itemId=2788045508&vendorItemId=70777768176&traceid=V0-113-1c2538727db0cb45 
+categories: [1007] 
+color: f44336 
+price: 16900 
+author: Ask View Shop 
+---
+ 

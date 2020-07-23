@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "프레시지 더큰 우삼겹 순두부찌개, 1315g, 1개" 
+description: 프레시지 더큰 우삼겹 순두부 ..
+date: 2020-07-24 07:13:16 
+img: https://static.coupangcdn.com/image/retail/images/2020/06/18/12/7/d106db61-5d54-4719-bf7e-6c3a21d2e072.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1717572551&itemId=2923204602&vendorItemId=70911802212&traceid=V0-113-1a2b7fa7ae7f0965 
+categories: [1012] 
+color: FF6F00 
+price: 9900 
+author: Ask View Shop 
+---
+ 
