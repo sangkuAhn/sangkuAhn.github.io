@@ -54,6 +54,6 @@ include: [_pages]
 
 version: 0.8
 
-paginate: 
+# paginate: 
 
-plugins: 
+# plugins: 
