@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "제스프리 그린키위, 5kg, 1개" 
+description: 제스프리 그린키위, 5kg, ..
+date: 2020-07-25 07:13:17 
+img: https://static.coupangcdn.com/image/retail/images/2020/06/10/9/1/72ebb869-4104-41ee-8a24-c4eb7fd5eeac.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1683898578&itemId=2868264405&vendorItemId=70857487546&traceid=V0-113-99b327fe36222213 
+categories: [1012] 
+color: 006064 
+price: 23500 
+author: Ask View Shop 
+---
+ 
