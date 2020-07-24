@@ -9,5 +9,5 @@ categories: [1007]
 color: A57F92 
 price: 55290 
 author: Ask View Shop 
+cont:  "가볍고 편해서<br/>맘상<br/>신고 한시간이상 걸었는데 편해요.<br/> 역시 핏플랍이 최고네요.<br/><br/>주위에서 편하다고 다들 추천하더라구요^^<br/>하나더 구입할려는데 가격이 훅 올 랐네요<br/>" 
 ---
- 
