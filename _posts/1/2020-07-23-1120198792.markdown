@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "유웨이 1+1 지압슬리퍼" 
+description: 유웨이 1+1 지압슬리퍼 ..
+date: 2020-07-24 06:44:28 
+img: https://static.coupangcdn.com/image/vendor_inventory/73c7/94a8eb2ccf5e278c1a80e41e0a89dc1361b95b69e15b531220880da3ca31.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1120198792&itemId=2085937515&vendorItemId=70084947026&traceid=V0-113-b461612d03667aaa 
+categories: [1007] 
+color: 4A148C 
+price: 12900 
+author: Ask View Shop 
+cont:  "오늘받고 재주문해요.<br/>가볍고 편하고 지압잘돼요.<br/>ㅋ<br/>지압도 시원하고 예뻐요.<br/><br/>" 
+---

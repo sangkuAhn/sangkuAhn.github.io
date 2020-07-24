@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "카파 여성 ELIN SD 샌들 KJSD213N1_BLK" 
+description: 카파 여성 ELIN SD 샌 ..
+date: 2020-07-24 06:44:28 
+img: https://static.coupangcdn.com/image/vendor_inventory/ac4e/6ce49b5bf2eba4e031fb9fe58db98b64c4bd53358dee3aab6c3f0f5364e6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1681125141&itemId=2863850410&vendorItemId=70853101013&traceid=V0-113-aee404fb1eff178a 
+categories: [1007] 
+color: FF1744 
+price: 8990 
+author: Ask View Shop 
+cont:  "바닥이 좀 푹신했으면 걸을 때 편할거 같네요<br/>반짝반짝 이쁘네욥<br/>상품이  마음에  들어요<br/>신발은 예뻐요 제 발등에 살이 있는 편이라 좀 불편하네요<br/>착용감도  좋고  정사이즈 입니다<br/>" 
+---
