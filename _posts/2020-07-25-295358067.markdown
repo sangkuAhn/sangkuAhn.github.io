@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코지라벨 스퀘어 클러치" 
+description: 코지라벨 스퀘어 클러치 ..
+date: 2020-07-25 14:08:26 
+img: https://static.coupangcdn.com/image/retail/images/2019/09/03/19/6/43389d87-e4c6-41fd-a55e-33acd565b105.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=295358067&itemId=931491050&vendorItemId=5309884871&traceid=V0-113-528b09cdc0bdb635 
+categories: [1002] 
+color: A57F92 
+price: 21800 
+author: Ask View Shop 
+---
+ 

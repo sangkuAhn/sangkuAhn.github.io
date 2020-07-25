@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "핑크풋 6000 멍뭉이 가계부, 랜덤 발송, 2개" 
+description: 핑크풋 6000 멍뭉이 가계 ..
+date: 2020-07-25 16:18:12 
+img: https://static.coupangcdn.com/image/retail/images/2019/11/28/11/6/503d3b73-aaa0-4d44-a629-db75764938bb.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=344987820&itemId=1095673433&vendorItemId=5615882869&traceid=V0-113-c8a20e8726b3e503 
+categories: [1021] 
+color: 353535 
+price: 9570 
+author: Ask View Shop 
+---
+ 

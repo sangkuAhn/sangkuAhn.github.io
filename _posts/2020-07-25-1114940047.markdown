@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "프리메이드 접이식 라운드 테이블 슬림, 화이트" 
+description: 프리메이드 접이식 라운드 테 ..
+date: 2020-07-25 16:18:12 
+img: https://static.coupangcdn.com/image/vendor_inventory/fd77/41bc5968af153f9249b29f499948d1e187c2bd5c7ee83cac2d238ca38a0f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1114940047&itemId=2079603545&vendorItemId=70078665024&traceid=V0-113-ac380aa796d8bcd8 
+categories: [1021] 
+color: BF360C 
+price: 29900 
+author: Ask View Shop 
+---
+ 
