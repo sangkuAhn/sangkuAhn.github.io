@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "시우스토어/ 원목 완전자동 3단우산 접이식우산" 
+description: 시우스토어/ 원목 완전자동  ..
+date: 2020-07-25 06:51:40 
+img: https://static.coupangcdn.com/image/vendor_inventory/198a/9465432fcbdc740ad27acbe9900d25d028ae1a9a4ea1e2632f5c682498ee.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=258942562&itemId=811550085&vendorItemId=5064053137&traceid=V0-113-2b32bf85c770b94c 
+categories: [1008] 
+color: 5A8DF3 
+price: 7800 
+author: Ask View Shop 
+cont:  "가격에 반해 주문했는데 품질도 좋네요 색깔도 이쁘고 튼튼합니다 무게감 쫌 있어도 가격으로 튼튼함으로 커버 되네요 잡아당길때 쫌 힘줘야하지만 가격이 품질이 모든걸 해결해주네요 3단 자동우산치고는 가성비 굿입니다 한꺼번에 4개 구매하고 걱정했는데 주문하길 잘 했네요<br/>대체적으로 마음에 들지만 우산 피고 접을때 불편하네요.<br/><br/>자동우산인데 가격저렴해서 우선 맘에 들어 주문했는데 품질도 좋네요 짱짱해서 바람에도 강할것 같아요 약간 무게감이 있긴한데 튼튼한걸로 만족해야죠 접을때 힘좀 줘야하지만 괜찮아요 가격대비 품질은 좋네요 4개.<br/> 사길 잘했어요<br/>" 
+---

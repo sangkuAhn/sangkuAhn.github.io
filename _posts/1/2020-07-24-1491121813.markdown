@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "핸날 틴케이스 + 리본 미니 집게핀" 
+description: 핸날 틴케이스 + 리본 미니 ..
+date: 2020-07-25 06:15:39 
+img: https://static.coupangcdn.com/image/retail/images/2020/04/21/14/5/634fc1fb-c08a-49a0-b870-5498715855d7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1491121813&itemId=2559777106&vendorItemId=70552271336&traceid=V0-113-85f69e6d69fb0679 
+categories: [1003] 
+color: 35B62C 
+price: 5900 
+author: Ask View Shop 
+cont:  "딸램 단발머리하면 잔머리정리용으로 구매<br/>미니핀중에 제일큰사이즈인거 같아요<br/>제가 찾는 사이즈라 맘에들고<br/>핑크색 위주라 더 좋네용<br/>" 
+---
