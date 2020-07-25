@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "피너츠 스누피 인덱스 스프링노트 2p 세트, 혼합 색상, 1세트" 
+description: 피너츠 스누피 인덱스 스프링 ..
+date: 2020-07-25 16:18:12 
+img: https://static.coupangcdn.com/image/retail/images/2019/12/02/10/4/7ae785c1-7a52-4973-94b7-1390bc42e1f0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=346720997&itemId=1100531297&vendorItemId=5627808808&traceid=V0-113-0c68cfdf22cadbe1 
+categories: [1021] 
+color: BF360C 
+price: 8000 
+author: Ask View Shop 
+cont:  "그래도 귀여워요<br/>내지는 인덱스별로 다른 건 아니고 모든 장이 똑같아요<br/>너 무 귀 여 워 요<br/>너무 귀여워요<br/>너무 마음에 들어서 또 바로 주문했답니다.<br/><br/>당장 쓰고 싶지만 참았다가 쓰려구요ㅋ<br/>더 사려구요ㅋ<br/>생각보다 크고, 두껍고, 훨씬 예뻐요.<br/><br/>앞면과 뒷면만 달라요<br/>어쩜 이리 예쁜지<br/>정말 너무너무 마음에 들어요.<br/><br/>참지 못하고 사용하걱 되면 다시 또 주문해서 쟁여두려구요<br/>한장한장 넘기면 더 예쁘네요ㅋ<br/>홀린듯 사버려서 어디에 쓸지 잘은 모르겠지만 그래도 너무 귀엽습니다<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "짐보리 공용 스트랩 반바지 핑크" 
+description: 짐보리 공용 스트랩 반바지  ..
+date: 2020-07-25 14:30:04 
+img: https://static.coupangcdn.com/image/vendor_inventory/37f1/e270393b172214990341916e1ad2b23fd486a11ec309aeeb812020465799.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1292302084&itemId=2303562507&vendorItemId=70436638252&traceid=V0-113-ac25d74bc224f413 
+categories: [1005] 
+color: F361A6 
+price: 2890 
+author: Ask View Shop 
+cont:  "같이산 엠사이즈는 딱 좋아요<br/>딱 붙는 레깅스를 싫어하는데 딱 좋네요<br/>원피스 속바지로 입으려고 샀어요<br/>이뻐요가볍고 편하고 가격 대박 착하고  여름에 잘입겠어요8살 127에 28.<br/>7키로 여아 적당히 넉넉해요<br/>" 
+---

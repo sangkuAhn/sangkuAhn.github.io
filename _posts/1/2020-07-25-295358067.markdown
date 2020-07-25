@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코지라벨 스퀘어 클러치" 
+description: 코지라벨 스퀘어 클러치 ..
+date: 2020-07-25 14:08:26 
+img: https://static.coupangcdn.com/image/retail/images/2019/09/03/19/6/43389d87-e4c6-41fd-a55e-33acd565b105.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=295358067&itemId=931491050&vendorItemId=5309884871&traceid=V0-113-528b09cdc0bdb635 
+categories: [1002] 
+color: A57F92 
+price: 21800 
+author: Ask View Shop 
+cont:  "(어떤 브랜드던 로고 크게 박혀있는 경우가 많은데<br/>개인적으로 그런걸 안 좋아함)<br/>공감 (1/100000000)ㅋㅋㅋ<br/>배송 방금 도착해서 상품 확인하고 놀램요<br/>빳빳하게 유지되는 견고함까지<br/>아무도 사지마 나만 쓸꺼니깐ㅋㅋㅋㅋㅋㅋㅋ<br/>외부에 로고없이 심플한 디자인!! 개취!!<br/>이건 뭐 도착하자마자 품평쓰는데<br/>잘쓸께요<br/>제가 원했던 가방인데 너무  마음에 들어요 배송도 빠르고요<br/>제품 안에 무게감있게 보관하더라도<br/>최고입니다.<br/> 더이상할말없음 잘쓰고있습니다.<br/><br/>품평에 나만 쓸꺼니깐 사지말라던 분<br/>" 
+---

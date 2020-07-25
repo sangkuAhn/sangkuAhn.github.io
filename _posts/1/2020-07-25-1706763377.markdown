@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "리빙글로리 수박큐브 커터기, 1개" 
+description: 리빙글로리 수박큐브 커터기, ..
+date: 2020-07-25 15:20:29 
+img: https://static.coupangcdn.com/image/retail/images/2020/06/11/18/7/d0214016-48f9-4b27-9f08-1686d7e94dcb.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1706763377&itemId=2904804174&vendorItemId=70893744944&traceid=V0-113-f35d19cc0d7ea2d8 
+categories: [1013] 
+color: A566FF 
+price: 6730 
+author: Ask View Shop 
+cont:  "강추<br/>사용해보니 좋네요 ㅎㅎㅎ<br/>아이들이 수박을 너무 좋아해서 구입했는데<br/>완전대만족<br/>저는 쓰기편했어요^^<br/>조작미숙인지 어려워요<br/>큰수박 잘라서 완전 쉽게 통에담았네요.<br/><br/>" 
+---

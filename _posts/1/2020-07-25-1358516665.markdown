@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "차량용 헤드레스트 트레이 컵홀더 거치대 뒷좌석" 
+description: 차량용 헤드레스트 트레이 컵 ..
+date: 2020-07-25 15:56:32 
+img: https://static.coupangcdn.com/image/vendor_inventory/c2a4/7af58bd4ddeea530a889a2a7a7217628d0b64032ad24e25e7cd23a0401dc.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1358516665&itemId=2389688991&vendorItemId=70385033445&traceid=V0-113-099058dd42c31258 
+categories: [1018] 
+color: A6A6A6 
+price: 14900 
+author: Ask View Shop 
+cont:  "깔끔한게이쁘네요<br/>마음에 듭니다<br/>울집 차량에는 안됩니다.<br/> BM 헤드에 안맞아요.<br/> 헤드가 분리가 되는 차량에만 가능한거 같아요<br/>" 
+---
