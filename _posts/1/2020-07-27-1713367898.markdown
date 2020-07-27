@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "슈펜 X 비슬로우 독일군 스니커즈" 
+description: 슈펜 X 비슬로우 독일군 스 ..
+date: 2020-07-27 14:44:26 
+img: https://static.coupangcdn.com/image/retail/images/2020/06/17/18/7/c76f0979-595d-4ef6-86ab-bfa01325a2c9.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1713367898&itemId=2915834930&vendorItemId=70904509253&traceid=V0-113-cc2b15ed12fc5262 
+categories: [1007] 
+color: A6A6A6 
+price: 44900 
+author: Ask View Shop 
+cont:  "가격대비  품질  매우 좋습니다<br/>다만 마감이 좀 미흡한게 가죽 절단할때 재봉선의 볼펜 자국같은게 조금 있네요 별로 티안나서 그냥 신어요<br/>마감이나 제품 퀄리티 모두 만족스럽네요<br/>제품 상당히 만족스럽고 다양하게 코디할수있을거같아요<br/>" 
+---

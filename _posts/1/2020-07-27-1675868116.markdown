@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "논슬립 경량 EVA 작업장화 S806" 
+description: 논슬립 경량 EVA 작업장화 ..
+date: 2020-07-27 14:44:26 
+img: https://static.coupangcdn.com/image/retail/images/2020/06/04/18/3/24be5c76-c54c-4108-841e-d12bee6e084c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1675868116&itemId=2855171078&vendorItemId=70844479223&traceid=V0-113-2b0075db4cb47cee 
+categories: [1007] 
+color: f44336 
+price: 12040 
+author: Ask View Shop 
+cont:  "ㄱ가성비 좋음<br/>가볍고 좋아요 고무 냄새 많이 나는거 빼구요 ㅎ<br/>감사합니다.<br/><br/>" 
+---
