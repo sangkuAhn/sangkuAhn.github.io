@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "페이퍼플레인 피엘슈즈80 + 파우치" 
+description: 페이퍼플레인 피엘슈즈80 + ..
+date: 2020-07-27 06:44:30 
+img: https://static.coupangcdn.com/image/retail/images/2019/07/11/11/7/d2545725-39f0-4e0d-8204-0ac39a50f000.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=238462782&itemId=756186433&vendorItemId=5055474534&traceid=V0-113-bf03df438723551b 
+categories: [1007] 
+color: 353535 
+price: 14290 
+author: Ask View Shop 
+cont:  "250운동화신는데 250잘맞네요<br/>아직 바다에서 안신었으나 쿠션감있고 튼튼해보입니다<br/>자기 사이즈 보다 하나 작게 주문하는게 물에서 놀기 좋아요<br/>질도 좋고 디자인도 예쁘고 편하시다고하네요<br/>" 
+---
