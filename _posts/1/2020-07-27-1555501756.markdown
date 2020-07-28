@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "바디럽 퓨어썸 샤워기, 1개" 
+description: 바디럽 퓨어썸 샤워기, 1개 ..
+date: 2020-07-28 07:34:48 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/05/30/3198134535/954a6622-18a9-4957-b04d-e282f6275918.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1555501756&itemId=2660539269&vendorItemId=70651187305&traceid=V0-113-b06a806155a094ce 
+categories: [1015] 
+color: f44336 
+price: 29800 
+author: Ask View Shop 
+cont:  "개운한 느낌이 안들어서 좀 아쉬워요<br/>구매 후 바로 교체해서 사용해봤는데<br/>너무 따가워서 별 하나 뺐어요ㅠㅠ<br/>대체적으로 만족스러워요<br/>물세기를 약하게 하면 좀 덜아픈데<br/>물이 부드럽게 나와서 수압이 약하다고 느껴지기도 하지만<br/>빨리 적응해야 할텐데ㅋ<br/>수압이 원래 센편이라 교체하고도 여전히 수압 쬑 퍼지고 좋아요.<br/> 걸어놓으니 헤드에 고여있는 물이 똑똑 떨어지네요.<br/> 사용할때 세는건 아닌데 그러네요.<br/> 유충염려로 설치했으니 일단 안심이돼요.<br/> 떨어뜨리면 바로 깨질것같아 조심히사용 해야겠어요<br/>아이들이 아프다고 난리난리<br/>요즘 하도 수도 유충이다 뭐다 이슈가 커지고<br/>일단 아픈게 제일 문제인거 같아요<br/>조심할겸 제 맘 하나 편하자고 필터 샤워기 구매했어요!<br/>집 주변 지역에서도 유충이 나왔단 얘기가 있어서<br/>" 
+---

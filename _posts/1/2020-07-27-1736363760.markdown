@@ -9,5 +9,5 @@ categories: [1005]
 color: 43A047 
 price: 24650 
 author: Ask View Shop 
+cont:  "다만, 하자품인지... <br/> 본드가 떨어져 있고<br/>마감이 좋지않은점 아쉽습니다.<br/><br/>배송도 정확하고 상품도좋고 만족해요<br/>상품과 가격 만족합니다<br/>" 
 ---
- 

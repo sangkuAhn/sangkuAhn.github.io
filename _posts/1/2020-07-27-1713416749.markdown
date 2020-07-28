@@ -9,5 +9,5 @@ categories: [1001]
 color: 4A148C 
 price: 16800 
 author: Ask View Shop 
+cont:  "아주 맘에 듭니다^^<br/>옷.<br/>.<br/>완전 좋아요,질도좋고 돈 아깝지안아요<br/>운동할때 입을려고맘에들어요<br/>" 
 ---
- 

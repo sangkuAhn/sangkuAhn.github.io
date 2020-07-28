@@ -9,5 +9,5 @@ categories: [1002]
 color: 353535 
 price: 25000 
 author: Ask View Shop 
+cont:  "사이즈는 정사이즈인것같고 옷 몇 번 빨아도 헤지지않아 좋네요<br/>시원하고 단정해 보이는 옷이여서 좋습니다.<br/><br/>" 
 ---
- 

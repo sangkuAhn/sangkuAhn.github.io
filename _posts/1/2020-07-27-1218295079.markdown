@@ -9,5 +9,5 @@ categories: [1007]
 color: 7E57C2 
 price: 48800 
 author: Ask View Shop 
+cont:  "다른 사이즈도 샀는데 똑같은 부분이 살짝 뜯겨 있네용<br/>딱 좋아요.<br/><br/>반품하려다 걍 씁니다;<br/>본드가 코르크부분에 많이 묻어있네요<br/>좋아용 근데 박스가 살짝 뜯겨 있었어용<br/>" 
 ---
- 

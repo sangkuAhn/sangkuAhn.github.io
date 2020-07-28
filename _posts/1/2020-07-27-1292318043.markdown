@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "짐보리 공용 반팔 티셔츠 핑크" 
+description: 짐보리 공용 반팔 티셔츠 핑 ..
+date: 2020-07-28 06:30:01 
+img: https://static.coupangcdn.com/image/vendor_inventory/0e04/6d45666163c72fb9aff49f9c54199389bc9901601f3a2ed41f322b18a3a4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1292318043&itemId=2303578509&vendorItemId=70436660458&traceid=V0-113-abf459a8b9988f27 
+categories: [1005] 
+color: f44336 
+price: 3890 
+author: Ask View Shop 
+cont:  "넉넉하지만 너무 커보이지 않고 예쁘게 맞습니다.<br/><br/>약간 넉넉한듯 잘 맞습니다.<br/><br/>얇고 예뻐요<br/>얇고 팔랑팔랑거리는 시원한 옷이예요.<br/><br/>원했던 소재이고 한여름에도  편하게 입힐 수 있는 티셔츠입니다.<br/><br/>짐보리티셔츠를이가격에?저렴한가격에놀라워하면서기대를했는데 색상이화면처럼이뿐핑크도아니고재질도별롭니다<br/>집근처나갈때막입히는걸로딱이예요<br/>키 126 정도, 몸무게 27킬로 정도의 8세 남아에게<br/>" 
+---

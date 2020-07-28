@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "엔비룩 여성용 맥스 단가라 티셔츠" 
+description: 엔비룩 여성용 맥스 단가라  ..
+date: 2020-07-28 06:01:13 
+img: https://static.coupangcdn.com/image/retail/images/2020/05/19/10/9/b840f186-d7ba-4690-8e60-9090ee8d32ab.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1602478079&itemId=2737071804&vendorItemId=70727156596&traceid=V0-113-f4fc54b88eca1bf5 
+categories: [1001] 
+color: F361A6 
+price: 9900 
+author: Ask View Shop 
+cont:  "깨끗이 빨았습니당^^<br/>동네 마트나 산책 다닐때도 편하게 잘 입겟어여<br/>맘에 드는 옷이에용<br/>블루 색상 시원해보여요!<br/>사이즈도 저 66인데도 낙낙해서 부담없어요^^<br/>살짝 첨에 섬유냄새 나서<br/>얇고시원할듯색상도여름에시원해보여요<br/>이쁩니다.<br/>.<br/><br/>재질이 얇아서 무지 시원해요<br/>집에서 입을 티가 없네요 ㅋㅋㅋ<br/>집에서 편하게 입으려고 삿는뎅<br/>후질근한 옷 정리해서 다 버렸더니<br/>" 
+---
