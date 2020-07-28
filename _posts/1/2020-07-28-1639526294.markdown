@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "대구농산 갓 도정한 불릴필요없는 귀리쌀, 8kg, 1봉" 
+description: 대구농산 갓 도정한 불릴필요 ..
+date: 2020-07-28 15:20:20 
+img: https://static.coupangcdn.com/image/retail/images/2020/05/29/17/3/d9f96a2a-4f33-42bd-92ce-a95316fc0e15.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1639526294&itemId=2795863692&vendorItemId=70785505833&traceid=V0-113-a75d7148db85c680 
+categories: [1013] 
+color: BD24A9 
+price: 9900 
+author: Ask View Shop 
+cont:  "국산귀리 먹다가 도정후 바로 배송된대서 구매했는데 고소하고 쭉정이도 안나와서 좋아요.<br/> 쌀씻을때국산은 위에 많이떠서 버렸는데 이번귀리는 통통하고 밥을해서도 톡톡 터지는맛이 좋더라구요.<br/> 재구매 의사았어요<br/>깨끗하고 불리지않고 바로 쌀과 함께 밥하니 편리합니다<br/>불릴 필요 없어서 편하네요.<br/><br/>씹을 때 톡톡 터지는 게 재미있고 맛있어요.<br/><br/>톡톡터져서 아이들도  잘 먹네요<br/>" 
+---

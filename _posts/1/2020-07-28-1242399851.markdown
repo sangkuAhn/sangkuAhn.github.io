@@ -9,5 +9,5 @@ categories: [1008]
 color: A57F92 
 price: 26000 
 author: Ask View Shop 
+cont:  "3단우산 한번 피자마자 휘어져 있음 ㅋㅋㅋㅋㅋㅋㅋ판매자 문자쓉고 대답없고 불친절응대 그냥 반품<br/>굿<br/>" 
 ---
- 
