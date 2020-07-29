@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "온더리버 여성용 리틀 레터링 반팔티셔츠" 
+description: 온더리버 여성용 리틀 레터링 ..
+date: 2020-07-29 14:01:13 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/05/12/2/cf065691-0b1a-4838-9e02-458408c152ac.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1332271965&itemId=2392041659&vendorItemId=70572879478&traceid=V0-113-767ecf8f9e1304f4 
+categories: [1001] 
+color: A566FF 
+price: 7900 
+author: Ask View Shop 
+cont:  "나쁘지는 않아요!!<br/>입어보야  알겠지만 소재도.<br/>너무좋고 옷이 얇고 시원한거 같아서  좋아요 배송은 좀 느렸지만  가격도 착하네요<br/>좀 더 길었으면 좋겠디만... <br/><br/>한번 빨았는데 목 다 늘어났어요.<br/> 참고로 빨래망에 넣었습니다.<br/><br/>" 
+---

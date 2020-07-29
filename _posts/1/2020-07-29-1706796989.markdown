@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코코블랑 뉴셔링 브이넥 롱원피스" 
+description: 코코블랑 뉴셔링 브이넥 롱원 ..
+date: 2020-07-29 14:01:13 
+img: https://static.coupangcdn.com/image/retail/images/2020/06/15/10/6/7ec234c0-2eab-4234-a9d4-3bc1c483e1e4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1706796989&itemId=2904859922&vendorItemId=70893799688&traceid=V0-113-1d82c7b1a0f7d25e 
+categories: [1001] 
+color: 006064 
+price: 15900 
+author: Ask View Shop 
+cont:  "색상도 길이도 가격도 디자인도 굿굿<br/>예쁘고 좋아요<br/>" 
+---

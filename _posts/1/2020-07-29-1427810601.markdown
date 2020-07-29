@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "빅사이즈 스타벅스 숄더백 BG20MS0144" 
+description: 빅사이즈 스타벅스 숄더백 B ..
+date: 2020-07-29 14:51:39 
+img: https://static.coupangcdn.com/image/vendor_inventory/08a2/12b9ed1db53728f9b4500ed45e371fb384697228566dccd1bd50b53a932d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1427810601&itemId=2467485791&vendorItemId=70460907927&traceid=V0-113-eec98abc181c9da1 
+categories: [1008] 
+color: A566FF 
+price: 8900 
+author: Ask View Shop 
+cont:  "마트갈때 들고 갔는데 신랑이 꽤 많이 드간데요 ㅋㅋㅋ<br/>이가격에 이정도퀄이면 좋죠 ㅎㅎ<br/>정말 예뻐요완전 맘에 들어요<br/>튼튼한거 같고 냄새가 심하다던데 저는 전혀 그런게없어요<br/>튼튼합니다.<br/><br/>" 
+---
