@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "세이스타일 따따블 와이드 점프수트" 
+description: 세이스타일 따따블 와이드 점 ..
+date: 2020-07-30 06:01:13 
+img: https://static.coupangcdn.com/image/retail/images/2020/02/28/15/3/ce81427d-c41a-4c07-9182-70a0a68deeed.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1335751287&itemId=2361534354&vendorItemId=70357893924&traceid=V0-113-976ba7ed89c0bf3a 
+categories: [1001] 
+color: BF360C 
+price: 14900 
+author: Ask View Shop 
+cont:  "검은색이라 아무 티랑 입어도 잘어울리고 강추합니다^^<br/>그럭저럭  나쁘지는 않네요 끈이 좀 흐느적거려서 손을 좀 보고 집에서 입으려구요 집에서 입으려구 샀던건데 편하긴 하네요<br/>비침 없는옷으로 찾다가 구매했어요.<br/><br/>비침도없고 가볍고 시원한재질인데 스판기있고 핏도 예뻐요!<br/>어제 놀러갈  때  입었는데 편하고 이쁘네요<br/>여름옷이다보니 비침있는 옷들도 많던데<br/>예전부터 점프수트사고 싶었는데 드뎌 샀네요<br/>점프수트 검색하다가 평 보고 샀는데 대만족입니다<br/>한가지, 끈이 두개라 예쁘긴한데 한번씩 내려오긴하네요 잘 고정해서 입어봐야겠어요.<br/><br/>" 
+---

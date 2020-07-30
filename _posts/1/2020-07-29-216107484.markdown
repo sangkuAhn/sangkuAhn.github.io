@@ -9,5 +9,5 @@ categories: [1007]
 color: F15F5F 
 price: 14900 
 author: Ask View Shop 
+cont:  "아주 편함<br/>푹신하고 좋아요<br/>한치수 크게 주문했는데 생각보다  작게 나온듯요<br/>" 
 ---
- 

@@ -9,5 +9,5 @@ categories: [1007]
 color: 43A047 
 price: 29400 
 author: Ask View Shop 
+cont:  "발두 편하구 가벼워서 좋아요<br/>" 
 ---
- 

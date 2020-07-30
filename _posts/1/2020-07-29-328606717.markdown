@@ -9,5 +9,5 @@ categories: [1007]
 color: 35B62C 
 price: 31000 
 author: Ask View Shop 
+cont:  "많은 시간 서서 일하는 직업이라 발이 편해보여 구매했습니다  처음엔 좀 끼는듯했지만 금새 발이 편해지네요.<br/> 잘신을수 있을거같애요<br/>" 
 ---
- 
