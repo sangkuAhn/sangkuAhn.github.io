@@ -9,5 +9,5 @@ categories: [1008]
 color: 9E9D24 
 price: 9900 
 author: Ask View Shop 
+cont:  "근데 그 약간 레이스?? 재질이라 하얀 고무줄이 다 비쳐요<br/>디자인도 예쁘고 퀄리티도 좋아요<br/>예뻐용<br/>요즘인기라기에 사봤네요<br/>저는 괜찮았어요<br/>" 
 ---
- 

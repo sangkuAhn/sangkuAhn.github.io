@@ -9,5 +9,5 @@ categories: [1002]
 color: 5A8DF3 
 price: 36000 
 author: Ask View Shop 
+cont:  "굿<br/>말보다 질입니다<br/>" 
 ---
- 

@@ -9,5 +9,5 @@ categories: [1007]
 color: 7E57C2 
 price: 20300 
 author: Ask View Shop 
+cont:  "발사이즈가 265인데 샌들이 너무커서<br/>발큰 다른 아들에게 넘기고<br/>오래 신고 있으면 발이 아퍼요<br/>튼튼하고 견고하고 가성비 좋아요.<br/><br/>한치수 작은거로 또 주문합니다.<br/><br/>" 
 ---
- 

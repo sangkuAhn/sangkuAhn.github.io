@@ -9,5 +9,5 @@ categories: [1005]
 color: 1294AB 
 price: 2890 
 author: Ask View Shop 
+cont:  "홈웨어로 입기에 시원하고 좋아요.<br/> 허리가 생각보다 커요<br/>" 
 ---
- 
