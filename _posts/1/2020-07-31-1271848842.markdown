@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "오토봇 V 차량용 미니 무선청소기, ABV001" 
+description: 오토봇 V 차량용 미니 무선 ..
+date: 2020-07-31 15:55:54 
+img: https://static.coupangcdn.com/image/retail/images/2020/02/18/10/9/b2d25f2a-2a7b-4ef2-81a3-32df68d319a3.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1271848842&itemId=2276653236&vendorItemId=70273817421&traceid=V0-113-73c7cbe0895a7c6b 
+categories: [1018] 
+color: 03A9F4 
+price: 57730 
+author: Ask View Shop 
+cont:  "계속 지속 될지는 쭉 사용해봐야 알거같아요ㅎㅎ 사용법도 편해요 꼭꼭 사세요<br/>디자인이 깔끔해서요<br/>무선청소기 중 가장 디자인이 세련됐고<br/>오토봇 차량용 무선 청소기 구매 후 야외 잠시 나가서 소풍을 하고 가방을 차에 실었는데 개미가 가방에 딸려와 마음이 조급했는데 오토봇 덕에 빠르게 도망다니는 개미를 쉽게 잡아 큰일을 모면 할 수 있었어요.<br/> 가볍고 휴대가 편하면서 힘이 좋아서 만족 만족합니다.<br/><br/>차량용으로 두려고 샀는데 방도 청소해도 될만큼 흡입력 강해요<br/>추천 합니다<br/>흡입력은 괜찮은겟 같은대 소리가 좀 큰것 같아요<br/>" 
+---
