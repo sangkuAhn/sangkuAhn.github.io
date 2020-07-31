@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "이케아 KALAS 식기 풀세트, 멀티" 
+description: 이케아 KALAS 식기 풀세 ..
+date: 2020-07-31 15:19:52 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2018/06/27/9/3/34b37068-e699-4608-8f74-7fb83d3b30a7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=104390801&itemId=316523617&vendorItemId=70890587301&traceid=V0-113-0460112cd9975c0f 
+categories: [1013] 
+color: 5A8DF3 
+price: 10700 
+author: Ask View Shop 
+---
+ 
