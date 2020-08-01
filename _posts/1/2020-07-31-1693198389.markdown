@@ -9,5 +9,5 @@ categories: [1007]
 color: F15F5F 
 price: 7950 
 author: Ask View Shop 
+cont:  "딱딱하지 않아 좋아요<br/>잘 받았습니다 감사합니다<br/>편해요<br/>" 
 ---
- 

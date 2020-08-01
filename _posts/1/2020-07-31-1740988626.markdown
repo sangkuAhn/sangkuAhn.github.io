@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "BOCCONE 맘버터, 450g, 1개" 
+description: BOCCONE 맘버터, 45 ..
+date: 2020-08-01 07:13:18 
+img: https://static.coupangcdn.com/image/retail/images/2020/06/24/14/0/523f5e6a-7905-49bc-8d91-b2dc1e489615.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1740988626&itemId=2964037318&vendorItemId=70952484562&traceid=V0-113-03a2ba317cb1bb1f 
+categories: [1012] 
+color: D9418C 
+price: 6900 
+author: Ask View Shop 
+cont:  "가성비가 너무 좋은거 같아서 처음으로 후기 작성해봅니다!<br/>마트에서 구매하여 먹어봤는데 맛도좋고 요리할때 향도 좋더라구요 가격도 저렴했던것같아서 온라인에 찾아보고 재구매하게됐습니다! 역시나 맛있네요!<br/>요리를 즐겨해서 버터를 자주 구매하는 편입니다.<br/><br/>조카 쿠키 구워주려고 주문했어요^^<br/>판매 회사가 생소해서 제품 구매를 꺼려 했는데 제조는 웬만한 사람들은 다 알만한 대기업에서 한거더라구요.<br/><br/>" 
+---

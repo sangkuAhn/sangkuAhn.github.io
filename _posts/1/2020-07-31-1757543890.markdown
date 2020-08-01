@@ -9,5 +9,5 @@ categories: [1019]
 color: 4CAF50 
 price: 7470 
 author: Ask View Shop 
+cont:  "요즘같은때에 필수같아요<br/>" 
 ---
- 

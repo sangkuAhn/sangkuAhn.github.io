@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "세이스타일 에바 점프수트" 
+description: 세이스타일 에바 점프수트 ..
+date: 2020-08-01 06:01:14 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/09/17/3/a241effe-8d24-45fe-bc46-f5716fa269a7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1335751472&itemId=2361534623&vendorItemId=70357893998&traceid=V0-113-24a684a255fcd90a 
+categories: [1001] 
+color: A566FF 
+price: 14900 
+author: Ask View Shop 
+cont:  "강추!!<br/>길이랑 옷감 다 좋아요  두께도 적당해서 늦봄에서 초가을까지 가능해요 단지 아쉬운건 멜빵부분에 실밥 마무리가 깔끔하지 않아서 제가 가위로 다 정리했어요 그거 빼고는 만족해요<br/>말그대로 굿임닭상품평  않쓰는 사람인대 이옷은 말이필요없을 정도록 넘좋내요<br/>원단도 보풀걱정없고 봄부터 초가을까지 입기 좋은 바지입니다.<br/> 뱃살커버도 되고 동생이 자기도 산다고 합니다^^<br/>키153에 66싸이즈 입는 키작녀에게도 잘맞는 바지입니다<br/>" 
+---
