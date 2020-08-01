@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "리복 DXM 시리즈 1600 M CN7736" 
+description: 리복 DXM 시리즈 1600 ..
+date: 2020-08-02 06:44:27 
+img: https://static.coupangcdn.com/image/retail/images/92515063496366-9ac3431f-a4b7-43b5-873e-8e355e977d00.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1734432355&itemId=2952627384&vendorItemId=70941144456&traceid=V0-113-3b4d20d31c153b04 
+categories: [1007] 
+color: 1294AB 
+price: 41470 
+author: Ask View Shop 
+---
+ 

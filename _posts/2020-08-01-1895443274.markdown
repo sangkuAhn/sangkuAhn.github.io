@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "닌텐도 스위치 제노블레이드 크로니클스2 한국어, 단일상품" 
+description: 닌텐도 스위치 제노블레이드  ..
+date: 2020-08-02 07:42:03 
+img: https://static.coupangcdn.com/image/retail/images/2020/07/30/14/1/499e2315-cf39-4190-a725-311fa4f479ae.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1895443274&itemId=3220103393&vendorItemId=71207376688&traceid=V0-113-eb4d5e8eb814c239 
+categories: [1016] 
+color: F15F5F 
+price: 61140 
+author: Ask View Shop 
+---
+ 
