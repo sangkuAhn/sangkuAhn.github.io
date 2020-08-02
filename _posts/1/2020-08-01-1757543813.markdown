@@ -9,5 +9,5 @@ categories: [1019]
 color: BD24A9 
 price: 7470 
 author: Ask View Shop 
+cont:  "따로 기록장 쓰지않아도 되서 편하고.<br/>.<br/>문제 풀이도 있어서 좋아요<br/>이제 방학때마다 시키려구요<br/>재구매하는 제품입니다<br/>짧은 방학이지만.<br/>.<br/>여전히 방학생활은.<br/>.<br/>해야하므로.<br/>.<br/>^^<br/>" 
 ---
- 

@@ -9,5 +9,5 @@ categories: [1007]
 color: F361A6 
 price: 35900 
 author: Ask View Shop 
+cont:  "굿입니다<br/>빠르게왔네요<br/>사이즈도 딱 맞는게오고 배송도 예정일보다 3일이나<br/>상태 아주 좋습니다.<br/><br/>품질 하자없이 만족합니다.<br/><br/>" 
 ---
- 

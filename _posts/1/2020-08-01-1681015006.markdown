@@ -9,5 +9,5 @@ categories: [1006]
 color: 35B62C 
 price: 8990 
 author: Ask View Shop 
+cont:  "100샀으면 작을뻔<br/>가성비짱.<br/>옷질도  맘에 듭니다<br/>제가 원하던 사이즈 잘입을게요 ㅎ<br/>" 
 ---
- 
