@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 홈플래닛 고속충전 케이블 5핀, 5색, 1.5m, 5개" 
+description: 쿠팡 브랜드 - 홈플래닛 고 ..
+date: 2020-08-02 15:41:20 
+img: https://static.coupangcdn.com/image/retail/images/18977887046017-7a76507a-9836-4295-8250-ee16ff888dcf.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1628631804&itemId=2778298243&vendorItemId=70768075225&traceid=V0-113-2fbcc382899b3b6d 
+categories: [1016] 
+color: BF360C 
+price: 7500 
+author: Ask View Shop 
+---
+ 
