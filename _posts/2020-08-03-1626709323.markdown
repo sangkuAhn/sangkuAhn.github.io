@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "내셔널지오그래픽 5부 바지(A14) 반바지" 
+description: 내셔널지오그래픽 5부 바지( ..
+date: 2020-08-04 06:08:49 
+img: https://static.coupangcdn.com/image/vendor_inventory/9d2a/6243d1cf422c1a214a18b640818d08924158982d67e4a9f3d30a2e23307b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1626709323&itemId=2774933828&vendorItemId=71169785931&traceid=V0-113-e87534933ad47419 
+categories: [1002] 
+color: 353535 
+price: 29000 
+author: Ask View Shop 
+---
+ 
