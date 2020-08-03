@@ -9,5 +9,5 @@ categories: [1007]
 color: 4CAF50 
 price: 26950 
 author: Ask View Shop 
+cont:  "235 평소사이즈<br/>가벼우면서 넘 이뻐요!!!<br/>약간 큰 느낌이 드는건 밴드가 헐거워서인거같아요<br/>착용감좋고<br/>편합니다<br/>" 
 ---
- 
