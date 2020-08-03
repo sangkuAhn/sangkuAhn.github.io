@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "난닝구 케로느 프릴체크 원피스" 
+description: 난닝구 케로느 프릴체크 원피 ..
+date: 2020-08-03 14:01:10 
+img: https://static.coupangcdn.com/image/retail/images/2020/06/18/11/7/d34d942c-48c2-43c1-89cc-1514178a0a10.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1721880056&itemId=2930747210&vendorItemId=70919377124&traceid=V0-113-73bd6ad0e038a409 
+categories: [1001] 
+color: 4CAF50 
+price: 24000 
+author: Ask View Shop 
+cont:  "근데 비침땜에 이너를 잘 입어야 겠어요.<br/><br/>길이감도 좋구요,, 색이랑 원단도 넘 시원해보입니다<br/>나쁘진않은데 외출복보단 홈웨어ㅠ<br/>너무 펑퍼짐해요.<br/>  안이쁜건아닌데 뭔가 날씬해보이는옷은<br/>마른편인 사람이 입음 더욱 예뻐보일 디자인입니다^^<br/>살짝 비침이 있지만 심하진 않아요<br/>쇄골이 도드라져보여 위에는 여리여리 해보여요.<br/><br/>아니예요.<br/>집에서 홈웨어로 좋네오.<br/><br/>원단이 거즈면이지만 차별화된 고급이에요<br/>" 
+---

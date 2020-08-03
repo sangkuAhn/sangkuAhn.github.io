@@ -9,5 +9,5 @@ categories: [1020]
 color: A6A6A6 
 price: 7960 
 author: Ask View Shop 
+cont:  "가성비 정말 최고입니다<br/>싸고 좋아요 ㅎㅎ<br/>아주아주좋습니다!!!<br/>" 
 ---
- 

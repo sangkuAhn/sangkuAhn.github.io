@@ -9,5 +9,5 @@ categories: [1019]
 color: f44336 
 price: 13050 
 author: Ask View Shop 
+cont:  "경험에서 우러나오는 글 좋았습니다<br/>솔직 진솔한 내용이 참 좋았습니다<br/>솔직담백하게 쓴 글이 더 마음 아픔 앞으론 꽃길만 걷길<br/>" 
 ---
- 

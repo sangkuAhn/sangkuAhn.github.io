@@ -9,5 +9,5 @@ categories: [1002]
 color: 9E9D24 
 price: 9900 
 author: Ask View Shop 
+cont:  "너무 편하고 좋네요<br/>딱 제가 찾던 재질 디자인이에요<br/>완존편하고 좋아요<br/>재입고 되는대로 하나 더 구입하려구요<br/>하나 더 사고 싶은데 왜 품절인가요ㅠㅠ<br/>" 
 ---
- 
