@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "샤바스 고급 때밀이 타월, 혼합 색상, 5개" 
+description: 샤바스 고급 때밀이 타월,  ..
+date: 2020-08-04 15:34:21 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/10/19/3976664786/d208a5bc-9339-49c4-8883-c94d01289aff.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=136782585&itemId=400861377&vendorItemId=3976664786&traceid=V0-113-9996db22005fddb1 
+categories: [1015] 
+color: BF360C 
+price: 3590 
+author: Ask View Shop 
+---
+ 

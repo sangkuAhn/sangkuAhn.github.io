@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "BAY-B 썬쉐이드 해먹 보트, 민트" 
+description: BAY-B 썬쉐이드 해먹 보 ..
+date: 2020-08-04 15:48:45 
+img: https://static.coupangcdn.com/image/retail/images/2018/05/09/17/4/a213e74b-79a1-4936-a853-2cef8df91a3c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1898175592&itemId=3224546133&vendorItemId=3715524597&traceid=V0-113-eb6f973ac5045ffe 
+categories: [1017] 
+color: 1294AB 
+price: 25760 
+author: Ask View Shop 
+---
+ 

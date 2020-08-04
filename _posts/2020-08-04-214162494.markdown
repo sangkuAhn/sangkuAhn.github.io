@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "닌텐도 스위치 뉴 슈퍼마리오 브라더스U 디럭스 게임팩, 단일 상품" 
+description: 닌텐도 스위치 뉴 슈퍼마리오 ..
+date: 2020-08-04 16:10:21 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/03/18/4291678330/d4f71338-cd5c-4ddf-b5c4-48c87dfe7586.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=214162494&itemId=651679425&vendorItemId=4291678330&traceid=V0-113-9b15154134cbf461 
+categories: [1020] 
+color: 006064 
+price: 54610 
+author: Ask View Shop 
+---
+ 
