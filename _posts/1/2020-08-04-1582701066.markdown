@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코멕스 아이스탱크 아이스박스, 네이비, 23L" 
+description: 코멕스 아이스탱크 아이스박스 ..
+date: 2020-08-04 15:19:58 
+img: https://static.coupangcdn.com/image/retail/images/2020/05/12/11/2/2ec01583-d8d2-44a2-af31-3b078a584490.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1582701066&itemId=2705571222&vendorItemId=70695874693&traceid=V0-113-f48dde2107df2b0a 
+categories: [1013] 
+color: f44336 
+price: 38900 
+author: Ask View Shop 
+cont:  "냉기가 잘 보존되어 좋아요.<br/><br/>뒷마감(뚜껑 경첩)이 튀어나와 있어<br/>디자인, 색깔 맘에 듭니다.<br/><br/>상품 자제도 무겁지않고,<br/>크거나 적은것만있어 적당한사이즈가 필요했는데 사이즈딱이네요 1박2일 넉넉히사용할수있네요<br/>튼튼하고 크기도 크고 좋아요 ㅎㅎ 얼음 넣어뒀는데 24시간 지났는데 다 안녹았어요 ㅋㅋㅋ<br/>혹시 차에서 부딪히거나 불편할 수는 있을것 같아요.<br/><br/>" 
+---

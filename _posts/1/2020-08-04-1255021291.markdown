@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "스노우라인 롱릴렉스체어, 블랙, 1개" 
+description: 스노우라인 롱릴렉스체어, 블 ..
+date: 2020-08-04 15:48:45 
+img: https://static.coupangcdn.com/image/retail/images/2020/02/08/16/4/75b9c893-ab8f-415e-b42d-c2ed6186c180.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1255021291&itemId=2255235301&vendorItemId=70252571403&traceid=V0-113-6613777417593630 
+categories: [1017] 
+color: FF1744 
+price: 47500 
+author: Ask View Shop 
+cont:  "단단하고 간편하고 가방도 고퀄이에요 좋습니다 편한데 아랫부분이 조금 좁아요 어깨넓이가 52cm 정도 되는거같은 대 일반 성인남자가 기대면 조금 좋네요! 그거 말고는 굿굿<br/>생각보다 크고 무겁지만 편하고 튼튼해보여 좋습니다<br/>품질최고  의자커버최고   무게는있지만 콜만 것보다 내구성 최고내요 가격대비 최고의 품질 후회는절대없을것  같습니다<br/>" 
+---
