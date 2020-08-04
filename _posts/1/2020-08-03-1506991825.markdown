@@ -9,5 +9,5 @@ categories: [1001]
 color: 9E9D24 
 price: 18300 
 author: Ask View Shop 
+cont:  "맘에 쏙 듭니다<br/>해외배송이라좀마니늦엇는데.<br/>품질은괜찮아요.<br/>맘에들어요<br/>" 
 ---
- 
