@@ -9,5 +9,5 @@ categories: [1003]
 color: 4CAF50 
 price: 23840 
 author: Ask View Shop 
+cont:  "그냥저냥 또 입혀놓으니 괜찮더군요.<br/><br/>디자인도 예쁘고 튼튼하고 좋아요 잘 산거 같아요<br/>일단,아이가좋아해요<br/>저렴하고 좋은상품 잘샀어요<br/>초딩3학년인데.<br/>.<br/>작은가싶었는데<br/>" 
 ---
- 

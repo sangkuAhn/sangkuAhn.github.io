@@ -9,5 +9,5 @@ categories: [1013]
 color: CF36BB 
 price: 129000 
 author: Ask View Shop 
+cont:  "ㅋㅋ 오늘 아침에 수령 후 테스트겸 고기구워먹어봤습니다<br/>맛있었어요!<br/>블랙 케이스가 이쁨<br/>역시 그릴이 좋네요... <br/><br/>청소는 조금 귀찮지만 적당히 쓰다가 그릴망 새로사야겠네요<br/>" 
 ---
- 

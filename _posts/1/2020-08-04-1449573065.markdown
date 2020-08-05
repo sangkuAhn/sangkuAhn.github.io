@@ -9,5 +9,5 @@ categories: [1004]
 color: 7E57C2 
 price: 5900 
 author: Ask View Shop 
+cont:  "건조기 돌려서 줄어들까봐 두치수 크게 주문하니 잘 맞네요<br/>아이가 너무 이쁘다고 포장 뜯자마자 입었어요<br/>화면과 같고, 시원하게 잘 입힐 것같아요<br/>" 
 ---
- 
