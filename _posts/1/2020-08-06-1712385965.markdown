@@ -9,5 +9,5 @@ categories: [1007]
 color: A57F92 
 price: 39900 
 author: Ask View Shop 
+cont:  "역시 슬리퍼는 아디다스입니다 많이 파세요<br/>" 
 ---
- 

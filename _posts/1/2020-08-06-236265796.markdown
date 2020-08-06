@@ -9,5 +9,5 @@ categories: [1002]
 color: 006064 
 price: 21900 
 author: Ask View Shop 
+cont:  "목이 엄청 쫄립니다 피안통해요; 제가 작게 시킨것도잇지만 목이 엄청쫄리네요<br/>이쁘긴한데 면이 얇아요<br/>" 
 ---
- 
