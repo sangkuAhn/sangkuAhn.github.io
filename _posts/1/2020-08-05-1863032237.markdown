@@ -9,5 +9,5 @@ categories: [1007]
 color: A57F92 
 price: 17900 
 author: Ask View Shop 
+cont:  "가격대비 훌륭한상품이네요<br/>바닥은 적당히 딱딱하고 견고한게 신기 좋네요<br/>비치샌들<br/>저렴한 가격에 높은 품질만족합니당^^<br/>한개더 재주문 의사있습니다<br/>" 
 ---
- 

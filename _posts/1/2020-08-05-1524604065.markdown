@@ -9,5 +9,5 @@ categories: [1007]
 color: 35B62C 
 price: 41800 
 author: Ask View Shop 
+cont:  "색상은 생각대로입니다.<br/> 품질은 사용해봐야 알것같아요  잘 사용하겠습니다.<br/><br/>" 
 ---
- 

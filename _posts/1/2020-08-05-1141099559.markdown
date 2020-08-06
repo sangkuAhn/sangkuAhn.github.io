@@ -9,5 +9,5 @@ categories: [1002]
 color: 1294AB 
 price: 42900 
 author: Ask View Shop 
+cont:  "너무너무 비싸네요  얘들이 사달라니 안사줄수도 없고 ㅜ<br/>배송 제품 상태 모두 만족입니다!<br/>이뻐요<br/>" 
 ---
- 

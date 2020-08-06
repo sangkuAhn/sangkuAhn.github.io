@@ -9,5 +9,5 @@ categories: [1008]
 color: 4CAF50 
 price: 9900 
 author: Ask View Shop 
+cont:  "색상이 사진만큼  선명하지않아요.<br/>장바구니로 사용하긴 좋아요<br/>이가격에.<br/>.<br/>  훌룽합니다<br/>큼직하니좋아요<br/>" 
 ---
- 
