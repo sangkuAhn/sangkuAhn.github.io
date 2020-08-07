@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "미밴드 3 / 4 호환 스트랩, 인디핑크, 3개" 
+description: 미밴드 3 / 4 호환 스트 ..
+date: 2020-08-08 07:49:51 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/27/11/2/8e480dae-d62c-438e-a4a5-c74d4864f4c1.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1248144654&itemId=2442345379&vendorItemId=70436108746&traceid=V0-113-d1cf7f07b54dfa4b 
+categories: [1017] 
+color: FF1744 
+price: 6500 
+author: Ask View Shop 
+---
+ 

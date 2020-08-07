@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "삼성전자 크바드라트 휴대폰 케이스" 
+description: 삼성전자 크바드라트 휴대폰  ..
+date: 2020-08-08 07:42:37 
+img: https://static.coupangcdn.com/image/retail/images/8843387987275-e17984b7-a355-4262-b73b-a9cfe5584f48.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1911910349&itemId=3246002713&vendorItemId=71233094970&traceid=V0-113-50e55f0ca9905560 
+categories: [1016] 
+color: FF6F00 
+price: 29700 
+author: Ask View Shop 
+---
+ 
