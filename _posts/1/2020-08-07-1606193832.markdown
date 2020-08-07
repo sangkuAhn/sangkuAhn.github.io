@@ -9,5 +9,5 @@ categories: [1007]
 color: 1294AB 
 price: 21000 
 author: Ask View Shop 
+cont:  "아주 잘맞아요.<br/>신랑이 좋아해요^^<br/>" 
 ---
- 

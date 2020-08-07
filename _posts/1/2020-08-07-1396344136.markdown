@@ -9,5 +9,5 @@ categories: [1007]
 color: 353535 
 price: 34710 
 author: Ask View Shop 
+cont:  "가볍고  좋아요<br/>사진보다 실제가 더 예쁘고  실제로도 가볍고 편했어요<br/>사진보다 실제가 예쁘고 가볍고 신기편했어요<br/>" 
 ---
- 

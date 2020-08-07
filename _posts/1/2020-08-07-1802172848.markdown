@@ -9,5 +9,5 @@ categories: [1002]
 color: A6A6A6 
 price: 41000 
 author: Ask View Shop 
+cont:  "넘좋아요  강추 입니다<br/>배송이 느린것아니면 별 다섯게 짜리에요<br/>원단좋구 박음질좋구 싸이즈 딱 맞고<br/>" 
 ---
- 
