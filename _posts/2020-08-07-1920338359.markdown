@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "삼성전자 갤럭시 노트20, 공기계, 미스틱 그레이, 256GB" 
+description: 삼성전자 갤럭시 노트20,  ..
+date: 2020-08-07 15:42:29 
+img: https://static.coupangcdn.com/image/retail/images/10328466400763-c7bee459-c568-4de5-a12d-3bf9e486b8f7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1920338359&itemId=3260487710&vendorItemId=71247543670&traceid=V0-113-39258770782372be 
+categories: [1016] 
+color: 7E57C2 
+price: 1199000 
+author: Ask View Shop 
+---
+ 
