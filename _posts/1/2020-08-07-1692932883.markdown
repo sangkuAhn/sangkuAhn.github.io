@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "크록스 본사 남녀공용 크록밴드 플랫폼 슬라이드 205631" 
+description: 크록스 본사 남녀공용 크록밴 ..
+date: 2020-08-08 06:44:42 
+img: https://static.coupangcdn.com/image/vendor_inventory/457f/77de33dffc69e3547c16045822f26908b4921676b1c83226e9fec65f81d8.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1692932883&itemId=2882364583&vendorItemId=70871470313&traceid=V0-113-5c736c15bb8dc667 
+categories: [1007] 
+color: f44336 
+price: 19900 
+author: Ask View Shop 
+cont:  "굽이 높아요<br/>그런데 걸을 때<br/>딸은 조아합니다<br/>신발은 신어보고 사는걸로 해야겠네요<br/>오자마자 신었는데 발에 무리가오네요 편함이 일도없어요 크록스 다른모양들은 정말 편하게 신고있는데.<br/>.<br/> 발도아프고 발목도아프고 불편해서 버려야겠어요ㅠㅠ<br/>저는 낮은게 좋을거 같아요<br/>조금 삐끗하네요<br/>좋아용<br/>" 
+---
