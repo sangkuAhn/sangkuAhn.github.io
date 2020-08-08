@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "삼성전자 갤럭시버즈 라이브, SM-R180, 브라운" 
+description: 삼성전자 갤럭시버즈 라이브, ..
+date: 2020-08-08 15:41:42 
+img: https://static.coupangcdn.com/image/retail/images/36672015288070-e9391f99-7754-4bd6-b247-bfe6baf5b639.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1910786533&itemId=3244220894&vendorItemId=71231396678&traceid=V0-113-dcbf84f0e4cd6161 
+categories: [1016] 
+color: 43A047 
+price: 198000 
+author: Ask View Shop 
+---
+ 
