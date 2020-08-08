@@ -9,5 +9,5 @@ categories: [1020]
 color: 03A9F4 
 price: 4000 
 author: Ask View Shop 
+cont:  "다 좋아요 근데 풀이 붙어서 잘 안떼어지네요 그거 빼고 안죤 최공! 가성비가 좋은거 같슙니당<br/>십자수가 아직 오지 않아 사용은 하지 못함.<br/><br/>좋네요<br/>" 
 ---
- 
