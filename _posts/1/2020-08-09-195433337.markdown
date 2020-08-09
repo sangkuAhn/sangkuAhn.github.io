@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "리바이스키즈 아동용 소매 포인트 반팔티셔츠 키즈 LS3TTSP6" 
+description: 리바이스키즈 아동용 소매 포 ..
+date: 2020-08-09 14:22:49 
+img: https://static.coupangcdn.com/image/vendor_inventory/6c5c/2caad67b654447b2209ae9cd6c3fcaaccfb64467e8fcc2bfd3b44743f757.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=195433337&itemId=561290201&vendorItemId=4475351537&traceid=V0-113-16a00bfe1bc77133 
+categories: [1004] 
+color: A6A6A6 
+price: 1500 
+author: Ask View Shop 
+cont:  "질이 너무 좋아요<br/>" 
+---

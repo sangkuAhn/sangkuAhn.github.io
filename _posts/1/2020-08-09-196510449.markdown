@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "CROCS 크록스/ 크록밴드 11016_4S3" 
+description: CROCS 크록스/ 크록밴드 ..
+date: 2020-08-09 14:44:25 
+img: https://static.coupangcdn.com/image/vendor_inventory/dfb1/418c97d4be6920b79ca938a5aa9fd4c5dadc74fedca1d00bb175e67c8ecc.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=196510449&itemId=566071495&vendorItemId=4485822767&traceid=V0-113-bdb16adaa0d82bfc 
+categories: [1007] 
+color: 353535 
+price: 37800 
+author: Ask View Shop 
+cont:  "가볍고 편한데다 가성비도 좋아서 맘에들어요^^<br/>색깔 조녜 너무 이쁨요<br/>실제 색상도 사진과 같아요<br/>운동화 235신는데 240으로하니 뒷굼치가 살짝 걸리지만<br/>저한테는 이 사이즈가 맞는것같아요<br/>크록스는 항상 240 신었음<br/>" 
+---

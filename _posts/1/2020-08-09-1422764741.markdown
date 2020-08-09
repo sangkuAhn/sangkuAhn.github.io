@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "로로샤 여아용 캣츠 원피스" 
+description: 로로샤 여아용 캣츠 원피스 ..
+date: 2020-08-09 14:22:49 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/31/15/7/d845cd81-2742-4180-94eb-acab6c8fd2fa.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1422764741&itemId=2461687035&vendorItemId=70455178061&traceid=V0-113-3e0179329d31f8b3 
+categories: [1004] 
+color: FF1744 
+price: 14880 
+author: Ask View Shop 
+cont:  "26키로 통통여아인데 넘 편하게 잘 착용했어요<br/>A라인이라 날씬하고 이뻐보이고<br/>면이라 두터우면 어쩌나 했는데 얇은게  딱좋아요 울 손녀가 맘에들해요<br/>손녀들이 너무좋아해요<br/>시원하고 편한소재라 넘 만족합니다^^<br/>이쁘네요<br/>정상싸즈보다 한치수<br/>크게 샀는데 넉넉하니<br/>편한 여름원피스로 추천해요ㅋ<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "초코몽 아동용 팡팡팬츠" 
+description: 초코몽 아동용 팡팡팬츠 ..
+date: 2020-08-09 14:22:49 
+img: https://static.coupangcdn.com/image/retail/images/2020/05/17/22/0/7b351d58-21e1-42a9-a454-615ce3af1656.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1606310581&itemId=2743499929&vendorItemId=70733525480&traceid=V0-113-2b25424e31a8538f 
+categories: [1004] 
+color: 35B62C 
+price: 9900 
+author: Ask View Shop 
+cont:  "6세 남아아이에게 조금 작아서 13호 주문했다가 15호로 바꿨어요<br/>7세 같은 6세 남아 15호 착용합니다<br/>건조기돌렸는데 크게 줄어든것 같지는 않았구요 정 사이즈인것 같아요.<br/><br/>딱 예쁘네요<br/>마음에 듭니다.<br/><br/>옷은 편하고 좋다네요<br/>옷은 편하고 좋아요<br/>장마철이라 빨래하는것도 부담스러워서 반바지 몇개 샀는데<br/>저렴하면서도 컬러풀한 반바지네요^^<br/>추천드립니당♡<br/>키 94, 다리가통통해서 바지는 110입는데 7호가 딱 적당했어요<br/>" 
+---

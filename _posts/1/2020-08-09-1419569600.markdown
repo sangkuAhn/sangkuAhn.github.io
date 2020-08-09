@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "메르시밴드 쥬시오렌지 헤어핀 세트 6p" 
+description: 메르시밴드 쥬시오렌지 헤어핀 ..
+date: 2020-08-09 14:15:38 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/25/20/3/35cd95de-2a09-4c92-b8fa-92c7828e9c53.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1419569600&itemId=2457364038&vendorItemId=70450896782&traceid=V0-113-da5164cfe2b3cd37 
+categories: [1003] 
+color: CF36BB 
+price: 9900 
+author: Ask View Shop 
+cont:  "28개월여아<br/>귀엽구요, 다들 집게로 되오있어 편해요!  다만 아이의 머릿결이 얇아서 스르륵 내려가는 건 어쩔수 없네용<br/>" 
+---

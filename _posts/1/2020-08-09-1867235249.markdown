@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "이상한 과자 가게 전천당. 7, 길벗스쿨" 
+description: 이상한 과자 가게 전천당.  ..
+date: 2020-08-09 16:03:39 
+img: https://static.coupangcdn.com/image/vendor_inventory/3d35/a8c4e72dedc6f5a71dd35519d975775d8aaa450296632da793f99d4cfcd7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1867235249&itemId=3173808180&vendorItemId=71061336493&traceid=V0-113-d931afc9d96fa672 
+categories: [1019] 
+color: 43A047 
+price: 10800 
+author: Ask View Shop 
+cont:  "7권 후다닥 읽더니 “8권 언제 나와?” 물어봅니다.<br/>.<br/>ㅎㅎ<br/>둘째가 이 책을 너무 좋아합니다.<br/><br/>아이가 너무 재밌어해요.<br/> 끝까지 다 읽고 자겠다는걸 겨우 재웠어요.<br/><br/>아이가 전천당팬이라  구매했어요<br/>처음에는 저 할머니? 가 이상하게 생겼다고 거들떠도 안 보더니만.<br/>.<br/> 벌써 7권까지 와버렸죠.<br/>.<br/> ㅎㅎ<br/>코로나19때문에 책을 엄청나게 사고 있는데, 이왕이면 애들이 좋아하고 잘 읽는 책 사주니 저도 기분이 좋네요!<br/>하루에다읽고는 8권내달라는<br/>" 
+---

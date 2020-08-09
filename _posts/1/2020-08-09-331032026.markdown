@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "감성 월계수 카페 플레이트 패턴 접시, 블루" 
+description: 감성 월계수 카페 플레이트  ..
+date: 2020-08-09 15:20:27 
+img: https://static.coupangcdn.com/image/retail/images/2020/06/23/8/6/b02e6e7b-89ba-404e-af00-b38c848252d3.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=331032026&itemId=1057797329&vendorItemId=70942559855&traceid=V0-113-e7680a0ac2b49464 
+categories: [1013] 
+color: 353535 
+price: 10500 
+author: Ask View Shop 
+cont:  "너무너무 이뻐요^^<br/>뭘 플래이팅해도 예뻐요 ㅋㅋㅋㅋ<br/>생각했던것처럼 이뻐요 한개더살껄.<br/> .<br/> 가격이올랐어요 슬프네요 어흑  .<br/> .<br/><br/>외식하는 기분도 나고 기분전환되네요 ㅋㅋㅋ<br/>코로나때문에 밖에도 못나가는데 여기서 컵이랑 코스터랑 몇개 구입해서 밥먹을때 사용하니까<br/>하지만 많이 얇아 조심해야 할 듯<br/>" 
+---
