@@ -9,5 +9,5 @@ categories: [1001]
 color: BD24A9 
 price: 8800 
 author: Ask View Shop 
+cont:  "저렴하고 너무이뻐요<br/>참 사랑스러운 옷이네요.<br/><br/>" 
 ---
- 

@@ -9,5 +9,5 @@ categories: [1007]
 color: 7E57C2 
 price: 7900 
 author: Ask View Shop 
+cont:  "발볼 발등 보통인데 조금 작은 감이 있어요! 착화감은 정말 좋아요 부드럽네요!<br/>" 
 ---
- 

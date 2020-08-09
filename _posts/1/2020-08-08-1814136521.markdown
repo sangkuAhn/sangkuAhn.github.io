@@ -9,5 +9,5 @@ categories: [1001]
 color: 43A047 
 price: 19800 
 author: Ask View Shop 
+cont:  "사진과 동일한데 사이즈가 프리사이즈 한개라서 아쉽네여.<br/><br/>평소77사이즈입는데  이건  작네요<br/>" 
 ---
- 
