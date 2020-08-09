@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "핑크풋 당근 위클리플래너 5p, 랜덤 발송" 
+description: 핑크풋 당근 위클리플래너 5 ..
+date: 2020-08-09 16:18:03 
+img: https://static.coupangcdn.com/image/retail/images/2019/06/17/9/4/eabef15b-58e1-4c5d-86e5-975a1a3fba02.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=241343373&itemId=767322969&vendorItemId=4936534127&traceid=V0-113-aab1cef77969001b 
+categories: [1021] 
+color: 43A047 
+price: 10000 
+author: Ask View Shop 
+---
+ 
