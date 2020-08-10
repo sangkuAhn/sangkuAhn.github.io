@@ -11,7 +11,7 @@
 				<a href="{{ site.url }}{{ post.url }}">
 					<p><h2><b>{{ post.title }}</b></h3></h2></p>
 					<p>{{ post.date }} </p>					
-					<p>{% if page.cont}}{% else %}{{post.description}}{% endif %} </p>
+					<p>{% if page.cont %}{{page.cont}}{% else %}{{post.description}}{% endif %} </p>
 				</a>
 			</div>
 			<hr/>
