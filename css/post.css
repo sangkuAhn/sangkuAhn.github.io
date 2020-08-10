@@ -85,6 +85,34 @@ font-size: 0.7em;
     font-weight: 1000;
     color: #fff !important;
 }
+.idxBkImg{
+  background-color: #ffffff !important;
+}
+.section, .aside {
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.section {
+  clear:both;
+    break-inside: avoid;
+    margin: 0 0 2em 0;
+    padding: 1.3em 1em 0 1em;
+}
+div.figure {
+  float: left;
+  width: 15%;
+  border: thin silver solid;
+  margin: 0.5em;
+  padding: 0.5em;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+}
+img.scaled {
+  width: 100%;
+}
 </style>
 
  
