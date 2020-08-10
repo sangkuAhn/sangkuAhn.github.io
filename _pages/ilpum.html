@@ -24,23 +24,7 @@ permalink: /ilpum/
 <table >
      <thead>
      <!-- subMenu START -->
-     <tr><th>subMenu</th></tr>
-     <tr>
-          <td >               
-             <ul>       
-                 <li><a href="/woo/">[답지] 우공비 초등,중등수학</a></li>
-                 <li><a href="/ilpum/">[답지] 일품 중등수학</a></li>
-                 <li><a href="/ilpumhigh/">[답지] 일품 고등수학</a></li>
-                 <li><a href="/basicssen/">[답지] 베이직쎈 중등,고등수학</a></li>
-                 <li><a href="/litessenel/">[답지] 라이트쎈 초등수학</a></li>
-                 <li><a href="/litessen/">[답지] 라이트쎈 중등수학</a></li>
-                 <li><a href="/litessenhigh/">[답지] 라이트쎈 고등수학</a></li>
-                 <li><a href="/ssen/">[답지] 개념쎈 중등수학</a></li>
-                 <li><a href="/ssenhigh/">[답지] 개념쎈 고등수학</a></li>
-                 <li><a href="/rpm/">[답지] 개념원리RPM 고등수학</a></li>   
-             </ul>              
-         </td>    
-     </tr>
+      {% include submenu.html %} 
      <!-- subMenu END -->
      <tr>
           <th>**일품 중등 수학1(상) 450제**</th>
@@ -223,4 +207,7 @@ permalink: /ilpum/
      </tbody>
 </table>
 
+<!-- disqus -->
+{% include disqus.html %}
+{% include thnum_list.html %}  
 </div> <!-- container -->
