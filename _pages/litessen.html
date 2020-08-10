@@ -149,22 +149,25 @@ permalink: /litessen/
      </tr>
      </tbody>
 </table>
-<div>
-     <br>1. 학습 부담을 줄인 최적의 문제기본서
-     <br>주제별로 꼭 알아야 할 개념을 자세히 다루고 기본 유형을 충분히 연습할 수 있도록 구성하였습니다. 어려운 내용, 출제 빈도가 낮거나 최근 출제 경향에 맞지 않는 유형 등은 과감히 생략하여 학습 부담을 줄임으로써 수학을 어려워하는 학생들의 학습 성취도를 높일 수 있도록 하였습니다.
-     <br>
-     <br>2. 유형의 세분화
-     <br>어렵지 않은 학교 시험 문제를 총망라한 후 문제해결에 필요한 개념, 해결 방법 등에 따라 유형을 더욱 세분화하여 유형에 따른 풀이 전략을 익힐 수 있도록 하였습니다.
-     <br>
-     <br>3. 입체적인 학습
-     <br>문제의 난이도를 A, B 2단계로 나누어, A단계 기본 문제를 강화하고, B단계 유형을 더욱 세분화하여 난이도별, 유형별 입체적인 학습이 가능합니다.
-     <br>
-     <br>4. 유형 실전 마무리
-     <br>B단계의 유형에 대한 마무리 학습 문제를 구성하여 유형별 문제해결력을 키우고 완벽하게 실전에 대비할 수 있도록 하였습니다.
-     <br>
-     <br>1. 2015 개정 교육과정을 충실히 반영한 개념 정리 및 유형 분류
-     <br>2. 어려운 문제를 제외한 모든 문제를 구성
-     <br>3. 유형을 세분화하여 제시
-     <br>4. 서술형 출제 비중 강화에 따른 최적의 서술형 주관식 문항
+<!-- disqus -->
+<div class="page__comments pad_size1">
+  {% capture comments_label %}{{ site.data.ui-text[site.locale].comments_label | default: "Comments" }}{% endcapture %}
+      <h4 class="page__comments-title">{{ comments_label }}</h4>
+      <section id="disqus_thread"></section>
 </div>
+ <script>
+    var disqus_config = function () {
+      this.language = "ko";
+      this.page.url = "{{ page.url | absolute_url }}";  /* Replace PAGE_URL with your page's canonical URL variable */
+      this.page.identifier = "{{ page.id }}"; /* Replace PAGE_IDENTIFIER with your page's unique identifier variable */
+    };
+    (function() { /* DON'T EDIT BELOW THIS LINE */
+      var d = document, s = d.createElement('script');
+      s.src = 'https://https-sangkuahn-github-io.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+    })();
+  </script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<!-- disqus -->
 </div> <!-- container -->

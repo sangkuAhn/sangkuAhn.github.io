@@ -178,10 +178,25 @@ permalink: /litessenel/
      </tr>
      </tbody>
 </table>
-
-<div>
-     <br>1. 기본+유형 집중학습 시스템
-     <br>2. 개념 내용의 시각화, 도식화로 한눈에 이해하는 개념학습
-     <br>3. 다양한 서술형 문제를 단계별 해결 과정 연습을 통한 서술형 평가 완벽 대비
+<!-- disqus -->
+<div class="page__comments pad_size1">
+  {% capture comments_label %}{{ site.data.ui-text[site.locale].comments_label | default: "Comments" }}{% endcapture %}
+      <h4 class="page__comments-title">{{ comments_label }}</h4>
+      <section id="disqus_thread"></section>
 </div>
+ <script>
+    var disqus_config = function () {
+      this.language = "ko";
+      this.page.url = "{{ page.url | absolute_url }}";  /* Replace PAGE_URL with your page's canonical URL variable */
+      this.page.identifier = "{{ page.id }}"; /* Replace PAGE_IDENTIFIER with your page's unique identifier variable */
+    };
+    (function() { /* DON'T EDIT BELOW THIS LINE */
+      var d = document, s = d.createElement('script');
+      s.src = 'https://https-sangkuahn-github-io.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+    })();
+  </script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<!-- disqus -->
 </div> <!-- container -->

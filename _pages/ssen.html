@@ -149,14 +149,25 @@ permalink: /ssen/
      </tr>
      </tbody>
 </table>
-<div>
-<br>1. 개념 반복 학습의 구현
-<br>개념북과 워크북을 개념별로 1:1 매칭시켜 개념북에서 학습한 내용을 워크북에서 반복 학습 할 수 있도록 구성하였습니다.
-<br>2. 개념별 완전 학습 가능
-<br>기초 계산력 문제에서부터 실전 문제까지 개념별로 한 번에 모아서 학습할 수 있는 워크북을 구성하여 개념별 완벽한 학습이 가능하도록 하였습니다.
-<br>3. 실전을 위한 개념 별도 구성
-<br>교과서에서 다루지는 않지만 실전에서 꼭 필요한 개념과 문제 유형을 학습할 수 있도록 자세한 설명과 예제를 특강으로 구성하였습니다.
-<br>4. 자기주도학습 가능
-<br>학생 스스로 주도적으로 계획을 세워 취약한 개념에 대해 반복 학습을 할 수 있도록 단원별로 학습계획표를 구성하였습니다.
+<!-- disqus -->
+<div class="page__comments pad_size1">
+  {% capture comments_label %}{{ site.data.ui-text[site.locale].comments_label | default: "Comments" }}{% endcapture %}
+      <h4 class="page__comments-title">{{ comments_label }}</h4>
+      <section id="disqus_thread"></section>
 </div>
+ <script>
+    var disqus_config = function () {
+      this.language = "ko";
+      this.page.url = "{{ page.url | absolute_url }}";  /* Replace PAGE_URL with your page's canonical URL variable */
+      this.page.identifier = "{{ page.id }}"; /* Replace PAGE_IDENTIFIER with your page's unique identifier variable */
+    };
+    (function() { /* DON'T EDIT BELOW THIS LINE */
+      var d = document, s = d.createElement('script');
+      s.src = 'https://https-sangkuahn-github-io.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+    })();
+  </script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<!-- disqus -->
 </div> <!-- container -->

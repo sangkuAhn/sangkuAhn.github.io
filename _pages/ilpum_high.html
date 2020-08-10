@@ -122,7 +122,7 @@ permalink: /ilpumhigh/
                <a href="https://drive.google.com/file/d/1YwXgQDexfC3cc6pubSDgoWvg7HN02JSk/view?usp=sharing" target="_blank">[(정답) 기하(386제) 다운로드]</a>   
                </div>
                
-               <!-- askview_상단_디스플레이 -->
+<!-- askview_상단_디스플레이 -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-3309468445717403"
@@ -136,5 +136,25 @@ permalink: /ilpumhigh/
      </tr>
      </tbody>
 </table>
-
+<!-- disqus -->
+<div class="page__comments pad_size1">
+  {% capture comments_label %}{{ site.data.ui-text[site.locale].comments_label | default: "Comments" }}{% endcapture %}
+      <h4 class="page__comments-title">{{ comments_label }}</h4>
+      <section id="disqus_thread"></section>
+</div>
+ <script>
+    var disqus_config = function () {
+      this.language = "ko";
+      this.page.url = "{{ page.url | absolute_url }}";  /* Replace PAGE_URL with your page's canonical URL variable */
+      this.page.identifier = "{{ page.id }}"; /* Replace PAGE_IDENTIFIER with your page's unique identifier variable */
+    };
+    (function() { /* DON'T EDIT BELOW THIS LINE */
+      var d = document, s = d.createElement('script');
+      s.src = 'https://https-sangkuahn-github-io.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+    })();
+  </script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<!-- disqus -->
 </div> <!-- container -->

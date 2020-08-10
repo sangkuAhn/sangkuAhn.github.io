@@ -222,22 +222,25 @@ permalink: /ilpum/
      </tr>
      </tbody>
 </table>
-<div>
-<br>1.내신 기본 다지기를 위한 개념 학습과 기출 문제 연습
-<br>전국 중학교 중간,기말고사 문제를 철저히 분석하여 이를 바탕으로 중단원별로 출제 빈도가 높은 핵심 개념을 깔끔하게 정리하고, 시험에 자주 출제되는 유형을 뽑아 기본 학습에 충실할 수 있도록 구성!또 교과서 핵심 개념과 연계되는 심화 개념 또는 상위 개념을 소개하는 코너를 두어 개념 설명과 함께 관련 문제를 구성하여 변별력을 요구하는 문제를 보다 쉽게 해결할 수 있도록 구성!
-<br>
-<br>2.내신 만점 달성을 위한 입체적인 문제 구성
-<br>내신 만점의 목표 달성을 위해 적중도 높은 시험 예상 문제를 엄선하여 중상위 수준의 "만점 도전을 위한 고난도 문제"와 내신 만점의 실력을 굳히기 위한 최상위 수준의 "최상위로 가는 최고 수준 문제"를 중단원별로 구성하였습니다.그리고 중간·기말고사 대비를 대비하여 실력을 점검할 수 있도록 대단원별로 "학교 시험 실전 TEST"를 구성하였습니다.
-<br>
-<br>3.창의적 사고력과 문제 해결력 향상을 위한 집중 학습
-<br>다양한 창의유형 문제를 집중적으로 학습함으로써 창의적 사고력을 기를 수 있고, 문제 접근 방법과 체계적인 풀이를 제시하여 문제 해결력을 향상시킬 수 있도록 하였습니다.
-<br>
-<br>1.2015 개정 교육과정을 충실히 반영
-<br>2.강화된 내신을 대비하기 위한 상위권 대상 문제집
-<br>3.내신 기본 다지기를 위한 개념 학습과 기출 문제 연습
-<br>4.내신 만점 달성을 위한 입체적인 문제 구성
-<br>5.내신 만점 도전을 위한 서술형 주관식 문항 강화
-<br>6.창의적 사고력과 문제 해결력 향상을 위한 집중 학습
+<!-- disqus -->
+<div class="page__comments pad_size1">
+  {% capture comments_label %}{{ site.data.ui-text[site.locale].comments_label | default: "Comments" }}{% endcapture %}
+      <h4 class="page__comments-title">{{ comments_label }}</h4>
+      <section id="disqus_thread"></section>
 </div>
-
+ <script>
+    var disqus_config = function () {
+      this.language = "ko";
+      this.page.url = "{{ page.url | absolute_url }}";  /* Replace PAGE_URL with your page's canonical URL variable */
+      this.page.identifier = "{{ page.id }}"; /* Replace PAGE_IDENTIFIER with your page's unique identifier variable */
+    };
+    (function() { /* DON'T EDIT BELOW THIS LINE */
+      var d = document, s = d.createElement('script');
+      s.src = 'https://https-sangkuahn-github-io.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+    })();
+  </script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<!-- disqus -->
 </div> <!-- container -->

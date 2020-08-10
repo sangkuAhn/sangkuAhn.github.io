@@ -174,15 +174,25 @@ permalink: /ssenhigh/
      </tr>
      </tbody>
 </table>
-<div>
-<br>1. 사전식 개념 기본서
-<br><개념쎈>은 고등 교육 과정의 내용을 총망라하고 필요한 개념을 사전식으로 잘게 나누어 체계적으로 정리하였습니다.
-<br>
-<br>2. 개념을 엄밀하게 정리하고 구체적으로 설명
-<br><개념쎈>은 개념을 수학적으로 엄밀하게 정리하여 학습자가 오류 없이 정확하게 이해할 수 있도록 함과 동시에 예를 통한 구체적인 설명을 덧붙여 개념을 쉽게 이해할 수 있도록 하였습니다.
-<br>
-<br>3. 개념별 완전 학습서
-<br><개념쎈>은 개념을 학습하고 대표유형 문제를 바로 연습하여 완전 학습이 가능하도록 하였습니다. 또 다양한 실전형 문제와 수능, 평가원 기출 문제를 통해 응용력을 강화시킬 수 있도록 하였습니다.
-
+<!-- disqus -->
+<div class="page__comments pad_size1">
+  {% capture comments_label %}{{ site.data.ui-text[site.locale].comments_label | default: "Comments" }}{% endcapture %}
+      <h4 class="page__comments-title">{{ comments_label }}</h4>
+      <section id="disqus_thread"></section>
 </div>
+ <script>
+    var disqus_config = function () {
+      this.language = "ko";
+      this.page.url = "{{ page.url | absolute_url }}";  /* Replace PAGE_URL with your page's canonical URL variable */
+      this.page.identifier = "{{ page.id }}"; /* Replace PAGE_IDENTIFIER with your page's unique identifier variable */
+    };
+    (function() { /* DON'T EDIT BELOW THIS LINE */
+      var d = document, s = d.createElement('script');
+      s.src = 'https://https-sangkuahn-github-io.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+    })();
+  </script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<!-- disqus -->
 </div> <!-- container -->
