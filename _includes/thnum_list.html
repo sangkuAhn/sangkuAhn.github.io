@@ -1,0 +1,22 @@
+{% assign sorted_posts = (site.posts | sort:"date") | reverse %}
+{% for post in sorted_posts %}
+	  {% if forloop.index <= 5 %}
+	  	{% if post.img != null %} 			
+			<div class="section">
+				<div class="figure">
+			    	<a href="{{ site.url }}{{ post.url }}">
+			    		<p><img alt="{{ post.title }}" class="scaled" src="{{ post.img }}"  ></p>			    	
+			    	</a>
+				</div>	
+				<a href="{{ site.url }}{{ post.url }}">
+					<p><h2><b>{{ post.title }}</b></h3></h2>
+					<p>{{ post.date }} </p>
+					<p>{{ post.description }}</p>
+				</a>
+			</div>
+			<hr/>
+	  	 {% endif %}	  
+	  {% else %}
+	  	{% break %}
+	  {% endif %}
+  {% endfor %}
