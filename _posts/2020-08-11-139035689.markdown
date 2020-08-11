@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "보몽드 솔리드 누빔 매트커버, 다크블루" 
+description: 보몽드 솔리드 누빔 매트커버 ..
+date: 2020-08-12 07:34:49 
+img: https://static.coupangcdn.com/image/retail/images/2018/09/18/11/8/6964dd11-7ff2-448d-8462-db07e3ca2a5f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=139035689&itemId=410666939&vendorItemId=4007045442&traceid=V0-113-00bb7307005b9802 
+categories: [1015] 
+color: f44336 
+price: 16900 
+author: Ask View Shop 
+---
+ 

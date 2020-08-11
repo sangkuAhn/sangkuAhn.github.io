@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "리바이스키즈 코튼 영문 레터링 반팔티 키즈" 
+description: 리바이스키즈 코튼 영문 레터 ..
+date: 2020-08-12 06:30:02 
+img: https://static.coupangcdn.com/image/vendor_inventory/4af6/d263a6e8f80fa934204eac942da08a2c2ac2fb0152afb986497da665a9bc.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=201888498&itemId=589576068&vendorItemId=4544056522&traceid=V0-113-590239ae4f0ea664 
+categories: [1005] 
+color: f44336 
+price: 1900 
+author: Ask View Shop 
+---
+ 
