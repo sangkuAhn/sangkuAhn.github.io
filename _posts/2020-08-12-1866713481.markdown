@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "새콤한 충주 GAP 인증 햇사과, 3kg, 1팩" 
+description: 새콤한 충주 GAP 인증 햇 ..
+date: 2020-08-13 07:14:40 
+img: https://static.coupangcdn.com/image/retail/images/2020/07/23/17/2/409bb3f2-cd9b-4b4c-ae1a-4d3d09915e66.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1866713481&itemId=3172914702&vendorItemId=71160431562&traceid=V0-113-0cb730e95a615131 
+categories: [1012] 
+color: 4A148C 
+price: 15200 
+author: Ask View Shop 
+---
+ 
