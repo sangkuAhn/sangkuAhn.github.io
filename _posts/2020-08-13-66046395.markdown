@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "유파 와플메이커 EKW-915WS" 
+description: 유파 와플메이커 EKW-91 ..
+date: 2020-08-14 07:20:27 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/01/31/3111278534/53fd610d-563c-4408-8893-f53c67298cc2.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=66046395&itemId=222480584&vendorItemId=3111278534&traceid=V0-113-297f83fbd52a6a4b 
+categories: [1013] 
+color: f44336 
+price: 28860 
+author: Ask View Shop 
+---
+ 

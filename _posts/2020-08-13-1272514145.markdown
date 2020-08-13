@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "다이노 공룡우비 KD33" 
+description: 다이노 공룡우비 KD33 ..
+date: 2020-08-14 06:30:04 
+img: https://static.coupangcdn.com/image/retail/images/2020/02/18/17/1/74de8b22-9fe2-4692-807a-8c8463ad69c5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1272514145&itemId=2277497784&vendorItemId=70274650098&traceid=V0-113-7c999109c2ecd9f5 
+categories: [1005] 
+color: BF360C 
+price: 14900 
+author: Ask View Shop 
+---
+ 
