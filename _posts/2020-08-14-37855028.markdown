@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "투영디자인 크라프트 스탠딩 위클리 플래너 2p, Craft" 
+description: 투영디자인 크라프트 스탠딩  ..
+date: 2020-08-15 08:18:09 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/02/01/3299635032/83ee2bc1-fa59-46a0-a421-21c6f7d76c9e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=37855028&itemId=139714872&vendorItemId=3299635032&traceid=V0-113-92e0ea4b8296493c 
+categories: [1021] 
+color: 4374D9 
+price: 5250 
+author: Ask View Shop 
+---
+ 
