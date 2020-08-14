@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코멧 홈 베이직 스탠드행거, 화이트" 
+description: 코멧 홈 베이직 스탠드행거, ..
+date: 2020-08-14 15:34:51 
+img: https://static.coupangcdn.com/image/retail/images/300711542580396-257aee7f-2a76-44b4-b058-a49f8a5c1bc0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1676362802&itemId=2856014460&vendorItemId=70845325835&traceid=V0-113-9f9806294ade7e56 
+categories: [1015] 
+color: A6A6A6 
+price: 11390 
+author: Ask View Shop 
+---
+ 
