@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "탑텐 여성 쿨에어 탱크탑 A" 
+description: 탑텐 여성 쿨에어 탱크탑 A ..
+date: 2020-08-15 14:08:26 
+img: https://static.coupangcdn.com/image/vendor_inventory/f9ba/e06a2eb2eb3502d2c7ba1cb8dbfc766ef18e6393542c0dd2a5ba162e9a9c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1504487087&itemId=2583053194&vendorItemId=71045120323&traceid=V0-113-be6e3bf6b4ec64c8 
+categories: [1002] 
+color: BD24A9 
+price: 1300 
+author: Ask View Shop 
+---
+ 

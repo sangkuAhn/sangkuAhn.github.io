@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "사이코지만 괜찮아 2, 호우야" 
+description: 사이코지만 괜찮아 2, 호우 ..
+date: 2020-08-15 16:03:52 
+img: https://static.coupangcdn.com/image/retail/images/2020/08/12/16/9/1fd2f9aa-75d9-4cf1-ab70-3c5cf6ee0989.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1952019152&itemId=3315900046&vendorItemId=71302778338&traceid=V0-113-469876371237ba51 
+categories: [1019] 
+color: F15F5F 
+price: 15120 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "경산 거봉, 2kg(3~4수), 1박스" 
+description: 경산 거봉, 2kg(3~4수 ..
+date: 2020-08-15 15:13:20 
+img: https://static.coupangcdn.com/image/retail/images/2020/07/31/17/1/dfa7e92b-9e37-48c8-b1b3-4043bddfcb8c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1909106499&itemId=3241595582&vendorItemId=71228787688&traceid=V0-113-07dce3b052d7e292 
+categories: [1012] 
+color: FF1744 
+price: 22900 
+author: Ask View Shop 
+---
+ 

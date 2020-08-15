@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "앱코 QHD 웹캠 APC930U, 단일색상" 
+description: 앱코 QHD 웹캠 APC93 ..
+date: 2020-08-15 15:42:14 
+img: https://static.coupangcdn.com/image/retail/images/2020/05/28/16/0/8313af4d-f772-4bdf-8e3e-5f8fa7203383.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1634788413&itemId=2788295532&vendorItemId=70778015605&traceid=V0-113-f5db09344ecd5cfa 
+categories: [1016] 
+color: 4A148C 
+price: 66150 
+author: Ask View Shop 
+---
+ 
