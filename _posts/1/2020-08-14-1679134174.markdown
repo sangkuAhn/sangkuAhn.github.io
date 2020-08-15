@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "파머스팩 제주 돼지 미박삼겹살 구이용 (냉장), 500g, 1팩" 
+description: 파머스팩 제주 돼지 미박삼겹 ..
+date: 2020-08-14 15:13:13 
+img: https://static.coupangcdn.com/image/retail/images/2020/06/08/14/0/48797f74-5fd5-4701-8577-28967b70df07.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1679134174&itemId=2860548000&vendorItemId=70849823354&traceid=V0-113-530bab747a00d094 
+categories: [1012] 
+color: 4374D9 
+price: 15900 
+author: Ask View Shop 
+cont:  "난 비린내 심하고 잡내심한 음식을 못먹어봐서 그런 소리하고 다녔구나 싶음.<br/><br/>돈아깝다<br/>비린내나 잡내 이런거 상관없이 잘 먹는 줄 알았는데<br/>살다살다 이런 삼겹살은 첨 먹어봄<br/>이거 먹어보고 확실히느꼇음.<br/><br/>차라리 무한리필집 고기가 더 맛있음.<br/><br/>" 
+---

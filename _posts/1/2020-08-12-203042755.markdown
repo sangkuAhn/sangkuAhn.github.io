@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "리바이스키즈 프린트 포켓 배색 반팔티셔츠 키즈" 
+description: 리바이스키즈 프린트 포켓 배 ..
+date: 2020-08-13 06:30:07 
+img: https://static.coupangcdn.com/image/vendor_inventory/6cae/fa3b4f57206c022fd28c9cfba0b82d3c49916a17e73bc2c4ae3c3e8066cc.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=203042755&itemId=595067951&vendorItemId=4558251703&traceid=V0-113-c6cbf7ea0e23190b 
+categories: [1005] 
+color: 9E9D24 
+price: 1900 
+author: Ask View Shop 
+cont:  "가격대비 만족됩니다<br/>밝은 색상이 없어서 구매하긴했는데 이쁘네요<br/>예뻐요<br/>옷감도 좋아요<br/>저렴하게 잘 샀습니다<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "리바이스키즈 코튼 프린팅 라운드 반팔티 키즈" 
+description: 리바이스키즈 코튼 프린팅 라 ..
+date: 2020-08-15 06:30:03 
+img: https://static.coupangcdn.com/image/vendor_inventory/827e/ae8d7cea931349b2a99243a57691d3748c5b55341f03b09e83ae1b5cd6ad.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=203042374&itemId=595066556&vendorItemId=4558243219&traceid=V0-113-c60e006296b6d4f9 
+categories: [1005] 
+color: 5A8DF3 
+price: 1500 
+author: Ask View Shop 
+cont:  "옷 재질도 괜찮고 배송 포장 다 만족스럽습니다^^<br/>" 
+---

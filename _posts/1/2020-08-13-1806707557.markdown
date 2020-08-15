@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "캐럿 여성 쿨링 원피스" 
+description: 캐럿 여성 쿨링 원피스 ..
+date: 2020-08-14 06:01:15 
+img: https://static.coupangcdn.com/image/retail/images/204794457576679-9f176ee1-c354-47b8-bb3b-594ef4fe128c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1806707557&itemId=3074168748&vendorItemId=71062054672&traceid=V0-113-8330fcd17cc9546f 
+categories: [1001] 
+color: 4A148C 
+price: 13490 
+author: Ask View Shop 
+cont:  "6677 잘 맞아요<br/>개조움ㅋㅋㅋ<br/>시원하고좋아요<br/>이거 원단 짱임ㅋㅋ 한개삿다가 한개더 주문함<br/>재질이 래쉬가드느낌이구요 빗방울이 스며들지않고 튀네요ㅋ<br/>집에서 입을 원피스류 삿는디<br/>" 
+---

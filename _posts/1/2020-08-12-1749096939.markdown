@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "케즈 트리플 킥 컨버스화 57306" 
+description: 케즈 트리플 킥 컨버스화 5 ..
+date: 2020-08-13 06:44:30 
+img: https://static.coupangcdn.com/image/retail/images/2020/04/17/13/9/9a0e379b-ff02-4f32-bc9b-aed71d201cbf.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1749096939&itemId=2978733352&vendorItemId=70546351226&traceid=V0-113-3c3f7e2d5c1ace80 
+categories: [1007] 
+color: A6A6A6 
+price: 46300 
+author: Ask View Shop 
+cont:  "신기편해요.<br/> 가성비좋아여<br/>" 
+---

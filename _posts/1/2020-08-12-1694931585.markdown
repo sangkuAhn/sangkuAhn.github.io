@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "피셔프라이스 여름용 손싸개 3세트" 
+description: 피셔프라이스 여름용 손싸개  ..
+date: 2020-08-13 06:15:41 
+img: https://static.coupangcdn.com/image/retail/images/2020/06/02/14/2/1d8ce1ef-a235-4cce-bf8f-2cb047971b1c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1694931585&itemId=2885508928&vendorItemId=70874591233&traceid=V0-113-dd92b096bcf52ccc 
+categories: [1003] 
+color: 4374D9 
+price: 5700 
+author: Ask View Shop 
+cont:  "손싸개 급하게 필요해서 주문했습니다 너무 만족해요^^<br/>시원한재질이고 고무줄도짱짱해요<br/>아직 2주된 신생아는 벗겨지네요<br/>얇아서 요즘 쓰기 좋아요<br/>옷이 알록달록할때 끼면 딱좋아요<br/>" 
+---

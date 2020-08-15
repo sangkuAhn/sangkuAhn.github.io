@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "후아유 스티브 캔버스 메신저백 WHBGA4991A" 
+description: 후아유 스티브 캔버스 메신저 ..
+date: 2020-08-13 06:51:42 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/24/18/5/ba5616fc-8b2f-4ec5-af88-bd80156821b9.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1432319702&itemId=2473830754&vendorItemId=70453593015&traceid=V0-113-6d2d88228ef8f491 
+categories: [1008] 
+color: 4CAF50 
+price: 26910 
+author: Ask View Shop 
+cont:  "배송 완전 빨라요! 역시 로켓배송ㅎㅎ 상품도 제가 생각했던것괴 똑같이 너무 예뻐요! 근데 냄새가 좀 나는건 어쩔수 없겠죠ㅠ 냄새 빼면 예쁘게 매고 다니겠습니다!<br/>아 진짜 너무 예쁘고 좋아요 학교갈 때 쓰려고 샀는데 너무 좋아요 ㅜ 책 3권정도는 잘 들어가고 수납도 의외로 잘되서 좋아요 무엇보다 디자인이 너무예쁘네요<br/>" 
+---

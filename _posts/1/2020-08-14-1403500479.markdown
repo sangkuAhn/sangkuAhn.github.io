@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "시크릿쥬쥬 알뜰 문구세트, 랜덤 발송, 1세트" 
+description: 시크릿쥬쥬 알뜰 문구세트,  ..
+date: 2020-08-15 08:18:09 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/17/20/2/56f491ea-d024-4d37-a334-44f18946239d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1403500479&itemId=2438400356&vendorItemId=70432214387&traceid=V0-113-edc817f6cf1eff5a 
+categories: [1021] 
+color: 1294AB 
+price: 13150 
+author: Ask View Shop 
+cont:  "가격에  맞게 만족해요<br/>색칠놀이와 다양한 스티커  또 가위.<br/>필기구 셋트등 알차게 들어있어요.<br/>색연필로 색칠공부도 열심히 하네요.<br/><br/>아이가 좋아하는 시크릿 쥬쥬♡<br/>아이가좋아해요<br/>잘 사준듯 해요.<br/><br/>" 
+---

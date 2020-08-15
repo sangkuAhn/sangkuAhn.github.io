@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "에버라스트 투라인 슬리퍼" 
+description: 에버라스트 투라인 슬리퍼 ..
+date: 2020-08-12 06:44:26 
+img: https://static.coupangcdn.com/image/retail/images/2019/06/10/17/0/e3f25820-07a8-445f-b73f-20dda0a4ebe5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=226314386&itemId=717023395&vendorItemId=4899666102&traceid=V0-113-a9383b8e69437c4b 
+categories: [1007] 
+color: FF6F00 
+price: 9220 
+author: Ask View Shop 
+cont:  "가볍고 미끄러지지 않아서 좋았음<br/>남자친구 대신 주문해줬어요!<br/>다른 제품 고려하시는 게 좋을 것 같아요!<br/>발볼이 넓은 편이라 그런지<br/>사이즈는 정사이즈이나, 처음 신을때는 볼이 약간 타이트합니다.<br/><br/>사이즈는 정사이즈임<br/>샌들 겸으로 신고 다닐 수 있는<br/>슬리퍼가 필요하대서 골라준 건데<br/>시간 지나면서 맞춰졌다곤 하지만<br/>신다 보면 늘어나서 딱 맞아져요.<br/><br/>억센(?) 재질이라 발볼 넓으신 분들은<br/>잘신엏ㄴ음 버클 윗부분 한단계 풀어서 신었음<br/>제품 자체는 질이 괜찮습니다!!<br/>처음 12주는 발이 눌려 까진다고 하더라고요ㅠㅠ<br/>편하고, 좋아요<br/>한 사이즈 크게 사거나<br/>" 
+---

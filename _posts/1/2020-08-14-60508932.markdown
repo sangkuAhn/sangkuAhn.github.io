@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "스테판조셉 물안경, 니모" 
+description: 스테판조셉 물안경, 니모 ..
+date: 2020-08-15 06:15:40 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/07/02/3491467533/5dfd36dd-49d6-4390-9e11-e069cd146784.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=60508932&itemId=207662440&vendorItemId=3491467533&traceid=V0-113-d92bccb100f79823 
+categories: [1003] 
+color: CF36BB 
+price: 10630 
+author: Ask View Shop 
+cont:  "3살은 그럭저럭 쓰는데<br/>5살 애는 물안경  렌즈 가로 폭이 좁은건지<br/>ㅎㅎㅎ 미찬다요<br/>교환도 못 하고 엄마는 웁니다 ㅜㅜ<br/>배송 받은 그날 애들이 좋다고 바로 물에 담궈버려<br/>쓰고나면 좌우가 딱 맞아 애가 눈을 못 떠요<br/>이전에 상어샀었는데 고무 물막이부분이 빠져도망가서 다시샀어용.<br/> 5살남아쓰기에 좋구 확실히 물안들어옵니당ㅋ 이번디자인이 상어보다 더귀엽네용<br/>일단 아이가 너무 좋아하고요.<br/> 끈조절 그리고 앞에 미간 사이 조절도 매우 쉽게 되어 있어요.<br/> 아들이 쓰고 벗을 생각을 안 합니다 ㅋㅋㅋㅋㅋ  5세 아동 여유 있게 잘 맞습니다<br/>저희 집 애들 5살, 3살 남아들인데<br/>" 
+---

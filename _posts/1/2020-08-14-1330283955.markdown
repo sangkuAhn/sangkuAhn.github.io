@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "크록스 라이트라이드 클로그 204592-0DD" 
+description: 크록스 라이트라이드 클로그  ..
+date: 2020-08-14 14:44:28 
+img: https://static.coupangcdn.com/image/vendor_inventory/a887/22663d5033fad6454aee6b8fd9ed414145bf6bd5786782524f7a04ec8df2.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1330283955&itemId=2354232392&vendorItemId=70350702767&traceid=V0-113-43d653d5804fcf20 
+categories: [1007] 
+color: A566FF 
+price: 48900 
+author: Ask View Shop 
+cont:  "너무 푹신푹신해서 기분 좋네요 사이즈는 크게 시키세요 꼭<br/>신랑한테 크록스 입문시켜줬네요 편하고 시원해서 좋다고하네요!! 저렴한 가격에 잘 샀습니다!!<br/>아빠랑 엄마 커플로 사드렸는데 좋아하시네용ㅎㅎ<br/>" 
+---

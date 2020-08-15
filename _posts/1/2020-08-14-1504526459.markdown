@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "남성 클래식 여름 링딩 쪼리 국내제작" 
+description: 남성 클래식 여름 링딩 쪼리 ..
+date: 2020-08-15 06:44:27 
+img: https://static.coupangcdn.com/image/retail/images/2020/04/23/12/3/1df1b216-fbbb-43bb-b3e6-44b0b78767cd.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1504526459&itemId=2583102307&vendorItemId=70575326108&traceid=V0-113-99087a813f31bba5 
+categories: [1007] 
+color: 006064 
+price: 27800 
+author: Ask View Shop 
+cont:  "택배기사 보면 연락해라 다른집에 처 갖다놓고 상품완료 이지랄하네<br/>" 
+---

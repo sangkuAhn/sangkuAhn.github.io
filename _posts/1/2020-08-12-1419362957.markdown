@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "릴리푸리 여아용 마이린 원피스" 
+description: 릴리푸리 여아용 마이린 원피 ..
+date: 2020-08-13 06:22:53 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/31/15/1/7934a8de-23ee-4c27-bd9d-7911c4f001d2.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1419362957&itemId=2457084380&vendorItemId=70450619270&traceid=V0-113-bd6fc29bc2116851 
+categories: [1004] 
+color: FF6F00 
+price: 10800 
+author: Ask View Shop 
+cont:  "무엇보다 여성스럽고예뻐요 딸이너무좋아해요<br/>세탁해서 입혀줬더니  할머니 이거 편해요<br/>손녀딸 보러가면서 선물로 가져갔더니 첫마디가 와 예쁘다<br/>요즘 원피스에 꽂혀있는데 아주 좋아해요<br/>이러네요 ㅎㅎㅎ<br/>착한가격에 몇벌 더 사서 보내줘야겠어요♡<br/>찰랑거리는재질이라스반도너무좋고 시원스럽고<br/>찰랑찰랑한 재질이라 딸냄이 너무 좋아했어요! 소재도 여름용으로 떡 어울리는 원피스예요.<br/> 오늘 외출해서 입었는데 덥지도 춥지도 않아 너무 만족이예요.<br/> 기장도 무릎 아래 발목 위라 딱 이쁘고 마음에 들어요.<br/> 릴리푸리 제품 항상 구매할 때마다 대성공이라 넘 좋아요! ^^<br/>" 
+---

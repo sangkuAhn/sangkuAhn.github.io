@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "벤힛 웨일 오버핏 반팔티셔츠" 
+description: 벤힛 웨일 오버핏 반팔티셔츠 ..
+date: 2020-08-14 06:08:27 
+img: https://static.coupangcdn.com/image/retail/images/79600442325859-94f5b31d-3f66-4bb5-ad5e-3b975b9adcc7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1610824681&itemId=2750916532&vendorItemId=70740854849&traceid=V0-113-db000449bb5f5862 
+categories: [1002] 
+color: 1294AB 
+price: 17900 
+author: Ask View Shop 
+cont:  "55 66 입는데 xl샀어요 엄청크게나온건 아닌듯<br/>고래 프린트는 등에 인쇄되어 있습니다.<br/><br/>생각보다 질이 좋아서 좋았고 신랑이 예쁘다고하네요 많이파세요<br/>앞면은 고래 텍스트에요.<br/><br/>재질도 톡톡하니 ㄱㅊ아요<br/>좋아요 161인데 엉덩이다덮고 편한바지랑 입기 딱좋은 기장이네요<br/>혹시라도 착각하실까봐 적는데<br/>" 
+---

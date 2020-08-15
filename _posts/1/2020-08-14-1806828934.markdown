@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "달리샵 데미지 숏 밴딩 청반바지" 
+description: 달리샵 데미지 숏 밴딩 청반 ..
+date: 2020-08-15 06:01:13 
+img: https://static.coupangcdn.com/image/vendor_inventory/5a56/afa437dcb659d13afca0e4217b899699a849efc02f408ba1fd406e03eb5e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1806828934&itemId=3074358338&vendorItemId=71062242267&traceid=V0-113-a2837245e89ef21a 
+categories: [1001] 
+color: BD24A9 
+price: 5950 
+author: Ask View Shop 
+cont:  "^^<br/>가격에비해 입을만하네여<br/>걍 찢어진 구역, 모양 너무 똑같애.<br/> 이가격  이 디자인 실화인가.<br/>.<br/> 색깔도 맘에듬.<br/> 장마라 짧은 바지 필요해서 샀는데 득템!<br/>그냥 싼맛에 반바지 필요해서 구매한건데 잘 맞고 질도 좋아서 기분 좋네요.<br/><br/>배송예정일 8.<br/>4 일이었는데 주문다음날에 배송온거 뭐임? 판매자 우리 옆집사람임?<br/>헤짐이 심하지 않아 민망하지 않고 가볍게 잘 입을 수 있겠어요.<br/><br/>화면과 똑같은 옷이 배송와서 진짜 놀람.<br/><br/>" 
+---

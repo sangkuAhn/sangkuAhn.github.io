@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "캐치티니핑 티니하트윙 마법컴팩트 완구, 혼합색상" 
+description: 캐치티니핑 티니하트윙 마법컴 ..
+date: 2020-08-15 08:10:56 
+img: https://static.coupangcdn.com/image/retail/images/2020/06/30/16/1/e9534ef6-1767-4011-aa8a-a4b48d34e9ff.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1762665553&itemId=3001963294&vendorItemId=70894481730&traceid=V0-113-f46a2c7855498e74 
+categories: [1020] 
+color: BD24A9 
+price: 56000 
+author: Ask View Shop 
+cont:  "배송은 하루만에 왔고 오자마자 뜯어서 사용해보려고 했는데 건전지가 포함돼어 있지않아 따로 구매했네요 아이가 좋아하니 만족합니다<br/>살림 거덜나겠네 엉엉<br/>제발 그만ㅠ<br/>캐릭터를 같이사야 게임이 가능하네요<br/>" 
+---

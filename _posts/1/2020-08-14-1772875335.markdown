@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "핍스 essential 메신저백" 
+description: 핍스 essential 메신 ..
+date: 2020-08-14 14:08:25 
+img: https://static.coupangcdn.com/image/retail/images/2020/06/30/11/6/2d618f30-fd2f-4758-adb3-bf295bcf75ae.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1772875335&itemId=3018668244&vendorItemId=70994220281&traceid=V0-113-84c3eba14420d34d 
+categories: [1002] 
+color: 9E9D24 
+price: 37920 
+author: Ask View Shop 
+cont:  "만족합니다<br/>배송 삐르게왔고 잘 포장되어왔습니다<br/>" 
+---

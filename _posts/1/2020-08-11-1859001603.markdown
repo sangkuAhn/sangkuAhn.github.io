@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "Go Go 카카오프렌즈. 15: 브라질:세계 역사 문화 체험 학습만화, 아울북" 
+description: Go Go 카카오프렌즈. 1 ..
+date: 2020-08-11 16:02:49 
+img: https://static.coupangcdn.com/image/vendor_inventory/9118/dd57ecf33cd8a22ee6a84574fe6f2bb89c3820f88e1c88a832ac1b3cd0ed.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1859001603&itemId=3160114164&vendorItemId=71147667295&traceid=V0-113-3e41c3f2c2066bcd 
+categories: [1019] 
+color: A57F92 
+price: 10800 
+author: Ask View Shop 
+cont:  "음 그게 마지막에 이프고가 천재 박사를 죽였다는 이야기가 있네요 조금 잔인해.<br/>.<br/><br/>이제껏 다샀고 계속 나오길 목빠지게 기다립니다<br/>읽고 또읽고 계속 읽는책중 하나네요<br/>재미있네요<br/>책중에 제일 잼있다고 하네요^^<br/>최고로 좋아하는 시리즈예요<br/>" 
+---

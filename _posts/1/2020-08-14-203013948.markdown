@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "리바이스키즈 아동용 코튼 프린팅 라운드 반팔티셔츠 LS4TTSR2" 
+description: 리바이스키즈 아동용 코튼 프 ..
+date: 2020-08-15 06:30:03 
+img: https://static.coupangcdn.com/image/vendor_inventory/f6df/7622eaea129157739eb235581f5772226b624cf8c1a9d479ee18d3fdeea5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=203013948&itemId=594947750&vendorItemId=4557924760&traceid=V0-113-1cebd81faaf81f4d 
+categories: [1005] 
+color: FF6F00 
+price: 1900 
+author: Ask View Shop 
+cont:  "가볍고 촉감도 좋아요.<br/><br/>" 
+---

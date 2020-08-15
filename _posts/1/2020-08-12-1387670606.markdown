@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "매드문 킬드마이 오버핏 반팔 티셔츠" 
+description: 매드문 킬드마이 오버핏 반팔 ..
+date: 2020-08-13 06:08:27 
+img: https://static.coupangcdn.com/image/retail/images/604542958896832-372370ca-f5d1-4efb-b33f-21bb39f97426.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1387670606&itemId=2423242773&vendorItemId=70378003774&traceid=V0-113-445c96aa801918ce 
+categories: [1002] 
+color: 353535 
+price: 14900 
+author: Ask View Shop 
+cont:  "구매 후 후기입니다.<br/><br/>다른데서 2xl시키면 넉넉한데 여기꺼는 딱 맞네요;;<br/>배송 기가막히게 빠르고<br/>별 3개줍니다<br/>오히려 작은 느낌도 듭니다.<br/><br/>옷도 맘에드네요 이번주말에 6장 주문했는데 골라입는재미가 있을꺼같해요 !!<br/>옷은 나쁘지않아요<br/>일단 사이즈는 맞는데 오버핏은 절대 아니네요<br/>하나 구입해보고 너무 맘에들어서 바로 종류별로 5개 구매했습니다.<br/><br/>" 
+---

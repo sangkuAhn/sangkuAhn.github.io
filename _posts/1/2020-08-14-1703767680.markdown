@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "키메라제이 자개 바나나 올림머리 반묶음 헤어핀" 
+description: 키메라제이 자개 바나나 올림 ..
+date: 2020-08-15 06:51:39 
+img: https://static.coupangcdn.com/image/vendor_inventory/fc41/9b0a20b6f21754ee21e43a9dd01e81d625010ac023a670e4d1f482a184fe.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1703767680&itemId=2899446906&vendorItemId=71137229312&traceid=V0-113-a0670f89f954a3c2 
+categories: [1008] 
+color: 5A8DF3 
+price: 4800 
+author: Ask View Shop 
+cont:  "이건 쪼꼼 아주 쪼꼼 티가 나긴합니다.<br/>.<br/>그래두 잘쓸께요<br/>잔기스는 조금 있지만 괜찮음.<br/> 가격이 쫌비쌈<br/>편하게 쓸꺼같아요<br/>" 
+---

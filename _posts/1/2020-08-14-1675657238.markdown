@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "하루 한알 아보카도, 1.5kg (6~7입), 1팩" 
+description: 하루 한알 아보카도, 1.5 ..
+date: 2020-08-15 07:13:15 
+img: https://static.coupangcdn.com/image/retail/images/2020/06/08/11/9/910b3749-5f6c-44f2-a10c-5339817f6569.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1675657238&itemId=2854821851&vendorItemId=70844134053&traceid=V0-113-eae5990bf18051f5 
+categories: [1012] 
+color: BF360C 
+price: 11900 
+author: Ask View Shop 
+cont:  "ㅋㅋㅋ 신선하고 크네요<br/>감사히 잘 먹겠습니당<br/>로켓배송으로 잘 받았습니다<br/>먹을때 양이 좋아서 오늘 또 재구매 합니다.<br/>♡<br/>몇일 기다려 후숙된 후 하나씩 까보니 정말  싱싱하고 고소하고 맛있네요.<br/>^^<br/>받은것 거의 대 사이즈고  작은것도 최소가 190g<br/>싱싱한 아보카도로 잘 받았습니다.<br/> 모두 동일한 색상으로 한 번에 익을 것 같네요.<br/> 한 번에 숙성하여 아보카도장으로 활용하려고 합니다.<br/>  중량은 1.<br/>6kg 정도 됩니다.<br/> 저렴하게 잘 샀어요<br/>싱싱해요<br/>아보카도를  매일 먹어 다 떨어져가기 전  주문했는데 싱싱한 아보카도 7개가 왔어요.<br/><br/>아직 숙성되지않아서 맛은 모릅니다<br/>후숙해야 먹을듯합니다<br/>" 
+---
