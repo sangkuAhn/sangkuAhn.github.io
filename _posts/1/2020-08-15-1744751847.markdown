@@ -9,5 +9,5 @@ categories: [1001]
 color: 1294AB 
 price: 11200 
 author: Ask View Shop 
+cont:  "디자인은 이쁘고 긴팔버전보다 이 옷이 더 마음에 듭니다<br/>이 옷 긴팔버전도 가지고 있는 1인.<br/><br/>이뻐요<br/>" 
 ---
- 
