@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "데일리라이프 미니멀 캔버스 빅 숄더백" 
+description: 데일리라이프 미니멀 캔버스  ..
+date: 2020-08-17 06:51:39 
+img: https://static.coupangcdn.com/image/retail/images/2019/06/12/16/8/f4c05f76-072f-493c-b8d8-025773534da2.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=241277549&itemId=767189674&vendorItemId=4936186017&traceid=V0-113-1973d4246cbb031f 
+categories: [1008] 
+color: FF6F00 
+price: 9650 
+author: Ask View Shop 
+---
+ 

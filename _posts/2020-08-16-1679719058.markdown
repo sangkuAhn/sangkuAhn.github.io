@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "MFT 멀티핏 아쿠아슈즈" 
+description: MFT 멀티핏 아쿠아슈즈 ..
+date: 2020-08-17 06:44:28 
+img: https://static.coupangcdn.com/image/retail/images/2020/06/04/12/1/e119f68d-d4db-4b16-8750-26b2684dc76f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1679719058&itemId=2861455611&vendorItemId=70850724285&traceid=V0-113-8a30f6e973007665 
+categories: [1007] 
+color: A566FF 
+price: 9500 
+author: Ask View Shop 
+---
+ 

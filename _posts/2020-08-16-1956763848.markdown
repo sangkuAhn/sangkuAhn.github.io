@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "공부란 무엇인가, 어크로스" 
+description: 공부란 무엇인가, 어크로스 ..
+date: 2020-08-17 08:03:41 
+img: https://static.coupangcdn.com/image/retail/images/2020/08/13/17/9/f3248566-9e81-4e98-85b3-b82de5b8492d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1956763848&itemId=3324982185&vendorItemId=71311836026&traceid=V0-113-edb05ad0124d54f3 
+categories: [1019] 
+color: 35B62C 
+price: 14400 
+author: Ask View Shop 
+---
+ 

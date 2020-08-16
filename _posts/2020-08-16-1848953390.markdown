@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "더담은 우리쌀, 10kg, 1개" 
+description: 더담은 우리쌀, 10kg,  ..
+date: 2020-08-17 07:13:13 
+img: https://static.coupangcdn.com/image/retail/images/2020/07/20/17/3/6ee608c2-cef7-4732-8265-3e70a4e8d46e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1848953390&itemId=3142918276&vendorItemId=71130533127&traceid=V0-113-0127810e95e641a8 
+categories: [1012] 
+color: 4A148C 
+price: 25350 
+author: Ask View Shop 
+---
+ 

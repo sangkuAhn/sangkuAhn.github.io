@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "크록스 바야밴드 205089(C)" 
+description: 크록스 바야밴드 205089 ..
+date: 2020-08-17 06:44:28 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2019/01/14/17/0/35fe7eed-229c-4fb9-8556-7c842f5146e3.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1773516892&itemId=3019669816&vendorItemId=71007823816&traceid=V0-113-21ccff5612a62e9e 
+categories: [1007] 
+color: BD24A9 
+price: 23000 
+author: Ask View Shop 
+---
+ 

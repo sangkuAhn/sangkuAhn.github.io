@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "최고의 주식 최적의 타이밍, 굿모닝북스" 
+description: 최고의 주식 최적의 타이밍, ..
+date: 2020-08-17 08:03:41 
+img: https://static.coupangcdn.com/image/vendor_inventory/1f99/07304e15f509d2deec10a6febe748a67fde742628f0266782da3d8ff06a2.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=3707993&itemId=18263918&vendorItemId=3131860568&traceid=V0-113-67a7ffca4df2f7d2 
+categories: [1019] 
+color: 7E57C2 
+price: 17820 
+author: Ask View Shop 
+---
+ 
