@@ -9,5 +9,5 @@ categories: [1007]
 color: BF360C 
 price: 39000 
 author: Ask View Shop 
+cont:  "일단 디자인은 생각했던대로 였는데 발볼이 넓어서 발이ㅜ커보이구 입구 부분이 금방 늘어날것같은 재질이에요<br/>" 
 ---
- 
