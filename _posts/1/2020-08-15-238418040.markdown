@@ -9,5 +9,5 @@ categories: [1007]
 color: f44336 
 price: 13900 
 author: Ask View Shop 
+cont:  "가성비 좋은 제품이에요 추천해요 다만 5mm 기준으로 나뉘면 더 좋을 것 같아요<br/>바닥이 딱딱해서 해수욕장보다는 실내워터파크 쪽이 나을<br/>잘신을것같아요<br/>" 
 ---
- 

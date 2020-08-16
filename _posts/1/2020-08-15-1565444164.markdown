@@ -9,5 +9,5 @@ categories: [1005]
 color: 03A9F4 
 price: 12370 
 author: Ask View Shop 
+cont:  "L에서xl사이에서 고민했는데<br/>건조기 돌리는거 감안해서 xl구매했는데<br/>너무귀여워요 저렴한가격에 이쁜옷잘샀어요♡<br/>잘맞네요<br/>진짜너무예뻐요 입혀보면 확느껴요진짜<br/>" 
 ---
- 

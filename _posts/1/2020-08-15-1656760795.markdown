@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아동용 하이스판 4부 면팬츠" 
+description: 아동용 하이스판 4부 면팬츠 ..
+date: 2020-08-16 06:30:05 
+img: https://static.coupangcdn.com/image/retail/images/2020/07/06/16/2/6c0b47be-d721-476a-8eb4-a97643161b68.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1656760795&itemId=2822830665&vendorItemId=71030967359&traceid=V0-113-2961026dd2951087 
+categories: [1005] 
+color: 9E9D24 
+price: 5900 
+author: Ask View Shop 
+cont:  "21키로 마른아이라 13호 주문하니 적당히 사이즈 만족<br/>2학년 남아가 입기에는 좀 짧은듯하나 스판도 좋고 아이도 편해함<br/>43개월 남아, 키 110cm이고, 몸무게 18kg예요.<br/><br/>가격 저렴하지만 상품평 하나도 없어서<br/>가격대비 제품 훌륭해요  아이도 편하대여<br/>구매에 좀 고민했지만 너무 좋아요.<br/><br/>또 구매할거예요!!<br/>사이즈는 9호가 아주 좋았어요.<br/><br/>세탁 안해봤지만 검정색이라 물빠짐 있을 수도 있겠네요^^<br/>스판 좋고, 허리밴드부분 넓고<br/>아이들 하계교복으로 필요해서 샀는데<br/>재질 자체가 딱 붙는 게 아니라서 좋아요.<br/><br/>" 
+---
