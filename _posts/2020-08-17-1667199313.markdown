@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "베르디 다이얼 써큘레이터, 중형" 
+description: 베르디 다이얼 써큘레이터,  ..
+date: 2020-08-18 07:42:15 
+img: https://static.coupangcdn.com/image/vendor_inventory/04f1/b5d92ae65b9ee6106f9e094f0bb95638a1b503416e32eb0acf003e921bc6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1667199313&itemId=2840621979&vendorItemId=70829996891&traceid=V0-113-7ede132c532083c4 
+categories: [1016] 
+color: f44336 
+price: 31900 
+author: Ask View Shop 
+---
+ 
