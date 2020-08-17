@@ -9,5 +9,5 @@ categories: [1008]
 color: FF6F00 
 price: 9650 
 author: Ask View Shop 
+cont:  "다른곳은 마감별로인곳도 있던데 여기서 구매하세요!!<br/>사이즈도 적당하고 너무 이뻐요♥️<br/>진짜 불량1도 없이 깔끔하고 예쁩니다.<br/> 배송도 빨랐어요<br/>" 
 ---
- 

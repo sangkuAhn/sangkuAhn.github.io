@@ -9,5 +9,5 @@ categories: [1001]
 color: 4A148C 
 price: 13900 
 author: Ask View Shop 
+cont:  "158에54키로인데 길이도좋고 허리밴드도엄청편합니다 냄새가 좀심했어바로씻어 널어놨네요<br/>아주 편하고 길이도 딱 좋네용 ㅎㅎ<br/>" 
 ---
- 

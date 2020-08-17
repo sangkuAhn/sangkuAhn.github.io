@@ -9,5 +9,5 @@ categories: [1002]
 color: BF360C 
 price: 9900 
 author: Ask View Shop 
+cont:  "잠옷잘입을께요<br/>재질이 부드럽고 무겁지 않아서 남편이 너무 좋아해요 ^^<br/>중딩아들 안입는다더니 입어보고 시원하다고 더사달라고하네요 키160에70 잘맞아요<br/>" 
 ---
- 

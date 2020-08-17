@@ -9,5 +9,5 @@ categories: [1008]
 color: f44336 
 price: 9900 
 author: Ask View Shop 
+cont:  "꾸안꾸에 최적 한개가격에 두개가와서 넘좋아요<br/>반짝반짝 예뻐요 원피스입고 반묶음코디에 최고인듯합니다<br/>예뻐요<br/>튼튼해요<br/>" 
 ---
- 

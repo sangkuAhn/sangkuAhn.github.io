@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "최고의 주식 최적의 타이밍, 굿모닝북스" 
+description: 최고의 주식 최적의 타이밍, ..
+date: 2020-08-17 08:03:41 
+img: https://static.coupangcdn.com/image/vendor_inventory/1f99/07304e15f509d2deec10a6febe748a67fde742628f0266782da3d8ff06a2.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=3707993&itemId=18263918&vendorItemId=3131860568&traceid=V0-113-67a7ffca4df2f7d2 
+categories: [1019] 
+color: 7E57C2 
+price: 17820 
+author: Ask View Shop 
+cont:  "잘받았습니다<br/>좋아요^^<br/>지인추천으로 샀는데 주식초보에게는 추천하지 않습니다 저는 주식에 관한 전반적인 내용 이론 기초 지식을 다지는 책을 원했는데 그런책은 아닙니다 초반에 100페이지 정도는 차트만 나와있습니다(사기당한기분) 그렇다고 그 차트에 대해서 설명이나 분석이 자세하게 나와있는 것도 아니고 몇십년전 미국 회사 우상향하는 차트를 모아놨는데 별의미없어보입니다<br/>한국시장과 맞질 않지만 도움이됨<br/>" 
+---
