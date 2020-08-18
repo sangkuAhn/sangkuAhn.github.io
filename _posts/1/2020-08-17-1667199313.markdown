@@ -9,5 +9,5 @@ categories: [1016]
 color: f44336 
 price: 31900 
 author: Ask View Shop 
+cont:  "소음은좀있습니다<br/>" 
 ---
- 
