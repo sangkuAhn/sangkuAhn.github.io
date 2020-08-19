@@ -9,5 +9,5 @@ categories: [1005]
 color: 1294AB 
 price: 15400 
 author: Ask View Shop 
+cont:  "쪼아요 마스크잃어버릴일도 없구요 목에 딱 걸고잇음 구우웃<br/>" 
 ---
- 

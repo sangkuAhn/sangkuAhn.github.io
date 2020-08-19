@@ -9,5 +9,5 @@ categories: [1007]
 color: 7E57C2 
 price: 48000 
 author: Ask View Shop 
+cont:  "230 정사이즈 보다는 조금 작아요(참고하세요)<br/>가격대비 좋음.<br/><br/>가볍고좋아요^^<br/>굽도 있어서 좋음.<br/><br/>참고 하세요<br/>키높이6cm라고 되어 있는데 34cm되는듯하네요<br/>" 
 ---
- 
