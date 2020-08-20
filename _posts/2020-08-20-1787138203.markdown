@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "반스 올드스쿨" 
+description: 반스 올드스쿨 ..
+date: 2020-08-21 06:44:31 
+img: https://static.coupangcdn.com/image/vendor_inventory/5e30/ed071c7b7b2f040a9f64f70f10abf20a01a716c85a2ee252cb2588944583.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1787138203&itemId=3042707545&vendorItemId=71342289191&traceid=V0-113-db6dcbffdb55e667 
+categories: [1007] 
+color: 006064 
+price: 50000 
+author: Ask View Shop 
+---
+ 
