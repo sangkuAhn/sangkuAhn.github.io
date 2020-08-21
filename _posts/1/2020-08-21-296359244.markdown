@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "플레이콘 리필 500p, 혼합색상" 
+description: 플레이콘 리필 500p, 혼 ..
+date: 2020-08-21 16:17:53 
+img: https://static.coupangcdn.com/image/retail/images/2020/06/23/10/5/6e2f1a04-fd8b-4297-aae6-e7e903e08c6b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=296359244&itemId=934439605&vendorItemId=70941756826&traceid=V0-113-431bcf3fba43b92d 
+categories: [1021] 
+color: FF6F00 
+price: 6550 
+author: Ask View Shop 
+cont:  "가격도 좋고 양도 많고<br/>아이들이 막만들어도 척척붙으니 즐거워하고 만족스러워용<br/>집에서 심심할때 만들기하기 좋아요 근데 작품 부피가 커서 보관이 좀 곤란할때가 있어요<br/>집콕육아에 너무 잘 쓰고 있어요^^<br/>" 
+---

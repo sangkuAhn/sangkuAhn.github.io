@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "기탄수학 D단계 세트 (전 5권), 기탄교육" 
+description: 기탄수학 D단계 세트 (전  ..
+date: 2020-08-21 16:03:26 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/10/16/3006997893/9178aefe-e5d0-4dcd-a471-35a32fd5d6bd.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4831325&itemId=21999044&vendorItemId=3006997893&traceid=V0-113-ea282495ec22f363 
+categories: [1019] 
+color: 006064 
+price: 22500 
+author: Ask View Shop 
+cont:  "6세 정도에 기정 학습으로 시작하기 딱입니다<br/>빼기도 주문해서 골고루 시켜야겠어요^^<br/>엄마가 공책에 써줘도 되지만, 귀찮아서 구입했어요.<br/> 실력보다 쉬운 단계로 하니 빨리 하고 스트레스가 적어요.<br/><br/>엄마가 매일 같은 시간 강요없이 함께 해준다면<br/>주문했어요.<br/><br/>코로나로 초등2학년 학교수업에 뒤쳐지않게 연산공부 시켜주려고<br/>하루에 36장 잘 풀어요<br/>학습지보다 더 나은 효과를 볼 수 있을 것 같습니다.<br/><br/>" 
+---

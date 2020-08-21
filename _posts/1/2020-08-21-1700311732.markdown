@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "메르시밴드 메탈 미니반달 집게핀 세트" 
+description: 메르시밴드 메탈 미니반달 집 ..
+date: 2020-08-21 14:51:17 
+img: https://static.coupangcdn.com/image/retail/images/2020/06/10/12/5/49242258-8624-46b0-a9b3-beb0a0fc6486.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1700311732&itemId=2893997120&vendorItemId=70883000874&traceid=V0-113-3c884203d7ee4082 
+categories: [1008] 
+color: 4A148C 
+price: 7900 
+author: Ask View Shop 
+cont:  "작지만 확실히 머리를 잡아줍니다  단발머리에도 귀여워요<br/>접합 스프링이 짱짱해요.<br/> 크기도 앞머리 집기에 딱이고 실물 광택이며 디자인이 고급스러워요<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "인텍스 아쿠아 사각풀 57471, 혼합색상" 
+description: 인텍스 아쿠아 사각풀 574 ..
+date: 2020-08-21 15:48:59 
+img: https://static.coupangcdn.com/image/retail/images/2020/06/30/16/1/efe78a12-5bba-4782-b49b-30af2e8e3f6a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1767008410&itemId=3008824315&vendorItemId=5369693064&traceid=V0-113-80dae4429b368967 
+categories: [1017] 
+color: A566FF 
+price: 49500 
+author: Ask View Shop 
+cont:  "가격도 이마트보다 저렴하구요^^<br/>아이들이 많으면 좀 작을 수도 있지만 2명정도는 딱 좋아요<br/>오.<br/>.<br/>사진그대로에요 바닥은 얇아요.<br/> 바람넣는 구멍에 맞는 펌프가 필요해서 같은 인텍스에서 나온4천원대 삿도니 바람잘넣엇어요<br/>오늘도 잘놀았어요<br/>좋아요!! 작년에이마트에서 샀었는데  구멍이나서 이번엔 쿠팡에서 구매했어요<br/>총평은 굿입니당<br/>코로나19 땜에 수영장에 못가서 사봤어요.<br/> 조금 차가운 물로 부워서 1시간3시간 정도 태양에 데우면 좋아요<br/>코로나때문에  수영장 물놀이를 못하는데  이거때문에 아이들이 좋아합니다<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "꾸미펫 고양이 햇님이 만들기놀이, 혼합색상" 
+description: 꾸미펫 고양이 햇님이 만들기 ..
+date: 2020-08-21 16:10:40 
+img: https://static.coupangcdn.com/image/retail/images/2020/06/18/20/7/77570b76-25bc-4533-80fd-989971c7699c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1740123082&itemId=2962533098&vendorItemId=70919840829&traceid=V0-113-75b321b7d91abedd 
+categories: [1020] 
+color: 9E9D24 
+price: 12500 
+author: Ask View Shop 
+cont:  "아이들이 집중해서 잘가지고 놉니다<br/>인형좋아하는 7살딸이 만들기 재미있어해요<br/>재밌어하긴하는데, 털이 좀 빠지네요.<br/> 꼬리는 자체스티커보다는 동봉된 양면으로 한번 더 붙여서 본체에 붙이는게 좋아요.<br/> 털이라 잘 떨어져서요.<br/><br/>" 
+---

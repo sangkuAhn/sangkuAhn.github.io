@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "스탠리 어드벤쳐 워터저그, 그린, 3.8L" 
+description: 스탠리 어드벤쳐 워터저그,  ..
+date: 2020-08-21 15:20:06 
+img: https://static.coupangcdn.com/image/retail/images/2020/07/14/15/0/163e4b87-cae2-4e8b-9723-a94e1dc6a53c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1821246624&itemId=3099108050&vendorItemId=71086900134&traceid=V0-113-4b5d8b166b13cad6 
+categories: [1013] 
+color: F15F5F 
+price: 59820 
+author: Ask View Shop 
+cont:  "5만얼마에 뜬거보고 바로 질렀어요<br/>가격이 비싸서 고민하다가 장바구니 넣어났는데<br/>갖고싶었어요,정말<br/>외관은 다들 아시는 스탠리 디자인이구요 캠핑 하루 다녀올땐 안가져갈 것 같지만 이틀 이상 다녀온다면 유용하게 잘 쓸 수 있을 것 같습니다.<br/> 얼음이랑 물 넣고 쓰면 5일정도는 시원하게 마실 수 있대요 얼음이 남아있다는 간증글도 봤는데 기대가 됩니다.<br/><br/>정가에 조금 웃돈 주고 구매했지만 그 정도는 제품의 만족도가 좋아서 구매하는데 전혀 문제 없었고, 나름 합리적인 가격이라고 생각이 되었습니다.<br/> 여름에 캠핑에 최고의 물통? 인거 같아요! 구매가능하실때 검색한번 해보시고 얼릉 구매하세요!!!<br/>" 
+---

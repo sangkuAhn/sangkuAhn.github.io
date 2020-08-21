@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "블랙라이노 자동 접이식 햇빛가리개, 1개" 
+description: 블랙라이노 자동 접이식 햇빛 ..
+date: 2020-08-21 15:56:12 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/11/05/3133914994/a75c2baf-e50b-4bef-a443-79f2e112cf55.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=19924402&itemId=79218313&vendorItemId=3235685064&traceid=V0-113-df069a51a286ca8b 
+categories: [1018] 
+color: F15F5F 
+price: 5900 
+author: Ask View Shop 
+cont:  "가격대비해만족할만합니다 일단구매해사용해보세요<br/>설치중 고리가 쉽게 부러졌다는 후기가 있어 구입을 망설었는데 설치하고 나니 가성비 좋습니다<br/>장착  플라스틱 조심붙여 제거파손<br/>주의 고무줄 잘빼 안좋아<br/>주의사항  기울잘빠져서  강력 순간접착제 고정해요<br/>" 
+---
