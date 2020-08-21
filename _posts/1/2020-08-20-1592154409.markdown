@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "캐럿 남성용 히든밴딩 스판 슬랙스" 
+description: 캐럿 남성용 히든밴딩 스판  ..
+date: 2020-08-21 06:08:27 
+img: https://static.coupangcdn.com/image/retail/images/198182745310740-985854af-e06d-44ca-946b-945d77810b3d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1592154409&itemId=2720454526&vendorItemId=70710688008&traceid=V0-113-f77ef7ae7bc54c00 
+categories: [1002] 
+color: 353535 
+price: 17800 
+author: Ask View Shop 
+cont:  "마른편이라 여유가 있습니다만 좋아하네요.<br/><br/>밴딩 바지 입으니까 편해요<br/>스판이라 편합니다.<br/><br/>재질이 약하네요... <br/>.<br/><br/>좋은 가격에 구매 했습니다.<br/><br/>" 
+---

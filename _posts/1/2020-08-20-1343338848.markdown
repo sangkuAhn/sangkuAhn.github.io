@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "갭 여아용 반짝이 스트레치 저지 레깅스" 
+description: 갭 여아용 반짝이 스트레치  ..
+date: 2020-08-21 06:22:53 
+img: https://static.coupangcdn.com/image/retail/images/2018/10/15/14/1/c4f248d3-979c-4ab4-a069-19df66974696.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1343338848&itemId=2370720159&vendorItemId=4036055164&traceid=V0-113-3b739552962c0eaf 
+categories: [1004] 
+color: 1294AB 
+price: 3370 
+author: Ask View Shop 
+cont:  "과하지 않은 반짝임이 딱 좋아요^^<br/>반짝반짝 이뻐요 건조기도 돌렸는데 상태고대로 좋네요 5세여아 여유있게 좋아요<br/>블랙에 적당이 반짝이가 있어 예쁘네요.<br/>착한가격에 잘 구매했어요<br/>" 
+---

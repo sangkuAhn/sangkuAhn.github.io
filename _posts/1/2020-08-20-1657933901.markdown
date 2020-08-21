@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아동용 편한 통바지" 
+description: 아동용 편한 통바지 ..
+date: 2020-08-21 06:30:06 
+img: https://static.coupangcdn.com/image/retail/images/2020/05/28/12/1/36b715cd-a359-493f-b3cc-9d02e7e34906.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1657933901&itemId=2824681280&vendorItemId=70814145961&traceid=V0-113-a0bdb92bbe88ff7a 
+categories: [1005] 
+color: 4374D9 
+price: 4900 
+author: Ask View Shop 
+cont:  "145에 33키로 아이한테 잘맞아요<br/>길이는 살짝 짧은거 같기도 하고 원래 그런 스탈인가 싶기도 하고 그래요^^<br/>세탁할때 검은물 많이 나오니까 첫세탁은 따로 하는게 좋을거 같아요<br/>세탁할때 검은물 많이 빠져요 단독세탁 필수<br/>암튼 딸이 이런바지 입고싶다고 했는데 너무 편하고 좋대요<br/>집에서 바로 수선했어요^^<br/>찰랑찰랑 시원한 재질의 바지라서 여름에 자주 입을 것 같습니다.<br/>^^<br/>초4  145에 33키로 딸한테 잘맞아요<br/>키 120cm 몸무게 32kg 8살 통통남아.<br/>.<br/><br/>허리,바지통 여유있게 잘 맞구요.<br/>.<br/>길이는 길어서.<br/>.<br/><br/>" 
+---
