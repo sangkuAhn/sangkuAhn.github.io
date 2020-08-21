@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "기탄수학 D단계 세트 (전 5권), 기탄교육" 
+description: 기탄수학 D단계 세트 (전  ..
+date: 2020-08-21 16:03:26 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/10/16/3006997893/9178aefe-e5d0-4dcd-a471-35a32fd5d6bd.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4831325&itemId=21999044&vendorItemId=3006997893&traceid=V0-113-ea282495ec22f363 
+categories: [1019] 
+color: 006064 
+price: 22500 
+author: Ask View Shop 
+---
+ 

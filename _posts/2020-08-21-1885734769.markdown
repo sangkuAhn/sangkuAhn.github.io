@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "벤쿠쿠 PB006 똑딱이 핸드폰가방" 
+description: 벤쿠쿠 PB006 똑딱이 핸 ..
+date: 2020-08-21 14:51:17 
+img: https://static.coupangcdn.com/image/vendor_inventory/80ab/e83d8bcef16fd18f2dd89950515d0fcf17567ef770858104a08c635f467d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1885734769&itemId=3204292351&vendorItemId=71191662097&traceid=V0-113-2c27ec795698b057 
+categories: [1008] 
+color: BD24A9 
+price: 14900 
+author: Ask View Shop 
+---
+ 

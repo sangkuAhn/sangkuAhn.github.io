@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "레고 닌자고 로이드의 타이탄 로봇 70676, 혼합 색상" 
+description: 레고 닌자고 로이드의 타이탄 ..
+date: 2020-08-21 16:10:40 
+img: https://static.coupangcdn.com/image/retail/images/5891096155487-2077688c-194b-4d6b-88df-aa4fe57c971a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=302153365&itemId=950514707&vendorItemId=71002711278&traceid=V0-113-6218e5ab86e18ce2 
+categories: [1020] 
+color: 4A148C 
+price: 25000 
+author: Ask View Shop 
+---
+ 

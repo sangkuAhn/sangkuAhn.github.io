@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "마이셰프 소고기 육전, 550g, 1팩" 
+description: 마이셰프 소고기 육전, 55 ..
+date: 2020-08-21 15:12:53 
+img: https://static.coupangcdn.com/image/retail/images/2020/02/28/15/5/a17ac16e-d691-4ec8-91d4-719a8ae3ca13.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1302288080&itemId=2316213502&vendorItemId=70312926214&traceid=V0-113-66a2743d931a9572 
+categories: [1012] 
+color: F361A6 
+price: 9900 
+author: Ask View Shop 
+---
+ 
