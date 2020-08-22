@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "바젤3 모멘트, 좋은땅" 
+description: 바젤3 모멘트, 좋은땅 ..
+date: 2020-08-23 08:03:49 
+img: https://static.coupangcdn.com/image/retail/images/2020/08/20/17/4/3aa9922a-247b-4222-bf1d-c6ecf1d8c8bb.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1982474180&itemId=3372713276&vendorItemId=71359419044&traceid=V0-113-ad9b49f33d2e1014 
+categories: [1019] 
+color: 9E9D24 
+price: 17100 
+author: Ask View Shop 
+---
+ 

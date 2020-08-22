@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "신일 제습기 23L SDH-M180BH" 
+description: 신일 제습기 23L SDH- ..
+date: 2020-08-23 07:42:11 
+img: https://static.coupangcdn.com/image/retail/images/14155920803159-f046a70d-84da-492a-8433-d603d8bc6c69.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1681165277&itemId=2863909695&vendorItemId=70853159732&traceid=V0-113-c6459854119f691d 
+categories: [1016] 
+color: f44336 
+price: 279000 
+author: Ask View Shop 
+---
+ 
