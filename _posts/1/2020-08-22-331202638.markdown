@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "도그아이 강아지 베이직 자동 리드줄, 그레이" 
+description: 도그아이 강아지 베이직 자동 ..
+date: 2020-08-22 16:32:02 
+img: https://static.coupangcdn.com/image/retail/images/2019/11/20/15/5/04955013-3256-4eca-9622-400ae8e8b477.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=331202638&itemId=1083312951&vendorItemId=5587291322&traceid=V0-113-ebadbdcf3440eb3c 
+categories: [1029] 
+color: FF1744 
+price: 8900 
+author: Ask View Shop 
+cont:  "강아지 11키로에 당김이 많은 아이인데 고정도 잘되고 괜찮네요!<br/>그립감도 좋아요<br/>길고 튼튼하고 좋아요<br/>길이도 적당하고 잠깐씩 락 걸수있는게 좋긴한데 줄이 납작 줄이다보니 들어갈때 꼬여서 못들어가는 경우가 많네요.<br/> 손으로 빼주면 쉽게 다시 복귀되긴하는데... <br/>그거빼고는 아직은 괜찮네요<br/>디자인도 예쁘고 괜찮은데 기존에 얇은 줄로 쓰다가 이걸 써보니 줄이 가끔 씹히네요 ㅠ 원래 얇은 실같은 줄은 밤에 안보일수도 있고 살에 베일수 있어서 이걸 산건데 이런 제품들이 다 그런지 모르겠지만 좀 불편하네요.<br/><br/>" 
+---
