@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "에버라스트 EVA 슬리퍼" 
+description: 에버라스트 EVA 슬리퍼 ..
+date: 2020-08-22 06:44:30 
+img: https://static.coupangcdn.com/image/retail/images/2019/03/21/11/4/a2ac3257-98b7-4201-b9e6-1926717d706e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=176487958&itemId=504459774&vendorItemId=4527881205&traceid=V0-113-a0d7b7110a0029e9 
+categories: [1007] 
+color: FF1744 
+price: 5900 
+author: Ask View Shop 
+cont:  "270을 주문했고 270탭이 붙어있으나 실사즈는 260입니다 265발에 작아요... <br/><br/>280이 없었음<br/>가격대비 패션감 있고 그럭저럭<br/>꼭 몇 만리를 주고 신어야 깔이  나남유<br/>마가이 깔끔하지 못하고 사출 주입부들에 부프러기들이 꼬리처럼 나아있습니다 참고하세요<br/>비치샌댤로도 괜찬겠네여<br/>슬림하고 집에서 편히 신기 딱이예요<br/>실내화로도 괜찮겠어요<br/>캠핑장에서 사용하려고 저렴한 슬리퍼 찾다가 눈에 띄어서 샀는데 엄청 편하고 발에 착 붙는 느낌입니다.<br/><br/>큰 사이즈도 있었음<br/>" 
+---
