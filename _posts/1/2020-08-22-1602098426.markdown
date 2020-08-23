@@ -9,5 +9,5 @@ categories: [1007]
 color: F361A6 
 price: 44900 
 author: Ask View Shop 
+cont:  "디자인은 예쁘고 바닥은 편한편인데 오래걸을때 신는건 비추에요<br/>양쪽 신발모양이 다른지 한쪽이 새끼발가락 발목이 쓸리네요.<br/><br/>좋아요! 만족<br/>" 
 ---
- 

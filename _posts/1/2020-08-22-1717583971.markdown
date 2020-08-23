@@ -9,5 +9,5 @@ categories: [1013]
 color: 9E9D24 
 price: 8680 
 author: Ask View Shop 
+cont:  "도톰하니좋아요<br/>제품이 찌그러져서 왔네요.<br/>.<br/><br/>" 
 ---
- 

@@ -9,5 +9,5 @@ categories: [1007]
 color: 43A047 
 price: 26900 
 author: Ask View Shop 
+cont:  "높이도 적당, 편안하고 좋습니다.<br/><br/>디자인도 만족합니다<br/>신고 벋기 편하고<br/>" 
 ---
- 

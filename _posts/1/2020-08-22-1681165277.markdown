@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "신일 제습기 23L SDH-M180BH" 
+description: 신일 제습기 23L SDH- ..
+date: 2020-08-23 07:42:11 
+img: https://static.coupangcdn.com/image/retail/images/14155920803159-f046a70d-84da-492a-8433-d603d8bc6c69.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1681165277&itemId=2863909695&vendorItemId=70853159732&traceid=V0-113-c6459854119f691d 
+categories: [1016] 
+color: f44336 
+price: 279000 
+author: Ask View Shop 
+cont:  "계속되는 장마로 집안이 습도가 넘높아져서 여러제품검색하다 제습용량이 제일 많고 1등급에  가격과 효율적인 면을 고려하다가 구매결정 담날 배송오자마자 작동했는데 첨엔 70%초반대에서 변동이 없어서 작동이 안되는줄 한참있으니 서서히 내려가기시작하는걸 보고 정말 꿉꿉한 상태에서 생활했구나.<br/> 진작에 구매할껄 후회했어요.<br/> 장마와 태풍으로 연일 비가오는 상황에서 열일하는 제습기때문에 뽀송뽀송한 나날을 보내고 있네요^^<br/>그렇게 귀찮을 정도는 아니에요.<br/><br/>물통도 부드럽게 빠지고 전에 쓰던 것 보다 용량이 작아서<br/>물통을 자주 빼줘야 하는 불편은 있지만<br/>잘 쓰고 있답니다.<br/><br/>저는 잘 쓰고 있어요.<br/><br/>집에 도착하자마자 열일 하고 있는 제습기에요.<br/><br/>컴팩트하고 습도 79퍼인 방을 한시간만에  40퍼 설정습도로 내림<br/>쾌적한 방이 되고 빨래도 잘 마르는중임<br/>" 
+---
