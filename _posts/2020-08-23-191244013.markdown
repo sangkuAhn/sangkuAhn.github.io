@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "바나바나 로사 쇼퍼백" 
+description: 바나바나 로사 쇼퍼백 ..
+date: 2020-08-23 14:51:08 
+img: https://static.coupangcdn.com/image/retail/images/655697508777404-47cc0b71-dfbe-450a-85f9-b6b414747db0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=191244013&itemId=546601791&vendorItemId=4433321840&traceid=V0-113-489c9d3e906e227c 
+categories: [1008] 
+color: 1294AB 
+price: 31290 
+author: Ask View Shop 
+---
+ 
