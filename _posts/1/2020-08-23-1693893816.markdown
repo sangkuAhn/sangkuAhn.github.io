@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아디다스 슬리퍼 알파바운스 남녀공용 3종 택1 BA8775" 
+description: 아디다스 슬리퍼 알파바운스  ..
+date: 2020-08-24 06:44:29 
+img: https://static.coupangcdn.com/image/vendor_inventory/b24b/402f99d93f3dc1c592ffd051104485af5937c0c2e746a26ae48c2caf17fc.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1693893816&itemId=2883827500&vendorItemId=71094948925&traceid=V0-113-3e32ab60f1b63e8c 
+categories: [1007] 
+color: BF360C 
+price: 38800 
+author: Ask View Shop 
+cont:  "너므 너므 좋아요<br/>사람들이 무조건 추천해서 샀는데 전혀 푹신하지가 않네요<br/>아들이 아주 좋아하네요<br/>" 
+---

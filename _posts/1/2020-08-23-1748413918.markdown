@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "달리샵 스파클링 롱 원피스" 
+description: 달리샵 스파클링 롱 원피스 ..
+date: 2020-08-24 06:01:13 
+img: https://static.coupangcdn.com/image/vendor_inventory/9da7/a5ef98250cf631311970b546432147d81346cee3d65b70779ff37ad07804.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1748413918&itemId=2977502826&vendorItemId=70965884445&traceid=V0-113-34c7df18ae64dd57 
+categories: [1001] 
+color: 9E9D24 
+price: 18670 
+author: Ask View Shop 
+cont:  "배송빠르고 박음질,재질,디자인선명함등 하나도하자없고 정말예뻐서 마음에들어요 감기는것도 딱예쁘네요 너무저렴하게잘샀습니다 키160인데 발목까지와요 길지만롱하게입을게요<br/>실착하니 픽이 이쁘게 떨어지고 괜찮네요<br/>여름건데 소재가 너무 두꺼워요 팔이 너무끼워요 스타일은 짱이예요<br/>처음 들었을땐 원피스 천이 좀 묵직한 느낌이였으나.<br/>.<br/><br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "메이스 스마트 훌라후프 다이어트 훌라우프, 스마트 훌라후프 SW-1" 
+description: 메이스 스마트 훌라후프 다이 ..
+date: 2020-08-24 08:18:00 
+img: https://static.coupangcdn.com/image/vendor_inventory/93c8/f0ca3a6c95c2478bfd4cc804301539e17ff07323d0dfcaf1337ab4d0b859.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1961158826&itemId=3333224589&vendorItemId=71320038351&traceid=V0-113-12ca4770ca69c787 
+categories: [1021] 
+color: f44336 
+price: 22500 
+author: Ask View Shop 
+cont:  "배송 빨라요 오자마자 조립하고 돌리는데 잘 돌아가고 재질?도 좀 달라서 부드럽고 좋아요 운동 열심히해서 살빼려구요ㅜㅜ<br/>사용이안되네 어떻게하는겁니까 돈 6만원 정도 날리네 ㅅㅂ<br/>소리가엄청커서  별루구요조립도허술하고... <br/><br/>" 
+---

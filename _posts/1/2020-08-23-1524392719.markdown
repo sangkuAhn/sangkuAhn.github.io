@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "제이라인 드위즈 쪼리 샌들 JLSDL1117" 
+description: 제이라인 드위즈 쪼리 샌들  ..
+date: 2020-08-24 06:44:29 
+img: https://static.coupangcdn.com/image/retail/images/2020/04/28/19/8/dd278ed1-03bf-42fc-bed1-74b104b36eba.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1524392719&itemId=2615576367&vendorItemId=70606616840&traceid=V0-113-5a85efdc52dea490 
+categories: [1007] 
+color: f44336 
+price: 12900 
+author: Ask View Shop 
+cont:  "가성비도 좋고, 가격 생각 안해도 마음에 드는 신발입니다.<br/> 비올 때 막 신어도 좋고, 더운 날 신기에도 적합해요.<br/> 근데 디자인이 예뻐서 치마, 반바지 모두에 잘 어울려요! 신발 예쁘다고 칭찬 받았다 합니다 ㅎㅎ 가격 들은 후에는 친구가 더 놀라더군요 ㅎㅎ<br/>넘편하구좋아요 발볼이넓은편인데그리넓어보이지도안고좋아요평소잘신고다닌답니다<br/>발바닥이 아파 아무거나 못신는 난 이 신발로 인해 세상 행복<br/>배송 굿<br/>배송도 빠르고, 상자에 담겨와서 만족했습니다.<br/><br/>솔직히 엄청 튼튼한 재질은 아니니 그리 오래 갈 것 같지는 않지만, 딱 한 철 신기 적당한 가격이니 부담없이 신을 수 있어 좋아요.<br/><br/>신발 너무 꽉 끼는 건 좋아하지 않는데, 이건 여유로워요.<br/> 밴딩이 늘어날 것 같아서 살짝 걱정이랍니다.<br/> (그래서 별 하나 뺐어요)<br/>" 
+---
