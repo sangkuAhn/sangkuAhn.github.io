@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "마리앤모리 여아용 카일라 스커트 상하복 세트" 
+description: 마리앤모리 여아용 카일라 스 ..
+date: 2020-08-25 06:22:54 
+img: https://static.coupangcdn.com/image/retail/images/2020/05/20/15/6/4e058039-73f6-4a9b-aa4c-7b0834231755.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1604727009&itemId=2740827834&vendorItemId=70730886655&traceid=V0-113-a0cf259b6eed2fa5 
+categories: [1004] 
+color: A6A6A6 
+price: 6980 
+author: Ask View Shop 
+cont:  "6350원 맘에 들어요.<br/><br/>가볍고 시원한 재질이고 여자 여자해서 조으네요^^<br/>샀는데 입어요 입어 ^^<br/>아이가 파란색 좋아해서  별 다섯개<br/>치마 불편해하는 아이라 안입을줄알고<br/>통통 5세  귀엽게 잘 맞아요  130  사길 잘 한 듯<br/>" 
+---

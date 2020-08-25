@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "갭 남아용 판타스티플렉스 슈퍼데님 스트레이트 진" 
+description: 갭 남아용 판타스티플렉스 슈 ..
+date: 2020-08-25 06:30:06 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/08/23/3898406821/f837d6ea-e605-4946-a281-8d78470c8af1.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=125237682&itemId=370399905&vendorItemId=3898406821&traceid=V0-113-0e0842e30d58f8b8 
+categories: [1005] 
+color: 9E9D24 
+price: 7900 
+author: Ask View Shop 
+cont:  "스판도 적당히 있고 5세 남아 크긴한데 괜찮아요^^<br/>" 
+---
