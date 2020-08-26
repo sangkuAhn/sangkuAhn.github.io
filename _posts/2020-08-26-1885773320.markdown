@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "곰곰 쌈용 맛배추, 400g, 1개" 
+description: 곰곰 쌈용 맛배추, 400g ..
+date: 2020-08-27 07:13:14 
+img: https://static.coupangcdn.com/image/retail/images/240800326063926-393fd5a7-8a4c-4824-9125-5358f7b1585a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1885773320&itemId=3204350881&vendorItemId=71191720238&traceid=V0-113-900834b8dab87355 
+categories: [1012] 
+color: 03A9F4 
+price: 3200 
+author: Ask View Shop 
+---
+ 

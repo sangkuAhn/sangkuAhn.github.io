@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "셰프초이스 더블치즈 소시지, 240g, 4개" 
+description: 셰프초이스 더블치즈 소시지, ..
+date: 2020-08-27 07:13:14 
+img: https://static.coupangcdn.com/image/retail/images/2020/07/03/16/9/f55f7bd4-9dba-4f8d-9dd2-cdc18250d3c3.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1777189109&itemId=3026259744&vendorItemId=71014370541&traceid=V0-113-40aaebb0228263b4 
+categories: [1012] 
+color: BF360C 
+price: 9400 
+author: Ask View Shop 
+---
+ 

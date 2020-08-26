@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 탐사 쿨냉감 항균 패션마스크 중형" 
+description: 쿠팡 브랜드 - 탐사 쿨냉감 ..
+date: 2020-08-27 06:51:38 
+img: https://static.coupangcdn.com/image/retail/images/5246465893449-bd59e251-5f9e-40a6-be46-78fc8bf219e4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1713420401&itemId=2915923497&vendorItemId=70904583056&traceid=V0-113-ace9c12e4f0d46fb 
+categories: [1008] 
+color: 1294AB 
+price: 5990 
+author: Ask View Shop 
+---
+ 

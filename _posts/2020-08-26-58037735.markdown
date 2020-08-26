@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "Hello World! Solar System Board Books, Doubleday Books for Young Readers" 
+description: Hello World! So ..
+date: 2020-08-27 08:03:44 
+img: https://static.coupangcdn.com/image/retail/images/2018/01/04/19/8/5fe4dd30-2171-459e-81e5-7369565babc4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=58037735&itemId=201296554&vendorItemId=3147846053&traceid=V0-113-cfbf3be1db97beef 
+categories: [1019] 
+color: FF1744 
+price: 6710 
+author: Ask View Shop 
+---
+ 
