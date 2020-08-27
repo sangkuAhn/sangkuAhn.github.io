@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "칼러 삼선 슬리퍼 4켤레" 
+description: 칼러 삼선 슬리퍼 4켤레 ..
+date: 2020-08-27 06:44:26 
+img: https://static.coupangcdn.com/image/retail/images/2020/04/29/11/9/43837c67-173d-4460-87e6-d6ef1fd717d9.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1522747401&itemId=2612912315&vendorItemId=70604000757&traceid=V0-113-43fcd7cd7514d5db 
+categories: [1007] 
+color: FF6F00 
+price: 12000 
+author: Ask View Shop 
+cont:  "4개 세트라 시키기도 편하고 좋았어요<br/>가성비가 좋아요<br/>라이언 점착메모지를 잘라서 붙여버렸네용<br/>살짝 무거운감이 있는데 푹신해서 좋고요!<br/>삼선다스 최고입니다<br/>색이 같아 누구껀지 구분이 안되어서<br/>" 
+---

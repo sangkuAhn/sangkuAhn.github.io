@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "곰곰 쌈용 맛배추, 400g, 1개" 
+description: 곰곰 쌈용 맛배추, 400g ..
+date: 2020-08-27 07:13:14 
+img: https://static.coupangcdn.com/image/retail/images/240800326063926-393fd5a7-8a4c-4824-9125-5358f7b1585a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1885773320&itemId=3204350881&vendorItemId=71191720238&traceid=V0-113-900834b8dab87355 
+categories: [1012] 
+color: 03A9F4 
+price: 3200 
+author: Ask View Shop 
+cont:  "간만에 수육해서 먹는데 같이 먹기 좋네요<br/>겉저리해야겠어요 ㅠㅠ<br/>맛   4.<br/>5/5<br/>배추가 별로싱싱하지않아요 ㅠㅠ<br/>삼겹살 구울때 쌈싸 먹으려고 주문했어요.<br/><br/>식감   5/5<br/>신선도  5/5<br/>쌈으로할려고했는데... <br/><br/>양도 꽤 많고 배추가 맛있네요.<br/><br/>적당한 크기에 싱싱하고 노란 쌈배추로 잘 받았어요.<br/><br/>제품이 깨끗하며 맛있고 식감 또한 좋았습니다.<br/><br/>착한 가격에 좋은 품질,역시 곰곰은 믿고 구매하면 되네요.<br/><br/>청결   5/5<br/>쿠팡체험단 이벤트로 상품을 무료로 제공 받아 작성한 구매 후기입니다.<br/><br/>특히 꼭지 부분에 V 칼집으로 손쉽게 먹기 더욱 좋았습니다.<br/><br/>" 
+---

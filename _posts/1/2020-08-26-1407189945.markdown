@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "농협목우촌 한돈 목살 400G, 구이용, 1팩" 
+description: 농협목우촌 한돈 목살 400 ..
+date: 2020-08-27 07:13:14 
+img: https://static.coupangcdn.com/image/vendor_inventory/8f1a/fd78b27551cfff4f75662827d64f5985a3d7d248f8b64d6e9dc8969279ba.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1407189945&itemId=2442952765&vendorItemId=70436694084&traceid=V0-113-abfba928cba37dfe 
+categories: [1012] 
+color: FF6F00 
+price: 10900 
+author: Ask View Shop 
+cont:  "7900원 무료배송 굿굿<br/>감사합니다<br/>기분나빠요<br/>너무적어보여서 확인한건데 다신안살거같아요<br/>맛있엉 ㅎㅎ 도톰하니 한번에 다먹어써요<br/>무게가 너무 틀려요 400g두팩샀는데  400안넘어요<br/>아직 먹기전이네요.<br/> 찌게용이 2팩인데 구이용이 2팩 왔어요.<br/> 먹기전이라 좋은지는 모르겠구요<br/>" 
+---

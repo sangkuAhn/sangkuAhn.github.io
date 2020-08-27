@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "토포인트 니트 플랫슈즈" 
+description: 토포인트 니트 플랫슈즈 ..
+date: 2020-08-27 06:44:26 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/11/15/4/3f2a284e-e2df-44bb-9843-52de4881d81c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1343267757&itemId=2370635697&vendorItemId=70366677221&traceid=V0-113-4795215b942bf348 
+categories: [1007] 
+color: 4CAF50 
+price: 22530 
+author: Ask View Shop 
+cont:  "가볍고, 부드러워요.<br/><br/>뭣보다 상품의 질이 좋아서 만족합니다.<br/><br/>밑창도 고무고, 본드칠 보이지않아서 깔끔해요.<br/><br/>사진과동일한실물입니다.<br/><br/>신발도 기대이상입니다.<br/><br/>신발편해요<br/>이쁜데 조금작아서 아파요 한치수 더 큰걸로 교환할까하다 동생 주기로했어요<br/>정말 하루도 안되는 배송.<br/>정사이즈.<br/><br/>직장에서 실내용으로 신으려고 주문했는데,<br/>" 
+---

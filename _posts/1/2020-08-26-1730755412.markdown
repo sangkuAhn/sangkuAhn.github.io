@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "잘빠진 A라인 밴딩 플리츠 스커트" 
+description: 잘빠진 A라인 밴딩 플리츠  ..
+date: 2020-08-27 06:01:12 
+img: https://static.coupangcdn.com/image/retail/images/2020/06/19/11/9/f5c7ddeb-f883-456f-bbd5-f2460b9d76e2.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1730755412&itemId=2946142589&vendorItemId=70934713274&traceid=V0-113-00e025cda62156bc 
+categories: [1001] 
+color: A57F92 
+price: 12900 
+author: Ask View Shop 
+cont:  "가격대비 만족<br/>가볍지 않아서 촥 예쁘게 떨어지고 골반 큰 사람도 작아보여요<br/>다른색상도 사고 싶은데 품절이라 아쉽네요<br/>다만, 좀 두꺼운면이여서<br/>별점하나뺀건  마감이 좀 별로라<br/>봄 가을이 정말 딱인거같아요!!<br/>살짝 브리운에 가까운 베이지입니디<br/>색깔은 사진보다는 훨씬진한베이지<br/>완전 편리하고 좋아요<br/>요즘입으면 살짝 더워욤<br/>이쁘고 편해요<br/>추천합니다 예쁘고 좋아요<br/>" 
+---
