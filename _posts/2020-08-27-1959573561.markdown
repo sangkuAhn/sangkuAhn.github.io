@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 탐사 국내생산 일회용 마스크, 50개입, 1개" 
+description: 쿠팡 브랜드 - 탐사 국내생 ..
+date: 2020-08-28 08:25:24 
+img: https://static.coupangcdn.com/image/retail/images/16083568105210-efc67ee7-bb2d-4cd3-a1cb-0b6887a0ace6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1959573561&itemId=3330459149&vendorItemId=71317299120&traceid=V0-113-b569555e90d34bd8 
+categories: [1024] 
+color: BD24A9 
+price: 13900 
+author: Ask View Shop 
+---
+ 

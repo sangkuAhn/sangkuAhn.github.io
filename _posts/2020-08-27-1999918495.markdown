@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "복자에게, 문학동네" 
+description: 복자에게, 문학동네 ..
+date: 2020-08-28 08:03:47 
+img: https://static.coupangcdn.com/image/retail/images/2020/08/25/15/3/e0fb21c8-de57-4b3c-b7e8-c49dc08d458c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1999918495&itemId=3403493476&vendorItemId=71399962072&traceid=V0-113-dccf2956dd9afd05 
+categories: [1019] 
+color: FF6F00 
+price: 12600 
+author: Ask View Shop 
+---
+ 
