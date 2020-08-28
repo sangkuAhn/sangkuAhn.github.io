@@ -9,5 +9,5 @@ categories: [1005]
 color: 5A8DF3 
 price: 2000 
 author: Ask View Shop 
+cont:  "가성비 좋음<br/>다른곳보다 저렴해요 확실히 !<br/>품질이좋네요 지인선물도 하고 저렴하게 잘 섰어요<br/>" 
 ---
- 

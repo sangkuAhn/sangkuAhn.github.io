@@ -9,5 +9,5 @@ categories: [1005]
 color: F361A6 
 price: 16880 
 author: Ask View Shop 
+cont:  "치타라서 아이가좋아하고 시원한 소재에요<br/>" 
 ---
- 
