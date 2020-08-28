@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "연령별 만들기패키지 6세만들기패키지 만들기재료 엄마표놀이 유아재료 집콕놀이 퐁퐁이" 
+description: 연령별 만들기패키지 6세만들 ..
+date: 2020-08-28 16:17:42 
+img: https://static.coupangcdn.com/image/vendor_inventory/ba64/22665eb0a24296028f3a3f4ab50eed3b98fd272c7d63f756831fd304cdb6.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1550012683&itemId=2652513662&vendorItemId=70643277606&traceid=V0-113-47abb9ebfaa7a361 
+categories: [1021] 
+color: 03A9F4 
+price: 12000 
+author: Ask View Shop 
+cont:  "오전엔  키트4개로 시간보내고<br/>지금은 서비스로주신 거 또하고있어요<br/>집콕놀이로 딱이네요<br/>하루에 한개씩 하려고 했는데 아이가 너무재밌다고 한번에 4개나 완성해버렸어요ㅎㅎ<br/>" 
+---

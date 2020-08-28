@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "센트룸 프로 멀티비타민 미네랄, 120정, 1개" 
+description: 센트룸 프로 멀티비타민 미네 ..
+date: 2020-08-28 16:24:55 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/11/13/3796271894/99100ed2-7968-4f8b-ba2b-9addbf728284.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=141571271&itemId=412294434&vendorItemId=4442272283&traceid=V0-113-0bdfd727178f22ca 
+categories: [1024] 
+color: 353535 
+price: 38400 
+author: Ask View Shop 
+cont:  "구매한지 이틀차인데 꾸준히 먹어보고 후기남길게요<br/>먹기간편하고 좋아요<br/>멀티 비타민 하루에 2개씩 챙겨먹는 사람으로서 꼭 필요한 제품이라고 생각합니다.<br/> 다들 건강 챙기십쇼<br/>유통기한도 기네요<br/>하루한알<br/>" 
+---

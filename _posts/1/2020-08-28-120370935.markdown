@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "공주 색칠북 파티 + 나들이, 새샘" 
+description: 공주 색칠북 파티 + 나들이 ..
+date: 2020-08-28 16:03:19 
+img: https://static.coupangcdn.com/image/retail/images/214470737822538-61169f66-0efb-478a-ac8c-ff69a4d920bb.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=120370935&itemId=358271299&vendorItemId=3871977666&traceid=V0-113-abac6cdbf89cc451 
+categories: [1019] 
+color: FF1744 
+price: 8100 
+author: Ask View Shop 
+cont:  "2권이라 약간비싼감이있지만<br/>6살 딸아이가 요즘 색칠공부를<br/>ㅎㅎㅎㅎ<br/>공주 캐릭좋아하는데... <br/>아이가 좋아해요<br/>공주그림이 많아서 이걸로 했네요<br/>그림도 아주이쁘고요 받자마자 바로<br/>너무찾아서 구입했어요^^<br/>받아보니 아이가 입이 귀에 걸리네요<br/>별의 별 색칠북을 다 사봤는데요.<br/> 정말 군더더기없이 깔끔합니다.<br/> 선 경계도 명확하고 색감도 선명하구요.<br/> 적극 추천합니다.<br/><br/>시작했네요 ㅎㅎㅎ<br/>약간 어려워보이는거 찾다가<br/>잘산거같아요<br/>코로나로 집콕인 아이<br/>한권에 20장 정도 있는거같아요<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "재미있고 빠른 첫 한글. 3: 가나다, 한빛에듀" 
+description: 재미있고 빠른 첫 한글. 3 ..
+date: 2020-08-28 16:03:19 
+img: https://static.coupangcdn.com/image/vendor_inventory/2e6f/73ed9e10fce4405419dd17de9a2c6dfbfad4787462fb29499925c2257796.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=178990576&itemId=512683982&vendorItemId=70977608837&traceid=V0-113-bd2817bc321fe50a 
+categories: [1019] 
+color: F15F5F 
+price: 5850 
+author: Ask View Shop 
+cont:  "고민하다 구매한책이에요.<br/>한글 시작할때 공부하는 책이라 단순하면서도 글귀도 있고<br/>이건 조금 뒤에 써야겠어요<br/>자음 모음 따로 있지않고 바로 가나다 네요ㅎ<br/>재구매 의사 있습니다 저렴한 가격에 구입해 좋아요<br/>저희 아들이 난독증이 있어서 한글이 안되서<br/>조금씩 한글에 반응을 보이네요.<br/><br/>추천드려요.<br/>저는 이책으로 2권째하니 아이가<br/>한글 어려워하거나 재미없어하는 아이들에게<br/>" 
+---

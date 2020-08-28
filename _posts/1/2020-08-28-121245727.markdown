@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "더클래스 클린 앤 코트 실내세정 및 코팅제, 500ml, 1개" 
+description: 더클래스 클린 앤 코트 실내 ..
+date: 2020-08-28 15:56:07 
+img: https://static.coupangcdn.com/image/retail/images/4183155903623-fcba0952-8ff1-4f59-a594-4c0d4e074ffa.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=121245727&itemId=360681268&vendorItemId=3877637265&traceid=V0-113-daf40405e5f5667a 
+categories: [1018] 
+color: D9418C 
+price: 25900 
+author: Ask View Shop 
+cont:  "가성비 좋은 제품 같습니다<br/>가죽에 코팅되는느낌이고 끈적임도없고 때도잘지워집니다<br/>생각외로 잘닦이는 편은아니고 그냥 코팅되는 느낌이랄까?<br/>아직 사용전이라 후기가좋아서 일단은 구매하였습니다... <br/><br/>" 
+---
