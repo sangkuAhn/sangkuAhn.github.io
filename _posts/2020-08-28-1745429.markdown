@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코리아보드게임즈 우봉고 퍼즐 보드게임, 혼합색상" 
+description: 코리아보드게임즈 우봉고 퍼즐 ..
+date: 2020-08-28 16:10:30 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/01/29/3010282032/f305b43d-98c1-4742-9be1-6c5de8afab85.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1745429&itemId=7616556&vendorItemId=3849659338&traceid=V0-113-b99f31ef934501d6 
+categories: [1020] 
+color: F361A6 
+price: 36300 
+author: Ask View Shop 
+---
+ 

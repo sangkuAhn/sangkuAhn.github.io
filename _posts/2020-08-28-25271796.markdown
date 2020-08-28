@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "블루마토 곰돌이 얼굴 비즈 13 11칸형, 혼합 색상" 
+description: 블루마토 곰돌이 얼굴 비즈  ..
+date: 2020-08-28 16:10:30 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/01/31/3179139687/5eddd68a-8ea0-4779-a23c-c56e58270841.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=25271796&itemId=98240315&vendorItemId=3179139687&traceid=V0-113-0392189ba7d08e96 
+categories: [1020] 
+color: BD24A9 
+price: 5700 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "추희자두, 2kg, 1팩" 
+description: 추희자두, 2kg, 1팩 ..
+date: 2020-08-28 15:12:53 
+img: https://static.coupangcdn.com/image/retail/images/2020/08/20/17/7/611ba63f-8ce8-42fb-ba9f-7b236070bbc9.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1985603699&itemId=3378807465&vendorItemId=71365486888&traceid=V0-113-4ca79044a5f328d1 
+categories: [1012] 
+color: 35B62C 
+price: 21900 
+author: Ask View Shop 
+---
+ 
