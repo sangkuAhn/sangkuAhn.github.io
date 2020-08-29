@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "HAIER 하이얼비접촉온도계 열체크기 국내당일출고, 1개" 
+description: HAIER 하이얼비접촉온도계 ..
+date: 2020-08-29 08:10:58 
+img: https://static.coupangcdn.com/image/vendor_inventory/063b/ec4e28ff0cf564c0d146cb2ecbe0f8cd9538ce6d3d03a2f6e1394c3152a5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1654739266&itemId=2819112748&vendorItemId=70808604879&traceid=V0-113-d3fe50dfe2840ac3 
+categories: [1020] 
+color: F361A6 
+price: 69000 
+author: Ask View Shop 
+cont:  "가격좋고 쓰기편하고 괜찮아요<br/>많이 파세요<br/>잘되는거같아요<br/>" 
+---

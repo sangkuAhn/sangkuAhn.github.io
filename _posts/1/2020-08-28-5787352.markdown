@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "오션 플레이콘 창의공작소, 혼합 색상, 1개" 
+description: 오션 플레이콘 창의공작소,  ..
+date: 2020-08-28 16:17:42 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/04/30/3039193944/26a00dcf-3e35-4774-801f-4b48e9740555.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5787352&itemId=26111527&vendorItemId=3152332756&traceid=V0-113-eaa0d928eb53d302 
+categories: [1021] 
+color: FF6F00 
+price: 15930 
+author: Ask View Shop 
+cont:  "5살 꼬맹인 칼로 계속 콘자르며 재미있어했어요<br/>8살은 돼야 혼자 도움없이 할듯합니다ㅋㅋ<br/>가성비 좋네요<br/>넘 좋은 놀잇감입니다.<br/><br/>별의별 놀잇감을 다사네요ㅠ<br/>어디 못나가니 집에서 계속 이것저것 놀거리주문<br/>요즘 같을때 아이랑 만들어서 역활놀이 하기 좋아요<br/>적극 추천해요.<br/> 백점!!!<br/>큰아이는 필통꽂이 만들어 방에 놓고 때마침<br/>할머니 생신이 다가와 케익도 만들었네요.<br/><br/>혼자 팔찌도 만들고 꽤 오래놀아서 만족<br/>" 
+---

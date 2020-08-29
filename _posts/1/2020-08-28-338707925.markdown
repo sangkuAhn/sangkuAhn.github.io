@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "앱코 HACKER 게이밍 스탠드 USB 마이크 MP300" 
+description: 앱코 HACKER 게이밍 스 ..
+date: 2020-08-28 15:41:44 
+img: https://static.coupangcdn.com/image/retail/images/2019/11/18/14/1/11dd5737-92e8-4d16-ba54-57f75824b729.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=338707925&itemId=1079311424&vendorItemId=5578914003&traceid=V0-113-ceaba69bb8df1832 
+categories: [1016] 
+color: 353535 
+price: 22150 
+author: Ask View Shop 
+cont:  "가성비는 나쁘지않지만 주변 잡음을 전부<br/>거리조절이랑 크기를 잘 조절하신다면 상대방도 크게<br/>껏다 켰다 되는기능은 좋지만 같이 게임하는 분들이 마이크 켜질때 음질이 안좋고 시끄럽다고 하드라구요 게임하시는 동안에는 안끄고 키지않는것을 추천드립니다 그외에는 좋아요^^<br/>디스코드할때 주변사람들이 잡음없이 제 목소리만 잘 잡아준다고 하네요.<br/> 가성비 좋은 것 같습니다.<br/> 근데 녹음음질은 별로에요! 딱 마이크 송출용이 적당한 것 같습니다.<br/><br/>생각보다 별점이 낮은 리뷰가 있어서 걱정했는데 받아보니 멀쩡합니다.<br/><br/>신경 안쓸정도는 됩니다<br/>온오프를 쉽게 할 수 있고 별다른 설치없이 바로 사용가능해서<br/>인식하는 걸 보니 전지향성 마이크 같습니다<br/>잘 모르시는 분들도 쉽게 사용할 수 있다고 생각되네요<br/>키보드 소리 선풍기 소리 등 잡음이 전부 들리나 크진않아요<br/>하지만 게임용으로는 그렇게 좋다고 평가는 못 드릴 것 같습니다<br/>헤드셋은 더워서 스텐드 마이크 구입하게 됐어요<br/>" 
+---

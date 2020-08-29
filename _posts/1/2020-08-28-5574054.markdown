@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "스텐실 미술놀이, 애플비" 
+description: 스텐실 미술놀이, 애플비 ..
+date: 2020-08-28 16:03:19 
+img: https://static.coupangcdn.com/image/vendor_inventory/d21d/6e85b21d2cdea1667f62c943b9b904718bd0bcccd539f3b35293bc2a7eae.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5574054&itemId=134696280&vendorItemId=3285717453&traceid=V0-113-83c94b92a38f5dd7 
+categories: [1019] 
+color: 4CAF50 
+price: 7920 
+author: Ask View Shop 
+cont:  "그림을 잘 못그리는 엄마라서.<br/>.<br/><br/>대신 색연필로 칠하면서 놀기 좋아요<br/>두꺼운 색연필,크레용은 구멍에 들어가지도 않아서<br/>불어펜 도안으로 쓰려고했으나 저희집 40개월 남아에게는 처음에 불다가 요 도안은 치우더군요 ㅠㅠ<br/>사인펜으로 그려봤는데 그래도 모양이 띄엄띄엄<br/>색다른 접근을 알려줄수는 있지만 너무 안 예뻐.<br/>.<br/><br/>아이에게 방법을 알려주니 4살 아이도 쉽게 따라 그리네요<br/>종이가 코딩되어서 오래 쓸수 있으나 그 위에 불어펜 색은 방울지면서 겉돌아서 애 옷에 손에 다 묻고 물감도 ㅠ<br/>" 
+---
