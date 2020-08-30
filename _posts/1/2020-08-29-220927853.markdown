@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "애드에딧 원더 2단 메이크업 파우치" 
+description: 애드에딧 원더 2단 메이크업 ..
+date: 2020-08-30 06:51:37 
+img: https://static.coupangcdn.com/image/retail/images/2019/05/09/18/4/4ffbc941-4b0f-4b31-a126-89a906927225.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=220927853&itemId=689258984&vendorItemId=4649696581&traceid=V0-113-0f1c234157b78b3f 
+categories: [1008] 
+color: 006064 
+price: 9500 
+author: Ask View Shop 
+cont:  "2단이라서 수납공간도 많고 화장품도 많이들어가서 좋아용<br/>들고다니기도 편하구요 <br/>들고있는 화장품 다들어갈정도 크기 필요했는데 좋네요 ㅎㅎ<br/>디자인도 그냥 심플한 블랙이어서 무난하게 좋은거 같아요!<br/>박음질이 엉성하고 약간의 먼지가 묻어있긴 하지만<br/>손잡이가 있어서 좋습니다<br/>수납하는 공간도 좋고 구성도 좋습니다<br/>여행가거나 할 때 필요한거 대다수 들어가고<br/>여행갈때나 목욕탕갈때 화장품 넣어가려고 샀는데 가격도 저렴하고 좋아요! 크기도 적당하고 은근히 많이 들어갈것같아요ㅋㅋㅋ<br/>" 
+---

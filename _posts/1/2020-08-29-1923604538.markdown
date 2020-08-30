@@ -9,5 +9,5 @@ categories: [1005]
 color: 5A8DF3 
 price: 6900 
 author: Ask View Shop 
+cont:  "이쁜데 레이스다보니 목뒤가 간지러울때가 잇어요<br/>" 
 ---
- 

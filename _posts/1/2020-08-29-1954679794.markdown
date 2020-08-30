@@ -9,5 +9,5 @@ categories: [1008]
 color: 006064 
 price: 2100 
 author: Ask View Shop 
+cont:  "가격 대비해서 하고 사용하기 좋아요<br/>그것빼고는 좋아요^^<br/>지퍼백이 꾸겨져서 왔어요ㅜ<br/>" 
 ---
- 

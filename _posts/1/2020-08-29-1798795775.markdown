@@ -9,5 +9,5 @@ categories: [1007]
 color: FF1744 
 price: 18000 
 author: Ask View Shop 
+cont:  "당일날 아침에 배송 왔습니다<br/>슬리퍼도 예뻐요 맘에 듭니다<br/>아빠가 너무 맘에들어하시네요 정사이즈고 신었을때 더 예뻐요<br/>정말 빨라요<br/>쿠팡 적극추천합니다<br/>" 
 ---
- 
