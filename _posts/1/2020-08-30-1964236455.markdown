@@ -9,5 +9,5 @@ categories: [1008]
 color: F361A6 
 price: 1900 
 author: Ask View Shop 
+cont:  "신발끝에 고리하나 달려있어요 고리가 너무 약해보여요<br/>적당히 쓸만합다<br/>좋아요 그래서 다시 구매를 해서 지인들에게 선물을 했답니다 감사합니다<br/>" 
 ---
- 

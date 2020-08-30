@@ -9,5 +9,5 @@ categories: [1007]
 color: 03A9F4 
 price: 17600 
 author: Ask View Shop 
+cont:  "가볍구 사이즈 적당하구 깔끔하네요<br/>깔끔하고 좋은데  특이한 냄새랄가? 좀 나고 고무창이라서 살짝 무게감 빼고는 괜찮아요 가성비도 좋아요<br/>" 
 ---
- 
