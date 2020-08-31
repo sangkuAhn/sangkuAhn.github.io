@@ -9,5 +9,5 @@ categories: [1001]
 color: 1294AB 
 price: 9900 
 author: Ask View Shop 
+cont:  "그냥 보통이에요<br/>" 
 ---
- 

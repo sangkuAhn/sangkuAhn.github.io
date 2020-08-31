@@ -9,5 +9,5 @@ categories: [1003]
 color: F15F5F 
 price: 9900 
 author: Ask View Shop 
+cont:  "예쁘고 좋아요 잘 쓸께요<br/>" 
 ---
- 

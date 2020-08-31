@@ -9,5 +9,5 @@ categories: [1006]
 color: D9418C 
 price: 4900 
 author: Ask View Shop 
+cont:  "아주 얇아서 살이 비쳐요 55입는데 일반적인 아웃도어 옷에 비해사이즈 작게 나왔습니다 한 사이즈 크게 주문하세요<br/>좋아요<br/>" 
 ---
- 

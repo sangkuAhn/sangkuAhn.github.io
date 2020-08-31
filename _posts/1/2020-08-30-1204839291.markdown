@@ -9,5 +9,5 @@ categories: [1002]
 color: BF360C 
 price: 34900 
 author: Ask View Shop 
+cont:  "부담없이 편하게 들고다닐수 있을것 같아요.<br/><br/>엄지 세개<br/>" 
 ---
- 
