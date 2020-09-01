@@ -9,5 +9,5 @@ categories: [1003]
 color: 353535 
 price: 5480 
 author: Ask View Shop 
+cont:  "귀여워요 )<br/>소재도 좋고 아주 저련하고 좋네여 여름이 에어컨 있는곳에서 잘잊힐게여<br/>" 
 ---
- 

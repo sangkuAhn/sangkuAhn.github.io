@@ -9,5 +9,5 @@ categories: [1003]
 color: 353535 
 price: 11100 
 author: Ask View Shop 
+cont:  "소매 프릴이 귀엽습니다.<br/><br/>외출복같은 실내복입니다.<br/><br/>외출복으로 손색없을 실내복이에요.<br/><br/>피부에 매끄러운 재질은 아니에요.<br/><br/>" 
 ---
- 

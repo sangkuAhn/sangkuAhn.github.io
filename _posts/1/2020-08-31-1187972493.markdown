@@ -9,5 +9,5 @@ categories: [1008]
 color: 43A047 
 price: 13000 
 author: Ask View Shop 
+cont:  "두상이 작으면 한번은 생각해 보심이 좋을 듯해요<br/>존예 걍 사세요 다들<br/>" 
 ---
- 
