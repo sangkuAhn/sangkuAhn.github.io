@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "쿠팡 브랜드 - 꼬리별 프리미엄 고양이 두부모래 7L, 녹차향, 6개" 
+description: 쿠팡 브랜드 - 꼬리별 프리 ..
+date: 2020-09-01 16:31:38 
+img: https://static.coupangcdn.com/image/retail/images/163291903398615-d388db6f-a53d-4cb2-856e-3406ec925a23.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1553219581&itemId=2656735053&vendorItemId=70647462353&traceid=V0-113-ef00874ba42aea18 
+categories: [1029] 
+color: F15F5F 
+price: 21990 
+author: Ask View Shop 
+cont:  "녹차향이 오리지널보다 더 좋네요.<br/><br/>다음에도 재구매 할게요 .<br/> 감사합 니다<br/>모래가 가 절반을 차지해 무거워서 쓰레기 버리는 날에는 맘을 굳건이 먹어야 되는 압박감<br/>무거워요... <br/>.<br/>그레서 변기에녹는다기에 한번구매해해봤어요<br/>비유가 이상하지만 휴지 중에 향기나는 휴지 냄새?ㅋㅋㅋㅋ 정확히 이 향기입니다 ㅋㅋ 전 너무 좋아요!!<br/>아직 두부모래는 한번도 안써봐서 울애들한테는 예전쿠팡고양이 모래랑<br/>엄청 향긋해요!<br/>우유향 쓰다가 갈아탔는데 너무 향긋해요<br/>응가냄새 소변냄새 잘 잡아줘요.<br/><br/>종량쓰레기 봉투한번 버리려고 나갈때마다 진땀을 빼죠<br/>한동안섞어서 사용할생각이에요 이걸러 갈아탄건<br/>" 
+---

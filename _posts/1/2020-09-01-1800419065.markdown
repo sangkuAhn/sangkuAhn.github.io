@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "캐빈잇 프리미엄 룽고 캡슐 커피, 8.5g, 20개" 
+description: 캐빈잇 프리미엄 룽고 캡슐  ..
+date: 2020-09-01 15:19:36 
+img: https://static.coupangcdn.com/image/retail/images/2020/07/09/10/4/51376afc-cac4-45c3-89e2-f89c121d0b10.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1800419065&itemId=3063384353&vendorItemId=71051339748&traceid=V0-113-da7fd157d9be0f82 
+categories: [1013] 
+color: 03A9F4 
+price: 10100 
+author: Ask View Shop 
+cont:  "개인적으로는 스타벅스 보다 저에게 이게 더 맞는 제품인거 같네요.<br/><br/>돌체 사용하면서 다른 맛을 찾다 인터넷에서 캐빈잇을 알게 되었는데,<br/>산미가 적어 제입엔 잘 맞아요<br/>산미적고 바디감묵직하고 부드러워요<br/>여러 원두들로 블렌딩한거라 아메도 맛있어요<br/>제 취향이랑 잘 맞는 제품이네요.<br/><br/>좋았어요<br/>좋은 제품으로 사업 번창하길 바랍니다.<br/><br/>총 5박스 주문한것이 박스안에 잘 담아져와서<br/>하지만 물양을 더 잡으면 연하게 마실수 있어 커알못인 저는 컵 가득 내려 마십니다.<br/><br/>확실히 돌체구스토캡슐보다 이제품이 더 맛있어요<br/>" 
+---
