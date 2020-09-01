@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "프레시지 더큰 소고기 찹스테이크, 555g, 1개" 
+description: 프레시지 더큰 소고기 찹스테 ..
+date: 2020-09-01 15:12:23 
+img: https://static.coupangcdn.com/image/retail/images/2019/08/30/10/0/b75d48ce-3043-426c-8f95-5e01cd389001.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=291775409&itemId=922823686&vendorItemId=5295894964&traceid=V0-113-e0e373c4f45c93be 
+categories: [1012] 
+color: BF360C 
+price: 10900 
+author: Ask View Shop 
+---
+ 
