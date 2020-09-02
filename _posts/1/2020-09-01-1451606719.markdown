@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "CI8800-002 나이키 아수나 슬라이드/슬리퍼/남성용" 
+description: CI8800-002 나이키  ..
+date: 2020-09-02 06:44:29 
+img: https://static.coupangcdn.com/image/vendor_inventory/3557/287c033c474c563af7723d48e32b6603c9eaef3d52047c979a0adcf13c37.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1451606719&itemId=2499157866&vendorItemId=70909877054&traceid=V0-113-46ca3aa4f13bf351 
+categories: [1007] 
+color: D9418C 
+price: 38500 
+author: Ask View Shop 
+cont:  "좋음<br/>" 
+---
