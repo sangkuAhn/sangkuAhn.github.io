@@ -9,5 +9,5 @@ categories: [1015]
 color: F15F5F 
 price: 14500 
 author: Ask View Shop 
+cont:  "가성비좋아요<br/>디자인도 예쁘고 좋아요<br/>멀티탭이 고장나서 마트사러갔다 너무 비싸 급 쿠팡쿠팡.<br/> 훨씬 싸고 스피드하게 왔습니다.<br/> 깔끔하고 튼튼해 보입니다.<br/><br/>" 
 ---
- 

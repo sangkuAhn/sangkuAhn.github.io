@@ -9,5 +9,5 @@ categories: [1005]
 color: 9E9D24 
 price: 9900 
 author: Ask View Shop 
+cont:  "새벽배송이라 아직 조카한테 못줬어요.<br/> 본인 확인 후 재평할께욤.<br/><br/>" 
 ---
- 
