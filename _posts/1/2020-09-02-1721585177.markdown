@@ -9,5 +9,5 @@ categories: [1008]
 color: 03A9F4 
 price: 10900 
 author: Ask View Shop 
+cont:  "살짝 무게감도있고 올린머리 했는데 잘 잡아줘서 좋아요<br/>좋은가격에 예쁘고 가볍고 좋아요^^<br/>" 
 ---
- 

@@ -9,5 +9,5 @@ categories: [1003]
 color: 1294AB 
 price: 5520 
 author: Ask View Shop 
+cont:  "예뻐요<br/>저렴해서 남매 편하게 입힐생각으로 구입했어요일단신축성 좋다하니 입혀봐야알겠지만  통이좁긴하네요<br/>좋아요<br/>" 
 ---
- 

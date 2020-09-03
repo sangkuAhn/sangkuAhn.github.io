@@ -9,5 +9,5 @@ categories: [1008]
 color: F15F5F 
 price: 13900 
 author: Ask View Shop 
+cont:  "밖에 나갈때 간편한듯 멋스럽네요 맘에들어요<br/>" 
 ---
- 
