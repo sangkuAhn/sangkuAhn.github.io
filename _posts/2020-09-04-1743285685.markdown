@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "큐브 280 아이스트레이 세트, 민트" 
+description: 큐브 280 아이스트레이 세 ..
+date: 2020-09-04 15:19:40 
+img: https://static.coupangcdn.com/image/retail/images/2020/06/23/20/1/44bacd30-8b63-4f83-9ace-e73994700c6b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1743285685&itemId=2968219799&vendorItemId=70956645202&traceid=V0-113-a4a688f14989f593 
+categories: [1013] 
+color: 4A148C 
+price: 12150 
+author: Ask View Shop 
+---
+ 
