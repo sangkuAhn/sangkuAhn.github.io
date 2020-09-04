@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "블랙앵거스 모둠 선물세트 (냉장), 1.4kg, 1세트" 
+description: 블랙앵거스 모둠 선물세트 ( ..
+date: 2020-09-04 15:12:26 
+img: https://static.coupangcdn.com/image/retail/images/2019/12/09/15/0/7b852858-62bc-47c0-b548-6ad8537f0a52.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1074269676&itemId=2023708664&vendorItemId=70023344241&traceid=V0-113-6e4e83c411e3184a 
+categories: [1012] 
+color: FF6F00 
+price: 59800 
+author: Ask View Shop 
+cont:  "배송빠르고 좋아요<br/>상품은 좋아요!<br/>오늘아점으로 먹었는데  넘 맛있어요.<br/> 식구들이 맛있다고  좋아하네요.<br/> 다음에 또 구매해야 겠네요<br/>" 
+---

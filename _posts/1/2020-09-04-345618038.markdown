@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "애경 폴시냐크 I호 + 쇼핑백 선물세트, 6세트" 
+description: 애경 폴시냐크 I호 + 쇼핑 ..
+date: 2020-09-04 15:27:59 
+img: https://static.coupangcdn.com/image/retail/images/10600727398152-3e421e45-ffc5-47bc-a220-17fa3736f85c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=345618038&itemId=1097629456&vendorItemId=5619998353&traceid=V0-113-185dda7c94879ed8 
+categories: [1014] 
+color: CF36BB 
+price: 50490 
+author: Ask View Shop 
+cont:  "선물용으로 딱이에요<br/>싸고나무젛아요<br/>좋아요<br/>" 
+---

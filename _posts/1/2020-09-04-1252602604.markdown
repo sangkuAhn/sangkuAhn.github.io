@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "금한산업 콘버터맛 오징어 (냉장), 40g, 10개" 
+description: 금한산업 콘버터맛 오징어 ( ..
+date: 2020-09-04 15:12:26 
+img: https://static.coupangcdn.com/image/retail/images/346431629143337-ddd21598-3dff-43be-89e2-98873d740597.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1252602604&itemId=2252175798&vendorItemId=70249538717&traceid=V0-113-74d073fcfae291a5 
+categories: [1012] 
+color: 43A047 
+price: 17650 
+author: Ask View Shop 
+cont:  "다만, 오징어 하나하나의 크기가 너무 커서 먹기가 좀 불편했어요 ㅠ<br/>머릿속으로 상상하던 맛이였어요.<br/><br/>짜고 달다 맛있다 부스러기가 많이 나오니 접시를 필수로 활용할것<br/>콘버터라길래 한번 먹어보자 하고 비싸도 사먹었습니다 우선 낱개 포장으로 딱 꺼내먹기 좋고 야들야들하니 씹기도 좋아요 맛이 제일 중요하죠 맛은 생각했던것 만큼 버터맛이랑 옥수수콘 맛은 많이 안납니다 짭쪼롭 보단 달큰한 오징어에 가까워요<br/>" 
+---
