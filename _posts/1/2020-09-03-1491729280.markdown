@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "슈펜 빅타이포 슬리퍼" 
+description: 슈펜 빅타이포 슬리퍼 ..
+date: 2020-09-04 06:45:18 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/09/10/5/4dd37aa3-92c2-463e-84f6-97a8bf37f050.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1491729280&itemId=2560771765&vendorItemId=70366623392&traceid=V0-113-9757a8cde8ea0992 
+categories: [1007] 
+color: FF6F00 
+price: 5760 
+author: Ask View Shop 
+cont:  "7년 가까이 신은 슬리퍼가 갈 때가 돼서<br/>강추합니다^^<br/>급하게 슬리퍼가 필요해서 그냥 취소하고 오프라인에서 살까 했는데 받아보니 기다리길 잘 했네요.<br/><br/>로켓배송인데 배송이 평소보다 오래 걸렸어요.<br/><br/>무조건 한 사이즈 크게 주문하세요 240245신는데 250딱 괜찮네요<br/>발볼이 넓어서 한 사이즈 크게 주문했는데 볼도 편하고<br/>선물 용으로 주문한건데 생각했던거랑 똑같아서 두고두고 잘 신을 것 같아요 당사자도 굉장히 좋아하네요 ! 발볼이 큰편이라 한치수 업해서 주문했는데 그래도 좀 꽉끼는 감이 있네요.<br/> 잘 신고 다니겠습니다 !<br/>앞으로 오래오래 잘 신을 것 같아요.<br/><br/>오프라인에서 몇 만원짜리 슬리퍼도 엄청 많이 신어봤는데<br/>이건 5천원대인데 훨씬 편하고 좋네요.<br/><br/>족저근막염이 있는데 바닥도 푹신해요.<br/><br/>지방이라 주문하면 다음 날 꼭 왔었는데.<br/>.<br/><br/>집앞 학원가려고 샀어요 편하고 좋아요<br/>" 
+---

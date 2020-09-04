@@ -9,5 +9,5 @@ categories: [1001]
 color: 9E9D24 
 price: 8990 
 author: Ask View Shop 
+cont:  "두께감 있는편이에요 질좋은 느낌입니다<br/>원단좋구 66사이즈 입는데 잘 맞아요!<br/>" 
 ---
- 

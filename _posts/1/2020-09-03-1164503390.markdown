@@ -9,5 +9,5 @@ categories: [1007]
 color: 9E9D24 
 price: 42500 
 author: Ask View Shop 
+cont:  "깔끔하네여<br/>닥좋고<br/>신발특성상 단화가 딱 맞으면 장시간외출시 불편하길래 평소 265신는데 270시키니까 아주 편안하고 큰 느낌도 별로 안받음 만족중<br/>편안함 완전 good<br/>" 
 ---
- 

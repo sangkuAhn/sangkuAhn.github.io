@@ -9,5 +9,5 @@ categories: [1007]
 color: 7E57C2 
 price: 75500 
 author: Ask View Shop 
+cont:  "가벼워요.<br/><br/>저렴한 가격에 나이키 정품이라 착용감이 아주 편하고 색상도 실물이 산뜻하고 이뻐서 만족합니다<br/>" 
 ---
- 
