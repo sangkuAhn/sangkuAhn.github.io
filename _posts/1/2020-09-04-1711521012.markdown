@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "오즈키즈 스타유니콘 아동우산" 
+description: 오즈키즈 스타유니콘 아동우산 ..
+date: 2020-09-05 06:30:02 
+img: https://static.coupangcdn.com/image/retail/images/2020/06/08/15/9/0ffd44fb-b7a3-42ce-a002-66497bbd9998.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1711521012&itemId=2912894509&vendorItemId=70901592871&traceid=V0-113-e5b691e56650afc6 
+categories: [1005] 
+color: 4374D9 
+price: 19900 
+author: Ask View Shop 
+cont:  "67세부터 초등 저학년까지 쓰기 좋은 사이즈에요<br/>디자인도 촌스럽지 않고 완전 예뻐요<br/>비싼 편이라 그런지 방수 비닐(?) 퀄리티가 좋아보여요<br/>우산 잠글 때 비닐이 두껍다는 게 확 느껴져요<br/>유니콘도 귀여움 ㅋㅋㅋ<br/>초등1학년 아이가 너무 좋아해요<br/>" 
+---

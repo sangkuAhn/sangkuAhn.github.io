@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "카터스 베이비 남아용 3p 리틀 가디건 세트" 
+description: 카터스 베이비 남아용 3p  ..
+date: 2020-09-05 06:15:38 
+img: https://static.coupangcdn.com/image/retail/images/2019/07/26/14/2/7c79804f-78d8-42b3-97d6-b13060ff0b86.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=270092458&itemId=848094504&vendorItemId=5156244124&traceid=V0-113-b02b086d6d09f1bd 
+categories: [1003] 
+color: 4CAF50 
+price: 8130 
+author: Ask View Shop 
+cont:  "사진대로 질도 좋고 이뿌네요 근데 사이즈는 좀 작게나온듯 합니다.<br/> 9개월 아기 12m 사이즈가 지금 딱 맞네요<br/>" 
+---

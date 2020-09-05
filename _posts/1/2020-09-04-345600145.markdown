@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "애경 퍼퓸 I-7호 + 쇼핑백 선물세트, 5세트" 
+description: 애경 퍼퓸 I-7호 + 쇼핑 ..
+date: 2020-09-05 06:58:51 
+img: https://static.coupangcdn.com/image/retail/images/10251114078008-b8a2fe76-4026-48be-b415-9e4335784c7d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=345600145&itemId=1097582120&vendorItemId=5619890780&traceid=V0-113-58cb73a4ea9da857 
+categories: [1010] 
+color: 1294AB 
+price: 46320 
+author: Ask View Shop 
+cont:  "가격대비 훌륭한 선물이었던것 같아요.<br/> 굿굿굿!<br/>가볍게 선물하기 좋은 것 같아요.<br/><br/>구성이 좋아서  아파트 관리분들과,  청소하는 분들께 드릴려고 구입했어요.<br/><br/>선물용으로 주문했는데 가격대비 용량도 포장도 깔끔 하고 좋았습니다.<br/><br/>저렴하게 잘 산거같아요<br/>조그만한 세트는 부피만 차지하는데 좀 큰 사이즈의 샴푸세트라서 맘에 드네요<br/>포장된 용기도 화려하고 고급스러워웠고,향기도 다 달라서 좋았고, 린스없이 샴프와 바디클렌져로 구성된것도 반응이 좋았습니다.<br/><br/>" 
+---
