@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아모제 오키친 와규한판 200g, 5개" 
+description: 아모제 오키친 와규한판 20 ..
+date: 2020-09-05 15:12:16 
+img: https://static.coupangcdn.com/image/vendor_inventory/272e/fc0b33980afa7f2429518634677bec007f0cf8bc6d968885d5e3c92239d5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1086049378&itemId=2040094580&vendorItemId=70039487302&traceid=V0-113-a597ce77f8aea343 
+categories: [1012] 
+color: 9E9D24 
+price: 26900 
+author: Ask View Shop 
+cont:  "가격은 글쎄요.<br/>.<br/> 잘 모르겠어요 ^^<br/>간도 잘 됬다고 하셨슴<br/>강추합니다<br/>고기도 얇게 썰어서 부드럽다고 하심<br/>단맛을 조금더 줄엿으면 좋겠음<br/>맛있어서 계속 구매할계획입니다<br/>어리애들은 좋아할듯<br/>우리 부친께서 맛좋다고 하심<br/>하여튼 맛있다고 하십니다<br/>" 
+---
