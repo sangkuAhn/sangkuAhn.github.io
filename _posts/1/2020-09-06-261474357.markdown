@@ -9,5 +9,5 @@ categories: [1003]
 color: 1294AB 
 price: 8450 
 author: Ask View Shop 
+cont:  "배송도 빠르고 가격저렴하고 전체적으로 맘에 들어요.<br/><br/>해피랜드 샤랄라 순면 프릴 상하복 80 구매후기<br/>" 
 ---
- 
