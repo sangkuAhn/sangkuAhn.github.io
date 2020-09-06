@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아드리엘 블링 하트 마스크 스트랩" 
+description: 아드리엘 블링 하트 마스크  ..
+date: 2020-09-06 06:30:01 
+img: https://static.coupangcdn.com/image/retail/images/104404338010415-9d2003d3-d35f-4a51-b77a-9b1330d9f69a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1919783730&itemId=3259592152&vendorItemId=71396737248&traceid=V0-113-99e518e90f129f43 
+categories: [1005] 
+color: BF360C 
+price: 7400 
+author: Ask View Shop 
+cont:  "8세 아이가 직접 골랐어요<br/>가벼워서 목에도 부담이 없고,<br/>까슬거리는 부분이 없이 마감이 깔끔한 편이네요 ㅎㅎ<br/>단, 가격이 착하지 않은 면이 있지만<br/>면으로 된건 땀나고 시간이 지나니까 후줄근 해지던데<br/>보는 사람마다 예쁘다고 어디서 산건지 물어봐요^^<br/>쇠도 아니라 알레르기도 없을 것 같고.<br/>.<br/><br/>실물이 더 예쁘네요<br/>아이가 좋아하고, 볼 때마다 블링블링 예뻐서<br/>여러모로 최고예요<br/>요건 플라스틱이라 색이나 형태가 변하지않고 언제나 그대로 일 것같아요<br/>핑크줄이라 옷 색깔과도 이질감이 없이 어떤 옷에도 찰떡이네요<br/>" 
+---

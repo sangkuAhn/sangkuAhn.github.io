@@ -9,5 +9,5 @@ categories: [1006]
 color: BD24A9 
 price: 6800 
 author: Ask View Shop 
+cont:  "굿 나이키 굿 스트랩<br/>이쁨<br/>" 
 ---
- 
