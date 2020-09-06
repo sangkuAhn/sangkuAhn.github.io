@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "트렉스타 오리온 힙색 LZ-AB02, 라임" 
+description: 트렉스타 오리온 힙색 LZ- ..
+date: 2020-09-07 06:37:12 
+img: https://static.coupangcdn.com/image/vendor_inventory/1773/0ffcfc2a0ceedb3a6be26c07c39942e61262931f08f75a04f084a46a353c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1800757941&itemId=3063930429&vendorItemId=71051881650&traceid=V0-113-0c2312818ca1c8d6 
+categories: [1006] 
+color: f44336 
+price: 29500 
+author: Ask View Shop 
+---
+ 
