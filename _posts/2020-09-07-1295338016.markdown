@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "컨버스 척테일러 올스타 클래식 M9165C" 
+description: 컨버스 척테일러 올스타 클래 ..
+date: 2020-09-08 06:44:24 
+img: https://static.coupangcdn.com/image/retail/images/10976563018885-1040a121-19ea-4718-be60-1c52512d7648.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1295338016&itemId=2307593275&vendorItemId=70304435674&traceid=V0-113-1922b63daf92dbfd 
+categories: [1007] 
+color: 1294AB 
+price: 37900 
+author: Ask View Shop 
+---
+ 
