@@ -9,5 +9,5 @@ categories: [1003]
 color: 7E57C2 
 price: 11500 
 author: Ask View Shop 
+cont:  "가벼워서 아이들이하기에도좋고<br/>고민없이 바로구매했네요<br/>마스크줄끼우기편해서 좋네요<br/>아들이 공룡덕후에요<br/>아들이너무좋아해요^^<br/>" 
 ---
- 

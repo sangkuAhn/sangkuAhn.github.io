@@ -9,5 +9,5 @@ categories: [1003]
 color: BF360C 
 price: 11750 
 author: Ask View Shop 
+cont:  "그냥 비닐봉투에 구겨서 넣어져서 와요 ㅋㅋ<br/>선물용으로 비추입니다<br/>저렴하기도 하고 제 애기 입힐려고 산거고 귀엽긴한데<br/>" 
 ---
- 

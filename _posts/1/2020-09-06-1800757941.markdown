@@ -9,5 +9,5 @@ categories: [1006]
 color: f44336 
 price: 29500 
 author: Ask View Shop 
+cont:  "살짝 흠이네요<br/>앞으로 자주 산에 오를듯<br/>코로나 시기 혼등하기 딱 좋은 가방인거 같네요<br/>" 
 ---
- 

@@ -9,5 +9,5 @@ categories: [1007]
 color: FF6F00 
 price: 26500 
 author: Ask View Shop 
+cont:  "발도편하고 좋은거같은데 아직 신은지얼마안되서 쪼금더신어봐야될듯<br/>정사이즈고 엄청 가볍고  발이 편안해요 좋은상품 감사합니다^^<br/>푹신푹신<br/>" 
 ---
- 

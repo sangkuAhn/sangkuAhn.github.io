@@ -9,5 +9,5 @@ categories: [1007]
 color: 4CAF50 
 price: 87500 
 author: Ask View Shop 
+cont:  "너무 이뻐요 일단 볼이넓은 사람들이 신기에는 딱좋아요<br/>" 
 ---
- 

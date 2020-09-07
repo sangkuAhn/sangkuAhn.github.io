@@ -9,5 +9,5 @@ categories: [1001]
 color: CF36BB 
 price: 11400 
 author: Ask View Shop 
+cont:  "시원하다고는 했지만  너무 커서 누더기 걸친것같아요.<br/><br/>요즘 날씨에 딱입니다! 빠른배송 감사합니다<br/>" 
 ---
- 

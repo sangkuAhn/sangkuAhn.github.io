@@ -9,5 +9,5 @@ categories: [1003]
 color: D9418C 
 price: 7450 
 author: Ask View Shop 
+cont:  "옷은좋으나 정말 이건 상품텍이 심하게많이붙어있고 띠느라 옷빵구났어요<br/>" 
 ---
- 
