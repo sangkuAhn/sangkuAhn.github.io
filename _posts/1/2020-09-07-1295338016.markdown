@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "컨버스 척테일러 올스타 클래식 M9165C" 
+description: 컨버스 척테일러 올스타 클래 ..
+date: 2020-09-08 06:44:24 
+img: https://static.coupangcdn.com/image/retail/images/10976563018885-1040a121-19ea-4718-be60-1c52512d7648.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1295338016&itemId=2307593275&vendorItemId=70304435674&traceid=V0-113-1922b63daf92dbfd 
+categories: [1007] 
+color: 1294AB 
+price: 37900 
+author: Ask View Shop 
+cont:  "250대개 크게보임<br/>같은 베이지 로우로 주문<br/>개인적으로 내가 산 가격도 크게 비싼거 같지는 않음<br/>급한거 아님 장바구니.<br/>들락날락? 하다 할인할때 사는걸 추천<br/>신발신기도 불편하고<br/>실제로 신어보니 살짝 크긴커요<br/>아 중요한거!.<br/> 전 42000원정도에 구입<br/>애들이랑 정신없이 다니다보면<br/>원래 245 신는데 여유있게 신으려고 산거지만<br/>이거랑 같은색상 컨버스 하이 신다가<br/>일단 하이 245에 신던거에 비교하면<br/>" 
+---

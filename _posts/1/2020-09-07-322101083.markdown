@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "콩 모던디펜스 서류가방" 
+description: 콩 모던디펜스 서류가방 ..
+date: 2020-09-08 06:08:25 
+img: https://static.coupangcdn.com/image/retail/images/2019/10/16/10/8/ad938c45-de34-45cf-98ec-8aae5152f302.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=322101083&itemId=1031348569&vendorItemId=5480043834&traceid=V0-113-07f511de7b58b351 
+categories: [1002] 
+color: CF36BB 
+price: 39900 
+author: Ask View Shop 
+cont:  "Simple is Best<br/>가격 품질 용도 좋습니다!<br/>가격대비 상당히 좋아요<br/>가격도 좋고 노트북 들고다니기도 좋고<br/>가성비 갓갓 이쁨 야악간의 구겨짐 정도는 눈감아 줄 가격과 디자인, 디자인이 올드하지도 너무 영하지도 않고 유행안타게 깔끔해서 좋음<br/>너어어어무 잘쓰고 있습니다<br/>다만 외부에 이어폰 같은 작은거 넣을 주머니가 있으면 더욱 좋겠지만<br/>더욱 좋겠다는게 지금 안 좋다는 것은 아니니깐 패스하고<br/>사이즈도 적당하고<br/>수납도 출퇴근 용도로 아주 그만입니다<br/>스트랩부분이 좀 품질이 안좋다는 느낌이 들긴하지만<br/>지퍼부분도 고급스럽고요<br/>첫 신입직원 서류가방으로 딱 좋습니다<br/>" 
+---

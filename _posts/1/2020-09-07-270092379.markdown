@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "카터스 베이비 남아용 2p 풀온 팬츠" 
+description: 카터스 베이비 남아용 2p  ..
+date: 2020-09-08 06:15:37 
+img: https://static.coupangcdn.com/image/retail/images/2019/07/26/14/0/dec8fdef-6011-4d00-8646-60a1fdbc41a3.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=270092379&itemId=848094196&vendorItemId=5156243625&traceid=V0-113-cbfbdee86b3400db 
+categories: [1003] 
+color: 4374D9 
+price: 7450 
+author: Ask View Shop 
+cont:  "배송 빨라서 좋았고 옷도 좋아요<br/>" 
+---
