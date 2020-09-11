@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "리복 플로트라이드 6000 M CN1758" 
+description: 리복 플로트라이드 6000  ..
+date: 2020-09-11 06:44:27 
+img: https://static.coupangcdn.com/image/retail/images/92325873610367-74d1bbae-a372-4802-bf2f-eb98e1174136.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1734433084&itemId=2952628807&vendorItemId=70941145765&traceid=V0-113-2a8f32c23c41d846 
+categories: [1007] 
+color: BD24A9 
+price: 46250 
+author: Ask View Shop 
+cont:  "꼭 구두주걱을 사용해야 신을수있을듯요<br/>Very good<br/>구두주걱사용이  번거로운분들은<br/>그래도 목이 많이 올라오는신발이라서 헐떡이거나하진 않을거구요<br/>끈은 그냥 장식이지 조절이 별의미는없어보여요<br/>니트운동화네요 일반 운동화와 달리 아쿠아 슈즈처럼되어 있고<br/>디자인 예쁘구요(울집남자가 한눈에 반한신발)<br/>발등이 높거나 발볼이 넓거나<br/>발바닥쪽 쿠션 좋은편이구요<br/>불편해하실듯<br/>신축성 통풍성 좋고 가볍습니다.<br/> 비 오는날 제외하고 평상시 편하게 신고 다니기 좋네요<br/>엄청 가벼워요<br/>울집 남자는 발등이 높게 덥히는신발을 선호하고<br/>울집남자 넉넉하게 270신는데 꽉낀다고하네요<br/>착화감 좋아요<br/>한치수 크게사셔도 좋을듯해요<br/>항상 구두주걱을 사용해서 신기때문에 불편해하진않지만<br/>" 
+---

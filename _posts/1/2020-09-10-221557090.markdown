@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "해피랜드 2019 황금복덩이 햇신상~!바람길 솔솔~ 쟈가드 원단으로 뽀송하게~!" 
+description: 해피랜드 2019 황금복덩이 ..
+date: 2020-09-11 06:15:37 
+img: https://static.coupangcdn.com/image/vendor_inventory/39db/a093ae5dc81918f25df608ac49cf85a9e63c04d2fddf6ad0adc028ab80d7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=221557090&itemId=692191324&vendorItemId=70991875380&traceid=V0-113-875365e518d6d785 
+categories: [1003] 
+color: 35B62C 
+price: 8940 
+author: Ask View Shop 
+cont:  "만족합니다<br/>얇은데 길이는 길어서 아주 좋아요ㅋㅋ<br/>열 많은 아기라 겨울에 아주 잘 입었어요<br/>잘입히겟습니다<br/>" 
+---

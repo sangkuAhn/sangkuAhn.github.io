@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "쥬니블리 여아용 블리레깅스" 
+description: 쥬니블리 여아용 블리레깅스 ..
+date: 2020-09-11 06:22:50 
+img: https://static.coupangcdn.com/image/retail/images/252990295150093-8bab9c79-2b6a-4b81-86db-7be2c76f04fa.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=265627315&itemId=832682509&vendorItemId=5120028683&traceid=V0-113-3ed75c66adc9b410 
+categories: [1004] 
+color: A6A6A6 
+price: 6540 
+author: Ask View Shop 
+cont:  "보송보송  초가을 입기에는 좋아요.<br/>145키에 38키로  초등생인데 따뜻하게 입을것같아요.<br/>배송도 이튿날 바로 와서 빨아  널어놨는데 좋아요.<br/><br/>아이가 좋아합니다 이런 레깅스가 가지고 싶었다고 하네요<br/>키150아이에게  약간긴듯하지만 입고  다니기  괜찮을거  같아요  두께도  가을에  입기  딱  적당해요<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "크록스 바야 클로그 10126-001" 
+description: 크록스 바야 클로그 1012 ..
+date: 2020-09-11 06:44:27 
+img: https://static.coupangcdn.com/image/vendor_inventory/f9b9/2a71c152258f09c4a23637314aecc5dd3e0017229af63b8dbd6da4850509.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1398966632&itemId=2434071953&vendorItemId=70756094287&traceid=V0-113-f9079ce9af135395 
+categories: [1007] 
+color: A57F92 
+price: 17450 
+author: Ask View Shop 
+cont:  "싸이즈.<br/> 너무작구요.<br/> 짝퉁같은느낌 <br/>" 
+---

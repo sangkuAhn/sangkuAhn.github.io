@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "보들보들 시바 오버핏 맨투맨 (IN001)" 
+description: 보들보들 시바 오버핏 맨투맨 ..
+date: 2020-09-11 06:08:26 
+img: https://static.coupangcdn.com/image/operator/2355962531/e446e51b-2bd8-d554-8054-6ed0a15ea6d5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1331495905&itemId=2355962531&vendorItemId=70352422657&traceid=V0-113-7dde04a620316610 
+categories: [1002] 
+color: FF6F00 
+price: 22800 
+author: Ask View Shop 
+cont:  "딱 사진과 같음<br/>시바견 맨투맨 루즈하게입쁘네요아들이 맘에들어합니다^^<br/>시바견부분은 보들보들함<br/>적당한두께감<br/>한번 더 샀어용<br/>" 
+---

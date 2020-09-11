@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "크록스 2020 크록밴드 클로그 네이비" 
+description: 크록스 2020 크록밴드 클 ..
+date: 2020-09-11 06:44:27 
+img: https://static.coupangcdn.com/image/vendor_inventory/874a/5be7c2cc164ebb20d77d271ca7b6a016d9f2436f31d017d18faebe3ca996.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1331829495&itemId=2356376193&vendorItemId=70352832488&traceid=V0-113-daac12643bdb51c7 
+categories: [1007] 
+color: 9E9D24 
+price: 36900 
+author: Ask View Shop 
+cont:  "믿고 시켰는데 잘 왔어요<br/>올래 발은 240입니다!!<br/>올래 크록스 슬리퍼로 나온거는 m5 w7 신는데<br/>이거는 넉넉히 m6 w8로 주문했어요 잘 맞아요<br/>정품이고 추천입니다^^<br/>좋아요<br/>최고<br/>" 
+---

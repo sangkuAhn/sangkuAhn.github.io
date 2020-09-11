@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "제이에이치컴퍼니 리틀 갤럭시 플랫 힐" 
+description: 제이에이치컴퍼니 리틀 갤럭시 ..
+date: 2020-09-11 06:44:27 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/18/14/0/4022bac0-935b-402e-9428-6515fa15a857.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1410132828&itemId=2446520424&vendorItemId=70440232213&traceid=V0-113-822904557b399e0b 
+categories: [1007] 
+color: f44336 
+price: 12700 
+author: Ask View Shop 
+cont:  "250이라 250 사이즈 시켰는데 은근 커서 놀랐어요... <br/>그래도 적당히 커서 편하게 움직일수 있고 미친듯이 뛰지만 않으면... <br/>벗겨질 위험은 없을것 같아요! 사진이랑 똑같아서 더 맘에 드는ㅎㅎㅎㅎㅎㅎ후회는 없습니다ㅎㅎ가성비 최고예요!<br/>가성비 값에 아주아주아주 만족합니다 !<br/>다른건 눈에 안들어올정도로?ㅎㅎ<br/>진짜 느낌 너무 좋아요 )<br/>짱짱 !<br/>평소240인데 발붓는걸생각해서주문 양말신고신어도커요<br/>" 
+---
