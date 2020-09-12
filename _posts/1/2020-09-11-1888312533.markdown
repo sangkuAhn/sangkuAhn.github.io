@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "정관장 홍삼대보 프리미엄 + 쇼핑백, 40ml, 30개" 
+description: 정관장 홍삼대보 프리미엄 + ..
+date: 2020-09-12 08:25:08 
+img: https://static.coupangcdn.com/image/retail/images/2020/07/27/14/6/dcd616f2-a261-42a5-9fff-b1b5f33c6b15.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1888312533&itemId=3208624480&vendorItemId=71195970069&traceid=V0-113-8ca7daffc9819eed 
+categories: [1024] 
+color: FF1744 
+price: 40000 
+author: Ask View Shop 
+cont:  "드시고 더운 여름 잘 보내시라고 보내드렸어요.<br/><br/>쇼핑백포함이나 물건만옴 선물용으로 산건데 지금 그냥 매장가여하나 고민이네요<br/>외할머니께 보내드렸어요.<br/> 인사가면 아낌없이 바리바리 싸주시는 할머니.<br/> 언제나 건강하세요! 정관장 믿고 구매합니다<br/>울 아빠♡엄마<br/>" 
+---

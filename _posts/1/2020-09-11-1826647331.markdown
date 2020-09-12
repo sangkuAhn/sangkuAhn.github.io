@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "디랩 플립 심플카드지갑 + 달링 세트" 
+description: 디랩 플립 심플카드지갑 +  ..
+date: 2020-09-12 06:51:39 
+img: https://static.coupangcdn.com/image/retail/images/2020/07/13/18/0/fc0713f6-bd11-498d-87fd-fff4cd23e153.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1826647331&itemId=3107843143&vendorItemId=71079907098&traceid=V0-113-3d0bc7f25e7d5601 
+categories: [1008] 
+color: A566FF 
+price: 15640 
+author: Ask View Shop 
+cont:  "가격은 2만원 이하<br/>달링의 달을 감싸는 동그랑 링은 뺄 수 있어서<br/>딱 맞는 상품을 발견했네요<br/>분실 위험을 줄이기위해 스트랩 또는 키링 같은 것이 달려있고<br/>뺐더니 더 예쁘고 맘에 드네요ㅎㅎ<br/>세 조건으로 알맞는 제품를 찾고 있었는데<br/>얼마전에 지갑을 분실해서 새 지갑으로 선택했어요.<br/><br/>주민등록증 및 카드 2<br/> -3장 들어가고<br/>" 
+---
