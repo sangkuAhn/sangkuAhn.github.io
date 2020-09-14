@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코튼 줄무늬 점프슈트" 
+description: 코튼 줄무늬 점프슈트 ..
+date: 2020-09-14 14:15:32 
+img: https://static.coupangcdn.com/image/retail/images/2020/07/22/17/4/e4f88e15-4743-4071-8ebf-f97748d628d7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1858909211&itemId=3159915695&vendorItemId=71147471118&traceid=V0-113-81393aee684af39d 
+categories: [1003] 
+color: FF6F00 
+price: 7900 
+author: Ask View Shop 
+---
+ 
