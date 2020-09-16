@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "가우리 GA 이선 트레이닝 팬츠" 
+description: 가우리 GA 이선 트레이닝  ..
+date: 2020-09-17 06:08:25 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2019/02/20/17/1/3b2fbadc-7295-465d-baf0-4df0bfc8101f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=22135109&itemId=86129247&vendorItemId=3146528175&traceid=V0-113-76f46811d57ef6c5 
+categories: [1002] 
+color: 006064 
+price: 9900 
+author: Ask View Shop 
+---
+ 
