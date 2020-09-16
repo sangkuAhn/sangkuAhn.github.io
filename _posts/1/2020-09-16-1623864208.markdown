@@ -9,5 +9,5 @@ categories: [1014]
 color: F361A6 
 price: 16830 
 author: Ask View Shop 
+cont:  "구냥 산거야, 뭔 상품평<br/>깔끔하고 상쾌한 느낌을 주는치약입니다.<br/>대만족이예요<br/>아직  미사용ㅋ<br/>치약이  떨어져서  급으로  구매했어요<br/>" 
 ---
- 
