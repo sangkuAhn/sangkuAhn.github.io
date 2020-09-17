@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "제이라인 통굽 밴딩 슬리퍼 JLSR2053" 
+description: 제이라인 통굽 밴딩 슬리퍼  ..
+date: 2020-09-17 06:44:26 
+img: https://static.coupangcdn.com/image/retail/images/2020/05/18/19/5/30b2b0d5-b6c0-4a6c-b80c-94fdda9d0a2c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1606708230&itemId=2744194748&vendorItemId=70749269189&traceid=V0-113-6d14a1897c016412 
+categories: [1007] 
+color: 5A8DF3 
+price: 8900 
+author: Ask View Shop 
+cont:  "걸을 때마다 소리나고<br/>돈 더 주고 좋은거 사세요... <br/><br/>약간작음<br/>잠깐 걸어도 안좋은게 느껴져요<br/>점심 시간에 식당가고 좀 걸으면 뒷꿈치가 아프고<br/>정사이즈예요 칼발인데 발바닥 안미끄럽고 괜찮음<br/>쿠션이 너무 푹푹해서<br/>" 
+---

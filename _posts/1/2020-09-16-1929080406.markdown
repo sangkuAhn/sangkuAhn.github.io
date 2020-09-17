@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "월튼키즈 아동용 포켓베이직 티셔츠" 
+description: 월튼키즈 아동용 포켓베이직  ..
+date: 2020-09-17 06:30:03 
+img: https://static.coupangcdn.com/image/retail/images/2020/08/04/19/0/332b2c57-8031-4279-92ad-4c1de3df3448.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1929080406&itemId=3275030918&vendorItemId=71262038202&traceid=V0-113-6f019fe8c8f3aca9 
+categories: [1005] 
+color: F361A6 
+price: 6210 
+author: Ask View Shop 
+cont:  "5살 마른 체형이에요<br/>깔끔하고 이뻐요^^<br/>색깔별로 구매하길 잘했네요^^<br/>생각보다 스판이 없네요 ㅠㅠ 불편할지도.<br/>.<br/><br/>입히려고 한번 빨아놓은 상태인데... <br/><br/>착한 가격에 재질도 디자인도 깔끔하고 이뻐요^^<br/>" 
+---

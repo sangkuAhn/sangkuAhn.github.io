@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "가우리 GA 이선 트레이닝 팬츠" 
+description: 가우리 GA 이선 트레이닝  ..
+date: 2020-09-17 06:08:25 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2019/02/20/17/1/3b2fbadc-7295-465d-baf0-4df0bfc8101f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=22135109&itemId=86129247&vendorItemId=3146528175&traceid=V0-113-76f46811d57ef6c5 
+categories: [1002] 
+color: 006064 
+price: 9900 
+author: Ask View Shop 
+cont:  "건조기 사용시 약하게 1015분 정도 돌려주면<br/>기장도 길어서(발목길이) 불편함이 없네요.<br/><br/>세탁시 섬유유연제 넣고 손빨래 추천드리며,<br/>여름이 되면서 급하게 새로 작업복으로<br/>여름철 가볍게 외출복이나 작업복으로 입기<br/>잘 마르네요^^<br/>재질이 얇아서 통풍이 매우 시원해요.<br/><br/>좋은 바지인것 같아요.<br/><br/>중학생 아들 사줬는데 색깔별로 편안하고 좋네요.<br/><br/>편하게 입으려고 구매하였어요.<br/><br/>한여름용은아니라서받자마자.<br/>뒤집은후.<br/>세탁기안으로.<br/>몇바퀴돌린후말린후에옷걸이에걸어두었네요.<br/>가을에입으려구<br/>활동시 신축성이 있어 편안하네요.<br/><br/>" 
+---

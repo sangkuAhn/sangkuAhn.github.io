@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "퀸앤조이 웰던 루즈핏 긴팔 티셔츠" 
+description: 퀸앤조이 웰던 루즈핏 긴팔  ..
+date: 2020-09-17 06:01:13 
+img: https://static.coupangcdn.com/image/vendor_inventory/6ef4/1b228334b81b4c59b65478f5e9218e57a1a401e53a7fe2ac79a2ace08369.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=281563078&itemId=893818004&vendorItemId=5247148703&traceid=V0-113-836cb881558456f5 
+categories: [1001] 
+color: FF1744 
+price: 8100 
+author: Ask View Shop 
+cont:  "겨울이라 그런건가요 생각보다 두꺼움 사진핏없음 프린트도 별루임 반품비아까워서 그냥입음<br/>누가뭐라해도 넌 내가 찜콩 짱 좋음ㅋㅋㅋ<br/>뻣뻣한천입니다!!<br/>사진처럼 저렇게 초롬하게 떨어지지않아요<br/>생각보다 두껍구요<br/>절때<br/>통통한 나에게도 잘 어울려줌ㅋㅋ<br/>" 
+---

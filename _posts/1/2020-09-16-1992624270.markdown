@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "비글즈 발렌 웨이브로고 후드티 오버핏 후드티" 
+description: 비글즈 발렌 웨이브로고 후드 ..
+date: 2020-09-17 06:08:25 
+img: https://static.coupangcdn.com/image/vendor_inventory/2a36/6797c075b2572f7977fde0c66716c98653222ade58a988bed5d130f7f819.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1992624270&itemId=3390329895&vendorItemId=71532749651&traceid=V0-113-d1b00469fe6c4413 
+categories: [1002] 
+color: 35B62C 
+price: 47500 
+author: Ask View Shop 
+cont:  "굿입니다 생각보다 좋음<br/>" 
+---
