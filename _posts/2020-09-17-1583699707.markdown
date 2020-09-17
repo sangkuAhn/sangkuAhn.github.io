@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "캐럿 여성용 브이넥 드레스 스웨터" 
+description: 캐럿 여성용 브이넥 드레스  ..
+date: 2020-09-18 06:01:14 
+img: https://static.coupangcdn.com/image/retail/images/15805623319118-e1c31cff-b772-46f2-aacc-4fd22355f919.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1583699707&itemId=2707167239&vendorItemId=70697441575&traceid=V0-113-d371cdff870bc100 
+categories: [1001] 
+color: 43A047 
+price: 19500 
+author: Ask View Shop 
+---
+ 
