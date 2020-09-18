@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "켈로그 프로틴그래놀라 쉐이크 미숫가루맛, 50g, 12개" 
+description: 켈로그 프로틴그래놀라 쉐이크 ..
+date: 2020-09-19 07:49:13 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/09/09/5197972774/1d1a314e-c651-4627-8b2c-106a0bbf7fec.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1795781701&itemId=3055082797&vendorItemId=71043083678&traceid=V0-113-cb91b9695f61e3ba 
+categories: [1017] 
+color: F15F5F 
+price: 22810 
+author: Ask View Shop 
+---
+ 

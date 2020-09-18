@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "참 애썼다 그것으로 되었다, 부크럼" 
+description: 참 애썼다 그것으로 되었다, ..
+date: 2020-09-19 08:03:39 
+img: https://static.coupangcdn.com/image/retail/images/80169715436629-ad06e089-17b5-4743-a1db-e5a586ca3911.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1133556868&itemId=409168814&vendorItemId=4002213300&traceid=V0-113-8d0474917d5ec3bf 
+categories: [1019] 
+color: 35B62C 
+price: 12600 
+author: Ask View Shop 
+---
+ 

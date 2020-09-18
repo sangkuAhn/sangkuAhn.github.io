@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "유기가공식품인증 자른미역, 40g, 3개입" 
+description: 유기가공식품인증 자른미역,  ..
+date: 2020-09-19 07:13:13 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/09/04/5305349554/3d7d92d6-ff58-4096-9756-5e445b895cf7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=294230929&itemId=928501786&vendorItemId=5305349554&traceid=V0-113-f06bf36d3a5bf98e 
+categories: [1012] 
+color: A57F92 
+price: 4900 
+author: Ask View Shop 
+---
+ 
