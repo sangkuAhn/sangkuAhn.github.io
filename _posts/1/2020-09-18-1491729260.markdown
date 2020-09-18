@@ -9,5 +9,5 @@ categories: [1007]
 color: 4CAF50 
 price: 17990 
 author: Ask View Shop 
+cont:  "가격대비 디자인이랑 퀄리티 만족해용<br/>배송도 빠르게 잘왔구 신발도 너무 예뻐요<br/>" 
 ---
- 

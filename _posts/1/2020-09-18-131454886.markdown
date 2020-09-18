@@ -9,5 +9,5 @@ categories: [1021]
 color: FF6F00 
 price: 650 
 author: Ask View Shop 
+cont:  "보기보다는 단단한 재질 입니다<br/>상자가 사이즌도 적당하고 튼튼하네요<br/>아이들이 좋아하네요<br/>" 
 ---
- 

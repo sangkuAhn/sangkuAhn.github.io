@@ -9,5 +9,5 @@ categories: [1008]
 color: A57F92 
 price: 9800 
 author: Ask View Shop 
+cont:  "하나가빠지고 9개가 왔네요ㅜㅜ<br/>" 
 ---
- 
