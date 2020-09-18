@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아모레퍼시픽 도담 29호 선물세트 + 쇼핑백, 1세트" 
+description: 아모레퍼시픽 도담 29호 선 ..
+date: 2020-09-18 07:00:01 
+img: https://static.coupangcdn.com/image/retail/images/2020/08/03/13/1/d3a4124e-51ce-4fb2-abf0-a4dd73fc5392.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1915470061&itemId=3252110633&vendorItemId=71239189427&traceid=V0-113-fa92ca189de7e25a 
+categories: [1010] 
+color: 353535 
+price: 17960 
+author: Ask View Shop 
+cont:  "상품 품질은 모르겠는데요.<br/>.<br/> 택배박스 뜯자마자 스티커도 붙여있지도않고 무거워서 상자뚜껑 찢어질뻔 했어요.<br/> 배려해주세요<br/>선물용으로 딱 좋아요ㅎㅎ<br/>잘 사용하겠습니다<br/>품질상태, 디자인 good<br/>" 
+---

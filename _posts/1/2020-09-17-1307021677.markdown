@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "미니비 아동용 카콩 맨투맨 상하세트" 
+description: 미니비 아동용 카콩 맨투맨  ..
+date: 2020-09-18 06:30:00 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/01/14/0/a17f343c-0d0f-4f90-94df-5f2bb83bb615.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1307021677&itemId=2322552373&vendorItemId=70319215378&traceid=V0-113-db5870c455183f3d 
+categories: [1005] 
+color: 4A148C 
+price: 17730 
+author: Ask View Shop 
+cont:  "11호로 주문했는데 딱 원했던 핏으로 입히고있어요.<br/><br/>6세, 몸무게 16.<br/>5kg<br/>가격대비 훌륭한 상하복입니다 ^^<br/>또래보다 마르고 작은 체형의 남아입니다.<br/><br/>배송도 빠르고 유쳔등원에 입고 갔는데 너무 이쁘고 활동성도 굿이네요^<br/>어린이집 활동복으로 좋아요! 사이즈 넉넉하고 재질도 좋구요! 편하게입힐수있어요!<br/>평소에 오버핏으로 입히는걸 좋아해서<br/>" 
+---
