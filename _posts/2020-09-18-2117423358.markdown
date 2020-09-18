@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "엘프고 코믹스 1, 겜툰" 
+description: 엘프고 코믹스 1, 겜툰 ..
+date: 2020-09-18 16:04:55 
+img: https://static.coupangcdn.com/image/retail/images/2020/09/16/14/7/b83af304-a2c3-40ee-ba20-bd768db170f3.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2117423358&itemId=3595532681&vendorItemId=71581267255&traceid=V0-113-621093bd23b67955 
+categories: [1019] 
+color: A57F92 
+price: 10800 
+author: Ask View Shop 
+---
+ 

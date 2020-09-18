@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "흔한남매 안 흔한 일기 3, 아이세움" 
+description: 흔한남매 안 흔한 일기 3, ..
+date: 2020-09-18 16:04:55 
+img: https://static.coupangcdn.com/image/retail/images/2020/09/16/14/3/b0adca9a-71a0-4147-ae7b-4453c176499c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2117423326&itemId=3595532655&vendorItemId=71581267209&traceid=V0-113-521b324255075308 
+categories: [1019] 
+color: 7E57C2 
+price: 10800 
+author: Ask View Shop 
+---
+ 
