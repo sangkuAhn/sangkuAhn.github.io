@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "AHC 리뉴에이지 토탈 4종 기프트 세트, 1세트" 
+description: AHC 리뉴에이지 토탈 4종 ..
+date: 2020-09-19 06:58:49 
+img: https://static.coupangcdn.com/image/retail/images/2020/04/21/17/6/a562eabd-e77c-4d0e-b7d5-6a451fab1bd8.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1493685336&itemId=2565244875&vendorItemId=70557700633&traceid=V0-113-ee70a930c3dd58f4 
+categories: [1010] 
+color: 4374D9 
+price: 40490 
+author: Ask View Shop 
+cont:  "40대 여성입니다.<br/>가격생각해서 그닥 기대하진않았고 상품평보고 주문했습니다.<br/><br/>가격대비 고급스런 패키지.<br/> 별것 아닌데도 받는 사람 마음은 풍족.<br/> 신뢰가는 브랜드인데 가격이 저렴해서 참 고맙네요.<br/> 친정엄마 화장품 떨어지면 기능별로 돌아가며 사드려요.<br/><br/>그런데생각보다 깜짝놀랐네요세상  촉촉하며 그촉촉함이 정말 오래가더라구요피부가 건조하신분들한테 적극 추천합니다<br/> -<br/>토너와 애멀젼 구분이 잘 안되요 펌푸식이면 더 좋을듯해요<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "위드기프트/ 스마일 호피 사각 헤어끈 5개세트" 
+description: 위드기프트/ 스마일 호피 사 ..
+date: 2020-09-19 06:51:38 
+img: https://static.coupangcdn.com/image/vendor_inventory/91a1/2ea5d86392b73c733dc217761ca5dcc6d4579db25abe5ede15ad1d20a0f4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1079816801&itemId=2031676020&vendorItemId=71246977606&traceid=V0-113-77c169a441797441 
+categories: [1008] 
+color: 5A8DF3 
+price: 5250 
+author: Ask View Shop 
+cont:  "잘샀어요ㅎㅎ<br/>짱짱하고 스마일 마크도 호피무늬도 넘넘  이쁘네요<br/>짱짱하고 탄력좋아여디자인도 사진상 같아여<br/>호피무늬 좋아하는데 받아보니 앙증맞고 넘 이쁘네요 잘 쓸께요<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "이유까까 아동용 오오 상하복세트" 
+description: 이유까까 아동용 오오 상하복 ..
+date: 2020-09-19 06:30:01 
+img: https://static.coupangcdn.com/image/vendor_inventory/bd9b/6f80705ae88183c8081b3d821913e8c18af5d022fd4fe6bcb2921b1dd466.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1301411010&itemId=2315243811&vendorItemId=70311977611&traceid=V0-113-39c0e8509d0addbd 
+categories: [1005] 
+color: A57F92 
+price: 10900 
+author: Ask View Shop 
+cont:  "날씨가 풀리지않아 아쉬워요.<br/><br/>사진보다는 좀 못해요.<br/><br/>예쁘고 좋긴한데 크게주문했는데도 팔다리길이가 짧아요<br/>지금 입기에는 살짝 얇은감이있는데 봄옷이니까 점점 따뜻해질 날씨 생각하면 괜찮아요<br/>" 
+---

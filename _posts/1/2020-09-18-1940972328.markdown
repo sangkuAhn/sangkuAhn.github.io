@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "마리앤모리 여아용 브리 원피스 조끼세트" 
+description: 마리앤모리 여아용 브리 원피 ..
+date: 2020-09-19 06:22:50 
+img: https://static.coupangcdn.com/image/retail/images/2020/08/04/19/4/177f9a6b-9978-4b95-994a-e5c08c36a9fc.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1940972328&itemId=3295204872&vendorItemId=71282151207&traceid=V0-113-91a4877877ff4c72 
+categories: [1004] 
+color: 35B62C 
+price: 21510 
+author: Ask View Shop 
+cont:  "원피스가 생각보다, 화면보다 재질과 색감이 별루다... <br/><br/>표준 초1 여아에게 내년까지 입히려고 140주문 한건데 전체 기장은 그럭저럭 약간 길고 허리 선이 어설프게 애매하다.<br/>.<br/>조끼로 가려야지.<br/>.<br/>애도 별로 맘에 들지 않아하는 눈치.<br/>.<br/>반품 귀찮아서 걍 입혀야지모... <br/>맘에 들어하는 이들도 있겠지만 나는 별로인걸로<br/>" 
+---

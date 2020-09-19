@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "핍스 5주년 기념 bridge messenger 메신저백" 
+description: 핍스 5주년 기념 bridg ..
+date: 2020-09-19 06:08:24 
+img: https://static.coupangcdn.com/image/retail/images/2020/06/30/11/5/4e748cca-72aa-456d-a9d3-3397a8ea961e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1772874860&itemId=3018667224&vendorItemId=70994220449&traceid=V0-113-b77abcd0bb53e620 
+categories: [1002] 
+color: 1294AB 
+price: 36860 
+author: Ask View Shop 
+cont:  "가성비 좋고 재질도 튼튼하고 좋습니다b<br/>좋으네요 수납공간넓고 무난하고 굿이예요<br/>친구가 다른 핍스 제품 샀었을 때 되게 컸었다고해서 혹시 이것도 저한테 너무 크면 어쩌나 했는데 크기가 제가 원했던 크기여서 좋았어요 디자인도 예쁘고 구매하기 잘한 것 같네요<br/>" 
+---

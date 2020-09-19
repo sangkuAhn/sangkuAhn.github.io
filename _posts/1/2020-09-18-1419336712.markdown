@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "스틸레토 가벼운 장식 플랫슈즈" 
+description: 스틸레토 가벼운 장식 플랫슈 ..
+date: 2020-09-19 06:44:25 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/31/17/8/779e70f1-3979-4146-8f26-65c78310e794.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1419336712&itemId=2457055436&vendorItemId=70450589902&traceid=V0-113-64e0e0a250dd1fc0 
+categories: [1007] 
+color: 03A9F4 
+price: 15900 
+author: Ask View Shop 
+cont:  "대신 싸고 빠른배송 신으면 편하구요<br/>장식이 가운데만 붙어서 언제 떨어질지 모르는 위험을 감수하고 신어야합니다 ㅋㅋㅋ<br/>지금은 그냥구겨신고있네요<br/>한치수큰거  구매하세요 앞코가 뾰족해서 발가락이  쏠리는경향이있어서  무지하게아픕니다<br/>" 
+---

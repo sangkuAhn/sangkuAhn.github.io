@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "디랩 심플 카드 지갑" 
+description: 디랩 심플 카드 지갑 ..
+date: 2020-09-19 06:08:24 
+img: https://static.coupangcdn.com/image/retail/images/2020/06/24/15/2/84533600-1f54-475c-bf06-c2a1494d975d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1749097175&itemId=2978734125&vendorItemId=70952439775&traceid=V0-113-d4fbade772726d8d 
+categories: [1002] 
+color: F15F5F 
+price: 11030 
+author: Ask View Shop 
+cont:  "내눈이 이상한건가?<br/>받은지 하루 정도 됐는데<br/>실제로보니까 더이쁩니다<br/>어디에도 어울릴거같은 색이에요 만족합니다<br/>잠시만요!?!?!?<br/>장지갑이 너무 커서 작은 지갑 찾던 중 구매하게 됐어요.<br/> 처음엔 어두운 계열로 사려다가 안그래도 작은데 어둡기까지하면 찾기 힘들것 같아 오렌지로 구매! 방에서도, 가방안에서도 눈에 확 띄어서 만족.<br/> 확실히 카드 4개 다 넣으니 빡빡하네용 쓰다보면 괜찮아지겠죠 ㅋㅋ 사진이 너무 쨍하게 나왔네요.<br/> 실제론 덜 해요<br/>지금 보니깐 아무리봐도.<br/> 그린색이 아닌데여?<br/>" 
+---
