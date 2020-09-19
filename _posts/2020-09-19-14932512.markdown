@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "테팔 미니 커피메이커, CM1108" 
+description: 테팔 미니 커피메이커, CM ..
+date: 2020-09-19 15:20:29 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/01/29/3005159898/87fccce8-605f-4ad1-aaee-a1dd3f0e7081.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=14932512&itemId=61489993&vendorItemId=3005159898&traceid=V0-113-0009082be46b6232 
+categories: [1013] 
+color: CF36BB 
+price: 29100 
+author: Ask View Shop 
+---
+ 

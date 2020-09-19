@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "곰곰 친환경 양파, 1.5kg, 1개" 
+description: 곰곰 친환경 양파, 1.5k ..
+date: 2020-09-19 15:13:17 
+img: https://static.coupangcdn.com/image/retail/images/64775972899702-c7fcc5b6-54cc-4fad-9f39-5df7253e150e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1888996891&itemId=3209748317&vendorItemId=71197086836&traceid=V0-113-7ec896d47899a318 
+categories: [1012] 
+color: BF360C 
+price: 3930 
+author: Ask View Shop 
+---
+ 

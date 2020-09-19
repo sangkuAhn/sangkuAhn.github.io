@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "서울우유 저지방우유, 2300ml, 1개" 
+description: 서울우유 저지방우유, 230 ..
+date: 2020-09-19 15:13:17 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/10/31/3930089870/6873370f-8dbb-4bff-a402-bf5bf89c40d5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=130180835&itemId=383114177&vendorItemId=3930089870&traceid=V0-113-2fb63a0695dfb5eb 
+categories: [1012] 
+color: 9E9D24 
+price: 6030 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "미니쿠치 샌드위치 메이커, MC-103SW(베이지)" 
+description: 미니쿠치 샌드위치 메이커,  ..
+date: 2020-09-19 15:20:29 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/07/17/3776487827/e4f0ff93-96fe-4cad-b9d0-d4e549b781d9.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1135909463&itemId=2105410863&vendorItemId=3776487827&traceid=V0-113-a70487c03bc48c24 
+categories: [1013] 
+color: 4374D9 
+price: 39800 
+author: Ask View Shop 
+---
+ 
