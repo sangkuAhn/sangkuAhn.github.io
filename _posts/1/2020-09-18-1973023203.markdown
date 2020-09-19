@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "클리오 프리즘에어 아이팔레트, 3 골드브로치, 1개" 
+description: 클리오 프리즘에어 아이팔레트 ..
+date: 2020-09-19 06:58:49 
+img: https://static.coupangcdn.com/image/retail/images/2020/08/18/10/8/f3f47fb1-fb64-44b7-972d-18b78f891ab7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1973023203&itemId=3355957787&vendorItemId=71342716398&traceid=V0-113-5245c0c4a893b376 
+categories: [1010] 
+color: A566FF 
+price: 26600 
+author: Ask View Shop 
+cont:  "3개 다 삿움<br/>별점 빵점이 안되서 한개 억지로 매김<br/>이런 제품을 뽁뽁이도 없이 비닐봉지에 달랑 넣어서 보내 다니요;;;<br/>택배가 제품 이미지를 실추시키네요^^<br/>" 
+---

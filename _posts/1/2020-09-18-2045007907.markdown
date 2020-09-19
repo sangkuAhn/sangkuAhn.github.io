@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "르엠마 도트 땡땡이 랩 브이넥 가을 롱 원피스" 
+description: 르엠마 도트 땡땡이 랩 브이 ..
+date: 2020-09-19 06:01:12 
+img: https://static.coupangcdn.com/image/vendor_inventory/83a6/eaebc7fdab880346f601f948336bc1345831785474c7069d96e0ab7d96ec.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2045007907&itemId=3476726507&vendorItemId=71463043167&traceid=V0-113-e14e6c770f7d88e6 
+categories: [1001] 
+color: 43A047 
+price: 19800 
+author: Ask View Shop 
+cont:  "가격이 저렴해서 두 색상 다 구매했네요 개인적으로 레드가 더 이쁘긴한데 블랙이 코트랑 입을때 더 자주 입을꺼 같아요<br/>" 
+---

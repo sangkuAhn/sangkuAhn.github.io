@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "슬리컬리 24시간 클렌즈주스, 500g, 3개" 
+description: 슬리컬리 24시간 클렌즈주스 ..
+date: 2020-09-19 08:25:14 
+img: https://static.coupangcdn.com/image/retail/images/410730370346379-05d29652-db80-4dbf-b481-3aa37fc77e32.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1795780615&itemId=3055080519&vendorItemId=71043080577&traceid=V0-113-d6e6a5298341c4b8 
+categories: [1024] 
+color: FF1744 
+price: 17850 
+author: Ask View Shop 
+cont:  "1/3으로 희석해서 복용했어요 운동 전후로 마시기에도 부담없고 음료수 좋아하는 아들이 이걸 잘 마셔요<br/>맛있던데.<br/>.<br/> 이거 먹겠다고 탄산수까지 시켰는데 실천이 안됐을뿐!<br/>아직은 시음 전 입니다<br/>이거 먹는 목적이 다이어트 맞죠? ㄱ<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "캉골 캐쥬얼 가방 캔버스 토트백 크로스백 0022" 
+description: 캉골 캐쥬얼 가방 캔버스 토 ..
+date: 2020-09-19 06:51:38 
+img: https://static.coupangcdn.com/image/vendor_inventory/602b/ffe512f9a22521836d8c96109dd0ea0bec2323f72597c67f4b922f13a3e5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1591063164&itemId=2719117616&vendorItemId=71581931993&traceid=V0-113-cd0237a940ebfc05 
+categories: [1008] 
+color: 4CAF50 
+price: 22100 
+author: Ask View Shop 
+cont:  "대딩 딸이 좋아하네요<br/>정가대비 싼 가격에 잘 샀어요 ㅎㅎㅎ 그냥 컨버스 백 보단 크로스백 느낌에 사이즈도 낭낭하구 너무 맘에듭니당  이쁘게 잘 쓸게여<br/>제가 캥거루가 된것같이 조와요<br/>" 
+---

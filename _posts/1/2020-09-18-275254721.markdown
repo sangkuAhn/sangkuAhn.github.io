@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아이엠몽 레이스 자수 블라우스" 
+description: 아이엠몽 레이스 자수 블라우 ..
+date: 2020-09-19 06:01:12 
+img: https://static.coupangcdn.com/image/vendor_inventory/3ed2/ee19a8c7927ad054fbbfba7db6ddcd0d28984c53a12caff5a5d15577a7f3.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=275254721&itemId=870096952&vendorItemId=5200280470&traceid=V0-113-86fc7eababdff2c7 
+categories: [1001] 
+color: FF1744 
+price: 26900 
+author: Ask View Shop 
+cont:  "가을에  입으면 좋겠네요<br/>날씨 선선해지면 잘 입을거 같아요<br/>다만 구김이 있어서 드라이 해야 할듯해요<br/>수놓은것이쁘고요<br/>옷은 완전 맘에 드네요 옷감도 좋고 사진이랑 동일해요<br/>자수 색상이 선명치 않아서 살짝 아쉽지만 전체적인 모양이 귀여워요.<br/> 소재는 린넨 특성상 어쩔 수 없이 구김은 많이 가요.<br/><br/>자수도 고급지고 예뻐요<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "로리앤콜린 아동용 베이직 포켓티" 
+description: 로리앤콜린 아동용 베이직 포 ..
+date: 2020-09-19 06:30:01 
+img: https://static.coupangcdn.com/image/retail/images/27121610243898-67602df1-a8d3-45a7-981e-e126ed4496f5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=200727253&itemId=583842397&vendorItemId=5251905562&traceid=V0-113-0f451c865b39ace8 
+categories: [1005] 
+color: A57F92 
+price: 6900 
+author: Ask View Shop 
+cont:  "25갤 여아 91cm 12kg 아기 딱 좋아요<br/>5살 아이 건조기 돌릴꺼라 XL주문했는데<br/>가격대비 만족해요 )<br/>넉넉하게 잘 맞을꺼 같아요<br/>놀이학교 행사에 입히려고 샀는데 코로나바이러스 이슈로 취소됐음에도 봄에 이너로 입히기 괜찮을거같아 반품 안하고 입히기로 했어요^^<br/>맘에 들어요<br/>면 톡톡하니 괜찮구요^^<br/>소재좋고 루즈핏으로 크기 좋고<br/>재질도 톡톡해서 색상 많으면 더 구매하고싶네요<br/>키 93cm, 몸무게 15kg아가에게 핏 적당히 낙낙하고 딱 좋아요 )<br/>" 
+---

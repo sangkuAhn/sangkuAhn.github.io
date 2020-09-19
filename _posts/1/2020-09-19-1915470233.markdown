@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "해피바스 라벤더 바디 선물세트 + 쇼핑백, 1세트" 
+description: 해피바스 라벤더 바디 선물세 ..
+date: 2020-09-19 14:58:54 
+img: https://static.coupangcdn.com/image/retail/images/2020/08/03/13/3/17064972-2bf8-47f5-a385-b088c96771e0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1915470233&itemId=3252110874&vendorItemId=71239189777&traceid=V0-113-548afdf61e87f0a8 
+categories: [1010] 
+color: A566FF 
+price: 12750 
+author: Ask View Shop 
+cont:  "가성비 갑입니다<br/>넘 넘 좋아요<br/>동생들에 하나씩 좋으네요<br/>선물용 굿굿<br/>저렴 한가격에 예쁘기도 하고 묵직 한것이 좋아요<br/>추석 선물로 부담없이<br/>" 
+---

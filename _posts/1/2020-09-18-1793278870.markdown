@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "벤쿠쿠 PB002 핸드폰가방" 
+description: 벤쿠쿠 PB002 핸드폰가방 ..
+date: 2020-09-19 06:51:38 
+img: https://static.coupangcdn.com/image/vendor_inventory/a760/a1835a5375818a655040981b5e9dd815c9f990d17ff400ea57c397eb4b22.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1793278870&itemId=3065127632&vendorItemId=71146572883&traceid=V0-113-82aecc61bd2756e5 
+categories: [1008] 
+color: 1294AB 
+price: 4300 
+author: Ask View Shop 
+cont:  "끈도 뜬뜬하구  이쁘고 종네요<br/>딱 좋습니다 ☆☆☆☆☆<br/>좋아요<br/>핸드폰과 간단한 소지품을 보관하기에<br/>" 
+---

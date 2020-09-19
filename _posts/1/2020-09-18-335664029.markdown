@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아르코 슬립온 PM4547" 
+description: 아르코 슬립온 PM4547 ..
+date: 2020-09-19 06:44:25 
+img: https://static.coupangcdn.com/image/retail/images/2019/11/12/11/1/c2d5b0e4-fbb6-4f4d-bb6c-4f856c15a455.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=335664029&itemId=1070985217&vendorItemId=5560749719&traceid=V0-113-9f9e31b1d77cd3cb 
+categories: [1007] 
+color: 353535 
+price: 12800 
+author: Ask View Shop 
+cont:  ".<br/><br/>가격이 저렴해서 싼맛에 주문했는데 그 이상이네요<br/>나쁘진 않는데 고급스럽진 않아요<br/>다만 밑창이 얇아서 깔창을 다른거로 바꿨네요<br/>다만 아직 새신이라그런지 뒷꿈치가 살짝 아파요.<br/>뒷부분이 부드럽지않아서 살착 까졌더라구요.<br/><br/>딱 가격정도예요.<br/><br/>배송빨라서좋고<br/>신발푹신힌편은 아니지만 대부분만족입니다<br/>" 
+---

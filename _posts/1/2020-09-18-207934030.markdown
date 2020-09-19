@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "스노우라인 10종 양념통, 골드브라운, 1세트" 
+description: 스노우라인 10종 양념통,  ..
+date: 2020-09-19 07:49:13 
+img: https://static.coupangcdn.com/image/retail/images/2019/04/09/14/2/d8cc8619-2f18-41ce-a42e-52bcb8ce6f16.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=207934030&itemId=616276784&vendorItemId=4616814078&traceid=V0-113-e45809f3b2ecb70c 
+categories: [1017] 
+color: 43A047 
+price: 29450 
+author: Ask View Shop 
+cont:  "가격값하네요<br/>내구성좋고<br/>여행용으로 쓰기에 딱이에요!!<br/>여행용이나 캠핑용으로 사용 무난합니다.<br/><br/>일단 디자인이 촌스럽지않아좋고<br/>자주 애용할듯 해요 ㅎㅎ<br/>하지만 작은통들은 기름류를 담았을때 세척이 어렵다는 단점이 있습니다<br/>" 
+---

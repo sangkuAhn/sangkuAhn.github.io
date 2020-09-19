@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "난닝구 여성용 리오트 티" 
+description: 난닝구 여성용 리오트 티 ..
+date: 2020-09-19 14:01:13 
+img: https://static.coupangcdn.com/image/retail/images/257028889863830-a679fda9-5f36-483b-84ef-aa5815bf4200.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=335692454&itemId=1071111365&vendorItemId=5560965897&traceid=V0-113-bcf5431f2e2b63bd 
+categories: [1001] 
+color: A566FF 
+price: 14900 
+author: Ask View Shop 
+cont:  "그것 말고는 좋아요<br/>그샤르르 떨어지는 핏이 예뻐요 만족해요<br/>다른색상도 구매하고 싶습니다.<br/> ^^<br/>다만 끝단이 박음질 처리가 되어있는게 아니라<br/>생각보다 두껍고 괜찮음<br/>순간 제가 옷을 안입은 줄 알았어요.<br/><br/>올이 좀 빠져있네요.<br/><br/>잘 늘어나고 편해요!<br/>잘 입고 다닐 것 같아요.<br/><br/>첨에 왔을깨 냄새가 너무 심해서 걱정했는데 세탁하니 없어지네요<br/>평소에 니트류 입다가 이 옷을 입으니 가볍고<br/>" 
+---
