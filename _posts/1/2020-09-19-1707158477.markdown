@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "뉴발란스 MS574 (MS574KTB)" 
+description: 뉴발란스 MS574 (MS5 ..
+date: 2020-09-20 06:44:26 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2019/01/21/16/3/4c009a31-805b-4273-b927-256f4796a43c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1707158477&itemId=2905407911&vendorItemId=70983510209&traceid=V0-113-550a118bdd017bf3 
+categories: [1007] 
+color: f44336 
+price: 46350 
+author: Ask View Shop 
+cont:  "굳<br/>저번 신발이 잘 미끄러져서 새로 샀는데 안 미끌리고 좋네요^^ 잘 신을게요<br/>추천입니다<br/>쿠션감도 좋고, 디자인도 맘에 들고 가성비 갑입니다.<br/><br/>" 
+---

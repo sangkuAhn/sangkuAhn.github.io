@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "더에르고 컬러헤어핀 10종 세트" 
+description: 더에르고 컬러헤어핀 10종  ..
+date: 2020-09-20 06:15:37 
+img: https://static.coupangcdn.com/image/vendor_inventory/4d7e/aeee1c3c4cee3141b718b0ea69647044a9ffb7fc9db7e6365483fc26e65d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2133582394&itemId=3622327416&vendorItemId=70954496423&traceid=V0-113-1b5e7f7f6a672b1d 
+categories: [1003] 
+color: A566FF 
+price: 2800 
+author: Ask View Shop 
+cont:  "컬러감이 화면 그대로에요.<br/><br/>" 
+---

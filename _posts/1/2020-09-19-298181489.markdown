@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "베베나인 뉴욕후드슈트" 
+description: 베베나인 뉴욕후드슈트 ..
+date: 2020-09-20 06:15:37 
+img: https://static.coupangcdn.com/image/retail/images/2019/09/09/11/7/9a46164f-ff8f-4830-8359-38e812e89ca6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=298181489&itemId=939010643&vendorItemId=5323989370&traceid=V0-113-9f8aab3b97ecb435 
+categories: [1003] 
+color: 03A9F4 
+price: 14900 
+author: Ask View Shop 
+cont:  "6갤 8키로 아기인데 싸이즈는 넉넉하구여<br/>겉모습은 사진이랑 똑같고 안감이부드럽고  따뜻한 재질이 아니라 안에 내의는 입히고 입혀야해요<br/>근데 아기들옷은 보세여도 너무 비싸네요 .<br/>.<br/><br/>너무 귀엽네요<br/>두툼하고 안에는 조금 꺼끌해서 안에 티입고 입혀야 될꺼같아요<br/>많이 안커요<br/>사진그대로고 너무예뻐요<br/>안감은 까칠까칠해서 하나만 입기에는 좀 그렇네요.<br/><br/>지금 입히기 딱 좋구 사이즈도 좋아요<br/>크게입히려고 큰거삿는데 생각보다 딱맞는 느낌?<br/>" 
+---
