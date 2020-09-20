@@ -9,5 +9,5 @@ categories: [1004]
 color: 35B62C 
 price: 11610 
 author: Ask View Shop 
+cont:  "예쁘네요 저렴한가격에 잘산거같아요 다는색으로하나더 살려구요<br/>한 치수 큰 거 샀는데 소매 길이만 약간 길지 괜찮아요<br/>" 
 ---
- 
