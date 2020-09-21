@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "슈펜 클래식 스니커즈" 
+description: 슈펜 클래식 스니커즈 ..
+date: 2020-09-21 14:44:12 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/09/10/7/b547cb73-592f-4e77-bc23-b16607efcb0f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1491728879&itemId=2560769705&vendorItemId=70353736508&traceid=V0-113-a9e1cc3a20f2f1ab 
+categories: [1007] 
+color: 35B62C 
+price: 10000 
+author: Ask View Shop 
+cont:  "250 왕발인 여자라 이런신발은 발이 참커보이는데<br/>가성비 .<br/> ★★★.<br/> ★.<br/> ★<br/>발볼도 여유있어서 스니커즈신으면 새끼발가락이 아팠는데<br/>생각보다 발도안커보이고 편해요.<br/><br/>예쁘고 발도편하네요.<br/>  족저근막염이있는데 바닥이푹신해서 편하고<br/>이가격에 디자인도 착용감도 만족이에요<br/>이건편안해요.<br/><br/>이쁨 .<br/> ★★★.<br/> ★.<br/> ★<br/>조금 크게 나온편이에요 한 005사이즈 정도? 내성발톱이신 분들은 비추 합니다 편하긴 편한데 내성발톱 때문에 발가락이 아파서 신고 바로 슬리퍼 신었어요... <br/><br/>편함 .<br/> ★★★☆☆(내성발톱의 아픔... <br/>.<br/>☆☆)<br/>폭신폭신 좋아요<br/>" 
+---
