@@ -9,5 +9,5 @@ categories: [1002]
 color: BD24A9 
 price: 19500 
 author: Ask View Shop 
+cont:  "맘에 들어요<br/>좋아요<br/>" 
 ---
- 

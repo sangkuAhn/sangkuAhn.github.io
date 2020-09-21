@@ -9,5 +9,5 @@ categories: [1005]
 color: 35B62C 
 price: 41740 
 author: Ask View Shop 
+cont:  "굿이예요<br/>발도 편하다구하구용<br/>아이가 예쁘다고 좋아합니다<br/>예뻐요 딸냄이 너무좋아하네요<br/>이뻐요ㅎ<br/>저도 하나 살까 고민중이예용ㅋ<br/>" 
 ---
- 

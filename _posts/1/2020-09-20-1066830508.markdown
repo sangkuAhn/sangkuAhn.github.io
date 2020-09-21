@@ -9,5 +9,5 @@ categories: [1003]
 color: 5A8DF3 
 price: 9900 
 author: Ask View Shop 
+cont:  "사진과 같습니다<br/>" 
 ---
- 

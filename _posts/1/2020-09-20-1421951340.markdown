@@ -9,5 +9,5 @@ categories: [1007]
 color: F361A6 
 price: 14400 
 author: Ask View Shop 
+cont:  "화면그대로 이뻐요 한사이즈크게살껄그랬어요<br/>" 
 ---
- 

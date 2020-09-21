@@ -9,5 +9,5 @@ categories: [1018]
 color: 43A047 
 price: 25900 
 author: Ask View Shop 
+cont:  "QC3.<br/>0, 충전케이블 교체해도 마찬가지.<br/> 전원아답터로 해도 같음.<br/><br/>고속충전 안됨.<br/><br/>어쩌다 한번 됨.<br/><br/>운전중 충전 충전안됨이 반복됨.<br/>위치 여러번 변경 해도 같음.<br/>(스트레스)<br/>좋아요<br/>추천요<br/>" 
 ---
- 

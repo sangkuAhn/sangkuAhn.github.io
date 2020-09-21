@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "릴리푸리 아동용 베이직 맨투맨" 
+description: 릴리푸리 아동용 베이직 맨투 ..
+date: 2020-09-21 06:22:50 
+img: https://static.coupangcdn.com/image/retail/images/2020/08/14/13/1/93833c1c-96f7-4dd2-a8cf-8d09dc10afcb.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1960971403&itemId=3332838957&vendorItemId=71319653627&traceid=V0-113-b56bce059b602417 
+categories: [1004] 
+color: A6A6A6 
+price: 5630 
+author: Ask View Shop 
+cont:  "그냥  코랄 색상이자나요 하... <br/>.<br/><br/>눈에 잘띄고 엄청 예뻐요 부들부들하니 잘입힐것같아요<br/>레드 색상 절대 아니에요... <br/> 레드 색상을 원하시면 구입하지마세요.<br/>.<br/><br/>레드 색상을 원했는데... <br/> 귀찮아서  그냥 입힙니다<br/>색상이 넘 예뻐요 재질도 부들부들하고 가성비 짱!<br/>판매자님 이게 어떻게 레드 색상인가요???<br/>화면에  레드색상 보정을 너무 심하게  하셨어요 <br/>" 
+---

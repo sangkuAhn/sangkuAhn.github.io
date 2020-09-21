@@ -9,5 +9,5 @@ categories: [1020]
 color: 9E9D24 
 price: 34420 
 author: Ask View Shop 
+cont:  "배송빠르고 좋습니다!<br/>배송빨리와서좋네요 2020.<br/>10.<br/>9일에는피바구매예정^^<br/>배송이 빨라서 좋아요<br/>" 
 ---
- 
