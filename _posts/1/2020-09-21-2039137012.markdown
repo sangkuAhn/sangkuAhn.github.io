@@ -9,5 +9,5 @@ categories: [1003]
 color: FF6F00 
 price: 11300 
 author: Ask View Shop 
+cont:  "네살 아이가 좋아합니다.<br/><br/>생각보다 예뻐요.<br/><br/>크게 기대안하고 받아서 그런지 조잡하지않고 은은한 한복에 잘어울리네요.<br/><br/>" 
 ---
- 

@@ -9,5 +9,5 @@ categories: [1003]
 color: A566FF 
 price: 11900 
 author: Ask View Shop 
+cont:  "넘넘좋아요.<br/>기대이상입니당!<br/>" 
 ---
- 

@@ -9,5 +9,5 @@ categories: [1007]
 color: 5A8DF3 
 price: 59400 
 author: Ask View Shop 
+cont:  "예쁘고 편합니다!<br/>편하고이쁨!!<br/>" 
 ---
- 

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코디아이 아동용 양양 배냇바지" 
+description: 코디아이 아동용 양양 배냇바 ..
+date: 2020-09-22 06:15:36 
+img: https://static.coupangcdn.com/image/retail/images/2019/10/22/16/5/f624db98-1520-4efa-827c-c6f45b42e799.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=324144195&itemId=1037876241&vendorItemId=5492942540&traceid=V0-113-af47afae962a36b1 
+categories: [1003] 
+color: A6A6A6 
+price: 7900 
+author: Ask View Shop 
+cont:  "기저귀 갈아주기도 편할꺼같아요 그거 말고는 괜찮아요 양말도 안신겨도 되니깐 다리부분이 너무 짧아서 금방 못입을꺼같아요ㅠ<br/>바지처럼 입힐수있어 좋아요.<br/><br/>봄 가을 겨울 착용가능하다햤는데<br/>얇아서 초가을정도만 입을수있을꺼같아요<br/>이제 백일된 아이라 레깅스나 스타킹은 좀 입히기 힘든데 이건 면바지 같은 제질에 조임도 심하지 않아 너무 맘에들어요.<br/><br/>일단 면이나 바지통 부분은 마음에 들어요 근데 기저귀 부분이 너무 길어요 다리 길이에 비해서 좀 더 윗부분이 짧으면<br/>하지만 입혔는데 너무 귀엽네요 겨울빼고는 잘 입힐거같아요<br/>한겨울은 추워요 ... <br/>.<br/> 넘 얇아요<br/>" 
+---
