@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "꼰띠키즈 아동용 프리즌 상하 바지세트" 
+description: 꼰띠키즈 아동용 프리즌 상하 ..
+date: 2020-09-22 14:30:04 
+img: https://static.coupangcdn.com/image/retail/images/2020/08/20/15/3/95db8c20-4e69-4f8c-93a3-5f6e748807d6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1981936338&itemId=3371892463&vendorItemId=71358601771&traceid=V0-113-bdcfaed6e9132099 
+categories: [1005] 
+color: CF36BB 
+price: 14900 
+author: Ask View Shop 
+cont:  "가격대비 좋아요 세탁해도 물빠짐없고<br/>마른 6살 품이 많이크네요<br/>" 
+---
