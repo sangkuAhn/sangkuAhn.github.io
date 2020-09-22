@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "릴 미니 (lil mini) Gift Box" 
+description: 릴 미니 (lil mini) ..
+date: 2020-09-23 06:08:25 
+img: https://static.coupangcdn.com/image/vendor_inventory/50a3/73e707da965630ef103abf4ac6f266dc05e9b12ca6c949c400a4ec42b333.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1662296312&itemId=2832215596&vendorItemId=5366170065&traceid=V0-113-eea247fad9e8898e 
+categories: [1002] 
+color: 4374D9 
+price: 46000 
+author: Ask View Shop 
+---
+ 
