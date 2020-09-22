@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "리셋 짧은 트임 후드 티셔츠" 
+description: 리셋 짧은 트임 후드 티셔츠 ..
+date: 2020-09-22 14:08:28 
+img: https://static.coupangcdn.com/image/retail/images/2019/08/05/14/8/3ac7d18a-a20c-4844-8c6c-9430b3d323a7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=274773094&itemId=868080277&vendorItemId=5196790382&traceid=V0-113-51a2049d60d13d06 
+categories: [1002] 
+color: 1294AB 
+price: 20900 
+author: Ask View Shop 
+---
+ 
