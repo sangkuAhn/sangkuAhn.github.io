@@ -9,5 +9,5 @@ categories: [1001]
 color: FF6F00 
 price: 13800 
 author: Ask View Shop 
+cont:  "상표가 카라가아니고 다른걸로 적혀있죠??<br/>상품은좋아요 통풍도잘되고 천도좋고 그런데 왜 목에<br/>" 
 ---
- 

@@ -9,5 +9,5 @@ categories: [1005]
 color: 03A9F4 
 price: 9900 
 author: Ask View Shop 
+cont:  "이제 공룡은 안좋아해서 공룡그림 없는 구성으로 나왔으면 좋겠어요 재질, 색상은 마음에 들어요<br/>조금큰 7세아들에게 넉넉하게 맞아요<br/>" 
 ---
- 
