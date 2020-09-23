@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "트렌드 코리아 2021 : 서울대 소비트렌드 분석센터의 2021 전망, 미래의창" 
+description: 트렌드 코리아 2021 :  ..
+date: 2020-09-24 08:05:34 
+img: https://static.coupangcdn.com/image/retail/images/2020/09/21/11/7/08305b58-41ec-45f3-a52e-8bd4b65a85da.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2138659091&itemId=3632041067&vendorItemId=71620325364&traceid=V0-113-8eae3a4aa6d0dd15 
+categories: [1019] 
+color: FF6F00 
+price: 16200 
+author: Ask View Shop 
+---
+ 
