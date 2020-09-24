@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "슈펜 여성용 슈탠다드 01 블로퍼" 
+description: 슈펜 여성용 슈탠다드 01  ..
+date: 2020-09-24 14:44:34 
+img: https://static.coupangcdn.com/image/retail/images/2020/07/06/12/7/e694a974-2618-43fc-89ab-f35c96a33492.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1790570730&itemId=3047237523&vendorItemId=71035269784&traceid=V0-113-71ce2f7ffd7819e6 
+categories: [1007] 
+color: f44336 
+price: 23420 
+author: Ask View Shop 
+cont:  "생각보다 바닥에 쿠션이 있어서 덜 딱딱해요<br/>" 
+---
