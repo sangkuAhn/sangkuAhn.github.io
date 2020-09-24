@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "그랜피니 공용 스파이더 맨투맨 티셔츠 GFMT101" 
+description: 그랜피니 공용 스파이더 맨투 ..
+date: 2020-09-24 06:01:19 
+img: https://static.coupangcdn.com/image/retail/images/265952555319603-c87fe8dc-7b63-4990-9615-c55e2e1ceeee.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2034194089&itemId=3459084086&vendorItemId=5298050631&traceid=V0-113-72a81ad32fee641d 
+categories: [1001] 
+color: CF36BB 
+price: 27900 
+author: Ask View Shop 
+cont:  "이제 날씨도 추워지고 해서 편하게 입으려고 구매했는데 옷을 보니까 너무 괜찮네요! 흰색이랑 검은색 중에 고민하다가 검은색으로 샀는데 흰색도 예쁠것 같네요! 배송도 너무너무 빠르고 만족합니다<br/>추석때 조카들 주려고 샀는데 옷이 정말 만족스럽네요 고급스러운거 같고 다음에도 추가 구매 의향 있습니다!! 새로운 제품이 더 많이 나왔으면 좋겠습니다!<br/>한 치수 작은 사이즈를 주문해야겠어요 옷있크게 나온 거 같아요 전체적으로 무난한 느낌<br/>" 
+---

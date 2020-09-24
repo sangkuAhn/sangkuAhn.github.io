@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "NY자수 오버핏 후드티 (MDHD686BK)" 
+description: NY자수 오버핏 후드티 (M ..
+date: 2020-09-24 06:08:31 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2019/03/20/14/5/afb85d35-5186-43f2-929b-68b609dcc09e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=199882235&itemId=579936086&vendorItemId=4519068191&traceid=V0-113-e987a93ce9d0094b 
+categories: [1002] 
+color: 1294AB 
+price: 24800 
+author: Ask View Shop 
+cont:  "생각했던 프리사이즈보다 조금도 큰거 같아요<br/>싼마이<br/>핏이 별로<br/>" 
+---
