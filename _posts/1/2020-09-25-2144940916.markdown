@@ -9,5 +9,5 @@ categories: [1016]
 color: 9E9D24 
 price: 799000 
 author: Ask View Shop 
+cont:  "너무 감동입니다.<br/> 꼭 갖고 싶었던 아들에게 선물해 주니 부자지간의 관계 개선 굿입니다.<br/><br/>" 
 ---
- 
