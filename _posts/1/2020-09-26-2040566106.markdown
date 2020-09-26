@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "마음든든 사과배 혼합세트, 5.5kg, 1박스" 
+description: 마음든든 사과배 혼합세트,  ..
+date: 2020-09-26 15:13:11 
+img: https://static.coupangcdn.com/image/retail/images/2020/09/01/14/7/52b48fc0-ada3-4c5e-afae-3f5c9302a0d8.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2040566106&itemId=3469095479&vendorItemId=71455439520&traceid=V0-113-aa702076f08834ca 
+categories: [1012] 
+color: f44336 
+price: 41300 
+author: Ask View Shop 
+cont:  "가격대비 만족.<br/> 코로나시대 마트가기보다 훨죠아용.<br/><br/>가격대비 만족합니다<br/>내부에 포장된 얇은 스티로폼?이 찢어져 있고 생각보다 고급스럽지 않아요 그리고 신선해 보이지 않고 흠도 좀 있고 선물하려면 아무래도 과일이 색도 선명하면서 싱싱하고 크고 맛있게 보여야 할 것 같은데... <br/> 크기도 사과는 제사지내는 분들 상에 올리기엔 좀더 크고 좋아야 할 것 같아요 배도 음... <br/>그냥 집에서 가족과 먹기 좋은 정도입니다 사진과는 다른 점은 알고 구매하셔야 할 것 같네요 선물하는 경우엔 직접 마트나 백화점 가서 보고 선택하는게 정답입니다<br/>사과보다 배 >크고 탐스러움.<br/> 사과흠집 있음.<br/><br/>" 
+---

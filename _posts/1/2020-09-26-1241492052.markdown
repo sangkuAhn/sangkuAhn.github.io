@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "데일리앤 워밍 가을 브이넥 이너 긴팔 티셔츠" 
+description: 데일리앤 워밍 가을 브이넥  ..
+date: 2020-09-26 14:01:12 
+img: https://static.coupangcdn.com/image/vendor_inventory/751d/2f3467aa2df206599d91fd433cd7a8e4a0c9b6de9969a210d69db9765c73.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1241492052&itemId=2237204240&vendorItemId=5497372264&traceid=V0-113-7885e4d004185384 
+categories: [1001] 
+color: 43A047 
+price: 7200 
+author: Ask View Shop 
+cont:  "55분은 많이 여유있을테고, 66도 적당합니다.<br/><br/>모카랑 딥그린 색깔도 예뻐요<br/>부들부들해요 좀 냄새나는거 말곤<br/>싸이즈 적당히 잘 맞고  소재가 부드러워서 착용감 좋아요<br/>올가을부터 내년봄꺼까지 다른색 전부 주문하려구요<br/>이가격에 괜찮아요<br/>차콜이랑 같이 샀고요, 기본티로 맘에 듭니다.<br/><br/>키164에 61이예요<br/>" 
+---

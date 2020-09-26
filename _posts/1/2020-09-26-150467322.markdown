@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "오니츠카타이거/ 멕시코66 DL408-1659" 
+description: 오니츠카타이거/ 멕시코66  ..
+date: 2020-09-26 14:44:22 
+img: https://static.coupangcdn.com/image/operator/434587278/2609b7ff-9618-b1ad-95d4-4d0e2c24b343.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=150467322&itemId=434587278&vendorItemId=71465133559&traceid=V0-113-2d1c3c5e2590590a 
+categories: [1007] 
+color: A57F92 
+price: 65710 
+author: Ask View Shop 
+cont:  "굿<br/>배송도 빠르고 저렴하고 괜찮네요 잘신겠습니다,<br/>아들이 좋와하고  가볍고 편하다고 함<br/>" 
+---
