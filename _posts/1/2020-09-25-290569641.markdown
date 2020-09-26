@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "비단길 레이스 호박 한복머리띠" 
+description: 비단길 레이스 호박 한복머리 ..
+date: 2020-09-26 06:15:39 
+img: https://static.coupangcdn.com/image/retail/images/2019/08/26/14/9/832578b9-8f26-4240-89ba-1e98b8c7e446.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=290569641&itemId=919539929&vendorItemId=5290455996&traceid=V0-113-4e34950f1f6b9b8b 
+categories: [1003] 
+color: D9418C 
+price: 17000 
+author: Ask View Shop 
+cont:  "고급스럽고 예쁩니다.<br/> 어디서 샀냐고 많이 물어보네요<br/>너무 예뻐요한창 공주병있는 다섯살 큰애가<br/>둘째 돌잔치땜에 큰애꺼로 주문했어요<br/>받자마다 너무 예쁘다고.<br/>.<br/>엄마 고맙습니다를 ㅋㅋㅋ<br/>이쁘긴 한데 앞으로 자꾸 내려오네요ㅠ<br/>" 
+---

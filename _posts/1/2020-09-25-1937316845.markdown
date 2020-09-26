@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "살루테 드림레터 점프슈트" 
+description: 살루테 드림레터 점프슈트 ..
+date: 2020-09-26 06:15:39 
+img: https://static.coupangcdn.com/image/retail/images/2020/08/09/13/8/1f286ef8-1af8-4c4f-8974-03fc6d966cab.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1937316845&itemId=3288641064&vendorItemId=71275609244&traceid=V0-113-a3d988e32490472f 
+categories: [1003] 
+color: 5A8DF3 
+price: 11900 
+author: Ask View Shop 
+cont:  "가을에입힐려고샀는데 많이두껍지도않고 그렇게 얇지도않아서 좋은거같아여!!<br/>사이즈는 일부로 큰걸로사서 내년(?) 까지입힐수있을꺼같네요 ㅎㅎ<br/>톡톡하고 이뻐요<br/>" 
+---

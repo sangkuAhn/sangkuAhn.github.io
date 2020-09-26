@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "여아용 샤샤후드 원피스" 
+description: 여아용 샤샤후드 원피스 ..
+date: 2020-09-26 06:22:51 
+img: https://static.coupangcdn.com/image/retail/images/2020/07/23/17/2/801d53dc-d6d5-4549-8b20-80331231131b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=187497360&itemId=535889414&vendorItemId=71162377900&traceid=V0-113-f36f16b674f3a9f6 
+categories: [1004] 
+color: FF6F00 
+price: 13900 
+author: Ask View Shop 
+cont:  "11호해도 여유있을것같아요<br/>건조기도 돌렸는데 줄지않았어요 ㅜ<br/>모델 사이즈확인했어야했는데 ㅋ 좀 크네요<br/>몸무게 20키로 키 108센치 인데<br/>사진그대로 옷 예뻐요<br/>소매2번접어입었는데도 예쁘다고입네여<br/>" 
+---
