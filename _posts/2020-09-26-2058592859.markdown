@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "다이나핏 기능성 맨투맨 긴팔 티셔츠" 
+description: 다이나핏 기능성 맨투맨 긴팔 ..
+date: 2020-09-26 14:37:11 
+img: https://static.coupangcdn.com/image/vendor_inventory/e903/e3241313e7be7f1d19c5d55d6fd09e1c9d8a1a981da9294f6a23c88e95fb.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2058592859&itemId=3498786495&vendorItemId=71484981629&traceid=V0-113-c9eb2cacc96a5f31 
+categories: [1006] 
+color: 353535 
+price: 28000 
+author: Ask View Shop 
+---
+ 
