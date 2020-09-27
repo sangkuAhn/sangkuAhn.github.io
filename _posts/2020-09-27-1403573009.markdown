@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "지패스 슈퍼슬림 주파수 RF방식 하이패스 AP500S" 
+description: 지패스 슈퍼슬림 주파수 RF ..
+date: 2020-09-28 07:56:08 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/02/18/3519355166/53e8dc59-d139-4d80-9b53-6e880f4445f8.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1403573009&itemId=2438487433&vendorItemId=3519355166&traceid=V0-113-a3c00c10b4dd16f0 
+categories: [1018] 
+color: CF36BB 
+price: 31740 
+author: Ask View Shop 
+---
+ 

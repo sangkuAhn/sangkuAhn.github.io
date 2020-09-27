@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "닌텐도 스위치 피크민 3 디럭스 한국어, 단일상품" 
+description: 닌텐도 스위치 피크민 3 디 ..
+date: 2020-09-28 07:41:46 
+img: https://static.coupangcdn.com/image/retail/images/2020/09/24/17/7/6e7ba9af-6bdd-4671-9ce3-22b0223308f5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2158901140&itemId=3667307715&vendorItemId=71652718768&traceid=V0-113-6c3aacf41d871f36 
+categories: [1016] 
+color: A566FF 
+price: 64800 
+author: Ask View Shop 
+---
+ 
