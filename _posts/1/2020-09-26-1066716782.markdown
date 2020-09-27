@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아모레퍼시픽 정성가득 선물세트, 1세트" 
+description: 아모레퍼시픽 정성가득 선물세 ..
+date: 2020-09-27 06:58:53 
+img: https://static.coupangcdn.com/image/retail/images/2019/12/06/12/6/4f4dbf57-90f2-410b-ad4d-67bcdfdf1088.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1066716782&itemId=2013644389&vendorItemId=70013438621&traceid=V0-113-729d24fd8fe1dd94 
+categories: [1010] 
+color: BF360C 
+price: 33580 
+author: Ask View Shop 
+cont:  "구성좋아요 린스없어서 좋았음<br/>받은 분이 넘 맘에 드신대요<br/>선물용으로 좋습니다<br/>" 
+---
