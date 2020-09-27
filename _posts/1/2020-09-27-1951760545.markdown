@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "삼성전자 갤럭시 탭S7 11.0 Wi-Fi 256GB, SM-T870N, 미스틱블랙" 
+description: 삼성전자 갤럭시 탭S7 11 ..
+date: 2020-09-27 15:41:58 
+img: https://static.coupangcdn.com/image/retail/images/102703619383901-bd5d59be-efe9-47ab-bc90-40c5dab2ae6c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1951760545&itemId=3315409892&vendorItemId=71302290205&traceid=V0-113-d61408ea55c00b1a 
+categories: [1016] 
+color: CF36BB 
+price: 899790 
+author: Ask View Shop 
+cont:  "11인치 이상은 노트북을 추천!<br/>3일간 고민끝에<br/>다만 사전예약 사은품 키보드 커버가 아직도 안왔다는 ㅠㅠ<br/>매우만족<br/>받고나서 잠깐 써 봤는데, 별다른 트러블 없어보이고, 품질도 만족스럽네요.<br/> 업무도 잠깐 보고, 이런저런 여가 활동에 쓸려고 구매했고, 크기도 저한테는 11인치가 딱 좋은 것 같네요.<br/><br/>처음으로 태블릿 샀는데 화면 크고 좋네요 구성품도 제대로 들어있고요<br/>태블릿 11인치가 넘어가면 휴대용으로는 비추!!<br/>플러스는 들고다니기엔 부담스러워서 s7으로 결정<br/>" 
+---

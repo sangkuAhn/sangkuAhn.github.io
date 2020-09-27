@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "노마드 불멍화로대 N-7531, 1개" 
+description: 노마드 불멍화로대 N-753 ..
+date: 2020-09-27 15:49:10 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/24/11/1/e732c0b6-03bd-4913-86f3-532f2d257766.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1386605374&itemId=2422045165&vendorItemId=70416175940&traceid=V0-113-8030853fd00b4ff4 
+categories: [1017] 
+color: FF1744 
+price: 41590 
+author: Ask View Shop 
+cont:  "가방이 있어 이동 보관 편리.<br/> 크기도 적당해서 좋네요<br/>덕분에 즐거운 불멍 하고 왔어요ㅎㅎ<br/>열변형이 있다는 말이 있어서 접을때 살짝 걱정했는데 다행히 아직까진 괜찮네요^^<br/>좋아요<br/>" 
+---

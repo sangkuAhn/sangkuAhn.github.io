@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "정관장 홍삼대정 데일리스틱 + 쇼핑백, 10g, 30개" 
+description: 정관장 홍삼대정 데일리스틱  ..
+date: 2020-09-27 16:25:10 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/08/07/4721319182/3d13cfec-b2fd-4469-b8ad-ef56760d515e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1391492674&itemId=2426861646&vendorItemId=70420866168&traceid=V0-113-d11b7f44fcfb4675 
+categories: [1024] 
+color: A566FF 
+price: 66000 
+author: Ask View Shop 
+cont:  "남편 것도 다시 주문했네요.<br/><br/>단지 딸이 할아버지 선물로 용돈모아 샀는데<br/>빠르게 시부모님 선물 잘 드렸습니다.<br/><br/>상품은 좋아요<br/>어머니께서 하루에 하나 드실 때마다 몸이 전체적으로 좋아진다고 하시네요.<br/><br/>지금 가격이 더 싸졌지만 ㅜㅜ<br/>진쨍이에요.<br/><br/>테이프가 덕지덕지 너무하네요<br/>" 
+---

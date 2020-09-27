@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "규칙 없음:넷플릭스 지구상 가장 빠르고 유연한 기업의 비밀, 알에이치코리아" 
+description: 규칙 없음:넷플릭스 지구상  ..
+date: 2020-09-27 16:03:35 
+img: https://static.coupangcdn.com/image/vendor_inventory/69dc/e7ff84b09e24fbccfcd533d5f4e4c857f96e01c559bed7760cb3997916a1.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2076872018&itemId=3528767536&vendorItemId=71504913966&traceid=V0-113-c3c2e8401603794f 
+categories: [1019] 
+color: 5A8DF3 
+price: 22500 
+author: Ask View Shop 
+cont:  "너무 글로벌한 딴나라 이야기 이면 어떻게 하나 했는데<br/>신세계 정용진 부회장님 추천 도서라고 해서 읽어보았는데<br/>이 책에 있는 내용 하나 하나는 전 세계 누구에게나 필요한 내용입니다<br/>" 
+---

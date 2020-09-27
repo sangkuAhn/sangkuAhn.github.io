@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "횡성한우 1등급 이상 정육세트2호 (냉동), 1세트" 
+description: 횡성한우 1등급 이상 정육세 ..
+date: 2020-09-27 15:13:12 
+img: https://static.coupangcdn.com/image/retail/images/2020/08/07/14/8/ff9e949b-08c1-44a0-9b90-535f14233a0b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1930938197&itemId=3277909479&vendorItemId=71264900502&traceid=V0-113-771678f89712691e 
+categories: [1012] 
+color: 35B62C 
+price: 106000 
+author: Ask View Shop 
+cont:  "너무 좋으세요^^<br/>어제밤 주문했는데<br/>오늘 도착!<br/>저렴하고<br/>" 
+---
