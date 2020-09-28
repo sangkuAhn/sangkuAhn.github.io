@@ -9,5 +9,5 @@ categories: [1002]
 color: A57F92 
 price: 35900 
 author: Ask View Shop 
+cont:  "화면과똑같아요 중딩올라가는아들넘좋아하네요<br/>" 
 ---
- 

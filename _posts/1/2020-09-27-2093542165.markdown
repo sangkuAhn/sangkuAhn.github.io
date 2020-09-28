@@ -9,5 +9,5 @@ categories: [1002]
 color: BD24A9 
 price: 68000 
 author: Ask View Shop 
+cont:  "기대이상 너무만족스러워요!<br/>맘에 듭니다<br/>사이즈 딱맞고 사진이랑 똑같네요<br/>" 
 ---
- 
