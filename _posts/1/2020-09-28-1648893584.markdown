@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "에버라스트 뮬 스니커즈" 
+description: 에버라스트 뮬 스니커즈 ..
+date: 2020-09-28 14:44:27 
+img: https://static.coupangcdn.com/image/retail/images/2020/06/01/11/4/fa62d789-cdda-412d-9e94-d74c422cd9b9.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1648893584&itemId=2809536022&vendorItemId=70799093616&traceid=V0-113-d06b9551aebbcfb6 
+categories: [1007] 
+color: BF360C 
+price: 12260 
+author: Ask View Shop 
+cont:  "보름 사용후기<br/>와.<br/>.<br/> 정말 불편해요.<br/><br/>잘 벗겨지고 편하진 않고 그냥 무난하게 신을만해요<br/>처음신었을때는 아직 새거라 그렇겠지<br/>평만 보고선 좀 걱정햇는데 이쁘구 편하구 좋은데옹<br/>하루 1분이상 걸어야하시는분들 비추요<br/>했는데 신을때마다 발가락 발바닥 발 뒤꿈치 물집이 안생기는곳이 없네요.<br/><br/>" 
+---

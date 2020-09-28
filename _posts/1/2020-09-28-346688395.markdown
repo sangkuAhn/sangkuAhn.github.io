@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "HD 비닐 쇼핑백 50p, 화이트" 
+description: HD 비닐 쇼핑백 50p,  ..
+date: 2020-09-28 16:18:06 
+img: https://static.coupangcdn.com/image/retail/images/2019/11/28/16/0/87b6246e-0719-44d9-b5be-159a00591262.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=346688395&itemId=1100447153&vendorItemId=5627562413&traceid=V0-113-c3cbba36b1b34b9a 
+categories: [1021] 
+color: 1294AB 
+price: 6500 
+author: Ask View Shop 
+cont:  "건강음료 담아서 주위분들 드리려고 구매했는데... <br/><br/>그냥 쓸만합니다.<br/> 접착부위가 깔끔하지는 않습니다<br/>나름 튼튼해서 책 몇권 정도 넣고 다녀도 불안하지 않네요.<br/><br/>사이즈도 딱이고 튼튼하네요!<br/>오... <br/> 생각보다 튼튼하네요<br/>좋아용!<br/>흰색이라 비칠듯 말듯해서 이뻐요<br/>" 
+---

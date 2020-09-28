@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "미토 퀄팅 패니 웨이스트백" 
+description: 미토 퀄팅 패니 웨이스트백 ..
+date: 2020-09-28 14:51:38 
+img: https://static.coupangcdn.com/image/retail/images/2020/02/28/13/8/ec6707d3-93dc-4e20-9caa-035817bd634f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1343406582&itemId=2370852059&vendorItemId=70366819206&traceid=V0-113-9a010d989775b74e 
+categories: [1008] 
+color: BF360C 
+price: 12040 
+author: Ask View Shop 
+cont:  "검정색도주문했는데 같이안와서빨리받고싶어요<br/>굿 득템 했어요<br/>끈도 두개고... <br/> 갠적으로 짧은끈이 더 예쁘네요<br/>생각보다 괸찮네요^^<br/>수납도넉넉하고 끈도어깨안아프고 좋아요<br/>흰색 구매했다가 좋아서 블랙도 구매했어요  잘 흐고 있읍니다 좋아요  흰색 구매할때 보다 가격이 내렸네요<br/>" 
+---
