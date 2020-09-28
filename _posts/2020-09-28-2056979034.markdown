@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코리아보드게임즈 코코너츠" 
+description: 코리아보드게임즈 코코너츠 ..
+date: 2020-09-28 16:10:54 
+img: https://static.coupangcdn.com/image/retail/images/12419165358487-3faa7889-ae22-4474-9a66-88da87e57236.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2056979034&itemId=3496494256&vendorItemId=3000834753&traceid=V0-113-0acc99f9aa49ec1f 
+categories: [1020] 
+color: f44336 
+price: 19130 
+author: Ask View Shop 
+---
+ 

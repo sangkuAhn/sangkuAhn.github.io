@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "하루만 네가 되고 싶어 1 특별판, 문학동네" 
+description: 하루만 네가 되고 싶어 1  ..
+date: 2020-09-28 16:03:41 
+img: https://static.coupangcdn.com/image/vendor_inventory/45d7/285b4d653a2bc2832d6906a7c1763529617553436bb37c732521ef962394.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2148932074&itemId=3649357220&vendorItemId=71634855478&traceid=V0-113-df93390b3de10487 
+categories: [1019] 
+color: 4CAF50 
+price: 32400 
+author: Ask View Shop 
+---
+ 
