@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "메르시밴드 곱창밴드 3종 세트" 
+description: 메르시밴드 곱창밴드 3종 세 ..
+date: 2020-09-29 14:51:44 
+img: https://static.coupangcdn.com/image/retail/images/2020/07/20/12/7/79c01dfa-504b-4ad6-af97-1c4d52548185.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1884047926&itemId=3201628823&vendorItemId=71189013049&traceid=V0-113-91b9659b9e53dd13 
+categories: [1008] 
+color: FF6F00 
+price: 9900 
+author: Ask View Shop 
+cont:  "약간광택이있는파스텔.<br/>무난한걸찾았는데.<br/>.<br/>  그냥이뻐서샀어요.<br/> 딸랑 같이써요^^ 박음질이엉성한게 하나있지만 배송비없고 빠르면됐죠뭐^^<br/>이뻐요 두번 돌리니까 미끄럽더라구요<br/>이뻐요.<br/><br/>잘쓰고 있어요<br/>" 
+---

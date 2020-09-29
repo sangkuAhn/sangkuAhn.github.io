@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "빅사이즈클럽 남성용 WAW 오버싱글 긴팔 티셔츠" 
+description: 빅사이즈클럽 남성용 WAW  ..
+date: 2020-09-29 14:08:27 
+img: https://static.coupangcdn.com/image/retail/images/88416645177043-98c079e4-37c0-4f7f-a7f2-c4013484778e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1271511279&itemId=2276256505&vendorItemId=70273426126&traceid=V0-113-75978308d598597a 
+categories: [1002] 
+color: 4374D9 
+price: 13800 
+author: Ask View Shop 
+cont:  "기본 쭉티 라서 무난하고 깔끔함 얇은 편이라서 저녁에는 추울 듯<br/>다 좋은데<br/>다 피면 손가락 부분 제외하고 손바닥 부분 다 가립니다<br/>싸서 그냥 샀는데 너무 좋아요ㅠㅠ<br/>진짜 별 기대 안 하고 샀는데 진짜 너무 좋아요<br/>팔 길이가 너무 길어요 ㄷㄷ<br/>" 
+---
