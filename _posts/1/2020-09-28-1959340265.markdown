@@ -9,5 +9,5 @@ categories: [1003]
 color: BF360C 
 price: 59000 
 author: Ask View Shop 
+cont:  "너무 귀엽고 좋아요 두건에 씌여진 한자 뜻풀이도 해주심<br/>" 
 ---
- 

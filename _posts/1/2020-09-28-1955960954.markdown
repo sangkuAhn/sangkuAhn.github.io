@@ -9,5 +9,5 @@ categories: [1001]
 color: 4A148C 
 price: 8400 
 author: Ask View Shop 
+cont:  "사이즈가 크네요.<br/> 팔도 커요.<br/> 천이 얇아서 안에 받쳐 입기 좋을 듯해요.<br/><br/>" 
 ---
- 

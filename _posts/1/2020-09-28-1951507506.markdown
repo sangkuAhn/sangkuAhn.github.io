@@ -9,5 +9,5 @@ categories: [1005]
 color: BD24A9 
 price: 9900 
 author: Ask View Shop 
+cont:  "색상이 은은하고 부드럽고 신축성이 있고 예뻐요.<br/><br/>" 
 ---
- 

@@ -9,5 +9,5 @@ categories: [1002]
 color: 1294AB 
 price: 34000 
 author: Ask View Shop 
+cont:  "막입을라면 사세요.<br/> 좊네용<br/>얇은것이 지금입기 좋구요.<br/><br/>좋아요<br/>큰 사이즈인데 넉넉히 2XL정도 되어보임.<br/><br/>" 
 ---
- 

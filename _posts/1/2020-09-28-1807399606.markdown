@@ -9,5 +9,5 @@ categories: [1019]
 color: 1294AB 
 price: 12420 
 author: Ask View Shop 
+cont:  "가격 12,420원<br/>꼭 보세요 추천!!!!<br/>후 너무 잘 읽히고 동심으로 돌아간 것 같네요!<br/>" 
 ---
- 

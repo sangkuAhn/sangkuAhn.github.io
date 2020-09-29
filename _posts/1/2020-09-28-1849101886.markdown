@@ -9,5 +9,5 @@ categories: [1006]
 color: 4CAF50 
 price: 46840 
 author: Ask View Shop 
+cont:  "다 괜찮은데 등쪽에 신비그림이ㅜㅜ<br/>" 
 ---
- 
