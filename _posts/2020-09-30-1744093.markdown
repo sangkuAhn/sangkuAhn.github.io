@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "KOSMOS 카탄의 개척자 보드게임, 혼합색상" 
+description: KOSMOS 카탄의 개척자  ..
+date: 2020-09-30 16:10:53 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/03/05/3000165074/331a43e4-dba4-4cb5-a1f3-db6da8f46e4e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1744093&itemId=7610998&vendorItemId=3000165074&traceid=V0-113-5bee29c1f098fb6c 
+categories: [1020] 
+color: D9418C 
+price: 28180 
+author: Ask View Shop 
+---
+ 

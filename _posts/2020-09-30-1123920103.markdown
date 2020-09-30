@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "민트코코아 여성용 체크 베이직 잠옷 세트" 
+description: 민트코코아 여성용 체크 베이 ..
+date: 2020-09-30 14:01:13 
+img: https://static.coupangcdn.com/image/retail/images/2019/12/27/16/3/0120fdc0-2f62-4767-bef8-9549582e96f7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1123920103&itemId=2089919423&vendorItemId=70088879077&traceid=V0-113-fbbd22ccdcf29d11 
+categories: [1001] 
+color: A6A6A6 
+price: 13900 
+author: Ask View Shop 
+---
+ 

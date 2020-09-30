@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "100가지 엄마 얼굴, 키즈엠" 
+description: 100가지 엄마 얼굴, 키즈 ..
+date: 2020-09-30 16:03:42 
+img: https://static.coupangcdn.com/image/vendor_inventory/f2f5/9fee4dd708e0b4bbc2522c98cf484d4e49ff4c1fa4fb21375f3ad805d46f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=55120743&itemId=192136887&vendorItemId=3455035178&traceid=V0-113-91b4112b42f3509f 
+categories: [1019] 
+color: 006064 
+price: 9000 
+author: Ask View Shop 
+---
+ 

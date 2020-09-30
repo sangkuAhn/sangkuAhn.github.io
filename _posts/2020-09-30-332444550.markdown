@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "국내산 다진마늘, 500g, 1봉" 
+description: 국내산 다진마늘, 500g, ..
+date: 2020-09-30 15:13:17 
+img: https://static.coupangcdn.com/image/retail/images/2019/11/07/15/4/35811a99-7728-4d42-afb6-71ada0f22a04.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=332444550&itemId=1062125873&vendorItemId=5541454722&traceid=V0-113-85847e328c740f35 
+categories: [1012] 
+color: 006064 
+price: 6800 
+author: Ask View Shop 
+---
+ 

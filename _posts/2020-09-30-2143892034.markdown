@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "메이튼 프리미엄 팔걸이쿠션, 블랙" 
+description: 메이튼 프리미엄 팔걸이쿠션, ..
+date: 2020-09-30 15:56:30 
+img: https://static.coupangcdn.com/image/retail/images/64132234465560-2332d85f-1a66-4b69-bafd-91514d06ebc7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2143892034&itemId=3640388668&vendorItemId=4917695008&traceid=V0-113-0ddce5fd9c13036c 
+categories: [1018] 
+color: 4374D9 
+price: 22000 
+author: Ask View Shop 
+---
+ 

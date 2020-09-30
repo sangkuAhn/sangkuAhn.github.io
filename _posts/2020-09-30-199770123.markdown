@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "반에이크오 여성용 베이직셔츠" 
+description: 반에이크오 여성용 베이직셔츠 ..
+date: 2020-09-30 14:01:13 
+img: https://static.coupangcdn.com/image/retail/images/193859165194629-27a61189-286e-48ce-ba80-0f7e2c1d2645.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=199770123&itemId=579268884&vendorItemId=4517783423&traceid=V0-113-7accf7f9e92ba913 
+categories: [1001] 
+color: 4374D9 
+price: 14800 
+author: Ask View Shop 
+---
+ 

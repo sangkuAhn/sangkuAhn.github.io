@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "엘푸드 영동 반건시 세트 1호 (냉동), 900g, 1세트" 
+description: 엘푸드 영동 반건시 세트 1 ..
+date: 2020-09-30 15:13:17 
+img: https://static.coupangcdn.com/image/retail/images/6081202178200-b4b93dbc-e242-4548-840e-5d864682066f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1924797542&itemId=3267832844&vendorItemId=71254865025&traceid=V0-113-5b3387ef74153f91 
+categories: [1012] 
+color: FF6F00 
+price: 17900 
+author: Ask View Shop 
+---
+ 
