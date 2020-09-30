@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "엔비룩 체크 플리츠 원피스" 
+description: 엔비룩 체크 플리츠 원피스 ..
+date: 2020-10-01 06:01:14 
+img: https://static.coupangcdn.com/image/retail/images/2020/09/07/10/9/9f68f180-5223-4fb8-85ec-8dd8471985a4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2094066945&itemId=3557068501&vendorItemId=71542940238&traceid=V0-113-2b5082f47c0443aa 
+categories: [1001] 
+color: CF36BB 
+price: 31500 
+author: Ask View Shop 
+---
+ 
