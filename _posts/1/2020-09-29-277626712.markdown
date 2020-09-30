@@ -9,5 +9,5 @@ categories: [1018]
 color: 5A8DF3 
 price: 25900 
 author: Ask View Shop 
+cont:  "가죽에 대한 클린은 괜찮은데 가죽 주름지고 하는 부분은 별로임<br/>굿<br/>일단 관리하면서 쓰고있는데 엄청 잘 닦이진않아요<br/>향도 딱히... <br/><br/>효과있네요<br/>" 
 ---
- 
