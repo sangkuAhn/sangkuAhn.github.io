@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "애드에딧 모르딕 백팩" 
+description: 애드에딧 모르딕 백팩 ..
+date: 2020-09-30 14:08:26 
+img: https://static.coupangcdn.com/image/retail/images/75836587336221-9741db18-f23f-4c3d-98f3-9efefafe0ecb.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1061132817&itemId=2005487042&vendorItemId=70005414885&traceid=V0-113-5eee3900833aaecc 
+categories: [1002] 
+color: 7E57C2 
+price: 28900 
+author: Ask View Shop 
+cont:  "걱정 덜겠구요 수납공간이 앞 뒤 내부 할거없이 넉넉하게 구성돼있어서 넘 좋아요<br/>기본 재질이 상당히 가볍고 사이즈도 적당합니다.<br/><br/>뒷면 메쉬부분이 상당히 두툼해서 등이 편합니다.<br/><br/>딸내미의 추천으로 이모델의 가방이 선택 구매하였는데  예쁘고 장년층인 제가 사용하는데 무리가 없어<br/>리뷰들엔 어깨끈 결박이 좀 어렵다고 하셨는데, 신형제품엔 개선이 되었나봅니다.<br/><br/>만족합니다.<br/><br/>배송은 말할것도 없구요ㅎㅎ<br/>별반 어렵지 않게 어깨끈 결박이 가능했습니다.<br/><br/>보입니다.<br/><br/>사진그대로에요 노트북이랑 두꺼운 책들 넣어다니기에 무리없어 보이네요 특히나 날씨 더워지면 땀 많은 신랑이 들고다니기 힘들까 걱정됐는데 요건 통기성도 우수하다니<br/>상체와 어깨가 상당히 넓은 편인데 작아보이지 않고 적당한 크기 입니다.<br/><br/>수납공간 또한 만족스럽네요.<br/> 총 5개의 수납포켓이 존재합니다.<br/><br/>신형로고로 이루어진 신형제품으로 받았습니다.<br/><br/>이정도 가격에 이정도 퀄리티면 좋은 가성비라 할 수 있겠네요.<br/><br/>잘 선택 했네요<br/>" 
+---

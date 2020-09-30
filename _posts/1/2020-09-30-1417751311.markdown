@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아이엠캡 릴리 노와이어 튤립 버킷햇" 
+description: 아이엠캡 릴리 노와이어 튤립 ..
+date: 2020-09-30 14:51:42 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/20/18/0/d84e7a49-f161-4149-a676-1a6e4c5766dc.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1417751311&itemId=2455082602&vendorItemId=70448645516&traceid=V0-113-0d229292ee0a4db6 
+categories: [1008] 
+color: FF1744 
+price: 14900 
+author: Ask View Shop 
+cont:  "기왕이면 햇빛도 효율적으로 가려졌음한데 챙이작아 쬐끔 아쉬워요ㅠ<br/>꽃잎같고 참 이쁘고 좋은데 쬐끔만 더 컸음 더 좋았겠다 싶어요<br/>동생이 주문한거에요.<br/><br/>동생이랑 쿠팡 아이디 같이쓰고 있어요.<br/><br/>등산할때 매번 쓰고 가는거 보니 괜찮아보이네요.<br/><br/>원피스 입고도 편하게 쓸모자 찾다가 샀는데<br/>제가 원하던스타일이네요 아무옷이나 다 잘어울리네요 추천합니다<br/>처음에 모자샀다면서 써서 보여주는데 그지 같아보였는데,,<br/>" 
+---

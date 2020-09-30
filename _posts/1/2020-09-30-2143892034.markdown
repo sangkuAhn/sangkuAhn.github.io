@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "메이튼 프리미엄 팔걸이쿠션, 블랙" 
+description: 메이튼 프리미엄 팔걸이쿠션, ..
+date: 2020-09-30 15:56:30 
+img: https://static.coupangcdn.com/image/retail/images/64132234465560-2332d85f-1a66-4b69-bafd-91514d06ebc7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2143892034&itemId=3640388668&vendorItemId=4917695008&traceid=V0-113-0ddce5fd9c13036c 
+categories: [1018] 
+color: 4374D9 
+price: 22000 
+author: Ask View Shop 
+cont:  "K5 DL3 딱 맞는 사이즈는 아니지만<br/>sm7 뉴아트 콘솔 가죽이 잘 찢어집니다.<br/><br/>나름 괜찮습니다.<br/><br/>높이도 적당하고 아주 좋습니다<br/>뉴아트 콘솔 앞뒤로 꼭 맞습니다.<br/><br/>다른 콘솔 쿠션하고 다르게 얘는 장착 후에도 1, 2단 콘솔 박스를 다 쓸 수 있네요.<br/><br/>배송도 빠르고 포장도 명품백 온줄 착각했습니다.<br/>ㅋㅋ<br/>불편하진 않아요<br/>쏘나타 트랜스폼 입니다.<br/><br/>지저분하게 찢어진 콘솔 보다가 설치하니 속이 후련하네요 잘쓰겠습니다^^<br/>지저분해서 콘솔 쿠션 알아보던 중 로켓배송에 가격 적당한걸 찾다보니 구매하게 되었네요<br/>쿠션감 좋습니다.<br/> 두껍습니다.<br/> 색도 괜찮고 촉감도 좋네요<br/>쿠션만 있어도 잘 안 움직이는데 같이 주신 그거(?)를 쿠션 밑바닥에 붙이니 정말 안움직이네요<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "예닮 여아용 예솔깃 한복 세트" 
+description: 예닮 여아용 예솔깃 한복 세 ..
+date: 2020-09-30 14:15:39 
+img: https://static.coupangcdn.com/image/retail/images/2020/08/07/16/1/ef47f7e6-aa17-468f-ba7d-b4f5f2a65817.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1942243675&itemId=3297333012&vendorItemId=71284268586&traceid=V0-113-0f509d8845edefad 
+categories: [1003] 
+color: 4374D9 
+price: 39000 
+author: Ask View Shop 
+cont:  "5세 102에 15키로 5호 내년까지 입을 정도로 예쁘게맞아요<br/>사이즈 교환할까 하다가<br/>이거 작은사이즈로 다시 구매했어요.<br/><br/>이것도 역시 이쁘네요.<br/><br/>이뻐요.<br/><br/>이쁘길래 나중에 크면 입히려고 나두고<br/>재질이 고급스럽고<br/>전날 여기서 다른 한복 구매했는데<br/>칼라가 넘 이뻐요<br/>큰 사이즈를 구매해서<br/>품질도 가격대비 괜찮고 색도 좋아요<br/>" 
+---

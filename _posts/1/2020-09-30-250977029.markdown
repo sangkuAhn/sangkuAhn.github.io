@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "예닮 예래미 한복머리띠" 
+description: 예닮 예래미 한복머리띠 ..
+date: 2020-09-30 14:15:39 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/09/02/5010517480/7877ceb9-a467-471c-82ca-d486237c3cd0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=250977029&itemId=792218962&vendorItemId=5010517480&traceid=V0-113-290225a06ebdbca9 
+categories: [1003] 
+color: 03A9F4 
+price: 10200 
+author: Ask View Shop 
+cont:  "9900원에 구매했는데 솔직히 5000원도 아까운 수준인데<br/>딸이 맘에 들어합니다<br/>장식이 배송받은 당일 세개나 떨어졌어요.<br/> 교환해봤자 똑같은게 올거고 글루건으로 붙여야겠다 생각했네요.<br/><br/>착용해보니 너무 예쁘네요<br/>한복에 할 악세서리가 없어서 사봤습니다<br/>" 
+---

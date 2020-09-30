@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "생활을그리다 라텍스장갑 M, 100개입, 2개" 
+description: 생활을그리다 라텍스장갑 M, ..
+date: 2020-09-30 15:20:29 
+img: https://static.coupangcdn.com/image/retail/images/2020/08/21/19/9/f11373fc-da9c-421e-a339-6c705d89ba2e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2009979590&itemId=3419556132&vendorItemId=71406123711&traceid=V0-113-9f3fa1f2f3bafb4b 
+categories: [1013] 
+color: CF36BB 
+price: 21050 
+author: Ask View Shop 
+cont:  "감사합니다,  배송해주시느라 고생많으셨습니다 !<br/>괜찮네요^^<br/>아직 전에 쓰던게 있어서, 다 쓰고나서 뜯을려고 일단 보관만 해놓았습니다, 다른건 모르겠고, 진짜 배송 엄청 빨라서 너무 좋습니다.<br/><br/>오늘 저녁에 주문했는데, 밤11시에 왔어요.<br/> 진짜.<br/> 성격급한 한국인에게 딱 맞는 로켓와우 입니다.<br/> 빨리와서 너무 좋아요.<br/><br/>" 
+---

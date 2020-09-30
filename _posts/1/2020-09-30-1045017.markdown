@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "오가닉붐 베이직 우주복" 
+description: 오가닉붐 베이직 우주복 ..
+date: 2020-09-30 14:15:39 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2015/11/10/3005387131/3f028ed6-8836-45f4-9456-a2d80f8caf68.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1045017&itemId=4434452&vendorItemId=3005387131&traceid=V0-113-f957412c2c674660 
+categories: [1003] 
+color: A566FF 
+price: 17140 
+author: Ask View Shop 
+cont:  "75 샀다 너무 맘에 들어서 80도 구매했어요 곰돌이 프린트도 귀여워요 봄에는 좋은데 여름에 입기는 더울거예요<br/>옷은 귀엽고 좋은데 조금 큰사이즈도 있었으면 좋겠어요,7개월 애가 입으니 여유없이 딱 맞네요 조금만 컸으면 좋겠는데 <br/>하얀색이라서 깔끔해 보이고, 아기 입히니까 정말 귀엽네요^^<br/>" 
+---

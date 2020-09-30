@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "채니봉봉 호박 한복 집게핀" 
+description: 채니봉봉 호박 한복 집게핀 ..
+date: 2020-09-30 14:15:39 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/01/09/3254259069/590873d7-6654-4119-b3cf-6b6f66172e0d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=33192812&itemId=124732266&vendorItemId=3254259069&traceid=V0-113-2133a1728a1b99e0 
+categories: [1003] 
+color: BF360C 
+price: 5200 
+author: Ask View Shop 
+cont:  "17개월아기 머리에도 잘어울리네요.<br/><br/>귀엽고 예뻐요.<br/><br/>내년설에 잘쓰겠습니다.<br/><br/>넘귀엽고 30개월 아이가 꽃삔이라며 너무좋아라해용!!<br/>머리띠종류찾다가 맘에드는 건 품절이거나 로켓배송안되서<br/>색이 참 고와요<br/>소재도 한복소재라 고급지네요 ㅋ<br/>아기에게 머리띠보다는 핀이 나을것같아 주문했습니다.<br/><br/>요걸로 주문했어요^^<br/>이쁘네요<br/>집게핀이라 편해요<br/>초등학생 조카에게 선물했는데 작을까 했는데<br/>하루에도 몇번씩 자기가 꽂았다가 뺐다가 ㅋㅋ너무만족합니당<br/>한복이랑 같이 매치하려고 샀어용<br/>" 
+---

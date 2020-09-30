@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "100가지 엄마 얼굴, 키즈엠" 
+description: 100가지 엄마 얼굴, 키즈 ..
+date: 2020-09-30 16:03:42 
+img: https://static.coupangcdn.com/image/vendor_inventory/f2f5/9fee4dd708e0b4bbc2522c98cf484d4e49ff4c1fa4fb21375f3ad805d46f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=55120743&itemId=192136887&vendorItemId=3455035178&traceid=V0-113-91b4112b42f3509f 
+categories: [1019] 
+color: 006064 
+price: 9000 
+author: Ask View Shop 
+cont:  "100가지라고 해 놓았으나 페이지 수는 그리 많지 않습니다.<br/><br/>기분에 따라 표정이 금방 금방 변해버리는 저와 같은 엄마를 둔 아이들은<br/>시시각각 변하는 엄마의 얼굴을 동물의 특성에 빗대어 묘사해 놓았네요 ^^<br/>아이가 매우 즐거워했어요 엄마의 상황별 얼굴을 동물로 표현해서 아이가 매우 좋아했어요<br/>아이가 좋아해요.<br/> 읽으면서 재미있어하고 자꾸 읽어달라고 하네요.<br/> 내용도 만족스럽네요.<br/><br/>크게 공감할 듯 합니다.<br/> ㅎㅎㅎ<br/>항상 양의 얼굴을 하고 싶군요! 30개월 여아도 재미있어 합니다.<br/><br/>항상 평정심을 유지하는 온화한 엄마들은 해당이 안 되겠지만,<br/>" 
+---
