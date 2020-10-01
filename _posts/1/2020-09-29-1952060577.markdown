@@ -9,5 +9,5 @@ categories: [1007]
 color: 4374D9 
 price: 54900 
 author: Ask View Shop 
+cont:  "가격 훌륭, 디자인 예쁨<br/>" 
 ---
- 

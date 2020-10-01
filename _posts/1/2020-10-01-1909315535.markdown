@@ -9,5 +9,5 @@ categories: [1004]
 color: CF36BB 
 price: 19560 
 author: Ask View Shop 
+cont:  "가격비하면너무잘산것같아요<br/>너무예뻐요<br/>바로<br/>생각보다이뻐요<br/>손 세탁했는대물빠짐도없고<br/>아이가 좋아하고 잘 입어요<br/>" 
 ---
- 
