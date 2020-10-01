@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코리아보드게임즈 카멜롯이야기, 혼합 색상" 
+description: 코리아보드게임즈 카멜롯이야기 ..
+date: 2020-10-01 16:10:49 
+img: https://static.coupangcdn.com/image/retail/images/2017/05/22/16/8/c3ede827-caed-4cec-8245-9f0c05c8f1b4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=22443031&itemId=87133975&vendorItemId=3148524558&traceid=V0-113-19f4559773e7f20f 
+categories: [1020] 
+color: 5A8DF3 
+price: 38550 
+author: Ask View Shop 
+---
+ 

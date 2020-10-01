@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "눈이 내리는 여름, 단비" 
+description: 눈이 내리는 여름, 단비 ..
+date: 2020-10-01 15:06:01 
+img: https://static.coupangcdn.com/image/retail/images/2020/09/29/16/5/d5a4af29-e3d2-474f-9103-d9dd465d3b0f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2176191658&itemId=3703115572&vendorItemId=71688390067&traceid=V0-113-61f601296aa68a9f 
+categories: [1011] 
+color: D9418C 
+price: 13500 
+author: Ask View Shop 
+---
+ 
