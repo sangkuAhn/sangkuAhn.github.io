@@ -9,5 +9,5 @@ categories: [1019]
 color: A57F92 
 price: 14400 
 author: Ask View Shop 
+cont:  "아이도 만족해 하네요<br/>아이들 읽으면 좋다고 해서 구매했어요<br/>코로나땜에 외출위기 묘면 책 ㅎㅎ<br/>" 
 ---
- 

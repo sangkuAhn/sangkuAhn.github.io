@@ -9,5 +9,5 @@ categories: [1006]
 color: 4CAF50 
 price: 34650 
 author: Ask View Shop 
+cont:  "32,<br/> -<br/> -<br/> -원 대로 산 듯<br/>귀엽고 따뜻함<br/>또 주문하려니까 이천원 더 올랐네요<br/>" 
 ---
- 

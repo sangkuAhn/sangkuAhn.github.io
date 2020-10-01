@@ -9,5 +9,5 @@ categories: [1012]
 color: F361A6 
 price: 34900 
 author: Ask View Shop 
+cont:  "강추합니다.<br/><br/>달콤하고 맛나요<br/>만족합니다)<br/>맛나다고 하네요.<br/><br/>선물용으로 구입했는데<br/>아직 안봤어요 퇴근후 확인가능<br/>친정어머니께 간식으로 선물을 했는데<br/>" 
 ---
- 

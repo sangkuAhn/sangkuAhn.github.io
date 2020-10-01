@@ -9,5 +9,5 @@ categories: [1005]
 color: D9418C 
 price: 19450 
 author: Ask View Shop 
+cont:  "색상도제가원하는 다크그레이색상!!ㅎㅎ<br/>옷이쁘네요^^<br/>잘입힐께요<br/>키130에 26키로 남아 이쁘게맞습니다<br/>" 
 ---
- 
