@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "리복 로얄 브릿지 2.0 DV5170" 
+description: 리복 로얄 브릿지 2.0 D ..
+date: 2020-10-03 06:44:28 
+img: https://static.coupangcdn.com/image/retail/images/265432149489978-28830f57-9d70-4661-9222-123f926f5134.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=149508950&itemId=432277892&vendorItemId=4412568535&traceid=V0-113-8ed85d0e54c91b99 
+categories: [1007] 
+color: F15F5F 
+price: 22720 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "캐럿 여성 플란넬 셔츠" 
+description: 캐럿 여성 플란넬 셔츠 ..
+date: 2020-10-03 06:01:13 
+img: https://static.coupangcdn.com/image/retail/images/314262815946917-0eebdab1-da0b-4dd2-bf5e-68c2d4d5e452.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2092522662&itemId=3554542273&vendorItemId=71540445531&traceid=V0-113-1282463a77273d22 
+categories: [1001] 
+color: 006064 
+price: 17990 
+author: Ask View Shop 
+---
+ 
