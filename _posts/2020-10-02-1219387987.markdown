@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "이힝 와이드 통 밴딩 바지 팬츠" 
+description: 이힝 와이드 통 밴딩 바지  ..
+date: 2020-10-02 14:01:14 
+img: https://static.coupangcdn.com/image/vendor_inventory/9d96/9bd68d7ee9e09761a82b97cdc54c3946e08eaeef5a4900c75792a025c522.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1219387987&itemId=2209785478&vendorItemId=70002595505&traceid=V0-113-fc9bae217aaa3fa0 
+categories: [1001] 
+color: 03A9F4 
+price: 14800 
+author: Ask View Shop 
+---
+ 
