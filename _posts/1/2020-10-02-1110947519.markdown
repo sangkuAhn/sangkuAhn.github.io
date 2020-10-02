@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "스타벅스 카페 베로나 by 네스프레소 캡슐커피, 5.5g, 10개" 
+description: 스타벅스 카페 베로나 by  ..
+date: 2020-10-02 15:20:27 
+img: https://static.coupangcdn.com/image/retail/images/2019/12/19/15/0/8c9d055e-ae1d-4ae3-b8d3-511049818249.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1110947519&itemId=2074110996&vendorItemId=70073255084&traceid=V0-113-fc5cb3f5d7707b05 
+categories: [1013] 
+color: 4CAF50 
+price: 7700 
+author: Ask View Shop 
+cont:  "네스프레소 머신을 선물 받아 맛도 평도 좋은 캡슐 구입해봅니다<br/>베로나는 좀더 진한데 따뜻하게 먹는게 더 맛있어요<br/>에스프레소 로스트는 스벅 기본 아메리카노맛하고 흡사하고<br/>에스프레소 로스트랑 베로나, 하우스블렌드 3가지 구입했는데<br/>집에서 먹는 스타벅스 커피 너무 좋아요<br/>커피부심 있는 남편이 맛있다고 하네요 네스프레땡 캡슐말고 이것만 시켜먹야겠다 해요 떨어지기전 재주문 해야겠어요<br/>하우스블렌드는 에스프레소 로스트보다 살짝 옅은 맛<br/>" 
+---

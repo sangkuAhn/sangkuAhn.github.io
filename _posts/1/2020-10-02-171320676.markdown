@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "동원 건강한 O-8호 선물세트 + 쇼핑백, 1세트" 
+description: 동원 건강한 O-8호 선물세 ..
+date: 2020-10-02 15:13:16 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/09/03/4239050792/f8dd385d-eaa0-46f4-a6cb-95ec056b1a51.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=171320676&itemId=489856723&vendorItemId=4239050792&traceid=V0-113-cac9f691d6c5d6f7 
+categories: [1012] 
+color: 1294AB 
+price: 45900 
+author: Ask View Shop 
+cont:  "10개나시켰는데.<br/>.<br/>  내 7만원... <br/><br/>다 좋은데 사고나서 다음날 가격이 7천원이나 내려갔어요.<br/>.<br/><br/>요거 선물용으로 너무 좋아요.<br/> 참치도 다양하게 들어있고 햄도 많이 짜지 않고 구성이 맘에 들어요.<br/><br/>코로나로 이번 명절은 각자 지내기로 해서 쿠팡으로 선물했어요.<br/> 구성이 좋아서 너무 좋아하고 참치는 동원이 맛있잖아요.<br/> 햄은 많이 안짜서 구워서 밥이랑 먹기 너무 좋아요.<br/> 선물 상자 디자인이 예뻐요.<br/><br/>" 
+---

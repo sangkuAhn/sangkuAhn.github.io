@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "콜맨 인디 슬리퍼" 
+description: 콜맨 인디 슬리퍼 ..
+date: 2020-10-02 14:44:28 
+img: https://static.coupangcdn.com/image/retail/images/2020/01/15/18/0/b9b44882-b353-4338-9097-d5e5224fdbf5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1186517407&itemId=2167461258&vendorItemId=70165609061&traceid=V0-113-be8928ae3a1300fe 
+categories: [1007] 
+color: 4374D9 
+price: 32300 
+author: Ask View Shop 
+cont:  "만족 합니다 발바닥도 푹신해요!!<br/>어머님 사드렸는데 편안하고,자연스런 디자인, 색상 모두 최고입니다<br/>캠핑 전날... <br/> 갑자기 더워진댓니 급 구입했어요.<br/> 로켓배송이 역시 좋아요 담날받아서 신고 떠났어요.<br/> 코르크 바닥... <br/> 넘 편하네요.<br/> 여름엔 더워서 크록스 신어야겠지만 착화감만으로는 이게 더 좋아요<br/>품질 최고입니다<br/>" 
+---

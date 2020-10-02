@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "폴햄 코튼 테리 솔리드 맨투맨 PHA3TR3010" 
+description: 폴햄 코튼 테리 솔리드 맨투 ..
+date: 2020-10-02 14:08:26 
+img: https://static.coupangcdn.com/image/retail/images/2020/09/10/19/2/1be94d87-e951-4932-be05-c91d66bf60e1.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2124968554&itemId=3605887028&vendorItemId=71571502854&traceid=V0-113-5b96f883d3d153a5 
+categories: [1002] 
+color: CF36BB 
+price: 14900 
+author: Ask View Shop 
+cont:  "아무것도 없어서 좀 밋밋한 느낌이기도 하지만<br/>요즘 계절에 잠깐 딱 입기 좋은 두께감이예요<br/>좋아요 ㅎㅎ 감사합니다<br/>지금 잠깐 입긴 괜찮은거 같아요<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "레어 남자 오버핏 캐릭터 자수 맨투맨" 
+description: 레어 남자 오버핏 캐릭터 자 ..
+date: 2020-10-02 14:08:26 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2018/12/16/21/3/ab986dfd-124b-40c8-915a-8481373dbc6e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1259241778&itemId=2260158867&vendorItemId=4211278103&traceid=V0-113-9d520efeb6cc54c8 
+categories: [1002] 
+color: F361A6 
+price: 25500 
+author: Ask View Shop 
+cont:  "사이즈가 맘에 들고 핏이 좋으네요<br/>사이즈넉넉하니 귀엽고 좋아요ㅋ<br/>손목에 테즈 캐릭터때문에 구매했어요<br/>컬리티도 좋고 제 맘에 쏙 들어요 제질또한 우수합니다<br/>" 
+---

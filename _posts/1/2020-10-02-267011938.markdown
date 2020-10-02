@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "두보식품 세계인의 건강곡물 선물세트, 1세트" 
+description: 두보식품 세계인의 건강곡물  ..
+date: 2020-10-02 15:13:16 
+img: https://static.coupangcdn.com/image/retail/images/76088903417303-38c5340b-7934-4d8a-bd4f-e523be3b1f9e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=267011938&itemId=836897758&vendorItemId=5130656401&traceid=V0-113-adcd94347f94637e 
+categories: [1012] 
+color: 4A148C 
+price: 13480 
+author: Ask View Shop 
+cont:  "맛 괜찮습니다<br/>선물용으로 좋은것 같아요.<br/> 예뻐서 제것도 샀어요<br/>아이들도 별 거부감없이 잘먹습니다<br/>품질은 아직 안먹어봐서 잘 모르겠지만 겉으로봤을땐 좋아보여요<br/>햄프씨드는 씻으면 다 날아가버려서 그냥 취사전에 씻으 쌀위에 뿌려서 밥을 해도 괜찮네요<br/>흰쌀밥만 먹다가 이것저것 썪어 먹고 싶어 샀는데 괜찮네요<br/>" 
+---

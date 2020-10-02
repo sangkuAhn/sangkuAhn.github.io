@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "현대지성/나는 퇴근 후 사장이 된다 - 월급만으로는 살기 힘든 직장인들을 위한 부업 안내서, 현대지성" 
+description: 현대지성/나는 퇴근 후 사장 ..
+date: 2020-10-02 16:03:39 
+img: https://static.coupangcdn.com/image/retail-product-api/A00077021/2355800/3737777/main/9791187142850_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=226784614&itemId=718709696&vendorItemId=4803075853&traceid=V0-113-e5c3ed522e9dae06 
+categories: [1019] 
+color: A566FF 
+price: 11700 
+author: Ask View Shop 
+cont:  "개인적으로 외국도서 번역한 책을 별루 안 좋아하는데 (어순이 바뀌면 내용파악하기 위해 같은 문장을 여러 번 읽게되는 경우가 있기 때문) 이 책은 술술 읽힘.<br/> 저자의 솔직한 고백은 감동이었음.<br/><br/>단순동기부여 위주의 책들에 비해서 훨씬 값어치있다고 생각함.<br/><br/>뭔가를 시작할때 찾아오는 두려움과 마주하는 방법을 먼저 배울 수 있으며, 좋아하는 일을 찾는 방법이 상세히 나와있어서 충분히 도움이 되었음.<br/><br/>읽기 편하고 괜찮은 편이네요<br/>제목때문에 사게 됐어요<br/>직장다니면서 투잡을 하든 1인 창업을 하든 꼭 읽어봐야 할 도서라고 생각함.<br/><br/>" 
+---

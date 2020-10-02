@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "금동이 남아용 사각보 한복 + 복주머니 세트 AM114" 
+description: 금동이 남아용 사각보 한복  ..
+date: 2020-10-02 14:15:38 
+img: https://static.coupangcdn.com/image/retail/images/2020/07/23/16/2/73706c43-1e7d-4ab3-b5e3-f8e62b624010.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1890398220&itemId=3212047901&vendorItemId=71199374079&traceid=V0-113-a586762732531c28 
+categories: [1003] 
+color: 35B62C 
+price: 34000 
+author: Ask View Shop 
+cont:  "6세아이 넉넉하게 아주좋아요<br/>저렴한데 고급스러워 보이고 안감처리도 잘 되어있어서 아이도 불편해하지 않고 잘 입습니다.<br/> 어린이집 추석 행사때문에 급하게 샀는데 대만족이네요<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코디아이 아동용 구르미 양면 쟈가드 내의 상하 세트" 
+description: 코디아이 아동용 구르미 양면 ..
+date: 2020-10-02 14:15:38 
+img: https://static.coupangcdn.com/image/retail/images/2020/07/28/20/9/bb4516e8-cb1f-4c57-ba56-c711eaf0421e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1941180686&itemId=3295543438&vendorItemId=71282488995&traceid=V0-113-b6040448a524cab3 
+categories: [1003] 
+color: 006064 
+price: 10900 
+author: Ask View Shop 
+cont:  "기대한 것과 같아요 좋아요!<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "GAP 인증 상주곶감 견과혼합 세트 1호 (냉동), 850g, 1세트" 
+description: GAP 인증 상주곶감 견과혼 ..
+date: 2020-10-02 15:13:16 
+img: https://static.coupangcdn.com/image/retail/images/2019/12/05/17/8/32fc767a-8a4d-4b92-9c2c-3e758a3a43df.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1066154396&itemId=2012999132&vendorItemId=70012810815&traceid=V0-113-1e5a95592e531bb8 
+categories: [1012] 
+color: 4A148C 
+price: 29900 
+author: Ask View Shop 
+cont:  "늦은 상품평이지만 상품으로 참 만족했었던거 같아요<br/>선물용으로 주문했는데 다들 좋아하시네요<br/>아버님 어머님께 추석 연휴때 못내려가 이걸로 보내드렸는데 고급 상품 이라며 좋아하시네요☺<br/>탁월한 선택이였습니다♡<br/>" 
+---

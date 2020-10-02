@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "이힝 그린마운틴 여리여리 맨투맨" 
+description: 이힝 그린마운틴 여리여리 맨 ..
+date: 2020-10-02 14:01:14 
+img: https://static.coupangcdn.com/image/vendor_inventory/09e3/69b769bafb7171eb9c6d1fb0ddbb4590a4b7e2531f81e3549b8100d02890.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2037230699&itemId=3464010014&vendorItemId=5345997714&traceid=V0-113-2c098081385f2652 
+categories: [1001] 
+color: A57F92 
+price: 14800 
+author: Ask View Shop 
+cont:  "노란색 보다 주황에 가까운 색이에요<br/>맨투맨만보면 별5섯개줘도 나을정도로 좋긴해요<br/>모델이 입은것 길이도 아래2.<br/>28일 상품평에도 숏자켓보다 길다고 나왓는데... <br/> 왜 공장에서 상품이 변경되어 나왓나요?<br/>사진에서 보는 색이랑 실재 색이랑 많이 다르네요ㅠ<br/>저는 왜 4개냐면 겉에 숏패딩입엇을때 숏패딩보다 맨투맨이 더 길거든요  그래서 뒷테 핏이 아쉬웠어요.<br/>.<br/> ㅠㅠ 겉에 어떤 외투를 입어야될지 모르겠어요 ㅠㅠ 코트이런거말구 !<br/>전 160입니다 160초반까진 엉덩이내려올거에요 통도커요 날씬하신분들이입으면 예쁜박시한루즈핏나옵니다 저는 다른 색상 살예정! 옷은 봄 초가을 입을정도! 기모는없어요<br/>짧아요 165인데 엉덩이 안가려지고 길이가 어중간해요<br/>천은 또 얇고 .<br/>.<br/> 집에서 막입는용도가 되어버림.<br/>.<br/> 만오천원아까움<br/>" 
+---
