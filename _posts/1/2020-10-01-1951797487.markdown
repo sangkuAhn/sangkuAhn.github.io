@@ -9,5 +9,5 @@ categories: [1005]
 color: 1294AB 
 price: 11900 
 author: Ask View Shop 
+cont:  "배송도빠르고 두께감도 만족합니다  요즘에 입기 좋네요<br/>배송빠르고 좋아요<br/>화면과 같아요<br/>" 
 ---
- 

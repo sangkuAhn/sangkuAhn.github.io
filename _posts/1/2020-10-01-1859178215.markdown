@@ -9,5 +9,5 @@ categories: [1005]
 color: BF360C 
 price: 29500 
 author: Ask View Shop 
+cont:  "7살아이한테너무커요ㅠ<br/>8세130사이즈 잘맞고 넘이뻐요<br/>아주 좋은 품질<br/>" 
 ---
- 
