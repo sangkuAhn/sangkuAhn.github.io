@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "저는 주식투자가 처음인데요: 기본편(2020):완전 생초보의 주식투자 입문기, 한빛비즈" 
+description: 저는 주식투자가 처음인데요: ..
+date: 2020-10-03 16:03:37 
+img: https://static.coupangcdn.com/image/vendor_inventory/b326/47974fadd82fecf9baefb5db7b46cbb2eb56255a1583092b4dc1cf81cd89.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1130292672&itemId=2098043940&vendorItemId=71077823614&traceid=V0-113-834568dcbfff7127 
+categories: [1019] 
+color: FF6F00 
+price: 14850 
+author: Ask View Shop 
+cont:  "많은 도움이 되었습니다<br/>새책이 왜이렇게 찌그러져서 오는건지... <br/> 급해서 그냥 보긴 합니다만, 짜증은 나네요.<br/><br/>주식 초보자가 읽기 좋은 베스트 책입니다!<br/>" 
+---

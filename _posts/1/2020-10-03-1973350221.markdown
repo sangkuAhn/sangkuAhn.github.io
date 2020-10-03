@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "맥콜, 190ml, 60개" 
+description: 맥콜, 190ml, 60개 ..
+date: 2020-10-03 15:13:14 
+img: https://static.coupangcdn.com/image/retail/images/240330824892988-f53ef5e1-731b-4557-a75e-a03ce331ae2e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1973350221&itemId=3356471162&vendorItemId=70025786462&traceid=V0-113-0dda6a17b43b5361 
+categories: [1012] 
+color: 006064 
+price: 19900 
+author: Ask View Shop 
+cont:  "60개 언제 다먹을까 싶었는데 냉장고 넣어두니 은근 계속 꺼내먹게됨<br/>가격도 너무 착하고 부모님이 맥콜 좋아하셔서 박스로는 처음 사봤는데 대만족입니다<br/>구수하고 맛나요 좋습니다<br/>그런데 특수경로용은 뭘까요?<br/>든든합니다!!<br/>맥콜부자 됐네요ㅋㅋㅋㅋ<br/>성인 남자용으로는 살짝 모자를 수도 있어요.<br/><br/>신랑이 좋아해서 저렴하게 떳길래 바로 삿네요 ㅎ<br/>양이 작아서 캔 하나 따면 다 마시기 좀 많은 분들께 딱 좋아요.<br/> 주로 여성, 어린이, 어르신들에게 좋을 듯 합니다.<br/><br/>원래 알던 바로 그 맥콜<br/>유통기한도 2년 넘게 남은 거라 만족만족<br/>혼자 마시기에도 사이즈가 딱 좋아요<br/>" 
+---

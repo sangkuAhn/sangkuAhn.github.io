@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "퍼니메이드 투데이 시크릿 파우치" 
+description: 퍼니메이드 투데이 시크릿 파 ..
+date: 2020-10-03 14:51:39 
+img: https://static.coupangcdn.com/image/retail/images/2020/05/25/18/1/7fcf7e69-a5da-419c-821c-72f73995ef6b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1621297266&itemId=2766535687&vendorItemId=70756395681&traceid=V0-113-9837fcceb1896720 
+categories: [1008] 
+color: A57F92 
+price: 7800 
+author: Ask View Shop 
+cont:  "무난깔끔한 스타일이라 좋아할듯<br/>생리대 대형 사용하는데 잘 들어가니 좋아요 다이소에서 딱맞는 파우치로 힘겹게 쓰다가 들고다니기에도 이쁘고 약도 보관되니 편리해요 ! 그치만 정말 똑딱이가 견고?해요,, 아니 솔직히 열기 힘들어요ㅜㅜ 셀프 젤네일하고 있다가 네일이 살짝 벗겨질정도랄까요,,,? 똑딱이 금방 떨어질 것도 같고,, 그부분만 보완하면 좋겠어요 !<br/>여성용품을 보이지않게 보관할 수 있어좋은디 똑딱이가 약한거같아서 별하나 빼요<br/>첫생리를 앞둔 딸을위해 미리 준비해둠<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "엘푸드 영동 반건시 세트 3호 (냉동), 2400g, 1세트" 
+description: 엘푸드 영동 반건시 세트 3 ..
+date: 2020-10-03 15:13:14 
+img: https://static.coupangcdn.com/image/retail/images/2020/08/05/18/8/675f20ab-9074-4665-81e4-b66d18ea3746.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1924797690&itemId=3267833005&vendorItemId=71254865218&traceid=V0-113-f673eae7d6160e36 
+categories: [1012] 
+color: 4374D9 
+price: 53000 
+author: Ask View Shop 
+cont:  "맛있어요 괜한 고민했네요<br/>먹을만 합니다!<br/>양가 어른들 선물로 부랴부랴 주문했는데 입맛까다로우신 저희 할머님이 맛나다고 물건 잘골랐다 칭찬 받았어욥!<br/>친정에 선물로 드렸는데 다들 좋아하시네요<br/>" 
+---
