@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "닌텐도 스위치 옥토패스 트래블러 한글판 게임 타이틀, 단일상품" 
+description: 닌텐도 스위치 옥토패스 트래 ..
+date: 2020-10-04 16:10:43 
+img: https://static.coupangcdn.com/image/retail/images/2020/08/06/10/0/67066f97-e37c-4e20-9ad9-aafd31297570.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1923846444&itemId=3266308231&vendorItemId=71253345273&traceid=V0-113-b52925db9218adfe 
+categories: [1020] 
+color: 353535 
+price: 56170 
+author: Ask View Shop 
+---
+ 
