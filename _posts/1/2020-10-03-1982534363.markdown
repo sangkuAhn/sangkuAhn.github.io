@@ -9,5 +9,5 @@ categories: [1004]
 color: 1294AB 
 price: 19900 
 author: Ask View Shop 
+cont:  "츄리닝만 입는아이 졸업사진때문에 샀어요 딱맞는사이즈<br/>" 
 ---
- 
