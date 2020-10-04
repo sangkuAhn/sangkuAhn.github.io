@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "캐럿 여성 밴딩 와이드 슬랙스" 
+description: 캐럿 여성 밴딩 와이드 슬랙 ..
+date: 2020-10-04 14:01:13 
+img: https://static.coupangcdn.com/image/retail/images/314890941155396-b1aadd35-7579-434a-ab90-8276148936d5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2092523782&itemId=3554544290&vendorItemId=71540447938&traceid=V0-113-165ec9e28690a51f 
+categories: [1001] 
+color: 03A9F4 
+price: 17990 
+author: Ask View Shop 
+cont:  "가격이 너무 저렴해서 기대를 안 했는데 핏도 너무 예쁘고 무엇보다 너무 편합니다 잘 입을게요!<br/>좋아요! 추천!!<br/>쿠팡 (캐럿) 옷은 믿고 살래요.<br/> 진짜 좋음.<br/> 여기 옷 2번째인데 품질도 가성비 최고에 옷 핏도 다 이쁨 ㅜㅜ<br/>" 
+---
