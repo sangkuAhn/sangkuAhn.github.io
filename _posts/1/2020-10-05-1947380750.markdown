@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "빅사이즈클럽 남성용 CRAMP 데일리 긴팔 티셔츠" 
+description: 빅사이즈클럽 남성용 CRAM ..
+date: 2020-10-05 14:08:25 
+img: https://static.coupangcdn.com/image/retail/images/2020/08/10/10/8/29ee8045-7d48-47bc-b35c-45a5a17033e3.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1947380750&itemId=3306472199&vendorItemId=71263908063&traceid=V0-113-1018a2afe0257bc7 
+categories: [1002] 
+color: BD24A9 
+price: 16900 
+author: Ask View Shop 
+cont:  "신랑이 맘에 들어합니다 ㅎㅎ사이즈 넉넉해요<br/>재질이 면이 아니라 약간 도톰한 니트같이 보이는... <br/> 요즘 여성 원피스용 옷감이랄까요 링클프리라고 하는거랑 비슷하네요! 찰랑찰랑하고 약간 힘있게 떨어져서 배 가려져서 좋다하네요 사이즈도 넉넉해요<br/>카키색도 잘 빠졌길래 또 구매했어요<br/>" 
+---

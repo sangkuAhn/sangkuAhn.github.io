@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "온더리버 109799 메이론즈 레오파드 롱 원피스" 
+description: 온더리버 109799 메이론 ..
+date: 2020-10-05 14:01:13 
+img: https://static.coupangcdn.com/image/vendor_inventory/6b33/094d4f9b9dbf6694495100f01d63df284149f79fdd26a0fdf744ef60da11.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2104453716&itemId=3575115633&vendorItemId=71560948420&traceid=V0-113-c2d832aaf466f124 
+categories: [1001] 
+color: CF36BB 
+price: 19900 
+author: Ask View Shop 
+cont:  "가을가을 너무 예뻐요<br/>내가 청순이다 라고 주장하는 것 같은 원피스.<br/>.<br/>감사합니다 ㅠㅠ 덕분에 제가 청순한옷도 다 입어보네요.<br/>.<br/><br/>이뻐요<br/>" 
+---

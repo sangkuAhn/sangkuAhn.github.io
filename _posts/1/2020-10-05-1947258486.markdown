@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "그 환자, 시월이일" 
+description: 그 환자, 시월이일 ..
+date: 2020-10-05 16:03:37 
+img: https://static.coupangcdn.com/image/vendor_inventory/8d97/792de64270e33fbd915405c38c49d65534f2d36bf8fd5236726cb9cb364a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1947258486&itemId=3306134090&vendorItemId=71308881560&traceid=V0-113-c623200b52185b08 
+categories: [1019] 
+color: BF360C 
+price: 12600 
+author: Ask View Shop 
+cont:  "가볍게 읽을만 합니다, 무거운 내용은 아니에요<br/>반전 요소들도 있고요<br/>배송받고 바로 읽기시작해서 몇시간만에 다읽었어요.<br/><br/>볼만해요.<br/><br/>첫 스타트 잘 끊은거 같아요 ^^<br/>한달에 한권씩이라도 책 읽으려구요<br/>" 
+---

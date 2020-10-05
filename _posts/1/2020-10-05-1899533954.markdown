@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "슈펜 힐밴딩 쿠션 플랫슈즈 1.0 MIST20W06" 
+description: 슈펜 힐밴딩 쿠션 플랫슈즈  ..
+date: 2020-10-05 14:44:26 
+img: https://static.coupangcdn.com/image/retail/images/2020/07/28/12/5/1fad8bcb-310c-4a8a-88b9-557a89ed1432.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1899533954&itemId=3226679798&vendorItemId=71213920575&traceid=V0-113-d38f9f8bad76c8ca 
+categories: [1007] 
+color: 006064 
+price: 10320 
+author: Ask View Shop 
+cont:  "45로 해도 될거같아요^^신발은 예쁘고 편합니당<br/>별로예요<br/>평소에 235<br/> -240신어서 40으로 했더니 꽉 맞네요<br/>" 
+---

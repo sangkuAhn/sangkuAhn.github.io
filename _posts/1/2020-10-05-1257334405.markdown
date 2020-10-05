@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아디다스 엣지 게임데이 러닝 EE4169" 
+description: 아디다스 엣지 게임데이 러닝 ..
+date: 2020-10-05 14:44:26 
+img: https://static.coupangcdn.com/image/vendor_inventory/e042/b7962b28317c2a90fcec9344305ae3ff0e44713975f5da75ab2eb483506d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1257334405&itemId=2258097060&vendorItemId=71046570485&traceid=V0-113-a3a254608953d1b0 
+categories: [1007] 
+color: A6A6A6 
+price: 64880 
+author: Ask View Shop 
+cont:  "가볍고 쿠션도 적당히 있어서 편한게 잘 신고 있습니다<br/>가성비 좋고 품질도 좋아요.<br/><br/>볼이 넉넉한 편이라 좋습니다<br/>정사이즈구요<br/>제가 신을려고 샀는데 아이가 맘에 들어 패스했습니다.<br/><br/>추천 드려봅니다<br/>흰색.<br/>검정 두개샀는데  이쁘긴한데 앞이 넓으니 좀 투박한느낌이 나는건 저만에 생각이겠죠.<br/>잘 신을게요<br/>" 
+---

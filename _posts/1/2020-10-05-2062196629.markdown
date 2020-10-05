@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "내셔널지오그래픽 후드 집업(A9)" 
+description: 내셔널지오그래픽 후드 집업( ..
+date: 2020-10-05 14:08:25 
+img: https://static.coupangcdn.com/image/vendor_inventory/182f/04ac61ccac7643287e5c72ceaa49c9fc257bded546df6a7dfeba80e40ae3.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2062196629&itemId=3504351845&vendorItemId=71490525010&traceid=V0-113-c379dacc7790cdc7 
+categories: [1002] 
+color: 9E9D24 
+price: 46000 
+author: Ask View Shop 
+cont:  "내구성에 문제가 있네요<br/>며칠 입지도 않았는데 벌써 보풀이.<br/>.<br/><br/>옷은 깔끔하니 좋지만<br/>원단도 좋고 100사이즈래서 클 줄 알았는데 적당히 맞아요<br/>중딩아들 주려고 주문했네요  찐 같아요 ㅋㅋ 바늘질 꼼꼼하고 로고도 그렇고 맘에들어요 다만 세탁후어떨지 모르겠지만 좀 얇아요<br/>" 
+---

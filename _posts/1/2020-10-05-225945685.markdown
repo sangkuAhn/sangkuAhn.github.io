@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아띠빠스 아동용 아이콘 보행기화" 
+description: 아띠빠스 아동용 아이콘 보행 ..
+date: 2020-10-05 14:15:38 
+img: https://static.coupangcdn.com/image/retail/images/2019/05/21/9/6/b5773515-298a-4793-9b54-346b8cf7f1c2.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=225945685&itemId=715714182&vendorItemId=4812438682&traceid=V0-113-42c4cfbe1f6adbf5 
+categories: [1003] 
+color: A57F92 
+price: 18800 
+author: Ask View Shop 
+cont:  "9갤아기 잘맞아요<br/>그래도 ㅋㅋㅋ딱맞는신발 처음이라<br/>신고 잘 댕기네요<br/>신발은 너무 귀엽고 예쁘지만 받았을때구겨진 상자때문에 기분이 좋지는 않네요 조금더 신경써주시면 좋을 것 같아요<br/>아직 신겨보진 못했지만 넘 맘에들어요.<br/> 미디움이랑 사이즈 차이가 보기엔 많이나보이는데 다음달이면 신을 수 있을것같아요.<br/>  하얀바닥이 엠사이즈 까만바닥이 라지사이즈에요.<br/><br/>원래가지고 있던 사이즈가 너무 딱 맞아져서 한치수 큰사이즈로 구매했어요.<br/><br/>종아리가 통통해서 좀 쫄린자국 남지만<br/>" 
+---

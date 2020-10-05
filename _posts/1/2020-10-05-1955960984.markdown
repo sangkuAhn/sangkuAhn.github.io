@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "티탁 여성 빅사이즈 루즈핏 겹브이 롱 긴팔 티셔츠" 
+description: 티탁 여성 빅사이즈 루즈핏  ..
+date: 2020-10-05 14:01:13 
+img: https://static.coupangcdn.com/image/retail/images/2020/08/11/13/2/9f6f8948-a87d-4df9-82fe-6a165914d24c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1955960984&itemId=3323585385&vendorItemId=71310445506&traceid=V0-113-dfafc57fc23c3815 
+categories: [1001] 
+color: 5A8DF3 
+price: 9900 
+author: Ask View Shop 
+cont:  "너무 옷이커요 우장바우같아요 반품하려고포장해놓았는데반품<br/>와인색 전혀다른 상품<br/>이미지사진 색상  즉 밝은와인으로 삿는데 촌발날린<br/>" 
+---

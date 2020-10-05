@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "제스프리 썬골드키위 6입 + 그린키위 6입, 1팩" 
+description: 제스프리 썬골드키위 6입 + ..
+date: 2020-10-05 15:13:13 
+img: https://static.coupangcdn.com/image/retail/images/2020/06/25/15/0/83ce50a5-70d7-4fe4-968c-be2f78f8d48e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1745433795&itemId=2972069095&vendorItemId=70960478184&traceid=V0-113-465a5f4c5dbbb059 
+categories: [1012] 
+color: FF6F00 
+price: 11900 
+author: Ask View Shop 
+cont:  "그린키위도 별로 안시고 맛있어요^^<br/>상처있는 알도있었지만  가성비대비  잘산거같아요  알크고 당도도  좋네요<br/>싱싱하고 맛있어요.<br/> 앞으로 계속 구매할거에요.<br/><br/>키위재료로 사용하려구 샀어요<br/>" 
+---
