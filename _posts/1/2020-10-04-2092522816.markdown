@@ -9,5 +9,5 @@ categories: [1001]
 color: 43A047 
 price: 18800 
 author: Ask View Shop 
+cont:  "맘에들어요<br/>사이즈도 넉넉해요<br/>색상도 예쁘고 그렇게 두껍진 않는데<br/>예뻐요 ㅎㅎ<br/>주름은 좀 잘 잡힐거같아요<br/>핏도 좋구 길이도 기네요 ㅎㅎ<br/>흐물거리지 않는 천이고<br/>" 
 ---
- 

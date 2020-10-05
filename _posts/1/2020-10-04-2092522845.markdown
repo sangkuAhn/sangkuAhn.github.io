@@ -9,5 +9,5 @@ categories: [1001]
 color: 35B62C 
 price: 13700 
 author: Ask View Shop 
+cont:  "와 너무 이뻐서;;; 다른색도 살래여<br/>" 
 ---
- 
