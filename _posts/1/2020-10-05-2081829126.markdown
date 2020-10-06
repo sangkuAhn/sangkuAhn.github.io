@@ -9,5 +9,5 @@ categories: [1003]
 color: 4374D9 
 price: 10900 
 author: Ask View Shop 
+cont:  "또 주문하려고요 )<br/>사이즈 좋아요<br/>이쁘다고 만족하시네요.<br/><br/>직장동료의 이쁜 공주님 탄생으로 선물 드렸는데,<br/>편한 소재예요<br/>" 
 ---
- 

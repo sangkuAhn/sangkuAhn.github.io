@@ -9,5 +9,5 @@ categories: [1006]
 color: FF6F00 
 price: 14200 
 author: Ask View Shop 
+cont:  "워낙 인지도 있는 제품이라 더 할말이 없네요.<br/> 가격, 품질 만족해요<br/>" 
 ---
- 
