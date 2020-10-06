@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "오티디 오버핏 쮸리 세컨로고 맨투맨" 
+description: 오티디 오버핏 쮸리 세컨로고 ..
+date: 2020-10-06 14:08:27 
+img: https://static.coupangcdn.com/image/retail/images/2020/02/17/18/7/3a1944b7-ac2d-45e4-bc09-cae1b86708da.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1271931982&itemId=2280773824&vendorItemId=70269543751&traceid=V0-113-06777503c206de59 
+categories: [1002] 
+color: 7E57C2 
+price: 19900 
+author: Ask View Shop 
+cont:  "164/44 마른여자 레깅스위에 오버핏으로 입기 딱 좋아요<br/>너무예쁘네요.<br/>.<br/>중1딸아이랑 같이입을려고삿는데 기회를안주네요.<br/>.<br/>ㅎ<br/>일부러 넉넉하게 입으려고 구매했어요!<br/>크기는 정사이즈로 나온것 같아요<br/>학교때 체육복같은 소재네요<br/>" 
+---

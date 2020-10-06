@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "채니봉봉 포근 퍼피 헤어핀세트" 
+description: 채니봉봉 포근 퍼피 헤어핀세 ..
+date: 2020-10-06 14:15:39 
+img: https://static.coupangcdn.com/image/retail/images/2019/11/08/16/8/32cfb21f-8537-486e-a558-ff8f8094133f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=334833860&itemId=1068590441&vendorItemId=5555689747&traceid=V0-113-6592393b02ce4918 
+categories: [1003] 
+color: 4CAF50 
+price: 9310 
+author: Ask View Shop 
+cont:  "가격은 살짝 아쉽긴한데 핀들이 너무예뻐 만족중이에요 후회안해요<br/>사진 그대로 예쁩니다^^ 품질도 좋아요<br/>핀대가 작아요 큰 폼폼이는 큰데 핀이 작아서 조금 불편해요 예쁘긴 합니다  애기들 해주면 예쁠것 같아요<br/>" 
+---
