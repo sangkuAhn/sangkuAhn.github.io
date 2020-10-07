@@ -9,5 +9,5 @@ categories: [1005]
 color: 7E57C2 
 price: 7900 
 author: Ask View Shop 
+cont:  "별 하나 빼려다 가격이 착해 5개 합니다<br/>이뻐요 미끄럼방지도 되있네용 가격도 저렴하고 잘산듯<br/>좋아요 색상도 무난하구요<br/>짱짱하지만 좀 얇아요<br/>" 
 ---
- 

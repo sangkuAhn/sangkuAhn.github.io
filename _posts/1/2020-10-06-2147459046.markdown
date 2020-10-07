@@ -9,5 +9,5 @@ categories: [1003]
 color: 353535 
 price: 10130 
 author: Ask View Shop 
+cont:  "저렴하게 이쁜거 잘 샀어용ㅋ<br/>" 
 ---
- 
