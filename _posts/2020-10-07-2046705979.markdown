@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "캐럿 여성용 카라 스웨터" 
+description: 캐럿 여성용 카라 스웨터 ..
+date: 2020-10-08 06:01:14 
+img: https://static.coupangcdn.com/image/retail/images/264994654285077-96cb9fea-324f-4a90-afe5-341feb9a201d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2046705979&itemId=3479462947&vendorItemId=71465768297&traceid=V0-113-214b516e375c5256 
+categories: [1001] 
+color: 353535 
+price: 18700 
+author: Ask View Shop 
+---
+ 
