@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아가방 겨울이월 9900원 초특가~! *바니오픈내의* 공용 무형광 삼중지 편한 실내복~!! 서두르세요~!! #한정상품#" 
+description: 아가방 겨울이월 9900원  ..
+date: 2020-10-08 14:15:29 
+img: https://static.coupangcdn.com/image/vendor_inventory/7108/adba645bedb8be5430d7f74f3fa4ffd21af859f1025b2ab939801d7741ec.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2051487166&itemId=3487654953&vendorItemId=71473930946&traceid=V0-113-25c4c491f29f9ff4 
+categories: [1003] 
+color: 7E57C2 
+price: 9900 
+author: Ask View Shop 
+cont:  "너무 귀여워요<br/>두께는 삼중지라 도통하구요<br/>소재 너무 좋아요<br/>한겨울에 잘 입힐수  있을듯해요<br/>" 
+---

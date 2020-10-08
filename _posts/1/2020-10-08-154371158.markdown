@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "블랙야크 방한 넥워머 넥게이터, 블랙" 
+description: 블랙야크 방한 넥워머 넥게이 ..
+date: 2020-10-08 14:37:05 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2018/11/14/14/0/419c61d4-4728-476e-a83c-73a4925ac0b7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=154371158&itemId=445105321&vendorItemId=5556927688&traceid=V0-113-c971213add2466c4 
+categories: [1006] 
+color: 1294AB 
+price: 8050 
+author: Ask View Shop 
+cont:  "두툼한 털이 괜찮아요.<br/>.<br/><br/>따뜻합니다 도톰하고  만족합니다<br/>마크도 괜찮고 디자인도 좋아요... <br/><br/>사이즈도 적당히 딱 맞고<br/>조여줄 수도 있어서 좋습니다<br/>처음 새거 냄새 나는 것 빼고는<br/>털도 복슬복슬 부드럽고<br/>" 
+---
