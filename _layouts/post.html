@@ -22,7 +22,7 @@ layout: default
 </script>
         {% if page.img %}    
          <div  class="text_center">
-          <a href="{{page.linkUrl}}" target="_blank"><img class="feat-image" src="{{page.img}}" alt="{{page.title}}"></a>
+          <a href="{{page.linkUrl}}" target="_blank"><img class="feat-image lazyload" data-src="{{page.img}}" alt="{{page.title}}"></a>
         </div>
         <ins class="adsbygoogle"
              style="display:block"
