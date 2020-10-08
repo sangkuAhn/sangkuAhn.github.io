@@ -9,5 +9,5 @@ categories: [1003]
 color: BF360C 
 price: 5900 
 author: Ask View Shop 
+cont:  "곧 태어날 아기를위해 구매했는데,<br/>너무 귀엽고 저렴한가격에 잘산것같아요^^<br/>" 
 ---
- 

@@ -9,5 +9,5 @@ categories: [1001]
 color: F15F5F 
 price: 20900 
 author: Ask View Shop 
+cont:  "가격에 비해 잘 산거 같아요 지금 입기에 딴 좋고 폼도 넉넉해서 자주 입을꺼 같아요<br/>만족만족 가격에 비해 상품이 좋아요<br/>이뻐요<br/>" 
 ---
- 

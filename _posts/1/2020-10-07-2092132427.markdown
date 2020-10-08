@@ -9,5 +9,5 @@ categories: [1015]
 color: F15F5F 
 price: 3900 
 author: Ask View Shop 
+cont:  "면이 아니고 부직포 재질 <br/>" 
 ---
- 

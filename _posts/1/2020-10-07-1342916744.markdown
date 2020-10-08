@@ -9,5 +9,5 @@ categories: [1007]
 color: f44336 
 price: 43000 
 author: Ask View Shop 
+cont:  "가격대비 조아요<br/>이 신발 정말 편합니다.<br/><br/>잘쓰고 있슴다 감사합니다.<br/><br/>" 
 ---
- 

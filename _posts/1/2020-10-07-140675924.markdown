@@ -9,5 +9,5 @@ categories: [1003]
 color: BD24A9 
 price: 15000 
 author: Ask View Shop 
+cont:  "너무너무귀여워요<br/>아주 귀여움.<br/> 그러나 5세가 입기엔 타이트해서 내년엔 못 입혀 아쉬움.<br/><br/>" 
 ---
- 
