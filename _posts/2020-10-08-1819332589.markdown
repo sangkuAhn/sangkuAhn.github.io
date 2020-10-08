@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "레몬유자 훈제치킨 샐러드, 190g, 2개" 
+description: 레몬유자 훈제치킨 샐러드,  ..
+date: 2020-10-08 15:13:06 
+img: https://static.coupangcdn.com/image/retail/images/2020/07/13/17/0/054ff2b5-5129-4dda-ba56-f45ffc7b7377.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1819332589&itemId=3096156219&vendorItemId=71083965525&traceid=V0-113-cf23a82b3e0db6ca 
+categories: [1012] 
+color: 03A9F4 
+price: 9990 
+author: Ask View Shop 
+---
+ 
