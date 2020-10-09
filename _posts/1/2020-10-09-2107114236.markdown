@@ -9,5 +9,5 @@ categories: [1006]
 color: 03A9F4 
 price: 36300 
 author: Ask View Shop 
+cont:  "재질이 천도 아니고 나일롱도 아니고... <br/>? 편하게 들려고 일단 수취확인<br/>" 
 ---
- 
