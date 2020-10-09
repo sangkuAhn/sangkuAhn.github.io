@@ -9,5 +9,5 @@ categories: [1006]
 color: 9E9D24 
 price: 37300 
 author: Ask View Shop 
+cont:  "그닥... <br/>.<br/> 싼게 비지떡임<br/>생각보다 조금 길고 재질이 좋아요<br/>정사이즈이고, 운동할 때나 평상시에 입을 때 아주 편하고 좋아요.<br/><br/>" 
 ---
- 

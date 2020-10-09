@@ -9,5 +9,5 @@ categories: [1005]
 color: 1294AB 
 price: 9900 
 author: Ask View Shop 
+cont:  "맘에 쏙<br/>소재자체는 신축성이 적당해서 좋습니다만<br/>하의 폭이좁아 불편한지 상의만 입울려하네요<br/>" 
 ---
- 

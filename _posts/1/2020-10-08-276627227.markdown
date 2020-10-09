@@ -9,5 +9,5 @@ categories: [1003]
 color: 4A148C 
 price: 10740 
 author: Ask View Shop 
+cont:  "7키로 아기 넉넉하게 90샀는데 살짝 크긴하지만 괜찮네요<br/>가격도 착하고 얇게 몸에 착붙는맛이 있네요<br/>사진이랑 같아요<br/>스판이라 편하고 너무 예뻐요 ㅋㅋㅋ<br/>" 
 ---
- 
