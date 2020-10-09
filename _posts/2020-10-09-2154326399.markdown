@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "사과대추, 1.2kg, 1팩" 
+description: 사과대추, 1.2kg, 1팩 ..
+date: 2020-10-10 07:13:03 
+img: https://static.coupangcdn.com/image/retail/images/2020/09/23/18/8/05e86da3-4a2e-40f3-ba97-344bf6a32d3d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2154326399&itemId=3659059101&vendorItemId=71644496731&traceid=V0-113-a5665a6918a6b3f0 
+categories: [1012] 
+color: A566FF 
+price: 20070 
+author: Ask View Shop 
+---
+ 
