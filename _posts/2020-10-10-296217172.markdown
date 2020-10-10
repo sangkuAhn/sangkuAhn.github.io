@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "굿뜨래 GAP 인증 왕대추, 500g, 1팩" 
+description: 굿뜨래 GAP 인증 왕대추, ..
+date: 2020-10-11 07:13:06 
+img: https://static.coupangcdn.com/image/retail/images/13391584875329-3e62f86b-f8c1-435d-83c9-f90e8df38887.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=296217172&itemId=933921453&vendorItemId=5314300290&traceid=V0-113-aab4996d9ffeb578 
+categories: [1012] 
+color: A566FF 
+price: 11600 
+author: Ask View Shop 
+---
+ 

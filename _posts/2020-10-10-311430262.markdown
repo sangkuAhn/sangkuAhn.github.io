@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "채니봉봉 펌킨 할로윈세트" 
+description: 채니봉봉 펌킨 할로윈세트 ..
+date: 2020-10-11 06:15:36 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/10/04/5402375562/3601e770-9060-460f-a7ed-2db9a86deeea.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=311430262&itemId=982963497&vendorItemId=5402375562&traceid=V0-113-4354c59c734c1ea9 
+categories: [1003] 
+color: 9E9D24 
+price: 7200 
+author: Ask View Shop 
+---
+ 
