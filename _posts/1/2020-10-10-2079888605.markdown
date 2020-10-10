@@ -9,5 +9,5 @@ categories: [1007]
 color: 4374D9 
 price: 56180 
 author: Ask View Shop 
+cont:  "가볍고 신으니 아주편해요<br/>가볍고 편안하네요... <br/>굿<br/>" 
 ---
- 
