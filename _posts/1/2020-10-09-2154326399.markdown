@@ -9,5 +9,5 @@ categories: [1012]
 color: A566FF 
 price: 20070 
 author: Ask View Shop 
+cont:  "상품이 싱싱해서 좋았습니다.<br/><br/>아주 달고 맛있어요  근데 가격이 쫌 비싸서ㅠㅠ<br/>" 
 ---
- 

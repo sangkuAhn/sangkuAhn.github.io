@@ -9,5 +9,5 @@ categories: [1006]
 color: 4374D9 
 price: 39900 
 author: Ask View Shop 
+cont:  "가격대비 완벽! 제품 또한 만족합니다<br/>가성비 짱입니다<br/>간절기에 입으면 좋아요^^<br/>디자인은 모두예쁩니다.<br/> 냉감소재라했는데<br/>여름에입기는 덥네요<br/>" 
 ---
- 
