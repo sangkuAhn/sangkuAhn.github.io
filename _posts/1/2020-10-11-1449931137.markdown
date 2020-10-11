@@ -9,5 +9,5 @@ categories: [1007]
 color: f44336 
 price: 30000 
 author: Ask View Shop 
+cont:  "운동화 블랙으롲구매 넘편해요ㆍ다른색상도 구매할 의향 있음<br/>" 
 ---
- 

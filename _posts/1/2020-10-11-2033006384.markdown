@@ -9,5 +9,5 @@ categories: [1004]
 color: FF1744 
 price: 9900 
 author: Ask View Shop 
+cont:  "5세 여아, 15kg인데 팔 길이 두번 접어야하고 무릎 밑으로 내려와요<br/> - ㅎㅎ 아이가 너무 좋아해요.<br/> (5<br/> -6세 사이즈 구매함)<br/>" 
 ---
- 

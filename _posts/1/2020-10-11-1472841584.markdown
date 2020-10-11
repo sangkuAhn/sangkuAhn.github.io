@@ -9,5 +9,5 @@ categories: [1007]
 color: 4374D9 
 price: 39900 
 author: Ask View Shop 
+cont:  "매우 좋고 탄탄하고 편안합니다.<br/><br/>발도 편하고 넘 좋은듯^<br/>쫌짝음 5미리크게사세요<br/>" 
 ---
- 

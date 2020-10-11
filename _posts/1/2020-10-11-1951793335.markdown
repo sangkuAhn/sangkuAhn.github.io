@@ -9,5 +9,5 @@ categories: [1005]
 color: 9E9D24 
 price: 9900 
 author: Ask View Shop 
+cont:  "날씬한 아이들만 입어야 겠어요<br/>다행이 저희 아들은 입어 져서 다행입니다<br/>온 것 같아요<br/>큰 사이즈 주문하니 150에서 길이만 많이 늘어나서<br/>통통한  아이들은 안돼요 안돼<br/>" 
 ---
- 

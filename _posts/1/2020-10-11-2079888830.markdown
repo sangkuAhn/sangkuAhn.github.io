@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "휠라 스몰 로고 맨투맨 FS2POC3103X" 
+description: 휠라 스몰 로고 맨투맨 FS ..
+date: 2020-10-11 14:37:13 
+img: https://static.coupangcdn.com/image/retail/images/2020/08/04/19/1/c12115bb-d56a-4206-8544-ee3f1ec1b9ce.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2079888830&itemId=3533383199&vendorItemId=71247420353&traceid=V0-113-bf4ab0bed150e9e8 
+categories: [1006] 
+color: FF1744 
+price: 34300 
+author: Ask View Shop 
+cont:  "가볍게 입기 좋은 맨투맨이에여! 생각보다 얇고 외투안에 입기 좋을 것 같아요 필라옷들은 다 예쁜것 같아욤 작게 로고가 되어있어 촌스럽지 않고 아주 좋습니다! 가을이랑 겨울에 잘입을게용<br/>덩치가 조금 있으신분들은 사이즈를 더 크게 사시는걸 추천해요.<br/><br/>빠르게 배송 받았는데<br/>이뻐용 제가 몸이 조금 뚱뚱한편이여서 XXL 를 삿는데 나쁘지않게 오버핏이네용.<br/><br/>재질도 괜찮고 사이즈 딱 맞아서 기분 좋고 잘 입고있어요<br/>핏이나 재질같은거는 엄청 좋아용.<br/><br/>" 
+---
