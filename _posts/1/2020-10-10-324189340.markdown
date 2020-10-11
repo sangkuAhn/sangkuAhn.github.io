@@ -9,5 +9,5 @@ categories: [1002]
 color: F361A6 
 price: 23800 
 author: Ask View Shop 
+cont:  "너무좋아용<br/>아주마니 빈약함.<br/>.<br/>  그냥 털몇개집어넣은 작업복바람막이느낌<br/>톡딱단추가 빠져 제구실못함 지퍼로수선해입어요<br/>" 
 ---
- 

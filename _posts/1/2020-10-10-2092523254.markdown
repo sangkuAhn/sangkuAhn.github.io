@@ -9,5 +9,5 @@ categories: [1001]
 color: 03A9F4 
 price: 12700 
 author: Ask View Shop 
+cont:  "66반입는 통통아줌마에요<br/>근데 요건마음에드네요<br/>어짜피 딱 동네마실이나 아이등원룩이니까요ㅎㅎ<br/>캐럿옷은 지금까지 두번샀다 다반품했어요<br/>" 
 ---
- 

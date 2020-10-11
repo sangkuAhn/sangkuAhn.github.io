@@ -9,5 +9,5 @@ categories: [1003]
 color: 9E9D24 
 price: 7200 
 author: Ask View Shop 
+cont:  "다른 제품보다 조금 튼튼한 것 같아요.<br/><br/>이뻐요<br/>" 
 ---
- 
