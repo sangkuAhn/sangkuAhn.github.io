@@ -9,5 +9,5 @@ categories: [1001]
 color: 7E57C2 
 price: 11900 
 author: Ask View Shop 
+cont:  "가격대비 괜찮아요 사이즈도 66인데 좋구요 근데 많이얇은소재네요ㅠㅠ 추워지기전에는 괜찮아요 이뻐요<br/>" 
 ---
- 
