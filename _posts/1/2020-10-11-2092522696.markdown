@@ -9,5 +9,5 @@ categories: [1001]
 color: A566FF 
 price: 19490 
 author: Ask View Shop 
+cont:  "옷이 따뜻하고 가볍고 기장도 조금 길어서 얌전해 보입니<br/>" 
 ---
- 

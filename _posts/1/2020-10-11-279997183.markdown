@@ -9,5 +9,5 @@ categories: [1003]
 color: FF1744 
 price: 27900 
 author: Ask View Shop 
+cont:  "10개월 아기 오래 입히려고 일부러 크게 100을 샀습니다<br/>옷은 가볍네요 사진 그대로에요<br/>음.<br/>.<br/> 너무 크네요 실내용으로 입히려고 샀는데<br/>" 
 ---
- 

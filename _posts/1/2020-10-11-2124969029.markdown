@@ -9,5 +9,5 @@ categories: [1005]
 color: FF6F00 
 price: 41700 
 author: Ask View Shop 
+cont:  "잘 받았어요<br/>" 
 ---
- 

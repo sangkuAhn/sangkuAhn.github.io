@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "캐럿 남녀공용 그래픽 기모 플리스 맨투맨 DS01" 
+description: 캐럿 남녀공용 그래픽 기모  ..
+date: 2020-10-12 06:08:24 
+img: https://static.coupangcdn.com/image/retail/images/515533767058853-f2ac3ebb-dcf9-4df9-81ae-f64b87812c20.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1831824845&itemId=3115709625&vendorItemId=71103437118&traceid=V0-113-0217a680f350b2bc 
+categories: [1002] 
+color: 1294AB 
+price: 17900 
+author: Ask View Shop 
+cont:  "옷쓸만해요 ㅋㅋㅋ 너무 덥지도 않고 너무 얇지도 않고 가을에 입기 딱 좋은것 같아요 물론.<br/> 오전 오후에만 입고 저녁에는 입기엔 추운감이 있어서 저는 바람막이랑 같이 입고 있어요.<br/> 디자인도 괜찬고 ㅋ 색감도 괜찬고 ㅋ 가격도 합리적인것 같아요.<br/> 쿠팡자체 브랜드는 믿고 쓸수 잇어서 비슷한 옷 3벌정도 구매햇어요.<br/> ㅋㅋ 저는 무신사나 그런곳에서는 옷 절대 안삼 ㅋ<br/>요새 날 추워졌는데 잘 입고 있어요.<br/> 원딘도 좋은 것 같고, 그래픽도 예뻐요.<br/> 전체적인 퀄리티가 너무 좋은데 가격도 2만원 미만이라서, 전컬러 구매했습니다.<br/><br/>" 
+---

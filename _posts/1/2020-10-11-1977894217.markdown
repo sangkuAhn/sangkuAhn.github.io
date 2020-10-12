@@ -9,5 +9,5 @@ categories: [1007]
 color: 1294AB 
 price: 60950 
 author: Ask View Shop 
+cont:  "결론은 완전편합니다<br/>따봉입니다!!!!<br/>오프라인보다 3만원이상 싸게 샀어요<br/>한사이즈 크게 선택했어요<br/>한켤레 더 구매할 생각입니다<br/>" 
 ---
- 
