@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "리복 DMX PERT FV5062" 
+description: 리복 DMX PERT FV5 ..
+date: 2020-10-13 14:44:25 
+img: https://static.coupangcdn.com/image/vendor_inventory/8bba/0e264620803b06d69e626f45ad7538636864811b179887a0a5d6bcc16a50.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=335804355&itemId=1071503302&vendorItemId=70140659634&traceid=V0-113-fbb631eef57ef79c 
+categories: [1007] 
+color: A6A6A6 
+price: 41890 
+author: Ask View Shop 
+---
+ 
