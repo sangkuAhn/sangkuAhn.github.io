@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "플로제이 스웨이드 블로퍼" 
+description: 플로제이 스웨이드 블로퍼 ..
+date: 2020-10-13 14:44:25 
+img: https://static.coupangcdn.com/image/retail/images/2019/10/10/14/8/ae8f6dc8-d5c2-477e-89aa-6052dd9723f1.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=315078942&itemId=1001230154&vendorItemId=5429950212&traceid=V0-113-c273cac601cf9e6e 
+categories: [1007] 
+color: F15F5F 
+price: 19800 
+author: Ask View Shop 
+cont:  "가격대비굿굿입니당<br/>가볍네요  발볼없는편인데  10초이상신어본결과발등위로올라가기전 옆부분이 아플거같아요  한사이즈 크게신으심괜찮을듯 오래신어보니  발바닥아픔<br/>한사이즈업했는데 발볼때문에 너무편해요<br/>" 
+---

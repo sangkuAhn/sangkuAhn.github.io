@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "퀸앤조이 스쿠터 두비 컬러풀 맨투맨" 
+description: 퀸앤조이 스쿠터 두비 컬러풀 ..
+date: 2020-10-13 14:01:13 
+img: https://static.coupangcdn.com/image/vendor_inventory/cf61/383a587c49632960efac9ca7b4e226ea85f3249950a16994aba2661c8cc1.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1500106859&itemId=2575973123&vendorItemId=70568255431&traceid=V0-113-2e2f1c5cfc9582a7 
+categories: [1001] 
+color: BD24A9 
+price: 11000 
+author: Ask View Shop 
+cont:  "모델이입은옷이랑완전틀려요!!시보리부분헐렁하고반품비가6000원이어서걍서랍에처박아놓을께요이런제품팔아서부자되세요!!<br/>색상  넘  이쁘고  질감도  좋고.<br/>.<br/>잘입을께요... <br/>소라색  하나  더  주문했어요<br/>핑크색이  넘  이쁘네요... <br/>지금은  여름이라서  못입지만  빨리  가을이왔으면  좋겠어요  민트는  남친입힐거예요<br/>" 
+---

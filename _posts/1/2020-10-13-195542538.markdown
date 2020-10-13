@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "핑크풋 500채점펜 2.0mm, 단일 색상, 16개입" 
+description: 핑크풋 500채점펜 2.0m ..
+date: 2020-10-13 16:18:02 
+img: https://static.coupangcdn.com/image/retail/images/2019/03/08/12/8/1308c3f8-3dcc-4f68-bc00-46207a67845a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=195542538&itemId=561683706&vendorItemId=4476223928&traceid=V0-113-97b7af119b82b3b4 
+categories: [1021] 
+color: FF6F00 
+price: 6540 
+author: Ask View Shop 
+cont:  "공부방에서 쓰려고 구입했어요 후기가 염려쓰러웠지만 일단 구입 ‥물론 조금 단단하고 연하게 써지지만 교재에 설명할때도 얇게써져서 지저분하지않고 만족합니다 <br/>리필심이 따로 나오면 좋겠어요<br/>색상도 진하게 나오고 샤프형식 이라서 엄청 편하고 좋네요<br/>샤프형태라 쓰기 편하네요 일반 색연필보다 심이 뻑뻑하긴한데 채점하는데 무리는 없을 거같아요 양도 많고 마음에 들어요<br/>스테들러 쓰다가 깎아서 쓰기 귀찮아 구매했는데<br/>아이 공부 시킬때 사용 하거나 받아쓰기 채첨할때 쓰는데<br/>" 
+---
