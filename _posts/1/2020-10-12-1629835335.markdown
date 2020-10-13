@@ -9,5 +9,5 @@ categories: [1003]
 color: FF1744 
 price: 8900 
 author: Ask View Shop 
+cont:  "너무 잘 늘어나요 ㅠ<br/>딸꾹질 때문에 샀는데 잘 늘어나서 아기가 갑갑해하지 않아서 좋아요.<br/> 꽤 오래쓸것같아요.<br/><br/>모자 넘 귀여워요<br/>빨고 나니 다 늘어짐<br/>" 
 ---
- 

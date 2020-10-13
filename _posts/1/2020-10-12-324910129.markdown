@@ -9,5 +9,5 @@ categories: [1006]
 color: F361A6 
 price: 29000 
 author: Ask View Shop 
+cont:  "기모라그런가 다른바지보단 조금타이트하네요 바지는 이뻐요<br/>너무 이쁘네요.<br/><br/>다시 재구매 합니다.<br/><br/>" 
 ---
- 

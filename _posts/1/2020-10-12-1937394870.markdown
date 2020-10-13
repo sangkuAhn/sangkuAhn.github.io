@@ -9,5 +9,5 @@ categories: [1005]
 color: 03A9F4 
 price: 26900 
 author: Ask View Shop 
+cont:  "8세 여아, 키 130좀 안되고, 몸무게 25 좀 넘습니다.<br/> 사이즈도 잘맞고, 귀엽고 예뻐요.<br/><br/>바지가 엄청 편한데 옷은 좀작아서 잘안입어요<br/>예상보다 넉넉해요<br/>" 
 ---
- 

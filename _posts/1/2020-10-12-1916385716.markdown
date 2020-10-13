@@ -9,5 +9,5 @@ categories: [1013]
 color: 353535 
 price: 1900 
 author: Ask View Shop 
+cont:  "심플하고 색상도 예뻐요<br/>접착력이 약한건지 벽지에 붙혀서인지 계속 떨어지네요 펜 3개 넣었는데ㅜㅜ<br/>" 
 ---
- 

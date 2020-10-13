@@ -9,5 +9,5 @@ categories: [1002]
 color: 4CAF50 
 price: 31000 
 author: Ask View Shop 
+cont:  "바지를 입었을때 아주 편하고 고급스러워보입니다<br/>" 
 ---
- 

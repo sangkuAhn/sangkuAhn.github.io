@@ -9,5 +9,5 @@ categories: [1017]
 color: f44336 
 price: 8300 
 author: Ask View Shop 
+cont:  "깨끗하지않은 나무조각에.<br/>.<br/>그닥잉ㅅ<br/>너무하네요 10kg는커녕 5kg도안되것네요 박스에 반도 안들어있네요<br/>별로임 양도 나무질도<br/>좋아요<br/>" 
 ---
- 
