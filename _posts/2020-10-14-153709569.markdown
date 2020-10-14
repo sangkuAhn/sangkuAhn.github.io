@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "타이트엔드 후디 기모 넥워머, 그레이" 
+description: 타이트엔드 후디 기모 넥워머 ..
+date: 2020-10-14 14:37:10 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/12/31/4116540740/f6bbfad2-d47e-4187-aac4-a645e46d8a15.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=153709569&itemId=450789473&vendorItemId=4116540740&traceid=V0-113-898fc9b34bee3d41 
+categories: [1006] 
+color: 4A148C 
+price: 10350 
+author: Ask View Shop 
+---
+ 
