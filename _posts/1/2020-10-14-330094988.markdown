@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "단골언니 맥시멈 쫀쫀 핏 베이직 싸이하이 부츠" 
+description: 단골언니 맥시멈 쫀쫀 핏 베 ..
+date: 2020-10-14 14:44:22 
+img: https://static.coupangcdn.com/image/retail/images/2019/10/31/19/2/c28f942b-c089-4470-b211-e35cdd307c83.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=330094988&itemId=1055168847&vendorItemId=70908568820&traceid=V0-113-2470dd221ace22b0 
+categories: [1007] 
+color: FF6F00 
+price: 34800 
+author: Ask View Shop 
+cont:  "좋습니다<br/>좋아요<br/>" 
+---

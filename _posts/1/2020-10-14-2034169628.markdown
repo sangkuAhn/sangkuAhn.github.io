@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "디스커버리 DX 맨투맨 20/SS 가을신상(인기상품) H.S" 
+description: 디스커버리 DX 맨투맨 20 ..
+date: 2020-10-14 14:08:23 
+img: https://static.coupangcdn.com/image/vendor_inventory/9be9/31bd32a15a2069fa1cc8d866d1ffb13e379ed827f2ab3aa0b2e990f24b89.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2034169628&itemId=3459043133&vendorItemId=71750743982&traceid=V0-113-ce0d0c835ffebeb8 
+categories: [1002] 
+color: 35B62C 
+price: 24000 
+author: Ask View Shop 
+cont:  "너무 신기하네요.<br/><br/>딱이네요.<br/><br/>많던데 이옷은 물빠짐이 없어서<br/>맨투맨은 어떤건 사면 너무 펑버짐해보이고 좀 이쁜 옷은 불편한데 이 옷은 핏도 이쁘고 살짝 신축성도 있어서 아주 편안하네요.<br/> 배송도 엄청 빠르구요!!!<br/>사이즈는 정사이즈인것 같아요.<br/><br/>사이즈도 정사이즈 같고요<br/>상품을 받아봤는데 옷 재질도 좋고, 옷 마무리도 깔끔하고 너무 이쁘고 좋아요^^<br/>옷 기대이상 이쁩니다.<br/><br/>옷 배송되서 첨에 한번 빨아서<br/>옷 재질도 좋아요.<br/>지금 입기<br/>입는데 대체적으로 검은색물빠짐이<br/>잘 입겠습니다<br/>재질도 부드러워서 좋습니다<br/>조금 얇은거 말고는 마음에 듭니다<br/>" 
+---

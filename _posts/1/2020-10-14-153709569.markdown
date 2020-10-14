@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "타이트엔드 후디 기모 넥워머, 그레이" 
+description: 타이트엔드 후디 기모 넥워머 ..
+date: 2020-10-14 14:37:10 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/12/31/4116540740/f6bbfad2-d47e-4187-aac4-a645e46d8a15.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=153709569&itemId=450789473&vendorItemId=4116540740&traceid=V0-113-898fc9b34bee3d41 
+categories: [1006] 
+color: 4A148C 
+price: 10350 
+author: Ask View Shop 
+cont:  "검어서 몰랐는데  착용하다 거울보고 이게 뭐지 하고 보니<br/>겨울에 배달할때 쓴다고 샀는데<br/>길이감도 좋고 조절끈도 있어서 더 좋구요,<br/>내일 새벽조깅은 따뜻할듯<br/>따뜻하긴하네요<br/>모자는 잘안쓰게 되고 목을 따뜻하게 보호하니, 좋아요<br/>목 안쪽면이랑 모자부분 바깥쪽면이 붙어 있네요<br/>아직 밖에 쓰고나가진 않았지만<br/>왜 싸이즈도 다르고 재질도 다르고 두께도 다를까요<br/>요새 귀가 많이 시렸거든요<br/>이 글보고 판매자나 관계자가 어케 댓글을 달까 궁금하다<br/>좋긴한데 똑같은거 두개를 주문했는데<br/>진짜 유용하게 잘쓰고 다녔어요,<br/>후디보다 넥워머가 진짜 마음에 들어요<br/>" 
+---

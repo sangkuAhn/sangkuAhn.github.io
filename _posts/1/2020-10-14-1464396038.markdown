@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "공식/ FILA (공용) 휠라바리케이드엑스티 97 테이피테잎 (1BM00839_013)" 
+description: 공식/ FILA (공용) 휠 ..
+date: 2020-10-14 14:44:22 
+img: https://static.coupangcdn.com/image/vendor_inventory/7c25/230dae9a42149d542414d50e5771bf08e3443d18a0f421b2e97b83bf7a90.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1464396038&itemId=2518585330&vendorItemId=70511511807&traceid=V0-113-ccac01c7ca75d9dc 
+categories: [1007] 
+color: 353535 
+price: 39000 
+author: Ask View Shop 
+cont:  "정사이즈예요.<br/>편하고 예뻐요.<br/><br/>품질 좋음요 예상보다 이쁘고<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "릴리푸리 여아용 라떼 원피스" 
+description: 릴리푸리 여아용 라떼 원피스 ..
+date: 2020-10-14 14:22:47 
+img: https://static.coupangcdn.com/image/retail/images/2020/08/14/13/1/2bef9f13-b534-46c4-af92-68513612c362.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1960820162&itemId=3332511510&vendorItemId=71319329352&traceid=V0-113-a8dd619d9a6235cd 
+categories: [1004] 
+color: 006064 
+price: 9260 
+author: Ask View Shop 
+cont:  "가격대비 좋습니다<br/>너무이쁘네요<br/>사진하고 똑같아요  이뻐요<br/>신축성좋은 쭈리원단이라 더편하게입을수있어서좋네요<br/>" 
+---
