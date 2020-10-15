@@ -9,5 +9,5 @@ categories: [1006]
 color: 4374D9 
 price: 38000 
 author: Ask View Shop 
+cont:  "가성비 정말 좋아요<br/>원단.<br/> 디자인 기본에 충실한 제품입니디<br/>조아요<br/>" 
 ---
- 

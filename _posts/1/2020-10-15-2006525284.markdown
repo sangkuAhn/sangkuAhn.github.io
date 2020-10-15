@@ -9,5 +9,5 @@ categories: [1001]
 color: FF6F00 
 price: 14980 
 author: Ask View Shop 
+cont:  "가격만큼 하는 옷이요<br/>하지만 막 싸구려는 안같아요.<br/><br/>" 
 ---
- 

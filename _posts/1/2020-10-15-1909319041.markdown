@@ -9,5 +9,5 @@ categories: [1004]
 color: 006064 
 price: 11990 
 author: Ask View Shop 
+cont:  "색감 좋고 이쁘네요<br/>예뿌고 촉감도 좋음<br/>편하게 입기는좋은거같아요 근데 세탁을 해도 먼지가많이나오네요<br/>" 
 ---
- 
