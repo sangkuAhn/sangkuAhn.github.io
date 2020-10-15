@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "신도커머스 가정용 코팅기 AL-2700 + 코팅필름 100매, A4" 
+description: 신도커머스 가정용 코팅기 A ..
+date: 2020-10-15 16:17:56 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/03/14/4094112118/6344cfd2-6164-45a6-a7ba-6fc4325f031d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=153037634&itemId=441581315&vendorItemId=4094112118&traceid=V0-113-cbcbe9cc7d3c3a0c 
+categories: [1021] 
+color: f44336 
+price: 41900 
+author: Ask View Shop 
+---
+ 

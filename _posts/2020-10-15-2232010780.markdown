@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "닌텐도 스위치 뿌요뿌요 테트리스 2 한글판, 단일상품" 
+description: 닌텐도 스위치 뿌요뿌요 테트 ..
+date: 2020-10-15 15:41:57 
+img: https://static.coupangcdn.com/image/retail/images/2020/10/13/10/5/2ef620ad-0710-4b2d-9789-60091e1101d2.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2232010780&itemId=3808546615&vendorItemId=71793462643&traceid=V0-113-d3daf4ba792499d6 
+categories: [1016] 
+color: 5A8DF3 
+price: 46830 
+author: Ask View Shop 
+---
+ 
