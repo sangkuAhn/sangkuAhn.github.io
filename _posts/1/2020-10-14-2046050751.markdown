@@ -9,5 +9,5 @@ categories: [1007]
 color: 4374D9 
 price: 10090 
 author: Ask View Shop 
+cont:  "아직 밖에서 신어보진 않았는데 뒤꿈치쪽이 뻗뻗해서 아플거같기도해요<br/>정사이즈이고 니트소재라 발볼이 편해요.<br/><br/>" 
 ---
- 
