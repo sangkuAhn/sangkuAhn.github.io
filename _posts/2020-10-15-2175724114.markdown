@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "삼성전자 갤럭시 S20 FE, 공기계, 클라우드 네이비, 128GB" 
+description: 삼성전자 갤럭시 S20 FE ..
+date: 2020-10-16 07:42:58 
+img: https://static.coupangcdn.com/image/retail/images/2020/09/25/10/1/adb34c47-eeba-4ed5-937b-7a14cc18b594.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2175724114&itemId=3669129383&vendorItemId=71654528983&traceid=V0-113-adbd4afbf3f41fa8 
+categories: [1016] 
+color: 43A047 
+price: 899800 
+author: Ask View Shop 
+---
+ 
