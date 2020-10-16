@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "신일 EMF 전기요 SEB-H110CP, 혼합색상, 싱글" 
+description: 신일 EMF 전기요 SEB- ..
+date: 2020-10-16 15:35:45 
+img: https://static.coupangcdn.com/image/retail/images/2020/09/08/17/1/a701e4e3-e1c8-4515-bfea-469a88185852.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2076600216&itemId=3528286041&vendorItemId=71514335029&traceid=V0-113-3f648d50b7e35dbb 
+categories: [1015] 
+color: 9E9D24 
+price: 58000 
+author: Ask View Shop 
+cont:  "디자인면도 그렇고요<br/>따뜻해요  품질 좋아요<br/>신일은 선풍기로 유면한데<br/>싱글로 두개샀어요^^<br/>써보진 않았지만<br/>아이방ㅇㅔ 하나씩 하려고<br/>아직까진 다좋아요<br/>한번 사봅니다<br/>" 
+---
