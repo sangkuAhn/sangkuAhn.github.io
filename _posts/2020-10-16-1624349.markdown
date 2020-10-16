@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "마블 캡틴아메리카 코스튬" 
+description: 마블 캡틴아메리카 코스튬 ..
+date: 2020-10-16 14:16:28 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2015/12/06/3007207703/60f59d55-4827-4b15-91a4-386647832439.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1624349&itemId=5679627&vendorItemId=3007207703&traceid=V0-113-0681fbeff072aa3e 
+categories: [1003] 
+color: 006064 
+price: 42640 
+author: Ask View Shop 
+---
+ 
