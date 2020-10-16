@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "캡틴아메리카 코스튬 L" 
+description: 캡틴아메리카 코스튬 L ..
+date: 2020-10-17 06:15:38 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2015/12/06/3007207704/6c855fb9-057a-48d0-a2ab-a1caa7977b79.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1311756&itemId=5679628&vendorItemId=3007207704&traceid=V0-113-a92f64de881ec8c0 
+categories: [1003] 
+color: 006064 
+price: 42640 
+author: Ask View Shop 
+---
+ 
