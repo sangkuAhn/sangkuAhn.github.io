@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "삼성전자 갤럭시 S20 FE, 공기계, 클라우드 네이비, 128GB" 
+description: 삼성전자 갤럭시 S20 FE ..
+date: 2020-10-16 07:42:58 
+img: https://static.coupangcdn.com/image/retail/images/2020/09/25/10/1/adb34c47-eeba-4ed5-937b-7a14cc18b594.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2175724114&itemId=3669129383&vendorItemId=71654528983&traceid=V0-113-adbd4afbf3f41fa8 
+categories: [1016] 
+color: 43A047 
+price: 899800 
+author: Ask View Shop 
+cont:  "뒷면 이쁘고 좋아요<br/>만족합니다 네이비랑 민트랑 고민 많이 했는데 네이비도 예쁘지만 민트로 살걸그랬네요 다시보니 민트가 이쁨ㅋㅋ<br/>아이폰만 사용 했는데 120주사율 신세계네요<br/>아주 좋아요 원래 아이폰 사용중이었는데 적응하는데 적응 하는데 시간이 걸릴거 같지만 만족합니당 뒷면도 너무 예쁘구요ㅠㅠㅠ<br/>취향같아요 밝은거 좋아하시면 민트추천합니당<br/>커스텀스킨으로 예쁘게 꾸며봐야겠네요<br/>케이스에 필름에 각종 쿠폰에 사전예약 사은품까지 뭐 이리 주는게 많은지<br/>환경을 생각한다고 충전기도 빼는 다른 회사랑 비교 많이 되네요<br/>" 
+---

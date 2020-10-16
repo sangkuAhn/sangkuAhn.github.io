@@ -9,5 +9,5 @@ categories: [1004]
 color: 4A148C 
 price: 13900 
 author: Ask View Shop 
+cont:  "아이가 색상이쁘다고 좋아해요<br/>오버핏으로 예쁘게 입히고 있어요<br/>키 145cm에 몸무게 36,5kg<br/>" 
 ---
- 
