@@ -9,5 +9,5 @@ categories: [1007]
 color: 4374D9 
 price: 46900 
 author: Ask View Shop 
+cont:  "다들 이쁘다고하네요 깔끔하니 좋네요<br/>운동화가깔끔하고편하게보여서구매했는데 ... <br/>운동화 끈의 길이가 다르네요 이걸어찌해야될지... <br/><br/>" 
 ---
- 

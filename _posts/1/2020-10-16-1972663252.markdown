@@ -9,5 +9,5 @@ categories: [1021]
 color: 03A9F4 
 price: 7960 
 author: Ask View Shop 
+cont:  "다이☆보다 저렴하게 샀어요<br/>유치원 친구들 간식 넣어주려구요<br/>" 
 ---
- 

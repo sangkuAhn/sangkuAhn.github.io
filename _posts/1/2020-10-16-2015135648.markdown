@@ -9,5 +9,5 @@ categories: [1007]
 color: D9418C 
 price: 41000 
 author: Ask View Shop 
+cont:  "배송 빠르고 좋습니다<br/>빠른배송감사합니다<br/>" 
 ---
- 
