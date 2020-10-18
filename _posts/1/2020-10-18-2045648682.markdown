@@ -9,5 +9,5 @@ categories: [1002]
 color: 4CAF50 
 price: 39700 
 author: Ask View Shop 
+cont:  "상의가 가슴부분 어벙이 같아요<br/>어찌 이렇게 맹글어서 판매 한데요<br/>하의는 괜찮아요 그런데<br/>" 
 ---
- 
