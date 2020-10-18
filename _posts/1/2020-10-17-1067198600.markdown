@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "탑보이 빅사이즈 포켓 기모 깔깔이 패딩점퍼 (DA028)" 
+description: 탑보이 빅사이즈 포켓 기모  ..
+date: 2020-10-18 06:08:26 
+img: https://static.coupangcdn.com/image/vendor_inventory/0878/30d6cecc336c25de7adb7849164500d0cbe8b33c67cb1a56fed4bd1b562a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1067198600&itemId=2014180034&vendorItemId=70013956768&traceid=V0-113-8c28d23ba2e52596 
+categories: [1002] 
+color: f44336 
+price: 18800 
+author: Ask View Shop 
+cont:  "가격대비 저렴하고 옷의 핏도 괜찮고 잘샀습니닷^^<br/>내피색깔과  외피  아래하단쪽<br/>다만 사이즈가 좀 작은편이라고 생각되기에 참고하여 치수를 넉넉히 해서 주문하시는게 좋을것같습니당<br/>디자인이  달라요 아휴  그냥입자.<br/><br/>물론깔깔이가 내피로 입는옷이긴하지만 이런스타일의깔깔이는 저같은경우 거의 겉옷으로입기때문에 좀널널했으면좋겠거든요ㅠㅠ 암튼 잘입고있습니다 ㅎ<br/>사진과.<br/> 달라요<br/>상품의 질도 가격대비 괜찮은것 같습니다 이런가격에 이정도면뭐 충분히 좋다고생각합니다 ㅎ<br/>일단 안감이 기모이기때문에 따뜻합니다<br/>" 
+---

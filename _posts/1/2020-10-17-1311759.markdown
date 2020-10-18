@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아이언맨 코스튬 L" 
+description: 아이언맨 코스튬 L ..
+date: 2020-10-18 06:15:39 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2016/01/29/3007207701/1bf2a113-92e9-43d7-9154-439a67c7bdc6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1311759&itemId=5679637&vendorItemId=3007207701&traceid=V0-113-61bd8a64d3b516fa 
+categories: [1003] 
+color: BF360C 
+price: 50440 
+author: Ask View Shop 
+cont:  "4시간째 입고 잇어요 ㅠㅠ<br/>7세 남아 좀많이 크긴해요<br/>9세같은 7세 남아<br/>가겨은 좀  잇어도  배송도 빠르고<br/>그래도 불도 나오고 장갑 마스크있어서<br/>길이감도 맞춤처럼 좋네요<br/>딱맞네요 ㅋㅋㅋ<br/>만족합니당<br/>몸무게 33<br/>불도 잘 들어오고<br/>아들 생일선물로 줬네요<br/>아들님이 좋아해서 만족합니다 ^^<br/>아이가 정말좋아해요<br/>완전 대박<br/>이 날씨에 에어콘 빵빵틀고<br/>장갑만 좀 길어요<br/>좋아해요<br/>초2 말랐지만 키는큰편인데요<br/>키 130<br/>한번두번 접었거든용<br/>" 
+---
