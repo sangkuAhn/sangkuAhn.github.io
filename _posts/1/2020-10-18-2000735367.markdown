@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "해피프린스 니나 방울 니트 아기모자" 
+description: 해피프린스 니나 방울 니트  ..
+date: 2020-10-19 06:15:38 
+img: https://static.coupangcdn.com/image/retail/images/2020/08/21/16/4/53064f56-a9c9-4ba9-8499-ddbd44849363.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2000735367&itemId=3404569781&vendorItemId=71391181641&traceid=V0-113-86f474eb723526e2 
+categories: [1003] 
+color: A57F92 
+price: 13430 
+author: Ask View Shop 
+cont:  "세탁망에 넣어서 섬세 빨래하고 건조기에다가 섬세건조하니 하나도 안망가지고 잘 빨아지고 건조되었어요.<br/><br/>일단 너무 귀엽구요 4개월아기한텐 아직 커서 돌까지는 뭐 넉넉하게 쓰겟어요 ㅎㅎ<br/>촉감이 부드럽고 가볍고 따듯해서 아기가 편하게 쓰고있어요.<br/><br/>" 
+---
