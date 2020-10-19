@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "폴리매스:한계를 거부하는 다재다능함의 힘, 안드로메디안" 
+description: 폴리매스:한계를 거부하는 다 ..
+date: 2020-10-19 16:03:41 
+img: https://static.coupangcdn.com/image/vendor_inventory/0da0/0cfd51c617e70ac7f5123e50384f4671cd76526eeee6e24e5828a359dfdf.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2196076709&itemId=3736755396&vendorItemId=71677017857&traceid=V0-113-6c18a6a8a8553061 
+categories: [1019] 
+color: A57F92 
+price: 16920 
+author: Ask View Shop 
+cont:  "굳<br/>깨끗하게 도착<br/>" 
+---

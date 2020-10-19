@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "안녕 소중한 사람:정한경 에세이, 북로망스" 
+description: 안녕 소중한 사람:정한경 에 ..
+date: 2020-10-19 16:03:41 
+img: https://static.coupangcdn.com/image/vendor_inventory/b9fe/fe725ee3fc2d9a0d03e8eb81ef3b3dfb830ca55ae009a76bece0de03c8c8.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2149890801&itemId=3650996586&vendorItemId=71636488918&traceid=V0-113-5f63cecb5c4d5ca4 
+categories: [1019] 
+color: BD24A9 
+price: 13500 
+author: Ask View Shop 
+cont:  "광고에 이끌려 구매하게 되었는데 흥미로워욬ㅋㅋㅋㅋ<br/>내용이 주옥같아요.<br/><br/>원하던 책이여서  잘읽겠습니다<br/>읽다보면 마음이 편안해지고 힐링도되고 공감이 많이되는  내용들이 많습니다.<br/><br/>재밋게 보고있습니당<br/>" 
+---

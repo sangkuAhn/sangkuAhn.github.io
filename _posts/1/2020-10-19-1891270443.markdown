@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "사랑의 콜센타 103곡, 1USB" 
+description: 사랑의 콜센타 103곡, 1 ..
+date: 2020-10-19 16:03:41 
+img: https://static.coupangcdn.com/image/retail/images/2020/07/23/15/8/8f86cd95-2147-4feb-a1c6-a0349d587458.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1891270443&itemId=3213447961&vendorItemId=71200762618&traceid=V0-113-ee3232ae42e1f7fd 
+categories: [1019] 
+color: 5A8DF3 
+price: 20650 
+author: Ask View Shop 
+cont:  "부모님 취향저격! 좋아하심노래가더많이들은게있으면좋겠네요<br/>좋아여<br/>" 
+---

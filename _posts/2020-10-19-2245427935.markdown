@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "브람스를 좋아하세요? 1, 위즈덤하우스" 
+description: 브람스를 좋아하세요? 1,  ..
+date: 2020-10-19 16:03:41 
+img: https://static.coupangcdn.com/image/retail/images/2020/10/15/17/3/9da13ae3-0341-400e-a466-e197f8bea97e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2245427935&itemId=3837103273&vendorItemId=71821927017&traceid=V0-113-0d5e750d43590792 
+categories: [1019] 
+color: 4A148C 
+price: 16200 
+author: Ask View Shop 
+---
+ 
