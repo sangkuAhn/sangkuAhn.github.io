@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "토리버치 로빈슨 미니 크로스백" 
+description: 토리버치 로빈슨 미니 크로스 ..
+date: 2020-10-20 14:51:37 
+img: https://static.coupangcdn.com/image/vendor_inventory/0b5b/35128326c6a798a6689fb16ed5e1348d87ca6b04a535a5b034f35e9a5ffc.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2145618978&itemId=3643276441&vendorItemId=71628795276&traceid=V0-113-e66ccae192dbbc44 
+categories: [1008] 
+color: A57F92 
+price: 97000 
+author: Ask View Shop 
+cont:  "본 국의 상품은 아니지만 토리버찌니까... <br/>.<br/>가격대비 어디서나 편하게 착용할것 같아 부담없고 좋아요<br/>작은 사이즈이나 핸드폰, 차키, 카드지갑 및 휴대용 화장품류도 들어갈 수 있어 수납공간 좋고 가성비도 짱입니다.<br/> 가방도 예쁘네요 다른 사람에게도 추천입니다.<br/><br/>조금착은사이즈라서 지갑을 넣으면 다른건 못 넣어요<br/>" 
+---

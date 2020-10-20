@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "두발로 남성용 베어 카바양말 10켤레" 
+description: 두발로 남성용 베어 카바양말 ..
+date: 2020-10-20 14:51:37 
+img: https://static.coupangcdn.com/image/retail/images/2020/06/15/14/0/27698a9d-7281-4d0a-ac17-fe95896afbf6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1711554418&itemId=2912942965&vendorItemId=70901640540&traceid=V0-113-66c1754e16c3d44e 
+categories: [1008] 
+color: 1294AB 
+price: 8480 
+author: Ask View Shop 
+cont:  "가성비 대비 굿<br/>색상도 여러가지고 케릭터도 귀엽네요<br/>재질좋고 짱짱 가격도 괜찮아요.<br/><br/>" 
+---

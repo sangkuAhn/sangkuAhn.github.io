@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "선업 여성용 루트 로퍼" 
+description: 선업 여성용 루트 로퍼 ..
+date: 2020-10-20 14:44:24 
+img: https://static.coupangcdn.com/image/retail/images/2020/09/10/19/8/73bed1dc-fd66-4b07-9277-7a455d626188.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2088516288&itemId=3547602324&vendorItemId=71533542898&traceid=V0-113-e2b2913b1a03fa38 
+categories: [1007] 
+color: 43A047 
+price: 12350 
+author: Ask View Shop 
+cont:  "225인데작게나왓대서  230주문!딱맞고 스웨이드재질같고.<br/>.<br/> 발 되게 편해요^^<br/>가격도 저렴하고 전 발볼이 넓어서 발가락이 쏠려서<br/>그 외에는 진짜 편해용<br/>발 편합니다 까지는 것 없고 싼티도 안나요 ㅎ<br/>아프지만 그럼에도 불구하고 자꾸 신고 싶네요<br/>이쁩니다<br/>" 
+---

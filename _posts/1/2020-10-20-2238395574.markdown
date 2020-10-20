@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "제주창해수산 산지직송! 제주 등푸른 고등어, 10쪽, 중 (120-160g)" 
+description: 제주창해수산 산지직송! 제주 ..
+date: 2020-10-20 15:13:12 
+img: https://static.coupangcdn.com/image/vendor_inventory/2a45/a91dd1d207b2a9bd8c20bc9929264371c2f342768672df5e5e4657449e28.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2238395574&itemId=3822869437&vendorItemId=3647249438&traceid=V0-113-a4d5ff2ae0910c72 
+categories: [1012] 
+color: f44336 
+price: 19500 
+author: Ask View Shop 
+cont:  "다음에 소자로 시킬거에요<br/>많아요 두토막 으로 자르면 딱 맞는양<br/>신선하고 담백하고 약간 싱거웠어요<br/>재구매 의사있습니다<br/>제주고등어  한번먹고 고등어는 제주산만^^바삭하게 구워 먹으니 넘넘 맛있어여 하나아쉬운건 양이다먹고 또구매할께요<br/>제주산이라 믿응갑니다<br/>중자여서인지 더 싱거운느낌이였고 한끼에 1인이먹기에<br/>추석선물보내드렸는데 좋다고 하셨네요<br/>" 
+---

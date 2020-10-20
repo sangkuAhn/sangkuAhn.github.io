@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "스위티나 여성용 오버핏 후드집업" 
+description: 스위티나 여성용 오버핏 후드 ..
+date: 2020-10-20 14:01:14 
+img: https://static.coupangcdn.com/image/vendor_inventory/2f90/ccc63201718438698ab01f4302fff1855711b0168fd097194f156723ca0d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=332894670&itemId=1063342749&vendorItemId=71816526997&traceid=V0-113-0f2a870772807250 
+categories: [1001] 
+color: BD24A9 
+price: 11500 
+author: Ask View Shop 
+cont:  "밑단에는고무줄이들어있는데화면처럼넓지는않아요그래서좀답답함<br/>생각보다 따뜻해요근데 밑에부분이 밴드여서 좀조이네요<br/>좀 작게나온듯합니다<br/>" 
+---

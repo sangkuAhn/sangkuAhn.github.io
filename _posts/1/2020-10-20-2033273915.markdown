@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "로드몬스터 퍼스트 퀵디테일러, 500ml, 1개" 
+description: 로드몬스터 퍼스트 퀵디테일러 ..
+date: 2020-10-20 15:56:23 
+img: https://static.coupangcdn.com/image/retail/images/2020/08/31/11/0/f4dbf9b4-66e5-4cbc-acc7-8aa7b023e975.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2033273915&itemId=3457523596&vendorItemId=71514445501&traceid=V0-113-19e7cac29e184d95 
+categories: [1018] 
+color: A566FF 
+price: 39900 
+author: Ask View Shop 
+cont:  "9월25일 처음 사용 깔끔하네요 뿌리고 딱아내기만해도 광이 나네요.<br/><br/>끝네줍니다.<br/><br/>아주좋아요<br/>약간뿌려서확인해보았지만좋은거같아요 새차하고다시해봐야알겠<br/>어제 광택을 낸상태라 아직 사용하지는 못했지만 코팅력이 좋아보일듯 몬스터처럼... <br/>.<br/><br/>" 
+---

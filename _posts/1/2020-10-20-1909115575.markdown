@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "키스포 아동용 데일리 팬츠 2종 세트" 
+description: 키스포 아동용 데일리 팬츠  ..
+date: 2020-10-20 14:22:47 
+img: https://static.coupangcdn.com/image/retail/images/2020/07/28/17/3/635f5698-63f0-466c-b3cb-0364c224b676.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1909115575&itemId=3241614215&vendorItemId=71228805043&traceid=V0-113-cd6ca8c77379950b 
+categories: [1004] 
+color: 4CAF50 
+price: 19900 
+author: Ask View Shop 
+cont:  "7세 남아 급성장 하는 바람에 급히 주문했어요<br/>가격대비 괜찮은 옷이네요잘 입힐게요<br/>고학년이 되면 이제 스스로 편한 트레이닝복만 찾아 입을려하더라구요<br/>기장이 쪼금 긴 편입니다ㅎㅎ<br/>보통 또래보다 체격이 커서 한 치수 크게 주문 내 년까지 잘 입힐 것 같아요<br/>사이즈 맞춰본다고 입혀 봤는데, 가끌하지 않은지 아이가 편한지 잘 입고 있었어요<br/>색상 어두워 코디하기 좋고, 얇아서 활동성 많고 열 많은 아이에게 괜찮은 거 같아요<br/>세탁해서 옷장에 넣었는데 날씨 보고 입혀야겠어요<br/>아이도 입어보더니 편하다고 좋아하네요.<br/><br/>아침 저녁으로는 괜찮을 것 같습니다.<br/><br/>이제 추워질 일만 남았으니 앞으로 자주 입힐 수 있을 듯 합니다.<br/><br/>일반적인 트레이닝복 두께라서 낮에는 좀 더울 것 같아요.<br/><br/>환절기 가볍게, 따뜻하게 입을수 있을것 같아요.<br/><br/>" 
+---

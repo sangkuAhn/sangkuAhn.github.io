@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "디즈니 아동용 주니어잠옷 푸우세트" 
+description: 디즈니 아동용 주니어잠옷 푸 ..
+date: 2020-10-20 14:22:47 
+img: https://static.coupangcdn.com/image/retail/images/2020/07/28/19/6/14c7c454-d611-429f-8382-4666d79d4213.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1937394853&itemId=3288792043&vendorItemId=71275760018&traceid=V0-113-a1f37e933f4a33cf 
+categories: [1004] 
+color: FF1744 
+price: 26900 
+author: Ask View Shop 
+cont:  "19호<br/> -초등5학년 여아(146cm, 42kg)한테 넉넉해요.<br/>.<br/><br/>내년까지도 입을수 있는 크기네요 ㅎ<br/>생각보다 넉넉해요<br/>아이도 이쁘다고 좋아합니다<br/>주니어사이즈는 엄청 크군요 ㅎ 내년에도 입을 수 있을까 모르겠어요.<br/>.<br/> 예쁜데 아쉽네요<br/>" 
+---
