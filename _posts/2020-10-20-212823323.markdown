@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "에이유테크 전동스쿠터 에코로, ECORO M5, 블랙" 
+description: 에이유테크 전동스쿠터 에코로 ..
+date: 2020-10-20 15:56:23 
+img: https://static.coupangcdn.com/image/retail/images/4763957197601-f43780ee-981e-48ee-9dbf-13bc3c985b90.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=212823323&itemId=642800978&vendorItemId=4675461388&traceid=V0-113-f5df4f6c05aa4a7f 
+categories: [1018] 
+color: 4A148C 
+price: 284050 
+author: Ask View Shop 
+---
+ 
