@@ -9,5 +9,5 @@ categories: [1002]
 color: CF36BB 
 price: 29000 
 author: Ask View Shop 
+cont:  "가볍고  저렴하고  딱  맘에 넘들어요<br/>가볍고 따뜻하네요 그리고 빨리와서 좋네요<br/>굳!<br/>" 
 ---
- 

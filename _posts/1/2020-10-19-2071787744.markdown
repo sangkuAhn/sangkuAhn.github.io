@@ -9,5 +9,5 @@ categories: [1008]
 color: 4A148C 
 price: 15900 
 author: Ask View Shop 
+cont:  "배송은 좀 느려요.<br/><br/>제품은 싸고 품질도 괜찮아요<br/>" 
 ---
- 
