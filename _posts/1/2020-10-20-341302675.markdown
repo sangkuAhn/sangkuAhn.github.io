@@ -9,5 +9,5 @@ categories: [1001]
 color: 03A9F4 
 price: 14900 
 author: Ask View Shop 
+cont:  "저렴하고 색상 재질 다 마음에 듭니다<br/>좋아요<br/>촉감이 좋고 따뜻해요<br/>포근히 잘입고 다녀요<br/>" 
 ---
- 
