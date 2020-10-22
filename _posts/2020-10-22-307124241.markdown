@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "GAP 단감, 2kg(특 7~8입), 1팩" 
+description: GAP 단감, 2kg(특 7 ..
+date: 2020-10-23 07:13:17 
+img: https://static.coupangcdn.com/image/retail/images/1013186292557-58935e7b-fda1-4c78-8351-15cf4013fb70.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=307124241&itemId=968418394&vendorItemId=5375990382&traceid=V0-113-4e63128c32a4b2f9 
+categories: [1012] 
+color: f44336 
+price: 15300 
+author: Ask View Shop 
+---
+ 
