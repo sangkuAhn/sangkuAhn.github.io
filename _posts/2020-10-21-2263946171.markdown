@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "슬라임즈 7, 겜툰" 
+description: 슬라임즈 7, 겜툰 ..
+date: 2020-10-22 07:06:16 
+img: https://static.coupangcdn.com/image/retail/images/2020/10/15/11/6/ba487d88-4d5f-4d88-8f93-aa608569402a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2263946171&itemId=3880320123&vendorItemId=71864973006&traceid=V0-113-0ac95ec5ebf7dc3a 
+categories: [1011] 
+color: FF6F00 
+price: 10800 
+author: Ask View Shop 
+---
+ 
