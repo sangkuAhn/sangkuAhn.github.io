@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "플레이몰 아동용 노리터 배기 기모 팬츠" 
+description: 플레이몰 아동용 노리터 배기 ..
+date: 2020-10-23 06:30:03 
+img: https://static.coupangcdn.com/image/retail/images/2019/11/11/18/2/3384c63d-f6f5-4d36-8ec8-4a91fbf1776b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=334796493&itemId=1068469022&vendorItemId=5555460757&traceid=V0-113-72ad223fe241dc73 
+categories: [1005] 
+color: A566FF 
+price: 6840 
+author: Ask View Shop 
+cont:  "110  18kg 5살 아이, 살짝 발목 위로 올라와서  긴 양말에 신기니 예뻐요 한사이즈 크게 입어도 좋을 거 같아요<br/>부들부들하고 편해서 동생 것도 주문했어요<br/>이뻐요 만족해요<br/>편하게 입히기 좋아요 검정색 사고싶은데 품절이에요<br/>" 
+---
