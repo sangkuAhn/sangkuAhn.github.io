@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아디다스 텐저러 C 캐쥬얼화 EF1092" 
+description: 아디다스 텐저러 C 캐쥬얼화 ..
+date: 2020-10-24 14:36:59 
+img: https://static.coupangcdn.com/image/vendor_inventory/d2d5/0cdc367caacf7d42aa25cbcca639e07184970f482b553b7d2e97aca1e136.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1283873123&itemId=2293092844&vendorItemId=71653958785&traceid=V0-113-5e69dfceeaa9c4f6 
+categories: [1006] 
+color: 35B62C 
+price: 28480 
+author: Ask View Shop 
+---
+ 
