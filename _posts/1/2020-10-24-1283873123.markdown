@@ -9,5 +9,5 @@ categories: [1006]
 color: 35B62C 
 price: 28480 
 author: Ask View Shop 
+cont:  "이상없이 잘왔고 사이즈는 살짝 크긴한데 편하고 좋다고 해서 만족합니다<br/>" 
 ---
- 
