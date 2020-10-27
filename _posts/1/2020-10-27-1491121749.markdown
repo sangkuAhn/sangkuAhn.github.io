@@ -9,5 +9,5 @@ categories: [1003]
 color: A57F92 
 price: 11900 
 author: Ask View Shop 
+cont:  "쓸만한 건 34개 ... <br/> 좀 촌스러운 느낌이에요<br/>" 
 ---
- 
