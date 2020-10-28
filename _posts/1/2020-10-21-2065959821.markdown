@@ -9,5 +9,5 @@ categories: [1005]
 color: 5A8DF3 
 price: 7200 
 author: Ask View Shop 
+cont:  "디자인도 귀엽고 이정도면 괜찮은거 같아요 4호 5살 신었는데 사이즈도 좋았어요<br/>발길이 실측 15cm 32개월 아이한테 잘 맞아요!<br/>색깔도 모양도 넘 이뻐요<br/>좋아요<br/>" 
 ---
- 
