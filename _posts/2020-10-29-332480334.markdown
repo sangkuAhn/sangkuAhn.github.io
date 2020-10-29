@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "감귤농협 GAP 감귤, 3kg, 1개" 
+description: 감귤농협 GAP 감귤, 3k ..
+date: 2020-10-30 07:13:17 
+img: https://static.coupangcdn.com/image/retail/images/2019/11/07/16/4/4e78b0f3-98d3-4776-b4d6-da5d9f5e43d1.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=332480334&itemId=1062269682&vendorItemId=5541701139&traceid=V0-113-44ed2c75ca09c195 
+categories: [1012] 
+color: 4A148C 
+price: 10500 
+author: Ask View Shop 
+---
+ 

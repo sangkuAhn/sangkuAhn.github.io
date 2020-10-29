@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "핑크풋 2021 나의순간 다이어리, 퍼플" 
+description: 핑크풋 2021 나의순간 다 ..
+date: 2020-10-30 08:18:09 
+img: https://static.coupangcdn.com/image/retail/images/2020/08/26/18/4/bf47ab00-b5d8-4928-b07d-1415b3ca3bc0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2068303843&itemId=3514468007&vendorItemId=71500600239&traceid=V0-113-e1a98c62165761ac 
+categories: [1021] 
+color: 006064 
+price: 9110 
+author: Ask View Shop 
+---
+ 

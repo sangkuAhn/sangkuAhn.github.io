@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "샌디스크 울트라 M.2 NVMe 3D SSD, MCBSM9, 2TB" 
+description: 샌디스크 울트라 M.2 NV ..
+date: 2020-10-30 07:42:06 
+img: https://static.coupangcdn.com/image/retail/images/2020/10/20/9/7/b3e3ac7e-7802-48b9-baeb-de810670be53.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2278946847&itemId=3913070173&vendorItemId=71897624313&traceid=V0-113-56616ee2a6f1de94 
+categories: [1016] 
+color: CF36BB 
+price: 308000 
+author: Ask View Shop 
+---
+ 
