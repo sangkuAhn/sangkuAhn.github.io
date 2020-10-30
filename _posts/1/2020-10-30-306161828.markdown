@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코디아이 아동용 아미 수면롱조끼" 
+description: 코디아이 아동용 아미 수면롱 ..
+date: 2020-10-30 14:30:04 
+img: https://static.coupangcdn.com/image/retail/images/2019/09/20/20/8/6a049bb2-7553-4f80-b600-56399b5de7c2.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=306161828&itemId=965336622&vendorItemId=5369816612&traceid=V0-113-1badeacbe574a51b 
+categories: [1005] 
+color: 9E9D24 
+price: 13900 
+author: Ask View Shop 
+cont:  "너무좋아해여<br/>너무좋은 옷이에여<br/>넘이쁘구 잘샀어여<br/>딱 좋네요! 조끼까지 입음 한겨울도 거뜬할것 같아요<br/>사이즈 한치수 크게 주문했더니 낙낙하이 딱 좋네요<br/>새벽엔 추워서 잠옷 고르던 중에 눈에 딱 들어왔어요<br/>아이도 오자마자 입어보고 좋아하네요<br/>옷을 들고 이리재보고 저리 보고<br/>우리아이가  포장뜯자마자<br/>이불 안덥어서  잘때마다 신경 쓰였는데 이제 안심입니다<br/>재질도 좋고 잘때 잘 입고 잡니다<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "유아용 슈슈 수면롱조끼" 
+description: 유아용 슈슈 수면롱조끼 ..
+date: 2020-10-30 14:22:51 
+img: https://static.coupangcdn.com/image/retail/images/2019/09/20/14/4/6e744805-cfdf-4908-9465-0e275a715427.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=307764124&itemId=970410946&vendorItemId=5379551168&traceid=V0-113-fb425428bf4fc991 
+categories: [1004] 
+color: BF360C 
+price: 14900 
+author: Ask View Shop 
+cont:  "110이 없어서 120 구매 했는데 한참 입을수 있겠어요<br/>28개월 12키로 남아입니다<br/>더무 두꺼워서 처음엔 못입다가 요즘 잘입고있어요 덕분에 이불안덮는 딸 감기도 안걸리고 좋으네요<br/>디자인은 너무너무 귀엽구요^^<br/>아이가 입으니 귀여워요<br/>오래 입히려고 사이즈업해서 구매했어요<br/>재입고되길 엄청 기다렸어요<br/>평소 100정도 입어요<br/>한겨울에도 끄덕없을듯한 두툼함이네요<br/>" 
+---

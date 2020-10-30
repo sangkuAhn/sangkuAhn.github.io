@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "피앤비유니티/ 할로윈로얄세트1, 피앤비유니티" 
+description: 피앤비유니티/ 할로윈로얄세트 ..
+date: 2020-10-30 16:18:10 
+img: https://static.coupangcdn.com/image/vendor_inventory/343f/a62c69072f6909d74b135f273718d4aa952ee8632b64e28e8fd803bb2e56.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2193435067&itemId=3731796871&vendorItemId=71716992201&traceid=V0-113-936f64d184ef2c68 
+categories: [1021] 
+color: 35B62C 
+price: 14900 
+author: Ask View Shop 
+cont:  "배송도빠르고 할로윈 구성도 귀엽고 예쁘네요<br/>손펌프서비스도 감사합니다<br/>아이들과하기 힘들었네요괜찮아요풍선끼우는방법을잘몰라서해맺어요<br/>유치원행사로 잘 씁니다<br/>할로윈 분위기에 맞게 너무 예쁘게 꾸밀 수 있었어요같이 보내주신 풍선바람 넣는 것도 잘사용했구요 하지만 해피글자풍선중에 p주황색 글씨가 잘려서와서ㅠ 해피는 못붙였지만 아이는 너무 좋아하더라구요 힘드시겠지만 한번 더 꼼꼼히 검수해서 보내주셔요♡<br/>" 
+---
