@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "점보 단감, 1.5kg(5~7입), 1박스" 
+description: 점보 단감, 1.5kg(5~ ..
+date: 2020-10-30 07:13:17 
+img: https://static.coupangcdn.com/image/retail/images/120538797709001-66e05505-f843-40d1-98a2-5ae2fe4f5a36.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2070785154&itemId=3518473166&vendorItemId=71504575833&traceid=V0-113-c966052ec1f0933a 
+categories: [1012] 
+color: 35B62C 
+price: 8900 
+author: Ask View Shop 
+cont:  "감이 크고  품질도 좋은데  그중 하나가  연시처럼<br/>단단 원하시면 이제는 구입시기가 아닌듯.<br/>.<br/><br/>더 익어서.<br/>.<br/><br/>이름처럼 점보는 아니예요<br/>이번이 세박스째인데도 앞의 두번과 다르게 이제는 딱딱,단단하지 않아요.<br/><br/>익어있어서 손으로 꺼내려는데 으깨지면서  단물이  흘러서 당황스러웠어요 고의라고 생각하지 않지만  잘 살펴서 보내주시면 감사하겠습니다<br/>하지만 식감은아삭 하네요<br/>" 
+---

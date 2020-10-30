@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "핑크풋 2021 나의순간 다이어리, 퍼플" 
+description: 핑크풋 2021 나의순간 다 ..
+date: 2020-10-30 08:18:09 
+img: https://static.coupangcdn.com/image/retail/images/2020/08/26/18/4/bf47ab00-b5d8-4928-b07d-1415b3ca3bc0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2068303843&itemId=3514468007&vendorItemId=71500600239&traceid=V0-113-e1a98c62165761ac 
+categories: [1021] 
+color: 006064 
+price: 9110 
+author: Ask View Shop 
+cont:  "21년꺼는 하드커버지로 바껴서 더 좋네요^^<br/>가격도 저렴하고 넘 좋아요<br/>그림이 너무 귀엽고 아기자기 이뻐요<br/>내년 다이어리 쓸 때마다 기분이 좋을 것 같아요<br/>매년 11월쯤 다음해 다이어리 구입하는데 올해는 조금 일찍 준비합니다<br/>올해 사서 쓰고 넘 맘에 들어서 내년꺼도 또 샀네요^^<br/>올해에도 같은 상품을 사용하고 내년에도 쭉 사용하려구요<br/>월 페이지 다음 주별 일일마다 기록할 수 있는 칸이 일기 쓰기 딱 좋아요<br/>일러스트 비슷하구요 가름띠있어서 더 좋네요<br/>잘 쓰겠습니다^^<br/>직접 받아서 보니 색깔도 더 귀엽고 안에 속지의 글씨체, 그림들도 너무너무 귀여워요ㅎㅎ<br/>표지에 눈나내꺼야 뽀인뜨!<br/>핑크는2021년 네이비는 2020년 버전입니다<br/>핑크했는데 들고다니다보면 더러워질듯요<br/>하드커버로 올해버전보다 좋아요 가격은 조금 더 비싸졌네요<br/>" 
+---

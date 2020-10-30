@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "나이키 에어 맥스 VG R 운동화 CK7583-002" 
+description: 나이키 에어 맥스 VG R  ..
+date: 2020-10-30 06:44:26 
+img: https://static.coupangcdn.com/image/retail/images/261652760337932-2265a6b9-b094-4e0a-92ca-aa3529f2b756.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1977894663&itemId=3364505519&vendorItemId=71351233698&traceid=V0-113-ad7cf2f7a568bdaa 
+categories: [1007] 
+color: A6A6A6 
+price: 68540 
+author: Ask View Shop 
+cont:  "배송도만족하고신발도맘에듭니다<br/>이쁘고 마음에 쏙 들어요.<br/> 한치수 크게 주문했는데 딱 맞아요.<br/>조금 작게 나온듯 싶네요<br/>" 
+---
