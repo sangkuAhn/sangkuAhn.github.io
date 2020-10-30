@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "유토피아, 현대지성" 
+description: 유토피아, 현대지성 ..
+date: 2020-10-30 16:03:47 
+img: https://static.coupangcdn.com/image/retail/images/2020/10/26/20/3/d000f3a4-3eeb-4e4a-85fb-e8f3b7237d60.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2300859159&itemId=3963597540&vendorItemId=71947988734&traceid=V0-113-3b34be1eebb2d5fa 
+categories: [1019] 
+color: 4374D9 
+price: 10350 
+author: Ask View Shop 
+---
+ 

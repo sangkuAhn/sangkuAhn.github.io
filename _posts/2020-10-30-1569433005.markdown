@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "꿀밤고구마, 10kg, 1박스" 
+description: 꿀밤고구마, 10kg, 1박 ..
+date: 2020-10-30 15:13:20 
+img: https://static.coupangcdn.com/image/retail/images/2020/05/11/18/3/5d8511ae-4b3b-4577-ba87-846de5058e5d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1569433005&itemId=2683698609&vendorItemId=70674204436&traceid=V0-113-e4ee579524fc20c9 
+categories: [1012] 
+color: f44336 
+price: 59900 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "반스 올드스쿨 VN000D3HY28" 
+description: 반스 올드스쿨 VN000D3 ..
+date: 2020-10-30 14:44:31 
+img: https://static.coupangcdn.com/image/vendor_inventory/f417/f47125a932a560d509c1a9ee43d5a29295fb34b74ae57bf035212f5c2e6d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1635065145&itemId=2788696000&vendorItemId=71899100732&traceid=V0-113-64977412c20b1e57 
+categories: [1007] 
+color: FF1744 
+price: 39300 
+author: Ask View Shop 
+---
+ 
