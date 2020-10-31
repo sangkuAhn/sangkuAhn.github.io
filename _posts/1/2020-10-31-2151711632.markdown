@@ -9,5 +9,5 @@ categories: [1007]
 color: 03A9F4 
 price: 47300 
 author: Ask View Shop 
+cont:  "엄청편해여 정사이즈<br/>" 
 ---
- 

@@ -9,5 +9,5 @@ categories: [1004]
 color: BD24A9 
 price: 13900 
 author: Ask View Shop 
+cont:  "117쎈티20키로 잘 맞아요<br/>사이즈는 정사즈인거같구, 너무너무 이쁘네요<br/>생각보다 훨 이쁜데 좀 작게나온듯요<br/>한 105 정도? ㅎㅎ<br/>" 
 ---
- 

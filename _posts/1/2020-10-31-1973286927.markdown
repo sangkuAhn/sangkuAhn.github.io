@@ -9,5 +9,5 @@ categories: [1005]
 color: FF1744 
 price: 13900 
 author: Ask View Shop 
+cont:  "진즉 살껄 후회요.<br/> 너무 귀여워요.<br/> 지금 입기엔 좋은데 더 추워지면 내복 입혀야할꺼 같아요<br/>" 
 ---
- 
