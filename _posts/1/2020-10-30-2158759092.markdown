@@ -9,5 +9,5 @@ categories: [1001]
 color: 4A148C 
 price: 10900 
 author: Ask View Shop 
+cont:  "가을 분워기 좋아요<br/>맘에들어요  편하게 입을것같아요<br/>이쁩니다! 다만 사진보다 하늘색 부분이 남색에 가깝습니다.<br/> 그래도 가을에 입기 좋아보아요!<br/>" 
 ---
- 
