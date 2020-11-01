@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "비비안 소프트 타이즈 80D 5p" 
+description: 비비안 소프트 타이즈 80D ..
+date: 2020-11-02 06:51:37 
+img: https://static.coupangcdn.com/image/retail/images/2019/10/14/15/8/0e90bf30-4cdb-41af-b13f-4e6778b5fc33.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1343363418&itemId=2370781703&vendorItemId=5457985259&traceid=V0-113-9bc83107fb17fc58 
+categories: [1008] 
+color: BF360C 
+price: 16500 
+author: Ask View Shop 
+---
+ 
