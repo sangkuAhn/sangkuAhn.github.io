@@ -9,5 +9,5 @@ categories: [1001]
 color: 1294AB 
 price: 13900 
 author: Ask View Shop 
+cont:  "가격에 비해 옷감도 좋아요<br/>따뜻하고 좋아요<br/>블랙  산다는거  아이조리로  주문했네요<br/>사진이랑 똑같아요 .<br/>.<br/> 넘 이뻐요<br/>아이보리도  이뻐요<br/>" 
 ---
- 

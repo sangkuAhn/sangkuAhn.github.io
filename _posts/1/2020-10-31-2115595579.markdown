@@ -9,5 +9,5 @@ categories: [1001]
 color: 353535 
 price: 7420 
 author: Ask View Shop 
+cont:  "너무좋네요<br/>목이 답답하지 않고 안에 받쳐 입기에 얇아서 좋아요<br/>몸에 감기는 기분 좋음<br/>뱃살 심하게 나와보이지 않아 좋음<br/>하나만은 추울거 같고요<br/>" 
 ---
- 
