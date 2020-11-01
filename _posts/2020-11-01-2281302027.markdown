@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "청춘기록 1 : 하명희 대본집, 알에이치코리아" 
+description: 청춘기록 1 : 하명희 대본 ..
+date: 2020-11-01 16:03:39 
+img: https://static.coupangcdn.com/image/retail/images/2020/10/22/13/4/8cc40bad-aebe-47b9-87e2-4f931027daa0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2281302027&itemId=3917960197&vendorItemId=71902498255&traceid=V0-113-7f0f35734373627f 
+categories: [1019] 
+color: 9E9D24 
+price: 15300 
+author: Ask View Shop 
+---
+ 

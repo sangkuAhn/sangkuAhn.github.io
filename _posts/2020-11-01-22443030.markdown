@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코리아보드게임즈 척척논리성, 혼합 색상" 
+description: 코리아보드게임즈 척척논리성, ..
+date: 2020-11-01 16:10:50 
+img: https://static.coupangcdn.com/image/retail/images/2017/05/22/16/0/acff55b7-c79f-4dcd-982b-638eda93925b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=22443030&itemId=87133974&vendorItemId=3148524557&traceid=V0-113-72be5dfa8e7155e9 
+categories: [1020] 
+color: 006064 
+price: 36700 
+author: Ask View Shop 
+---
+ 

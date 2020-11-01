@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코멧 캔들 라지자, 블랙체리, 1개" 
+description: 코멧 캔들 라지자, 블랙체리 ..
+date: 2020-11-01 15:27:40 
+img: https://static.coupangcdn.com/image/retail/images/1222287955296287-fe9b2d86-97ce-454e-9c9b-9e84f71f41d7.JPG 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1898819346&itemId=3225528142&vendorItemId=71212774622&traceid=V0-113-6f7e67592076e519 
+categories: [1014] 
+color: 4A148C 
+price: 8920 
+author: Ask View Shop 
+---
+ 
