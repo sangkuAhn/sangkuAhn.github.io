@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "블루포스 텔링스 맨투맨 빅사이즈 커플 긴팔티셔츠" 
+description: 블루포스 텔링스 맨투맨 빅사 ..
+date: 2020-11-01 14:08:26 
+img: https://static.coupangcdn.com/image/retail/images/350653546674471-62673d15-8798-49b2-8f64-8db7bf0757ed.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=276939654&itemId=877234470&vendorItemId=5213477717&traceid=V0-113-e8ab3b609e2fa2f1 
+categories: [1002] 
+color: 353535 
+price: 23700 
+author: Ask View Shop 
+cont:  "상품 맘에 들어요 디자인도 사진과 같고 바느질마감도 좋고<br/>암튼 편한 루즈핏으로 좋네요.<br/><br/>일단 입었을때 편안하고 착용감이 좋네요 배송도 빠르구요<br/>작은것 보다 루즈핏으로 입는게 나을듯해서.<br/>.<br/><br/>중딩 아들 사줬습니다.<br/> 무난하게 잘 어울립니다.<br/> 예뻐요<br/>평소 105를 입는데 블루포스는 다소 작게 나오는것 같아서 항치수 크게 주문했어요.<br/><br/>" 
+---
