@@ -9,5 +9,5 @@ categories: [1006]
 color: 43A047 
 price: 19800 
 author: Ask View Shop 
+cont:  "귀마게는 편하고 좋아요<br/>두깨도 적당하고 찬바람을 잘 막아줄거 같네요.<br/><br/>따뜻하니 좋아요<br/>예쁘고 편하고 촉감이 좋아요<br/>" 
 ---
- 

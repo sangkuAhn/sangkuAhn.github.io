@@ -9,5 +9,5 @@ categories: [1003]
 color: BD24A9 
 price: 15900 
 author: Ask View Shop 
+cont:  "예쁘게 잘 맞아서 다른색도 시키고 싶은데 없네요<br/>옷도 부드럽고 막 빨아도 전혀 변형이 없어요.<br/><br/>요거요거 정말 귀여워요.<br/><br/>" 
 ---
- 
