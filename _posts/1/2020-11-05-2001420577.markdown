@@ -9,5 +9,5 @@ categories: [1005]
 color: D9418C 
 price: 19850 
 author: Ask View Shop 
+cont:  "좋아요 너무너무너무너무너무너무너무<br/>천도 두껍고 튼튼해요<br/>퀄리티 좋아요내피도 있어 빨아 쓰면 되겠어요<br/>" 
 ---
- 
