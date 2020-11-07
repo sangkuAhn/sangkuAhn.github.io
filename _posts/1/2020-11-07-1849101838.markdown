@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "스케쳐스 키즈 셔플 라이트 스니커즈 SK0GL20Y031" 
+description: 스케쳐스 키즈 셔플 라이트  ..
+date: 2020-11-07 14:22:51 
+img: https://static.coupangcdn.com/image/retail/images/2020/07/17/10/9/48f913e7-560f-4576-8c5d-23e17fc486cc.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1849101838&itemId=3143158873&vendorItemId=71108979931&traceid=V0-113-937715060143c8d0 
+categories: [1004] 
+color: 1294AB 
+price: 35400 
+author: Ask View Shop 
+cont:  "6세생일 선물하니 좋아합니다<br/>얘기 엄청 좋아해요 신발이 예쁘고 맘에 들어요.<br/><br/>" 
+---

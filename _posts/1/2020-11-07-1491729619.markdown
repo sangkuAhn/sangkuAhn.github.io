@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "슈펜 콤비 어글리 운동화 WM" 
+description: 슈펜 콤비 어글리 운동화 W ..
+date: 2020-11-07 14:44:27 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/09/10/2/e4d19e31-7087-4d59-9108-e945b088e0f9.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1491729619&itemId=2560773304&vendorItemId=70353735375&traceid=V0-113-a42127474dbb92a8 
+categories: [1007] 
+color: A566FF 
+price: 20900 
+author: Ask View Shop 
+cont:  "나쁘진않아요 이가격에<br/>신발 좋네요 가성비로는 역시 슈펜인둣<br/>신발이 크네요 평소245신는데 250 으로 주문했더니 260같아요<br/>싸서 만족합니다! 이쁘구요.<br/>.<br/> 이가격에 너무 좋네요<br/>아직 많이 안신어봤지만<br/>정사이즈 같구요 신으면 더 이쁜거 같아요.<br/><br/>" 
+---

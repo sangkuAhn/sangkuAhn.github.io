@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "롯데제과 하트빼빼로 24갑, 1개, 936g" 
+description: 롯데제과 하트빼빼로 24갑, ..
+date: 2020-11-07 15:13:15 
+img: https://static.coupangcdn.com/image/vendor_inventory/3851/f075e4ab78a11490b990db1a61e342201405d9cbba51bfe2cca1ffc30579.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2237240621&itemId=3820365822&vendorItemId=5539895136&traceid=V0-113-a1454cc817e66a7d 
+categories: [1012] 
+color: CF36BB 
+price: 23900 
+author: Ask View Shop 
+cont:  "가족들 재미로 빼빼로 구입했어요 ㅋㅋ<br/>선물 들고 친구들도 나눠준다고 들고 나갔네요  ㅎ  손잡에 달려있어서 좋네요<br/>아들 주려고 주문했어요 초딩아들 받고서 엄천 신나 날뛰었습니다  ㅎ<br/>하트 모양의 상자가 특히 재미있네요<br/>하트모양 이쁘네요 맛은 다알죠 맛있어요<br/>" 
+---

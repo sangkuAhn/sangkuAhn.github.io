@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "채니봉봉 더치 핑크 헤어핀세트" 
+description: 채니봉봉 더치 핑크 헤어핀세 ..
+date: 2020-11-07 14:15:39 
+img: https://static.coupangcdn.com/image/retail/images/2019/11/01/17/1/07fd4c43-09bc-454e-8daf-8eafdd6bf12c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=331083337&itemId=1057939549&vendorItemId=5532672049&traceid=V0-113-4ef84651a0c9bf22 
+categories: [1003] 
+color: BD24A9 
+price: 9500 
+author: Ask View Shop 
+cont:  "가성비가 좋아요<br/>교환하기 귀찮아서 그냥 사용합니다<br/>구성이 많고 값싸서 자주 애용하는데<br/>부실해서 잘 망가지는게 단점이에요<br/>분실하고 망가져도 가격이 싸서 괜찮은것 같아요<br/>사진이랑 삔이랑 색깔 차이가 너무 심하네요... <br/>^^;<br/>이뻐요애들도 좋아하고 매일 바꿔서 하고 어린이집 보내니 좋아하네요<br/>하지만 매대에서 사면 삔하나당 45천원인거 감안하면<br/>" 
+---

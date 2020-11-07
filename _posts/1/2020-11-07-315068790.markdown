@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "이라인 남아용 천사날개 수면 잠옷" 
+description: 이라인 남아용 천사날개 수면 ..
+date: 2020-11-07 14:30:03 
+img: https://static.coupangcdn.com/image/retail/images/2019/10/10/14/3/c3d29172-8fa5-4448-aff0-aea0abae6ff9.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=315068790&itemId=1001195984&vendorItemId=5429901712&traceid=V0-113-e49d9e13bd582c43 
+categories: [1005] 
+color: 006064 
+price: 14900 
+author: Ask View Shop 
+cont:  "6살 아들한테 여유있게 잘 맞네요 ^^<br/>남아 초등 5학년 85호 여아 초등3학년 80호 딱 이쁘게 입히겠어요.<br/> 조금 커서 다음 겨울에도 입은수 있을 듯 합니다.<br/> 남아는 키 145 몸무게는 평균이고 여아는 키 126 살짝 통통해요<br/>부들부들 촉감 너무 좋아요<br/>올 겨울 따뜻하게 입힐게요<br/>초5학년 남아에게 클까봐 걱정했는데 넉넉하게 잘 맞아요.<br/><br/>" 
+---
