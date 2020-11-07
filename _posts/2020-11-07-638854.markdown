@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "샤바스/ 족욕기 세트, 단일 상품, 핑크" 
+description: 샤바스/ 족욕기 세트, 단일 ..
+date: 2020-11-07 15:34:56 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2015/09/22/3002240674/94021f73-d8e3-450b-b963-2c958e5d5109.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=638854&itemId=2247435&vendorItemId=4404573192&traceid=V0-113-1a504fd9d89ae7a4 
+categories: [1015] 
+color: A57F92 
+price: 9900 
+author: Ask View Shop 
+---
+ 

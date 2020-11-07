@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "비비고 설렁탕, 300g, 6개" 
+description: 비비고 설렁탕, 300g,  ..
+date: 2020-11-07 15:13:15 
+img: https://static.coupangcdn.com/image/retail/images/154462792622955-e0c5fae1-7fb9-44fc-aa89-1f7ed039f03d.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2264167496&itemId=3880648966&vendorItemId=71865299962&traceid=V0-113-31f7d0876f6ed2d8 
+categories: [1012] 
+color: FF1744 
+price: 18900 
+author: Ask View Shop 
+---
+ 

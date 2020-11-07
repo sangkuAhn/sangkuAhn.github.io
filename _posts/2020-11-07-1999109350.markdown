@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "대구농산 2020년 더담은 우리쌀, 20kg, 1개" 
+description: 대구농산 2020년 더담은  ..
+date: 2020-11-07 15:13:15 
+img: https://static.coupangcdn.com/image/retail/images/9474261411434-325021a5-3672-4c33-bd6f-000e431b9fb3.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1999109350&itemId=3313458764&vendorItemId=71300348731&traceid=V0-113-f73947ee1722ee29 
+categories: [1012] 
+color: A566FF 
+price: 51900 
+author: Ask View Shop 
+---
+ 

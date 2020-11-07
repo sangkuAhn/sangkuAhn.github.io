@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "페어프랜즈 자동 거품기 2p, 단일상품" 
+description: 페어프랜즈 자동 거품기 2p ..
+date: 2020-11-07 15:20:29 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2016/07/18/3000396680/9a1512c7-7415-4e69-bb22-9bacc6dbcb92.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1578803179&itemId=2699475104&vendorItemId=70689855028&traceid=V0-113-545b8b4a9ca35a35 
+categories: [1013] 
+color: 353535 
+price: 7000 
+author: Ask View Shop 
+---
+ 
