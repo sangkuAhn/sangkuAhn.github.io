@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아가방 NC엑스코점 겨울 신상!! 7900원 초특가!! 완전 강추!! 귀여운 도트곰 내의" 
+description: 아가방 NC엑스코점 겨울 신 ..
+date: 2020-11-08 06:15:35 
+img: https://static.coupangcdn.com/image/vendor_inventory/8e1f/c731d67af315da156bf0f89225fff5a7a47a7bd59118026750291e7355fd.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1967945879&itemId=3346477366&vendorItemId=71333260079&traceid=V0-113-62af46d0cb82bd07 
+categories: [1003] 
+color: BF360C 
+price: 7900 
+author: Ask View Shop 
+cont:  "재질은 보드랍고 좋은데 신축성이 별로예요<br/>" 
+---

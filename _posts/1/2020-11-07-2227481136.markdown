@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "크록스 공용 CLASSIC LINED CLOG WGY (20FUCL203591)" 
+description: 크록스 공용 CLASSIC  ..
+date: 2020-11-08 06:44:22 
+img: https://static.coupangcdn.com/image/vendor_inventory/53c0/284834c2c860dda303ea6f77101c4bed2fa72b44060b313687cd1061b6d4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2227481136&itemId=3799633741&vendorItemId=71784616064&traceid=V0-113-befd4d89fa0a9b81 
+categories: [1007] 
+color: 9E9D24 
+price: 38900 
+author: Ask View Shop 
+cont:  "일반 크록스사이즈보다 한치수 크게사야함<br/>" 
+---
