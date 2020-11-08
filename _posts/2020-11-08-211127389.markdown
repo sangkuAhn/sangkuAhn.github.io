@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "제이라인 삭스 스니커즈 JLSOCK1001" 
+description: 제이라인 삭스 스니커즈 JL ..
+date: 2020-11-08 14:44:29 
+img: https://static.coupangcdn.com/image/retail/images/213182390371960-244924fa-a1b3-4614-a3fe-3ccc6233b0d5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=211127389&itemId=631887039&vendorItemId=4654088955&traceid=V0-113-8fe5ccf942a8a939 
+categories: [1007] 
+color: A566FF 
+price: 14210 
+author: Ask View Shop 
+---
+ 
