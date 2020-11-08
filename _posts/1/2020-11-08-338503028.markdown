@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "더스텝리미티드 뽀글이 실내화" 
+description: 더스텝리미티드 뽀글이 실내화 ..
+date: 2020-11-08 14:44:29 
+img: https://static.coupangcdn.com/image/retail/images/2019/11/13/19/2/b939a227-2448-4663-bc44-5b77135b069d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=338503028&itemId=1078686772&vendorItemId=5577668778&traceid=V0-113-66c2c0fe6724dca8 
+categories: [1007] 
+color: A57F92 
+price: 12500 
+author: Ask View Shop 
+cont:  "걍 눈치안보는 곳에서 편하게 신는 용도로 좋아요<br/>굳이 실내에서만 안쓰고<br/>때도 잘타고<br/>발은 따뜻할 것 같습니다.<br/><br/>보라색이 더 예뻤음<br/>사무실에서 신으려고 산 건데 사무실 바닥은 일반바닥에 왁스칠한? 뭐 그런 데거든요.<br/><br/>사이즈 넉넉하고 괜찮아요.<br/> 근데 미끄럼방지가 될지 모르겠어요.<br/><br/>사진으론 흰색이 예뻤으나<br/>슬리퍼처럼 편하게 신는데 따뜻하고 좋았어요<br/>실제로 신어보면 안예쁨<br/>추운겨울에 이거 신고 집앞 홈플러스 장보러 갔다오고 그랬네요ㅋㅋ<br/>" 
+---
