@@ -9,5 +9,5 @@ categories: [1003]
 color: 353535 
 price: 9900 
 author: Ask View Shop 
+cont:  "다른색상도 구매해야겠어여!<br/>안감 기모도 따땃.<br/><br/>애기입히면 짱짱하고 편하게 너무 이뻐여<br/>재질 완전 좋아요.<br/><br/>짱짱하고,보드라운데 두툼하고 진짜 좋네요<br/>" 
 ---
- 
