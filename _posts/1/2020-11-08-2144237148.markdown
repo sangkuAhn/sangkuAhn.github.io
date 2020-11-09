@@ -9,5 +9,5 @@ categories: [1019]
 color: A6A6A6 
 price: 8820 
 author: Ask View Shop 
+cont:  "가성비과 배송이빨라요한눈에 알아볼수있게 잘되있었어요<br/>벌써 4년 째 구매 합니다<br/>쓰기편해요<br/>올해꺼사용해보고구성이좋아내년꺼도사용하러구요.<br/><br/>" 
 ---
- 

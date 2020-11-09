@@ -9,5 +9,5 @@ categories: [1003]
 color: A566FF 
 price: 5000 
 author: Ask View Shop 
+cont:  "상의 80.<br/>하의 75요<br/>상하사이즈 다르게왓어요.<br/><br/>어찌해야되나요?세탁후 발견햇네요<br/>" 
 ---
- 

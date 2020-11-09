@@ -9,5 +9,5 @@ categories: [1021]
 color: A566FF 
 price: 5140 
 author: Ask View Shop 
+cont:  "음력이 기재되어 잇어서  좋음요<br/>조금 찌끄러져있지만 신경 쓰일 정도는 아님.<br/><br/>크기도 적당함<br/>" 
 ---
- 

@@ -9,5 +9,5 @@ categories: [1006]
 color: 9E9D24 
 price: 189900 
 author: Ask View Shop 
+cont:  "상품은 좋네요 포장이 허술해서 별 하나 뺐어요.<br/><br/>잘입을께요... <br/>.<br/><br/>" 
 ---
- 

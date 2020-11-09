@@ -9,5 +9,5 @@ categories: [1003]
 color: CF36BB 
 price: 21800 
 author: Ask View Shop 
+cont:  "울 애 너무 딱 맞아서 양말 신고 신으면 작아요<br/>털신이라 그런지 한사이즈 업해야해요<br/>" 
 ---
- 

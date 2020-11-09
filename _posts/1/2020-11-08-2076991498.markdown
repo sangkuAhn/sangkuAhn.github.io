@@ -9,5 +9,5 @@ categories: [1001]
 color: 5A8DF3 
 price: 11900 
 author: Ask View Shop 
+cont:  "잘받았습니다딱좋아요♡♡쫌더기모가풍성했으면좋았을껄<br/>제가추위를타서요<br/>좋아요<br/>" 
 ---
- 
