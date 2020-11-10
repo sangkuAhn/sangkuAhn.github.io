@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "루솔이 만든 순수한 배도라지즙, 110ml, 30포" 
+description: 루솔이 만든 순수한 배도라지 ..
+date: 2020-11-10 16:25:01 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/01/29/3046313891/40d988aa-7950-4028-a7d1-453d34443b06.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7039524&itemId=31204322&vendorItemId=3046313891&traceid=V0-113-77cc706118f61f95 
+categories: [1024] 
+color: 006064 
+price: 22010 
+author: Ask View Shop 
+---
+ 

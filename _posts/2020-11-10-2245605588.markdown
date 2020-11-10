@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "시프이컴 석영관 전기 히터, CIF-FH03W, 단일색상" 
+description: 시프이컴 석영관 전기 히터, ..
+date: 2020-11-10 15:41:48 
+img: https://static.coupangcdn.com/image/retail/images/247258321327689-60d9f538-2dc3-4849-b6bb-b73bd75b3abc.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2245605588&itemId=3837344112&vendorItemId=71822165383&traceid=V0-113-b3d286b82b9b133f 
+categories: [1016] 
+color: F15F5F 
+price: 11900 
+author: Ask View Shop 
+---
+ 

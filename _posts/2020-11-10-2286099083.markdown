@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "나의 하루는 4시 30분에 시작된다, 토네이도" 
+description: 나의 하루는 4시 30분에  ..
+date: 2020-11-10 16:03:25 
+img: https://static.coupangcdn.com/image/retail/images/2020/10/12/18/5/6adeeaf6-4790-46ad-b1bf-01d60a565da8.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2286099083&itemId=3929576957&vendorItemId=71914087377&traceid=V0-113-8954c6c16a951484 
+categories: [1019] 
+color: F361A6 
+price: 13500 
+author: Ask View Shop 
+---
+ 
