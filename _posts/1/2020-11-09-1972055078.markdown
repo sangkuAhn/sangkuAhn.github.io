@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "스텔라 삭스 스판 앵클 부츠 4.5cm CK_V9" 
+description: 스텔라 삭스 스판 앵클 부츠 ..
+date: 2020-11-09 14:44:16 
+img: https://static.coupangcdn.com/image/retail/images/2020/08/25/9/8/1dda9458-2ee8-45c2-84d2-ce1e696bbb07.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1972055078&itemId=3354376694&vendorItemId=71396889775&traceid=V0-113-936ef9f10c598269 
+categories: [1007] 
+color: 4374D9 
+price: 21900 
+author: Ask View Shop 
+cont:  "기대이상으로 편안하고 좋아요<br/>발에 물집 잡혔어요ㅠ 발도 아프고 불편하네요 다시는 안 신을듯ㅠ<br/>정사이즈 딱 맞고 굽이 생각보다 높은데도 발이 편해서 가을 겨울 신발로 짱입니다.<br/> 특히 발목까지 감싸주는 싹스슈즈라 발목에 따뜻해요.<br/> 단점 하나는 정 사이즈로 신을경우 두꺼운 양말을 신으면 새끼 발까락 부분이 낑겨서 좀 아파요 얅은 양말이나 스타킹 신으면 문제없고요<br/>" 
+---

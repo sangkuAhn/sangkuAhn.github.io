@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아디다스 쿠션크루 양말 3세트, 화이트" 
+description: 아디다스 쿠션크루 양말 3세 ..
+date: 2020-11-09 14:37:05 
+img: https://static.coupangcdn.com/image/vendor_inventory/b27a/f8f5991bd21104d945c5be7de19b7595621a331f99ab9a6c3e656704b9d9.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2087919934&itemId=3546639146&vendorItemId=71532586894&traceid=V0-113-7c698002c8682169 
+categories: [1006] 
+color: A6A6A6 
+price: 15900 
+author: Ask View Shop 
+cont:  "근데 아쉬운 건 상품명이 쿠션크루 라서 쿠션을 기대했는데 쿠션감은 없고 생각보다 얇아요! 그래도 잘 신을게용 굿굿 <br/>완전 만족해요<br/>운동화 230235 신고 발 볼 넓은편인데 s사니까 사이즈 딱 좋아요! 길이도 적당히 길어서 맘에 들어요!!<br/>좋아요! 발바닥부분 푹신푹신해요! 길이도 딱 좋아요!<br/>" 
+---

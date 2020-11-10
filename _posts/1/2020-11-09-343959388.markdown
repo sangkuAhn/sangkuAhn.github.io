@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "에버라스트 방한 EVA 샌들" 
+description: 에버라스트 방한 EVA 샌들 ..
+date: 2020-11-09 14:44:16 
+img: https://static.coupangcdn.com/image/retail/images/2019/11/26/13/0/94c94d8c-edbb-49d1-8442-5dcae8fcc503.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=343959388&itemId=1092749779&vendorItemId=5608815226&traceid=V0-113-85e42fef06fcbfdb 
+categories: [1007] 
+color: 5A8DF3 
+price: 12300 
+author: Ask View Shop 
+cont:  "따닷하니 좋아요^^<br/>발등, 발볼 넓은분 저처럼 한 치수 업하셔요.<br/>저렴한 가격에 잘한 구매입니다.<br/><br/>발이 편해요<br/>빠른배송도 만족하고<br/>상품품질도 좋은데 발볼이 있는분은 한치수위로 사셔야겠어요<br/>아 냄새는 쪼매 빼야겠어요.<br/><br/>평소 265270  인데  280  구매하길 잘한듯 합니다<br/>" 
+---
