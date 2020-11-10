@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "키스포 남아용 기모 케이팬츠" 
+description: 키스포 남아용 기모 케이팬츠 ..
+date: 2020-11-11 06:30:48 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/12/18/4045560094/eca43a70-ee7a-4fe1-ab74-15af80ccc557.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=146691493&itemId=424777832&vendorItemId=4045560094&traceid=V0-113-d0a886d8183d6ce0 
+categories: [1005] 
+color: 353535 
+price: 9900 
+author: Ask View Shop 
+---
+ 
