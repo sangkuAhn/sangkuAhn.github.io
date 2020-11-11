@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "해피프린스 아동용 뉴 하포 기모 레깅스" 
+description: 해피프린스 아동용 뉴 하포  ..
+date: 2020-11-10 14:15:29 
+img: https://static.coupangcdn.com/image/retail/images/2020/10/23/16/3/31fd3392-71ac-4560-a5d6-11d6ede447d5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2287050100&itemId=3931179302&vendorItemId=71915660812&traceid=V0-113-2f29a286d9f7da4d 
+categories: [1003] 
+color: F361A6 
+price: 13000 
+author: Ask View Shop 
+cont:  "19개월인데도 좀 커서 좀 흘러내렸어요ㅠㅠ<br/>그래두 기모라 너무너무 따뜻하게 잘 입혔어요ㅋㅋㅋ<br/>기모도 되어있어서 추운오늘 따뜻하게 잘 입혔어요!<br/>내년 2월달까지도 충분히 입겠죠?ㅎㅎ<br/>아이보리라서<br/>애기들은 금방금방 크기때문에<br/>어떤옷이든 잘 코디가 되기때문에<br/>잘 산거같아여<br/>허리도 좀 크기도 하구여,,<br/>" 
+---

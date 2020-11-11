@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "헬로카봇 파워크루저 로봇완구, 혼합색상" 
+description: 헬로카봇 파워크루저 로봇완구 ..
+date: 2020-11-10 16:10:37 
+img: https://static.coupangcdn.com/image/retail/images/2020/09/08/17/5/228e5b2b-263a-40cf-98c3-bd667268dced.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2106096282&itemId=3577763016&vendorItemId=71563587902&traceid=V0-113-0185f7c0f1cfa102 
+categories: [1020] 
+color: 4A148C 
+price: 66340 
+author: Ask View Shop 
+cont:  "개인적으로 유니크루저, 제트크루저보다 좋네요<br/>선물용이라 아직 뜯어보진 않앗는데 좋아할거같아요<br/>파워봇 눈에서 불 안나오는데 이거 불량 아닌가요?<br/>" 
+---

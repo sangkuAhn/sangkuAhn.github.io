@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "로로샤 여아용 비즈목걸이 마스크 스트랩" 
+description: 로로샤 여아용 비즈목걸이 마 ..
+date: 2020-11-10 14:15:29 
+img: https://static.coupangcdn.com/image/retail/images/2020/09/02/15/8/38bbd740-a837-435c-afb4-6d5e9444c377.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2085698797&itemId=3542722311&vendorItemId=71528693949&traceid=V0-113-adc50cff0c859b2d 
+categories: [1003] 
+color: 9E9D24 
+price: 4900 
+author: Ask View Shop 
+cont:  "귀여워요<br/>딸이 좋아해요<br/>마감도 거친 곳 없어서 마음에 들어요<br/>무거울까 걱정했는데 가볍습니다<br/>" 
+---

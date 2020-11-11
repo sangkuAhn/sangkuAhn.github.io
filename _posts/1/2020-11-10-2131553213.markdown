@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "CJ단독확보/ 휠라 FILA 20FW 최신상 시그니처 롱보아플리스" 
+description: CJ단독확보/ 휠라 FILA ..
+date: 2020-11-10 14:37:06 
+img: https://static.coupangcdn.com/image/vendor_inventory/68e7/7e3d4ff2921d7d580692005762993b217c1f9cd18268c10852120d27048a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2131553213&itemId=3618388374&vendorItemId=71604016409&traceid=V0-113-02df1de52d730a83 
+categories: [1006] 
+color: 4374D9 
+price: 89000 
+author: Ask View Shop 
+cont:  "80%정도  만족합니다<br/>귯<br/>생각보다 두툼하고 따뜻해요<br/>" 
+---

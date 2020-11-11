@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "한국경제신문/2021 내 집 마련 가계부 (양장), 한국경제신문" 
+description: 한국경제신문/2021 내 집 ..
+date: 2020-11-10 16:03:25 
+img: https://static.coupangcdn.com/image/retail-product-api/A00077021/28311343/31830198/main/8809579440048_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2268129974&itemId=3888866999&vendorItemId=71792497670&traceid=V0-113-7afecce79b658689 
+categories: [1019] 
+color: 03A9F4 
+price: 10500 
+author: Ask View Shop 
+cont:  "가계부만있지 않고 여러정보들과 팁들이 있어 유용한것같아요!<br/>겉표지도 단단하고 두껍고 오랜시간 보관할수있을것같아요!<br/>김유라작가님 유튜브와 블로그를 접하게되어<br/>내년을위해 구입했습니다.<br/><br/>작가님의 채널과 블로그도 함께보면 도움될것같습니다!^<br/> -^<br/>작가님의 친필싸인도 있네요! 어머!!!<br/>저도 북테크도 열심히하고 가계부도 열심히 써보려고합니다!<br/>" 
+---
