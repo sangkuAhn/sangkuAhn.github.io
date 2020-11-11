@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "인디고 빨간머리앤 한 문장 일기 365days, 핑크, 1개" 
+description: 인디고 빨간머리앤 한 문장  ..
+date: 2020-11-11 16:17:53 
+img: https://static.coupangcdn.com/image/retail/images/2020/05/22/11/4/aa98fa0d-f12c-4078-8895-6a878db6dbf0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1625749504&itemId=2773554999&vendorItemId=70763368716&traceid=V0-113-8a22efb06a7b43ce 
+categories: [1021] 
+color: 7E57C2 
+price: 8510 
+author: Ask View Shop 
+---
+ 

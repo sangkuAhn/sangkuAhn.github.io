@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "잔나비 - 잔나비 소곡집Ⅰ, (주) 카카오 M, CD" 
+description: 잔나비 - 잔나비 소곡집Ⅰ, ..
+date: 2020-11-11 16:03:27 
+img: https://static.coupangcdn.com/image/vendor_inventory/05b4/e6f32e0ebdc89da0603428ddfdc2597df4be0e8ebbff9ddaf953dfcb0748.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2348163858&itemId=4072143826&vendorItemId=72056210938&traceid=V0-113-73590357449575f4 
+categories: [1019] 
+color: 5A8DF3 
+price: 16300 
+author: Ask View Shop 
+---
+ 
