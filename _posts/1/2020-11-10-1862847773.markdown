@@ -9,5 +9,5 @@ categories: [1018]
 color: D9418C 
 price: 19740 
 author: Ask View Shop 
+cont:  "상가보다 안단단해요ㅜㅜ<br/>튼튼하고 마감처리는 좋아요 근데상판이 잘열리지가 않네요<br/>" 
 ---
- 
