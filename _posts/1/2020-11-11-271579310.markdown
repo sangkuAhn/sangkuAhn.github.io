@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코리아 빅히트 120곡 USB" 
+description: 코리아 빅히트 120곡 US ..
+date: 2020-11-11 16:03:27 
+img: https://static.coupangcdn.com/image/retail/images/2019/08/01/15/1/1a483822-6039-454b-acfc-576664ec3a20.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=271579310&itemId=853997076&vendorItemId=5168175655&traceid=V0-113-f0ccea9fb77c0109 
+categories: [1019] 
+color: 7E57C2 
+price: 14450 
+author: Ask View Shop 
+cont:  "Usb포트 규격이 이상해서 꼽는데 많이 애먹었네요<br/>리메이크 가수가 아니라 오리지널 음원이라 좋아요<br/>좋아요추천할게요<br/>첨에는 pc에 꼽는 규격이 아니라 보통 아는 usb랑 다른 사이즈로 나오는 usb가 있는줄 알았습니다<br/>" 
+---

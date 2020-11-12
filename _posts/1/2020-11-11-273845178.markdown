@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "채니봉봉 베르디 카멜 헤어핀세트" 
+description: 채니봉봉 베르디 카멜 헤어핀 ..
+date: 2020-11-11 14:15:35 
+img: https://static.coupangcdn.com/image/retail/images/2019/08/05/10/1/d7c4c696-2061-4621-8672-ea458b546a6f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=273845178&itemId=863858737&vendorItemId=5189647238&traceid=V0-113-6f3aa474f35edb02 
+categories: [1003] 
+color: 9E9D24 
+price: 9510 
+author: Ask View Shop 
+cont:  "가격도 저렴하고 디자인이 예뻐요.<br/><br/>가을느낌으로 미리 선물했어요<br/>물건 완성도도 좋아요.<br/><br/>어린이집 친구 생일선물로 찰떡!<br/>일부러 여러색상이 있는 걸로 사줬어요.<br/> 분홍색을 좋아해서 한색만 할려할까봐 걱정했는데 이리저리 모든핀을 꼽아보기도 하고 거울보면서 만족해하네요.<br/><br/>" 
+---

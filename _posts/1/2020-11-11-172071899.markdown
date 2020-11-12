@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "전업맘 재테크로 매년 3000만 원 벌다:재테크의 여왕 슈엔슈, 참돌" 
+description: 전업맘 재테크로 매년 300 ..
+date: 2020-11-11 16:03:27 
+img: https://static.coupangcdn.com/image/vendor_inventory/61c7/688e373f199b8553c9449d472733560f21a1fa9c43117d370643503a05c0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=172071899&itemId=491951303&vendorItemId=4283646271&traceid=V0-113-42421588dfabbd4f 
+categories: [1019] 
+color: 5A8DF3 
+price: 14400 
+author: Ask View Shop 
+cont:  "재미있어서 하루만에 다 읽었어요.<br/> 쉽게 설명해주고 아이들 교육비로 쓰고싶어서 시작했다는 말에 재테크를 하고싶어졌어요.<br/><br/>제테크 기본참고서로 아주 좋습니다<br/>좋은정보와꿀팁들이담겨있어요 읽기쉽고재미있네요<br/>" 
+---

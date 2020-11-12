@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "우주아이 아동용 사랑스러운 리본 퍼목도리" 
+description: 우주아이 아동용 사랑스러운  ..
+date: 2020-11-11 14:22:47 
+img: https://static.coupangcdn.com/image/retail/images/2020/09/25/11/2/bb05561d-8b78-4c43-8be6-7d09cccc4c21.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2268192814&itemId=3889004243&vendorItemId=71873632639&traceid=V0-113-e091cc0a37c15cb4 
+categories: [1004] 
+color: f44336 
+price: 6900 
+author: Ask View Shop 
+cont:  "사진보다 훨 더 예뻐요.<br/>촉감이 보들보들하고 넘 예뻐요.<br/>아이가 정말 좋아하네요.<br/><br/>역시나 시간 어기지 않고 약속 시간안네 배송!<br/>" 
+---

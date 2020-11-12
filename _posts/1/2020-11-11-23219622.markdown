@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "눈 코 입, 보림" 
+description: 눈 코 입, 보림 ..
+date: 2020-11-11 16:03:27 
+img: https://static.coupangcdn.com/image/vendor_inventory/dd07/c30c09df667f65ac9c562da54b5f841fcd95e7a4b479d6d2c69018c6cafd.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=23219622&itemId=90317285&vendorItemId=3156704258&traceid=V0-113-21dea485f5ba3e32 
+categories: [1019] 
+color: 4CAF50 
+price: 8550 
+author: Ask View Shop 
+cont:  "15갤 된 손녀가 잼 있어 합니다^^<br/>7개월 아기가 책에 관심을 보이기 시작해서 여러권 구입했는데 이 책을 제일 좋아해요<br/>눈코입 알려주려 샀는데<br/>도움될것 같아요!<br/>아기가 좋아하네요^^<br/>집중력이 짧은 단계에 좋은 책입니다<br/>" 
+---

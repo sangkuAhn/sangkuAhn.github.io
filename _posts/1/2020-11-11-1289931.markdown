@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "어린왕자, 인디고" 
+description: 어린왕자, 인디고 ..
+date: 2020-11-11 16:03:27 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2015/12/04/3007086099/b53e2f28-7a5e-4bbd-bd6f-f5e2e987acc1.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1289931&itemId=5589729&vendorItemId=3007086099&traceid=V0-113-17eb9dacdcbd48c1 
+categories: [1019] 
+color: BD24A9 
+price: 8820 
+author: Ask View Shop 
+cont:  "감성돋는 어린왕자 책이네요<br/>그 때는 학생시절이라 돈이 없어서 못사고.<br/>.<br/><br/>문구 하나하나가 참 좋은것 같아요<br/>물론 어린왕자는 세월이 흘러서 보면 또 다른 느낌이 든다고 하는데 그래서 그런건지.<br/>.<br/><br/>밥 먹을 때 한 끼 식사비용이나 이 책 한 권의 가격이나 별반 차이 없는데 비싼 것 같아서 못사고.<br/>.<br/><br/>빨간머리앤으로 나온 삽화의 다이어리는 그 때 바로 샀으면서.<br/>.<br/><br/>손바닥 책이라고 하면 될것 같음.<br/> 단숨에 다 읽었어요.<br/><br/>어느 때는 시간적 여유가 없어서 못사고.<br/>.<br/><br/>이 책이 나온지 한 10년은 된 것 같은데.<br/>.<br/><br/>이런 핑계 저런 핑계를 대다 드디어 구매했습니다.<br/><br/>잔잔하고 뭔가 마음이 아쉽다? 허전하다?라는 느낌의 그림체가 정말 좋습니다.<br/><br/>책 삽화 때문인지 옛날에 글만 있던 책을 읽을 때와는 또 다른 느낌입니다.<br/><br/>책 크기도 작아서 들고 다니기도 좋아요^^<br/>" 
+---

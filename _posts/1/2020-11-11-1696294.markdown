@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "13층 나무 집, 시공주니어" 
+description: 13층 나무 집, 시공주니어 ..
+date: 2020-11-11 16:03:27 
+img: https://static.coupangcdn.com/image/vendor_inventory/13f0/bc317f9ae8008074a2c0c3fd7802aa62c79ddfc35ea79aa555264ab65daf.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1696294&itemId=7386340&vendorItemId=3016317094&traceid=V0-113-35e281532f099611 
+categories: [1019] 
+color: A566FF 
+price: 9900 
+author: Ask View Shop 
+cont:  "7살 아이 자기전 읽어줘요.<br/><br/>목이 다 쉬었어요.<br/><br/>새책이맞나 의심스러워요 ㅠㅠ<br/>아이가 재밌다고 까르륵 웃어요 ♥<br/>우리아들은 책 별로안좋아해서 이거라도 읽을까해서<br/>종이 만지며 넘길때마다 기분 별로에요 ㅠ<br/>줬는데 대충읽고 두번은 안보내요^^;;;초2<br/>책애서 너무 냄새나고 종이가 눅눅하다고해야할까요? ㅠ<br/>" 
+---

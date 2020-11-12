@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "인디고 빨간머리앤 한 문장 일기 365days, 핑크, 1개" 
+description: 인디고 빨간머리앤 한 문장  ..
+date: 2020-11-11 16:17:53 
+img: https://static.coupangcdn.com/image/retail/images/2020/05/22/11/4/aa98fa0d-f12c-4078-8895-6a878db6dbf0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1625749504&itemId=2773554999&vendorItemId=70763368716&traceid=V0-113-8a22efb06a7b43ce 
+categories: [1021] 
+color: 7E57C2 
+price: 8510 
+author: Ask View Shop 
+cont:  "그냥 일상을 몇자적고 기록하는 것만으로도 의미가 있을 것같아요<br/>그리고 색감핑크 넘 이뻐요ㅋㅋ수채화느낌 넘이쁩니다ㅋ<br/>내년부터 아들 성장일기 쓰려고 구매했어요<br/>디자인도 이쁘고 너무 마음에 드네요♡<br/>부담안되는 맘편한 일기장이네요ㅋ<br/>부담없는 메모장같은 간단한 기록ㅋ<br/>손에잡히는 부담없는 작은크기의<br/>양장이라 질 좋구요ㅋ<br/>" 
+---

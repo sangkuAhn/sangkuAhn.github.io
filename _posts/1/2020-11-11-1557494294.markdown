@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "독일군 스니커즈" 
+description: 독일군 스니커즈 ..
+date: 2020-11-11 14:44:22 
+img: https://static.coupangcdn.com/image/retail/images/2020/05/08/11/4/71285d2d-de83-4824-b04c-27b39c842850.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1557494294&itemId=2663351399&vendorItemId=70653938342&traceid=V0-113-dff20abd530474ae 
+categories: [1007] 
+color: 4CAF50 
+price: 22660 
+author: Ask View Shop 
+cont:  "신발도 폭신하고 좋아요.<br/> 사이즈를 하나 넉넉하게 살걸 그랬다 싶기도 해요.<br/> 처음엔 발뒤꿈치가 잘 까지네요 첨 신을때 하얀색 양말 신었다가 빨간양말됐어요... <br/>ㅋㅋㅋ 밴드 장착하면 그 다음번엔 안그래요.<br/><br/>신발은 너무 이쁜데 신발 끈이 하나 만 와서 신잘 끈 을 사야겠네요... <br/>.<br/><br/>평소 230235착용하는데.<br/> 240샀는데 딱맞아요<br/>" 
+---

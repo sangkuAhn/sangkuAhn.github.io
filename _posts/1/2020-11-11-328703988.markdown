@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "잭키드 남아용 스웨그 기모바지" 
+description: 잭키드 남아용 스웨그 기모바 ..
+date: 2020-11-11 14:29:58 
+img: https://static.coupangcdn.com/image/retail/images/2019/10/29/14/6/f576cf19-7431-40f6-ba26-d8e7f9635fae.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=328703988&itemId=1051182032&vendorItemId=5517963076&traceid=V0-113-ce99c05d15cac702 
+categories: [1005] 
+color: 7E57C2 
+price: 14000 
+author: Ask View Shop 
+cont:  "135 39<br/>낙낙하게 잘맞아여또 구매하려구요ㅋ<br/>보풀이 있을것같지만  일단 따땃하게 입어서 좋아요<br/>아이가 허벅지가 두꺼워 늘 바지살때 고민하는데 이건 딱 좋네요.<br/> 안감에 기모도 부드럽고 따뜻하고 편하다고 합니다.<br/><br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "올리반 아동용 꾸안꾸 상하의 세트" 
+description: 올리반 아동용 꾸안꾸 상하의 ..
+date: 2020-11-11 14:29:58 
+img: https://static.coupangcdn.com/image/retail/images/2020/08/15/14/8/dfa6c004-4f35-474d-ba29-5ecf2bfcdf11.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1981879452&itemId=3371800103&vendorItemId=71358509569&traceid=V0-113-59528ad0350f5ee8 
+categories: [1005] 
+color: BD24A9 
+price: 14800 
+author: Ask View Shop 
+cont:  "그런데 생각보다 많이 크네요.<br/><br/>내년에 입혀야 할 것 같아요.<br/><br/>옷은 가볍고 좋네요.<br/><br/>평소 110을 입어서 시보리가 있으니 한치수 크게 입혀도 될듯해서 큰거로 구매했거든요.<br/><br/>" 
+---

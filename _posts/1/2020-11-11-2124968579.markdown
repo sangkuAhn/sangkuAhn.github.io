@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "클루 하트 키링 소가죽 중지갑" 
+description: 클루 하트 키링 소가죽 중지 ..
+date: 2020-11-11 14:51:34 
+img: https://static.coupangcdn.com/image/retail/images/2020/07/01/16/7/5d314018-cd83-427e-8a96-40def9dd8921.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2124968579&itemId=3605887093&vendorItemId=71011757485&traceid=V0-113-d6d16a97d4930b92 
+categories: [1008] 
+color: 4374D9 
+price: 23530 
+author: Ask View Shop 
+cont:  "거기에 동전은 못 넣을거 같네요<br/>그냥 일반 편히 들고다닐수 있는지갑<br/>안에 현금넣는곳 밑에 구멍이 있어서<br/>카드도 많이 넣을수 있고 동전 넣는곳도 있어요<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "My Very First Library, Philomel Books" 
+description: My Very First L ..
+date: 2020-11-11 16:03:27 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/11/20/3001781014/9dd8d72e-3296-44ac-8029-328c522f306d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4462659&itemId=20857491&vendorItemId=3147873363&traceid=V0-113-016e852e337657de 
+categories: [1019] 
+color: 4A148C 
+price: 16490 
+author: Ask View Shop 
+cont:  "아기가 그림책은 좋아하는데 이 책은 아직 안 좋아하네요.<br/> 조금 더 개월수가 지나면 보야줘야겠어요.<br/><br/>아이가 좋아해요<br/>이제 막 9개월된 아기에요.<br/><br/>일러스트도 예뻐요<br/>태어나서부터 계속 그림책을 보여줘서 그런지 이제는 본인이 책장 넘기는것도 좋아하고 징징징 하다가도 책꺼내오면 얌전히 제 앞에 앉는 아기라 더 좋은 그림 보여주고 싶어 에릭칼로 구매했는데,, 아무래도 이야기가 아니라 단어구성이라 그런지 이 책엔 큰 흥미가 없어보여요... <br/>^^; 그치만 엄마마음에 쏙 드는 디자인이고 좀 더 커서 영어학습놀이책으로 잘 쓸거 같아요<br/>한 페이지가 둘로 나뉘어서 맞추기 놀이 하듯이 책읽기 할 수 있어요<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "헬로가든 모아후드 상하복" 
+description: 헬로가든 모아후드 상하복 ..
+date: 2020-11-11 14:15:35 
+img: https://static.coupangcdn.com/image/vendor_inventory/9386/ecbfa8f0902940a909bd137225a4aee11ceb583836c3f57e9a5f1f6b9d39.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=151971537&itemId=438755559&vendorItemId=4084928177&traceid=V0-113-264007437731ba17 
+categories: [1003] 
+color: BF360C 
+price: 25900 
+author: Ask View Shop 
+cont:  "130입으면딱맞게이쁠것같아요<br/>겨울에 입기 좋아요<br/>따뜻하고 보들보들하구요<br/>리얼개인적후기입니다.<br/> 우선은 대만족! 상품 살 때마다 후기에 많이 의존하는 편인데 막상 후기보고 샀다 낭패 경험이 있어서 누군가 정말 솔직한 후기를 남겨준다면!바라게 되죠.<br/>초등1140.<br/> 키 130내외.<br/>딱 맞습니다.<br/> 참고로 체격도 보통에서 아주살짝 통통? 색이 화면보다 흐린 것 같아 걱정했는데 받아보니 살짝 흐린정도.<br/>가격대비 한철 입히기 딱 좋습니다.<br/> 후기에 올라온 사진보다 실제가 더 낫네요^^<br/>배기바지인데한사이즈크게샀더니저런핏은안나오네요애기가하도금방커서.<br/>.<br/>욕심부려서.<br/>.<br/>ㅠ<br/>암튼원단,색상,가격,디자인전부이뻐요<br/>참고로울애기는116센치,25키로예요<br/>천사날개 패치도 박음질 튼튼합니다<br/>" 
+---

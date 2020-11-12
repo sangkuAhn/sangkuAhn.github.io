@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코디아이 남아용 마일로 보온내의 세트" 
+description: 코디아이 남아용 마일로 보온 ..
+date: 2020-11-11 14:15:35 
+img: https://static.coupangcdn.com/image/retail/images/2019/09/20/14/4/15fd6486-b45a-4019-a499-0b0c0adee6e6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=306190000&itemId=965410098&vendorItemId=5369979906&traceid=V0-113-98f6fce14e23b694 
+categories: [1003] 
+color: 1294AB 
+price: 12900 
+author: Ask View Shop 
+cont:  "남아용인데 원단이 핑크원단이라 딸아이 입히려고 구입했어요 근데 원단도 도톰하고 실내에서 입히기 좋아요 남자애거 같지않고 예뻐요<br/>무난해요^^<br/>어제 목욕시키고 입혀보니 아이에게 너무 잘어울려요<br/>예쁜상품 감사드려요<br/>핑크색인데 촌스럽지않고 남자아이인데도 굿입니다☆<br/>" 
+---
