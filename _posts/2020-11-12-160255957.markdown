@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "후드 PD37 경량패딩 (MDPD135WS)" 
+description: 후드 PD37 경량패딩 (M ..
+date: 2020-11-13 06:10:09 
+img: https://static.coupangcdn.com/image/vendor_inventory/69bf/7353f60cd920443aee5d8ee0bf1f76305591617d3faf50e5483ba8d9c154.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=160255957&itemId=460112035&vendorItemId=4142903418&traceid=V0-113-b22f90b575b857f5 
+categories: [1002] 
+color: FF6F00 
+price: 25800 
+author: Ask View Shop 
+---
+ 
