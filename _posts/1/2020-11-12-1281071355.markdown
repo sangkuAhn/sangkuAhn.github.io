@@ -9,5 +9,5 @@ categories: [1007]
 color: A57F92 
 price: 20000 
 author: Ask View Shop 
+cont:  "230주문했는데 딱 맞네요.<br/> 넉넉한거 좋아하시면 한 사이즈 커도 괜찮을거같네요.<br/> 디자인은 깔끔하고 예쁩니다!<br/>만족합니다<br/>" 
 ---
- 

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "라쉬반 MANLY 3종세트" 
+description: 라쉬반 MANLY 3종세트 ..
+date: 2020-11-13 06:10:09 
+img: https://static.coupangcdn.com/image/vendor_inventory/7683/01511ffee975a1e7bfe4d9e06a77378640dd4c6fd38b158ddfb624d53bb0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2331500661&itemId=4033662594&vendorItemId=72017834538&traceid=V0-113-64b4197e00163fbf 
+categories: [1002] 
+color: FF1744 
+price: 22500 
+author: Ask View Shop 
+cont:  "골든박스에서 샀는데 ㅠㅠ<br/>그래서 한셋트 더주문<br/>남편이좋아하더라구오<br/>만족도가 높은 제품인데 이번 상품은 냄새가 많이 나서 별 하나는 뺍니다<br/>살때 두셋트살껄<br/>서비스도 감사합니다!!!!!<br/>세일해서잘산것같아요<br/>원단도좋고 촉감도좋더라구요<br/>이번엔 금액더내고 주문했어요 ㅠㅠ<br/>좋습니다 너무 싸게 잘 샀어요.<br/><br/>착용감이좋다고해야하나요<br/>할인 때마다 구매하는 아이템입니다<br/>" 
+---

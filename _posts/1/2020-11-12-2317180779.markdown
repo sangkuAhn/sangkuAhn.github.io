@@ -9,5 +9,5 @@ categories: [1007]
 color: 43A047 
 price: 20000 
 author: Ask View Shop 
+cont:  "사이즈는 정사이즈<br/>잔실밥(?) 같은거없고 하얀색 깔끔해요<br/>" 
 ---
- 

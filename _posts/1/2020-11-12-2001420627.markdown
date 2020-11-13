@@ -9,5 +9,5 @@ categories: [1005]
 color: BF360C 
 price: 53920 
 author: Ask View Shop 
+cont:  "아이가 직접 고른거라... <br/><br/>예쁜데 쪼끔 무거워요.<br/><br/>지퍼닫을때 쪼끔 불편하기도 하구요.<br/><br/>" 
 ---
- 

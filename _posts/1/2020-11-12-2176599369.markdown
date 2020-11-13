@@ -9,5 +9,5 @@ categories: [1005]
 color: BD24A9 
 price: 40360 
 author: Ask View Shop 
+cont:  "딸아이랑 커플 느낌으로 신으려고 샀는데 너무 맘에 드네요.<br/><br/>" 
 ---
- 
