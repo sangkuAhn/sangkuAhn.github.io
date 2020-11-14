@@ -9,5 +9,5 @@ categories: [1003]
 color: 5A8DF3 
 price: 8750 
 author: Ask View Shop 
+cont:  "2개씩 깔로해도예쁘고 하나씩 포인트로 쓰기도 예쁘네요<br/>가을 겨울 해서 쓰기 좋은거같아요<br/>색감귀여워요<br/>아이한테약간커요<br/>초1 사용후기입니다<br/>" 
 ---
- 

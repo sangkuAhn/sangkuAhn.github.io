@@ -9,5 +9,5 @@ categories: [1003]
 color: 006064 
 price: 15400 
 author: Ask View Shop 
+cont:  "너무 귀여워요 부드러워요<br/>" 
 ---
- 
