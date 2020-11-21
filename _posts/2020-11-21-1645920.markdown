@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "테팔 키친웨어 인지니오 Y필러, 혼합 색상" 
+description: 테팔 키친웨어 인지니오 Y필 ..
+date: 2020-11-22 07:21:16 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2016/03/17/3009602998/e5b34907-3f98-405b-ba46-830f96871e8f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1645920&itemId=7174520&vendorItemId=3009602998&traceid=V0-113-5705fd94b7e1e7ef 
+categories: [1013] 
+color: A57F92 
+price: 6770 
+author: Ask View Shop 
+---
+ 

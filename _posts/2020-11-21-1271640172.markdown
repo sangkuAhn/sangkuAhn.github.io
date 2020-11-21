@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "디스커버리 샌드라인 3 DXSH70031-WH" 
+description: 디스커버리 샌드라인 3 DX ..
+date: 2020-11-22 06:44:31 
+img: https://static.coupangcdn.com/image/vendor_inventory/559d/9568d00599cd45553e51a907df1d5f774334a706a021e3a9f1e1046d96c9.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1271640172&itemId=2276402285&vendorItemId=70273569734&traceid=V0-113-b74414357fea9020 
+categories: [1007] 
+color: A566FF 
+price: 39000 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "진케어 아이컬 Ⅱ, 혼합 색상" 
+description: 진케어 아이컬 Ⅱ, 혼합 색 ..
+date: 2020-11-22 06:59:40 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2017/09/19/3044131000/407315d6-f76b-4d0f-9d32-b0139fb529ba.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6682065&itemId=29643598&vendorItemId=3044131000&traceid=V0-113-13c779c923781bd4 
+categories: [1010] 
+color: f44336 
+price: 7540 
+author: Ask View Shop 
+---
+ 

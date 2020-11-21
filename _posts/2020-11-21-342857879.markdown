@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "바비수 쁘띠 목도리 H 헤리니트" 
+description: 바비수 쁘띠 목도리 H 헤리 ..
+date: 2020-11-22 06:52:29 
+img: https://static.coupangcdn.com/image/vendor_inventory/caa5/73e71bcc2794ae34d3c284c07b7c1e554937276d095bb5e768384ae8a120.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=342857879&itemId=1089989522&vendorItemId=5602127604&traceid=V0-113-f0ae44c61520344c 
+categories: [1008] 
+color: 4A148C 
+price: 18500 
+author: Ask View Shop 
+---
+ 

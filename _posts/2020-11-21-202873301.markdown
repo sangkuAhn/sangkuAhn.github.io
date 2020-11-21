@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "퍼니메이드 보냉가방 포켓백, 블랙" 
+description: 퍼니메이드 보냉가방 포켓백, ..
+date: 2020-11-22 07:21:16 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/06/07/4556069268/39dfa370-5a47-43ea-8201-efb08ee4689f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=202873301&itemId=594203249&vendorItemId=4556069268&traceid=V0-113-752f180eb55bc705 
+categories: [1013] 
+color: A6A6A6 
+price: 14000 
+author: Ask View Shop 
+---
+ 
