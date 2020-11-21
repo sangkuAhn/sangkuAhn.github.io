@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "루즈핏 블랙 하프 패딩 점퍼" 
+description: 루즈핏 블랙 하프 패딩 점퍼 ..
+date: 2020-11-21 14:01:11 
+img: https://static.coupangcdn.com/image/vendor_inventory/9ad7/bcb1518d13865401a3530d141d0812c3c8073844b78f967b6ef0b2abe485.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2246189095&itemId=3838170335&vendorItemId=71822988022&traceid=V0-113-ba5c5412ccd9a396 
+categories: [1001] 
+color: CF36BB 
+price: 24900 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "채니봉봉 엘르집게핀" 
+description: 채니봉봉 엘르집게핀 ..
+date: 2020-11-21 14:15:36 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2017/11/07/3270599606/cc00b544-a0be-4d29-ae79-1c67911c3c82.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=34082796&itemId=129570184&vendorItemId=3270599606&traceid=V0-113-b1cf66ceac026451 
+categories: [1003] 
+color: 4CAF50 
+price: 3780 
+author: Ask View Shop 
+---
+ 

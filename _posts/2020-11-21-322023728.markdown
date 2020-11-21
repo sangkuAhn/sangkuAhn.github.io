@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "타이트엔드 프리미엄 코지 넥워머, 블랙" 
+description: 타이트엔드 프리미엄 코지 넥 ..
+date: 2020-11-21 14:37:14 
+img: https://static.coupangcdn.com/image/retail/images/23379566252404-bca1a3c1-580a-41b6-9b04-35fc7d37ef41.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=322023728&itemId=1031053565&vendorItemId=5479578574&traceid=V0-113-73dbb981d976bdfa 
+categories: [1006] 
+color: 4CAF50 
+price: 12000 
+author: Ask View Shop 
+---
+ 
