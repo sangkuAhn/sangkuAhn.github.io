@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "캐럿 PK 긴팔 카라티" 
+description: 캐럿 PK 긴팔 카라티 ..
+date: 2020-11-23 14:08:27 
+img: https://static.coupangcdn.com/image/retail/images/283750885032800-e48f69ea-17f9-41f2-9f33-4da3ee5769ce.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2123427627&itemId=3603296576&vendorItemId=71588979253&traceid=V0-113-c0263aa080618552 
+categories: [1002] 
+color: CF36BB 
+price: 8590 
+author: Ask View Shop 
+---
+ 

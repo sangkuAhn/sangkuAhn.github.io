@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "바닐라코 프라임 프라이머, 클래식, 1개" 
+description: 바닐라코 프라임 프라이머,  ..
+date: 2020-11-23 14:58:57 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/05/16/3035529243/8fd71bd2-350e-447f-8caf-848f40f390ae.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=46741390&itemId=165718493&vendorItemId=3392111325&traceid=V0-113-6b9b72db90457a85 
+categories: [1010] 
+color: FF1744 
+price: 9890 
+author: Ask View Shop 
+---
+ 
