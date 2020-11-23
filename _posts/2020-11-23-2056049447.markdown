@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "브레드이발소 퍼즐(70조각). 1, 키움터" 
+description: 브레드이발소 퍼즐(70조각) ..
+date: 2020-11-24 08:02:30 
+img: https://static.coupangcdn.com/image/vendor_inventory/4564/0fbf282322926672f925a04ce3dd2bdccfa835381ab38ec587e3888acfd6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2056049447&itemId=3495131428&vendorItemId=70872224288&traceid=V0-113-e75332b48395a84b 
+categories: [1019] 
+color: 7E57C2 
+price: 4500 
+author: Ask View Shop 
+---
+ 

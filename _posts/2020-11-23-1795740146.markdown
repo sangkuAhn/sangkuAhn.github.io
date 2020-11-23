@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "대우 와플메이커 3 in 1 분리형, DEW-D220" 
+description: 대우 와플메이커 3 in 1 ..
+date: 2020-11-24 07:19:39 
+img: https://static.coupangcdn.com/image/retail/images/2017/04/12/10/6/0c79e2a6-36d9-4dce-97b8-6dc676a81a4c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1795740146&itemId=3055010768&vendorItemId=71043010983&traceid=V0-113-b68aeb2fbd4f5b16 
+categories: [1013] 
+color: FF6F00 
+price: 29610 
+author: Ask View Shop 
+---
+ 

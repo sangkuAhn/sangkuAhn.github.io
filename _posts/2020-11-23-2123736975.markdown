@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "하빗 스마트워치, M9006, 블랙" 
+description: 하빗 스마트워치, M9006 ..
+date: 2020-11-24 07:48:05 
+img: https://static.coupangcdn.com/image/retail/images/2020/09/17/15/4/bb8b595f-7894-4f4d-9805-b250160c5475.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2123736975&itemId=3603789919&vendorItemId=72490615741&traceid=V0-113-b357e82b79c03af5 
+categories: [1017] 
+color: 4A148C 
+price: 34900 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "포항시 인증 구룡포 과메기 야채세트, 300g, 1팩" 
+description: 포항시 인증 구룡포 과메기  ..
+date: 2020-11-24 07:12:27 
+img: https://static.coupangcdn.com/image/retail/images/2020/10/29/18/3/b4a60939-07fb-4eff-a1f6-d3e48eb5b8fa.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2320071676&itemId=4006249124&vendorItemId=71990494204&traceid=V0-113-ecacf226fdb430d0 
+categories: [1012] 
+color: f44336 
+price: 26600 
+author: Ask View Shop 
+---
+ 
