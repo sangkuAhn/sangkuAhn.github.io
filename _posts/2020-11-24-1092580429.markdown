@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "오키진 박시 데일리 패딩점퍼" 
+description: 오키진 박시 데일리 패딩점퍼 ..
+date: 2020-11-25 06:08:28 
+img: https://static.coupangcdn.com/image/retail/images/2019/12/12/19/5/f549d554-1338-4e0f-9a11-92d742d4f9c7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1092580429&itemId=2048981080&vendorItemId=72056611491&traceid=V0-113-b8f172a9e02cb87f 
+categories: [1002] 
+color: D9418C 
+price: 28900 
+author: Ask View Shop 
+---
+ 
