@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아동용 빠리 상하 바지세트" 
+description: 아동용 빠리 상하 바지세트 ..
+date: 2020-11-21 14:30:02 
+img: https://static.coupangcdn.com/image/retail/images/2020/09/16/14/8/6c55f8d9-fa5b-4bbc-9723-3dbb74a62dbf.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2117441340&itemId=3595556035&vendorItemId=71581290417&traceid=V0-113-c5a5fb322b1e8e21 
+categories: [1005] 
+color: f44336 
+price: 11900 
+author: Ask View Shop 
+cont:  "좋아요<br/>할로윈파티때 입힐려고 주문한건데 맞춰서 잘왔구요 상의는 루즈하게 입히고 조거팬츠는 딱맞게 입히고싶고.<br/>,.<br/>.<br/> 고민했는데 사이즈가  완전 찰떡입니다ㅋㅋㅋ6세고 키가 큰편이 아닌데 너무 예쁘게 잘 맞아서 기분좋네요ㅋㅋㅋ오늘 예쁘게 입고 갔습니다<br/>" 
+---

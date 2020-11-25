@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "캐럿 남성 터틀넥 스웨터" 
+description: 캐럿 남성 터틀넥 스웨터 ..
+date: 2020-11-21 14:08:24 
+img: https://static.coupangcdn.com/image/retail/images/18249985005579-be0434b1-97e6-4b90-ad47-d7893c066bed.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1592571419&itemId=2721076489&vendorItemId=70711306220&traceid=V0-113-e2005564cae72681 
+categories: [1002] 
+color: 9E9D24 
+price: 17900 
+author: Ask View Shop 
+cont:  "M 샀는데 살짝 할랑하니 배도 가려지고 좋습니다.<br/><br/>가격대가 저렴하기 때문에 보플 생기는건 감안하셔야 할 듯요.<br/><br/>가성이 아주 좋습니다.<br/><br/>강추요<br/>남편 좋다고 합니다<br/>받아보니 사진보다 더  낳아요<br/>소재도 정도면 좋구요<br/>아직 입고 나가보진 않았는데 착용해보니까 착용감 정말 좋고 덩치가 있는편이라 걱정했는데 딱 좋았어요 빨리 입고 다니고싶네요<br/>좀까다로운데 이번엔 웬일로<br/>착용감 아주 좋아요<br/>" 
+---

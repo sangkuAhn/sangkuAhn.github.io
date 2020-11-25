@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "타이트엔드 프리미엄 코지 넥워머, 블랙" 
+description: 타이트엔드 프리미엄 코지 넥 ..
+date: 2020-11-21 14:37:14 
+img: https://static.coupangcdn.com/image/retail/images/23379566252404-bca1a3c1-580a-41b6-9b04-35fc7d37ef41.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=322023728&itemId=1031053565&vendorItemId=5479578574&traceid=V0-113-73dbb981d976bdfa 
+categories: [1006] 
+color: 4CAF50 
+price: 12000 
+author: Ask View Shop 
+cont:  "감사합니다<br/>낚시 좋아하시는 아버지께 선물해드렸는데 좋다고하시네요<br/>따뜻하고 좋음.<br/><br/>따뜻한것같은데 아직 하고 밖에는 안나가봤어요<br/>별로 안씀<br/>얼굴이 작은편도 아닌데 잘 들어감<br/>오자마자는 좀 새제품 냄새나서 빨아서 써야해요<br/>완전 추울때만 써야겠음<br/>이쪽 지역에는 추워봤자 영하 3도 까지 밖에 내려가지 않아서<br/>좀 추울때 쓰면 목에 땀이 참<br/>추천드림<br/>" 
+---

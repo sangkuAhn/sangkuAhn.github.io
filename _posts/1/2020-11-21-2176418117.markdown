@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "삼성전자 김치플러스 뚜껑형 김치냉장고 RP22T3111Z4 221L 방문설치" 
+description: 삼성전자 김치플러스 뚜껑형  ..
+date: 2020-11-22 07:42:51 
+img: https://static.coupangcdn.com/image/retail/images/2020/09/29/17/8/cd35024c-a35e-4a56-8903-09d6e3fa7400.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2176418117&itemId=3703445472&vendorItemId=71688718146&traceid=V0-113-b045b8fed5310396 
+categories: [1016] 
+color: 4374D9 
+price: 706790 
+author: Ask View Shop 
+cont:  "배송 설치 잘하고 성능은 아직사용중이라 확인못함<br/>저렴한 가격과 빠른 배송 정말 감사합니다<br/>친절하게 설치 잘해주셔서 감사했습니다<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "내셔널지오그래픽 스몰자수 와펜 기모 맨투맨-남녀공용" 
+description: 내셔널지오그래픽 스몰자수 와 ..
+date: 2020-11-23 14:08:27 
+img: https://static.coupangcdn.com/image/vendor_inventory/4fce/4570c7c378a4ace9abd61793975a7211f7392cf206e9c80e79c188576986.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2016228398&itemId=3429722238&vendorItemId=72338562360&traceid=V0-113-01096a3b075f6ce3 
+categories: [1002] 
+color: A57F92 
+price: 29900 
+author: Ask View Shop 
+cont:  "가격도 괜찮고 배송도 빠르네요.<br/> 사이즈도 정사이즈고요 만족합니다.<br/><br/>기모가 들어있어 추운날 점퍼 안에 입으면 따뜻할거 같고 재질도 좋고 사이즈도 딱 좋아요<br/>내셔널 맨투맨티 짭인게 티가안나고 핏도예뻐요.<br/>견장이 위에게 약간작아 부자연스럽고 싸이즈가 작고 짭아요<br/>" 
+---

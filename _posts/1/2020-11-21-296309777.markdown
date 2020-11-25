@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "라이프기어 USB발열조끼" 
+description: 라이프기어 USB발열조끼 ..
+date: 2020-11-21 14:08:24 
+img: https://static.coupangcdn.com/image/vendor_inventory/a3ad/b469838adf55902a96e53533e25e3be0ed877b622beda3029ffd9b9a9150.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=296309777&itemId=934273313&vendorItemId=5314838147&traceid=V0-113-1b6af9f4ed1a1c03 
+categories: [1002] 
+color: f44336 
+price: 19500 
+author: Ask View Shop 
+cont:  "넉넉하게 입으시면 온기가 빠져나갈 수 있어요<br/>사용시 편하고 따뜻하니 좋네요<br/>쓰레기같은 천이 안에서 많이 나와요 ㅠ<br/>후끈하니 좋습니다ㅎㅎ<br/>" 
+---

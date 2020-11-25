@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "케어프린/ 티타늄 정전기 완화 팔찌" 
+description: 케어프린/ 티타늄 정전기 완 ..
+date: 2020-11-21 14:08:24 
+img: https://static.coupangcdn.com/image/vendor_inventory/461b/28c7116dac831e6c94ebed4f0694ff9eab10c1f497a9a8134b999347ab3a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2216727865&itemId=3775614077&vendorItemId=71760657340&traceid=V0-113-9e046eea379bcca1 
+categories: [1002] 
+color: 006064 
+price: 12900 
+author: Ask View Shop 
+cont:  "이걸 착용하고부터 효과를 마니보았네요<br/>착용도 편하고<br/>찬바람만불면 정전기가 심했는데<br/>추천합니다<br/>" 
+---

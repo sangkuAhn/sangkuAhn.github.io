@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "캐럿 남성 모크넥 스웨터" 
+description: 캐럿 남성 모크넥 스웨터 ..
+date: 2020-11-21 14:08:24 
+img: https://static.coupangcdn.com/image/retail/images/18315614938144-142cc400-ae8c-49b9-98eb-45fd6ebb5f5b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1592571251&itemId=2721076168&vendorItemId=70711306060&traceid=V0-113-7b1f3c0a8312cd96 
+categories: [1002] 
+color: 353535 
+price: 18900 
+author: Ask View Shop 
+cont:  "반폴라 급하게 필요해서 구매했는데 넥라인과 소매 시보리 깔끔하고 평범하게 기본임.<br/> 조금 도톰할 줄 알았는데 얇은편.<br/><br/>색이 넘 고급지고 이뻐요<br/>생각보더 괜찮은데 오래입을 건 못되는 듯<br/>" 
+---

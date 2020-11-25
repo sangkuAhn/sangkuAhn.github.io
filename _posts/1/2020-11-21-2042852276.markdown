@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "스트릿제이 단가라 옆트임 오버핏 니트" 
+description: 스트릿제이 단가라 옆트임 오 ..
+date: 2020-11-21 14:08:24 
+img: https://static.coupangcdn.com/image/vendor_inventory/feaf/bff854d73069aee4da2b96bda5b592587df6ce5c036f87e65e4e0a4c6fb0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2042852276&itemId=3472749830&vendorItemId=71459078316&traceid=V0-113-295bc9f5b4a6c60b 
+categories: [1002] 
+color: CF36BB 
+price: 37000 
+author: Ask View Shop 
+cont:  "굿<br/>이건꼭사셔요 이가격에.<br/>.<br/>이정도면 한개더구매 할까생각중입니다<br/>쪼금 크지만 실물이뻐요 번창하세요<br/>" 
+---

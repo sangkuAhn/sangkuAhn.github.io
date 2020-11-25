@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "포플러앤씨 엘디앙 브이 니트 원피스" 
+description: 포플러앤씨 엘디앙 브이 니트 ..
+date: 2020-11-22 06:01:14 
+img: https://static.coupangcdn.com/image/retail/images/2020/07/31/12/2/b08dd9d3-1bc6-4a55-9374-2c22d2f0b524.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1941922527&itemId=3296787176&vendorItemId=72424056637&traceid=V0-113-5d9544a90138b734 
+categories: [1001] 
+color: FF1744 
+price: 15100 
+author: Ask View Shop 
+cont:  "가디건으로도 입을 수 있어서 좋네요<br/>가성비 만족해요<br/>그런데 옷은 타이트해요 그러나 신축성이 좋아요<br/>상품 아주 좋아요<br/>어깨도좁아보이고<br/>어디하나 모난데없고 좋았어요 그리고 원피스 뿐만 아니라 가디건으로도 입을 수 있는게 큰 장점인거 같아요 원피스로 입으니 날씬해 보여서 너무 좋았어요 감사합니다^^<br/>" 
+---

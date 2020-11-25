@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "크록스/ 바야 라인드 클로그 205969_50P" 
+description: 크록스/ 바야 라인드 클로그 ..
+date: 2020-11-22 06:37:18 
+img: https://static.coupangcdn.com/image/vendor_inventory/99ff/410ddd54c02257567e2a0904df1bd2b15d68e541595be037f0b6f07d980f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2244139093&itemId=3835173442&vendorItemId=71820011908&traceid=V0-113-bbde828fe04e3a54 
+categories: [1006] 
+color: 03A9F4 
+price: 37010 
+author: Ask View Shop 
+cont:  "겨울에 출근하면 사무실이 너무 추워서 생일선물로 구매했어요 화장실 가기에도 좋고 발도 따뜻하고 너무 좋다고 하네요 가격도 적당하고 색도 너무 이쁘고 귀엽고 짱 좋아요<br/>" 
+---

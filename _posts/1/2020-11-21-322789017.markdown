@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "남녀공용 짱구 파자마 겨울만능화" 
+description: 남녀공용 짱구 파자마 겨울만 ..
+date: 2020-11-22 06:44:31 
+img: https://static.coupangcdn.com/image/retail/images/2019/10/16/16/4/03ddc813-a04d-4014-9124-fc91dcb824bf.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=322789017&itemId=1033914064&vendorItemId=5517302231&traceid=V0-113-83448bb4257651a1 
+categories: [1007] 
+color: 006064 
+price: 10900 
+author: Ask View Shop 
+cont:  "235신어서240시켰어요  그런데도  작아요<br/>반품택비 아까워 저 신발을  어찌해야하나 싶네요<br/>발사이즈가 235엿는데 5mm큰 40으로 하니 딱맞네요 너무 딱 맞진않고 편한정도 그리구 조금 널널하게 신으실분은 50 추천해요<br/>신발  싸이즈가 작아요<br/>평소에 230신어서 한치수크게사라길래 240으로샀는데도 꽉쪼이는게 250으로 재주문하렵니다<br/>" 
+---

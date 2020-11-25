@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "이제이 남성용 가죽 스니커즈 EJ07" 
+description: 이제이 남성용 가죽 스니커즈 ..
+date: 2020-11-22 06:44:31 
+img: https://static.coupangcdn.com/image/retail/images/2020/01/15/19/5/dcde30fa-a113-4bf7-bcc0-29bae6be0420.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1187219429&itemId=2168129197&vendorItemId=70166267420&traceid=V0-113-f9dce5f5ece18d4f 
+categories: [1007] 
+color: 4A148C 
+price: 34720 
+author: Ask View Shop 
+cont:  "가격대비 성능이 넘 좋아요.<br/>  다음에 또 구매할께요<br/>탄탄하고  이뻐요<br/>평상히 발폭이 커서 265신는데 260시켜서 불안했는데 여유있고  디자인색상 다 맘에드네요<br/>" 
+---

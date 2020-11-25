@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "채니봉봉 크리샤 투톤 엘레강스 헤어밴드" 
+description: 채니봉봉 크리샤 투톤 엘레강 ..
+date: 2020-11-24 14:15:37 
+img: https://static.coupangcdn.com/image/retail/images/2020/08/11/20/9/c902590e-591f-4250-9653-68fe6d48941d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1956704672&itemId=3324865769&vendorItemId=71311720082&traceid=V0-113-31f3fab3843a149f 
+categories: [1003] 
+color: 43A047 
+price: 7950 
+author: Ask View Shop 
+cont:  "썼을때 너무너무너무 예쁜데ㅠㅠㅠㅠ<br/>아이가 머리띠 처음 쓰는데 자꾸 던져버려서 속상하네요ㅠ<br/>예뻐용 여기저기 다 잘 어울려요<br/>" 
+---

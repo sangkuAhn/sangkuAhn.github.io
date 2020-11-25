@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "무슈 아동용 애니멀 방한모" 
+description: 무슈 아동용 애니멀 방한모 ..
+date: 2020-11-21 14:30:02 
+img: https://static.coupangcdn.com/image/retail/images/2019/10/29/17/6/eb52b36c-cb05-464e-80c2-9ef08d096189.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=330335567&itemId=1055845863&vendorItemId=5528116321&traceid=V0-113-c6b031cc7f8d6fa0 
+categories: [1005] 
+color: D9418C 
+price: 18900 
+author: Ask View Shop 
+cont:  "10kg 8개월 아이입니다<br/>16개월 아기 사이즈 좋아요 목은 조금 불편해요 찍찍이라 귀여움으로는 귀달이 귀엽귀엽합니다<br/>넉넉하니 잘 맞네요 ㅎ 귀랑 목까지 덮어주니깐 겨울에 따뜻할갓같아요 ㅎ<br/>덩치가있는편이구 모자 사이즈가 프리여서 걱정했는데<br/>아들한테 씌웠는데 너무너무 귀여워요 ㅋㅋㅋ<br/>" 
+---

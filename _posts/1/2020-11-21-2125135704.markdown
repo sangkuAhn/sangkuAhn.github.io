@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "2213 로우웜 커플 수면잠옷 세트 (2type)" 
+description: 2213 로우웜 커플 수면잠 ..
+date: 2020-11-21 14:08:24 
+img: https://static.coupangcdn.com/image/vendor_inventory/3b7a/88d33a3050e1b143b69682100c9dc8c5940d1040887d579c6ca6cc1f938c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2125135704&itemId=3606281605&vendorItemId=71590446407&traceid=V0-113-6baf2b11feceb386 
+categories: [1002] 
+color: f44336 
+price: 15890 
+author: Ask View Shop 
+cont:  "가격대비 넘 얇아요 ㅜㅜ<br/>걍 입어보려구여<br/>색도이쁘고그림도예뻐요<br/>솔직히 가격에비해 별로 맘에 들진않은데<br/>" 
+---

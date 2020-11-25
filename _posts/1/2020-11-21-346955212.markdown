@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "더스텝리미티드 통굽 패딩 털슬리퍼" 
+description: 더스텝리미티드 통굽 패딩 털 ..
+date: 2020-11-21 14:44:27 
+img: https://static.coupangcdn.com/image/retail/images/2019/11/29/17/3/1623218c-e919-42c3-b705-8c059cc02a9f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=346955212&itemId=1101369847&vendorItemId=5629407961&traceid=V0-113-0be1444187d00ac7 
+categories: [1007] 
+color: f44336 
+price: 12900 
+author: Ask View Shop 
+cont:  "230 신음 보통 크다고 느끼는데 요건 225에 딱맞네요.<br/><br/>겨울따뜻하게 보낼거같아요.<br/><br/>발작은사람한텐 괜찮은듯요.<br/><br/>양말신음 조금더 작게느낄것도 같고.<br/><br/>완전맘에 듭니다!!통굽이라 편해요!!^^♡<br/>원래225이지만 구하기힘들어서 대부분230신어요.<br/><br/>통굽이고겨울엔따듯할것같아요.<br/><br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "에이비엠코리아 레드하트 쇼핑백 10p, 혼합 색상" 
+description: 에이비엠코리아 레드하트 쇼핑 ..
+date: 2020-11-22 08:18:55 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/06/10/4066104109/86fe5576-2b49-4acf-8e64-8134bb24fa74.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=149548700&itemId=432399805&vendorItemId=4066104109&traceid=V0-113-8d91dd4ea65c2918 
+categories: [1021] 
+color: CF36BB 
+price: 7500 
+author: Ask View Shop 
+cont:  "답례품으로 돌릴 쇼핑백이<br/>손바닥 만한 사이즈 귀엽고 앙증맞아요♡<br/>쇼핑백하나로 정성가득한 선물이 된거같아요!<br/>아담한사이즈ㅎㅎ<br/>제가 손이 좀 큰편이긴 합니다만.<br/>.<br/>제 손만하네요 ㅋㅋㅋ얼집 선생님 선물로 가볍게 담기 좋아요^^<br/>키엘 3종 미니 핸드크림 담아 선물하려고 구매 했는데 깜찍하고 좋아요.<br/><br/>필요해서 구매했어요<br/>핸드크림 사이즈가 작아 좀 크기는 하지만 하트 모양이 깜찍해서 핸드크림이랑 잘 어울리네요.<br/><br/>" 
+---

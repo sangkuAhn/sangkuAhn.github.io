@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "핸날 스퀘어 투명 큰 집게핀 3종 세트" 
+description: 핸날 스퀘어 투명 큰 집게핀 ..
+date: 2020-11-22 06:15:41 
+img: https://static.coupangcdn.com/image/retail/images/2020/07/13/18/8/1139ccbe-c518-47e1-bf1b-7ad3f5aa3b91.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1826479767&itemId=3107584594&vendorItemId=71095341280&traceid=V0-113-125b59707a893847 
+categories: [1003] 
+color: 4CAF50 
+price: 9900 
+author: Ask View Shop 
+cont:  "기존 집게들이 자꾸 부러지길래 이 상품은 가운데 구멍이 있어서 긴머리도 잘 고정되고 오래갈줄 알았는데 저 틈사이로 빠지는 건지 머리가 자꾸 풀려요ㅠ 색깔은 아주 이쁩니다<br/>배송빠른것도 최고<br/>생각보다 튼튼해요, 올 여름 이 집게핀으로 지낼 것 같아요<br/>제품도 튼튼하네요<br/>크기는 휴지랑 비교해보세요<br/>투명이라 더 예뻐보여요<br/>" 
+---

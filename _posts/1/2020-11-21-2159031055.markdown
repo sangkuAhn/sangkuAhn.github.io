@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "키스포 아동용 델프 기모 트레이닝 팬츠" 
+description: 키스포 아동용 델프 기모 트 ..
+date: 2020-11-21 14:30:02 
+img: https://static.coupangcdn.com/image/retail/images/2020/09/21/16/0/6be47bb3-9a36-4c0a-9396-f3007cfb727f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2159031055&itemId=3667526447&vendorItemId=71652935833&traceid=V0-113-050f404420dc44f3 
+categories: [1005] 
+color: FF6F00 
+price: 15150 
+author: Ask View Shop 
+cont:  "본인이 일부러 큰 것을 샀는데 역시 크네요^^;<br/>아들에게 맞춤있듯 깔끔함<br/>아들이 좋다네요 <br/>앞으로 23년 입을 수 있을 것 같아요<br/>" 
+---

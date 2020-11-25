@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "채니봉봉 체크 브리코 리본 헤어밴드" 
+description: 채니봉봉 체크 브리코 리본  ..
+date: 2020-11-23 14:15:40 
+img: https://static.coupangcdn.com/image/retail/images/2020/08/11/20/9/bfd6b942-bc0e-454d-8a1e-05f428f9615c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1956704406&itemId=3324865273&vendorItemId=71311719586&traceid=V0-113-0c234fdd3560ffe7 
+categories: [1003] 
+color: 4A148C 
+price: 7100 
+author: Ask View Shop 
+cont:  "4살 여아 사용하기에 흘러내리지 않고 좋아요.<br/><br/>7살 여자아이가 쓰는데 머리띠 불편하다고 안하거든요<br/>근데 이건 잘하고 다녀요 너무 이뻐요<br/>머리띠 잘못사면 아이가 뛸 때마다 줄줄 흘러내리는데 이건 잘 고정되네요.<br/><br/>사진처럼 색감도 체크무늬도 예뻐서 가을에 코디하기 딱이에요.<br/><br/>" 
+---

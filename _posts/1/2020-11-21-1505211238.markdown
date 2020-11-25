@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "벤힛 YUCK 세미 오버핏 특양면 맨투맨" 
+description: 벤힛 YUCK 세미 오버핏  ..
+date: 2020-11-21 14:08:24 
+img: https://static.coupangcdn.com/image/retail/images/2020/04/24/11/6/b731efe3-83c7-4644-82bb-a61438fba550.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1505211238&itemId=2581776374&vendorItemId=70574038832&traceid=V0-113-ef8461cbfbe034ed 
+categories: [1002] 
+color: 4CAF50 
+price: 18900 
+author: Ask View Shop 
+cont:  "맘에 들어요! 로고? 라고 해야되나 무튼 그림이 완전 큐티해욤<br/>면이 부드럽고 질이 좋아보여요.<br/> 사이즈는 넉넉하게 입으려면 한사이즈 크게 사야해요<br/>요즘  입기에  좋은 옷입니다처엠 좀 망설였는데  구매하기를  잘했습니다<br/>" 
+---

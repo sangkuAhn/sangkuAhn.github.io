@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "카카오프렌즈 2021 스프링 다이어리, 라이언" 
+description: 카카오프렌즈 2021 스프링 ..
+date: 2020-11-22 08:18:55 
+img: https://static.coupangcdn.com/image/retail/images/2020/10/22/9/6/24d97a40-b864-4629-b8ed-864bc454418e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2304995831&itemId=3972874652&vendorItemId=71957223028&traceid=V0-113-dd9fcb12e6bfe5fb 
+categories: [1021] 
+color: 353535 
+price: 17200 
+author: Ask View Shop 
+cont:  "다이어리는 예상대로 크기나 다 좋은데요<br/>만족해요 카카오랑 저랑 잘맞아요 벌써 작년에 이어 2번째입니다<br/>신경 좀 쓰세요 쿠팡<br/>아 진짜 찝찝한데 반품 귀찮아서 그냥 씁니다<br/>열자마자 머리카락 뭡니까.<br/>.<br/><br/>집에서  신는신발과  깔맞춤  ㅎㅎ 좋아요<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "반스 올드 스쿨 블랙 (VN000D3HY28)" 
+description: 반스 올드 스쿨 블랙 (VN ..
+date: 2020-11-21 14:44:27 
+img: https://static.coupangcdn.com/image/vendor_inventory/5b32/3adca0e27bd69c8eadfe26ffbce0faac54134a5427bc353315f57321ef79.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=257829498&itemId=808824393&vendorItemId=71843921504&traceid=V0-113-cb69384f8ae4e2e5 
+categories: [1007] 
+color: FF1744 
+price: 30500 
+author: Ask View Shop 
+cont:  "상품은 디자인이 좋지만 내구성이 좋지는 않은것 같습니다<br/>운동하려고 싰는데 신발끈 구멍이 안뚫려있네요... <br/><br/>정사이즈가 좋지만 신발 발 볼 부분이 조금 딱딱해서 아플 수 있습니다.<br/> 하지만 이런 보드화같은 신발류는 늘어남이 적고 딱딱하여 반업하여사는것 추천합니다.<br/><br/>" 
+---

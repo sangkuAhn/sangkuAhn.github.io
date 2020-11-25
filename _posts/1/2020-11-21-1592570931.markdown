@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "캐럿 남성 헤비 터틀넥 스웨터" 
+description: 캐럿 남성 헤비 터틀넥 스웨 ..
+date: 2020-11-21 14:08:24 
+img: https://static.coupangcdn.com/image/retail/images/251682158510030-0e7ab993-558b-4a52-93b8-f6c27b65a644.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1592570931&itemId=2721075633&vendorItemId=70711305615&traceid=V0-113-a2188732e09ec0a1 
+categories: [1002] 
+color: 5A8DF3 
+price: 19900 
+author: Ask View Shop 
+cont:  "꽤 두꺼워서 올 겨울 잘 입을 것 같고 가격도 좋으나 사이즈거 좀 큰 것 같습니다<br/>이옷 너무 편해요<br/>제발 이옷 여자 사이즈도 만들어주세요ㅠㅠ 캐럿제품 중 두꺼운 터틀넥 여성용이 없어서 구매했어요.<br/> 여자가 s<br/> -m 입어도 어색하진 않은데 길고 헐렁해서 받쳐입긴 힘드네요<br/>" 
+---

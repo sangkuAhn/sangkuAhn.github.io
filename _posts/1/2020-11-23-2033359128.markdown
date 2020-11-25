@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "살바토레 페라가모 남성지갑 66-A063" 
+description: 살바토레 페라가모 남성지갑  ..
+date: 2020-11-23 14:08:27 
+img: https://static.coupangcdn.com/image/vendor_inventory/776d/5bdfafa8822986ab9f92e3751c4877b5779fc81cf1f4781382c8d26979cd.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2033359128&itemId=3457671105&vendorItemId=71957606766&traceid=V0-113-e060026c0192c175 
+categories: [1002] 
+color: 4374D9 
+price: 87000 
+author: Ask View Shop 
+cont:  "사진이랑본거랑디자인이똑같아서좋앗습니다<br/>아주좋습니다<br/>제푸은 좋아요 배송은 엉청 느려요 기다리다취소할가<br/>" 
+---

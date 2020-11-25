@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "데이데이 벨벳 목폴라" 
+description: 데이데이 벨벳 목폴라 ..
+date: 2020-11-21 14:01:11 
+img: https://static.coupangcdn.com/image/vendor_inventory/e9d2/8eac67b96db62887bf873f716088f786067ded3377bdb35de0d494c0ee96.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1142574724&itemId=2113966495&vendorItemId=72326418039&traceid=V0-113-d8c08967581779f9 
+categories: [1001] 
+color: f44336 
+price: 9000 
+author: Ask View Shop 
+cont:  "매번구입하고있습니다<br/>잘받았습니다 !!<br/>한마디로아주허접하네요옷에마무리가전혀안되있습니다<br/>" 
+---

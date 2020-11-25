@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "릴리푸리 아동용 야미 상하의 세트" 
+description: 릴리푸리 아동용 야미 상하의 ..
+date: 2020-11-21 14:22:49 
+img: https://static.coupangcdn.com/image/retail/images/2020/09/24/19/2/c78ec315-5d77-4f65-855b-51ed49557139.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2176313521&itemId=3703313155&vendorItemId=71688586039&traceid=V0-113-cc775fafdf702ca7 
+categories: [1004] 
+color: FF1744 
+price: 18900 
+author: Ask View Shop 
+cont:  "104cm 18.<br/>7kg 여유있게 120 맞아요<br/>가격대비 괜찮아요<br/>그냥 기모 쪼금 들었습니다,,, 내복입혀서 보내면 딱일듯 해요<br/>기모가 있다고 써져있는데 두툼하게 들어있는건 아니고<br/>색깔도 그림도 딱 화면 그대로입니당<br/>어린이집용으로 입기 좋아요<br/>" 
+---

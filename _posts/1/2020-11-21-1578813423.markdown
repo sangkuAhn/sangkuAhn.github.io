@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "캐럿 오버핏 체크 셔츠" 
+description: 캐럿 오버핏 체크 셔츠 ..
+date: 2020-11-21 14:08:24 
+img: https://static.coupangcdn.com/image/retail/images/421659399086416-f7b6440b-c68d-4459-88af-cf4c5750bb59.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1578813423&itemId=2699493359&vendorItemId=70689873630&traceid=V0-113-c408736910723028 
+categories: [1002] 
+color: 1294AB 
+price: 17900 
+author: Ask View Shop 
+cont:  "171 66 마른체형인데<br/>m사이즈 딱좋아여 다른옷도 여기꺼사야겟음앞으로 ㅎ<br/>가격이 4만에서 5만대더라구요<br/>그리고 핏이 세미오버핏이면서 넘나 맘에듭니다.<br/><br/>넘 이뻐요 무엇보다 재질이 보드랍고 따뜻한느낌이고<br/>두꺼워서 겨울에도 유용하고 재질이 모 80%로<br/>몇일전아울렛에 가서 비슷한재질의 남방을 보고왔는데<br/>무늬도고급지고 어디든 잘어울립니다<br/>속는셈치고 한번 주문해본건데<br/>옷품질 엄청좋네요<br/>와 이가격에 정말잘삿어요<br/>정전기 없어서 좋다.<br/><br/>최고에요<br/>" 
+---

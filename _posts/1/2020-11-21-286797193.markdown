@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "공블리 여성용 V넥 베이직 니트" 
+description: 공블리 여성용 V넥 베이직  ..
+date: 2020-11-22 06:01:14 
+img: https://static.coupangcdn.com/image/retail/images/2020/06/29/17/7/1eb85ae5-6913-404e-ae55-07f5bd42c1c0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=286797193&itemId=909143220&vendorItemId=70986879269&traceid=V0-113-99a8dbe2ec9b72fc 
+categories: [1001] 
+color: A57F92 
+price: 11300 
+author: Ask View Shop 
+cont:  "가격대비 좋아요<br/>색상도 괜찮고 쫀쫀해서 따뜻하게 잘 입고있어요생각보다 싸이즈가 넉넉하지 않아요<br/>원사이즈라 복불복임.<br/> 모델이 매우 체구가 작고 마른사람인지 모델용 옷이 따로 있는지 모르겠지만 소매며 전체적인 사이즈가 그냥 딱맞음.<br/> 소매가 넉넉할줄 알았는데 막상 받고보니 아님.<br/> 옷감의 소재는 부드럽습니다.<br/> 집에서 편하게 입을 만함.<br/><br/>재구매하려구 봤더니 색상별로 가격이 올랐더라구요품절된색상도 있구요<br/>착용감이 너무 부드러워서 다른색도 구매했어요  안입은듯 편해요<br/>" 
+---

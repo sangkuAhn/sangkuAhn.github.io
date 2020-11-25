@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "디스커버리 스판 기모 트레이닝바지-남녀공용" 
+description: 디스커버리 스판 기모 트레이 ..
+date: 2020-11-21 14:01:11 
+img: https://static.coupangcdn.com/image/vendor_inventory/563f/378da7dbe8b8389a267f40b25d3380d7b97ba4f2f45a02aafd9409183fac.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2208919550&itemId=3759184338&vendorItemId=72310327852&traceid=V0-113-077d337eb49e9056 
+categories: [1001] 
+color: 4CAF50 
+price: 37900 
+author: Ask View Shop 
+cont:  "권장함니다<br/>두툼해서 한겨울에도 착용가능<br/>바느질마감이별로네요실들이여기저기다튀어나와있고기대이하예요<br/>바지통도 적당하구<br/>어제 날씨에 입으니 늦오후에는 쌀쌀 기모가 얇은편<br/>오늘 날씨(아침기온4도) 에는 못입을것같아요<br/>좋아요<br/>" 
+---

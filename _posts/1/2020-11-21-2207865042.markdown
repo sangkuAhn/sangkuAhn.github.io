@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "리틀프렌즈 따뜻하고 폭신한 착화감_뽀글 슬리퍼" 
+description: 리틀프렌즈 따뜻하고 폭신한  ..
+date: 2020-11-21 14:44:27 
+img: https://static.coupangcdn.com/image/vendor_inventory/7727/2e28fa65415517d125d272264cc7780f90962e3defbf8a5e1403307c136d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2207865042&itemId=3757387256&vendorItemId=71793037715&traceid=V0-113-45d390d601ba01b9 
+categories: [1007] 
+color: D9418C 
+price: 12550 
+author: Ask View Shop 
+cont:  "230인데 딱 맞아요<br/>진짜 귀여움.<br/> 평소에 신발 240 신는데 발에 딱 맞고 약간 신발 테두리가 발뒷꿈치로 밟히는 정도의 크기임.<br/> 귀엽고 따뜻하고 폭신폭신하고 이거 신으면 층간소음 절대안낼듯<br/>" 
+---

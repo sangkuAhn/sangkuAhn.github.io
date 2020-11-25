@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "옥스포드 아동용 라이드 스냅백 OX0037" 
+description: 옥스포드 아동용 라이드 스냅 ..
+date: 2020-11-21 14:30:02 
+img: https://static.coupangcdn.com/image/retail/images/2019/11/12/11/0/0baff225-01b8-48f7-9a7c-304fcb89844a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=336338576&itemId=1072808253&vendorItemId=72115738852&traceid=V0-113-4ad6831ad3ab907c 
+categories: [1005] 
+color: 353535 
+price: 16900 
+author: Ask View Shop 
+cont:  "4살남아 조금살짝큰데 이뿌요.<br/><br/>아기가 32갤이 되서 구매합니다<br/>아직 크기는 한데 최대한 줄여보니 쓸곳 같아요<br/>예뻐요 색도 이쁘고<br/>작년부터 눈독드렸는데<br/>" 
+---
