@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "바당보름 GAP 인증 감귤, 3kg, 1박스" 
+description: 바당보름 GAP 인증 감귤, ..
+date: 2020-11-25 15:13:00 
+img: https://static.coupangcdn.com/image/retail/images/2020/10/20/17/7/f7dc8eb7-10c2-49a2-9d8e-11d71ac102f1.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2273789364&itemId=3900776435&vendorItemId=71885367845&traceid=V0-113-d5ee97f3ec68b209 
+categories: [1012] 
+color: BF360C 
+price: 11900 
+author: Ask View Shop 
+---
+ 
