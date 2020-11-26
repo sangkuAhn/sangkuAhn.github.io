@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "미쯔 시리얼팩, 360g, 1개" 
+description: 미쯔 시리얼팩, 360g,  ..
+date: 2020-11-27 07:13:22 
+img: https://static.coupangcdn.com/image/retail/images/2020/09/03/12/9/47968e27-9352-4246-8db0-c027ed4ded30.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2050666933&itemId=3486300633&vendorItemId=71472579993&traceid=V0-113-401c95932c6be7e5 
+categories: [1012] 
+color: D9418C 
+price: 5400 
+author: Ask View Shop 
+---
+ 
