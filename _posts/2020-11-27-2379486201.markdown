@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "김이가 햇 곱창김 100매, 260g, 1개" 
+description: 김이가 햇 곱창김 100매, ..
+date: 2020-11-28 07:13:19 
+img: https://static.coupangcdn.com/image/retail/images/2020/11/09/19/8/7e219761-0f34-41ae-ba3f-19aada5e2176.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2379486201&itemId=4149228721&vendorItemId=72133123325&traceid=V0-113-1d6cf42d8e64cfad 
+categories: [1012] 
+color: 006064 
+price: 21100 
+author: Ask View Shop 
+---
+ 

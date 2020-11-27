@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아르디움 2021 열두달의 기억 다이어리, 기록" 
+description: 아르디움 2021 열두달의  ..
+date: 2020-11-28 08:18:05 
+img: https://static.coupangcdn.com/image/retail/images/2020/09/10/19/2/6daf9611-00dd-45d2-9b34-4173e5c1c8e5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2169687295&itemId=3690542339&vendorItemId=71675863645&traceid=V0-113-173b0c412e638f0d 
+categories: [1021] 
+color: A566FF 
+price: 7420 
+author: Ask View Shop 
+---
+ 

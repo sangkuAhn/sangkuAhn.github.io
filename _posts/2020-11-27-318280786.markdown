@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "인크리코 스마트100구 벽트리, 레드" 
+description: 인크리코 스마트100구 벽트 ..
+date: 2020-11-28 07:34:55 
+img: https://static.coupangcdn.com/image/retail/images/2019/10/15/11/8/99186e7e-8a1d-4c1e-a281-48f78f99a9ee.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=318280786&itemId=1016055379&vendorItemId=5452258026&traceid=V0-113-beeee7c6c21e7076 
+categories: [1015] 
+color: FF1744 
+price: 37900 
+author: Ask View Shop 
+---
+ 
