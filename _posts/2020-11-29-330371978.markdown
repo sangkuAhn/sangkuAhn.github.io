@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "랑방 에끌라 30ml + 에끌라 미니 4.5ml + 쇼핑백 세트, 1세트" 
+description: 랑방 에끌라 30ml + 에 ..
+date: 2020-11-29 14:58:49 
+img: https://static.coupangcdn.com/image/retail/images/2019/11/04/10/2/f7603c92-4f8b-4e8f-a173-79f6288df184.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=330371978&itemId=1055934495&vendorItemId=5528363282&traceid=V0-113-f347e433fc626dd9 
+categories: [1010] 
+color: FF1744 
+price: 30910 
+author: Ask View Shop 
+---
+ 
