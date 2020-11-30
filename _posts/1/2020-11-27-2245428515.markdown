@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "닌텐도 스위치 젤다무쌍 대재앙의 시대 한글판, 타이틀(예약특전 없음)" 
+description: 닌텐도 스위치 젤다무쌍 대재 ..
+date: 2020-11-28 08:10:53 
+img: https://static.coupangcdn.com/image/vendor_inventory/3820/a181dfffcaca7fe2a6abd851babc90e556513ab6dc2d78095f72a5f7d2ee.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2245428515&itemId=3837104282&vendorItemId=71821945562&traceid=V0-113-c0615486e04cf261 
+categories: [1020] 
+color: 35B62C 
+price: 62900 
+author: Ask View Shop 
+cont:  "배송은 좀 느렸지만 저렴한 가격에 득템  잼있어요<br/>" 
+---

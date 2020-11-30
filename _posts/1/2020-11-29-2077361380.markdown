@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "패리스독 라이베어 강아지 맨투맨, 네이비" 
+description: 패리스독 라이베어 강아지 맨 ..
+date: 2020-11-29 16:32:21 
+img: https://static.coupangcdn.com/image/retail/images/2020/09/07/9/6/49d0c18c-1765-4a7b-a126-ca67bbd8d8bd.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2077361380&itemId=3529591433&vendorItemId=71515633610&traceid=V0-113-8615198b1d01063d 
+categories: [1029] 
+color: F361A6 
+price: 9710 
+author: Ask View Shop 
+cont:  "4개월 슈나우저<br/>4키로 포매 9개월  털찌면 작을꺼 같지만 지금은 이뿜<br/>가슴둘레31cm<br/>등길이27cm<br/>목둘레21cm<br/>옷이 잘 어울려요！좀 길긴 한데 괜찮아요～아주 마음에 들어요.<br/><br/>입기 편하고 따뜻해요 ^^<br/>" 
+---

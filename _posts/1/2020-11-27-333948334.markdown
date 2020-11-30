@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "뉴발란스 ML840BI 스니커즈 운동화" 
+description: 뉴발란스 ML840BI 스니 ..
+date: 2020-11-28 06:44:31 
+img: https://static.coupangcdn.com/image/vendor_inventory/9083/6147d29fa6d23aa23624807847977ab8dfc70df8d263a149575740ecc84c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=333948334&itemId=1066172047&vendorItemId=72325152300&traceid=V0-113-d59598c5ea739873 
+categories: [1007] 
+color: 03A9F4 
+price: 41000 
+author: Ask View Shop 
+cont:  "런닝화 처럼 가볍고 착화감도 좋습니다, 좋은제품 잘 신을께요^^<br/>옷과 함께 맞춰 입으니 맘에 드네요<br/>좀 무거울 듯 보였으나 막상 신발을 받아보니<br/>" 
+---

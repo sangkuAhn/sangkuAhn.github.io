@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "바비수 세인트라벨 솔리드 머플러" 
+description: 바비수 세인트라벨 솔리드 머 ..
+date: 2020-11-29 14:51:37 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/11/01/5456479500/f8800f1b-b1f2-4a0a-818a-0feffc6098cb.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=318861214&itemId=1018616084&vendorItemId=5456479500&traceid=V0-113-ac16857d3301c893 
+categories: [1008] 
+color: 4374D9 
+price: 15900 
+author: Ask View Shop 
+cont:  "무엇보다 최고인 점은 배송... <br/> 저녁 7시경 주문했는데 12시에 도착해서 깜짝 놀랐습니다 ㅋㅋㅋ 분명 아침에 온다고 했는데... <br/>!<br/>색깔이 양면인지 몰랐어요 ㅠㅠ 설명에 알려주셨으면 더 좋았을 거같아요<br/>엄마랑 커플템할려고 엄마는 카키 저는 핑크 이렇게 구매했는데 정말 너무 이쁘고 촉감도 부들부들 좋아요 ㅠㅠ 정말 잘산거 같아요 겨울까지 잘쓸수 있을거 같아요 감사합니다<br/>친구 선물했어요! 제가 기대했던 카키색은 아니었지만 친구는 좋다고하네요 ㅋㅋ 카키라기보다는 베이지+회색에 가까운 것 같아요.<br/> (한마디로 애매모호한 색) 소재가 보들보들하니 겨울에 잘 어울리긴하네요 )<br/>" 
+---

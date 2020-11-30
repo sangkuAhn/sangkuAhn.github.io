@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "대박난박양 스피넬 프릴 니트 원피스" 
+description: 대박난박양 스피넬 프릴 니트 ..
+date: 2020-11-29 14:01:12 
+img: https://static.coupangcdn.com/image/vendor_inventory/cf8e/aeadabdd4c09d01558974f3ef26cd6ba2f0ca36f5aa4f014622802090cd6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2317120200&itemId=3999560560&vendorItemId=71983825701&traceid=V0-113-f7f7966a68d44e36 
+categories: [1001] 
+color: f44336 
+price: 28800 
+author: Ask View Shop 
+cont:  "169cm 50kg<br/>만족합니다<br/>아주 좋아해요.<br/>원단 도 편 해 요.<br/> 배달 속도 도 빠 르 고.<br/><br/>앵글부츠랑 매치하니 길이도 적당하니 종아리 안굵어보여요 니트원피스라서 무게는 쬐끔 있어요 두께도 너무 두껍지도 얇지도 않아 코트랑 입으면 딱이겠네요<br/>" 
+---

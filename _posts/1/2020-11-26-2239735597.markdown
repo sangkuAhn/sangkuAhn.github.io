@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "인크리코 펠트 트리가랜드, 혼합색상" 
+description: 인크리코 펠트 트리가랜드,  ..
+date: 2020-11-27 08:11:01 
+img: https://static.coupangcdn.com/image/retail/images/2020/10/07/12/7/495d6dbf-f709-4549-a62b-913c2daaaf3a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2239735597&itemId=3825547810&vendorItemId=72456126073&traceid=V0-113-e2b48bf45d061363 
+categories: [1020] 
+color: BF360C 
+price: 9600 
+author: Ask View Shop 
+cont:  "가랜드 하나로 분위기가 크리스마스가 되었네요 )<br/>끈도 다 연결되어서 와서 그냥 걸기만 하면 되서<br/>너무 이쁩니다 가랜더하나로 분위기 싹 바뀌었어요^^<br/>넉넉하게 걸어둘 수 있고<br/>넘 귀여워요ㅋㅋ 긴걸 찾았는데 딱이네요<br/>엄청 간단하고 편리해요<br/>이거 하나로 방 분위기가 달라져요!<br/>크리스마스 느낌 내려고 구매했는데 가랜드 길이도 길어서<br/>펠트 재질이라서 보관을 잘 하면 오랫동안 재사용할 수 있을 것 같아요<br/>" 
+---

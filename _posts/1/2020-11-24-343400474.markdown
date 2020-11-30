@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "반짝 스티커 크리스마스, 로이북스" 
+description: 반짝 스티커 크리스마스, 로 ..
+date: 2020-11-25 08:03:45 
+img: https://static.coupangcdn.com/image/retail/images/2019/11/25/15/9/0c8d4fa3-f8da-436c-8d65-6261fcc6ec21.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=343400474&itemId=1091189960&vendorItemId=5605023651&traceid=V0-113-b0f7ca119766e24d 
+categories: [1019] 
+color: 353535 
+price: 3430 
+author: Ask View Shop 
+cont:  "40개월 아기가 좋아해요<br/>빨강파랑은 아예 안붙더라구요 불량인건가ㅜㅜ 아이가 자고 혹시나 다른건 좀붙네요 한두장해보고 남은건 아이랑 할려고 놔뒀네요... <br/><br/>아잇!! 친구랑 같이 하려고 아이를 사줬는데.<br/>.<br/> 끈끈하기만하고 붙질않아요.<br/>.<br/> 신났다가 기분만 가라앉았네요.<br/>.<br/> 해보기 전까지는 불량인지도 모르고.<br/>.<br/> 하면 되질않으니.<br/>.<br/> 이게 돈버리는 경우네요.<br/>.<br/>ㅜㅜ<br/>유익성이고 흥미고를 떠나서 상품이 제대로 되어야 안전 유익 흥미도 있을 것 같습니다!!<br/>처음에는 도와줘야했는데 몇번 해보더니 이제 잘하네요<br/>평가지를 재대로 만들어서 올려주세요!!<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "카카오프렌즈 2021 스프링 다이어리, 어피치" 
+description: 카카오프렌즈 2021 스프링 ..
+date: 2020-11-25 08:18:08 
+img: https://static.coupangcdn.com/image/retail/images/2020/10/20/21/0/56b5a005-bbf3-4848-b19c-554bd0e829da.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2305643458&itemId=3974016977&vendorItemId=71958356444&traceid=V0-113-9c75f918002af161 
+categories: [1021] 
+color: A566FF 
+price: 17200 
+author: Ask View Shop 
+cont:  "ㄴ 스프링으로 되어 있어 넘기기 편하고 불편하지 않아요<br/>ㄴ 어피치도 귀엽다고 하네요<br/>ㄴ 조금 큰편이지만 들고 다닐게 아니라 괜찮아요 ㅎ<br/>ㄴ 핑크가 인쇄도 잘 되어 있고 딱 좋습니다<br/>ㄴ 핑크를 좋아해서 만족해 합니다 .<br/><br/>결론적으로 성공한 선물 ㅎ<br/>귀엽고 튼튼해서 좋네요.<br/> 쓰는 맛이 있을 듯 합니다.<br/><br/>남색으로  바꿔야하나 싶네요<br/>사용<br/>색상<br/>아내 반응<br/>와이프가 2021다이어리가 필요하다고 해서<br/>이것저것 찾다가 마음에 들어 할것 같아 구매 !<br/>전핑크가 생각보다 안이뻐요.<br/>.<br/>속은모르겠는데<br/>크기<br/>" 
+---

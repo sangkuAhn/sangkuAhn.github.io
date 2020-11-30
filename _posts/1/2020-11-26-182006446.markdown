@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코지라벨 울 골지 겨울양말 3족 세트 A" 
+description: 코지라벨 울 골지 겨울양말  ..
+date: 2020-11-27 06:51:43 
+img: https://static.coupangcdn.com/image/retail/images/2019/01/30/18/5/63876cd8-6fd0-43b0-b4d7-41c64a0795ce.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=182006446&itemId=521495034&vendorItemId=4348458325&traceid=V0-113-f7094c88016c4cb4 
+categories: [1008] 
+color: CF36BB 
+price: 9500 
+author: Ask View Shop 
+cont:  "겨울에 발이 많이 시린 분들께 추천합니다.<br/><br/>그래도  디잔은  예뻐요<br/>근데 흘러내려요<br/>두툼하고 따뜻해요.<br/><br/>두툼하고 맘에들어요 따뜻하고 중목양말이라 높이올라오구요<br/>따뜻하고 마음에듭니다!!!!<br/>양말바닥이 미끄러워서  넘어질뻔했어요ㅜㅜ<br/>제다리가두꺼워서그런거같애요ㅋㅋㅋㅋㅋㅋ<br/>" 
+---
