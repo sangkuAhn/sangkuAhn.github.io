@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "커피앳웍스 에티오피아 벤사 원두, 홀빈(분쇄안함), 200g" 
+description: 커피앳웍스 에티오피아 벤사  ..
+date: 2020-12-01 07:13:10 
+img: https://static.coupangcdn.com/image/retail/images/2020/11/17/17/1/4fbc0f8d-3c8d-44e9-bf06-e7af304ff088.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4349401330&itemId=5100853049&vendorItemId=72410411251&traceid=V0-113-f5b36c83828e5cbb 
+categories: [1012] 
+color: FF6F00 
+price: 14400 
+author: Ask View Shop 
+---
+ 
