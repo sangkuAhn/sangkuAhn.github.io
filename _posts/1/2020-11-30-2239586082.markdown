@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "맥시브 기모 방한귀마개, 블랙" 
+description: 맥시브 기모 방한귀마개, 블 ..
+date: 2020-12-01 06:37:14 
+img: https://static.coupangcdn.com/image/retail/images/2020/10/14/17/3/44a21cf5-9be1-496f-8332-033b983f053e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2239586082&itemId=3825241939&vendorItemId=71810101956&traceid=V0-113-8eb2339513a8b288 
+categories: [1006] 
+color: F361A6 
+price: 7500 
+author: Ask View Shop 
+cont:  "성인  남성용으로 좋아요.<br/>길이조정 있음좋을듯<br/>아침 저녁 조깅하는데 따뜻해요<br/>외부소리 잘들리고 부드러워요<br/>" 
+---

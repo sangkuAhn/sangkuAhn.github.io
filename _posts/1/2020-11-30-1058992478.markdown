@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "고스토어 방수 작업용 기모 패딩 잠바" 
+description: 고스토어 방수 작업용 기모  ..
+date: 2020-12-01 06:08:25 
+img: https://static.coupangcdn.com/image/vendor_inventory/61b2/22e77202520e7fdd99091b3243cdf3478a1d92259c27b3078724aba2ac28.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1058992478&itemId=2002667542&vendorItemId=70002639485&traceid=V0-113-00d72ad5771c30af 
+categories: [1002] 
+color: F15F5F 
+price: 24800 
+author: Ask View Shop 
+cont:  "10개 이상의 제품보고 싸고 좋은걸로 골랐다고 생각했는데<br/>가격대비 좋다는 후기보고 구매결정했어요.<br/><br/>따뜻하고 좋아요<br/>생각이상으로 만족합니다.<br/> 단 주머니 공간이 넉넉하진 않아서<br/>스마트폰이 다 들어가진않습니다.<br/> 가성비 대비 짱이요.<br/><br/>좋았음<br/>" 
+---

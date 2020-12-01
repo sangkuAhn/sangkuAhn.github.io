@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "다용도 방한 주방화" 
+description: 다용도 방한 주방화 ..
+date: 2020-11-30 14:44:24 
+img: https://static.coupangcdn.com/image/retail/images/2019/11/08/17/0/4669705d-2b6a-4992-a6b4-d11f4d1e2d81.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=334891552&itemId=1068725016&vendorItemId=5555997516&traceid=V0-113-b57ed7a92f22d2b2 
+categories: [1007] 
+color: 43A047 
+price: 9370 
+author: Ask View Shop 
+cont:  "230으로 샀는데 작아서 안신으신다고 하시네요ㅜㅜㅜㅜㅜ<br/>235이신데 40은 혹시 커서 넘어지실때 위험 할까봐<br/>다시 240으로 사드려야겠어요ㅜㅜㅜㅜㅜ<br/>따뜻하네요.<br/> 마당에서 김장해야하는 시댁에서 신으려고 구입했는데 완전 좋아요.<br/> 다만 사이즈는 좀 작아요.<br/><br/>보통 신발 사이즈 275 신는데 270하고 280 두개 시켜서 신어보니 270은 꽉끼고 좀 답답할꺼같고 280은 좀 여유롭게 손가락 들어갈정도 공간이 남아 답답함이 없음<br/>안쪽 털이 있어 보온도 괜찮고 단점은 뒷쪽에 길이가 짧아 걸으면서 뒷꿈치가 올라감<br/>이모 할머니가 갖고싶다하셔서 사드렸는데<br/>" 
+---
