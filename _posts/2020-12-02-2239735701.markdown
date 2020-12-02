@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "인크리코 포인트리스, 네츄럴" 
+description: 인크리코 포인트리스, 네츄럴 ..
+date: 2020-12-02 15:34:12 
+img: https://static.coupangcdn.com/image/retail/images/2020/10/07/12/4/273d2375-c215-48ae-8c93-4281c6f701cd.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2239735701&itemId=3825548163&vendorItemId=4179565002&traceid=V0-113-a665090c04b37eca 
+categories: [1015] 
+color: BF360C 
+price: 15900 
+author: Ask View Shop 
+---
+ 
