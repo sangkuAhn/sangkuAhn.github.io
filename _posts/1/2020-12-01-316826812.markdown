@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "블리슈 파벨 퍼슬리퍼 3cm 커플슬리퍼 사무실슬리퍼" 
+description: 블리슈 파벨 퍼슬리퍼 3cm ..
+date: 2020-12-01 14:44:19 
+img: https://static.coupangcdn.com/image/vendor_inventory/1358/b687e68ce01773581e2eac701bcf0e58370d2b8a2cb1f486c8a8a65c1f99.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=316826812&itemId=1009231535&vendorItemId=5441484848&traceid=V0-113-55b4aa8c3f536361 
+categories: [1007] 
+color: 4CAF50 
+price: 11800 
+author: Ask View Shop 
+cont:  "250신어서 250주문 했는데 양말 신고 신으니 작아요<br/>그냥 신을만해요<br/>사무실에서 신으려고 샀는데 무겁지도 않고 가벼워요!! 털도 복실복실해서 너무 따뜻해요!!!^^ 배송도 매우 빨랏어요!! 감사합니다!<br/>슬리퍼라 여유 있을줄 알았는데 털때문에 작나봐요<br/>운동화사이즈보다 한치수 크게 주문해야할것같아요<br/>" 
+---

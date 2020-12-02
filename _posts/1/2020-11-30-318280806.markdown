@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "인크리코 인서트벽트리 세트, 혼합 색상" 
+description: 인크리코 인서트벽트리 세트, ..
+date: 2020-12-01 07:34:47 
+img: https://static.coupangcdn.com/image/retail/images/2019/10/15/11/2/f0d6b6b3-9986-497a-9c5f-39c8a4984532.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=318280806&itemId=1016055426&vendorItemId=5452258108&traceid=V0-113-6c21c01f5d4edb23 
+categories: [1015] 
+color: 353535 
+price: 21420 
+author: Ask View Shop 
+cont:  "2살 짜리 막내가 있어서<br/>교환하기 귀찮아서 접착제로 붙였네요ㅎ<br/>까다롭다는 후기가 있길래<br/>나중에 하려고 놔뒀더니<br/>딸의 성화에 언박싱 했습니다 ㅋㅋㅋ<br/>모두모두 건강하세요❤<br/>반짝이 이런거 없어서 좋습니다^^<br/>받고 난 후 크리스마스가 아직 좀 남아서<br/>사진만 달면 딱일것 같아요^^<br/>쉽게 완성할 수 있는 벽트리예요.<br/><br/>아가랑 같이 꾸미기에<br/>열기 전에 각오를 다졌는데.<br/>.<br/> 어떤가요?<br/>오너먼트 넉넉해서 다 달아주니<br/>올해는 요렇게 크리스마스 분위기 내네요<br/>완성 전까진 뭔가 허접해보였는데 완성 후에 전구까지 불켜니 완전예뻐요ㅎ 벽트리 하나로 분위기 나네요<br/>장식품 자체가 따뜻하고 분위기 있어서<br/>저는 어렵지 않게 뚝딱 완성 했어요.<br/><br/>저렴하고 자리 차지 안하니 좋네요^^<br/>크리스마스 글자가 깨져와서 별하나 뺐어요.<br/>.<br/><br/>트리 너무 예뻐요^^<br/>풍성해보이고 설치도 쉽네요^^<br/>한 30분 걸린 것 같네요.<br/><br/>" 
+---

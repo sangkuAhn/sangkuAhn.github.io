@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "나이키 기본 자수 기모 트레이닝바지" 
+description: 나이키 기본 자수 기모 트레 ..
+date: 2020-12-02 06:08:25 
+img: https://static.coupangcdn.com/image/vendor_inventory/159d/9638c6b85c7226eeacc8b135d44c0984f515c961b6c9dd504b9d68d9aaee.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2316475188&itemId=3998146673&vendorItemId=71983265282&traceid=V0-113-4225c4fd7a89ce97 
+categories: [1002] 
+color: BD24A9 
+price: 38000 
+author: Ask View Shop 
+cont:  "나이키 기본 자수 기모 트레이닝바지, L100(31<br/> -32), 블랙<br/>따뜻하고 착용감도 좋아요<br/>원단 너무너무 좋아요<br/>좋아요  잘입겠습니다<br/>" 
+---
