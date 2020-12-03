@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "비단길 메이비 자수 장갑" 
+description: 비단길 메이비 자수 장갑 ..
+date: 2020-12-03 06:31:30 
+img: https://static.coupangcdn.com/image/retail/images/2019/11/25/18/7/7c3e8d4d-a851-4aed-9dae-385d855169a0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=344524275&itemId=1094394947&vendorItemId=5612885701&traceid=V0-113-752da547b5931103 
+categories: [1005] 
+color: BD24A9 
+price: 6900 
+author: Ask View Shop 
+cont:  "가위로 속털안감을 잘라버렸어요;;<br/>디자인이과 컬러감이 이뻐서<br/>따뜻하고좋긴하나<br/>딸아이가 좋아하는데<br/>속에털이분리되서불편하네요<br/>아쉽네요ㅜ<br/>안감이 따뜻하긴한데 손이잘안들어가서 아기가 짜증을 내요<br/>안에 내피 같이벗겨져서<br/>엄청불편합니다<br/>장갑벗을때<br/>한번끼고 버릴라구여 벙어리장갑이  최상일듯하네요<br/>" 
+---

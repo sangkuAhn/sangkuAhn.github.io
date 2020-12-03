@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "라인프렌즈 아동용 브라운앤프렌즈 코니 페이털실내화" 
+description: 라인프렌즈 아동용 브라운앤프 ..
+date: 2020-12-03 06:31:30 
+img: https://static.coupangcdn.com/image/rs_quotation_api/gcupxgqf/7e2be2d9fc7b4c99beb9190cdf41a5e7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2379692648&itemId=4149898427&vendorItemId=72133788064&traceid=V0-113-8c464c23bb7974fb 
+categories: [1005] 
+color: 7E57C2 
+price: 11680 
+author: Ask View Shop 
+cont:  "사이즈표대로 주문했더니 살짝 낙낙하니 좋아요^^ 운동화는 200이 많이 넉넉해서 깔창깔고 신어도 큰데 요건 210으로 주문했는데 벗겨지지 않을 정도의 낙낙함입니다 이쁘고 따뜻하고 좋아요^^<br/>" 
+---

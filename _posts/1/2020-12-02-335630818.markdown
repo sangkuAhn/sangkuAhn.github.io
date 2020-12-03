@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "플레이모빌 산타와 크리스마스 제과점 피규어 세트 9493, 1세트" 
+description: 플레이모빌 산타와 크리스마스 ..
+date: 2020-12-02 16:10:11 
+img: https://static.coupangcdn.com/image/retail/images/2019/11/08/18/2/8027398f-5d81-455a-b846-becac1f397ae.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=335630818&itemId=1070878009&vendorItemId=5560504511&traceid=V0-113-ca257144d7178ee6 
+categories: [1020] 
+color: 353535 
+price: 88000 
+author: Ask View Shop 
+cont:  "아기자기하고  너무 예뻐요.<br/>  아이가 무척좋아해요<br/>조립이 생각보다 손이 아파서 초등 아이가 혼자 못했음.<br/> 도와줬는데 어른 손도 아픔.<br/> 그래도 조립 다 하면 예쁨.<br/><br/>" 
+---
