@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "관종의 조건, 웨일북" 
+description: 관종의 조건, 웨일북 ..
+date: 2020-12-03 16:03:11 
+img: https://static.coupangcdn.com/image/retail/images/2020/11/30/11/9/9d5d1956-bee3-48fd-8bc6-efbb1e75e5f7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4523080913&itemId=5455495183&vendorItemId=72755300848&traceid=V0-113-506b5312d8c2f2a7 
+categories: [1019] 
+color: 4374D9 
+price: 16200 
+author: Ask View Shop 
+---
+ 
