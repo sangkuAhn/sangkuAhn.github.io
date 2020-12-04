@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "K2 캐주얼비니, 블랙" 
+description: K2 캐주얼비니, 블랙 ..
+date: 2020-12-04 14:37:01 
+img: https://static.coupangcdn.com/image/retail/images/508277032582726-1bdc2121-3b3e-4262-8f70-5892740cfbc6.JPG 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=320531578&itemId=1025699011&vendorItemId=5468983686&traceid=V0-113-f1cf9266369c789c 
+categories: [1006] 
+color: 03A9F4 
+price: 13400 
+author: Ask View Shop 
+---
+ 

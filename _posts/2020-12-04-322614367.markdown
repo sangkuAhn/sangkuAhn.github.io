@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "우주아이 조이 엄지장갑" 
+description: 우주아이 조이 엄지장갑 ..
+date: 2020-12-04 14:22:37 
+img: https://static.coupangcdn.com/image/retail/images/2019/10/16/18/0/e7131815-0078-4cc9-90f8-6d0a251d37b3.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=322614367&itemId=1033376149&vendorItemId=5483527921&traceid=V0-113-a636fc7e244789fb 
+categories: [1004] 
+color: 9E9D24 
+price: 6400 
+author: Ask View Shop 
+---
+ 
