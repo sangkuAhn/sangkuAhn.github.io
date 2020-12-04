@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "정재승의 인간 탐구 보고서 5, 아울북" 
+description: 정재승의 인간 탐구 보고서  ..
+date: 2020-12-05 07:05:56 
+img: https://static.coupangcdn.com/image/retail/images/2020/12/02/15/4/8b5cceaa-833b-4cbe-ad14-1dc38c98db8b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4536023248&itemId=5484005032&vendorItemId=72783707977&traceid=V0-113-6046d75d43e29b29 
+categories: [1011] 
+color: FF6F00 
+price: 12600 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "설민석의 만만 한국사 2, 아이세움" 
+description: 설민석의 만만 한국사 2,  ..
+date: 2020-12-05 07:05:56 
+img: https://static.coupangcdn.com/image/retail/images/2020/12/02/14/8/7abed6ec-8387-4a17-bd77-9bc37940f3ce.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4536425115&itemId=5485027739&vendorItemId=72784720582&traceid=V0-113-d0839371d255d81f 
+categories: [1011] 
+color: 353535 
+price: 10800 
+author: Ask View Shop 
+---
+ 
