@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "프로틴방앗간 하루단백바 치즈베리, 45g, 10개" 
+description: 프로틴방앗간 하루단백바 치즈 ..
+date: 2020-12-03 07:50:43 
+img: https://static.coupangcdn.com/image/retail/images/12702493144648-88d6d5a4-dc1c-460b-8af2-8def498f6dc1.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1396217036&itemId=2431621037&vendorItemId=70425565016&traceid=V0-113-4afc695e30625597 
+categories: [1017] 
+color: F15F5F 
+price: 20330 
+author: Ask View Shop 
+cont:  "고소한 맛 블론디>코코아>치즈베리<br/>달콤하고 새콤한 맛과 꾸덕꾸덕한 식감이 너무 좋아요 <br/>달콤한 맛 코코아>치즈베리>블론디<br/>맛있는 냄새 블론디>치즈베리>코코아<br/>블론디, 코코아.<br/> 치즈베리 세가지 먹어봤습니다<br/>블론디는 곡물맛, 코코아는 쫀득하고 단맛이 덜한 브라우니, 치즈베리는 치즈맛은 그닥 안느껴지는 동결건조 딸기가 뿌려진 맛입니다.<br/> 세가지 중에 치즈베리가 제일 씹는 맛이 약하지만 대신에 특유의 향이나 맛이 진하지 않아서 거부감 느끼시는 분들은 이게 제일 좋겠네요<br/>원래 비위가 약해서 ... <br/>카카오는 단백질바 안같아서 자주주문하는데 이건 안먹게되요<br/>카카오가 제일 맛있어요<br/>" 
+---
