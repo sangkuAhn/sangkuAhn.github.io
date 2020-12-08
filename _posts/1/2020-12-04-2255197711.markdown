@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "반스 올드스쿨 VN000D3HY28" 
+description: 반스 올드스쿨 VN000D3 ..
+date: 2020-12-05 06:44:24 
+img: https://static.coupangcdn.com/image/vendor_inventory/e20c/07e90d09adce12ea706d1b22ada00552b4cf33c845beec243245b95329db.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2255197711&itemId=3859158225&vendorItemId=72091332364&traceid=V0-113-75b1f392f4d31a7f 
+categories: [1007] 
+color: f44336 
+price: 35900 
+author: Ask View Shop 
+cont:  "또 구매한께요<br/>바닥도 쿠션이 좀 있어서 편할것같아요<br/>발볼이 없어서 235도 가능할 거 같아요... <br/> 그치만 보드화 종류는 조금 걸으면 불편해서 240 만족해요<br/>저렴한 가격에 잘 구입해서 잘 신고<br/>전체적으로 깨끗하고 이쁘네요<br/>항상 하얀색 신발만 신으니까 너무 빨리 버리게되고 해서, 이신발 한번 사봤는데 나쁘지 않네요.<br/> 앞대갈이랑 뒷대갈이 먼지가 달라붙지 않고 잘털리는 제질이라서 마음에 드네요.<br/><br/>" 
+---

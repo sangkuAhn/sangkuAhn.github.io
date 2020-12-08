@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "엉뚱발랄 콩순이 지퍼퍼즐, 아이누리" 
+description: 엉뚱발랄 콩순이 지퍼퍼즐,  ..
+date: 2020-12-05 08:03:29 
+img: https://static.coupangcdn.com/image/retail/images/2019/11/15/16/9/f5715c51-a5aa-4502-8c4a-e82e4eccfb4a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=338404233&itemId=1078376116&vendorItemId=5577081534&traceid=V0-113-3e640133445cb744 
+categories: [1019] 
+color: 006064 
+price: 5850 
+author: Ask View Shop 
+cont:  "2개가 세트여서 오자마자 딸램들이 한번씩 벌써 클리어 했네요 ㅎㅎㅎ<br/>다 맞추고 뒀다가 나중에 조각이 여기저기 돌아다니는데<br/>색상도 선명하고 콩순이 좋아하는 아이라<br/>지퍼 보관이라 너무 좋아요<br/>지퍼 보관하니 엎어도 안망가지도 좋네요<br/>퍼즐이 큼직큼직해서 좋네요<br/>포장도 잘 되어 있고 지퍼보관까지 할 수 있어 좋아요<br/>흥미 가지면서 잘하네요<br/>" 
+---

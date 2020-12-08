@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "베베니즈 컬러 배냇 누빔 유발 우주복" 
+description: 베베니즈 컬러 배냇 누빔 유 ..
+date: 2020-12-04 14:15:25 
+img: https://static.coupangcdn.com/image/retail/images/2020/09/14/19/1/f7232f93-77b2-4a23-9913-b6dd822f2dac.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2208370849&itemId=3758309247&vendorItemId=71743411890&traceid=V0-113-b21c4f3641471ded 
+categories: [1003] 
+color: F15F5F 
+price: 12900 
+author: Ask View Shop 
+cont:  "23개월 애기한테 입히기 좋겠어요<br/>도톰하고 탄탄해서 겨울 외출복하기 좋네요<br/>병원에 주사맞으로 갈때 입혔는데 따뜻하고 편했어요<br/>애기가 3개월인데 너무 딱 맞는거같아요 재질이나 색상은 마음에 드는데 아쉽네요 그래도 작아지기 전까지 따뜻하게 잘 입힐거같아요<br/>" 
+---

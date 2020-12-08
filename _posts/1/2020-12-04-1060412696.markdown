@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "제이키드주니어 아동용 보스턴 스판 기모 청바지" 
+description: 제이키드주니어 아동용 보스턴 ..
+date: 2020-12-05 06:30:03 
+img: https://static.coupangcdn.com/image/retail/images/2019/12/03/17/4/2fcda825-cb9a-4cd2-9ae2-a189d181cbeb.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1060412696&itemId=2004617618&vendorItemId=70004564994&traceid=V0-113-0da906da1e3bcf3c 
+categories: [1005] 
+color: A566FF 
+price: 17450 
+author: Ask View Shop 
+cont:  "9세 132에 26키로 나가는데 싸이즈표보니 11호해야될것 같아서<br/>겨울에 멋지고 따뜻할것 같아요<br/>디자인은 예뻐요<br/>조금 불편해하네요.<br/>.<br/> 한치수크게 주문하는게 좋을거같아요.<br/><br/>주문했는데 길이는 완전 딱 맞는데.<br/>.<br/>  신축성이 떨어지다보니<br/>" 
+---

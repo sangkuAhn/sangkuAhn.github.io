@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "K2 캐주얼비니, 블랙" 
+description: K2 캐주얼비니, 블랙 ..
+date: 2020-12-04 14:37:01 
+img: https://static.coupangcdn.com/image/retail/images/508277032582726-1bdc2121-3b3e-4262-8f70-5892740cfbc6.JPG 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=320531578&itemId=1025699011&vendorItemId=5468983686&traceid=V0-113-f1cf9266369c789c 
+categories: [1006] 
+color: 03A9F4 
+price: 13400 
+author: Ask View Shop 
+cont:  "가격도 너무 저렴해서 놀랐네요<br/>겨울에 등산할 때 쓰려고 구매했습니다.<br/><br/>다만 가격이 1.<br/>34만원.<br/> 좀 저렴했으면 더 잘 팔릴 것 같아용.<br/><br/>마음에 들어요ㆍ머리가 크서 그런지 모자가 작아 보여요ㅋ ㆍ따뜻하고 좋습니다ㆍ<br/>비니가 원래 몇번 쓰면 잘 늘어나서 잘 버리게 되는데<br/>암튼 가격대비 퀄리티는 좋습니다.<br/> 잘 쓰겠습니다.<br/><br/>이번에 스키장 갈건데 따뜻하게 잘쓸수 있을것 같습니다 !<br/>인터넷으로 비니 잘 안시키는데 이번에 한번 사봤는데 넘 좋은것 같네염 ㅠㅠㅠ<br/>일단 패턴이 제일 맘에 들어서 샀습니다<br/>일반 그냥 오천원 만원짜리 비니보다 훨씬 퀄리티 좋고 착용감도 좋습니다.<br/><br/>짱짱해서 잘 안늘어 날 것 같아 좋아용<br/>" 
+---
