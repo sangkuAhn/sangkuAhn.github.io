@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "샤바스 스칸디나 좌식 테이블 1200, 블랙프레임" 
+description: 샤바스 스칸디나 좌식 테이블 ..
+date: 2020-12-10 15:34:48 
+img: https://static.coupangcdn.com/image/retail/images/2020/09/14/18/4/3c6d95ea-7af5-4bd7-954e-beb907e0ee24.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2166607826&itemId=3683571128&vendorItemId=71668906011&traceid=V0-113-895561d94da4dda1 
+categories: [1015] 
+color: 9E9D24 
+price: 32900 
+author: Ask View Shop 
+---
+ 
