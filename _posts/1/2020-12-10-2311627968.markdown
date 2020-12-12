@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "데일리앤 모앤 반폴라 레이온 기모 베이직 레이어드 티셔츠" 
+description: 데일리앤 모앤 반폴라 레이온 ..
+date: 2020-12-10 14:01:12 
+img: https://static.coupangcdn.com/image/vendor_inventory/0ea8/db757c5bc0a37c1223a1e7b46e6b453636e8a5f5b64b998751b31c804230.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2311627968&itemId=3987071556&vendorItemId=71971376647&traceid=V0-113-c09616afb1507655 
+categories: [1001] 
+color: 353535 
+price: 7700 
+author: Ask View Shop 
+cont:  "7700원이 이렇게 만족을 줄수있는지 새삼느낌니다!<br/>그냥 평범하고, 기모라고 했지만 생각보다 너무 얇네요.<br/><br/>기모도 적당히 들어가서 넘좋으네요.<br/><br/>도톰한 니트 원하시는분은 조금 얇을수있어요<br/>보들보들 촉감도 좋고 따뜻하네요<br/>이너로 입기에 좋습니다<br/>정장을 입는직업이라 네이비랑 와인색샀는데 나머지색도 사야겠습니다.<br/> 감사합니다!<br/>" 
+---

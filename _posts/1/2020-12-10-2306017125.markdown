@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "데코코마니 크리스마스 캐릭터 줄조명 20구, 눈사람" 
+description: 데코코마니 크리스마스 캐릭터 ..
+date: 2020-12-10 15:34:48 
+img: https://static.coupangcdn.com/image/retail/images/2020/10/22/14/2/3bcdad3c-df6f-4756-9e27-2b674e5fec69.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2306017125&itemId=3974705202&vendorItemId=72753015059&traceid=V0-113-c3ba0fdc102a3beb 
+categories: [1015] 
+color: A57F92 
+price: 12000 
+author: Ask View Shop 
+cont:  "눈사람은 다찌그러지고 가루들은 왜이렇게 날리는지 진짜 이돈주고 이걸팝니까?<br/>반짝이 페인트가루 날림 너무심해요ㅜ<br/>반품하기귀찮아서 그냥쓰는데ㅜ<br/>설치하면서도 엄청떨어지네요<br/>" 
+---

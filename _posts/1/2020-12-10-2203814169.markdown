@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "오즈키즈 유아동용 보송하트 털부츠" 
+description: 오즈키즈 유아동용 보송하트  ..
+date: 2020-12-10 14:30:00 
+img: https://static.coupangcdn.com/image/retail/images/2020/10/06/18/5/fc831e54-6d1b-44f0-bb54-b2041260522a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2203814169&itemId=3748077419&vendorItemId=71733214510&traceid=V0-113-d0681947a96c93c7 
+categories: [1005] 
+color: 4A148C 
+price: 23900 
+author: Ask View Shop 
+cont:  "따뜻,<br/>운동화190여유잇게신는데  부츠190딱맞네요ㅋ잘신을께요<br/>정말이뻐요!<br/>" 
+---

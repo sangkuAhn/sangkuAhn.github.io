@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "채니봉봉 파우더 체크 반다나밴드" 
+description: 채니봉봉 파우더 체크 반다나 ..
+date: 2020-12-10 14:15:37 
+img: https://static.coupangcdn.com/image/retail/images/205963620660264-bb3d1514-0856-4bb4-a69c-709efaccd7b1.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2249190606&itemId=3843982514&vendorItemId=71828789836&traceid=V0-113-70deeef1666fc4a4 
+categories: [1003] 
+color: F361A6 
+price: 7210 
+author: Ask View Shop 
+cont:  "3살 아이한테 잘맞아요<br/>귀부분이 넉넉해서 아파하지도 않고 잘써요<br/>머리띠 하나했다고 얼굴이 살아요<br/>상품평이 없어서 걱정했는데 괜찮아요<br/>색이 지금 계절에 잘맞아요<br/>선물로 줬는데 애기가 좋아해요ㅎㅎ<br/>아이 해주려고 검색하다 로켓배송에도 있길래 주문했어요<br/>아이가 머리묶는걸 싫어해서 짧게 잘랐더니 자꾸 얼굴을 덮어 답답했는데 머리띠 해주니 편해요<br/>안쓰면 어쩌나했는데 이쁘다고 잘쓰고 있어요<br/>이뻐요비싸요<br/>" 
+---

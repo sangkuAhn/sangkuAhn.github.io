@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "소확품 두줄 도톰양말 10종 1세트 따뜻한 방한양말 도톰한 겨울양말" 
+description: 소확품 두줄 도톰양말 10종 ..
+date: 2020-12-11 06:51:32 
+img: https://static.coupangcdn.com/image/vendor_inventory/2ee4/748a045beed6fca2dda7c0d691ce2282e225bf59783bb0a5f9b59f9258cd.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4394835633&itemId=5212277213&vendorItemId=72521402343&traceid=V0-113-6b171d22778c819c 
+categories: [1008] 
+color: BD24A9 
+price: 12900 
+author: Ask View Shop 
+cont:  "도톰해서 푹신하고 따뜻하네요.<br/><br/>많이 파세요<br/>배송도 빨리 왔구요... <br/><br/>아이들과 나눠서 신었는데 다들 만족해요<br/>저렴하게 구매해서 좋아요... <br/><br/>제품 마감은 좀 미흡하고 한번신으니 보풀이엄청생겨요<br/>" 
+---

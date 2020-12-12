@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "BLACKYAK 블랙야크/ 이월특가 친환경 롱구스다운자켓 D클레버벤치다운자켓 1BYPAW8903" 
+description: BLACKYAK 블랙야크/  ..
+date: 2020-12-11 06:37:08 
+img: https://static.coupangcdn.com/image/vendor_inventory/55ab/622568d17d883c36d99ce802e91aa5453a03c1cfcbb876c0528e4e7099ae.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2255302815&itemId=3859347545&vendorItemId=72360342892&traceid=V0-113-2095e7e564cd5f3c 
+categories: [1006] 
+color: 006064 
+price: 125000 
+author: Ask View Shop 
+cont:  "가볍고 따뜻하면서 마감처리도 매우 좋아요<br/>역시 블랙야크네요<br/>" 
+---

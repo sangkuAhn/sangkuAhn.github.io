@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "핸날 포근크라운귀마개" 
+description: 핸날 포근크라운귀마개 ..
+date: 2020-12-11 14:29:46 
+img: https://static.coupangcdn.com/image/retail/images/2019/11/07/17/6/7fe8e81d-d900-4163-ad8b-b4bd0431cef0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=334892743&itemId=1068728315&vendorItemId=5556005070&traceid=V0-113-2abab504bcf6ca7f 
+categories: [1005] 
+color: 5A8DF3 
+price: 7500 
+author: Ask View Shop 
+cont:  "더 고급스러운색깔이고 털도풍성길고 5살애기가 좋아함<br/>선물로샀는데,<br/>쓰려고하자마자 귀부분 바로 떨어짐<br/>아이들은ㅇㅣ뻐서 좋아해요<br/>왕관이벌써 흔들거려요<br/>최악이네요 품질 정말<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "로고 멀티TM 기모 트레이닝set(2color)" 
+description: 로고 멀티TM 기모 트레이닝 ..
+date: 2020-12-11 06:08:24 
+img: https://static.coupangcdn.com/image/vendor_inventory/8102/13a08e15d01f9d91c90fa851b19d81e620c97bc0d4bfef65528c7dd9150c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4322789343&itemId=5034258409&vendorItemId=72344047848&traceid=V0-113-6e16fb3583f9f178 
+categories: [1002] 
+color: F15F5F 
+price: 83500 
+author: Ask View Shop 
+cont:  "귀찮아서 반품은안합니다.<br/>좀 품질확인후 출고부탁합니다!<br/>그렇게해서 배송품에 광고전단 넣어주시면 둘러나 보겠습니까!<br/>기모라 따뜻할거같아요^^<br/>대체적으로 만족합니다 기장 색깔 디자인 좋아요<br/>배송도 하루이틀 늦은것도아니고 원.<br/>.<br/>택배기사 패널티 먹을까봐 참았습니다.<br/>그런데 불량상태 옷은 검수좀하시고 파세요.<br/>.<br/><br/>옷은예쁜데  바지길이가 좀<br/>하루이틀하고 말듯이 장사하지마시고요.<br/><br/>" 
+---

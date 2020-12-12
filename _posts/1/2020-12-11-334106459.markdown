@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "채니봉봉 홀리나이트 헤어핀세트" 
+description: 채니봉봉 홀리나이트 헤어핀세 ..
+date: 2020-12-11 14:15:28 
+img: https://static.coupangcdn.com/image/retail/images/2019/11/07/16/0/37735370-45a8-4e79-9487-8a423e9e46cf.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=334106459&itemId=1066606070&vendorItemId=5551497066&traceid=V0-113-131b14ae72744db9 
+categories: [1003] 
+color: A566FF 
+price: 9800 
+author: Ask View Shop 
+cont:  "똑딱핀은 다 분리되고.<br/>.<br/><br/>루돌프랑 장갑 이음새 다 터져서 솜 튀어나왔네요.<br/><br/>사진이랑 다르지 않고 다 예뻐요.<br/> 근데 금방 터져요.<br/><br/>하.<br/>.<br/>돈버림.<br/>.<br/>검수좀 잘하시지<br/>" 
+---

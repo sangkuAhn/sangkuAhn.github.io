@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "채니봉봉 핑크퐁 헤어핀 세트" 
+description: 채니봉봉 핑크퐁 헤어핀 세트 ..
+date: 2020-11-01 14:15:38 
+img: https://static.coupangcdn.com/image/retail/images/2020/08/30/18/4/3cc8a8d1-c04a-4fb9-bcf7-d51454e0b85b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2086092078&itemId=3543417576&vendorItemId=71341016870&traceid=V0-113-fd39306f3abef985 
+categories: [1003] 
+color: 1294AB 
+price: 10890 
+author: Ask View Shop 
+cont:  "다만 집게핀은 머리 숱이 좀 더 있어야 힘있게 고정될거 같네요.<br/><br/>보기와 똑같아요<br/>색감도 예쁘고 단단하고 섬세하게 잘 만든거 같아요<br/>좋은 선뭏이되었어요 이쁘네요<br/>" 
+---

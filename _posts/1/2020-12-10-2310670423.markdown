@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "여성용 피카브 패딩 슬립온" 
+description: 여성용 피카브 패딩 슬립온 ..
+date: 2020-12-10 14:44:25 
+img: https://static.coupangcdn.com/image/rs_quotation_api/d478/5172e334a4842ec53873eef912fb4aa02db0f9cd73e0056b576f2857fdae.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2310670423&itemId=3985079465&vendorItemId=71969389866&traceid=V0-113-c629feb284caed47 
+categories: [1007] 
+color: F361A6 
+price: 17690 
+author: Ask View Shop 
+cont:  "가격도 저렴하고 편하고 따뜻해서 한겨울 잘신을거 같아요<br/>너무 따뜻하고 편하고 멋도있고 좋으네요 맘에들어 재구매해 동생에게 보냈는데 동생도 맘에든다해서 기분 좋습니다 위사진까지 보내왔네요<br/>사이즈가 없어 한사이즈 큰걸로 했더니 칼발이라 그런지 크네요  ㅠㅠ 양말 뚜꺼운거 신고 어찌 남은겨울 버터볼려고요ㅠㅠ<br/>" 
+---
