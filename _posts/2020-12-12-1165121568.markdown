@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "나이키 에어맥스 엑시스 GS AH5222 001" 
+description: 나이키 에어맥스 엑시스 GS ..
+date: 2020-12-13 06:44:26 
+img: https://static.coupangcdn.com/image/vendor_inventory/1f87/194f1fb289e1a6300646fea3fa590adef8bc2723f45148f407ac867c86aa.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1165121568&itemId=2142109859&vendorItemId=70180336439&traceid=V0-113-8f4233f2e4d26261 
+categories: [1007] 
+color: 5A8DF3 
+price: 74610 
+author: Ask View Shop 
+---
+ 
