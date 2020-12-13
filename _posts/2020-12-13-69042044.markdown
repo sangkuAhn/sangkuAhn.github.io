@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "내 인생의 해답, 쇼비" 
+description: 내 인생의 해답, 쇼비 ..
+date: 2020-12-13 16:03:35 
+img: https://static.coupangcdn.com/image/vendor_inventory/e42f/3686b720a536fbdcc54f6e704a5a38461f0d3ccf78533310268db42d8491.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=69042044&itemId=230900242&vendorItemId=3090652279&traceid=V0-113-03a8505fdd1143bd 
+categories: [1019] 
+color: A566FF 
+price: 22500 
+author: Ask View Shop 
+---
+ 
