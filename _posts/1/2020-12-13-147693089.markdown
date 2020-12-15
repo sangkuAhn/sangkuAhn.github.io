@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "크록스 클래식 라인드 클로그 (203591-060)" 
+description: 크록스 클래식 라인드 클로그 ..
+date: 2020-12-13 14:44:26 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2018/10/16/11/7/47f50a29-7bc8-4c13-a966-1d724b3e14f4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=147693089&itemId=427274445&vendorItemId=71835504700&traceid=V0-113-37709a28743d8719 
+categories: [1007] 
+color: 353535 
+price: 41920 
+author: Ask View Shop 
+cont:  "딱 좋은거 같아요^^<br/>발볼이 넓고 발등이 좀 높은편이라 반사이즈 업했는데<br/>발이 너무 커보이면 어쩌나 싶었는데 전혀 그렇지 않고<br/>원래운동화사이즈보다한치수업!!<br/>털 있는거 감안해서 한사이즈 업할걸그랬어요<br/>털크록스는 처음인데 생각보다 더 귀엽고 따뜻하네요<br/>" 
+---

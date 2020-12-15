@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "마카롱 퍼 방한 실내화 슬리퍼" 
+description: 마카롱 퍼 방한 실내화 슬리 ..
+date: 2020-12-13 14:44:26 
+img: https://static.coupangcdn.com/image/vendor_inventory/f68a/740e3a8dc976d5fe0448a5e6a1087768efe7da942e6d88d2eb296ec57fd5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2275079934&itemId=3903625438&vendorItemId=71888205365&traceid=V0-113-56fe6a238f9c246a 
+categories: [1007] 
+color: BD24A9 
+price: 4900 
+author: Ask View Shop 
+cont:  "가볍고 이뿜 따뜻해욧<br/>따뜻하네요<br/>실내화를 사려고 오랫동안 찾았는데  역시 오랜시간 공들인 보람이 있네요.<br/> 발도 편하고 따뜻해서 좋아요<br/>화면과 색상같고 이뻐요<br/>" 
+---

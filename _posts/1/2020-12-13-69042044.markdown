@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "내 인생의 해답, 쇼비" 
+description: 내 인생의 해답, 쇼비 ..
+date: 2020-12-13 16:03:35 
+img: https://static.coupangcdn.com/image/vendor_inventory/e42f/3686b720a536fbdcc54f6e704a5a38461f0d3ccf78533310268db42d8491.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=69042044&itemId=230900242&vendorItemId=3090652279&traceid=V0-113-03a8505fdd1143bd 
+categories: [1019] 
+color: A566FF 
+price: 22500 
+author: Ask View Shop 
+cont:  "ㅋㅋㅋ<br/>근데넘나재밌으요ㅋㅋㅋㅋ<br/>내년엔돈좀모을수있을까요?<br/>도전!!!!<br/>물건을같다주면서궁금해서<br/>부질없다고알려주네요ㅠㅠ<br/>부질없다니... <br/>ㅠ<br/>아는지인이시켜달라부탁을받아<br/>오늘물건도착하여<br/>재미는있으나... <br/>마음한구석이ㅠㅠ<br/>주문을했습니다<br/>책 상태 최고입니다<br/>책이 너무너무 신기하고 재미있게 잘 보고 있습니다 .<br/><br/>최고의 선물입니다<br/>평생을 가치 있게 두고두고 모셔놓고 보겠습니다!<br/>한번해보고싶어져해봤습니다ㅋㅋ<br/>흠집 하나 없는 최고의 컨디션 입니다<br/>" 
+---

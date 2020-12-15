@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "로로샤 여아용 몽뜨 원피스" 
+description: 로로샤 여아용 몽뜨 원피스 ..
+date: 2020-12-14 06:15:32 
+img: https://static.coupangcdn.com/image/rs_quotation_api/04f9/1c97d7d210682f86a6c8ab21078bedb965c08acb6946317e877fb8a3cc22.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2336180746&itemId=4045423017&vendorItemId=72029569662&traceid=V0-113-981a14866c2f1061 
+categories: [1003] 
+color: 4CAF50 
+price: 26880 
+author: Ask View Shop 
+cont:  "5살 딸한테 잘어울려요 크리스마스때입히려고 주문했어요<br/>6세 120입입으면 딱맞고 130은커요<br/>딱맞게 입히고 싶어 9호샀는데.<br/> 무릎정도 길이여서 좋으네요<br/>브랜드 옷처럼 박음질 잘되어있습니다<br/>상품평이 별로없어 걱정했는데 예뿌네요<br/>색상이 선명해서 크리스마스때<br/>세탁기 돌렸을때 보풀도 안일어나요<br/>예쁘게 잘 입힐수 있을것 같습니다.<br/><br/>저렴한 가격에 재질도 괜찮고 이뻐요<br/>품질 좋아요<br/>" 
+---

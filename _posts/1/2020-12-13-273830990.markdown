@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "숨은 그림 찾기 + 사진으로 다른 그림 찾기 전2권, 한빛에듀" 
+description: 숨은 그림 찾기 + 사진으로 ..
+date: 2020-12-13 16:03:35 
+img: https://static.coupangcdn.com/image/retail/images/2019/08/01/15/7/66fccca6-2aec-4505-bbbd-cef5151b68f5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=273830990&itemId=863789893&vendorItemId=5189490084&traceid=V0-113-b6e3a23c2f09dd7a 
+categories: [1019] 
+color: 03A9F4 
+price: 12600 
+author: Ask View Shop 
+cont:  "6살 아이인데 엄청 좋아하네요<br/>생각보다 잘 찾구요<br/>손쉽게 찾기 좋아서 재미있게 찾기놀이를 할꺼 같아요<br/>아빠랑 꽤 오래 앉아서 누가 더 잘 찾나 대결도 하고<br/>아이는 좋아했어요.<br/><br/>얇아서 실망.<br/><br/>요즘 집에 머무는 시간이 많다보니 요론게 필요합니다 ㅠㅠ<br/>재미있다면서 좋아하네요<br/>집에 가져와서 색칠도 하고.<br/>.<br/><br/>할머니댁가서 시간 떼우기용으로 구입.<br/><br/>" 
+---

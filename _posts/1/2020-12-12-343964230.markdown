@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "채니봉봉 행복한산타 헤어핀 6종 세트" 
+description: 채니봉봉 행복한산타 헤어핀  ..
+date: 2020-12-13 06:15:36 
+img: https://static.coupangcdn.com/image/retail/images/2019/11/22/18/9/c79df82f-6776-4451-a858-84a3755cb750.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=343964230&itemId=1092764883&vendorItemId=5608845911&traceid=V0-113-e25f165b18d15d9d 
+categories: [1003] 
+color: 9E9D24 
+price: 9800 
+author: Ask View Shop 
+cont:  "개인적으로 빨간리본이 제일 이뻣어요<br/>아기는 산타를 제일 좋아햇어요!<br/>예쁘네요^^<br/>진짜 사진이랑 완전 똑같아요<br/>집게핀인데 흘러 내리지 않아요<br/>크리스마스 행사에 포인트로 아주 잘 썻어요<br/>" 
+---
