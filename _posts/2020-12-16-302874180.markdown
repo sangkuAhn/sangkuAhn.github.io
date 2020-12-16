@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "크록스 바야 라인드 클로그 205969-22Z" 
+description: 크록스 바야 라인드 클로그  ..
+date: 2020-12-16 14:44:13 
+img: https://static.coupangcdn.com/image/vendor_inventory/7ddf/faf51d643ead14b95a3474c2b6d3b656eefb6b8d4a589600960ac196d3ce.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=302874180&itemId=952553879&vendorItemId=5347603586&traceid=V0-113-c3a16ab68a743f01 
+categories: [1007] 
+color: 353535 
+price: 34930 
+author: Ask View Shop 
+---
+ 
