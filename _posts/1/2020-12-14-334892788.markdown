@@ -9,5 +9,5 @@ categories: [1003]
 color: A566FF 
 price: 7730 
 author: Ask View Shop 
+cont:  "귀엽네요^^<br/>로켓배송 좋구욯.<br/> 상품도 깨끗하게 포장되어 왔어요^^ 조카한테 선물하려고 샀는데, 엄청 좋아할것 같아요 ㅎㅎ<br/>" 
 ---
- 
