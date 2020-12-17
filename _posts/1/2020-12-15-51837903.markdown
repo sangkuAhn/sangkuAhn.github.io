@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "산타복 럭셔리 남7종(SR)" 
+description: 산타복 럭셔리 남7종(SR) ..
+date: 2020-12-16 06:08:19 
+img: https://static.coupangcdn.com/image/vendor_inventory/ea3b/b127d997c9257da5eb426fc982b40f49f3bd270b9528deeb261aec0d9811.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=51837903&itemId=183426530&vendorItemId=72322628148&traceid=V0-113-5c9d9929d927cb2d 
+categories: [1002] 
+color: 006064 
+price: 37500 
+author: Ask View Shop 
+cont:  "구매하세요<br/>그건 뭐 옷과는 상관없고욤<br/>근데 산타옷 담겨온 봉지가 좀 찢어져 있엇는데<br/>매년 입을수잇겟더라구요<br/>수염이 좀 빠지는거 빼고 좋습니다 ㅎ 매년 크리스마스때마다 잘입을듯해요<br/>아이들 동심지켜주려 샀는데<br/>예행으로 한번입어봣는데 수염빠지거나 그런거없이 만족해요<br/>옷도 튼튼해 보입니다 ㅎㅎㅎ<br/>퀄리티 생각햇던거보다 괜찮고<br/>크리스마스가 넘 기대되네요<br/>포장도 좋고 구성도 좋아요<br/>" 
+---

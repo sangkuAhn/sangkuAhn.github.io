@@ -9,5 +9,5 @@ categories: [1005]
 color: BD24A9 
 price: 20700 
 author: Ask View Shop 
+cont:  "가격  좋고 빠른 배송! 모양도 괜찮고 발이 따뜻해서 좋다고 하네요<br/>가격대비 만족합니다.<br/><br/>발볼 넓은 사람은 조금 힘들듯 해요<br/>신발은 맘에 들어요<br/>" 
 ---
- 
