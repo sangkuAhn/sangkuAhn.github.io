@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "오아 플로팅 가습기, 단일상품" 
+description: 오아 플로팅 가습기, 단일상 ..
+date: 2020-12-18 15:42:06 
+img: https://static.coupangcdn.com/image/retail/images/358000870711000-6bac9bd9-83ec-42ba-b864-e6c8a36075e6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2274120011&itemId=3901518720&vendorItemId=71886107116&traceid=V0-113-a67301e2f85cab7b 
+categories: [1016] 
+color: 43A047 
+price: 99000 
+author: Ask View Shop 
+---
+ 
