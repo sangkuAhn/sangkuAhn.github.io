@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "네파 넥워머, 블랙" 
+description: 네파 넥워머, 블랙 ..
+date: 2020-12-19 14:37:19 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2018/11/06/22/6/23cb8226-55f0-4bbf-87e2-c9b56c6a271a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=343812803&itemId=1092350821&vendorItemId=4173797402&traceid=V0-113-ca01874a75ffc086 
+categories: [1006] 
+color: A6A6A6 
+price: 7900 
+author: Ask View Shop 
+---
+ 
