@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "펭아트 페이퍼토이북 디럭스, EBS" 
+description: 펭아트 페이퍼토이북 디럭스, ..
+date: 2020-12-20 08:03:39 
+img: https://static.coupangcdn.com/image/retail/images/2020/12/17/17/2/90bf7bca-5bb3-404e-8cba-ab9258a97017.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4625649428&itemId=5738352718&vendorItemId=73037042605&traceid=V0-113-74b7e7e6d9c8e840 
+categories: [1019] 
+color: BD24A9 
+price: 19800 
+author: Ask View Shop 
+---
+ 
