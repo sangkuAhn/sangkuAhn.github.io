@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "네셔널지오그래픽 와펜 맨투맨 (가을 신상)" 
+description: 네셔널지오그래픽 와펜 맨투맨 ..
+date: 2020-12-24 06:08:28 
+img: https://static.coupangcdn.com/image/vendor_inventory/64b7/de5a84dc80fd41ad2d7d1415b2b15fd89d9f53391450b47d9d4c9f50f45a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2315263788&itemId=3995874449&vendorItemId=72926111299&traceid=V0-113-821fbbf6631b2e6d 
+categories: [1002] 
+color: A6A6A6 
+price: 28500 
+author: Ask View Shop 
+---
+ 
