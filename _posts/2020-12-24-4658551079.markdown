@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "수학도둑 수학동화 1, 서울문화사" 
+description: 수학도둑 수학동화 1, 서울 ..
+date: 2020-12-24 15:06:01 
+img: https://static.coupangcdn.com/image/retail/images/2020/12/22/16/8/0d23b86b-e189-4f44-954a-4bc9320ffd17.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4658551079&itemId=5814894219&vendorItemId=73113307769&traceid=V0-113-01bae6e4562f8a90 
+categories: [1011] 
+color: 03A9F4 
+price: 11700 
+author: Ask View Shop 
+---
+ 
