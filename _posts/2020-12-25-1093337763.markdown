@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "곱창돌김, 130g(50매), 1개" 
+description: 곱창돌김, 130g(50매) ..
+date: 2020-12-25 15:13:12 
+img: https://static.coupangcdn.com/image/retail/images/15162202404661-4d074695-18af-44af-a20d-6b3dcd160e7a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1093337763&itemId=2049983588&vendorItemId=70049310280&traceid=V0-113-6e17c6155f4e2622 
+categories: [1012] 
+color: 1294AB 
+price: 11700 
+author: Ask View Shop 
+---
+ 

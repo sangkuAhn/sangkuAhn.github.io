@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "이고진 좌식 사이클, 206R, 화이트" 
+description: 이고진 좌식 사이클, 206 ..
+date: 2020-12-25 15:49:08 
+img: https://static.coupangcdn.com/image/retail/images/1027789903997197-63512d89-70f4-40ac-8010-b6011270ce2a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2315070892&itemId=3995483681&vendorItemId=71979774236&traceid=V0-113-c34f75b2cd9d8b0c 
+categories: [1017] 
+color: D9418C 
+price: 185980 
+author: Ask View Shop 
+---
+ 
