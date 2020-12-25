@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "잠자는 숲속의 공주 피규어 플레이북, 희망플러스" 
+description: 잠자는 숲속의 공주 피규어  ..
+date: 2020-12-19 16:03:37 
+img: https://static.coupangcdn.com/image/retail/images/2019/12/05/10/9/0c99b9c7-f28d-47eb-838e-cfe9bdd67b4b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1063599908&itemId=2009328819&vendorItemId=70009240096&traceid=V0-113-072e44b1222f71fc 
+categories: [1019] 
+color: 03A9F4 
+price: 12500 
+author: Ask View Shop 
+cont:  "밑에 발쪽이 판판하지 않아서 고정이 잘안되는것 빼고는<br/>아이가 아주 좋아해요<br/>예뻐서 마음에 들어요<br/>인형도 정말 예뻐요 만족만족 ㅎㅎ<br/>제 장난감이 아니라 못 열어봤습니다<br/>함부로 열었다간 아주 큰일납니다<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "채니봉봉 하하오 헤어핀 6종 세트" 
+description: 채니봉봉 하하오 헤어핀 6종 ..
+date: 2020-12-19 14:15:43 
+img: https://static.coupangcdn.com/image/retail/images/2020/08/15/15/3/ad2f19b7-230c-405a-b260-05b1687cd3c8.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1983124746&itemId=3373712169&vendorItemId=71360409770&traceid=V0-113-50b638c34ca4e055 
+categories: [1003] 
+color: 5A8DF3 
+price: 9800 
+author: Ask View Shop 
+cont:  "오홍홍넘 이뽀용사진이랑 똑같은데 비교해보면 실물이 좀더 예쁘네용♡<br/>착용하고 나가보진않았지만 예쁩니다 사세요<br/>" 
+---

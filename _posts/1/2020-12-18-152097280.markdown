@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "스포디노 토미 거실화" 
+description: 스포디노 토미 거실화 ..
+date: 2020-12-19 06:44:22 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/12/17/4086189955/fa17a9cf-1ab8-4ac1-bde9-be43527958b2.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=152097280&itemId=439125694&vendorItemId=4086189955&traceid=V0-113-6abda31ae59c3b91 
+categories: [1007] 
+color: 4A148C 
+price: 7900 
+author: Ask View Shop 
+cont:  "가성비 좋음<br/>발애 땀남<br/>오죽하면 사무실 집 두군데서 이용중<br/>일단 신었을때 촉긴ㅁ이 부드러워요... <br/>.<br/>가격이 저렴해서 걱정했는데 너무나 만족합니다.<br/>.<br/>내일부터 강추이인데  따뜻하게 보낼수있어 다행이네오<br/>평소 280 운동화 신는데, 발이 엄청 편함.<br/> 요즘 발가락에 난 굳은살로 아파서 신었는데, 부드럽고 게다가 요즘 같은 강추위에 나갔는데 따뜻함.<br/><br/>" 
+---

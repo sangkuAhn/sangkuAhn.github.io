@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "라인 수면양말(8켤레-1세트)" 
+description: 라인 수면양말(8켤레-1세트 ..
+date: 2020-12-18 14:51:38 
+img: https://static.coupangcdn.com/image/vendor_inventory/3612/277151ae1ffe2ca2a5f68bcc77d539cad005ee22356fe2b7606690fe9d79.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2209147353&itemId=3759629743&vendorItemId=72764367645&traceid=V0-113-1bd11b38c2a15228 
+categories: [1008] 
+color: 5A8DF3 
+price: 9900 
+author: Ask View Shop 
+cont:  "남자다 발 250이다 편하다ㅎ<br/>따뜻하고 편합니다<br/>따시다 겨울을 따시게 보낸다<br/>발 크신  남자분들은 안맞구요.<br/> 여자분들이 맞는거같아요.<br/><br/>전 주로 집에서 신고 잘때 신는데 만족만족<br/>쫀쫀하니 잘 안벗겨지고 너무 좋아요!!<br/>" 
+---

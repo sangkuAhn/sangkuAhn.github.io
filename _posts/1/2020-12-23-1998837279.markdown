@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "부케가르니 딥퍼퓸 샴푸 화이트머스크, 1000ml, 1개" 
+description: 부케가르니 딥퍼퓸 샴푸 화이 ..
+date: 2020-12-23 14:58:48 
+img: https://static.coupangcdn.com/image/retail/images/326053482465887-1fefe80b-bf84-4ab0-9431-5b04080f0d09.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1998837279&itemId=3401957084&vendorItemId=71388582802&traceid=V0-113-591e69fdd841e1d7 
+categories: [1010] 
+color: A57F92 
+price: 8400 
+author: Ask View Shop 
+cont:  "대용량 샴푸가 필요했는데요<br/>용량도크고<br/>지금까지 써본 샴푸 중 향기지속력은 최고인것같아요<br/>향이 넘 조아요.<br/> 그런데 펌핑이 약한게... <br/>저만그런가요.<br/>.<br/>찔끔씩 나오는데 ㅠ<br/>향이 은은하게 나서 만족해요<br/>향이 정말좋네요<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "토이트론 뽀로로 미니 솜사탕 메이커 놀이완구, 혼합색상" 
+description: 토이트론 뽀로로 미니 솜사탕 ..
+date: 2020-12-21 15:06:02 
+img: https://static.coupangcdn.com/image/retail/images/2020/02/12/15/0/10a8ea2d-3b21-4f66-85ac-9776a220d664.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1280312257&itemId=2288234741&vendorItemId=70285299821&traceid=V0-113-f1ac22de90398048 
+categories: [1011] 
+color: A566FF 
+price: 46200 
+author: Ask View Shop 
+cont:  "가격 대비 성능이 영... <br/>막대기에 솜사탕 하나 만들고 나면 모터가 열 받아서 30분이상 쉬었다 해야함.<br/><br/>배송도빠르고 정말좋네요!<br/>솜사탕만들기 친구아기선물줬는데<br/>아이는 신기해하고 좋아하지만 가격대비 조금 허접하고 솜사탕 너무 감질나게 쪼꼬맣게 만들어짐<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "크록스 크록스/ 클래식 블리첸 III 클로그 204563_060" 
+description: 크록스 크록스/ 클래식 블리 ..
+date: 2020-12-19 14:44:31 
+img: https://static.coupangcdn.com/image/vendor_inventory/7458/7d595ac64d8ef59a8eb4a40aaa48a6403241f9dd8a4f9f78c1e4d6f07a26.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4368100184&itemId=5145293595&vendorItemId=72454644352&traceid=V0-113-37c1a36b70ae8451 
+categories: [1007] 
+color: D9418C 
+price: 39800 
+author: Ask View Shop 
+cont:  "안에 털이 부드럽고 따뜻해요 한 치수 크게 구입했더니 남편이 잘 맞는다고 하네요<br/>정말 편하고 따뜻하고 좋아요 최고에요<br/>" 
+---

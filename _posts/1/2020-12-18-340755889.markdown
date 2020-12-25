@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아디다스 운동화 오운더게임(EE9638)_블랙" 
+description: 아디다스 운동화 오운더게임( ..
+date: 2020-12-18 14:44:27 
+img: https://static.coupangcdn.com/image/vendor_inventory/da9d/c0d41ed8bdb33ab791efa918a3421b323ef91631de616cd5939fb204bb35.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=340755889&itemId=1084722790&vendorItemId=5590485268&traceid=V0-113-febdc5d6660dddee 
+categories: [1007] 
+color: BF360C 
+price: 67900 
+author: Ask View Shop 
+cont:  "Nice<br/>가벼워요 발이 따뜻할까요? 암튼 많이 가볍고 이뻐요<br/>아빠사드렸구요 사진보다 실물이 더이뻐요! 정사이즈입니다<br/>" 
+---

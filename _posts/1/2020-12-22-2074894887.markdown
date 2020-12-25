@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "끼리 크림치즈 롤케익 (냉동), 450g, 1개" 
+description: 끼리 크림치즈 롤케익 (냉동 ..
+date: 2020-12-22 15:13:12 
+img: https://static.coupangcdn.com/image/retail/images/2020/09/07/18/0/99a16b30-c8d6-4675-9536-69aa8a830fb0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2074894887&itemId=3525169069&vendorItemId=71511240032&traceid=V0-113-aefb5bd0f5d80e73 
+categories: [1012] 
+color: 006064 
+price: 18900 
+author: Ask View Shop 
+cont:  "맛있어요<br/>부드럽고 맛있어요<br/>세일가로 샀어요<br/>존맛탱 기대 이상<br/>치즈가 맛이 가벼워요<br/>" 
+---

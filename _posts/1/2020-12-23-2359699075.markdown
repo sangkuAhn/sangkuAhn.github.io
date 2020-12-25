@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "채니봉봉 여아용 리스마스 헤어핀" 
+description: 채니봉봉 여아용 리스마스 헤 ..
+date: 2020-12-23 14:15:36 
+img: https://static.coupangcdn.com/image/rs_quotation_api/67e9/15f62936992342f3f464ad5b6b27617e8b6341a169da2152c8546440a94d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2359699075&itemId=4095826637&vendorItemId=72079803264&traceid=V0-113-5c54d22a47afd9b7 
+categories: [1003] 
+color: 4A148C 
+price: 9720 
+author: Ask View Shop 
+cont:  "너무 귀엽고 예뻐요 ㅠㅠ 선물로 준비했는데 짱짱<br/>" 
+---

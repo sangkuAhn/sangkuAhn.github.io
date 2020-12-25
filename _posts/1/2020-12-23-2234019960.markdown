@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "시크릿쥬쥬 사선 폴라 손가락 장갑" 
+description: 시크릿쥬쥬 사선 폴라 손가락 ..
+date: 2020-12-24 06:30:00 
+img: https://static.coupangcdn.com/image/retail/images/2020/10/13/17/6/60cd5e4c-73b7-464c-882a-9daa70cbc42c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2234019960&itemId=3812555567&vendorItemId=71797453518&traceid=V0-113-c4ea4116a299e595 
+categories: [1005] 
+color: F15F5F 
+price: 8650 
+author: Ask View Shop 
+cont:  "5세여아한테 너무 커요ㅜ<br/>끼워야 겠어요<br/>눈싸움 가능  할듯여.<br/><br/>스몰 사이즈가 없어서 더 커면<br/>예쁘긴 한대 너무 커요 6세가 끼긴엔<br/>품질은 좋아 보이네요.<br/><br/>" 
+---

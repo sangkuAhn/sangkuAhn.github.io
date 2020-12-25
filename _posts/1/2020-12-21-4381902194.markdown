@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "일반 산타 망토" 
+description: 일반 산타 망토 ..
+date: 2020-12-22 06:08:23 
+img: https://static.coupangcdn.com/image/rs_quotation_api/kqwnvpcl/0d12df6262c24ffcbed56c35a2e6f5d4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4381902194&itemId=5181349361&vendorItemId=5410163027&traceid=V0-113-6ed04faa40fbf2a4 
+categories: [1002] 
+color: FF6F00 
+price: 9000 
+author: Ask View Shop 
+cont:  " 크기도 색상도 괜찮네요,<br/>살에 닿으니 까끌해요<br/>잘받았어용 모자없고 망토만 들어있어용.<br/> 귀엽네요<br/>좋아요<br/>" 
+---

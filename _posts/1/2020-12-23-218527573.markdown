@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "반스/ 올드 스쿨 블랙 (VN000D3HY28)" 
+description: 반스/ 올드 스쿨 블랙 (V ..
+date: 2020-12-23 14:44:24 
+img: https://static.coupangcdn.com/image/vendor_inventory/729e/b9b216cfaa989db84ee634824bc290644fe92dbe7db63088bf80d1fc53fe.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=218527573&itemId=676662645&vendorItemId=72120259950&traceid=V0-113-087e747371e4ac76 
+categories: [1007] 
+color: CF36BB 
+price: 33500 
+author: Ask View Shop 
+cont:  "다만 발볼이 크신분은 한 사이즈업하면 좋아요ㅎㅎ<br/>많이 파세요<br/>반스 신발 너무 예쁘고 발 크기도 딱 맞아서 너무 좋았어요<br/>신발은 좋아요<br/>조카 선물로 구입했어요.<br/> 잘신고 다니는거 보니 좋네요)<br/>" 
+---

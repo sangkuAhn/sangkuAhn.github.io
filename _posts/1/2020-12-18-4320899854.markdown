@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "라인프렌즈 아동용 브라운앤프렌즈 브라운 페이털실내화" 
+description: 라인프렌즈 아동용 브라운앤프 ..
+date: 2020-12-18 14:22:51 
+img: https://static.coupangcdn.com/image/retail/images/2020/11/12/11/9/1e00121f-2b6b-4640-9d52-722220166eb7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4320899854&itemId=5028858714&vendorItemId=72338673335&traceid=V0-113-3debbe2da5a8470e 
+categories: [1004] 
+color: FF6F00 
+price: 10900 
+author: Ask View Shop 
+cont:  "넘편하구 이뻐요ㅎㅎ 사무실에서 신으려구샀어요<br/>따뜻하고 귀여워서 딸램이 넘 좋아하니 저도 만족합니다<br/>아이가 너무나 좋아해요^^<br/>저희 어릴적 흰 실내화만 신었었지만 요즘아이들은 자유로워서 넘 좋으네요^^<br/>좋아용 따뜻하고 넘귀엽네유<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "슈피겔라우 페스티벌 버건디 와인잔, 2개입" 
+description: 슈피겔라우 페스티벌 버건디  ..
+date: 2020-12-24 15:20:23 
+img: https://static.coupangcdn.com/image/retail/images/2018/07/13/17/7/b5a0144f-4439-4e3a-99da-0f9d45311bc8.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=109343172&itemId=330883771&vendorItemId=3811842941&traceid=V0-113-95ffcf317753d2c8 
+categories: [1013] 
+color: 03A9F4 
+price: 18700 
+author: Ask View Shop 
+cont:  "넘 얇아서  술 마시다 깨질수드 잇어요<br/>만족하나.<br/>.<br/> 높이가 높아 건조가 어렵네요(건조대가 낮은분은 참고요)<br/>사이즈가 생각보다크니 참고하세요<br/>쓰지드 못하그 씻다말다 아작낫어요<br/>약간 싼티남 but 맥주잔 와인보다 낫자나<br/>이런 제품 판다는것드 참 황당하네요<br/>절대 사지마세요<br/>" 
+---

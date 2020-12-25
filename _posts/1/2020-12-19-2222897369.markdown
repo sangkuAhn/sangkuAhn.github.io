@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "이힝 겨울 뽀글 레터링 기모맨투맨 루즈핏 맨투맨" 
+description: 이힝 겨울 뽀글 레터링 기모 ..
+date: 2020-12-19 14:01:14 
+img: https://static.coupangcdn.com/image/vendor_inventory/1d3b/716a008a828e1a835117f10cd52aaffcb67ac4ae15858209be4362d26599.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2222897369&itemId=3790596961&vendorItemId=71775615945&traceid=V0-113-552bcabd905773ce 
+categories: [1001] 
+color: 43A047 
+price: 14800 
+author: Ask View Shop 
+cont:  "66싸이즈 입는데... <br/> 잘맞아요<br/>그게조금 아쉽네요  전 가리는게 좋거든요 ㅎ ㅎ<br/>그래도 두툼하니 따뜻하고 좋아요<br/>빨고나니 좀 줄었어요 ... <br/><br/>사장님.<br/> 너무 친철하시고요<br/>아직 바지는 받아 보지 못하였으나 사장님추천으로 맘에들거 같아요<br/>예뻐요  색깔별로 구매하고픈 <br/>요번 4번째 5번째 옷들이 다 예뻐요<br/>허리단은 생각보다짧아요 힙을 가리지 못하는 기장?<br/>" 
+---

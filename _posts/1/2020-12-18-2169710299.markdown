@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "모스트맘 밀크기모 주니어세트 하트선인장 잠옷" 
+description: 모스트맘 밀크기모 주니어세트 ..
+date: 2020-12-19 06:22:47 
+img: https://static.coupangcdn.com/image/vendor_inventory/ebfc/c51d2b72e5edf62c1fb8585b17a67a68d2e3e7709189d5ad447f4281e4c5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2169710299&itemId=3690607297&vendorItemId=71675928481&traceid=V0-113-85e584dadd306f9d 
+categories: [1004] 
+color: A57F92 
+price: 11900 
+author: Ask View Shop 
+cont:  "딸아이 사줬어요!!소재도 보들보들하니 너무 좋아요^^사이즈도 좋고  만족합니다.<br/><br/>여아는 152에 45kg/남아는 154에 52kg이예요<br/>초4여아 주니어입어야 좋더라구요 여동생 잠옷이랑 셋뚜셋뚜네요<br/>" 
+---

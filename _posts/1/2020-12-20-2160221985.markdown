@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "NS93L50A" 
+description: NS93L50A ..
+date: 2020-12-20 14:44:25 
+img: https://static.coupangcdn.com/image/vendor_inventory/4d35/5b63b9cdcd1dbe96b5121623baae0c83b5e10c4f06022282983e18d4711b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2160221985&itemId=3669712850&vendorItemId=71641171721&traceid=V0-113-d2eb0d1396ba87ea 
+categories: [1007] 
+color: BF360C 
+price: 89100 
+author: Ask View Shop 
+cont:  "그런데 약간 발볼이좁은편이예요<br/>따뜻합니다.<br/><br/>반치수크게신으시면 딱좋을듯해요<br/>숨쉬는 타입이라 발에 땀이 차지않아서 좋네요.<br/><br/>신발 고급지고 예뻐요.<br/><br/>아쉬운건 5mm단위가 없어서 사이즈가 좀 끼네요.<br/><br/>아주 맘에 쏙 들어용.<br/>  올 겨울 따뜻하게 보낼수 있을것같군요<br/>저렴한 방수털신은 땀이 금방차고 배출이 안되서 동상걸리기 쉬운데 맘에 쏙 듭니다<br/>" 
+---

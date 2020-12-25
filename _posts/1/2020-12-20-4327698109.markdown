@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "채니봉봉 아동용 도트 리본 벙어리 장갑" 
+description: 채니봉봉 아동용 도트 리본  ..
+date: 2020-12-21 06:29:58 
+img: https://static.coupangcdn.com/image/rs_quotation_api/gp0vaebh/4cf393b8dca447b09b3768dc7d7e267c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4327698109&itemId=5046324283&vendorItemId=72355690359&traceid=V0-113-cdbbe523cbd85189 
+categories: [1005] 
+color: BD24A9 
+price: 8100 
+author: Ask View Shop 
+cont:  "20개월 여아 딱맞아요 올겨울 한철 쓰면 작을꺼같아여<br/>도톰하고 앙증맞고 귀여워요<br/>벗으면 안감이 같이 딸려나와서 다시끼려면 안감을 다시넣어주고 끼워야해서 불편네여.<br/><br/>이쁘고 보드라운데 손목부분이 좀더 신축성이 있음 좋을꺼같고<br/>제 딸 쓰려고 샀는데.<br/>.<br/> 작아서 지인 딸 주긴했지만 ㅎ 선물로 주기 부끄럽지 않을만큼 괜찮았어요<br/>" 
+---

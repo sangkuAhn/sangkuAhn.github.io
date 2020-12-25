@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "키움터/브레드이발소 퍼즐 2 (70조각), 키움터" 
+description: 키움터/브레드이발소 퍼즐 2 ..
+date: 2020-12-20 16:03:35 
+img: https://static.coupangcdn.com/image/retail-product-api/A00077021/26018871/29167193/main/8809255052398_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2056049820&itemId=3495131917&vendorItemId=70826812345&traceid=V0-113-ac88c73c410ff521 
+categories: [1019] 
+color: 03A9F4 
+price: 4500 
+author: Ask View Shop 
+cont:  "1일 1번은 꼭 해요ㅋㅋㅋ<br/>5세 아이가 놀기에 딱 좋은 난이도에요^^<br/>70피 4살 아들 완성!<br/>강추합니다.<br/><br/>너무 많으면 어려워서 짜증내는데... <br/>.<br/><br/>며칠이나 갈런지ㅠㅠ<br/>배송도 빠르고 좋아요^^<br/>브레드 이발소에 빠진 아들 위해 사줫어요<br/>아이가 좋아하네요.<br/><br/>이건 끝까지 하네요ㅋ<br/>퍼즐 넘나 좋아하는 아들<br/>피스가 너무 적으면 시시해하고<br/>" 
+---

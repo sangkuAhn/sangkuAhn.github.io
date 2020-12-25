@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "라프롬나드 남아용 심플라인 니트장갑 2종 세트" 
+description: 라프롬나드 남아용 심플라인  ..
+date: 2020-12-22 14:30:02 
+img: https://static.coupangcdn.com/image/retail/images/2020/10/05/11/0/c4a45153-8d58-430d-9b10-dd98bb8c9681.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2269099442&itemId=3890976134&vendorItemId=71875602100&traceid=V0-113-56207160860b9857 
+categories: [1005] 
+color: A57F92 
+price: 12430 
+author: Ask View Shop 
+cont:  "10살 남아 장갑을 쿠팡서 2개 샀는데 이번제품은 성공했어요.<br/> 살짝 여유있게 잘 맞아요.<br/> 저도 손이 작은편인데 잘 맞아요.<br/><br/>엄청 넉넉하네요<br/>엄청커보였는데 손목보다 많이 위로올라오는 스타일이라 초등4학년인데 잘맞아요.<br/><br/>초등 남아용으로 샀는데 성인 여성도 넉넉히 맞아요 ^^<br/>터치도 잘되고 두툼해서 따뜻합니다<br/>" 
+---

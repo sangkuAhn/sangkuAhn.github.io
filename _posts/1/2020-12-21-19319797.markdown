@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "미미월드 미미 메이크업박스, 혼합 색상" 
+description: 미미월드 미미 메이크업박스, ..
+date: 2020-12-21 16:10:50 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/07/02/4340385207/1146ddd6-96f3-4a3c-9809-7a2b222f9728.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=19319797&itemId=77509206&vendorItemId=4340385207&traceid=V0-113-25c3f07b77d541ef 
+categories: [1020] 
+color: 5A8DF3 
+price: 25750 
+author: Ask View Shop 
+cont:  "7살 아이가 좋아합니다.<br/> 대신 종이에 화장해주는것은 발색이 잘 안되나보더라구요.<br/><br/>가루.<br/> 날림은 있어요<br/>아이는 좋아했지만, 아이쉐도 펄입자가 너무 날라서 치우느라 고생했네요<br/>어른들꺼두.<br/> 가루날림있으니까... <br/>... <br/>.<br/>.<br/> 아이얼굴에는 안해봤지만.<br/> 스케치북에.<br/> 잘.<br/> 발리고.<br/> 이뻐요<br/>" 
+---

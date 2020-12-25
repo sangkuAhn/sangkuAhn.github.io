@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "오즈키즈 아동용 오즈미들 털안감 부츠" 
+description: 오즈키즈 아동용 오즈미들 털 ..
+date: 2020-12-19 14:30:07 
+img: https://static.coupangcdn.com/image/rs_quotation_api/6c72/23ebf5a03388f99a4ef7f71f003019eca66f57110ebd3b2cd1d641328b2d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2355085546&itemId=4086002058&vendorItemId=72069997371&traceid=V0-113-9d061147effaa204 
+categories: [1005] 
+color: 03A9F4 
+price: 24900 
+author: Ask View Shop 
+cont:  "210 주문해서 신었어요<br/>내피가 털로 되어 있는 신발은 평소 사이즈에서 한 사이즈 업해서  주문해야하는데요 발등 높고 발볼 넓은 180mm 신는 여아 190mm 주문했다가 너무 딱 맞아서 200mm 로 재주문했어요<br/>딱 좋아요<br/>사진 그대로예요.<br/> 아이가 좋아합니다.<br/><br/>여유있게 잘 맞고 리본도 3가지 색상이라 아이가 골라서 묶을 수 있어요 이뻐요<br/>한해 편하게  멋지게 신길거같네요<br/>" 
+---

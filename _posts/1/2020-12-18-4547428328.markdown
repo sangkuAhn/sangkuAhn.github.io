@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "남녀공용 롱패딩 겨울점퍼" 
+description: 남녀공용 롱패딩 겨울점퍼 ..
+date: 2020-12-19 06:08:24 
+img: https://static.coupangcdn.com/image/vendor_inventory/472d/00158fe1c4a4684e6a8c9f7227f2281a6c8b1de018b9efde03202fbd2f16.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4547428328&itemId=5514213932&vendorItemId=72813776185&traceid=V0-113-2b11e97e9abb9f3c 
+categories: [1002] 
+color: FF1744 
+price: 19900 
+author: Ask View Shop 
+cont:  "뜨시고 좋아요<br/>막입기엔 부담업고 좋아요<br/>설명 사진보다는 더 얇은 느낌이에요 그래도 그렇게 많이 춥지는 않은거 같아요<br/>역시 가성비 최고 맞네요<br/>옷에 구멍이 난 상태로 왔네요.<br/> 뭘로 뚫린건지 흙이 묻어있더라고요.<br/> 발견하기 전에 이미 택을 떼버려서 교환하기도 힘들고 그냥 입으려고요.<br/> 그냥 싸게 동네 마실 나갈 때 입으려고 샀으니까요... <br/> 옷 자체는 괜찮은 편이에요.<br/><br/>이거입고 눈썰매 한번가야는데<br/>이노무 코로나 때문에 불가능하네요<br/>" 
+---

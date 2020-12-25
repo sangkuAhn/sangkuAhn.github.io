@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "시크릿쥬쥬 아동용 마스크줄 3종 세트" 
+description: 시크릿쥬쥬 아동용 마스크줄  ..
+date: 2020-12-23 06:15:38 
+img: https://static.coupangcdn.com/image/rs_quotation_api/lzokap8x/128767bd86aa4bcd83398611beaab715.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4353773273&itemId=5111445409&vendorItemId=72420987072&traceid=V0-113-fe91f27aa70520a7 
+categories: [1003] 
+color: A57F92 
+price: 8600 
+author: Ask View Shop 
+cont:  "낱개로 배송비주고 사는값이나 세개 사는 값이 비슷해서 로켓 샀어요 ㅎㅎ<br/>아이 크리스마스 선물 리스트 중에 하나로 픽!해서 구매했어요ㅋㅋㅋ<br/>아이는 좋다고 난리<br/>아이들이 좋아해요<br/>이렇게 까지 많이 필요없는데<br/>" 
+---

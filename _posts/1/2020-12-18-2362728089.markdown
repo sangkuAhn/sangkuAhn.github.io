@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "내셔널지오그래픽 L6 벤츄리원단 기모안감 긴바지 남녀공용 겨울용" 
+description: 내셔널지오그래픽 L6 벤츄리 ..
+date: 2020-12-18 14:08:27 
+img: https://static.coupangcdn.com/image/vendor_inventory/08f2/a038edd96e93137fe5661cbd5405512029b228e16a7543f2255c9cdf7bfa.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2362728089&itemId=4103783542&vendorItemId=72926171736&traceid=V0-113-f5a0def87e3e43b4 
+categories: [1002] 
+color: 4CAF50 
+price: 27000 
+author: Ask View Shop 
+cont:  "가격대비 옷은 잘나왔네요 좀 작은듯<br/>잘 입을게요<br/>지퍼 고장에 마감불량 비추에요<br/>" 
+---

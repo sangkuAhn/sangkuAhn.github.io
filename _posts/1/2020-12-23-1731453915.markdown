@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "휠라 스니커즈 신발 레이 화이트" 
+description: 휠라 스니커즈 신발 레이 화 ..
+date: 2020-12-24 06:44:23 
+img: https://static.coupangcdn.com/image/vendor_inventory/cb34/a4a74ff9fa94e9c983d15151d9c505b8db8785bf9683da05029444d3e071.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1731453915&itemId=2947348536&vendorItemId=70935818554&traceid=V0-113-b0f72236920a026a 
+categories: [1007] 
+color: 4CAF50 
+price: 49500 
+author: Ask View Shop 
+cont:  "290시키길 잘했어요 290은 되어야 발에 좀 맞네<br/>싸이즈도 잘 맞고 디자인도 생각했던 거와 같아 아주 만족스럽습니다  걱정과는 달리 발도 편해요<br/>엄청 편해요<br/>" 
+---

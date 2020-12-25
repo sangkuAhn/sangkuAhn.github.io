@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "캐나다산 활랍스터, 790g, 1개" 
+description: 캐나다산 활랍스터, 790g ..
+date: 2020-12-19 07:13:04 
+img: https://static.coupangcdn.com/image/retail/images/2020/11/26/16/8/72605a8e-2b05-48e4-908c-8976a03f48ae.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4505270258&itemId=5413624561&vendorItemId=72713586853&traceid=V0-113-e9856a8e1cad8559 
+categories: [1012] 
+color: BD24A9 
+price: 40140 
+author: Ask View Shop 
+cont:  "냉장고안에서도 소리가 나요<br/>너무 무섭습니다 흑흑... <br/>.<br/>.<br/><br/>무서워요<br/>박스 안에서 소리나요 ㅠㅠ<br/>박스채로 냉장고 넣어놨는데<br/>살아 있는거 같아요<br/>제일 큰 걸로 시켜서<br/>크기는 괜히<br/>" 
+---

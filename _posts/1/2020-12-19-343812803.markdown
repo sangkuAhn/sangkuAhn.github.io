@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "네파 넥워머, 블랙" 
+description: 네파 넥워머, 블랙 ..
+date: 2020-12-19 14:37:19 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2018/11/06/22/6/23cb8226-55f0-4bbf-87e2-c9b56c6a271a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=343812803&itemId=1092350821&vendorItemId=4173797402&traceid=V0-113-ca01874a75ffc086 
+categories: [1006] 
+color: A6A6A6 
+price: 7900 
+author: Ask View Shop 
+cont:  "겨울철 워머필수이지요 그냥 이마트가서사주다가 이번 네파멀티넥워머 보고 구매했는데 두껍진않구 그냥 평범한 두께구요 머리쪽집어넣을때 그리넓지않다는점 참고하세요 울아이 절대머리큰편아니구요^^<br/>끈으로 조절가능해서 바람도 덜 들어와요<br/>네파 로고가 있어 세련미가 추가되네요<br/>목도리 사드려도 잘 안하셔서 캐쥬얼로 등산 용품으로 알아보다가 가격 너무 저렴하고 내파라서 믿고 구매햇어요<br/>바람 많이 불고 추운 이겨울에 하고 다니기 딱 좋아요!!<br/>배송 빠르고 실재로 따뜻해요<br/>번갈아 쓰려고 2개 샀는데 잘했네요^^<br/>부드럽고 따뜻하고 좋아요<br/>아빠 선물로 구매햇는데 저렴한 가격애 바해 활용도는 무궁무진 하네요 사길 잘햇어요<br/>추천해요♡<br/>털이 적당히 있고 부들부들하니 좋네요<br/>" 
+---

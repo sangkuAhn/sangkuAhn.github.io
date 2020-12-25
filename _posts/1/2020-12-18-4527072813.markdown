@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "이모고모 BC X-mas 도트산타슈트 (슈트+모자 set)" 
+description: 이모고모 BC X-mas 도 ..
+date: 2020-12-19 06:15:36 
+img: https://static.coupangcdn.com/image/vendor_inventory/9610/aa2074534527833e4d74e53b9732859e3ff36836999175e775d86c467be0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4527072813&itemId=5464481029&vendorItemId=72764253569&traceid=V0-113-50b775a1aac29c42 
+categories: [1003] 
+color: A566FF 
+price: 20800 
+author: Ask View Shop 
+cont:  "8개월 아기가 입기엔 조금 큽니다<br/>받자마자 찬물로 헹구기만했는데 빨갛게 물이빠지더니<br/>세탁에 관련된 설명이 조금 부족한거같아요<br/>옷에 물들었어요<br/>혹시나 물이빠질까해서 단독세탁해서 다른빨래랑 건조만 같이했는데 그래도 물이빠져서 다른빨래가 다분홍색이됐어요;;산타얼굴도핑크색으로물들고;;<br/>" 
+---

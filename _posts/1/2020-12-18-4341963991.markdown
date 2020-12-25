@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "베베나인 아동용 겨울 산타 실내복 세트" 
+description: 베베나인 아동용 겨울 산타  ..
+date: 2020-12-19 06:15:36 
+img: https://static.coupangcdn.com/image/rs_quotation_api/jrhmjhdn/ab9eab923f7546ad95b20532f0be3f7c.JPG 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4341963991&itemId=5083164608&vendorItemId=72392806533&traceid=V0-113-815b9772d6eb5fb4 
+categories: [1003] 
+color: F15F5F 
+price: 12670 
+author: Ask View Shop 
+cont:  "실밥 엄청튀어나오고<br/>쌍둥이라 두개샀는데 넘 아깝습니다<br/>아기옷인데 너무 심해요<br/>옷먼지 장난아니어요<br/>이걸옷이라고<br/>진짜 별로에요<br/>크리스마스 사진 한방찍고 버리려구요<br/>" 
+---

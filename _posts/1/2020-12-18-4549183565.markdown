@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "케이스갤러리 롯데푸드 빵빠레 소프트 휴대폰 케이스" 
+description: 케이스갤러리 롯데푸드 빵빠레 ..
+date: 2020-12-19 07:41:52 
+img: https://static.coupangcdn.com/image/retail/images/2020/12/03/10/1/cf4f9569-c60f-4425-94bf-2095dc1774a7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4549183565&itemId=5518768939&vendorItemId=72818316305&traceid=V0-113-178afaf594a69e68 
+categories: [1016] 
+color: A566FF 
+price: 15000 
+author: Ask View Shop 
+cont:  "단점은 액정을 보호하기 위해서 테두리 옆면이 좀 더 올라왔다는데 생각보다 많이 올라옴 ㅎㅎ<br/>빵빠레 아이스크림을 좋아한다면 의리로 사라!<br/>졸귀탱! 귀요미! 빵빠레! 촉감도 실리콘 같지 않은 보들보들한 실리콘 적인 느낌 실리콘 케이스임에도 불구하고 여타 중국산 케이스들과는 다르게 얇은 핏과 부드러운 촉감<br/>케이스 장착후에 옆 면 버튼들도 부드럽게 잘 눌림<br/>" 
+---

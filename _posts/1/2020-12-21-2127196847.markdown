@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "수축 튜브 530p, 혼합색상" 
+description: 수축 튜브 530p, 혼합색 ..
+date: 2020-12-22 07:56:06 
+img: https://static.coupangcdn.com/image/retail/images/2020/09/16/20/1/6137da1c-ff2f-41d6-a446-a9fc8e4c7ddb.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2127196847&itemId=3610454973&vendorItemId=71596108863&traceid=V0-113-5a1d453dc5203463 
+categories: [1018] 
+color: D9418C 
+price: 7530 
+author: Ask View Shop 
+cont:  "가격대비 질이 괜찮네요 두고두고 잘 쓰겠습니다.<br/><br/>꽤 굵은 스피커 케이블에 쓰기에는 직경이 작네요 직경이 작은 케이블 위주로 쓰시는분들이 좋을 듯<br/>아직사용전입니다<br/>" 
+---

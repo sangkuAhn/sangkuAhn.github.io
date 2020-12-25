@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "엘본 스테이크 (냉장), 500g, 1개" 
+description: 엘본 스테이크 (냉장), 5 ..
+date: 2020-12-19 07:13:04 
+img: https://static.coupangcdn.com/image/retail/images/2020/12/03/13/5/e986e08e-e8c6-4c4f-90cd-74c5df545bf7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4543184069&itemId=5502105056&vendorItemId=72801709958&traceid=V0-113-c3983bbb1156dd4b 
+categories: [1012] 
+color: F361A6 
+price: 25900 
+author: Ask View Shop 
+cont:  "가격 싸게 맛나게 잘 먹었네요<br/>고기 아주 좋아요<br/>사진을 못 남겨서 애석하네요<br/>설에도 한번 더 판매 하셔요<br/>재구매의사  있어요<br/>하나 산거 후회 되네요<br/>" 
+---
