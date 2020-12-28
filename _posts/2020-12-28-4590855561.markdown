@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "삼성전자 80cm UHD 스마트 모니터 M7, LS32AM700UKXKR" 
+description: 삼성전자 80cm UHD 스 ..
+date: 2020-12-29 07:42:01 
+img: https://static.coupangcdn.com/image/retail/images/2020/12/11/10/8/3a1567d7-0289-4b6f-9963-aa7b8bf7677a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4590855561&itemId=5644854308&vendorItemId=72943858140&traceid=V0-113-291d6577f36ff2a0 
+categories: [1016] 
+color: f44336 
+price: 490000 
+author: Ask View Shop 
+---
+ 

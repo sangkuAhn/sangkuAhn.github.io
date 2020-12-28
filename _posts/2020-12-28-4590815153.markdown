@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "삼성전자 68.6cm FHD 스마트 모니터, LS27AM500NKXKR" 
+description: 삼성전자 68.6cm FHD ..
+date: 2020-12-29 07:42:01 
+img: https://static.coupangcdn.com/image/retail/images/2020/12/11/10/7/477e205c-ef2e-46a3-a5db-8055ae206a51.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4590815153&itemId=5644712471&vendorItemId=72943716682&traceid=V0-113-5d93a4de8847586f 
+categories: [1016] 
+color: BF360C 
+price: 300000 
+author: Ask View Shop 
+---
+ 

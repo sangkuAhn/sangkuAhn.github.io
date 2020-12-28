@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "삼성전자 80.1cm FHD 스마트 모니터, LS32AM500NKXKR" 
+description: 삼성전자 80.1cm FHD ..
+date: 2020-12-29 07:42:01 
+img: https://static.coupangcdn.com/image/retail/images/2020/12/11/10/9/772b7dea-3f39-4963-a4ae-fbbb96c6e5c4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4604251402&itemId=5682625870&vendorItemId=72981509970&traceid=V0-113-e049a183fa113db7 
+categories: [1016] 
+color: BF360C 
+price: 360000 
+author: Ask View Shop 
+---
+ 
