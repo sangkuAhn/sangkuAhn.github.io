@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "예스플러스 세미피치 체크카라세트" 
+description: 예스플러스 세미피치 체크카라 ..
+date: 2020-12-26 14:08:25 
+img: https://static.coupangcdn.com/image/vendor_inventory/6fe3/60398aca9e8178b86852d6088f86bc87689b7d210ae6ba1ace5daefb97f7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2321835149&itemId=4010034063&vendorItemId=71994255097&traceid=V0-113-3b7b67aaff4309dc 
+categories: [1002] 
+color: 9E9D24 
+price: 15900 
+author: Ask View Shop 
+cont:  "ㅎㅎ신랑꺼랑 저랑 커플잠옷!!<br/>너무맘에들에요!!ㅎㅎ<br/>다음에 또 구매하고싶네요!!ㅎㅎ<br/>또사고싶은데 품절된게 많네요ㅠㅠ흑ㅠㅠ<br/>많이많이 파세요!!<br/>미리사길 정말잘했어요!!ㅎㅎ<br/>부드럽고사진보다<br/>실제색상이 약간어두운 붉은색이라 촌스럽지<br/>않아요<br/>어머.<br/>.<br/><br/>옷이너무 좋아요... <br/>ㅎㅎ<br/>완전 부드럽고 보들보들하고 완전 쭉쭉 늘어나고ㅋㅋ<br/>이런옷이 잠옷으로 최고에요!!ㅎㅎ<br/>이뻐요<br/>이쁜잠옷 판매해주셔서 감사해용!!<br/>잘입을게요!! 크리스마스 보내기 딱좋네요ㅋㅋ<br/>진짜이뻐요!!<br/>쫀쫀하고 보들보들하구 진짜<br/>하나더살까... <br/>.<br/>?하는데 이미 품절이네요ㅠㅠ<br/>" 
+---

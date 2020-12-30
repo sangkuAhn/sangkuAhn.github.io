@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "엣지랜드 파밀리에 롱 드레스" 
+description: 엣지랜드 파밀리에 롱 드레스 ..
+date: 2020-12-25 06:22:46 
+img: https://static.coupangcdn.com/image/retail/images/2020/10/22/11/2/11d110a5-ae29-4a11-a2ff-d651385da0cf.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2279540496&itemId=3914398721&vendorItemId=71898947545&traceid=V0-113-7b355465c84945b5 
+categories: [1004] 
+color: FF1744 
+price: 39900 
+author: Ask View Shop 
+cont:  "120사이즈부터라 몸은 맞는데 팔이 너무 길어서 그것만 수선했네요 참고로 저희딸은 4살입니다<br/>공주공주합니다<br/>안에 집에 있던 패티코트까지 입혔더니 정말 예쁩니다<br/>" 
+---

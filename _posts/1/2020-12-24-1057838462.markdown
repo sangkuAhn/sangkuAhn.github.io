@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "리틀래빗 아동용 파자마세트 D 산타미키" 
+description: 리틀래빗 아동용 파자마세트  ..
+date: 2020-12-25 06:29:56 
+img: https://static.coupangcdn.com/image/retail/images/2019/12/03/12/1/c513c813-754c-4594-95bc-03c5f00e7144.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1057838462&itemId=2001070162&vendorItemId=70001066600&traceid=V0-113-d47bcdacba311027 
+categories: [1005] 
+color: CF36BB 
+price: 26900 
+author: Ask View Shop 
+cont:  "너무 귀엽고 질도 괜찮은거같아요.<br/> 키 91에 몸무게 13.<br/>2키로 m사이즈 딱맞아요 ^^<br/>보들보들 좋아요<br/>사이즈도 딱이네요! 90<br/> -100입히는데 s가 딱 맞아요<br/>완전 귀요워여❤️ 면이라 재질도 좋고<br/>" 
+---

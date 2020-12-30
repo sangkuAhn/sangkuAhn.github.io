@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "채니봉봉 제니 헤어핀 세트" 
+description: 채니봉봉 제니 헤어핀 세트 ..
+date: 2020-12-26 06:15:37 
+img: https://static.coupangcdn.com/image/rs_quotation_api/1d33/4751e522ede43c2ca5b7f67f108e61d22afd221c69f5f21b1759cbcca6d4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2336643762&itemId=4046215367&vendorItemId=72030355366&traceid=V0-113-3e40acdb222bb3af 
+categories: [1003] 
+color: f44336 
+price: 11260 
+author: Ask View Shop 
+cont:  "선물할러고 구입했어요ㆍ 예쁘네요<br/>좋아요좋아요좋아요<br/>" 
+---

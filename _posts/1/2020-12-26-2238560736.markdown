@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아디다스 N.F 클라우드폼 런닝화 + 볼펜" 
+description: 아디다스 N.F 클라우드폼  ..
+date: 2020-12-26 14:44:25 
+img: https://static.coupangcdn.com/image/vendor_inventory/6f68/19d1d63fe725c13c3632ead2142db5f0c1f02e9c3f940fdf3238125cfe8c.JPG 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2238560736&itemId=3823222006&vendorItemId=71808095179&traceid=V0-113-3d19585b70c8b18c 
+categories: [1007] 
+color: A566FF 
+price: 59800 
+author: Ask View Shop 
+cont:  "285사이즈가 없어서 찾던중 본게 이것인데  아들이 넘좋아해요 발이 편하다고<br/>가볍고 좋네요... <br/>새벽에 주문하고 저녁에 받았습니다<br/>아빠 생일선물로 드렸는데 마음에 들어하시네요ㅎㅎ<br/>운동 시작하는 아들 신길라고 샀는데 가격도 저렴하니 굿<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "카터스 버팔로 체크 무늬 탑 + 산타 팬츠 세트" 
+description: 카터스 버팔로 체크 무늬 탑 ..
+date: 2020-12-26 14:15:37 
+img: https://static.coupangcdn.com/image/retail/images/2020/05/26/17/5/f2034ecc-0c8f-48ed-bae0-b4231a701f1c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1633569604&itemId=2786346611&vendorItemId=70776076336&traceid=V0-113-a855611d4fbb60bc 
+categories: [1003] 
+color: F361A6 
+price: 28000 
+author: Ask View Shop 
+cont:  "선물했는데 생각보다 얇아요<br/>" 
+---

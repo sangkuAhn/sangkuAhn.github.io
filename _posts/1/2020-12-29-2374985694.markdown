@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "내셔널지오그래픽 심플 기모 맨투맨(AA)" 
+description: 내셔널지오그래픽 심플 기모  ..
+date: 2020-12-29 14:08:28 
+img: https://static.coupangcdn.com/image/vendor_inventory/4aa2/8a990bf248bdc0d6d2b94955d2b65ec7e910b658172c62e58e1cdb7982b8.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2374985694&itemId=4137553008&vendorItemId=72806282449&traceid=V0-113-63915e27b8b1be27 
+categories: [1002] 
+color: 4CAF50 
+price: 28000 
+author: Ask View Shop 
+cont:  "그래도 따뜻하게입을수있어 좋네요<br/>따듯해여<br/>딸이 따뜻하고 좋다네요<br/>생각보다 디자인이 이쁘지는않네요<br/>" 
+---

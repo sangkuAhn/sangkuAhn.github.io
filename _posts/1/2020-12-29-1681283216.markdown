@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "머큐리 릴 하이브리드 2.0 실리콘 케이스" 
+description: 머큐리 릴 하이브리드 2.0 ..
+date: 2020-12-29 14:08:28 
+img: https://static.coupangcdn.com/image/retail/images/2020/06/05/11/1/5ea46eeb-1224-4973-9317-3654655068d3.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1681283216&itemId=2864100920&vendorItemId=70853348826&traceid=V0-113-7c42dffa94f5d606 
+categories: [1002] 
+color: D9418C 
+price: 8000 
+author: Ask View Shop 
+cont:  "사진보다 약간 어두운 색상인거 같지만 매우 만족합니다<br/>스킨 부착후에 케이스를 장착 하였더니 상.<br/>하.<br/>좌.<br/>우 흠잡을곳없이 너무 깔끔하며 사용후 내려둘때의 안정감 좋습니다.<br/><br/>참고로 스킨 장착후 케이스를 장착할때는 자연스럽게 되지만 빼려고하니 않빠지네요.<br/> 힘좀 써야할듯 하네요.<br/>ㅋ<br/>흰색제품에 검은색 케이스를 구매했는데요 색깔 조합이 너무 예쁘네요.<br/> 그립감도 좋아졌고 잔기스 걱정도 없어졌어요.<br/> 원래 생활기스가 제일 조심스러운데 걱정 없답니다.<br/> 많이파세요<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아이언맨 코스튬 S" 
+description: 아이언맨 코스튬 S ..
+date: 2020-12-27 06:15:37 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2017/11/09/3007207699/4654b15d-74cf-47bb-b474-34343da11141.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1624208&itemId=5679635&vendorItemId=3007207699&traceid=V0-113-e71df1d69b3d2dc9 
+categories: [1003] 
+color: 1294AB 
+price: 49900 
+author: Ask View Shop 
+cont:  "마감도 잘 되있구여  옷도 괜찮네여<br/>반대쪽 어깨에 메인보드?에 투명색으로 걱전지 보호팁이 끼워져있어서 제거해야 작동이 되더라구요<br/>색이 좀 어둠충충하네요<br/>신나서 유치원에 입고 갔네요<br/>싸이즈 크게 나온거 같아요... <br/> 후기가 없어 사진 올립니다<br/>아이가  넘 좋아해요<br/>처음에 다른 리뷰보고 제것도 불량인줄 알았는데<br/>" 
+---
