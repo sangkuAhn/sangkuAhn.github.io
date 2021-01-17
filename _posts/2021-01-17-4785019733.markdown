@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "기가바이트 게이밍 노트북 AORUS 15P XC i7 (i7-10870H 39.6cm RTX 3070), 윈도우 미포함, NVMe 512GB, 32GB" 
+description: 기가바이트 게이밍 노트북 A ..
+date: 2021-01-18 07:42:27 
+img: https://static.coupangcdn.com/image/retail/images/2021/01/12/17/3/20f1b130-d775-474b-85fc-1d3f55f5a66b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4785019733&itemId=6123514292&vendorItemId=73419809378&traceid=V0-113-ec32b13092617d76 
+categories: [1016] 
+color: 43A047 
+price: 2399000 
+author: Ask View Shop 
+---
+ 

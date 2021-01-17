@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "휠라 FILA WALKING (FE1RNB3001M_BBK)" 
+description: 휠라 FILA WALKING ..
+date: 2021-01-18 06:44:23 
+img: https://static.coupangcdn.com/image/vendor_inventory/fcf1/f98534c2679618f4647b4226b91f0b24703b3015f7f3ab70d78d3bd1c57f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4541127301&itemId=5496361313&vendorItemId=72795997946&traceid=V0-113-2508208616125dcb 
+categories: [1007] 
+color: F15F5F 
+price: 31890 
+author: Ask View Shop 
+---
+ 

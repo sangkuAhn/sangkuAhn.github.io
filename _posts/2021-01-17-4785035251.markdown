@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "기가바이트 노트북 AERO 17 FHD KC (i7-10870H 43.94cm RTX 3060), 윈도우 미포함, NVMe 1TB, 16GB" 
+description: 기가바이트 노트북 AERO  ..
+date: 2021-01-18 07:42:27 
+img: https://static.coupangcdn.com/image/retail/images/2021/01/12/18/0/6f83481c-cd9d-4abe-bf0e-c9a6d1753e6a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4785035251&itemId=6123540031&vendorItemId=73419835148&traceid=V0-113-929cd0dfd0e5392a 
+categories: [1016] 
+color: CF36BB 
+price: 2099000 
+author: Ask View Shop 
+---
+ 

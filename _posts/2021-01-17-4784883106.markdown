@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "MSI 게이밍 노트북 GE66 Raider 10UG (i7-10870H 39.6cm RTX 3070), 윈도우 미포함, NVMe 512GB, 16GB" 
+description: MSI 게이밍 노트북 GE6 ..
+date: 2021-01-18 07:42:27 
+img: https://static.coupangcdn.com/image/retail/images/2021/01/12/17/0/da456cbe-9f12-41f7-83b9-4d5beb6cbe44.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4784883106&itemId=6123252119&vendorItemId=73419554945&traceid=V0-113-f94716ebacd0db95 
+categories: [1016] 
+color: FF6F00 
+price: 2449000 
+author: Ask View Shop 
+---
+ 

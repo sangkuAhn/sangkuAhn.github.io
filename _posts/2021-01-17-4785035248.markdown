@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "기가바이트 노트북 AERO 15 FHD XC (i7-10870H 39.62cm RTX 3070), 윈도우 미포함, NVMe 512GB, 16GB" 
+description: 기가바이트 노트북 AERO  ..
+date: 2021-01-18 07:42:27 
+img: https://static.coupangcdn.com/image/retail/images/2021/01/12/18/0/52b45e8c-e1b3-4b86-b794-e22afb6b2034.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4785035248&itemId=6123540027&vendorItemId=73419835145&traceid=V0-113-4e14bfee1d698c7b 
+categories: [1016] 
+color: 5A8DF3 
+price: 2099000 
+author: Ask View Shop 
+---
+ 

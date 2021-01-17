@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "샤오미 70Mai 차량용 점프 스타터" 
+description: 샤오미 70Mai 차량용 점 ..
+date: 2021-01-18 07:56:51 
+img: https://static.coupangcdn.com/image/vendor_inventory/031d/0985f1dd31cb30052e68cb6a9d1095069692ee147f098da082356bb41b82.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=340920168&itemId=1085283642&vendorItemId=73250642903&traceid=V0-113-d943ac47ad9256d8 
+categories: [1018] 
+color: 006064 
+price: 46700 
+author: Ask View Shop 
+---
+ 

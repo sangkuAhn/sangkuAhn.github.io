@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "삼성전자 갤럭시 S21 휴대폰 SM-G991N, 팬텀 그레이, 256GB" 
+description: 삼성전자 갤럭시 S21 휴대 ..
+date: 2021-01-18 07:42:27 
+img: https://static.coupangcdn.com/image/retail/images/35144236460426-003c4cda-8cdf-4a43-8afc-4332c8dae97b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4776423277&itemId=6103046439&vendorItemId=73399417498&traceid=V0-113-69f35a494f250ebd 
+categories: [1016] 
+color: 4A148C 
+price: 999900 
+author: Ask View Shop 
+---
+ 
