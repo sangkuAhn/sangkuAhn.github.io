@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "스칸디나 접이식 책상 800, 혼합색상" 
+description: 스칸디나 접이식 책상 800 ..
+date: 2021-01-18 16:18:05 
+img: https://static.coupangcdn.com/image/retail/images/2020/10/13/13/6/7b02813d-caf1-4089-acff-38415e1e9a98.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2286093969&itemId=3929565896&vendorItemId=71914076264&traceid=V0-113-5dc5f994820caa39 
+categories: [1021] 
+color: 4374D9 
+price: 39900 
+author: Ask View Shop 
+---
+ 

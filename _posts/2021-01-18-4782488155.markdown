@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "삼성전자 갤럭시 버즈 프로, SM-R190, 바이올렛" 
+description: 삼성전자 갤럭시 버즈 프로, ..
+date: 2021-01-18 15:42:03 
+img: https://static.coupangcdn.com/image/retail/images/58725286481401-b5b3fa39-30a0-4d24-85e4-ac60d84f59c9.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4782488155&itemId=6117330609&vendorItemId=73413724264&traceid=V0-113-3e05bf3beaa7fa50 
+categories: [1016] 
+color: BD24A9 
+price: 239800 
+author: Ask View Shop 
+---
+ 

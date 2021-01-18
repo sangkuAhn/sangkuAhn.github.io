@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "메디하임 전자레인지 다이얼식 20L, MW208-AD" 
+description: 메디하임 전자레인지 다이얼식 ..
+date: 2021-01-18 15:20:28 
+img: https://static.coupangcdn.com/image/retail/images/63645483668737-d861dce8-8d60-4b74-bee4-aa0f72dbb52b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=246568532&itemId=781148954&vendorItemId=4977433973&traceid=V0-113-3226b4ceba2c97e2 
+categories: [1013] 
+color: FF6F00 
+price: 51400 
+author: Ask View Shop 
+---
+ 
