@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "기탄교육 기탄수학 F단계 세트" 
+description: 기탄교육 기탄수학 F단계 세 ..
+date: 2021-01-19 08:03:31 
+img: https://static.coupangcdn.com/image/retail/images/170854527575686-d5d0ad49-99fa-4dc5-bc50-03a917251517.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1274194&itemId=5540080&vendorItemId=3006997895&traceid=V0-113-4983f466028a0b78 
+categories: [1019] 
+color: 4A148C 
+price: 22500 
+author: Ask View Shop 
+---
+ 
