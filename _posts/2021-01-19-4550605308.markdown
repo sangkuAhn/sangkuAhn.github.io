@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "리치팜너트 한우 육포, 800g, 1개" 
+description: 리치팜너트 한우 육포, 80 ..
+date: 2021-01-19 15:13:04 
+img: https://static.coupangcdn.com/image/retail/images/2020/12/04/18/8/b66c4017-9aac-4989-9658-08842babeb3d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4550605308&itemId=5523662808&vendorItemId=72823265285&traceid=V0-113-5cfd95b7b26c9320 
+categories: [1012] 
+color: FF6F00 
+price: 168000 
+author: Ask View Shop 
+---
+ 
