@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "오리모양 눈집게" 
+description: 오리모양 눈집게 ..
+date: 2021-01-18 16:10:53 
+img: https://static.coupangcdn.com/image/vendor_inventory/3a46/0de1e572ed4db7425300768688da523cdcd779d1bb1281b04c4d3865d024.PNG 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=342455423&itemId=1089171366&vendorItemId=5599940428&traceid=V0-113-f11b7b31cba39cb9 
+categories: [1020] 
+color: f44336 
+price: 10000 
+author: Ask View Shop 
+cont:  "날씨도 많이 추운데 눈까지 많이 와<br/>다만 가격 변동이 있네요^^;; 저는 6천원때(1개) 질렀어요<br/>다음날 아침 집 앞에 나가 오리를 여러마리 만들어 놓으니  귀여웠어요... <br/><br/>만들기 쉽고 잘 만들어지면 신나요ㅎㅎ<br/>배송도 빨랐고, 정말 귀엽게 잘만들어져요ㅎ<br/>배송은 하루만에 받았고, 어제 받아서 소낙눈을 기다리고 기다렸는데 오늘 눈이 펑펑 내렸네요^<br/> -^<br/>아이가 넘 좋아하고 대만족!!^^<br/>오리들이 귀엽구 만드는거도 재밌네요<br/>일기예보 봤는데 눈소식이 있어서 서둘러서 주문했어요.<br/><br/>저도 오리 만들었어요^^<br/>처음엔 두세번 실패했는데 그다음엔 금방 만들어졌어요^^<br/>" 
+---

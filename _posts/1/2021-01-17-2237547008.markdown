@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "릴리푸리 여아용 골든체크 원피스" 
+description: 릴리푸리 여아용 골든체크 원 ..
+date: 2021-01-18 06:22:45 
+img: https://static.coupangcdn.com/image/retail/images/516933050447588-d1475ac4-e23c-4766-a42b-6102e56ee80b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2237547008&itemId=3821026977&vendorItemId=71805906722&traceid=V0-113-c019a76da7e9343f 
+categories: [1004] 
+color: A566FF 
+price: 17680 
+author: Ask View Shop 
+cont:  "사고나니 가격 떨어져서 짜증나긴합니다ㅜ<br/>사진으로도 반해서 고민하다 구입했는데 진짜 예쁩니다입히니 더 예쁜 원피스네요^^ 기모도 좋고 색도 좋아요 체크도, 카라도 예쁩니다^^<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "디랩 심플 카드 지갑" 
+description: 디랩 심플 카드 지갑 ..
+date: 2021-01-18 06:51:35 
+img: https://static.coupangcdn.com/image/retail/images/2020/06/24/15/0/e49e9291-569b-4d0f-9200-008ee8685a6b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4667085466&itemId=5830769244&vendorItemId=70952439804&traceid=V0-113-1c2d36923e30ab2c 
+categories: [1008] 
+color: 5A8DF3 
+price: 9490 
+author: Ask View Shop 
+cont:  "급하게 필요해서 주문했는데 딱 기본템이어서 좋아요!<br/>깔끔한거 좋아하시면 강추<br/>너무 간편하게 잘쓰고 있어요 평소에 손에 잘 들고 다니는 스타일이 아니라 주머니에 넣고 딱 필요한것만 챙겨 다니니깐 좋네요<br/>생각보다 만듬새가 좋음.<br/><br/>처음에 살짝 뻑뻑한데 구부려서 조직 펴주면 됩니다.<br/><br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "휠라 FILA WALKING (FE1RNB3001M_BBK)" 
+description: 휠라 FILA WALKING ..
+date: 2021-01-18 06:44:23 
+img: https://static.coupangcdn.com/image/vendor_inventory/fcf1/f98534c2679618f4647b4226b91f0b24703b3015f7f3ab70d78d3bd1c57f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4541127301&itemId=5496361313&vendorItemId=72795997946&traceid=V0-113-2508208616125dcb 
+categories: [1007] 
+color: F15F5F 
+price: 31890 
+author: Ask View Shop 
+cont:  "던집니다 픔질은 좋아요<br/>신랑 넘 맘에  들어하네요<br/>신발은 엄청 예쁘고 마감도 잘되었는데 한치수가 작네요<br/>작아요 택 제거하면 반픔 교환 안된다는거 알기에 쓰레기통으로<br/>저기 밑에 사진에 나와있어서 잘 샀어요! 딱맞게 신으실분은<br/>한치수 크게 사시면 될듯해요!<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아동용 헤일리 기모 상하세트" 
+description: 아동용 헤일리 기모 상하세트 ..
+date: 2021-01-18 14:30:01 
+img: https://static.coupangcdn.com/image/rs_quotation_api/ab86/703a6d2ddbb2e25ba140f7608b24dd2574a1c891e76326078bf8205f3e29.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2371763024&itemId=4129970300&vendorItemId=72113894748&traceid=V0-113-33b301f1cc7bbbf4 
+categories: [1005] 
+color: 43A047 
+price: 14900 
+author: Ask View Shop 
+cont:  "가격대비 너무좋아요.<br/><br/>가격도 좋고 배색느낌도 너무 좋아서 잘 입힐꺼같아요.<br/>.<br/><br/>건조기 돌리려고 두치수 크게 샀어여.<br/>.<br/> 돌리고 난 후에도 넉넉하니 괜찮네요.<br/> 단 상의 허리시보리가 좀 타이트한지 입고 놀다보면 좀 올라가는건 있어요<br/>바지 기장만 살짝길고 잘맞네요.<br/> 요즘 너무추워서<br/>보풀두 안나고 멀쩡하네요<br/>세탁기에 아기옷코스로 망에도안넣고 그냥 막 돌렸는데<br/>잘입힐거같아요.<br/>^^<br/>저희아기 여아 14갤/9.<br/>69.<br/>8kg 정도 되는데<br/>" 
+---

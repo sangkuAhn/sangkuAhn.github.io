@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "나이키 브라질리아 더플백 미디엄 60L + 볼펜, 블랙계열" 
+description: 나이키 브라질리아 더플백 미 ..
+date: 2021-01-18 14:37:14 
+img: https://static.coupangcdn.com/image/vendor_inventory/f7de/68cb560e2cefef0a3d799a8369c8627ebb1c457ce9e3425ddc52220e5b72.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4602261392&itemId=5678542879&vendorItemId=72977439151&traceid=V0-113-3abc13b1225c3b34 
+categories: [1006] 
+color: f44336 
+price: 49900 
+author: Ask View Shop 
+cont:  "가방사이즈는 꽤 커요.<br/> 여행용 가방으로 써도 좋아요.<br/> 나이키라는 브랜드가 말하듯 튼튼합니다.<br/> 수납공간도 많아서 너무 좋아요 ㅎㅎ<br/>맘에 들어요 추천<br/>" 
+---

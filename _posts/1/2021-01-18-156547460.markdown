@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "공룡메카드 스키장갑" 
+description: 공룡메카드 스키장갑 ..
+date: 2021-01-18 14:30:01 
+img: https://static.coupangcdn.com/image/retail/images/2018/11/06/18/9/cb3e414e-ff63-4cec-aa48-8305ea4d2ba7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=156547460&itemId=450744666&vendorItemId=70009897301&traceid=V0-113-b8750210450a8201 
+categories: [1005] 
+color: D9418C 
+price: 7900 
+author: Ask View Shop 
+cont:  "공룡 디자인이 예뻐서 아이가 너무 좋아하네요<br/>당장 눈싸움할려고 급히 샀는데.<br/>.<br/> 맘에들긴하는데 한번쓰고나서 실밥이 좀 풀렸어요ㅜㅜ.<br/>.<br/>  꼬매든지 해야겠어요<br/>방수도 잘되고 사이즈도 잘맞아요<br/>평균적인 6세에요 크기는 한데 못 사용할정도는 아니라 그냥 쓰기로 했어요 방수방한 효과가 클거란 기대는 안합니다 ^^;;<br/>" 
+---

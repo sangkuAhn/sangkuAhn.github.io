@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "제브라 델가드 샤프 그라데이션라이트블루, 0.5mm, 2개" 
+description: 제브라 델가드 샤프 그라데이 ..
+date: 2021-01-18 08:18:35 
+img: https://static.coupangcdn.com/image/rs_quotation_api/00kr1xgd/5a04e5ecffc54553a7974a34d49eb6df.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2379982301&itemId=4150832399&vendorItemId=72134740064&traceid=V0-113-827f14ac77dced8e 
+categories: [1021] 
+color: A566FF 
+price: 7430 
+author: Ask View Shop 
+cont:  "글씨가 제가 원하는 예쁨이 아니에요.<br/>.<br/><br/>다만 안에 들어있는 샤프심 앞이 약간 네모난건지<br/>디자인과 색상 때문에 샀어요.<br/><br/>샤프가 이렇게 예쁠 일인가요?<br/>솔직히 델가드가 필기감은 그저 그래요.<br/><br/>아들이 필요하다고 해서 사줬는데.<br/> 넘 만족스럽다고 하네요.<br/> 글씨도 잘써지고 좋다고.<br/> <br/>" 
+---

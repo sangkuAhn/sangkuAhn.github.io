@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "미니위즈 아동용 트윈 하이 부츠" 
+description: 미니위즈 아동용 트윈 하이  ..
+date: 2021-01-18 06:29:57 
+img: https://static.coupangcdn.com/image/retail/images/2020/10/06/13/0/4a76b9ec-8924-4663-9faa-2cfb3ce34cc8.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2264405454&itemId=3881018076&vendorItemId=71820845307&traceid=V0-113-8294dd77fb41c5a5 
+categories: [1005] 
+color: FF6F00 
+price: 33110 
+author: Ask View Shop 
+cont:  "180 신는데 190으로 샀어요^^<br/>넘가볍고따뜻하고<br/>모양도좋아 멋스럽네요 아이들 긴 점퍼와도 잘어울립니다<br/>일년내내  크록스만신는  아들내미가  드디어  딱맞는신발을찾았어요<br/>잘맞네요♡<br/>정말최고입니다<br/>" 
+---

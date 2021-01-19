@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "리틀래빗 아동용 데일 파마자 상하의 세트" 
+description: 리틀래빗 아동용 데일 파마자 ..
+date: 2021-01-18 06:15:32 
+img: https://static.coupangcdn.com/image/retail/images/2020/09/11/17/8/5c1e5508-1d92-4cf2-9868-a738c60f1089.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2127273578&itemId=3610637592&vendorItemId=71596291719&traceid=V0-113-d7aa56951e508373 
+categories: [1003] 
+color: 006064 
+price: 15300 
+author: Ask View Shop 
+cont:  "귀엽고 6살 약간 길지만 통통해서<br/>면도 좋아요<br/>미키마우스부터 시작해서 도날드덕에 이어 시리즈로 3번째 구매입니다.<br/><br/>색상도 캐릭터도 너무 귀엽고, 여러번 빨아도 줄거나 늘어짐, 프린팅 벗겨짐 없이 품질도 괜찮네요.<br/><br/>엑라 사야 맞네요 7살까지 충분히 입힐거 같아요<br/>열많은 아가라 겨울임에도 반팔잠옷 입고 자는데 자다가 이불 걷어차고 이불을 잘 안덮으려해서 긴잠옷으로 구매했는데 옷도 괜찮고 디자인도 너무 예쁘고 귀여워요<br/>완전 만족합니다!!<br/>접혀입어도 그자리에 잘 있네요.<br/><br/>쫄쫄이 내복만 입던 아이들, 남매 입혀놓으니 너무 이쁩니다.<br/><br/>키 105정도 되는 아이는 L 입으니 딱 맞습니다.<br/><br/>키 90정도 되는 아이 M 입히니 바지는 길지만,<br/>" 
+---
