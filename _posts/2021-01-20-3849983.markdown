@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "나를 바꾸면 모든 것이 변한다:생각하는 습관부터 바꿔라, 이너북" 
+description: 나를 바꾸면 모든 것이 변한 ..
+date: 2021-01-20 16:03:33 
+img: https://static.coupangcdn.com/image/vendor_inventory/7295/34e42461ff266b5c4d355e4047821b64f7f67fdd22d83c32cfb205894482.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=3849983&itemId=18909215&vendorItemId=3128363168&traceid=V0-113-c674c3e65471dc05 
+categories: [1019] 
+color: 4CAF50 
+price: 11700 
+author: Ask View Shop 
+---
+ 

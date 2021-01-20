@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "DIY 미니어처 하우스 만들기 세트, 핑크 펜트하우스" 
+description: DIY 미니어처 하우스 만들 ..
+date: 2021-01-20 16:10:45 
+img: https://static.coupangcdn.com/image/retail/images/2020/05/28/19/3/59811acd-34b3-4ef3-bd9f-822ad5cab236.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=290631437&itemId=919703649&vendorItemId=70785514141&traceid=V0-113-6f80ebe1228b4379 
+categories: [1020] 
+color: BF360C 
+price: 20390 
+author: Ask View Shop 
+---
+ 
