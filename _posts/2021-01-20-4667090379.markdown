@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "핍스 essential 메신저백 light edit" 
+description: 핍스 essential 메신 ..
+date: 2021-01-21 06:51:35 
+img: https://static.coupangcdn.com/image/retail/images/2020/06/30/11/0/98821f71-8448-4bbd-b267-666d5e8bc1f1.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4667090379&itemId=5830774611&vendorItemId=70994222076&traceid=V0-113-e5383f9030b0aaff 
+categories: [1008] 
+color: BD24A9 
+price: 37740 
+author: Ask View Shop 
+---
+ 
