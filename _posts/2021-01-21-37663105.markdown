@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "뽀로로 컴퓨터" 
+description: 뽀로로 컴퓨터 ..
+date: 2021-01-21 16:10:49 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2016/07/18/3000068531/4bf26779-b69d-489f-9400-2d3863130abd.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=37663105&itemId=138817941&vendorItemId=70032798829&traceid=V0-113-aa1165a2eb3d9bad 
+categories: [1020] 
+color: CF36BB 
+price: 54760 
+author: Ask View Shop 
+---
+ 

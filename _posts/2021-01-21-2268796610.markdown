@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "MAXFOX 막스폭스/ 힙플라스크-한정판 Crest 에디션" 
+description: MAXFOX 막스폭스/ 힙플 ..
+date: 2021-01-21 14:37:13 
+img: https://static.coupangcdn.com/image/vendor_inventory/b52b/aa02dd226c57ad977c4f823bea69661ff4e6d0168fedb8f226bdf70ca5e0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2268796610&itemId=3890349884&vendorItemId=71912202305&traceid=V0-113-aaa3c8b6e79e68ee 
+categories: [1006] 
+color: FF1744 
+price: 28000 
+author: Ask View Shop 
+---
+ 

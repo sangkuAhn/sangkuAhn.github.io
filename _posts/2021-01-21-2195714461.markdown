@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "해맑은푸드 통족 (냉동), 1kg, 1개" 
+description: 해맑은푸드 통족 (냉동),  ..
+date: 2021-01-21 15:13:12 
+img: https://static.coupangcdn.com/image/retail/images/2020/09/29/11/4/0251c228-6b1d-4b25-b7e2-56d929b0ae6b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2195714461&itemId=3736146175&vendorItemId=71721333338&traceid=V0-113-d4906e15de23bdc1 
+categories: [1012] 
+color: 4CAF50 
+price: 17900 
+author: Ask View Shop 
+---
+ 

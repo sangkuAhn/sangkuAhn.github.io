@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "에펠 푸드메이트 진공포장기 FM-06" 
+description: 에펠 푸드메이트 진공포장기  ..
+date: 2021-01-21 15:20:23 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/01/30/3131480340/4ae969f1-e2b5-4a55-97bd-19733c7493a9.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=19410985&itemId=77891501&vendorItemId=3131480340&traceid=V0-113-7e33d811b7b2e37f 
+categories: [1013] 
+color: 353535 
+price: 73400 
+author: Ask View Shop 
+---
+ 
