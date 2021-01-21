@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "유니맥스 샌드위치 와플 메이커, UWM-100CM(크림모카)" 
+description: 유니맥스 샌드위치 와플 메이 ..
+date: 2021-01-22 07:20:30 
+img: https://static.coupangcdn.com/image/rs_quotation_api/mua5keao/195e64339bde4ee289a1449dcf34dead.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4604342867&itemId=5682852944&vendorItemId=72981732985&traceid=V0-113-4a5ff8b575cc80a3 
+categories: [1013] 
+color: 03A9F4 
+price: 34800 
+author: Ask View Shop 
+---
+ 
