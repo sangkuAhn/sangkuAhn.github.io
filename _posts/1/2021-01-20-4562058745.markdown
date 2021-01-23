@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "나이키/ 프렌치테리 맨투맨 (CB)" 
+description: 나이키/ 프렌치테리 맨투맨  ..
+date: 2021-01-20 14:37:11 
+img: https://static.coupangcdn.com/image/vendor_inventory/662e/f8f3c430be44917155ac028d128fc625fd3e0d81dc2bac7ce4fa8bb007eb.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4562058745&itemId=5558846986&vendorItemId=72924291454&traceid=V0-113-9b383abd8a54853a 
+categories: [1006] 
+color: CF36BB 
+price: 33900 
+author: Ask View Shop 
+cont:  "보기와 똑같습니다<br/>아들이 좋아하네요<br/>짝퉁이네 ㅋㅋㅋㅋ 사기꾼들<br/>" 
+---

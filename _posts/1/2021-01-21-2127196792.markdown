@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "자동차용 휴즈 5~30AMP, 혼합색상" 
+description: 자동차용 휴즈 5~30AMP ..
+date: 2021-01-21 15:56:24 
+img: https://static.coupangcdn.com/image/retail/images/2020/09/18/9/0/099ce203-7504-443a-af08-2e81a720986b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2127196792&itemId=3610454779&vendorItemId=71596108589&traceid=V0-113-a0f03161140139c6 
+categories: [1018] 
+color: A57F92 
+price: 6530 
+author: Ask View Shop 
+cont:  "가성비 최고!<br/>감사합니다.<br/><br/>네다섯개정도필요해서 구매했는데<br/>수량 넉넉해서 든든합니다<br/>자동차 휴즈 갯수가 많아서 오래쓰겠네요.<br/><br/>잘쓰겠습니다<br/>케이스에 들어있는 구성이라 두고두고쓸수있을거같습니다<br/>" 
+---

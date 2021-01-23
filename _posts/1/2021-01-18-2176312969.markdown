@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "릴리푸리 아동용 앵두 맨투맨" 
+description: 릴리푸리 아동용 앵두 맨투맨 ..
+date: 2021-01-19 06:22:48 
+img: https://static.coupangcdn.com/image/retail/images/521677431319468-2005ca5b-7324-4e8d-a962-dd94818653e2.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2176312969&itemId=3703312229&vendorItemId=71688585094&traceid=V0-113-cf335202f808fd73 
+categories: [1004] 
+color: 35B62C 
+price: 8910 
+author: Ask View Shop 
+cont:  "110이 보통 100사이즈 정도 되는듯합니다<br/>건조기는 돌리면 안되겠어요<br/>겨울옷치곤 살짝 얇은것같은데 이너로입기엔 괜찮아요<br/>기모든거라 한겨울만 입고 땡이니 딱맞아도 되지만<br/>아주 딱 맞아요<br/>예쁘네요<br/>" 
+---

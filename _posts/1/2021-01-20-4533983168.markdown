@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "르까프 남자 패딩트랙수트 BK" 
+description: 르까프 남자 패딩트랙수트 B ..
+date: 2021-01-20 14:37:11 
+img: https://static.coupangcdn.com/image/vendor_inventory/e2fd/f802c8b30b6b88d4cbfb07b17900218d6c7a94fe16abccfb0299701bbec4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4533983168&itemId=5480002343&vendorItemId=72779717256&traceid=V0-113-fb14cbe4a00e7cea 
+categories: [1006] 
+color: A6A6A6 
+price: 33650 
+author: Ask View Shop 
+cont:  "기모두잘들어가있고 사이즈도잘맞고 따듯하니 좋습니다<br/>남편이 마음에 든다고합니다.<br/>^^<br/>상의가 패딩이라(신축성이 별로 없음) 조금 불편하지만 매우 따듯해서 좋음 ``<br/>" 
+---

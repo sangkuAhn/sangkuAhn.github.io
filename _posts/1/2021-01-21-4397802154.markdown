@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "고양이동결건조 국산 통순살트릿4종, 닭가슴살" 
+description: 고양이동결건조 국산 통순살트 ..
+date: 2021-01-21 16:32:22 
+img: https://static.coupangcdn.com/image/vendor_inventory/772b/9be256aab23557564c0078eab2f108a3c20410b7b76a7d9c1000b3159d3a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4397802154&itemId=5751932634&vendorItemId=72382710023&traceid=V0-113-6c0be18dcd18dca9 
+categories: [1029] 
+color: FF6F00 
+price: 4850 
+author: Ask View Shop 
+cont:  "배송이 빨라 좋았습니다.<br/> 처음에 관심을 갖고 먹기 시작하더니 조금 먹고 안 먹네여.<br/>.<br/> 네.<br/>.<br/> 저희 아이가 워낙 입이 까탈 스럽습니다.<br/> ㅠㅠ계속 먹어 볼께요<br/>" 
+---

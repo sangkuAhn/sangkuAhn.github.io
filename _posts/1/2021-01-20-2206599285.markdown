@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아디다스 아딜렛 슬리퍼 COMFORT" 
+description: 아디다스 아딜렛 슬리퍼 CO ..
+date: 2021-01-21 06:44:23 
+img: https://static.coupangcdn.com/image/vendor_inventory/5080/7dcda140719125a641eece036ee7e584f3a7f7e9652a532c4f9af66293e5.JPG 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2206599285&itemId=3754795938&vendorItemId=71715999482&traceid=V0-113-d150efa73fa95c36 
+categories: [1007] 
+color: A57F92 
+price: 34800 
+author: Ask View Shop 
+cont:  "나머지 품질은 좋네요<br/>발볼이 큰걸 고려해도 칼발아니면 좀... <br/><br/>발폭이 큰편이라 길이는 맞는데 발이 편하게 들어가진 않아요<br/>편안하고 부드럽습니다.<br/><br/>평소 270신는데요 275딱 맞아요 조금 작게 나온거 같아요 그래도 편하고 좋다고 하네요 발바닥이 딱딱하면 안되는데 푹신하니 좋다고 합니다 신랑이<br/>" 
+---

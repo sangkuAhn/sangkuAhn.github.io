@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "나이키 아동용 스타러너 2 PSV 운동화 AT1801-001" 
+description: 나이키 아동용 스타러너 2  ..
+date: 2021-01-21 06:29:59 
+img: https://static.coupangcdn.com/image/retail/images/2020/11/16/9/7/258aaad8-8783-4f36-90e2-9e5cc3b35ee6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4339926835&itemId=5079116479&vendorItemId=72388778856&traceid=V0-113-40c05ad4e81d95b2 
+categories: [1005] 
+color: 43A047 
+price: 35490 
+author: Ask View Shop 
+cont:  "슬림하고 좀 작게 나온것같아요.<br/> 8세여아 200신을 시기인데 210 했어요.<br/> 얄쌍하고 군더더기 없이 깔끔하고 이뻐요.<br/><br/>" 
+---

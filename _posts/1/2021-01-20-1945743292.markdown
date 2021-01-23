@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "바비 스키퍼 쌍둥이 돌보기 플레이세트, 혼합색상" 
+description: 바비 스키퍼 쌍둥이 돌보기  ..
+date: 2021-01-20 16:10:45 
+img: https://static.coupangcdn.com/image/retail/images/2020/07/31/20/4/d199916f-1520-43f3-b6e4-c21481d51310.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1945743292&itemId=3303507887&vendorItemId=71290423834&traceid=V0-113-d1d9e320dd1137a4 
+categories: [1020] 
+color: FF1744 
+price: 39800 
+author: Ask View Shop 
+cont:  "그것 빼곤 다 좋아요<br/>기저귀의 디테일함에 놀랬어요 ㅎㅎ 조카가 너무 좋아해서 괜히 뿌듯했어요<br/>네살 딸이 너무 좋아합니다<br/>다 너무 좋은데 여자(스테이시) 머리가 좀 많이 빠지네요.<br/><br/>아기자기한게 딱 여자아이들이 좋아할만 하네요<br/>하루종일 역할놀이에 푹 빠졋어요 ㅋㅋ<br/>" 
+---

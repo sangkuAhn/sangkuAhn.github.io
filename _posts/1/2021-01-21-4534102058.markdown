@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "르까프 남자 플리스집업티셔츠 CH" 
+description: 르까프 남자 플리스집업티셔츠 ..
+date: 2021-01-21 14:37:13 
+img: https://static.coupangcdn.com/image/vendor_inventory/9af7/c023a960e1e3d8b57b17a05f9dad6af5b3f3674b9597fdc055ae99407ff4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4534102058&itemId=5480240640&vendorItemId=72779954459&traceid=V0-113-bd1a559ff87f128d 
+categories: [1006] 
+color: 353535 
+price: 12400 
+author: Ask View Shop 
+cont:  "남편 작업복으로 샀는데 안밖이 플리스재질이라 부드럽고<br/>보온이 잘된다고 하네요.<br/>.<br/><br/>세탁기 돌려도 이상없고 오래 입을것같아요<br/>품질 좋은제품입니다<br/>" 
+---

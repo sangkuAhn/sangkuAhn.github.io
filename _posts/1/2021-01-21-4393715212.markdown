@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "LEIKO 블랙캣 소형 미니 밥솥 2-3인용 SH-RM200" 
+description: LEIKO 블랙캣 소형 미니 ..
+date: 2021-01-21 15:20:23 
+img: https://static.coupangcdn.com/image/vendor_inventory/b633/391ddfbf58d668a3ba0a1c65a93b72cb6c8b7078561d1dc7bd00b4905cba.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4393715212&itemId=5209880100&vendorItemId=72519012934&traceid=V0-113-531b0a986c25d786 
+categories: [1013] 
+color: 006064 
+price: 19800 
+author: Ask View Shop 
+cont:  "1인분 정도만 쓸 수 있다는 생각해요.<br/><br/>2인분정도의 밥을 할 수 있음<br/>밥도 잘 되고 눌러붙지도 않고 너무 만족하며 쓰고있어요 ㅎ<br/>보온은 안하는것이 좋을듯 밥이 딱딱해 집니다<br/>생각보다 너무 작아요  ㅠㅠㅠ.<br/><br/>친구들도 너무 이쁘다고 하네여 ㅎㅎ<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아트웨어 글로리 화병, 그레이" 
+description: 아트웨어 글로리 화병, 그레 ..
+date: 2021-01-21 15:34:48 
+img: https://static.coupangcdn.com/image/retail/images/2018/11/19/11/5/987bea68-197f-48e6-9ccd-7ef2350752a0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=158802176&itemId=456354149&vendorItemId=4131849236&traceid=V0-113-a29076c607247347 
+categories: [1015] 
+color: F15F5F 
+price: 7480 
+author: Ask View Shop 
+cont:  "200프로 만족합니다!!<br/>그레이가 멋스럽네요!!<br/>꽃다발 포장해서 요기에 꽂아줄까 싶네요.<br/><br/>무게감이 나쁘진않아요<br/>사이즈 좋고,<br/>선물용으로도 괜찮을것 같아서 친구 꽃선물 줄때<br/>실용성도 좋아요.<br/><br/>큰 기대를 안했는데 실물이 훨씬 예쁩니다.<br/> 컷팅이 들어가 있어 화려하고 그레이 색상이 은은해서 더 세련된 느낌이에요^^!<br/>튼튼하고 마감 이쁘고 저렴해 보이지 않아요.<br/><br/>포장 튼튼히 왔구요,<br/>화병 많지 않음 색별로 더 사고 싶어요.<br/><br/>" 
+---

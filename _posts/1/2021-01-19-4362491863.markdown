@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "리틀래빗 아동용 겨울 리틀패치 기모 팬츠" 
+description: 리틀래빗 아동용 겨울 리틀패 ..
+date: 2021-01-19 14:29:56 
+img: https://static.coupangcdn.com/image/rs_quotation_api/sbemmq4e/5afee6dbc82443369d12fe959d4f6bb1.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4362491863&itemId=5132278497&vendorItemId=72898591985&traceid=V0-113-dbdce26856075d03 
+categories: [1005] 
+color: A6A6A6 
+price: 12900 
+author: Ask View Shop 
+cont:  "괜찮긴 한데 란번 빠니까 올풀림???실밥?? 그런게 나와요 잘라 입히면 될꺼 같긴란데 가성비 괜찮은거 같아요<br/>뜨뜻하고 편한옷 잘 사입혔다고 어머님이 좋아하시네요<br/>시보리가있어 약간 넉넉해도 좋을거같아 한사이즈 위에것 주문하길 잘했네요 그레이는 소재도 깔끔해서 좋고 안에 너무 두껍지 않은 기모로 돼 있어 내의 입히니 겨울에도 입히고 가을 봄까지는 좋겠네요<br/>" 
+---

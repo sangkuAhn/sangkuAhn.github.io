@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "핍스 essential 메신저백 light edit" 
+description: 핍스 essential 메신 ..
+date: 2021-01-21 06:51:35 
+img: https://static.coupangcdn.com/image/retail/images/2020/06/30/11/0/98821f71-8448-4bbd-b267-666d5e8bc1f1.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4667090379&itemId=5830774611&vendorItemId=70994222076&traceid=V0-113-e5383f9030b0aaff 
+categories: [1008] 
+color: BD24A9 
+price: 37740 
+author: Ask View Shop 
+cont:  "가방 진짜 이쁘고 어깨끈 말고 등에다 고정(?)할 수 있는 끈이 있는데 그거 덕분에 어깨에서 흘러내리지 않고 편하게 사용하고 있는요.<br/> 야광이라고는 하는데 어둡기만 한 곳에서는 안 빛나고 어두운 상태에서 글씨부분에 빛을 비추면 빛나요!! 별 5개 드리고는 싶은데 처음 배송 받았을때 어깨끈 일이 조정하는 것때문에 4개 드려요|<br/>엄청 이쁘고 좋아용!!! 잘 쓰고 다니고 있어요<br/>편한데 앞으로 1시간정도매면 땀참<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "엔진댐퍼(엔진소음 진동감소 순정 엔진댐퍼)" 
+description: 엔진댐퍼(엔진소음 진동감소  ..
+date: 2021-01-21 15:56:24 
+img: https://static.coupangcdn.com/image/vendor_inventory/c78e/da1ea9f0d055835bcffecbe64115b55e9529469fd175ca0f77c8cdbe578d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=246408690&itemId=780703853&vendorItemId=4976247116&traceid=V0-113-e4f710eba88c1f4b 
+categories: [1018] 
+color: 03A9F4 
+price: 11000 
+author: Ask View Shop 
+cont:  "귀신 같이 진동이 없어지네요! good!<br/>다만 아쉬운건<br/>미세하지만 진동음이  줄어든것 같습니다.<br/>.<br/>좋아요<br/>브라켓을 넣어주면<br/>브라켓이 안맞아서 하나만 장착할수있엇네요<br/>쏘렌토 R엔진 엔<br/>엔진 진동이 미미하게<br/>좋겟어요<br/>줄어든 느낌입니다(주관적인 느낌)<br/>차량 종류별로<br/>큰 효과를 기대한건 아니엇는데,<br/>" 
+---

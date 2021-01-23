@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "2030 축의 전환, 리더스북" 
+description: 2030 축의 전환, 리더스 ..
+date: 2021-01-20 16:03:33 
+img: https://static.coupangcdn.com/image/vendor_inventory/6dda/1dc9359c28e0969ed95116324888e666e87d20f3258f5e608cd8aa95d1ef.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2251054572&itemId=3848183330&vendorItemId=71833430591&traceid=V0-113-fb8b1f6ac81c3493 
+categories: [1019] 
+color: D9418C 
+price: 16200 
+author: Ask View Shop 
+cont:  "2030축의전환<br/>GOOD<br/>김미경선생님의 추천도서로 구매하게 되었습니다.<br/><br/>다 읽어보지 않았지만 2030년 그 시대에 세상이 어떻게 바뀔까의 그 내용이 좋아요ㅋ 전체적인 맥락도 지루하지 않아 독서를 않하는 분들도 쉽게 읽을 책입니다<br/>될것인가? 앞으로  세상이 어떻게 변할지 모르는 불안한 이시기에  10년후 변할 세상에서 내가 지금해야할 변화는<br/>무엇인지를 조금은 알수있게해주는 책인것 같습니다<br/>이책은 이미 시작된 격변 앞에서 근본적 분기점들을<br/>재직중인 마우로F.<br/>기옌 교수님이 출간한 책입니다.<br/><br/>짚어주고 힘의방향을 알려주는 나침반이 될것입니다<br/>코로나19 팬데믹이후 앞으로  세계의 변화는 어떻게<br/>현재 펜실베니아대학교 와튼스쿨 국제경영학 교수로<br/>" 
+---

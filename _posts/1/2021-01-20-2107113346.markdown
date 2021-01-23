@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "휠라 코코아 에코백 FS3BCC6374X" 
+description: 휠라 코코아 에코백 FS3B ..
+date: 2021-01-20 14:51:36 
+img: https://static.coupangcdn.com/image/retail/images/2020/09/08/20/4/aa98d3dd-2f8f-42ee-92ca-2a03b4990edf.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2107113346&itemId=3579439045&vendorItemId=71540397290&traceid=V0-113-aee47c218e3af391 
+categories: [1008] 
+color: A566FF 
+price: 15700 
+author: Ask View Shop 
+cont:  "근데 색깔과 모양은 사진과 똑같아요<br/>배송빠르고 사이즈가 사진보다 훨씬 크네요.<br/> 컬러는 사진처럼 핑크가 아니라 베이지입니다.<br/> 조명 감안하세요.<br/> 실용적일것 같애요<br/>생각보다 크기가 커서 놀랐습니다!<br/>크기도 크고 좋네요!!! 안주머니는 살짝 작아요<br/>" 
+---

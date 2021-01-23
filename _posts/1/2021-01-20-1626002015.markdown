@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "시선으로부터, 문학동네" 
+description: 시선으로부터, 문학동네 ..
+date: 2021-01-21 08:03:32 
+img: https://static.coupangcdn.com/image/retail/images/2020/05/26/16/8/1b36b750-ea5a-44ae-88bb-b148174f1abd.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1626002015&itemId=2773955976&vendorItemId=71410563328&traceid=V0-113-468b9268fc0e7a62 
+categories: [1019] 
+color: 4374D9 
+price: 12600 
+author: Ask View Shop 
+cont:  "모든 여성 남성들이 다 읽어봤면 좋겠어요<br/>쉽게 술술 잘 넘어가는 줄거리.<br/> 큰감동이나 마음의 울림 같은건 없고 그냥 썸머리딩으로 해변가에서 읽기 좋은책.<br/><br/>시대를 앞서간 자유로운 영혼을 지닌 심시선과 그녀의 영향을 받은 후손들에 대한 이야기가 흥미롭습니다<br/>심시선여사와 그 후손들의 각각의 이야기가 다 흡입력 있고 재미있어요<br/>요즘 꽤나 인기 있는거 같은데 뭐 그렇게 특별한지는 잘 모르겠다.<br/><br/>정세랑 작가님꺼 다 재밌지만 이게 최고네요<br/>" 
+---

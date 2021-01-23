@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "휠라 스몰 로고 후디 FS2POC3104X" 
+description: 휠라 스몰 로고 후디 FS2 ..
+date: 2021-01-21 06:08:26 
+img: https://static.coupangcdn.com/image/retail/images/89765716313275-b6bc6303-4a45-4199-8446-bb794f9bec81.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2079889047&itemId=3533383624&vendorItemId=71247419130&traceid=V0-113-1a3c0e33f32b9219 
+categories: [1002] 
+color: 43A047 
+price: 20700 
+author: Ask View Shop 
+cont:  "기모가 없어 겨울에 입긴 좀 춥겠지만 패딩으로 커버 가능 할 것 같습니다.<br/> 110은 너무 커서 105로 교환했는데 바로 다음 날 오네요 역시 배송은 쿠팡이 제일 빠릅니다.<br/> 디자인도 예쁘고 살짝 귀여운 느낌이 나네요 잘 입겠습니다.<br/><br/>기장이 안정적이에요<br/>넉넉하니 딱좋아요아들도 편하다고 좋아합니다<br/>소재는 겨울에 패딩안에 입기 딱 좋은거 같고 품 자체는 오버핏은 아니에요 기장이 좀 넉넉하게 나온 편입니다<br/>엄청 늘어나는 그런건 아니고 일반 옷들과 비슷한 소매입니다<br/>원가는 59,000원입니다.<br/><br/>저같은경우 허벅지 근육으로 인해서 살짝 덮는 기장을 좋아하는데 안정적으로 덮어줍니다<br/>초등 6학년 158cm아들이 입으려고 구매했습니다.<br/><br/>키 165인데 허벅지 살짝 밑까지 오는 기장으로 딱 좋아요<br/>팔 길이도 적합하니 좋고 소매는 다른옷들도 다 늘어나니까 상관없어요<br/>" 
+---

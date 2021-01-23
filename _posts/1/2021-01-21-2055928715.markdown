@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "좋은 사람에게만 좋은 사람이면 돼:지금은 나를 돌보는 시간 내 마음대로 행복해지기, 위즈덤하우스" 
+description: 좋은 사람에게만 좋은 사람이 ..
+date: 2021-01-21 16:03:37 
+img: https://static.coupangcdn.com/image/retail/images/528310196337209-58b613f9-e5cf-416e-b7ae-7dbe466af6fd.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2055928715&itemId=3494956164&vendorItemId=71481191027&traceid=V0-113-747c82cb2672e3c0 
+categories: [1019] 
+color: 03A9F4 
+price: 13320 
+author: Ask View Shop 
+cont:  "고민하지마시고 사세요!<br/>마음이 편안해 지는 느낌이 드네요^^<br/>볼때마다 감동이네요!<br/>새해기념 책으로 나에게 선물한책인데 나에게 선물하기에 딱좋았습니다<br/>지친 마음을 달래주기 좋은 책인듯 싶네요<br/>책 내용 너무 좋아요ㅠㅠ<br/>하나는 선물하고 하나는 제가 읽으려고 샀어요<br/>" 
+---

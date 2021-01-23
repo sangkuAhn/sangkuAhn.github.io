@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "온가족 해물모듬 (냉동), 400g, 3팩" 
+description: 온가족 해물모듬 (냉동),  ..
+date: 2021-01-21 15:13:12 
+img: https://static.coupangcdn.com/image/retail/images/92744266282879-ee591a04-361c-4e2e-a412-8b0ae2fdba02.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1959314194&itemId=3330001148&vendorItemId=71316843026&traceid=V0-113-5419241a6bb55bd5 
+categories: [1012] 
+color: F361A6 
+price: 19020 
+author: Ask View Shop 
+cont:  "그 자체로 맛 좋음,<br/>너무 맛있어요.<br/> 새우는 거의 없다고 보면 될정도로 너무작고 한봉지에 하나 들어있나 그렇지만, 엄청 많은 대왕오징어와 홍합이 나쁘지않아요.<br/><br/>된장찌개, 고추장 찌개, 국 끓일때 한봉지씩 넣고 끓이니 국물다시 따로 낼 필요없이<br/>두봉지 함께 녹여  다른 야채랑 볶음요리(굴쏘스 넣고 녹말풀 풀음)하니 중국요리 같음<br/>또 사겠습니다.<br/><br/>라면에 왼전 베스트, 볶음밥, 갈비탕, 삼겹살 구울때도 같이 구워봤는데 맛있어요.<br/><br/>바쁜 직장인들에게 딱인 식품<br/>아직 안먹어봤지만 딱 좋은 양으로 소분되어있어서 좋은것같아요.<br/><br/>암튼 소인 가족일수록 다양하게 이용 가능함<br/>인스턴트 사먹긴 괜히 몸에 죄짓는것 같은데<br/>한봉지 꺼내서 뜯어서 넣기만하면 다양하게 해산물이 들어가는거라 편하고, 애가 너무 잘먹어요 오징어.<br/><br/>" 
+---

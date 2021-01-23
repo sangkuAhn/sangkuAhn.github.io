@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "쿠팡 직수입/ 샤오미 휴대용 에어펌프 MJCQB01QJ, 블랙, 1개" 
+description: 쿠팡 직수입/ 샤오미 휴대용 ..
+date: 2021-01-20 15:49:09 
+img: https://static.coupangcdn.com/image/retail/images/2020/11/09/12/6/e83b753a-04ee-4f35-a129-11106fd9ab06.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4327842161&itemId=5046770130&vendorItemId=72356162184&traceid=V0-113-f79a270c83bd8ca8 
+categories: [1017] 
+color: F15F5F 
+price: 43800 
+author: Ask View Shop 
+cont:  "공기압 충전하시고 운행 좀만하면 정상으로 돌아와요.<br/><br/>다만 타이어당 주입시간이 45분 정도 소요됨.<br/><br/>무엇보다 공간 적게 차지한다는 점이 맘에 드네요.<br/><br/>와 이 조그만한게 공기 공급이되네요<br/>이정도면 평상시 긴급으로 쓰기엔 충분한듯.<br/><br/>자전거 펌프용으로 샀는데 잘 작동되고 소음 크다는 얘기를 들었는데 생각보다 크지는 않아 만족합니다,<br/>자전거용 프레스타 주입구에는 주입호스 쳐지지않게 잡아줘야 공기압이 일정함.<br/><br/>차량 타이어 28psi에서 38psi까지 네짝 충전후에 방전.<br/><br/>" 
+---

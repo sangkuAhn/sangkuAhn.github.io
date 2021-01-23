@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "네모아저씨의 페이퍼 블레이드 3 어드밴스, 슬로래빗" 
+description: 네모아저씨의 페이퍼 블레이드 ..
+date: 2021-01-21 08:03:32 
+img: https://static.coupangcdn.com/image/retail/images/2020/11/27/16/7/e581dfac-ee33-4505-8f6a-5fcbf8c3a12f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4507097822&itemId=5417598556&vendorItemId=72717525100&traceid=V0-113-64a3908ac8ed6010 
+categories: [1019] 
+color: FF1744 
+price: 10350 
+author: Ask View Shop 
+cont:  "네모아저씨는 두말할 필요가 없죠ㅎ<br/>덕분에 집에  색종이와 블레이드는 넘쳐나고있어요^^<br/>아이가 유트브꺼 다 만들고 창작도 하다가 2에 이어서 3을 사달라고해서 사줬어요.<br/><br/>아이가 종이접기를 좋아해서 책 다산것 같아요ㅎ<br/>팽이접기에 빠진 7살 아들이 사달라고해서 구입했는데 넘 좋아해요<br/>형에 이어 동생까지 같이 접고있어요.<br/><br/>" 
+---

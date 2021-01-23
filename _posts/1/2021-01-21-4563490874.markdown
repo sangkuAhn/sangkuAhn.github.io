@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "레모나 비타민, 2g, 100개" 
+description: 레모나 비타민, 2g, 10 ..
+date: 2021-01-21 16:25:11 
+img: https://static.coupangcdn.com/image/retail/images/2020/09/21/16/2/bda05951-dc06-4b5b-85b0-da5bcd304e4d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4563490874&itemId=5562663278&vendorItemId=72862046268&traceid=V0-113-c93da74daa783383 
+categories: [1024] 
+color: 7E57C2 
+price: 19050 
+author: Ask View Shop 
+cont:  "계속먹으면 기미가없어지겠죠<br/>신랑이 너무 잘먹고 있어요ㅋ 양 많아서 좋아요<br/>" 
+---

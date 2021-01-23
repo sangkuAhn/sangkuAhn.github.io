@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "핑크풋 잘 지워지는 지우개, 랜덤 발송, 32개입" 
+description: 핑크풋 잘 지워지는 지우개, ..
+date: 2021-01-21 16:18:00 
+img: https://static.coupangcdn.com/image/retail/images/958644643357418-983e3d98-2645-4005-a21f-f0eaf6accb93.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=202876924&itemId=594227131&vendorItemId=4556110720&traceid=V0-113-f650faa69d648eea 
+categories: [1021] 
+color: 9E9D24 
+price: 13020 
+author: Ask View Shop 
+cont:  "바뀐 포장지도 귀엽네요<br/>작지않구요 잘 지워져요<br/>잘지워져요^^너무좋아합니다<br/>제가 보기에 크기도 적당해요<br/>초딩유딩 매번 지우개를 잃어버리고 부러져서 대량구매했는데 한동안 걱정없겠어여<br/>한동안 지우개 걱정 끝 ㅎㅎ<br/>" 
+---

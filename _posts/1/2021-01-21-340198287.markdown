@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "자동차 비닐 커버 대형" 
+description: 자동차 비닐 커버 대형 ..
+date: 2021-01-21 15:56:24 
+img: https://static.coupangcdn.com/image/vendor_inventory/210f/9dd529b828b8e824a3248bf649895f1bdd387a8a6a0d58bb0344ad3aeee4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=340198287&itemId=1083338779&vendorItemId=5587333936&traceid=V0-113-01c654805758b036 
+categories: [1018] 
+color: A57F92 
+price: 5400 
+author: Ask View Shop 
+cont:  "공사장 근처 주차시 먼지.<br/>페인트 날림을 막을 수 있을진 몰라도 눈내린 날 씌웠더니 앞뒤 창에 성에가 끼어 별 도움이 안됩니다<br/>몇번 못쓸거같긴하네요... <br/><br/>바람부는 날엔 앞범퍼와 뒷 범퍼 밑으로 본 차량과 같이 탄력벤드로 한번 둘러 쳐줌이 좋을듯 바람부는 날은 절대 혼자 못 씌움  신경질 대박 ㅎㅎㅎ <br/>바람이 안불면 괜찮을거 같은데.<br/>.<br/><br/>세차하고 유용하게 사용했습니다<br/>요즘 바람이 많이 부니 날아가고 난리부르스치고.<br/>.<br/> ㅜㅜ<br/>좀 후회 되는부분도 있네요.<br/><br/>" 
+---

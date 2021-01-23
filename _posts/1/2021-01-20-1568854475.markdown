@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "뉴발란스 슬리퍼 SD2152LIG" 
+description: 뉴발란스 슬리퍼 SD2152 ..
+date: 2021-01-21 06:44:23 
+img: https://static.coupangcdn.com/image/retail/images/99503486975796-73d5911a-3347-4401-8a6f-d5745f67711d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1568854475&itemId=2682776581&vendorItemId=70628427527&traceid=V0-113-2714a650c8a9ac37 
+categories: [1007] 
+color: f44336 
+price: 27700 
+author: Ask View Shop 
+cont:  "너무 예쁘고 맘에 들어요 심플하고 쿠션감 좋구요<br/>맘에들어요<br/>색상도 세련됐어요 폭신폭신 잘 신을께요<br/>조금 푹신해서 좋네영<br/>찍찍이가 있어서 조절도 잘되고<br/>" 
+---

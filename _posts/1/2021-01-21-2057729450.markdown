@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "인뮤즈 크리스탈 브러쉬 정리함 골드, 1개" 
+description: 인뮤즈 크리스탈 브러쉬 정리 ..
+date: 2021-01-21 15:34:48 
+img: https://static.coupangcdn.com/image/retail/images/2020/09/03/15/5/ed4f4e5b-ffbf-4d2e-9f03-bf60d6356ac5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2057729450&itemId=3497582575&vendorItemId=71483784402&traceid=V0-113-d7ea62c7782da47e 
+categories: [1015] 
+color: f44336 
+price: 7930 
+author: Ask View Shop 
+cont:  "꽂아놓고쓰니 상관없나?<br/>만족스럽 습니다.<br/><br/>빗통으로 구입했어요  이쁘네요^^<br/>예쁘나 통안으로 매듭이 있어 날카로울수있음<br/>완전 예쁘고 블링블링합니다.<br/>가격도 다른곳보다 저렴합니다<br/>왠만함 통속으로 손은 안넣어야함 ㅋ<br/>화장대랑  넘  잘 어울려요<br/>" 
+---

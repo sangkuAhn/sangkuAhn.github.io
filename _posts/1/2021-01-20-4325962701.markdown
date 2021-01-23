@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "몰랑 캐릭터 문구세트, 여아용, 1세트" 
+description: 몰랑 캐릭터 문구세트, 여아 ..
+date: 2021-01-21 08:17:56 
+img: https://static.coupangcdn.com/image/retail/images/2020/11/12/16/8/d8835edf-bcc1-4238-96a0-d761bb394e0c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4325962701&itemId=5041673580&vendorItemId=72351439681&traceid=V0-113-b88ed6f224285453 
+categories: [1021] 
+color: 9E9D24 
+price: 19800 
+author: Ask View Shop 
+cont:  "넘 귀여워요<br/>딸아이 선물로 삿지만<br/>아는 동생 초등학생 입학 선물로 샀는데 너무 예뻐서 제가 쓰고 싶을 정도 였어요! 양이랑 구성이 알차고 푸짐 했어요 배송도 하루만에 왔어요!<br/>어른인 저도 갖고싶을정도에요<br/>초등입학 친구딸한테 선물하니 굉장히 만족스러워했어요<br/>" 
+---

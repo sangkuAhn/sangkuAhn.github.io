@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "GAP 인증 담양 설향딸기, 500g, 1팩" 
+description: GAP 인증 담양 설향딸기, ..
+date: 2021-01-21 15:13:12 
+img: https://static.coupangcdn.com/image/retail/images/2020/12/17/17/2/70cb4152-b2d3-4f08-9412-628a9eccd1b4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4649494709&itemId=5794643622&vendorItemId=73093140592&traceid=V0-113-20e5e49fc3140eb0 
+categories: [1012] 
+color: 4374D9 
+price: 12900 
+author: Ask View Shop 
+cont:  "겨울엔 역시 딸기가 제철과일의 왕이겠죠... <br/>빠른 배송덕인지 신선하고 맛있어서 잘 먹었습니다.<br/> 둘이 먹으니 양이 좀 작은듯하여 다시  주문할땐 2개이상 주문해야겠어요... <br/>담양딸기의 유명세만큼 딸기가 신선하고 맛이 달고 맛있는거 나한테  딱이에요... <br/>강추합니다.<br/> 제철과일 많이 먹어야 건강하죠... <br/><br/>딸기입니다 담양딸기 정말 맛있네요<br/>사고싶은데 볼때마다 품절이라니.<br/>.<br/>ㅜㅜ<br/>진짜 맛있네용 싱싱하고<br/>최근에 먹어본 딸기 중에 정말 달콤하고 향이 좋은<br/>한가지 단점이있다면 모서리부분이 깨져서 다보이게 왔어요ㅠ<br/>" 
+---

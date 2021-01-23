@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "여아용 소곤소곤 상하의 세트" 
+description: 여아용 소곤소곤 상하의 세트 ..
+date: 2021-01-22 06:22:51 
+img: https://static.coupangcdn.com/image/rs_quotation_api/r1tn5uh0/f9cf7431b31149218b84e0315f1de530.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4354750493&itemId=5113850957&vendorItemId=72423368097&traceid=V0-113-9e04390a425d8adb 
+categories: [1004] 
+color: 006064 
+price: 16900 
+author: Ask View Shop 
+cont:  "빨기전에 좀 작은거같다 싶었는데 빨고나니 더 작아졌어요ㅠ건조기 돌린것도아니고 그냥 세탁기한번 돌린것뿐인데ㅜㅜ<br/>예뻐용<br/>통통아이 핏이 예쁘게 잘 나와요<br/>" 
+---

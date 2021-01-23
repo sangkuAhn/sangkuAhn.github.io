@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "뉴발란스 M460" 
+description: 뉴발란스 M460 ..
+date: 2021-01-21 06:44:23 
+img: https://static.coupangcdn.com/image/vendor_inventory/98ce/495672b00a2e549b33f8d38b07cb55e822e04e14d969077386863beb15e0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=343452982&itemId=1091331388&vendorItemId=71046254415&traceid=V0-113-ca162db407c790ea 
+categories: [1007] 
+color: FF6F00 
+price: 40900 
+author: Ask View Shop 
+cont:  "가격대비 생활하는데 아주 편한거 같아 강력 추천합니다.<br/><br/>가격싸고 질좋고.<br/>특히 발볼이 넙고 발등이 높은분들<br/>강력추천 합니다.<br/>발이 완전 편합니다.<br/>통기성도 최고.<br/><br/>생각보다 가성비가 뛰어난거 같아요... <br/><br/>직업적으로 오래 앉아있지 못하는 관계로 운동화를 샀는데<br/>특히 모든 바지에 어울려 정말 좋은거 같아요<br/>편안해요<br/>" 
+---

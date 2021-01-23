@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "나이키 아동용 에어맥스 엑시스 TD 운동화 AH5224-001" 
+description: 나이키 아동용 에어맥스 엑시 ..
+date: 2021-01-22 14:29:52 
+img: https://static.coupangcdn.com/image/rs_quotation_api/844d/ce8d6cf37101cf52cc29faaac2093a4affeb7c75e0176758e255354ae666.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4339926993&itemId=5079116750&vendorItemId=72388779116&traceid=V0-113-a67d293b7c6af390 
+categories: [1005] 
+color: 4A148C 
+price: 40950 
+author: Ask View Shop 
+cont:  "어려움<br/>오프라인에서 보고 사이즈가 없어서 쿠팡에서 주문해요.<br/>평소 나이키 150 잘 맞는데 이상품은 좀 크게 나왔다고 해서 150 사니 넉넉해요.<br/> 디자인 정말 이쁩니다.<br/><br/>편하고 좋아해요!<br/>" 
+---

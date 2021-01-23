@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "대박난박양 클라란스 롱원피스" 
+description: 대박난박양 클라란스 롱원피스 ..
+date: 2021-01-20 14:01:13 
+img: https://static.coupangcdn.com/image/vendor_inventory/0a2f/9bab8235aa38d83d11fd29d9712aaa0965e27cf6e200667e8981bf1daf78.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4584737683&itemId=5626313674&vendorItemId=72925467150&traceid=V0-113-4bceabffc7b329fd 
+categories: [1001] 
+color: 4374D9 
+price: 29800 
+author: Ask View Shop 
+cont:  "가격대비 만족!<br/>구김이 생기지 않고 옷 자체가 이뻐요<br/>민트구매했었는데 아이보리도 재구매 하려고요^^<br/>아직 입어보진 않았지만<br/>허리가 날싼햐여 좋을것 같아요 그리고 고무줄이 작구오라가서 좀불편하내오<br/>" 
+---

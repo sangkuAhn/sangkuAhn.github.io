@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "나이키/ 스타러너2 GS 우먼스 운동화 AQ3542-001" 
+description: 나이키/ 스타러너2 GS 우 ..
+date: 2021-01-20 14:44:24 
+img: https://static.coupangcdn.com/image/vendor_inventory/50c4/ce36e4ada821e614e3f3c7f53dd53b89cff77f34694c1daed23d44a97772.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1826659922&itemId=3107859330&vendorItemId=71290678269&traceid=V0-113-2cf50d1a00418125 
+categories: [1007] 
+color: 006064 
+price: 47850 
+author: Ask View Shop 
+cont:  "발이 길어 보여요 겨울용은 아닌거 같아요 탄준보다 얇음<br/>" 
+---
