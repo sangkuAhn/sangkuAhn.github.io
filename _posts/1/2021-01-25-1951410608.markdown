@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "휠라 레인져 스크립트" 
+description: 휠라 레인져 스크립트 ..
+date: 2021-01-26 06:44:28 
+img: https://static.coupangcdn.com/image/vendor_inventory/9c64/b874de98d68dca81853ba894aaf14b16d1d1aa8b1d6e1dffe29e2636d2b4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1951410608&itemId=3314835689&vendorItemId=72408743448&traceid=V0-113-d87f9b4db7bee793 
+categories: [1007] 
+color: 35B62C 
+price: 35280 
+author: Ask View Shop 
+cont:  "가성비 정말 훌륭합니다.<br/><br/>너무 이뿌네요.<br/><br/>백화점가도 마음에 드는신발 없었는데 길에서 다른사람이 신고가는걸 보고 너무 이뻣어요.<br/><br/>실물이 더 예쁩니다<br/>역시 필라<br/>착한가격에 이쁜운동화 잘 산것 같아요.<br/>.<br/> 높이가 과하지도 않고 딱 좋아요 신발 착용감도 좋아요.<br/> 쿠션도 편해요.<br/> 근데 생각보다 발볼이 좀 좁게 나온것 같아요 발볼 넓으신분은 한사이즈 크게 주문하세요<br/>" 
+---

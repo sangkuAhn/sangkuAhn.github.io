@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아동용 토르 기모 상하세트" 
+description: 아동용 토르 기모 상하세트 ..
+date: 2021-01-24 06:22:48 
+img: https://static.coupangcdn.com/image/rs_quotation_api/089c/6e875be68b12291f3cc7cbe0e32c354745dbbe6cac01f3aceb34e5ef5d55.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2371761703&itemId=4129967637&vendorItemId=72113892035&traceid=V0-113-10e77a5d1898ea11 
+categories: [1004] 
+color: BD24A9 
+price: 7900 
+author: Ask View Shop 
+cont:  "디자인도 색도 깔끔하니 이뻐요<br/>무엇보다 목부분 암홀이 헐렁하지 않게 잘 핏되서 좋내요.<br/><br/>요즘 같이 추운날 입히기에 딱 좋은것 같아요.<br/>.<br/><br/>저렴하게 잘 산것 같아요^^<br/>좋아요<br/>" 
+---

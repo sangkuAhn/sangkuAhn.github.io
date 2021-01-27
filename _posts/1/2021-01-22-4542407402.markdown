@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "피카(FIKA/인생의 숙제 : 남들처럼 살면 내 인생도 행복해지는 걸까요?, 피카(FIKA" 
+description: 피카(FIKA/인생의 숙제  ..
+date: 2021-01-23 08:03:29 
+img: https://static.coupangcdn.com/image/retail-product-api/A00077021/31488811/35488770/main/9791190299169_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4542407402&itemId=5499892955&vendorItemId=72799515044&traceid=V0-113-9b29900e55fec428 
+categories: [1019] 
+color: 9E9D24 
+price: 15750 
+author: Ask View Shop 
+cont:  "그리고 저처럼 사회 생활을 앞둔 청년들에게도 앞으로의 인생을 계획하는데 조언이 되줄만한 책이라고 생각합니다.<br/><br/>만화책이라서 읽는데에도 부담 없었습니다.<br/><br/>보기보다 간단해서 보기좋습니다<br/>" 
+---
