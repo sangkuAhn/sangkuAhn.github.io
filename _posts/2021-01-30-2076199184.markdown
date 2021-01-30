@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "피에스타 색연필, 60색" 
+description: 피에스타 색연필, 60색 ..
+date: 2021-01-30 16:09:12 
+img: https://static.coupangcdn.com/image/retail/images/2020/08/19/9/2/53976160-099c-42bc-acf6-f30258f9718b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2076199184&itemId=3527598230&vendorItemId=71513657324&traceid=V0-113-387d931e845d78d3 
+categories: [1020] 
+color: A566FF 
+price: 9900 
+author: Ask View Shop 
+---
+ 
