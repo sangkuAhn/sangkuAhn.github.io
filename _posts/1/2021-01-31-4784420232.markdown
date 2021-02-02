@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "헬로카봇 뱅 페로B 로봇장난감, 혼합색상" 
+description: 헬로카봇 뱅 페로B 로봇장난 ..
+date: 2021-01-31 16:09:17 
+img: https://static.coupangcdn.com/image/retail/images/2021/01/12/16/8/2004ba41-af87-40fb-9859-1b8ab0a7395e.JPG 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4784420232&itemId=6122388649&vendorItemId=73418698580&traceid=V0-113-048275ad0509a553 
+categories: [1020] 
+color: BF360C 
+price: 14020 
+author: Ask View Shop 
+cont:  "귀여워요<br/>다들 넘 좋아하네요<br/>로켓이라 배송 빨리와서 좋았구요<br/>신상 카봇 보더니 난리가 났네요<br/>어제 갑자기 조카생일인걸 알아서 주문했는데요<br/>조카들 여럿이 있었는데<br/>" 
+---

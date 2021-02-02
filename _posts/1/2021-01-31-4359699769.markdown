@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "캐럿 여성 소프트터치 레귤러핏 블라우스" 
+description: 캐럿 여성 소프트터치 레귤러 ..
+date: 2021-02-01 06:01:12 
+img: https://static.coupangcdn.com/image/retail/images/1241782673013687-23198446-0cfe-42ea-a50f-1236f886e7b7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4359699769&itemId=5126209206&vendorItemId=72435683306&traceid=V0-113-dd9b24fc11103728 
+categories: [1001] 
+color: F361A6 
+price: 14300 
+author: Ask View Shop 
+cont:  "넘 흐물한 재질이지만 핏 조아용<br/>단정하게 입을 수 있을 것 같아요<br/>마감좋음<br/>면이나 사이즈는 괜찮은데 제 눈에는 아무리봐도 카키색에 가깝네요;; 그래도 넉넉한 사이즈가 맘에 들어 그냥 입으려구요<br/>재질좋구<br/>저는 실키하다고해서 좀 부드러운 소재일 줄 알았는데 그냥 면이네요 뭔가 딱 그냥 정직한 셔츠느낌이랄까?<br/>" 
+---

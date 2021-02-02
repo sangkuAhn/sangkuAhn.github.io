@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "우리 민화 여름 컬러링북, 아이콘북스" 
+description: 우리 민화 여름 컬러링북,  ..
+date: 2021-01-30 08:03:06 
+img: https://static.coupangcdn.com/image/retail/images/2019/07/29/16/6/59b4123f-ed8f-4fbd-b0bc-637de38dc28a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=270112831&itemId=848159639&vendorItemId=5156375576&traceid=V0-113-58ec26169e59a113 
+categories: [1019] 
+color: 4CAF50 
+price: 12420 
+author: Ask View Shop 
+cont:  "ㅎㅎㅎ 나 색칠끝나면 화가 되있는거 아니니?<br/>그냥 자기가 원하는 색을 칠해도 뭐라 할사람은 없죠<br/>선물로 드렸는데 엄청 좋아하셨어요! )<br/>설명되어있고, 패이지마다 왼쪽에 색 가이드가 있어서<br/>앞페이지에 선그리가.<br/> 그라데이션, 바탕색칠하는 방법등이<br/>엄마가 집에서 심심해서 구매해드렸어요<br/>요즘 밖에 나가기도 꺼려하시는 장모님이<br/>요즘 컬러링북을 매일 저녁으로 2시간씩 하시는데 너무 좋아하세요<br/>일상이 무료하시다고 하셔서 구입해드렸어요.<br/><br/>자기 느낌대로 칠하는 거니까.<br/><br/>장모님 컬러링북 받으시더니<br/>저희 할머니 색칠연습하시라고<br/>참고하면 좋을듯<br/>컬러링북 재밋다고 하셔서 구입<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "시프이컴 온열 쿠션형 안마기 블랙 CIF-MSG01B" 
+description: 시프이컴 온열 쿠션형 안마기 ..
+date: 2021-01-30 07:41:19 
+img: https://static.coupangcdn.com/image/retail/images/2020/12/16/18/7/4b7685ce-05f2-47b3-8a13-0d9efc1db133.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4731551001&itemId=5997930115&vendorItemId=73295703078&traceid=V0-113-98c0aef82264b489 
+categories: [1016] 
+color: 4A148C 
+price: 24800 
+author: Ask View Shop 
+cont:  "조아용 저렴한 가격에 잘 산 것 같습니다!! 가성비 최고<br/>" 
+---
