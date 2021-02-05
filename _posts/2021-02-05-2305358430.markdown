@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "타이거 접어 오리기, 삼성출판사" 
+description: 타이거 접어 오리기, 삼성출 ..
+date: 2021-02-06 08:02:42 
+img: https://static.coupangcdn.com/image/vendor_inventory/bcbd/580184fa7df1c66f720a2a15ea22b22e00f5c1ae00379f2c7d5e2b34e87f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2305358430&itemId=3973539478&vendorItemId=72052158651&traceid=V0-113-4f5e167fba2576f8 
+categories: [1019] 
+color: 4374D9 
+price: 12000 
+author: Ask View Shop 
+---
+ 
