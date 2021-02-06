@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "웅진 빅토리아 복숭아향 탄산수, 500ml, 20개" 
+description: 웅진 빅토리아 복숭아향 탄산 ..
+date: 2021-02-07 07:12:02 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/01/28/3259615955/b5393680-c3ee-46d0-a620-ce45137adfed.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=33882751&itemId=126360819&vendorItemId=3259615955&traceid=V0-113-d4e8c79d0fb4b137 
+categories: [1012] 
+color: A6A6A6 
+price: 11110 
+author: Ask View Shop 
+---
+ 

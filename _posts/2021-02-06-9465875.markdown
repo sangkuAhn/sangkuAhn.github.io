@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "테팔 스페셜 에디션 프라이팬, 30cm, 1개" 
+description: 테팔 스페셜 에디션 프라이팬 ..
+date: 2021-02-07 07:19:16 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/10/26/3063748996/0cd1bc25-d0db-448c-9bc7-20f92361d350.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=9465875&itemId=41550355&vendorItemId=3063748996&traceid=V0-113-4c57aa1fcbe83e7b 
+categories: [1013] 
+color: D9418C 
+price: 24060 
+author: Ask View Shop 
+---
+ 

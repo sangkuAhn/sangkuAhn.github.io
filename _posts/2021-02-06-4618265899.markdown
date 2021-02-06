@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "곰곰 미니모둠쌈, 1봉" 
+description: 곰곰 미니모둠쌈, 1봉 ..
+date: 2021-02-07 07:12:02 
+img: https://static.coupangcdn.com/image/retail/images/1141823173593132-0b4d1c84-c7c5-49be-88d4-832b52f9ec8c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4618265899&itemId=5719522998&vendorItemId=73018275431&traceid=V0-113-edb093d55b9d1fc2 
+categories: [1012] 
+color: 43A047 
+price: 2640 
+author: Ask View Shop 
+---
+ 
