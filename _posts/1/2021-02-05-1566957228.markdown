@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "도노도노 낮잠이불 토퍼형, 도노별달" 
+description: 도노도노 낮잠이불 토퍼형,  ..
+date: 2021-02-06 07:04:49 
+img: https://static.coupangcdn.com/image/retail/images/508577103981339-3e74e214-02b1-4d76-8cc7-49cd501e9900.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1566957228&itemId=2679339094&vendorItemId=70669851981&traceid=V0-113-b9c17877484b9d47 
+categories: [1011] 
+color: 7E57C2 
+price: 75900 
+author: Ask View Shop 
+cont:  "베개솜 미포함입니다.<br/>구매하시는 분들 참고하세요.<br/> 왠지  사기당한 기분이네요.<br/>내일 급히 사용해야해서 그냥 쓰지만 상품정보에 베개솜없다고 수정되어야 할 것 같습니다.<br/><br/>" 
+---

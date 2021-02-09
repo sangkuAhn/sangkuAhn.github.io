@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "삼성출판사/핑크퐁 붙였다뗐다 컬러링롤, 삼성출판사" 
+description: 삼성출판사/핑크퐁 붙였다뗐다 ..
+date: 2021-02-08 08:02:24 
+img: https://static.coupangcdn.com/image/retail-product-api/A00077021/10045470/11628843/main/8809607283630_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=324245857&itemId=1038189420&vendorItemId=5493479899&traceid=V0-113-29d60471ca32a350 
+categories: [1019] 
+color: 35B62C 
+price: 10800 
+author: Ask View Shop 
+cont:  "대신 컬러링롤은 길어서 만족입니다^^<br/>붙였다뗏다 핑크퐁 스티커 인줄 알고 구매했는데,벽에 붙는정도가 아닌<br/>색연필이 너무 뭉개지고 번짐이 심함... <br/>.<br/>청소가 일이었음... <br/>.<br/>근데 애들은 정말 좋아햏응... <br/>.<br/>엄마는 싫어함... <br/>.<br/>색연필 숨겨놓는데 엄청 잘찾음.<br/>.<br/>.<br/>결국.<br/>.<br/>.<br/>다쓰고 버렸다는.<br/>,.<br/><br/>크레용은 약간의 번짐이 있어서 부모님과 같이 해야 할것 같습니다.<br/><br/>포스트잇 보다 약한  정도의 접착력입니다.<br/><br/>" 
+---

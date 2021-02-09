@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "달리샵 워즈멜빵 원피스" 
+description: 달리샵 워즈멜빵 원피스 ..
+date: 2021-02-07 06:01:13 
+img: https://static.coupangcdn.com/image/vendor_inventory/7945/35a40406e89320d72003ccdacab5a95e802259798ced9e794f8474995650.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4548301445&itemId=5516299693&vendorItemId=72815830643&traceid=V0-113-e4807b618e46a388 
+categories: [1001] 
+color: f44336 
+price: 18830 
+author: Ask View Shop 
+cont:  "가격도 맘에들고,<br/>같이 구매했는데, 도착한 옷들 너무너무 맘에들어요.<br/><br/>굳굳 강추해여!<br/>다음에 또 장바구니 넣어서 구매할게요!!ㅎㅎㅎ수고하세요.<br/><br/>덕분에 달리샵 검색해서 몇개 더 구매 했습니다<br/>맘에 들어요 지금부터 입어도 봄까지 충분히 입을 수 있을거같아요<br/>배송도 엄청 빠릅니다!!<br/>우선 너무 찾던 디자인이였는데, 찾게되서 바로 구매 했습니다.<br/><br/>원하는 상품에 가격도 괜찮아서 구매해보니까 역시나 맘에드네요!!!<br/>이번에 쿠팡 통해서 달리샵옷 3가지정도 장바구니에 넣고<br/>좋은상품 많네요!<br/>퀄리티도 가격대비 너무 좋구<br/>평소 달리샵 많이 보고있는데<br/>" 
+---
