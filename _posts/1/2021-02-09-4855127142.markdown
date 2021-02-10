@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "이플린 별빛 트리 무드등, 전구색 + 진주" 
+description: 이플린 별빛 트리 무드등,  ..
+date: 2021-02-09 15:04:36 
+img: https://static.coupangcdn.com/image/vendor_inventory/48f9/123465ca83b23ec52905a99f3fef3e15398c80b7f143355630e7d1b6cefd.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4855127142&itemId=6290273135&vendorItemId=73551481566&traceid=V0-113-100ec18852ce0d5b 
+categories: [1011] 
+color: A566FF 
+price: 12900 
+author: Ask View Shop 
+cont:  "나뭇가지 모양을 사용자가 원하는대로 잡을 수 있어 좋고, 이리저리 구부리고 펴기도 쉬워서 수형이 예쁘게 잡혀요.<br/> 나무에 금색 테이프 감아놓은 거나 진주 모양 구슬이 저렴해 보이긴 하지만 불을 켜면 그런 부분은 신경 쓰이지 않아요.<br/> usb 포트 연결선 외에도 별도로 건전지 넣는 부분이 있어서 무선으로도 사용 가능합니다.<br/><br/>은은한 불빛의 유니크하고 감성적인 무드등 추천합니다.<br/><br/>전구 자체가 작은 구슬 모양인 줄 알았는데 진주 모형 안에 작은 전구가 들어있는 제품입니다.<br/> 불을 켜면 불빛이 퍼지면서 알전구처럼 보이고 진주가 전구의 밝은 빛을 감싸면서 눈부시지 않고 은은해요.<br/> 켜 놓으면 아늑하고 예뻐서 자꾸만 눈이 갑니다.<br/><br/>" 
+---
