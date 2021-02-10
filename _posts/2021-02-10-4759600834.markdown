@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "캠퍼스 크로스백" 
+description: 캠퍼스 크로스백 ..
+date: 2021-02-10 14:01:07 
+img: https://static.coupangcdn.com/image/vendor_inventory/0a4a/2480b7aa5769043525d3443b8e342429f2cf8efb6b2f1cad3a024d33057a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4759600834&itemId=6063189375&vendorItemId=72739676199&traceid=V0-113-5c31b7567948ae05 
+categories: [1001] 
+color: FF1744 
+price: 7000 
+author: Ask View Shop 
+---
+ 
