@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "곰곰 우리쌀 떡국떡, 700g, 1개" 
+description: 곰곰 우리쌀 떡국떡, 700 ..
+date: 2021-02-12 07:12:11 
+img: https://static.coupangcdn.com/image/retail/images/183993263872550-474d3c4d-c36a-4c3f-9c43-d105dad4f632.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1548173648&itemId=2650025284&vendorItemId=70640893789&traceid=V0-113-ab27202f1a2bd2f6 
+categories: [1012] 
+color: A6A6A6 
+price: 3160 
+author: Ask View Shop 
+---
+ 
