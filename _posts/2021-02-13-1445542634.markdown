@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "슈퍼 머니건 + 지폐" 
+description: 슈퍼 머니건 + 지폐 ..
+date: 2021-02-14 08:09:32 
+img: https://static.coupangcdn.com/image/retail/images/2020/07/30/14/2/4c7ab141-e37f-4a88-8a14-0a04b19cabb9.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1445542634&itemId=2490823090&vendorItemId=71238529457&traceid=V0-113-e164c8399826f883 
+categories: [1020] 
+color: A566FF 
+price: 7550 
+author: Ask View Shop 
+---
+ 
