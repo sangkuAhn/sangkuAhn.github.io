@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "팜플 콥 샐러드, 200g, 2개" 
+description: 팜플 콥 샐러드, 200g, ..
+date: 2021-02-14 15:11:37 
+img: https://static.coupangcdn.com/image/retail/images/2020/07/13/17/1/e393c5ca-0583-424f-86b8-aa59d050c52f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1819332576&itemId=3096156206&vendorItemId=71083965481&traceid=V0-113-e739e0a5bd6634b1 
+categories: [1012] 
+color: BF360C 
+price: 11690 
+author: Ask View Shop 
+---
+ 
