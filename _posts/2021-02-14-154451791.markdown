@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "설향 딸기, 500g,  1단, 1팩" 
+description: 설향 딸기, 500g,  1 ..
+date: 2021-02-15 07:11:59 
+img: https://static.coupangcdn.com/image/retail/images/1177218616740-06de9d6c-741b-4f13-9c72-de3e093e1e7d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=154451791&itemId=445337411&vendorItemId=4102916819&traceid=V0-113-043e6b461c09742c 
+categories: [1012] 
+color: 5A8DF3 
+price: 11900 
+author: Ask View Shop 
+---
+ 
