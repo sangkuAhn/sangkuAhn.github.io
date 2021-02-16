@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "2021 시나공 정보처리기사 필기, 길벗, 9791165214432, 길벗알앤디,김정준 공저" 
+description: 2021 시나공 정보처리기사 ..
+date: 2021-02-14 08:02:20 
+img: https://static.coupangcdn.com/image/vendor_inventory/359b/10f63e9af6278fd2fe4e3077fdb6872325517225520387f0cdf2ebe7d12f.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4760797901&itemId=6065567975&vendorItemId=73362367818&traceid=V0-113-11957e8e56f041ed 
+categories: [1019] 
+color: 1294AB 
+price: 29700 
+author: Ask View Shop 
+cont:  "공부할라고 샀는데 내용이 보기 쉽네요<br/>그래도 다행히 서비스센터에서 교환요청 받아들여서 바로 새책으로 교환 요청한 상태인데 언제 또 기다리고있나요? 이번 이후론 여기선 주문 안할꺼같네요.<br/><br/>여태까지 많은 책 시켜봤는데 이처럼 최악으로 받아본적은 처음이네요.<br/><br/>전화하니까 기계포장해서 그럴수있다는데 그럼 처음부터 주의해서 발송해야되는거 아닌가요?<br/>책이 소분되있어서 보기 편합니다<br/>" 
+---

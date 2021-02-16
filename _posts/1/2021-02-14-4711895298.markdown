@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "에프엔미디어/2021 상장 기업 업종 지도 : 주식 투자자를 위한 종목 발굴 내비게이션, 에프엔미디어" 
+description: 에프엔미디어/2021 상장  ..
+date: 2021-02-15 08:02:19 
+img: https://static.coupangcdn.com/image/retail-product-api/A00077021/33318144/37545237/main/9791188754366_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4711895298&itemId=5946126895&vendorItemId=73244081367&traceid=V0-113-05635dc953a98435 
+categories: [1019] 
+color: 03A9F4 
+price: 14400 
+author: Ask View Shop 
+cont:  "많은 종목을 한꺼번에 쉽게 볼수있어서 좋았다<br/>주식을  처음하게됐는데  도움이  많이 되네요<br/>" 
+---

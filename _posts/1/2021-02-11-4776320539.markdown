@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "정관장 홍삼보옥고 + 쇼핑백 세트, 100g, 2개" 
+description: 정관장 홍삼보옥고 + 쇼핑백 ..
+date: 2021-02-12 07:12:11 
+img: https://static.coupangcdn.com/image/retail/images/587726730725377-29cba184-47f3-4726-b53f-bf2f6449fbee.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4776320539&itemId=6102867279&vendorItemId=73399236571&traceid=V0-113-942113fd307ad390 
+categories: [1012] 
+color: A6A6A6 
+price: 42850 
+author: Ask View Shop 
+cont:  "가격이 뒷면에 조그맣게 써있는 것도 아니고<br/>가격이 떡하니 눈에 띄게 인쇄되어 있네요ㅠ<br/>가격이 잘 보이게 써있는게 좋을 때도 있지만<br/>너무 노골적으로 써있어서 고민 중이에요... <br/><br/>상품이 좋은 것 같아서 선물용으로 구입했는데<br/>아무리 홍삼함량이 높아도<br/>요즘은 어르신들도 정관장 좋은거 다 아셔서<br/>이번의 경우 저는 가격이 안써있음 했거든요.<br/><br/>정가 ₩50,000 이라고요.<br/><br/>정관장 브랜드가 아니면 좀 실망하시는 눈치라<br/>제품을 개봉하려면 안볼래야 안볼 수 없는 부분에<br/>티스푼이  들어있어요<br/>항상 먹던 제품입니다.<br/> 주원료가 경옥고와 동일합니다.<br/><br/>" 
+---

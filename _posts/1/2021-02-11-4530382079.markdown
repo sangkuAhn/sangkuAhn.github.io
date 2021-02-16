@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "여행용 하드 미니 캐리어" 
+description: 여행용 하드 미니 캐리어 ..
+date: 2021-02-12 06:01:13 
+img: https://static.coupangcdn.com/image/rs_quotation_api/agf6iehw/e318c9942638401cbfb8bfa6f1251a2e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4530382079&itemId=5471509498&vendorItemId=72771241626&traceid=V0-113-6dd53793b06ec245 
+categories: [1001] 
+color: 35B62C 
+price: 17000 
+author: Ask View Shop 
+cont:  "1박2일 여행가기 위한 가방으로는 사이즈가 딱 인것 같아요<br/>1벅2일 여행하기 딱조은사이즈에요<br/>디자인도 예쁘고 좋아요^^<br/>무겁지 않아요 딱 1박2일여행용으로 좋은거 같아요<br/>배송도빠르고 화면그대로에요<br/>약간 작은듯 느껴지기도 하지만<br/>화장품 속옷 얇은티정도?<br/>" 
+---

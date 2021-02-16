@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "떠오름/사랑의 온도, 떠오름" 
+description: 떠오름/사랑의 온도, 떠오름 ..
+date: 2021-02-15 08:02:19 
+img: https://static.coupangcdn.com/image/retail-product-api/A00077021/32144147/36215498/main/9791197080807_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4584481618&itemId=5625386679&vendorItemId=72924545450&traceid=V0-113-bbf4b8e8ee879e77 
+categories: [1019] 
+color: 006064 
+price: 12010 
+author: Ask View Shop 
+cont:  "너무 감동했습니다 ㅠㅠㅠ<br/>당신에게도 사랑의 온도가 있나요?<br/>생각보다.<br/>.<br/>이별내용이 많아서 이별하신믄이읽기 젛은거같아요 사랑하고잇는 커플들은 비추?.<br/>.<br/><br/>책을 읽으면서 한번 느껴보세요.<br/> 당신의 사랑 지금 어떤상태인지, 당신의 사랑 온도는 따뜻한지.<br/><br/>" 
+---
