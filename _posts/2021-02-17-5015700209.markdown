@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "청약 맞춤 수업 / 더스(더디퍼런스)" 
+description: 청약 맞춤 수업 / 더스(더 ..
+date: 2021-02-17 16:01:50 
+img: https://static.coupangcdn.com/image/vendor_inventory/64d5/ef1e59a1c89ecc9843a594455e21fd6d14d17a77c66289214a8bab47e3b2.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5015700209&itemId=6720875412&vendorItemId=73982605956&traceid=V0-113-d67b3e4dc0cae09b 
+categories: [1019] 
+color: 353535 
+price: 15300 
+author: Ask View Shop 
+---
+ 
