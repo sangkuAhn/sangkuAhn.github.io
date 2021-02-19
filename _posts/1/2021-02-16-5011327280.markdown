@@ -9,5 +9,5 @@ categories: [1019]
 color: A6A6A6 
 price: 11700 
 author: Ask View Shop 
+cont:  "굿<br/>근데 책내용이  애한테 혼란을 준것 같다.<br/><br/>아이가 좋아함<br/>좋은학교.<br/>직장까지 다니는게 정석이 아니라는 문구가 나온다는데 애말인용<br/>첨에 황당했다.<br/><br/>" 
 ---
- 
