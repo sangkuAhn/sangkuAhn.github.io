@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "오늘은 칼림바를 연주해볼게요:기초부터 감성 연주곡까지 쉽게 배우는 칼림바 4주 클래스, 동양북스" 
+description: 오늘은 칼림바를 연주해볼게요 ..
+date: 2021-02-20 16:01:57 
+img: https://static.coupangcdn.com/image/vendor_inventory/8063/6e3276e1bef936997a13c115df5ccdd72e7f94961f4190333d40dc514b49.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2020646480&itemId=3437429151&vendorItemId=71416947904&traceid=V0-113-eb70f9604a5b0ef5 
+categories: [1019] 
+color: BD24A9 
+price: 14220 
+author: Ask View Shop 
+cont:  "알찬칼림바 QR코드 연계되어 보게 편리하며 챕터별로 다양한 기법을 배우기 좋아요 ㅎㅎㅎ 같은곡이라도 다르게 풍성하게 연주 가능하며 재미있습니다 좋은 곡들도 너무 많네요 ㅎㅎㅎ<br/>음계표도 상세하게 나와있어서 익히기 쉬웠습니다<br/>전 갠적으루 감성노래같은거 되게 좋아하기도 하고 칼림바도 한번 연주해보려고 이 악보 구매했는데요 !! 첨부터 단도직입적으로 악보가 아니라 차근차근 설명이 되어있어서 되게 쉽고 선곡센스도 좋네요 ㅎㅎ<br/>칼림바 독학하기 좋은책입니다<br/>칼림바 처음 기초 독학할때 좋은거 같아요<br/>" 
+---

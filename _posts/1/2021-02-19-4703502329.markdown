@@ -9,5 +9,5 @@ categories: [1002]
 color: 9E9D24 
 price: 83000 
 author: Ask View Shop 
+cont:  "이게 몬가요 바닥오 울고 옆에도 암붙어잇고<br/>" 
 ---
- 
