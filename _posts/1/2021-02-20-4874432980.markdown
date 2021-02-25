@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "단디프레시 국내산 거북손 (냉동), 1kg, 1개" 
+description: 단디프레시 국내산 거북손 ( ..
+date: 2021-02-21 07:12:11 
+img: https://static.coupangcdn.com/image/retail/images/2021/01/25/18/9/5ae1a850-281b-4ee2-9bee-692534cf4c91.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4874432980&itemId=6339499011&vendorItemId=73634858091&traceid=V0-113-5fa1e481407d3f2f 
+categories: [1012] 
+color: 4374D9 
+price: 16400 
+author: Ask View Shop 
+cont:  "삶으니 조개의 탱글함이 없고 씹고 먹을게 없어요.<br/><br/>신선한 조개류라 생각하고 샀는데 냉동이었어요.<br/><br/>저는 비강추 입니다.<br/><br/>" 
+---

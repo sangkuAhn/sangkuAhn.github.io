@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "뉴발란스 로고 크로스백 NBGCAS0301-00, Black" 
+description: 뉴발란스 로고 크로스백 NB ..
+date: 2021-02-21 06:08:24 
+img: https://static.coupangcdn.com/image/retail/images/2020/12/24/14/5/8bf87dec-c172-4ab4-b2e0-34de48ecea6b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4830182732&itemId=6231660216&vendorItemId=73142971843&traceid=V0-113-8fc174d90d23908b 
+categories: [1002] 
+color: 1294AB 
+price: 12890 
+author: Ask View Shop 
+cont:  "별 하나 <br/> -<br/>좋아요<br/>지퍼가 있었음 좋았을껄 아쉽습니당<br/>" 
+---
