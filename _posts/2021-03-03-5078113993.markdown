@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "프리미엄 로얄 고양이캔 콤보, 1박스" 
+description: 프리미엄 로얄 고양이캔 콤보 ..
+date: 2021-03-03 16:30:24 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/02/14/3068758408/2ab7cee9-f47c-47fa-afee-e429c5f236e9.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5078113993&itemId=6885327575&vendorItemId=71865154196&traceid=V0-113-306572cc566e991a 
+categories: [1029] 
+color: A57F92 
+price: 16950 
+author: Ask View Shop 
+---
+ 
