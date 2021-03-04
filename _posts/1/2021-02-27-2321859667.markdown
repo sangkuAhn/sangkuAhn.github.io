@@ -9,5 +9,5 @@ categories: [1002]
 color: F361A6 
 price: 54450 
 author: Ask View Shop 
+cont:  "봄가을용인거 같은데 실내에서 입으려고 샀어요 생각보다 품질 괜찮아요<br/>좋아요<br/>키 176, 몸무게 82키로 남자라면 XL 추천드려요 ^^<br/>" 
 ---
- 
