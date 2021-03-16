@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아이유 - LILAC 정규5집 앨범 2종 세트" 
+description: 아이유 - LILAC 정규5 ..
+date: 2021-03-17 08:02:16 
+img: https://static.coupangcdn.com/image/retail/images/14320198381512-849024a4-153a-47c1-8d54-187f9691c304.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5141249286&itemId=7047681534&vendorItemId=74339927020&traceid=V0-113-86aa0ec0d78f099e 
+categories: [1019] 
+color: FF1744 
+price: 33750 
+author: Ask View Shop 
+---
+ 
