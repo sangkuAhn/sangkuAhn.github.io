@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "곰곰 대만식샌드위치 카야 280g, 4개입" 
+description: 곰곰 대만식샌드위치 카야 2 ..
+date: 2021-03-18 07:12:15 
+img: https://static.coupangcdn.com/image/retail/images/702674268349289-4fc4ce79-8492-4f25-b6c0-939e67f4f596.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4961923739&itemId=6574013754&vendorItemId=73868037071&traceid=V0-113-1cfc6fb1613e0c2f 
+categories: [1012] 
+color: 4CAF50 
+price: 7600 
+author: Ask View Shop 
+---
+ 
