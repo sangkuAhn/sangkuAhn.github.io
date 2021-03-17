@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "프롬비/요리 마법사 아하부장의 매직 레시피 (양장), 프롬비" 
+description: 프롬비/요리 마법사 아하부장 ..
+date: 2021-03-17 15:19:15 
+img: https://static.coupangcdn.com/image/retail-product-api/A00077021/49619886/54537905/main/9791188801084_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5158828008&itemId=7098827549&vendorItemId=74390770015&traceid=V0-113-70fcbc5049752615 
+categories: [1013] 
+color: 9E9D24 
+price: 15750 
+author: Ask View Shop 
+---
+ 

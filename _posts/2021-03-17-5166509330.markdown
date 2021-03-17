@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "인스타360 GO2" 
+description: 인스타360 GO2 ..
+date: 2021-03-17 15:40:54 
+img: https://static.coupangcdn.com/image/retail/images/2021/03/10/14/7/4f095eb2-e412-4d3d-983c-be1a7f494860.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5166509330&itemId=7118117808&vendorItemId=74409952954&traceid=V0-113-03c45dbaeee57193 
+categories: [1016] 
+color: 4374D9 
+price: 389000 
+author: Ask View Shop 
+---
+ 

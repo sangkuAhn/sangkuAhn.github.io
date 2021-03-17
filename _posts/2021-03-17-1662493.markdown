@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "LED일체형어항(AMZ-2000B), 화이트" 
+description: LED일체형어항(AMZ-20 ..
+date: 2021-03-17 16:31:21 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2016/05/20/3009711018/9bb3d2e1-d1e5-4d6a-bf80-c609bbb265ab.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1662493&itemId=66528151&vendorItemId=3009711018&traceid=V0-113-283248edf3dcd90a 
+categories: [1029] 
+color: CF36BB 
+price: 57170 
+author: Ask View Shop 
+---
+ 
