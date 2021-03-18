@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "떠오름/있는 그대로 살아도 괜찮아 : 나는 나답게 사는 게 편해, 떠오름" 
+description: 떠오름/있는 그대로 살아도  ..
+date: 2021-03-17 16:02:32 
+img: https://static.coupangcdn.com/image/retail-product-api/A00077021/29774369/33532460/main/9791197080838_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2379242951&itemId=4148446473&vendorItemId=72132343392&traceid=V0-113-261661242e651338 
+categories: [1019] 
+color: A57F92 
+price: 11970 
+author: Ask View Shop 
+cont:  "내용 중 연애내용이 생각보다 많아요.<br/><br/>마음에 드는 구절은 많습니다.<br/><br/>마음을 다스리는 기준을 만들어 주는 책<br/>시집입니다.<br/><br/>좋아요<br/>좋은책이에요<br/>" 
+---
