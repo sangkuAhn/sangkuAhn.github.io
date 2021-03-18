@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "인텔 코어i5 11세대 11600K 로켓레이크 CPU" 
+description: 인텔 코어i5 11세대 11 ..
+date: 2021-03-19 07:41:08 
+img: https://static.coupangcdn.com/image/retail/images/2021/03/16/15/8/30e8fb66-d6f4-427a-8c28-ed756e0d9a02.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5191098372&itemId=7207261624&vendorItemId=74499188948&traceid=V0-113-4458e7c779c58518 
+categories: [1016] 
+color: FF6F00 
+price: 329000 
+author: Ask View Shop 
+---
+ 

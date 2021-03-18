@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "인텔 CPU 코어 i5-11500 11세대 로켓레이크" 
+description: 인텔 CPU 코어 i5-11 ..
+date: 2021-03-19 07:41:08 
+img: https://static.coupangcdn.com/image/retail/images/2021/03/16/17/5/b3a65f1f-cbe0-4951-bf7c-f97a5ab5fb22.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5191812380&itemId=7210583541&vendorItemId=74502228013&traceid=V0-113-0ade4b722baffa2b 
+categories: [1016] 
+color: FF1744 
+price: 252000 
+author: Ask View Shop 
+---
+ 

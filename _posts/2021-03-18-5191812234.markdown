@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "인텔 CPU 11세대 펜티엄 골드 G6405 로켓레이크" 
+description: 인텔 CPU 11세대 펜티엄 ..
+date: 2021-03-19 07:41:08 
+img: https://static.coupangcdn.com/image/retail/images/2021/03/16/17/5/c1ec1f6c-cfd1-4555-a82a-6bda6ce178e0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5191812234&itemId=7210582829&vendorItemId=74502226138&traceid=V0-113-423db12b2003f3cb 
+categories: [1016] 
+color: 7E57C2 
+price: 85000 
+author: Ask View Shop 
+---
+ 

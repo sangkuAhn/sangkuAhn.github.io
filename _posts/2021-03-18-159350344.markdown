@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "느린부엌 식혜, 1L, 2개" 
+description: 느린부엌 식혜, 1L, 2개 ..
+date: 2021-03-19 07:12:10 
+img: https://static.coupangcdn.com/image/retail/images/2019/02/18/12/1/bb612edf-21c0-4546-84cd-50492633879f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=159350344&itemId=535886180&vendorItemId=4398689603&traceid=V0-113-051236e38f30df0a 
+categories: [1012] 
+color: 006064 
+price: 7160 
+author: Ask View Shop 
+---
+ 
