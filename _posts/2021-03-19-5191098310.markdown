@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "인텔 코어i9 11세대 11900K 로켓레이크 CPU" 
+description: 인텔 코어i9 11세대 11 ..
+date: 2021-03-19 15:40:24 
+img: https://static.coupangcdn.com/image/retail/images/2021/03/16/15/5/4107f82d-6bef-4cac-8b00-a74dfa04e932.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5191098310&itemId=7207261518&vendorItemId=74499188781&traceid=V0-113-a9402b9a40fc4b7c 
+categories: [1016] 
+color: FF1744 
+price: 689000 
+author: Ask View Shop 
+---
+ 
