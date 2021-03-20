@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "삼성전자 80.0cm QHD 모니터, LS32A600UUKXKR" 
+description: 삼성전자 80.0cm QHD ..
+date: 2021-03-21 07:41:17 
+img: https://static.coupangcdn.com/image/retail/images/2021/03/18/16/7/4e38bcad-b4ae-4bec-b2cc-409ab7cb37b8.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5202536191&itemId=7254018107&vendorItemId=74545461172&traceid=V0-113-b292308f73c639da 
+categories: [1016] 
+color: D9418C 
+price: 410360 
+author: Ask View Shop 
+---
+ 

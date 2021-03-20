@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "블루버드 스크래치 2종 세트, 마이리틀타이거" 
+description: 블루버드 스크래치 2종 세트 ..
+date: 2021-03-21 07:04:58 
+img: https://static.coupangcdn.com/image/retail/images/2021/03/18/10/5/697b2cf1-f4e7-49cc-8d8a-c7f084a938ad.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5200568785&itemId=7247820438&vendorItemId=74539771654&traceid=V0-113-8d9efb38539dfcf7 
+categories: [1011] 
+color: CF36BB 
+price: 18900 
+author: Ask View Shop 
+---
+ 
