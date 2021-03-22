@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "폴바셋 로스터리 시그니처 블렌드 블루밍 블루, 홀빈(분쇄안함), 200g" 
+description: 폴바셋 로스터리 시그니처 블 ..
+date: 2021-03-23 07:12:25 
+img: https://static.coupangcdn.com/image/retail/images/2021/02/26/17/2/d1f095b1-73c8-4d82-a8b3-0b48684c9065.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5080151732&itemId=6890760008&vendorItemId=74183296650&traceid=V0-113-7ba3a6448e754bef 
+categories: [1012] 
+color: F15F5F 
+price: 13500 
+author: Ask View Shop 
+---
+ 

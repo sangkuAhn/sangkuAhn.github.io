@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코멧 롱 스탠드 바닥솔" 
+description: 코멧 롱 스탠드 바닥솔 ..
+date: 2021-03-23 07:34:12 
+img: https://static.coupangcdn.com/image/retail/images/268164844929722-78db9425-d695-4686-b632-2212383a1b24.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4674233250&itemId=5847974821&vendorItemId=73146230142&traceid=V0-113-9247e26c9253d118 
+categories: [1015] 
+color: A566FF 
+price: 6990 
+author: Ask View Shop 
+---
+ 
