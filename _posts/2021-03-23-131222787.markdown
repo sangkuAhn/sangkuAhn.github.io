@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "웅진 빅토리아 청포도 스파클링 음료, 500ml, 20개" 
+description: 웅진 빅토리아 청포도 스파클 ..
+date: 2021-03-24 07:12:13 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/11/12/3938771464/f637e89f-0725-4f32-898f-0be0d09980b7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=131222787&itemId=386242196&vendorItemId=3938771464&traceid=V0-113-ea25f780f04b7f94 
+categories: [1012] 
+color: 006064 
+price: 10900 
+author: Ask View Shop 
+---
+ 
