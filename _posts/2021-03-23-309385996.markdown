@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "총각네 팥두유, 190ml, 30개" 
+description: 총각네 팥두유, 190ml, ..
+date: 2021-03-23 15:12:06 
+img: https://static.coupangcdn.com/image/retail/images/62979269950286-e57a629f-4a91-4fbf-b4cf-aee60eddfc74.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=309385996&itemId=975258907&vendorItemId=5388795025&traceid=V0-113-5a242b7a703e0d06 
+categories: [1012] 
+color: 9E9D24 
+price: 25790 
+author: Ask View Shop 
+---
+ 
