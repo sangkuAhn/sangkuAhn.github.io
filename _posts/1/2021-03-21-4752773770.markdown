@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코코블랑 안드레아 셔링블라우스" 
+description: 코코블랑 안드레아 셔링블라우 ..
+date: 2021-03-22 06:01:13 
+img: https://static.coupangcdn.com/image/vendor_inventory/9ae3/5c90b47ad875c84aab1c9ca386096fb664d82ef74aebd32532442d5c0e10.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4752773770&itemId=6051394592&vendorItemId=73348651376&traceid=V0-113-a9b00a4e64e3611a 
+categories: [1001] 
+color: 5A8DF3 
+price: 9900 
+author: Ask View Shop 
+cont:  "가격대비 여러코디에 잘 어울릴꺼 같아요.<br/><br/>고무줄이 있으니 조금만 길었으면 좋을텐데 팔움직이면<br/>구김 잘안가는 약간 주름종이같은 원단이라 좋아요.<br/><br/>나시나 니트조끼 모두 잘 어울려서 맘에 드네요ㅎㅎ<br/>날도 이제 따듯해지고<br/>라글랑 소매라 좀넉넉히 나왔네요.<br/><br/>살짝 걷어서 입으니 자연스럽고 이뻐요<br/>샤랄라하면서 치마, 바지에 모두 잘 어울릴만한<br/>소재가 얇은만큼 잘 비쳐서 다른옷이랑 받쳐입어야 하는데,<br/>앞카라 분분이 좀 애매해요.<br/><br/>예뻐요.<br/> 아이보리 색일 줄 알았는데, 밝은 노란빛이 많이 도네요.<br/> 그래도 구김없는 재질이고 찰랑찰랑 한 브라우스 느낌이라 고급지고 예쁩니다.<br/> 조끼랑 같이 코디하고 싶어서 조끼는 다른곳에서 따로 샀는데, 코디 해놓으니 예쁘네요^^<br/>옷 찾아보다가 이뻐보여서 주문했어요<br/>입어보니 생각보다 더 괜찮고, 팔 소매에 고무줄이있어서<br/>주문 색상은 아이보리인데, 정확히는 연한 레몬빛이 돌아요<br/>중국꺼는 거의 팔이 저한테는 짧아요.<br/><br/>집에 있는 흰 블라우스랑 비교해보니<br/>짧은 느낌이 있구요.<br/><br/>" 
+---

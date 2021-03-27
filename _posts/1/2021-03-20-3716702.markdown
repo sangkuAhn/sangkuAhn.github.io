@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "밥 한 그릇 뚝딱, 상상박스" 
+description: 밥 한 그릇 뚝딱, 상상박스 ..
+date: 2021-03-21 08:02:55 
+img: https://static.coupangcdn.com/image/vendor_inventory/12bd/d8dc297a362dbefd22847f06ecd13f610b1eb9ec7f2d1c54b00f2d89a51a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=3716702&itemId=18312293&vendorItemId=3026927310&traceid=V0-113-dd87b0c5fa894484 
+categories: [1019] 
+color: 35B62C 
+price: 8820 
+author: Ask View Shop 
+cont:  "10월달부터 독서 습관들이기위해 낱권으로 구입해서 다양한 책들을 읽고 있어요.<br/><br/>구매동기<br/>구매후기<br/>글자도 적당히 있어서 읽기 너무 편한것 같아요<br/>내용이 재밌더라구요 ㅋㅋㅋㅋ<br/>되어 있어요<br/>두께도 적당하고 그림체도 괜찮고 글밥도 적당해서 두아이들이 번갈아며 잘 읽습니다.<br/><br/>똑같은 그림책이길래 바로 구매했어요<br/>만족 100%에요^^<br/>받자마자  다읽었어요<br/>배송<br/>보다가 아이가 평소 편식을 하는데<br/>새벽배송으로 빠르게 받을수 있었어요<br/>생각나서 제목을 몰라서 쿠팡으로 검색하던중<br/>아들이  좋아합니다<br/>아이가 평소 편식이 심해서 그림 동화책을<br/>읽고싶다며 스스로 장바구니에 담은 책이랍니다<br/>읽어 주려고 구매했어요<br/>읽어 주면 더 친근감을 가지고 먹을것같아서<br/>장영란씨가 아이에게 동화책을 읽어<br/>재밌다고  전권 다샂  그랬냐고  <br/>주는 장면이 나왔는데 그림도 재미있고<br/>책표지에 문화체육 관광부 장관표창 받은책이라고<br/>택배오자 마자 열어서 보니 그림들이 너무 귀엽고<br/>티비 프로그램 금쪽같은 내새끼를<br/>흥미있게 보면서 즐거워 하던 장면이<br/>" 
+---

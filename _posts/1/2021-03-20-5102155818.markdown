@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "흔한남매 7, 아이세움" 
+description: 흔한남매 7, 아이세움 ..
+date: 2021-03-21 08:02:55 
+img: https://static.coupangcdn.com/image/retail/images/2021/03/02/15/3/dad887aa-33c6-4452-b877-cf2fc3bcafbb.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5102155818&itemId=6951429865&vendorItemId=74243882132&traceid=V0-113-e4c731386ad4d540 
+categories: [1019] 
+color: CF36BB 
+price: 10800 
+author: Ask View Shop 
+cont:  "둘째도 흔한남매책으로 한글떼려나봐요 ㅎㅎ<br/>로켓배송으로 빨리 구매하고 서점보다 저렴해서 너무 좋았어요<br/>만화책이라도 읽으니 얼마나 좋은지 모르겠어요 ㅎㅎㅎ<br/>배송도 빠르고, 포장꼼꼼하게 되어있는 상품으로 잘받았어요.<br/><br/>아이가 받자마다 포장뜯어서 잠잘때까지 옆에 끼고 자네요ㅎㅎ<br/>아이가 흔한남매책을 너무 좋아해서 매번 시리즈나올때마다 구매하고 있어요<br/>읽기편하게 만화로 되어있어서 책읽기 싫어하는 아이도 읽고 또 읽고 한권을 5번이나 읽었어요^^<br/>읽을때마다 재미있다고 소중하게 대하네요ㅋㅋ<br/>학교에 들고 다니면서 애들이 읽어요<br/>흔한남매 책으로 큰애 한글 공부 했는데 ㅋㅋㅋ<br/>" 
+---

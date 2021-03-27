@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "휠라 FORCE 21 샤코슈백 FS3BCD5302X" 
+description: 휠라 FORCE 21 샤코슈 ..
+date: 2021-03-21 06:08:24 
+img: https://static.coupangcdn.com/image/rs_quotation_api/2r2yhrqz/8f88acd4a0b346c88cefefc6b6b48e8a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4923216117&itemId=6454452757&vendorItemId=73654528972&traceid=V0-113-ff5227150f2e41e0 
+categories: [1002] 
+color: BD24A9 
+price: 26480 
+author: Ask View Shop 
+cont:  "가격대비 만족합니다 ㅎ<br/>가격도 정가보다 저렴히 사서 좋아요♡<br/>사이즈도 적당하고 실용적일것 같아요 ㅎ<br/>선물용으로 구매했어요<br/>일단 가볍고 아담해서 들고 다니기 편하네요.<br/><br/>재질도 가볍고 디자인도 과하지않은 기본 크로스백스타일이라 평상시 메고 다니기 좋을것같아요<br/>" 
+---
