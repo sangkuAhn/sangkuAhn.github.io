@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "세인트이브/ 배색 꾸안꾸 편안한 롱원피스" 
+description: 세인트이브/ 배색 꾸안꾸 편 ..
+date: 2021-03-29 06:01:12 
+img: https://static.coupangcdn.com/image/vendor_inventory/985a/be2fcf3fb93511cc96ad75e8e5a6666f13ef6a468d01e9f88d0bfc30a4e7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5050933456&itemId=6810914534&vendorItemId=74644829886&traceid=V0-113-a24b59030639656d 
+categories: [1001] 
+color: 03A9F4 
+price: 24000 
+author: Ask View Shop 
+---
+ 
