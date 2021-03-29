@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "나의 첫 번째 행성 이야기, 미래주니어" 
+description: 나의 첫 번째 행성 이야기, ..
+date: 2021-03-30 07:04:51 
+img: https://static.coupangcdn.com/image/retail/images/2021/03/22/18/3/c7cb1a9d-d4c5-4dbd-8a1c-e2d8ba2862d5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5225573804&itemId=7343941928&vendorItemId=74635153198&traceid=V0-113-258b83381e2398ca 
+categories: [1011] 
+color: 4374D9 
+price: 10800 
+author: Ask View Shop 
+---
+ 

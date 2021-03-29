@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "곰곰 국내산 흙당근, 1kg, 1봉" 
+description: 곰곰 국내산 흙당근, 1kg ..
+date: 2021-03-30 08:24:35 
+img: https://static.coupangcdn.com/image/retail/images/865274212709576-2cdbb751-fbee-4ff2-9fb4-f76a7d842407.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1771785217&itemId=3016815201&vendorItemId=71004989271&traceid=V0-113-282dc81e4c036823 
+categories: [1024] 
+color: BF360C 
+price: 2960 
+author: Ask View Shop 
+---
+ 

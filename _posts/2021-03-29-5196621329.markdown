@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "단디프레시 피멍게, 3kg, 1개" 
+description: 단디프레시 피멍게, 3kg, ..
+date: 2021-03-30 07:12:03 
+img: https://static.coupangcdn.com/image/retail/images/2021/03/17/11/5/74eb70ba-363e-424f-bebf-735ec92e49a0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5196621329&itemId=7231062780&vendorItemId=74522816859&traceid=V0-113-57a222040721cb2c 
+categories: [1012] 
+color: 9E9D24 
+price: 19800 
+author: Ask View Shop 
+---
+ 

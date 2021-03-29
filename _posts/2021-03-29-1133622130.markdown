@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "한양식품 꽃보다 오징어, 400g, 1개" 
+description: 한양식품 꽃보다 오징어, 4 ..
+date: 2021-03-30 08:24:35 
+img: https://static.coupangcdn.com/image/retail/images/614611861757319-42a92c92-c734-4886-a537-0e28b4cf3aa8.JPG 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1133622130&itemId=2102806273&vendorItemId=70101672862&traceid=V0-113-1533794f74eca414 
+categories: [1024] 
+color: A566FF 
+price: 24230 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "캠핑용 삼겹살 꾸러미, 1세트" 
+description: 캠핑용 삼겹살 꾸러미, 1세 ..
+date: 2021-03-30 07:12:03 
+img: https://static.coupangcdn.com/image/retail/images/2021/03/15/14/0/074dfbf4-9b01-41e8-9ec7-2d3a7c566c79.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5189730393&itemId=7201934689&vendorItemId=74493956841&traceid=V0-113-9680e87deba91237 
+categories: [1012] 
+color: FF1744 
+price: 29900 
+author: Ask View Shop 
+---
+ 
