@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "베베쿡 쌀쿵 쌀과자, 자색고구마, 단호박 혼합맛, 10개" 
+description: 베베쿡 쌀쿵 쌀과자, 자색고 ..
+date: 2021-03-31 07:04:49 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/01/28/3039738651/afbd1079-989f-4517-885e-b8592b4a6728.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=228716656&itemId=38579399&vendorItemId=3057506625&traceid=V0-113-70f16ff7bae73be9 
+categories: [1011] 
+color: A566FF 
+price: 8830 
+author: Ask View Shop 
+---
+ 
