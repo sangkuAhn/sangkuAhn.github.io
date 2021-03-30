@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "쿠마토, 1.2kg, 1팩" 
+description: 쿠마토, 1.2kg, 1팩 ..
+date: 2021-03-30 16:23:03 
+img: https://static.coupangcdn.com/image/retail/images/2265104046759385-54e7a7a5-6d3e-4e58-b50c-5c48ceb0ede0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4697180691&itemId=5911956948&vendorItemId=73210036214&traceid=V0-113-150d1ea2e21a2459 
+categories: [1024] 
+color: A566FF 
+price: 9280 
+author: Ask View Shop 
+---
+ 
