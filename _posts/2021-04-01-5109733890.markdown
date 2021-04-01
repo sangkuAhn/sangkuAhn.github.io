@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "국내산 취청오이, 3입, 1봉" 
+description: 국내산 취청오이, 3입, 1 ..
+date: 2021-04-01 16:23:58 
+img: https://static.coupangcdn.com/image/retail/images/91225145292014-939d7844-25e8-4193-8040-b330264b1963.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5109733890&itemId=6971235124&vendorItemId=74263628885&traceid=V0-113-4b5153cc2673ae0b 
+categories: [1024] 
+color: 03A9F4 
+price: 2430 
+author: Ask View Shop 
+---
+ 
