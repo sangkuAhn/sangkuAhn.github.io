@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "칼로바이 퍼펙트 파워쉐이크 컵타입 초코맛, 250ml, 10개" 
+description: 칼로바이 퍼펙트 파워쉐이크  ..
+date: 2021-04-01 07:48:36 
+img: https://static.coupangcdn.com/image/retail/images/2020/09/03/10/9/46239b9b-064e-41f3-badd-ec410b9cdbf7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2262194964&itemId=3877093212&vendorItemId=71861759015&traceid=V0-113-f4742f78fc99c9aa 
+categories: [1017] 
+color: A6A6A6 
+price: 12100 
+author: Ask View Shop 
+---
+ 

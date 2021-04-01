@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "해태 고향만두 (냉동), 2kg, 1개" 
+description: 해태 고향만두 (냉동), 2 ..
+date: 2021-04-01 07:12:22 
+img: https://static.coupangcdn.com/image/retail/images/688842676934332-614aef91-6f37-417e-8faf-0f7da8dd7a62.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=250831725&itemId=791940502&vendorItemId=5009687570&traceid=V0-113-bf753fb927b5750a 
+categories: [1012] 
+color: A6A6A6 
+price: 6920 
+author: Ask View Shop 
+---
+ 
