@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "삼익 리듬세트 NSR-24, 혼합 색상" 
+description: 삼익 리듬세트 NSR-24, ..
+date: 2021-03-28 08:16:47 
+img: https://static.coupangcdn.com/image/retail/images/2019/10/22/10/6/d7ac0bdc-15da-4967-8587-2f3f121dce63.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=324764679&itemId=1039747328&vendorItemId=5496729096&traceid=V0-113-37a554520d664594 
+categories: [1021] 
+color: 353535 
+price: 13930 
+author: Ask View Shop 
+cont:  "2만원 이라고... <br/><br/>가격대비 저렴해보이지 않고 퀄리티 괜찮아요.<br/><br/>너무 비싼듯하여<br/>노랑색 좋아하는데<br/>더 저렴한것들은 후기에 좀 별로란 말도 있어 조금 더 비싼제품으로 구입한건데 물건의 완성도도 그렇고 가방도 그렇고 만족합니다.<br/><br/>아이 학교 준비물로 급하게 주문했어요.<br/><br/>아이가 좋아하네요<br/>아이가 학교가서 잘하고 왔다네요^^<br/>아이도 좋아하고, 아이반에 같은 제품들이 많다고 하네요.<br/><br/>이름 잘 적어 보냈습니다.<br/><br/>첫째 초등학교 준비로 구매 했어요<br/>초2아이 준비물이라 구매했습니다.<br/><br/>커버가 노랑이라 좋데요<br/>쿠팡 주문 했어요<br/>탬버린안에 쏙 들어가는것도 좋고,<br/>학교앞 문구점은 비닐포장이<br/>" 
+---

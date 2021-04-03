@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "파뿌리24 1권, 겜툰" 
+description: 파뿌리24 1권, 겜툰 ..
+date: 2021-04-03 07:04:53 
+img: https://static.coupangcdn.com/image/retail/images/2021/03/31/10/2/aec2bf9e-553a-49ec-9cc0-1356a67ce2ee.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5267657003&itemId=7499709388&vendorItemId=74790471811&traceid=V0-113-548ccb212e3e65a4 
+categories: [1011] 
+color: 4374D9 
+price: 10800 
+author: Ask View Shop 
+---
+ 

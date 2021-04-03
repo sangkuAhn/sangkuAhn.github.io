@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "카카오프렌즈 스케이트보드, 라이언" 
+description: 카카오프렌즈 스케이트보드,  ..
+date: 2021-03-29 08:09:41 
+img: https://static.coupangcdn.com/image/retail/images/63719945541227-5b4f4570-560e-416e-91f1-bb1b0afddff3.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=216744956&itemId=666556215&vendorItemId=4722925451&traceid=V0-113-ce11a2538964ce5d 
+categories: [1020] 
+color: 4A148C 
+price: 50740 
+author: Ask View Shop 
+cont:  "모양도 너무 예쁘고, 깔끔하니 좋습니다.<br/><br/>아이가 귀엽다고 좋아합니다.<br/> 세일때 사서 가격대비 무난한것같습니다.<br/><br/>아이가 아주 좋아합니다.<br/><br/>이게 뭔가요.<br/> 아이가 너무나 기다려 로켓와우 한건데 물건 뜯어보니 나무조각이 뜯어져 나간곳 검정색으로 덕지덕지 처리 한 것으로 보이네요.<br/>.<br/> 왠만하면 너무기다려 타려했는데 주말이고해서... <br/>.<br/>.<br/>참 실망스럽네요.<br/><br/>초등학생이 타기에 딱 좋은 크기라 생각합니다.<br/><br/>탄탄한 느낌으로 내구성도 괜찮을듯 합니다.<br/><br/>" 
+---

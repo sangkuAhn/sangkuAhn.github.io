@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아디다스 팔콘 F36209" 
+description: 아디다스 팔콘 F36209 ..
+date: 2021-03-29 14:08:21 
+img: https://static.coupangcdn.com/image/rs_quotation_api/yq6gromc/4160c1c363d64fb180f57ba44c28f3f2.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4581940013&itemId=5617040027&vendorItemId=72916227347&traceid=V0-113-84ff7ccb911772ab 
+categories: [1002] 
+color: D9418C 
+price: 40690 
+author: Ask View Shop 
+cont:  "아이가 너무 좋아합니다.<br/><br/>운동화를 신으면 앞쪽에 주름이감<br/>잘 신기고 있습니다.<br/><br/>편하고 좋다고해요 디자인도 맘에들고 컬러도 맘에들어요<br/>" 
+---

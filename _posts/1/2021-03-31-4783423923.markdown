@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "델몬트 바나나 2종 세트, 1세트" 
+description: 델몬트 바나나 2종 세트,  ..
+date: 2021-03-31 16:23:21 
+img: https://static.coupangcdn.com/image/retail/images/2021/01/11/18/6/83f92850-bd21-4038-aa1b-1c2ddb02c1f3.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4783423923&itemId=6119987808&vendorItemId=73416296319&traceid=V0-113-a5cbafcbd6c71c93 
+categories: [1024] 
+color: CF36BB 
+price: 8900 
+author: Ask View Shop 
+cont:  "45일에 먹기 딱 좋아요.<br/><br/>그냥 먹어도 맛있어요<br/>노란색 바나나 다 먹고나는 시점에는 초록색 바나나가 노랗게 익어서<br/>맛있는데 덜익은 바나나는 한 70퍼센트 정도 익어서 왔네요<br/>먹는 일주일 동안 썩어서 버리거나 냉동실에 넣어야 하지 않아도 되서 일주일 내내 싱싱하고 달콤한 바나나 먹을 수 있어요.<br/><br/>익은거와 안익은거가 오는데 익은 쪽은 까보니 세개가 속이 꺼멓고 안익은 쪽은 겉부터 두개가 상해있어요.<br/> 싼게 비지떡인가봅니다... <br/><br/>일주일에 한번정도만 바나나 주문하면 딱 좋을 거 같아요!<br/>점심대용으로 우유에 바나나 갈아먹으니 맛있습니다<br/>필요할때마다 로켓프레시 주문하기 번거로웠는데<br/>한송이는 노란색, 한송이는 초록색입니다.<br/><br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "엑소 복사용지 75g, A4, 1000매" 
+description: 엑소 복사용지 75g, A4 ..
+date: 2021-03-31 08:16:44 
+img: https://static.coupangcdn.com/image/rs_quotation_api/sa80vgis/b9eeb52ea1c2467a9619c29424caa942.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4386972398&itemId=5195032458&vendorItemId=72504228822&traceid=V0-113-217df3e4a5dc5c21 
+categories: [1021] 
+color: FF6F00 
+price: 9200 
+author: Ask View Shop 
+cont:  "너무 좋습니다<br/>비 와서 배송 올 때 배송 박스가 살짝 젖어 있길래 걱정했는데 내용물은 뽀송하니 좋아요.<br/><br/>스케치북 감당안될때 딱 이에요<br/>싸인펜으로 그려도 뒷장 또 그릴수있는정도 견고함있구요<br/>안얇다는 후기보고 샀는데 확실히 얇아요.<br/> 사무실에서 보던 두껍고 질좋은 a4 용지와는 확실히 차이가 나요.<br/> 그래도 저렴한 맛에 편하게 집에서 뽑기에는 안성맞춤입니다만... <br/> 80그램짜리와 같은 두께로 생각하고 구입하실까봐 후기를 남깁니다.<br/><br/>용지도 하옇고 두께도 적당합니다.<br/> 앞뒤면 검은색 프린트(삼성 j1660 같이 사서 시험중)할 때 울지 않고 잘 나와요.<br/> 다만 잉크 탓인지 칼라, 그것도 범위가 넓은 그림 같은걸 프린트 할 때에는 조금 우는 경향이 있습니다.<br/> 잉크도 살짝 뜨고요.<br/><br/>적당한 얇기와 착한 가격<br/>하루에 그림 20장씩 ㅅ그리는 딸때문에 구매했어요<br/>하지만 애초에 그런 칼라 프린트를 할 일이 없는 저한텐 딱입니다.<br/> 깔끔해요.<br/><br/>" 
+---
