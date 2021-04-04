@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "대우 와플메이커 3 in 1 분리형" 
+description: 대우 와플메이커 3 in 1 ..
+date: 2021-04-05 07:19:13 
+img: https://static.coupangcdn.com/image/retail/images/2017/04/12/10/6/0c79e2a6-36d9-4dce-97b8-6dc676a81a4c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4389265769&itemId=5200010004&vendorItemId=3125456853&traceid=V0-113-29c4607e9ddbe33b 
+categories: [1013] 
+color: A566FF 
+price: 30400 
+author: Ask View Shop 
+---
+ 
