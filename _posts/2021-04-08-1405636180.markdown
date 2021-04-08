@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "삼성전자 25W 초고속 PD 배터리팩 10 000mAh C타입, EB-P3300" 
+description: 삼성전자 25W 초고속 PD ..
+date: 2021-04-09 07:40:54 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/18/18/6/595c6a2b-cd2c-4edc-ada6-8c70d43ccb7f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1405636180&itemId=2440991420&vendorItemId=70434769901&traceid=V0-113-1a39049c15dd5cd4 
+categories: [1016] 
+color: F15F5F 
+price: 29800 
+author: Ask View Shop 
+---
+ 
