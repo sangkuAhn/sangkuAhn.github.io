@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "캐럿 여성 옥스퍼드 컴포트핏 셔츠" 
+description: 캐럿 여성 옥스퍼드 컴포트핏 ..
+date: 2021-04-08 06:01:12 
+img: https://static.coupangcdn.com/image/retail/images/721495890000588-56653842-b5a1-45cb-aaa6-bf9907b08674.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4699388288&itemId=5916240334&vendorItemId=73214284936&traceid=V0-113-dac7bce46fa20db4 
+categories: [1001] 
+color: FF6F00 
+price: 13900 
+author: Ask View Shop 
+---
+ 
