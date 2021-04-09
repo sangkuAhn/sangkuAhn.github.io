@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "핑크퐁 사운드북 동요패드, 삼성출판사" 
+description: 핑크퐁 사운드북 동요패드,  ..
+date: 2021-04-10 08:02:29 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/01/29/3013990738/75c8f857-1de7-4c3f-ab9f-504ea54efbdb.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2129334&itemId=9650332&vendorItemId=3013990738&traceid=V0-113-705f17cb1c23c94e 
+categories: [1019] 
+color: 1294AB 
+price: 17320 
+author: Ask View Shop 
+---
+ 
