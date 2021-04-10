@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "에티오피아 아리차 G-1 원두, 홀빈(분쇄안함), 1kg" 
+description: 에티오피아 아리차 G-1 원 ..
+date: 2020-12-29 07:13:14 
+img: https://static.coupangcdn.com/image/retail/images/2020/12/16/15/1/104c158a-dba5-433f-be31-a479b3929d6d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4624913492&itemId=5736831382&vendorItemId=73035528921&traceid=V0-113-ae987384b4cc4981 
+categories: [1012] 
+color: 5A8DF3 
+price: 30600 
+author: Ask View Shop 
+cont:  "맛있어요.<br/> 먹을 만합니다<br/>신선한 원두에서만 느낄수 있는 산미와 향이 좋아요.<br/><br/>예약한 날짜에 정확히 도착했어요.<br/><br/>" 
+---

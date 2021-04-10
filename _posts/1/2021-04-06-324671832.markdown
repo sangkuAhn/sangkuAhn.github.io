@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "엑셀 배우기 교육 기초 실무 USB 책 교재 보다 좋은 강좌" 
+description: 엑셀 배우기 교육 기초 실무 ..
+date: 2021-04-07 08:02:26 
+img: https://static.coupangcdn.com/image/vendor_inventory/4ed9/8d7be9c7c3e983c21dd3646d21269df1264274231784248d9106a1e30ad0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=324671832&itemId=1039373570&vendorItemId=5496124825&traceid=V0-113-267e642cd16eb03a 
+categories: [1019] 
+color: A566FF 
+price: 22800 
+author: Ask View Shop 
+cont:  "좋아요 좋아요<br/>지금 공부 중이고 아직 다 해보진 않았지만 끝까지 해보고 업무에 응용 할 수 있는지 확인 후에 추가로 상품평 남겨볼게요<br/>집에서 혼자 해보고 있어요 잘 산거 같아요!<br/>책 보기 싫은분즐 그냥 유튜브나 인강 본다고 생각하시고 구매해서 보세요 잘 만들었어요<br/>" 
+---

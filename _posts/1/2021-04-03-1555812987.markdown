@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "네스카페 돌체구스토 아메리카노 캡슐커피, 7.9g, 48개" 
+description: 네스카페 돌체구스토 아메리카 ..
+date: 2021-04-04 07:19:19 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/26/14/2/6aa2da6b-6a19-4f67-b17d-c0760a1e5c23.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1555812987&itemId=2660947522&vendorItemId=70651553910&traceid=V0-113-2f0a2b446c616f2c 
+categories: [1013] 
+color: 353535 
+price: 22950 
+author: Ask View Shop 
+cont:  "൬<br/>꾸준히 먹던 제품이에요.<br/> 가격도 좋고 더워지니 아아가 땡기더라구요 배송도빠르고  아주만족요<br/>매번 마트로 제품구매하다가 쿠팡으로 더 저렴한 가격에 맛있는 커피 마시고 있습니다.<br/> 재구매 의사 있습니다<br/>얼음 가득에 요거 내려마심 카페가 따로 없어요<br/>제일 사랑하는 캡슐 입니다<br/>" 
+---

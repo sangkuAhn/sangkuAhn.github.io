@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아이유 - LOVE POEM 5집 미니앨범, 1CD" 
+description: 아이유 - LOVE POEM ..
+date: 2021-04-06 08:02:26 
+img: https://static.coupangcdn.com/image/retail/images/2019/11/07/22/2/dab1a32b-4f8a-412d-b0cc-7ae41b103faf.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=334188510&itemId=1066819741&vendorItemId=5551973252&traceid=V0-113-0612e37faf0c49eb 
+categories: [1019] 
+color: 5A8DF3 
+price: 14900 
+author: Ask View Shop 
+cont:  "27시간 34분만에왔어요... <br/>.<br/> 그래서 이쁘고 약간 책느낌이 나네요ㅎ<br/>아아아으아라가가라아아ㅏ가ㅏ아악 너무이뻐여 그냥 이뻐여.<br/>.<br/>그리고 좀빨리받고싶어서 쿠팡에서 샀는데 제주도인데도<br/>아이가 아이유를 엄청 좋아하는데 크리스마스 선물로 구매했어요 아주 좋아하네요<br/>왔을때 너무 좋았고 뒷쪽에 하자가 약간 있는걸 감안하면 좋은 구매였어요<br/>" 
+---
