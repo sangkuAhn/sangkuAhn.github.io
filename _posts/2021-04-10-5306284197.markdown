@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "괴물 2, 북로그컴퍼니" 
+description: 괴물 2, 북로그컴퍼니 ..
+date: 2021-04-11 08:02:25 
+img: https://static.coupangcdn.com/image/rs_quotation_api/l0th0nc8/0b563a2425ea43b6806f791ec32dba59.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5306284197&itemId=7674904454&vendorItemId=74965225913&traceid=V0-113-826ba5a7bf680f6d 
+categories: [1019] 
+color: A566FF 
+price: 16200 
+author: Ask View Shop 
+---
+ 

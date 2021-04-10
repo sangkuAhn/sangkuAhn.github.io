@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "괴물 1, 북로그컴퍼니" 
+description: 괴물 1, 북로그컴퍼니 ..
+date: 2021-04-11 08:02:25 
+img: https://static.coupangcdn.com/image/rs_quotation_api/uqiksrr4/a61e37567d2246309249e12bb412fdf4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5306284191&itemId=7674904436&vendorItemId=74965225855&traceid=V0-113-0520e3f22bd97bb6 
+categories: [1019] 
+color: BF360C 
+price: 16200 
+author: Ask View Shop 
+---
+ 
