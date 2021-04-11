@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "인스타360 액션캠 ONE X2" 
+description: 인스타360 액션캠 ONE  ..
+date: 2021-04-11 15:40:33 
+img: https://static.coupangcdn.com/image/retail/images/2021/03/30/18/4/98fb447d-6e7c-426f-93de-a34f2e22902b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5264341602&itemId=7486172895&vendorItemId=74776958026&traceid=V0-113-a0917e7849947653 
+categories: [1016] 
+color: F15F5F 
+price: 599000 
+author: Ask View Shop 
+---
+ 

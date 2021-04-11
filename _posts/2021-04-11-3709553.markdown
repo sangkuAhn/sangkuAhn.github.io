@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "차트분석 무작정 따라하기:60만 독자가 인정한 주식 1등 저자의 책, 길벗" 
+description: 차트분석 무작정 따라하기:6 ..
+date: 2021-04-11 16:02:06 
+img: https://static.coupangcdn.com/image/vendor_inventory/28b8/4926aecce37493714644bc51f574c264228e252db1f5f7cb2630f4088da0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=3709553&itemId=18267885&vendorItemId=3042542110&traceid=V0-113-85187fcb871c8717 
+categories: [1019] 
+color: 03A9F4 
+price: 22500 
+author: Ask View Shop 
+---
+ 
