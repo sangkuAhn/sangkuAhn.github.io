@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "몽베스트 생수, 2L, 24개" 
+description: 몽베스트 생수, 2L, 24 ..
+date: 2021-04-13 07:12:02 
+img: https://static.coupangcdn.com/image/retail/images/63207474569123-082d82a6-63ad-49c8-bdac-37023482bedb.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4683535861&itemId=5622377053&vendorItemId=72921550416&traceid=V0-113-50ccda1736b1e161 
+categories: [1012] 
+color: f44336 
+price: 15010 
+author: Ask View Shop 
+---
+ 
