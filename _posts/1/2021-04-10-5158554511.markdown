@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "애플망고샵 플래닛 롱박스티셔츠 간절기 빅사이즈 반팔 라운드 루즈핏 캐주얼" 
+description: 애플망고샵 플래닛 롱박스티셔 ..
+date: 2021-04-11 06:01:13 
+img: https://static.coupangcdn.com/image/vendor_inventory/436e/8f41ad9ac1f4dadca64874f60696907f6181b968e167f3ad6d20d7ee358b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5158554511&itemId=7098128529&vendorItemId=74390071062&traceid=V0-113-94c872645152eadb 
+categories: [1001] 
+color: A6A6A6 
+price: 15000 
+author: Ask View Shop 
+cont:  "너무 이쁘고 박시하고.<br/>.<br/> 아주 좋아요!!!<br/>샤방샤방 이뻐요  레깅스에 딱이예요<br/>양쪽트임사이드 바느질이 맘에안듬<br/>이런 상품 파는곳은 저장해두고 두고두고 자주 방문하고 싶네요<br/>" 
+---

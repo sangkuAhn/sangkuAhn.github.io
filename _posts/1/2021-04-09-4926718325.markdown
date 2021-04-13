@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "생활을그리다 라텍스 위생장갑 M(중형), 1개, 100개입" 
+description: 생활을그리다 라텍스 위생장갑 ..
+date: 2021-04-10 07:19:17 
+img: https://static.coupangcdn.com/image/retail/images/582569525445463-56949318-571b-476f-939a-79879603d5bc.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4926718325&itemId=6467076205&vendorItemId=73761469888&traceid=V0-113-0f1b70af3425fe3e 
+categories: [1013] 
+color: A57F92 
+price: 17570 
+author: Ask View Shop 
+cont:  "제가 꼭 물건 주문하면 2박스중 한박스 모서리가 꼭 찌그러져서 와서 조금 속상하긴하지만 질은 좋은거같아서 별5개는 드려요.<br/><br/>조리실 사용으로 구매한건데 잘 사용하겠습니다.<br/><br/>좋아요<br/>청소할때 쓰려고 구매했는데 생각보다 잘 늘어나고 좋아요.<br/><br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "전복 선물세트, 1kg(8미), 1개" 
+description: 전복 선물세트, 1kg(8미 ..
+date: 2020-09-04 15:12:26 
+img: https://static.coupangcdn.com/image/retail/images/2020/08/07/18/2/ca7196f6-bcd3-40b1-984d-9d7e035a12e1.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1940566875&itemId=3294516748&vendorItemId=71281466493&traceid=V0-113-b9789264ca946438 
+categories: [1012] 
+color: CF36BB 
+price: 67000 
+author: Ask View Shop 
+cont:  "10명이서 먹는데 양이 넉넉해서 맛있게 먹고 남았어요<br/>2개 주문하고<br/>남은건 전복죽 끓여먹어야겠네요<br/>비싼것이 크고 맛있네요.<br/><br/>싱싱하고 크기도 너무좋아요<br/>엄마 생신 선물로 준비한건데<br/>오돌오돌 맛있어요.<br/><br/>장모님댁 보내드렸는데 정말 싱싱하고 깨끗해서 좋아하셨습니다<br/>정성껏 손질해 잘먹었습니다.<br/><br/>하나가 손바닥만 합니다.<br/>애들<br/>" 
+---
