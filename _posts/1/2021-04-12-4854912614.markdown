@@ -9,5 +9,5 @@ categories: [1017]
 color: 4CAF50 
 price: 13000 
 author: Ask View Shop 
+cont:  "기대한 것보다 편하고 예쁘네요.<br/> 요즘 입기 딱 좋아요<br/>" 
 ---
- 
