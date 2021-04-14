@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "푸쉬팝, 팔각형" 
+description: 푸쉬팝, 팔각형 ..
+date: 2021-04-15 08:10:12 
+img: https://static.coupangcdn.com/image/vendor_inventory/fb7c/37e5bbdb8f889c18715feafef004b7a914c3f8ed3281c807634ab21d55d4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5202412860&itemId=7253615795&vendorItemId=75033042381&traceid=V0-113-2f9bf246d8b01969 
+categories: [1020] 
+color: D9418C 
+price: 4190 
+author: Ask View Shop 
+---
+ 
