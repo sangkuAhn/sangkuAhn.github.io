@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "삼성전자 데스크탑5 DM500TCA-A58A (i5-10400), WIN10 Home, RAM 8GB+8GB, NVMe 256GB" 
+description: 삼성전자 데스크탑5 DM50 ..
+date: 2021-04-18 07:42:49 
+img: https://static.coupangcdn.com/image/retail/images/2020/10/29/15/9/6270d222-4aa7-47f2-8556-7a648ea34976.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1956541788&itemId=3998046082&vendorItemId=71982325273&traceid=V0-113-66b8653bb8f3d811 
+categories: [1016] 
+color: F361A6 
+price: 1026260 
+author: Ask View Shop 
+---
+ 
