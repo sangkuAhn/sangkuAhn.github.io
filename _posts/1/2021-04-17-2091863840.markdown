@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "캐럿 데일리 밴딩 슬랙스" 
+description: 캐럿 데일리 밴딩 슬랙스 ..
+date: 2021-04-18 06:09:37 
+img: https://static.coupangcdn.com/image/retail/images/88630939908023-744d6a06-a2fe-4b3b-96b7-97ae770f4988.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2091863840&itemId=3553362905&vendorItemId=71539270030&traceid=V0-113-8b81a2bb9eda54c3 
+categories: [1002] 
+color: 353535 
+price: 13900 
+author: Ask View Shop 
+cont:  "곧 여름이니까 짧게입는다고 생각하면 괜찮을듯요<br/>다음엔 어차피 밴딩이라 36사면 딱맞을듯<br/>복숭아뼈 너무위로 올라옴ㅜㅜ<br/>키 172에 32사이즈 선택해 구매했는데 허리는 딱 맞는데 다리길이가 조금 짧아서 5센치만 길어두 완벽했는데ㅋ원단이 앏은원단이라 지금 입기에 딱좋은거같아요.<br/>스판기는 많이 없는편이지만 입으니 운동복입은것처럼 편하다고하네요^^<br/>폴리 레이온 혼방/조금 까슬한 느낌에 안맞으시는 분은 비추합니다!대신 여름 경우에는 땀 흡수가 덜해서 빨리마르겠네요.<br/><br/>품질은.<br/>.<br/> 가격대 고려하면 만족스럽습니다.<br/> 품질의 경우에도 부자재 마감이 가격을 생각하면 만족스럽습니다.<br/><br/>" 
+---

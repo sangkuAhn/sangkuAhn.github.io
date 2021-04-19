@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "카카오프렌즈 헬로 장우산" 
+description: 카카오프렌즈 헬로 장우산 ..
+date: 2021-04-17 06:08:25 
+img: https://static.coupangcdn.com/image/vendor_inventory/b6dd/8fec5b04a9539d769420a93e4ffdd3a52be0abe39f0fb5a045f17035d9bf.JPG 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4852697576&itemId=6285651647&vendorItemId=73356567618&traceid=V0-113-e8e4edc236efa894 
+categories: [1002] 
+color: FF6F00 
+price: 15000 
+author: Ask View Shop 
+cont:  "너무 예뻐요  잘 쓰겠습니다<br/>애가 쓰기엔 좀 큰거 같지만 그래도 넘 이쁘네요^^<br/>우산이 없어서 하나 주문했는데<br/>이뻐요 냄새조금나요.<br/> 근데금방없어질것같아요<br/>" 
+---
