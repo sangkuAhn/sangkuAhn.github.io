@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "애플망고샵 항아리 팬츠 바지" 
+description: 애플망고샵 항아리 팬츠 바지 ..
+date: 2021-04-15 06:01:13 
+img: https://static.coupangcdn.com/image/vendor_inventory/e8a8/7085e80e2dc968c4afa412f9f96d6c99db91f20d4df435f5f8dd4708253a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5117516992&itemId=6990624704&vendorItemId=74282923530&traceid=V0-113-e4b87023d28484a3 
+categories: [1001] 
+color: 03A9F4 
+price: 15000 
+author: Ask View Shop 
+cont:  "159/64<br/>가성비 대비 최고 입니다.<br/><br/>간편한 외출시에두 괜찬을거 같아요<br/>그건 가위로 정리하면 되고요,<br/>그냥은 도저히 못입겠더라구요ㅠㅠ<br/>근데  이아인 넘 맘에들어요.<br/><br/>다른색상으로 하나더 구매하고프네요^^<br/>맘에 드는옷이 아니라 몸에 맞는옷을<br/>무엇보다 편해서 좋네요<br/>비닐을 벗기자마자 냄새가 너무 심해서<br/>세탁기에 세탁후엔 냄새가 없어져서<br/>세탁후  입었더니 괜찮아요<br/>솔직히 별 기대안하고 샀어요.<br/><br/>실밥처리가 조금 안되어있지만<br/>일단<br/>지금 잘 입고있습니다<br/>집에서 편하게 입을려고 구매한건데... <br/><br/>찾아야 하는  몸매이다보니ㅠ<br/>쿠팡검색하다 리뷰보고 구매.<br/> 바지는 넘편하고 좋아요 다른 컬러도 추가  구매했는데 세탁후에 착용해봐야겠어요 받고 바로 착용했는데 피부가 빨갛고 오돌오돌 부풀었네요.<br/> 왜그런건지 원단염색문제인지  그래서 별하나 뺐어요<br/>피부 예민하신분들은 꼭 세탁후 착복하세요<br/>핏도 예쁘고 너무 편해요.<br/> ㅎㅎ<br/>항아리모양이 여성스러운면서  귀엽구여,,,<br/>" 
+---

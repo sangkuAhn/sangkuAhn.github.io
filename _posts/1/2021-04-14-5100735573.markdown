@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "다산어린이/흔한남매 불꽃 튀는 우리말 1 - 초등 국어 고수 되기 프로젝트, 다산어린이" 
+description: 다산어린이/흔한남매 불꽃 튀 ..
+date: 2021-04-14 16:03:01 
+img: https://static.coupangcdn.com/image/retail-product-api/A00077021/49005681/53849854/main/9791130635712_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5100735573&itemId=6948672412&vendorItemId=74014410444&traceid=V0-113-2c41e8040932f49a 
+categories: [1019] 
+color: CF36BB 
+price: 11700 
+author: Ask View Shop 
+cont:  "8세 아들 넘나 좋아하고 공부도 되고 좋네요.<br/><br/>그보다 행복한 건 없겠지요.<br/><br/>나왔다 하길래 보게 됐고 갖고싶다 하길래<br/>더 좋은 것 같아요.<br/> 사자성어, 속담을 만화처럼<br/>도움이 될것 같아요.<br/><br/>따라쓰기 책도 주셨더라구요.<br/><br/>딸아이가 이 책을 보면서 하나라도 더 알게된다면<br/>딸아이가 젤 좋아하는 흔한남매 새로운 책이<br/>만화글이고 속담 사자성어 등 우리말 공부에<br/>보면서 재미있게 공부할 수 있으니 정말<br/>아이가 좋아해요<br/>이번엔 공부에 더 도움될 수 있는 내용이라<br/>잘 샀다 생각이 들었네요.<br/><br/>잠시 고민하다 주문했어요.<br/><br/>흔한남매 신상 나오면 바로 사요!<br/>" 
+---
