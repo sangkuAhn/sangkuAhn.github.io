@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "기화 순삭펜 10p + 리필 200p 0.5mm, 흑청색, 1세트" 
+description: 기화 순삭펜 10p + 리필 ..
+date: 2021-04-21 08:15:01 
+img: https://static.coupangcdn.com/image/rs_quotation_api/i08ob3hn/508a7edeb7274caab5eccf5ddcd6fec4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4796626231&itemId=6152664216&vendorItemId=73448886582&traceid=V0-113-14f5f50d448f816e 
+categories: [1021] 
+color: A566FF 
+price: 10500 
+author: Ask View Shop 
+cont:  "기화펜 학생한테 진짜 추천해요!!!! 암기과목 쓰면서 외울때나 수학문제,자이스토리 풀 때 되게 추천해요.<br/> 그런데 생각보다 되게 일찍 지워져요... <br/>참고 하시길 바랄게요!!<br/>상품설명을 분리되는 곳을 안써놓으면 어떡하라는 거지 ㅠㅠ<br/>색상 청색<br/>이 제품은 아닌거 같은데 다른 중국산 기화펜에 냄새가 좀 심하다는 리뷰가 있어서 그냥 일제 기화펜 썼었는데 싸인펜 같은 타입이라 너무 펜 자체가 잠깐 열어둬도 펜에 있는 잉크도 기화되는 느낌이라 빨리 기능을 잃기도 하고 비싸서 로켓배송으로 오니까 한번 써봐야겠다하고 주문해봤는데 기회되는데에 하루정도는 걸릴줄 알았는데 더블에이 a4용지에는 길면 6시간? 정도 걸리는가 같네요 냄새도 따로 안나고 리필 200개나 들어있어서 나눔 좀 하구 열심히 써보려구욯ㅎ 펜 껍데기가 막 기스나있는거도 있고 싼티나긴한데 싼건 맞고 부드럽게 잘 써지니까 막 사용하기 좋은거 같아욥<br/>종이따라서 마르는 속도가 다름<br/>코팅종이가 잘 날아감<br/>" 
+---

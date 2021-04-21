@@ -9,5 +9,5 @@ categories: [1020]
 color: 1294AB 
 price: 81810 
 author: Ask View Shop 
+cont:  "조카 선물로 구입했는데 좋아하네요^^<br/>" 
 ---
- 
