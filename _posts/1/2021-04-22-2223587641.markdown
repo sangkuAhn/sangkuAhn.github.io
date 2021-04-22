@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "이힝 마가렛 프릴소매 맨투맨" 
+description: 이힝 마가렛 프릴소매 맨투맨 ..
+date: 2021-04-22 14:01:04 
+img: https://static.coupangcdn.com/image/vendor_inventory/8684/ff54e53c33f3e9b86b0d116b5bdbffcf2bb6f387116c3cc1727b22748a7c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2223587641&itemId=3792081104&vendorItemId=71777093309&traceid=V0-113-fe525f3286650092 
+categories: [1001] 
+color: FF1744 
+price: 14800 
+author: Ask View Shop 
+cont:  "77입는데 잘맞아요<br/>면도 갠찬코 나름 기요미필 ㅋ<br/>옷 너무 예뻐요 다음에도 옷살때 이힝이 생각날것 같아요<br/>옷 보내고 문자도 보내주시고 너무 감사해요!^^<br/>잘입을께요!^^<br/>저렴한 가격에 득템한거 같아요.<br/>저번주말에 쇼핑센터가서 티사왔는데.<br/>가격만 비싸지 쿠팡상품이 훨씬 좋네요<br/>한철 예뿌게 입겟네요  굿<br/>흰색 샀다가 너무 예뻐 검정색도 구매했어요.<br/>첨에 로켓배송이라 맘에 안들면 반품해야지.<br/>하고 주문했는데.<br/>원단도 좋고.<br/>소매가 너무 예쁘네요티인데도 여성스럽기도 하구요핑크가 있으면 좋으련만 품절이라.<br/>.<br/>검정색 샀구요그래도 안에 입기엔 밝은색이 좋은거 같고.<br/>좀더 따뜻해지면 검정색 티 하나만 입고 다녀도 너무 예쁠거 같아요빨아봤는데.<br/>원단 부드럽고<br/>" 
+---
