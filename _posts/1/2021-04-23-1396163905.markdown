@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "이스트루트 심플 캐릭터 라운드티 오버핏 반팔 티셔츠" 
+description: 이스트루트 심플 캐릭터 라운 ..
+date: 2021-04-23 14:01:04 
+img: https://static.coupangcdn.com/image/vendor_inventory/0a2c/3ecfa76f3a2316f4e123c001dacbfc25d52eac2ac769db1618f20f0d5097.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1396163905&itemId=2431572280&vendorItemId=74989109068&traceid=V0-113-d2c65aafd6afce33 
+categories: [1001] 
+color: FF6F00 
+price: 5000 
+author: Ask View Shop 
+cont:  "110정도 입니다<br/>너무 잘맞아요<br/>땡큐 입니다<br/>싸이즈 잘보고 선택하세요<br/>예뻐요<br/>옷감 느낌도 참좋네요<br/>이건 큰싸이즈옷입니다<br/>좋아요<br/>큰싸이즈옷이라<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "애플망고샵 빅사이즈 엘에이 오버핏 후드집업" 
+description: 애플망고샵 빅사이즈 엘에이  ..
+date: 2021-04-23 06:01:05 
+img: https://static.coupangcdn.com/image/vendor_inventory/b423/c5b5c423183fdcf5a7ace245a6ddef1ef39e88989dba40c2b6600932370e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4898495530&itemId=6388876275&vendorItemId=73683874983&traceid=V0-113-a3bcc1380c898736 
+categories: [1001] 
+color: BF360C 
+price: 25900 
+author: Ask View Shop 
+cont:  "기분 좋게 입고 다닙니다<br/>루즈하게 입으려고 한사이즈 크게 주문했고<br/>봄에 그냥 입고 나가기 좋아여 그리고 이거 엄청 커요<br/>생각보다 작아요 55까지는 박시하게입을꺼같은데 66부터는 좀 그런 박시느낌은 아닌듯해요  그냥 작은느낌보단  박시한걸좋아해서 작게느끼는것뿐<br/>얇아요 진짜 얇아요 그냥 면 티 입은거같음 ㄹㅇ<br/>엄청 얇은데 레깅스나 그냥 티 입고 대충나갈때나<br/>요즘 날씨에 딱 맞는 옷이에요.<br/><br/>좋아요<br/>" 
+---
