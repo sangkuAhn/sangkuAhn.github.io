@@ -9,5 +9,5 @@ categories: [1018]
 color: 43A047 
 price: 39800 
 author: Ask View Shop 
+cont:  "아직 미사용 ㅎ 다음에도 살께요 <br/>" 
 ---
- 
