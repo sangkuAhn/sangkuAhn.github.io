@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "쿠팡 직수입/ 샤오미 Mi 스마트 선풍기 Pro" 
+description: 쿠팡 직수입/ 샤오미 Mi  ..
+date: 2021-04-25 07:39:46 
+img: https://static.coupangcdn.com/image/retail/images/2021/03/29/16/5/cf055cf2-37b7-402b-a529-8d8d5cf31c40.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5258393686&itemId=7465245725&vendorItemId=74756094526&traceid=V0-113-f36cb4482ddb8d4f 
+categories: [1016] 
+color: CF36BB 
+price: 96440 
+author: Ask View Shop 
+---
+ 
