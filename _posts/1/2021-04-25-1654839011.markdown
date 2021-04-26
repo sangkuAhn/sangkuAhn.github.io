@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "네스프레소 바리스타 크리에이션 캐러멜향 크렘브륄레 커피, 5g, 10개" 
+description: 네스프레소 바리스타 크리에이 ..
+date: 2021-04-26 07:18:25 
+img: https://static.coupangcdn.com/image/retail/images/2020/06/02/18/8/de914b7a-21b3-4a33-b151-ad958abcd4d3.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1654839011&itemId=2819259221&vendorItemId=70808748481&traceid=V0-113-5711b48b96c4d42b 
+categories: [1013] 
+color: D9418C 
+price: 8280 
+author: Ask View Shop 
+cont:  "굿굿 마싯어용 히히 네스 호환되서 더 좋구<br/>다른거에 비해 저렴해서 상품평도 좋길래 구매 했다요<br/> -)<br/>순한 커피 찾는 중에 눈에 띄인,<br/>저에게는 딱 좋네요<br/>캐러멜향은 아주 살짝 나는 정도랍니다<br/>평소 주로 스타벅스 캡슐만 마셨는데 향이 좋다고 해서 사봤습니다.<br/><br/>향이 좋습니다.<br/> 맛도 괜찮아요.<br/> 종종 마셔봐야겠습니다.<br/><br/>" 
+---

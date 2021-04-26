@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "스타벅스 싱글 오리진 수마트라 by 네스프레소 캡슐커피, 5.5g, 10개" 
+description: 스타벅스 싱글 오리진 수마트 ..
+date: 2021-04-26 07:18:25 
+img: https://static.coupangcdn.com/image/retail/images/2019/12/19/15/5/4fc06cfb-dd10-4f3e-ae8c-81af49c29176.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1110962150&itemId=2074132068&vendorItemId=70073255169&traceid=V0-113-b6426c91a3bcb9ca 
+categories: [1013] 
+color: FF6F00 
+price: 7700 
+author: Ask View Shop 
+cont:  "가루약먹고 혀에 붙어서 쓴맛이 강한거같은.<br/>.<br/>?그런 느낌.<br/>;!<br/>맛은 있습니다! 뜨아로 마시면 가볍게 맛있을것 같네요!<br/>베로나보다 가벼운 맛입니다.<br/><br/>신랑 집에서도 해주고 싶어 머신도 샀는데<br/>신랑은 진한 라떼를 좋아해요<br/>싱글 오리진 수마트라<br/>쓰다쓰다하는데 ... <br/>  베로나보다 덜 씁니다.<br/><br/>아가씨네서 먹은 머신 캡슐 맛 별로다 했었는데<br/>우유 타주니 좋아합니다 참고하세요^ ^<br/>이건 좋아하네요!<br/>이게, 느낌이 가벼워서 조금 더 쓴맛이 부각되는 느낌도 있습니다.<br/><br/>저는 커피를 못먹어요 심장이 쿵쾅<br/>저도 우유탄거 한모금 맛만 보니 고소하고 괜찮아요<br/>제가 뭘 모르니 일단 진하다고 한 이거 사봤어요<br/>진하고 달콤한 맛 안 좋아하는 신랑 입맛에<br/>처음 접해봐요.<br/> 맛있네요.<br/><br/>카페는 제가 안 좋아하니 대부분 테이크아웃인데<br/>커피머신 덕분에 다양한 커피를 마십니다.<br/><br/>" 
+---
