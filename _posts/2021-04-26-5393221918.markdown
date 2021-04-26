@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "삼성 JBL 블루투스 헤드셋, 그린, JR310BT" 
+description: 삼성 JBL 블루투스 헤드셋 ..
+date: 2021-04-27 07:39:37 
+img: https://static.coupangcdn.com/image/retail/images/2021/04/21/10/5/9a336ab7-c97d-42d5-b7f3-421ea5c192e6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5393221918&itemId=8048328573&vendorItemId=75336885241&traceid=V0-113-2224079c9cc854ae 
+categories: [1016] 
+color: 9E9D24 
+price: 65000 
+author: Ask View Shop 
+---
+ 

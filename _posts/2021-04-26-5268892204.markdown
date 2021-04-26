@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "샤오미 미밴드 6 스마트 밴드 한국버전" 
+description: 샤오미 미밴드 6 스마트 밴 ..
+date: 2021-04-27 07:46:41 
+img: https://static.coupangcdn.com/image/vendor_inventory/fea1/87aa67e411562d9b71406bf6d29b20077624565c15a9a46159b8cbab6e4f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5268892204&itemId=7503718167&vendorItemId=74794473281&traceid=V0-113-e19867b73e498137 
+categories: [1017] 
+color: 35B62C 
+price: 46100 
+author: Ask View Shop 
+---
+ 
