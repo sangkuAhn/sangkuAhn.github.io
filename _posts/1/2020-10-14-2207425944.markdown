@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "폴바셋 시그니처 블렌드 원두, 200g" 
+description: 폴바셋 시그니처 블렌드 원두 ..
+date: 2020-10-15 07:15:10 
+img: https://static.coupangcdn.com/image/retail/images/2020/10/07/13/1/286f8964-827f-4f02-bfd8-e160ae36259b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2207425944&itemId=3756550214&vendorItemId=71741664180&traceid=V0-113-d739408fc8b59edb 
+categories: [1012] 
+color: A566FF 
+price: 12600 
+author: Ask View Shop 
+cont:  "다음 주문일을 기다립니다^^<br/>맛있게  즐기고<br/>맛있어요!<br/>매장에서 먹으면 당근 맛난 폴바셋 원두를 집에서♡<br/>바로 로스팅되서 온거라 신선하네요.<br/><br/>산미가 있는 커피를 좋아하는데 정말 딱 이네요<br/>산미도 상큼하고 좋네요.<br/><br/>" 
+---

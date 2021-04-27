@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "폴바셋 에티오피아 시다모 원두, 200g" 
+description: 폴바셋 에티오피아 시다모 원 ..
+date: 2020-10-15 07:15:10 
+img: https://static.coupangcdn.com/image/retail/images/2020/10/07/13/2/ee127274-c0cc-40b2-ae3d-e07b07b7f7f9.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2207425949&itemId=3756550223&vendorItemId=71741664172&traceid=V0-113-3fff1572bb4eabcd 
+categories: [1012] 
+color: 4CAF50 
+price: 13500 
+author: Ask View Shop 
+cont:  "기대버다 맛이 별로에여 ㅠㅠ<br/>다시 구매하려고보니 품절이네요.<br/>ㅜㅜ<br/>드립커피 해먹었는데 너무 맛있었어요 ^^ 제 스타일이네요<br/>원두 향도 실망스럽구ㅠㅠ<br/>음.<br/>.<br/> 브랜드 믿고 구매햇는데<br/>" 
+---

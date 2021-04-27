@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아디다스 노바 런 운동화 EG3169" 
+description: 아디다스 노바 런 운동화 E ..
+date: 2021-04-27 06:08:10 
+img: https://static.coupangcdn.com/image/rs_quotation_api/woeygevi/d473c0c595e24923957c1440ec838949.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4581958395&itemId=5617092326&vendorItemId=72916278518&traceid=V0-113-3ea85ddcf8f747a1 
+categories: [1002] 
+color: f44336 
+price: 63100 
+author: Ask View Shop 
+cont:  "득템했네요 이젠 신발도 쿠팡에서 사는걸로<br/>맘에들고 좋아요<br/>사진보다 실물이 더괜찮네요 만족합니다<br/>" 
+---
