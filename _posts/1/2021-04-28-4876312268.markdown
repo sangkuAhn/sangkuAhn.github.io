@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "헬로카봇 뱅, 자크레인 뱅" 
+description: 헬로카봇 뱅, 자크레인 뱅 ..
+date: 2021-04-28 16:07:57 
+img: https://static.coupangcdn.com/image/rs_quotation_api/xqsw520t/e660a7ecf19f46558c695f22a9b7cf8e.JPG 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4876312268&itemId=6343896289&vendorItemId=73639234944&traceid=V0-113-37ed93b1012eaef1 
+categories: [1020] 
+color: 353535 
+price: 21770 
+author: Ask View Shop 
+cont:  "5살 41갤 아이가 잘갖고놀기 딱좋음<br/>가격대 견고함<br/>마트보다  1만원이상 저렴  이마트가따가 비교하곤 아이설득해서 로켓배송받고<br/>배송 빠름!<br/>변신할 때 뭔가 조금 불편해요 뭔가 2% 정도 부족한 느낌!<br/>조카가 너무 좋아합니당 ㅎㅎ 장난감 거품 많은데 쿠팡은 깨끗합니다 ㅎㅎ<br/>하나더 사들고왓다는<br/>" 
+---
