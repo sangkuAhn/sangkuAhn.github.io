@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "시프이컴 가정용 선풍기 CIF-FN02B" 
+description: 시프이컴 가정용 선풍기 CI ..
+date: 2021-04-29 07:39:49 
+img: https://static.coupangcdn.com/image/retail/images/2021/03/26/11/7/2e67bfbf-ddcb-4a76-b19f-cecc9fc756fc.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5345925548&itemId=7850940285&vendorItemId=75140630718&traceid=V0-113-86fbec23e05bd5b7 
+categories: [1016] 
+color: 353535 
+price: 26900 
+author: Ask View Shop 
+---
+ 
