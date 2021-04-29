@@ -9,5 +9,5 @@ categories: [1019]
 color: 5A8DF3 
 price: 8550 
 author: Ask View Shop 
+cont:  "아들이좋아해요<br/>팬북 소장하려고 구매했어요<br/>평소에 알지 못했던 내용이 있어서 흥미로웠어요<br/>" 
 ---
- 
