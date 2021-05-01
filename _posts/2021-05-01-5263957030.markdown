@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "곰곰 아보카도, 1kg, 1팩" 
+description: 곰곰 아보카도, 1kg, 1 ..
+date: 2021-05-02 08:22:06 
+img: https://static.coupangcdn.com/image/retail/images/1993769689015475-6fda124b-3fd1-4800-8763-66f28f1a81fa.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5263957030&itemId=7484927420&vendorItemId=74775723488&traceid=V0-113-4be02a9bf21add3d 
+categories: [1024] 
+color: A57F92 
+price: 12090 
+author: Ask View Shop 
+---
+ 
