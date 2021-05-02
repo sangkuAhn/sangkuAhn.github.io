@@ -9,5 +9,5 @@ categories: [1020]
 color: BF360C 
 price: 50300 
 author: Ask View Shop 
+cont:  "뽁뽁이도없이 큰박스에와서 별하나뺐어요.<br/>그리고잔기스가있음<br/>어린이날을 위해 준비햇어요^^<br/>재미있게 잘 했어요<br/>" 
 ---
- 
