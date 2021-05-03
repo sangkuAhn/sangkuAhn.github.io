@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "주니어퓨처북 옥토넛펜, 혼합 색상" 
+description: 주니어퓨처북 옥토넛펜, 혼합 ..
+date: 2021-05-04 08:00:52 
+img: https://static.coupangcdn.com/image/retail/images/2019/10/11/9/8/44b1b2b4-5b0e-4c7d-b4ea-ec04ae0ec1fe.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=318296990&itemId=1016112440&vendorItemId=5452397059&traceid=V0-113-f6b5985b425bb3f0 
+categories: [1019] 
+color: 43A047 
+price: 49310 
+author: Ask View Shop 
+---
+ 

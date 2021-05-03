@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "오설록 세작 잎차, 80g, 1개" 
+description: 오설록 세작 잎차, 80g, ..
+date: 2021-05-04 07:11:22 
+img: https://static.coupangcdn.com/image/retail/images/2021/04/16/15/7/1e0f42b2-183a-4b1d-b13a-76243a87882e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5359759891&itemId=7904772689&vendorItemId=75194136618&traceid=V0-113-da122d8432433d12 
+categories: [1012] 
+color: FF6F00 
+price: 28480 
+author: Ask View Shop 
+---
+ 
