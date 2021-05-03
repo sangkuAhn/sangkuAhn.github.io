@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "엡손 라벨프린터기 LW-K200BL, 혼합색상" 
+description: 엡손 라벨프린터기 LW-K2 ..
+date: 2021-05-03 16:15:11 
+img: https://static.coupangcdn.com/image/vendor_inventory/6312/1080c55e7460cfb4a5a707e3090f8a854ab3930742179867201012eb9daf.PNG 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5449789598&itemId=8313284163&vendorItemId=75539099546&traceid=V0-113-9775d21b786a7f35 
+categories: [1021] 
+color: D9418C 
+price: 67500 
+author: Ask View Shop 
+---
+ 
