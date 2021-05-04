@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "리틀퓨처북 뽀로로 펜 잉글리시, 혼합 색상" 
+description: 리틀퓨처북 뽀로로 펜 잉글리 ..
+date: 2021-05-04 08:00:52 
+img: https://static.coupangcdn.com/image/vendor_inventory/65b2/04249c017058c2c38a34498d6832db0dc72a67f9640c1a4fcbcf22421af1.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=38168551&itemId=140719886&vendorItemId=3303792185&traceid=V0-113-66e24d294b1c6ae2 
+categories: [1019] 
+color: FF1744 
+price: 54810 
+author: Ask View Shop 
+cont:  "30갤입니다 요즘 엄청 말이 늘어서 수다쟁이인데 놀이처렁 같이 노니 좋아해요^^<br/>만족해요 영어라 살까 말까하다가 요즘 영어 동요도 따라 부르고 손가락 송도 부르면 따라하고 해서 사줬는데 좋아해요<br/>아이들이 좋아합니다.<br/>  뽀로로펜이 성능이 좋네요.<br/>아이가 들고 영어단어,노래,책등을 보며 공부하고 재밌게 놀 수 있습니다.<br/> 한가지 아쉬운 부분은 책이 본체에 붙여고정 되어 있으면 더 좋을 것 같습니다.<br/><br/>한글뽀로로를 너무잘사용하여 영어로 된 책이 있다고해서 구매하였습니다 결론부터 말하자면 영어나 한글 퓨쳐북 두개를 가지고있을필요는 없는것같다입니다.<br/> 언어만 다를뿐이지 내용이 똑같네요 그래서 우리애도 처음엔 잘가지고 놀다가 다시 익숙한 한글퓨처북을 쓰네요 하지만 처음구매하시는 분이라면 영어퓨처북도 괜찮은거 같아요<br/>" 
+---
