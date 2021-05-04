@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "브로컬리 (냉동), 1kg, 2봉" 
+description: 브로컬리 (냉동), 1kg, ..
+date: 2021-05-04 16:22:01 
+img: https://static.coupangcdn.com/image/retail/images/2021/02/09/18/7/8a57cf75-3155-4b5a-a6e4-e51d251fa2ab.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1729912306&itemId=6658735339&vendorItemId=73952510478&traceid=V0-113-e7f2e53deca5809f 
+categories: [1024] 
+color: A566FF 
+price: 9200 
+author: Ask View Shop 
+---
+ 
