@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "캐치티니핑 코디 다이어리, 혼합색상" 
+description: 캐치티니핑 코디 다이어리,  ..
+date: 2021-05-06 07:04:17 
+img: https://static.coupangcdn.com/image/rs_quotation_api/nhjv5s5m/e558b25a8fff4db894a0f2a1e7bd9be2.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2371212456&itemId=4128848896&vendorItemId=72112776724&traceid=V0-113-bc0960589533a195 
+categories: [1011] 
+color: F361A6 
+price: 19610 
+author: Ask View Shop 
+cont:  "놀이를 오래할 수 있는 장난감은 아니지만 잠시 호기심에 좋아할 것 같아요!! 새상품이라 일단 매일가지고 노는 6세여아입니다!! 산타에게 받은 선물로 증정했답니다❤<br/>새로운 티니핑 장난감이 출시되었네요 장난감 종류가 아직 많이 안나오다보니 6세 여아가 더 좋아하는 것 같아요!!<br/>선물 약효가 몇일 갈지는모르겠지만.<br/>.<br/><br/>지금은 너무 좋아하고 잘가지고놀고있어요.<br/>^^<br/>캐치티니핑을 좋아하는 우리 딸처음 몇번 갖고 놀더니 지금은 찾지도 않네요ㅎ<br/>" 
+---
