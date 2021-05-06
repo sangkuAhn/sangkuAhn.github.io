@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "시마 촬영용 드론 WDS1, 레드" 
+description: 시마 촬영용 드론 WDS1, ..
+date: 2021-05-06 16:15:02 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/06/12/3123200188/78923e31-3d1f-4b37-afe4-3701f569565b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=18515542&itemId=74428663&vendorItemId=3123200188&traceid=V0-113-bf5eeb3cca5fbf69 
+categories: [1021] 
+color: 35B62C 
+price: 62000 
+author: Ask View Shop 
+---
+ 
