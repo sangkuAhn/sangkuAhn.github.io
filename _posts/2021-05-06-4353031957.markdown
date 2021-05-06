@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "Dole 스위티오 바나나, 6팩" 
+description: Dole 스위티오 바나나,  ..
+date: 2021-05-07 08:21:58 
+img: https://static.coupangcdn.com/image/retail/images/338460484019971-5725e2ec-4cc5-40ca-b986-297beff82d53.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4353031957&itemId=5109643074&vendorItemId=72419176729&traceid=V0-113-bc7ec1f1d3caaa8e 
+categories: [1024] 
+color: A566FF 
+price: 11900 
+author: Ask View Shop 
+---
+ 
