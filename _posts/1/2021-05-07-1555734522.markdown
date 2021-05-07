@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "라솔트 프리저브드 플라워용돈박스M + 쇼핑백, 러블리 핑크" 
+description: 라솔트 프리저브드 플라워용돈 ..
+date: 2021-05-07 15:32:33 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/05/02/3975743493/e9d30a19-dbb1-45ea-b94c-34d6830c50e4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1555734522&itemId=2660848387&vendorItemId=70651499589&traceid=V0-113-f6a9b6c98638d2b3 
+categories: [1015] 
+color: F361A6 
+price: 24500 
+author: Ask View Shop 
+cont:  "가격대비 만족합니다<br/>매우 깔끔하고 안전하게 도착했고, 엄청 빨리 도착해서 깜짝 놀랐어요!!!<br/>비누향이 은은하게 나고, 꽃도 불량없이 예쁘게 왔네요!<br/>설명서가 들어있어 쉽게 만들수있고, 귀여운 봉투도 들어있어서 편지를 넣었어요.<br/> 처음에 다른 상품에 비해 비싸다고 느꼈지만 상자도 탄탄하고 고급스러운 느낌이라 매우 만족스러워요^^<br/>이쁜 용돈상자 만족합니다<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "여성용 오버핏 자켓" 
+description: 여성용 오버핏 자켓 ..
+date: 2021-05-07 06:01:05 
+img: https://static.coupangcdn.com/image/vendor_inventory/22f7/cb64605d6da13959d1ac6a57fe6e28cfe8ed0c845e1b91f299311c1e5e79.JPG 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5192117767&itemId=7211802751&vendorItemId=74503338260&traceid=V0-113-b704c5346d178b85 
+categories: [1001] 
+color: 43A047 
+price: 39800 
+author: Ask View Shop 
+cont:  "사이즈가 딱맞고 구김도없어서 좋아요<br/>이번만 입으려고 산건데 재질이 얇아서 지금 날씨에 좀더 입어도 될거같아요 제 부주의로 단추 떼먹었지만ㅠ 힝<br/>핏도 딱 맞아서 이뻐요 감사합니당<br/>" 
+---

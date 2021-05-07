@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "훠링 레인보우 무선 카팩, DA1188" 
+description: 훠링 레인보우 무선 카팩,  ..
+date: 2021-05-07 07:53:42 
+img: https://static.coupangcdn.com/image/retail/images/2020/08/13/13/3/6dfeacd2-345d-4499-b2df-60949668dd53.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5238705883&itemId=7393516404&vendorItemId=74684558369&traceid=V0-113-3e1e51905ad253a4 
+categories: [1018] 
+color: 03A9F4 
+price: 16800 
+author: Ask View Shop 
+cont:  "오래된 아반테에 블루투스를 지원 시키기 위해 이것저것 알아보다 발견한 것인 이 카팩은 상당한 고퀄이란걸 알고는 제지인이 안쓸꺼면 넘기라는 협박아닌 협박을 듣게 해준 물건이다.<br/> 받자마자 뜯어서 차량이 아닌 집안에서 시험테스트를 한 결과 헤드폰을 aux쪽에 연결해서 인지 소리가 작아보인다 생각했지만 , 차량에 연결하니 크게 나와주었고 시원시원한 화면에 연결도 깔끔 하게 되었던 터라 아주 마음에 쏙 든 제품이라고 생각함 .<br/> 최고로 맘에 든건 어정쩡한 마이크가 아닌 고감도 마이크가 달려 차량소음에도 통화가 명확히 들리는 부분이 아니었나싶다.<br/> 사실 라디오 연결로 사용하려했다가 차량의 aux 단자를 이용하니 음질이 좋아진 부분도 있긴 하지만 .<br/>.<br/> 지금은 아주 잘 사용중임 .<br/><br/>음질 블루투스 연결 컬러 디피 모두 만족합니다<br/>" 
+---

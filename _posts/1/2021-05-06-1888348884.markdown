@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "펀라켓 시크릿캐슬 인형집 67478, 혼합색상" 
+description: 펀라켓 시크릿캐슬 인형집 6 ..
+date: 2021-05-07 08:07:50 
+img: https://static.coupangcdn.com/image/retail/images/2020/07/29/10/6/fdbee793-d65c-48ea-9910-d2bfaf3a8b85.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1888348884&itemId=3208693805&vendorItemId=71196038874&traceid=V0-113-4551f7f41936de73 
+categories: [1020] 
+color: CF36BB 
+price: 18900 
+author: Ask View Shop 
+cont:  "너무 귀여워 진짜 이뻐요<br/>너무귀엽고 새로워요 잘산거같아요^^<br/>열쇠열고 숨기고 찾고 한참을가지고놀아요<br/>" 
+---
