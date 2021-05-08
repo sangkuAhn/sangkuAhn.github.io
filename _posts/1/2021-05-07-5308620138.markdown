@@ -9,5 +9,5 @@ categories: [1001]
 color: BD24A9 
 price: 19800 
 author: Ask View Shop 
+cont:  "그냥 안이 다 너무 비쳐요.<br/> 안감하나없네요 ㅜㅜ<br/>시원하게 잘 입겠어요<br/>" 
 ---
- 
