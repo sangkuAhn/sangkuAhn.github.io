@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "휠라 미니 버킷백 FS3BCD5315F" 
+description: 휠라 미니 버킷백 FS3BC ..
+date: 2021-05-09 06:08:09 
+img: https://static.coupangcdn.com/image/rs_quotation_api/gjnp6mom/18031127fd134eb9bc564595128950c3.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5033341449&itemId=6761575976&vendorItemId=74038434211&traceid=V0-113-b6289601113c3db6 
+categories: [1002] 
+color: F361A6 
+price: 29820 
+author: Ask View Shop 
+cont:  "가방안에 작은 주머니도 있고 가볍게 들고 다니기 좋아요!<br/>간단한 소지품 넣고 다니기 좋아요<br/>너무너무 귀여워용 완전 마음에 들어여<br/>생각했던것보다 더 작지만<br/>" 
+---

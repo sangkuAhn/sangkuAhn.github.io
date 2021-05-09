@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "에가든 슬림룩 카드지갑" 
+description: 에가든 슬림룩 카드지갑 ..
+date: 2021-05-09 06:01:05 
+img: https://static.coupangcdn.com/image/retail/images/2020/07/27/15/6/af8b6404-5bfb-4966-8db6-f032bc311849.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1921244539&itemId=3261963845&vendorItemId=71232841464&traceid=V0-113-91bc0a4ce9cf424d 
+categories: [1001] 
+color: A6A6A6 
+price: 28800 
+author: Ask View Shop 
+cont:  "고등학생이라 브랜드있는 비싼 제품은 힘들고,학교통학하면서 분실 위험있는 반지갑을 들고다니기엔 너무 불안해서 카드지갑 찾고 있었는데 마침 제가 쓰는 반지갑 재질하고 똑같은 가죽 카드지갑있어서 샀는데 깔끔하고,오래 쓸거 같아요.<br/><br/>군대 가는데 카드지갑이 필요할 거 같아서 하나 샀는데 싼 가격으로 퀄리티 높은 지갑 산 거 같아요<br/>그래서 지갑 몇개 있어도 구매 했어요.<br/>.<br/><br/>딱 필요한거만 쏙쏙 들어가고 좋습니다.<br/>.<br/><br/>받아보니 제가 좋아하는 색이라 더욱 맘에 드네요.<br/>.<br/><br/>어릴때 장지갑을 써야 돈이 잘들어 온다는 말을 들은뒤 무조건 장지갑만 써왔는데.<br/>.<br/><br/>요즘 가방들이 다 작게 나오잖아요ㅋㅋㅋ<br/>요즘엔 이것만 들고 다닙니다!<br/>" 
+---
