@@ -9,5 +9,5 @@ categories: [1001]
 color: 353535 
 price: 23800 
 author: Ask View Shop 
+cont:  "가격대비 흡족합니다<br/>박음질이 좀아쉽네요 ^^<br/>있을것같아요<br/>조아요 시원하고 .<br/>.<br/>ㅎㅎ 여름에 자주입을듯합니더<br/>편하게 입을수<br/>" 
 ---
- 
