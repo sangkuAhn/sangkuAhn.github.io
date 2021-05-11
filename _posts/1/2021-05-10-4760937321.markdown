@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "현대지성/하루 5분 습관 수업, 현대지성" 
+description: 현대지성/하루 5분 습관 수 ..
+date: 2021-05-11 08:03:19 
+img: https://static.coupangcdn.com/image/retail-product-api/A00077021/34752852/39067056/main/9791191280340_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4760937321&itemId=6065969019&vendorItemId=73362760690&traceid=V0-113-952db7e91c71dc6a 
+categories: [1019] 
+color: 4374D9 
+price: 11700 
+author: Ask View Shop 
+cont:  "읽기도 편하고 .<br/>.<br/> 최근 자신감이 너무많이떨어지고.<br/>.<br/> 어디서부터 나를 바꿔야할지 고민되었는데.<br/>.<br/> 참고가 되었던것같아요.<br/> 백프로 반영하긴어렵겠지만.<br/> 긍정적인사고를 떠올리는대 도움이됩니다<br/>" 
+---

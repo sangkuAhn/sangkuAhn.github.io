@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "스튜디오오드리/오늘은 이만 좀 쉴게요 : 10만 부 기념 스페셜 에디션, 스튜디오오드리" 
+description: 스튜디오오드리/오늘은 이만  ..
+date: 2021-05-11 16:00:48 
+img: https://static.coupangcdn.com/image/retail-product-api/A00077021/50292534/55289440/main/9791191043181_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5201011329&itemId=7249339821&vendorItemId=74404261567&traceid=V0-113-f346499b089fc7ad 
+categories: [1019] 
+color: FF6F00 
+price: 12600 
+author: Ask View Shop 
+cont:  "마음을 느긋하게 안정되는 느낌<br/>진짜 너무너무 좋아요.<br/>ㅜㅜ<br/>" 
+---
