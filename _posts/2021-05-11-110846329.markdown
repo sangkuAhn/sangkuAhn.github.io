@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "랄랄라 사운드 구구단(벽보), 아이키움북" 
+description: 랄랄라 사운드 구구단(벽보) ..
+date: 2021-05-11 16:00:48 
+img: https://static.coupangcdn.com/image/vendor_inventory/b63f/81214e05f502d48eb8150a7a9486869b48fb91712aa5932f1158721f213a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=110846329&itemId=334058286&vendorItemId=3819758724&traceid=V0-113-0fa2550ad1015466 
+categories: [1019] 
+color: F361A6 
+price: 3250 
+author: Ask View Shop 
+---
+ 
