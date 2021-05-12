@@ -9,5 +9,5 @@ categories: [1019]
 color: 9E9D24 
 price: 16200 
 author: Ask View Shop 
+cont:  "설명이 자세하게 나와 있고 문제푸는것도 편했어요 덤으로 시험도 붙었어요<br/>자세함<br/>화이팅!<br/>" 
 ---
- 
