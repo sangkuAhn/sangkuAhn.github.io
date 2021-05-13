@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "기가바이트 노트북 AERO 15 OLED YD i7 (i7-11800H 39.62cm RTX 3080), 윈도우 미포함, NVMe 1TB, 16GB" 
+description: 기가바이트 노트북 AERO  ..
+date: 2021-05-13 15:39:39 
+img: https://static.coupangcdn.com/image/retail/images/2021/05/11/10/6/d79321d8-5f34-4184-b627-8ee8bbf7b888.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5491206600&itemId=8501384785&vendorItemId=75788891512&traceid=V0-113-3af7b318af1258f4 
+categories: [1016] 
+color: A566FF 
+price: 3159000 
+author: Ask View Shop 
+---
+ 

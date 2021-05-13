@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "기가바이트 노트북 AORUS 17G KD (i7-11800H 43.94cm WIN10 Home RTX 3060), 윈도우 미포함, NVMe 512GB, 16GB" 
+description: 기가바이트 노트북 AORUS ..
+date: 2021-05-13 15:39:39 
+img: https://static.coupangcdn.com/image/retail/images/2021/05/11/13/6/998440aa-c3b8-48a7-99a7-f3159464779f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5492067811&itemId=8505996172&vendorItemId=75793484320&traceid=V0-113-82d91451f5d3369c 
+categories: [1016] 
+color: 4374D9 
+price: 2309000 
+author: Ask View Shop 
+---
+ 

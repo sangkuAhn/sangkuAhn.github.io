@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "기가바이트 노트북 AORUS 15P YD PRO (i7-11800H 39.62cm WIN10 Home RTX 3080), 윈도우 미포함, NVMe 1TB, 16GB" 
+description: 기가바이트 노트북 AORUS ..
+date: 2021-05-13 15:39:39 
+img: https://static.coupangcdn.com/image/retail/images/2021/05/11/13/8/3e822cfa-90ce-449a-864b-6e4ad0c12cc9.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5492068085&itemId=8505997347&vendorItemId=75793485731&traceid=V0-113-3e421d50aedbec09 
+categories: [1016] 
+color: A566FF 
+price: 2999000 
+author: Ask View Shop 
+---
+ 

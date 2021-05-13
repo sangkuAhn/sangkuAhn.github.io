@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "MSI 노트북 GF75 Thin 10UD (i7-10750H 39.7cm RTX 3050 Ti), 윈도우 미포함, NVMe 512GB, 8GB" 
+description: MSI 노트북 GF75 Th ..
+date: 2021-05-13 15:39:39 
+img: https://static.coupangcdn.com/image/retail/images/451396195751065-d1dd0f4f-8910-4f89-a703-426071cb59fa.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5486951199&itemId=8482855398&vendorItemId=75770379855&traceid=V0-113-505b444651120218 
+categories: [1016] 
+color: CF36BB 
+price: 1299000 
+author: Ask View Shop 
+---
+ 
