@@ -9,5 +9,5 @@ categories: [1019]
 color: 35B62C 
 price: 4800 
 author: Ask View Shop 
+cont:  "7살 딸래미 너무좋아합니당<br/>아이가 요즘 여기에 빠져있어 사주었더니 너무좋아하네요<br/>" 
 ---
- 

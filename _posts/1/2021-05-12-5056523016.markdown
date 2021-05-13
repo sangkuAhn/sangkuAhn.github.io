@@ -9,5 +9,5 @@ categories: [1002]
 color: 35B62C 
 price: 47000 
 author: Ask View Shop 
+cont:  "굿<br/>편하고 신었을때 이뻐보여요ㅎㅎ<br/>" 
 ---
- 
