@@ -9,5 +9,5 @@ categories: [1002]
 color: f44336 
 price: 15300 
 author: Ask View Shop 
+cont:  "아이가 너무 예쁘다고 좋아합니다.<br/><br/>앏아 편하게 쓰기 좋고 예뻐요<br/>" 
 ---
- 
