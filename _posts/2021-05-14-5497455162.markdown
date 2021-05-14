@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "닌텐도 스위치 보이드 테라리움 한글판" 
+description: 닌텐도 스위치 보이드 테라리 ..
+date: 2021-05-15 07:39:34 
+img: https://static.coupangcdn.com/image/retail/images/2021/05/12/11/3/c1234bb5-e843-4385-af39-03e7dd1890ec.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5497455162&itemId=8529416957&vendorItemId=75816858926&traceid=V0-113-ea971165718ac4f8 
+categories: [1016] 
+color: FF1744 
+price: 54800 
+author: Ask View Shop 
+---
+ 
