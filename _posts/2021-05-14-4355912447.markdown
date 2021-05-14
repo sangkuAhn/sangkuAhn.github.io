@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "팜플래닛 아메리칸 콥샐러드, 225g, 2개" 
+description: 팜플래닛 아메리칸 콥샐러드, ..
+date: 2021-05-14 16:21:59 
+img: https://static.coupangcdn.com/image/retail/images/252691330921906-81fafe2f-23cf-42c8-8a2c-e414e81f55a7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4355912447&itemId=5116943217&vendorItemId=72426441052&traceid=V0-113-086bc839a4459809 
+categories: [1024] 
+color: A6A6A6 
+price: 9900 
+author: Ask View Shop 
+---
+ 
