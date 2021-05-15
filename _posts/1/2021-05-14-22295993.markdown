@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "Dont Push the Button!, Sourcebooks Jabberwocky" 
+description: Dont Push the B ..
+date: 2021-05-15 08:00:44 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2017/08/30/14/1/296a2f3c-0c77-4e22-9f8a-68d507316aa6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=22295993&itemId=86788286&vendorItemId=4384816698&traceid=V0-113-996e567f6ab14183 
+categories: [1019] 
+color: F15F5F 
+price: 8190 
+author: Ask View Shop 
+cont:  "깨끗하게 잘 왔고 올해 5살된 아들이 자주 읽어달라고 합니다.<br/><br/>로켓직구로 여러가지 구매했는데 항상 책은 따로 오네요<br/>아이가 최고 좋아하는 책이에요! 너무 재미있어요 ㅎㅎㅎ 그3<br/> -4세 아이에게 강추에요<br/>처음읽어줄땐 지시(?)대로 했는데 ㅋㅋㅋ 이제는 마구 버튼을 눌러댐... <br/>ㅋㅋㅋㅋ 읽어주면서 책 앞뒤로 왔다갔다 하기 바빠요ㅋㅋ 아이가 좋아합니다.<br/><br/>호기심유발하기 좋네요 책도 두꺼운보드책이고 유아 영어노츌하기좋네요<br/>" 
+---
