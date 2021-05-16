@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "모트모트 컬러칩 태스크 매니저 HALF YEAR, 다크호스" 
+description: 모트모트 컬러칩 태스크 매니 ..
+date: 2021-05-16 16:15:01 
+img: https://static.coupangcdn.com/image/retail/images/2020/02/25/9/5/ba98b6fb-1231-46ba-abb2-7c90b83e237d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1290980927&itemId=2302113222&vendorItemId=70299022258&traceid=V0-113-e3dec0ab9eb78d3b 
+categories: [1021] 
+color: 4374D9 
+price: 12500 
+author: Ask View Shop 
+---
+ 

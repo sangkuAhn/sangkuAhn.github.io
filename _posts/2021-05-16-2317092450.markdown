@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "발음과 스펠링을 한 번에 잡는 하루 딱! 영단어, 로그인" 
+description: 발음과 스펠링을 한 번에 잡 ..
+date: 2021-05-16 16:00:54 
+img: https://static.coupangcdn.com/image/vendor_inventory/6727/6d9176c015735667d20923e099fee9398bd308b006922fdc9b8dec1222cd.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2317092450&itemId=3999501837&vendorItemId=71983771471&traceid=V0-113-260f14925a767234 
+categories: [1019] 
+color: D9418C 
+price: 13500 
+author: Ask View Shop 
+---
+ 
