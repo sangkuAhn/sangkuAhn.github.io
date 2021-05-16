@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "제이에이치스타일 여성용 타고나 에비드 유넥 반팔 티셔츠" 
+description: 제이에이치스타일 여성용 타고 ..
+date: 2021-05-16 14:01:04 
+img: https://static.coupangcdn.com/image/retail/images/2020/07/03/20/0/2e3c150a-0c13-4cfa-9022-a6491c13c3fc.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1800292097&itemId=3063175673&vendorItemId=71051131686&traceid=V0-113-89d8675397945859 
+categories: [1001] 
+color: 4CAF50 
+price: 10000 
+author: Ask View Shop 
+cont:  "단지 앞이 너무 파여서 속옷이보임.<br/><br/>소재.<br/>사이즈.<br/>다 맘에들어서 흰색재쥬문햇어요<br/>싸구려<br/>입니다.<br/><br/>참고로.<br/>157.<br/>에 49kg<br/>하늘하늘해서 입고다니기 남 좋아요<br/>" 
+---

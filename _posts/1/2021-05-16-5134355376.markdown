@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "브이넥 레터링 트임루즈핏 반팔 롱티셔츠" 
+description: 브이넥 레터링 트임루즈핏 반 ..
+date: 2021-05-16 14:01:04 
+img: https://static.coupangcdn.com/image/vendor_inventory/9831/844a60a3f11ab6baf47db47eda5bc5c33e816f1230a2e247163bf3093da6.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5134355376&itemId=7031325391&vendorItemId=74323469248&traceid=V0-113-d51fe801989b8b74 
+categories: [1001] 
+color: f44336 
+price: 14800 
+author: Ask View Shop 
+cont:  "목이 너무파인것 같요<br/>엄청 커요<br/>이거 이쁨<br/>집에서 이너로 딱<br/>" 
+---
