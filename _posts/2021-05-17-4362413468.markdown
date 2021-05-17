@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "필립스 파워 블렌더 5000 시리즈 HR2228/90" 
+description: 필립스 파워 블렌더 5000 ..
+date: 2021-05-18 07:18:32 
+img: https://static.coupangcdn.com/image/rs_quotation_api/ms1sagqk/4374528d64ca4865b0d3d8215cf2ab12.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4362413468&itemId=5132118055&vendorItemId=75255268121&traceid=V0-113-44d2084d41a636d8 
+categories: [1013] 
+color: FF6F00 
+price: 124000 
+author: Ask View Shop 
+---
+ 
