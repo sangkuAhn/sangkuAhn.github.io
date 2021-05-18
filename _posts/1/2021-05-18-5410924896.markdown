@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "리바이스 오리지널라인 드로즈 5종 세트" 
+description: 리바이스 오리지널라인 드로즈 ..
+date: 2021-05-18 14:08:09 
+img: https://static.coupangcdn.com/image/retail/images/595963978916741-61ee8237-baad-4ee1-8ce9-3114df98bbdd.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5410924896&itemId=8137867628&vendorItemId=75426093394&traceid=V0-113-be4b1d3db3f358e0 
+categories: [1002] 
+color: 9E9D24 
+price: 49500 
+author: Ask View Shop 
+cont:  "이런 재질이 훨좋아요<br/>전 면보다 보들보들<br/>정사이즈에 입으니 더이쁘네요<br/>조아용ㅎ<br/>팬티들이 사이즈가 약간씩 달라요.<br/> 길이도 조금씩 허리도 조금씩요.<br/> 치수가 차이날 만큼은 아니지만 조금 차이가 나요.<br/><br/>할인때 싸게잘샀어용<br/>" 
+---

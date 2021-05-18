@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "에버라스트 심플 슬리퍼" 
+description: 에버라스트 심플 슬리퍼 ..
+date: 2021-05-18 06:08:09 
+img: https://static.coupangcdn.com/image/retail/images/2020/06/22/15/9/25d58404-af6f-4173-aa85-74a7a72fe0c4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1731340785&itemId=2947135047&vendorItemId=70935593380&traceid=V0-113-8dc77d56b8e6d6ab 
+categories: [1002] 
+color: BD24A9 
+price: 9900 
+author: Ask View Shop 
+cont:  "280 인데 좀 크게 나와 290 발에도 잘맞아요<br/>eva 제품이라 고민없이 샀어요<br/>너무예쁘고 실생활에 유용하게 자주신게되네요<br/>대만족입니다!<br/>발을 감싸는 느낌은 아니고 평평합니다<br/>부담없는 가격이라 추천합니다<br/>이가격에 튼튼한거 잘 삿네여<br/>정사이즈보다는 조금 큰 것 같습니다<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "신사야 원프레싱 패션 남여슬리퍼 SSY1974" 
+description: 신사야 원프레싱 패션 남여슬 ..
+date: 2021-05-18 06:08:09 
+img: https://static.coupangcdn.com/image/vendor_inventory/fbfb/9861ca8186ea2b96f0ef1bb00930e4074b490029e0e4dae6df0b2601d3fd.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5116686940&itemId=6988996972&vendorItemId=74281308855&traceid=V0-113-641107c8d33167c0 
+categories: [1002] 
+color: FF1744 
+price: 16900 
+author: Ask View Shop 
+cont:  "가볍고 쿠션감 좋고 안정감 있어요.<br/> 발이 안기는 느낌입니다.<br/><br/>가볍고 폭신해서 아주 편해요.<br/> 품절이라 한 사이즈 크게 구매했네요.<br/><br/>발을 다쳐서 원래 신발이 인맞아서 큰걸로 샀는데 편하고 좋네요 잘 안벗겨지는 슬리퍼 같은느낌<br/>신어보고 재구매했어요, 가족 인원수 대로 구매하게 돕니다.<br/><br/>" 
+---
