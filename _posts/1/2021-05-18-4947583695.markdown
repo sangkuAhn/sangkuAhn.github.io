@@ -9,5 +9,5 @@ categories: [1019]
 color: CF36BB 
 price: 12600 
 author: Ask View Shop 
+cont:  "6월달 1급 합격 기원!!<br/>강의 들은 후 문제풀고 주요개념 확인까지되니 좋은거같아요ㅎㅎ<br/>쌤  멋집니다<br/>책도 빨리왔는데 따로 연습장도 필요없이<br/>책에 바로적을 수 있고<br/>" 
 ---
- 
