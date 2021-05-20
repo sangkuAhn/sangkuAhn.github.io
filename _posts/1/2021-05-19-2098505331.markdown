@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "퀸앤조이 스와로스키 라인 가오리핏 니트티" 
+description: 퀸앤조이 스와로스키 라인 가 ..
+date: 2021-05-20 06:01:05 
+img: https://static.coupangcdn.com/image/vendor_inventory/1944/ee0275b2dc610048dfb5fc6ece4ce543d19a8a7ec0cc337d5af2160fd913.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2098505331&itemId=3565118246&vendorItemId=75658432660&traceid=V0-113-e8c75273ea0d754b 
+categories: [1001] 
+color: A566FF 
+price: 10900 
+author: Ask View Shop 
+cont:  "66반77  입으시는분들<br/>가오리좋아해서<br/>구매했는데 이뻐요<br/>그리고 늘어나는 원단이네요<br/>몇번 입으면 늘어나서<br/>못입을것같아요<br/>브드럽고  시원해요<br/>생각보다<br/>시원하긴 합니다<br/>잘 맞을것같네요<br/>저한테는 좀커요<br/>좋아요.<br/>예뻐요<br/>" 
+---

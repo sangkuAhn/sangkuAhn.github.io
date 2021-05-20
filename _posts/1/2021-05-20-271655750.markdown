@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "켈리마 차량용 햇빛가리개 M" 
+description: 켈리마 차량용 햇빛가리개 M ..
+date: 2021-05-20 15:53:41 
+img: https://static.coupangcdn.com/image/retail/images/2019/07/17/13/1/b1f5ff6e-b6bd-45a5-9853-d6748721746e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=271655750&itemId=811499022&vendorItemId=5096533819&traceid=V0-113-001c1f4674c4f302 
+categories: [1018] 
+color: FF6F00 
+price: 12900 
+author: Ask View Shop 
+cont:  "2021.<br/>04<br/>가격도 마음에 듭니다.<br/><br/>구매가격 12,810<br/>날이 더워지면 차가 뜨거워지더라구요<br/>너무 좋습니다<br/>박음질이 조금 허술해서 그렇지 빛 잘 가려주니 자기 할일은 제대로 합니다.<br/><br/>사이즈도 좋고 보관도 편하고 휴대하기좋아요.<br/><br/>여름철 차에 딱 탔을때 뜨거운 시트때문에 엉덩이가 매우 불편하고 핸들도 매우 뜨거워서 출발을 못하는상황이 자주있었는데 차에서 내리기전에 이거 딱 끼우고 내리면<br/>오래 사용 가능하다면 더 좋겠죠? 두고봐야겠어요!<br/>이거라도 설치해보면 들 더울까싶어 구매해봤어요<br/>차가 더운건 어쩔수 없지만 핸들과 시트는 뜨겁지는 않네요<br/>" 
+---

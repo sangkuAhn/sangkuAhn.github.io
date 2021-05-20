@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "다이노킹 아동용 오리지날 샌들" 
+description: 다이노킹 아동용 오리지날 샌 ..
+date: 2021-05-20 15:04:16 
+img: https://static.coupangcdn.com/image/retail/images/2021/01/22/10/9/5d348b8c-679a-45c3-ae0a-28b65d2bc70f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5033337106&itemId=6761563211&vendorItemId=73581092166&traceid=V0-113-8d28113d1e56e15c 
+categories: [1011] 
+color: 43A047 
+price: 34990 
+author: Ask View Shop 
+cont:  "마감도 훌륭하고 가볍고 편해요<br/>샌들이라 맨발감안해서 정사이즈시켰는데 넉넉히 잘 맞았어요 공룡을 워낙 좋아해서 사줬는데 여름내내 잘 신을거같아요<br/>평소160.<br/>한치수 크게 샀는데 불편함이 없어요.<br/> ㅋㅋ<br/>" 
+---
