@@ -9,5 +9,5 @@ categories: [1012]
 color: A566FF 
 price: 21200 
 author: Ask View Shop 
+cont:  "랍스타는 쫄깃함<br/>맛나요<br/>살아잇는 랍스타를 만지려니깐 무서브ㅜㅜ<br/>완전 맛있게 잘먹었습니다<br/>" 
 ---
- 
