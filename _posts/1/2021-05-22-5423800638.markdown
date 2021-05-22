@@ -9,5 +9,5 @@ categories: [1010]
 color: 5A8DF3 
 price: 39900 
 author: Ask View Shop 
+cont:  "good good good<br/>남편이 이 제품쓰고  탈모증상이 주춤 해졌다고 좋아합니다.<br/> 다만 향이 좀 ㅜㅜ<br/>주변의 권유로샀는데 정말 좋아요.<br/>저렴하게 겟했어요<br/>" 
 ---
- 
