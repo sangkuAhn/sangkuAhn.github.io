@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "삼성전자 68.5cm UHD 고해상도 모니터, LS27A800UJKXKR" 
+description: 삼성전자 68.5cm UHD ..
+date: 2021-05-25 07:39:34 
+img: https://static.coupangcdn.com/image/retail/images/2021/05/11/12/6/6715170b-4c90-48f9-b380-21b3f0d2f2e5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5491500766&itemId=8502781410&vendorItemId=75790283473&traceid=V0-113-7c37e12c15967192 
+categories: [1016] 
+color: f44336 
+price: 539000 
+author: Ask View Shop 
+---
+ 

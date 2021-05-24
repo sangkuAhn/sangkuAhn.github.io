@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "삼성전자 80cm UHD 고해상도 모니터, LS32A800NMKXKR" 
+description: 삼성전자 80cm UHD 고 ..
+date: 2021-05-25 07:39:34 
+img: https://static.coupangcdn.com/image/retail/images/2021/05/11/12/0/1648ad1e-1f7f-4913-a72e-fe60031e2599.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5491500813&itemId=8502781632&vendorItemId=75790283640&traceid=V0-113-a13714dcd4339be3 
+categories: [1016] 
+color: 4A148C 
+price: 509000 
+author: Ask View Shop 
+---
+ 
