@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "순수식품 도라지배즙, 80ml, 100개" 
+description: 순수식품 도라지배즙, 80m ..
+date: 2021-05-24 15:11:23 
+img: https://static.coupangcdn.com/image/retail/images/607574406485999-7904bed0-f2d9-47ee-a0c0-c88f291568ca.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=328692894&itemId=3998075375&vendorItemId=73983575160&traceid=V0-113-e60136a4441adc17 
+categories: [1012] 
+color: 03A9F4 
+price: 35900 
+author: Ask View Shop 
+---
+ 
