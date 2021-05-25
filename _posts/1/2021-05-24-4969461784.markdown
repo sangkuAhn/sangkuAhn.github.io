@@ -9,5 +9,5 @@ categories: [1019]
 color: 006064 
 price: 9900 
 author: Ask View Shop 
+cont:  "사실은 봐도 아리송 합니다 할수나 있을지 걱정입니다!!<br/>" 
 ---
- 

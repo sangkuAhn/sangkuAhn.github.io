@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "헤이지 퍼프 티셔츠" 
+description: 헤이지 퍼프 티셔츠 ..
+date: 2021-05-25 14:01:05 
+img: https://static.coupangcdn.com/image/vendor_inventory/aaef/94ef92ab75a01261f54fb75f1bfb9e3ecf42ad23944001be95d1efb163a8.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5308443218&itemId=7683452767&vendorItemId=74973746506&traceid=V0-113-143c916c4b5d6db7 
+categories: [1001] 
+color: 5A8DF3 
+price: 11500 
+author: Ask View Shop 
+cont:  "검정샀다가 넘이뻐서 하양 레드 추가구매했어요... <br/>근데 검정보다 레드가 허리가 더조이네요.<br/>.<br/> 암튼 질도좋아보이고 넘나이쁩니다<br/>얇지도 않아서 지금 계절에 입기 좋아요!!<br/>재질도 쫀쫀하니 불편하지도 않고<br/>퍼프도 풍성하고 입으니까 진짜 날씬해보여요<br/>허리부분이 레드는 꽉 조이고 블랙은 편안했습니다 두 칼라 모두 핏이 예쁘고 레드가 눈에 띄긴 합니다만 화사합니다 더 예쁘구요 블랙은 라인은 나오면서 차분한 느낌 입니다 문의했을때 재고가 있으시다고 하셔서 예정배송날짜보다 일주일 가까이 빨리 받았습니다 레드로 2개 잘못 주문해서 1개를 블랙으로 배송시작전에 발송부탁드렸는데 감사하게도 요청사항을 잘들어주셨습니다<br/>" 
+---
