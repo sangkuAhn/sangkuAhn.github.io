@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "레토 멀티 푸쉬업바 LPB-M01, 혼합색상" 
+description: 레토 멀티 푸쉬업바 LPB- ..
+date: 2021-05-26 15:46:38 
+img: https://static.coupangcdn.com/image/vendor_inventory/ea98/ed1ad4f6489ec15d2e94ea4fe045e5fff321003a4f9ae9bfaacb4994efb1.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5574386588&itemId=8888768801&vendorItemId=76145512827&traceid=V0-113-961a182b601965e0 
+categories: [1017] 
+color: F15F5F 
+price: 14000 
+author: Ask View Shop 
+---
+ 
