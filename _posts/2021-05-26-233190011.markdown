@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "인텍스 프레임풀 대 INTEX 28272, 인텍스풀장 28280J, 1개" 
+description: 인텍스 프레임풀 대 INTE ..
+date: 2021-05-27 08:07:43 
+img: https://static.coupangcdn.com/image/vendor_inventory/d025/c5b4fefc50397ab8f4482b07bd0e756a973b01358e65f37f9f925cb194b1.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=233190011&itemId=740487821&vendorItemId=70808914483&traceid=V0-113-e1add85b5e0bfdaa 
+categories: [1020] 
+color: 7E57C2 
+price: 168000 
+author: Ask View Shop 
+---
+ 
