@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "맥스컷 기본형 1박스, 단품, 단품" 
+description: 맥스컷 기본형 1박스, 단품 ..
+date: 2021-05-26 08:21:54 
+img: https://static.coupangcdn.com/image/vendor_inventory/c5bf/628f08d40e25feac5b4eb94d46e9a9a9e718c99766355b244cef67156e3a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2079663296&itemId=3532991631&vendorItemId=73532546705&traceid=V0-113-790b82380f6d5eca 
+categories: [1024] 
+color: FF1744 
+price: 41000 
+author: Ask View Shop 
+cont:  "그만큼 효과가 좋단거겠죠<br/>꾸준히 물과함께 복용 할려고요.<br/><br/>동생이 효과보고 추천받아 구입했어요<br/>많이먹어도 유지시켜주는건 진짜 최고임!!<br/>먹고 변을보니 아주 고약하네요<br/>바로와서<br/>상품평 남겨볼려구요<br/>서슴없이  구매했어요.<br/><br/>시원하게  자주가는것 같아요.<br/><br/>식단운동하면서 이거먹고 살빼올게옄ㅋㅋㅋ<br/>식단이랑 운동같이하면 진짜 죽죽빠질거같아요<br/>어제  물 섭취량 <br/> -3컵이하<br/>언제 먹을진 모르겟지만 굳게 마음먹고<br/>열심히 먹어볼게요<br/>오늘  물 섭취량 <br/> -1L 초과<br/>이틀 정도라  물섭취가 얼마나 좌우하는지는 모르겠지만<br/>제 동생은 남자인데 효과 톡톡히 보고있어요<br/>집콕생활로  3kg  찐 상황에 찾다가 ♡♡비 사진을 보곤<br/>처음 한달은 이게 효과있긴한건가 싶었는데<br/>친구추천으로 몇달 먹었어요<br/>한달 뒤 재 몸무게 변화있으면 다시<br/>확실히  물을 많이 섭취하니 맥스컷 먹고나서 화장실<br/>확실히 빠지진않지만 찌지는 않아요 ㅋㅌㅋㅋ<br/>" 
+---
