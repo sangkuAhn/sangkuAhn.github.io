@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "디즈니 프린세스 색연필 랜덤 발송, 20색" 
+description: 디즈니 프린세스 색연필 랜덤 ..
+date: 2021-05-27 16:14:53 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/11/01/3630456883/60bf963e-9315-445b-9011-b54f1ba61f99.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=81374708&itemId=259459984&vendorItemId=3630456883&traceid=V0-113-ee7bc37287f28636 
+categories: [1021] 
+color: BD24A9 
+price: 6550 
+author: Ask View Shop 
+cont:  "랜덤 발송이니 한 개가 오는거였는데 제가 잘못 봤네요ㅎㅎㅎ 예쁘고 색이 적당히 선명하고 아이가 사용하기에 편리해요<br/>아이들이 프린세스라고 너무 좋아해요.<br/> 진작 살걸 그랬어요.<br/> ㅎㅎ<br/>앞에 그려진 캐릭터들이 내 감수성을 일깨워 준다 미술 과제 때에 샀지만 ㅋㅋ<br/>컬러감도 좋고 괜찮네요.<br/><br/>" 
+---

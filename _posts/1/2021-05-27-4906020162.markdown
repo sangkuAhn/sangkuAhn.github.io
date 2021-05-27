@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "레고 테크닉 42123 맥라렌 세나 GTR, 혼합색상" 
+description: 레고 테크닉 42123 맥라 ..
+date: 2021-05-27 16:07:49 
+img: https://static.coupangcdn.com/image/retail/images/1211300591492395-91d189d7-4206-4a63-b9f7-5417d135f297.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4906020162&itemId=6401964885&vendorItemId=73400332756&traceid=V0-113-3a549b91c5e27ad3 
+categories: [1020] 
+color: CF36BB 
+price: 67900 
+author: Ask View Shop 
+cont:  "10살 아이가 너무너무 좋아하네요.<br/>어린이날 선물로 사줬는데 어린이날 아무데도 안가고 저거만 가지고 놀았답니다 .<br/><br/>배송도 빠르고 너무 좋아하네요<br/>어려운 레고로 추천받고 했는데 별로 안 어렵네요ㅠㅠ 그래도 재밌었습니다.<br/><br/>조카 선물로 구매했는데<br/>" 
+---
