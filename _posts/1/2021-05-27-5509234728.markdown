@@ -9,5 +9,5 @@ categories: [1019]
 color: 1294AB 
 price: 16200 
 author: Ask View Shop 
+cont:  "그냥  흔한 차트 책중 하나<br/>배송 총알 입니다.<br/> 오전에 주문 오후에 배송 받음.<br/><br/>아직  다  안  읽었지만 도움  될거  같아요<br/>이정도 가격 이면 최소  동영상 도 넣어야 하는데<br/>" 
 ---
- 
