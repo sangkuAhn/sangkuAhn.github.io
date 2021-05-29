@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코멧 아웃도어 접이식 화로대" 
+description: 코멧 아웃도어 접이식 화로대 ..
+date: 2021-05-30 07:46:33 
+img: https://static.coupangcdn.com/image/retail/images/3965875297510-028be2f9-6487-4220-b280-6169dd37d032.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5257954155&itemId=7463433468&vendorItemId=74754339411&traceid=V0-113-60ee3d730008080e 
+categories: [1017] 
+color: 4CAF50 
+price: 21990 
+author: Ask View Shop 
+---
+ 
