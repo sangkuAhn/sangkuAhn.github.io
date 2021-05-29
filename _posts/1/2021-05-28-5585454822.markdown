@@ -9,5 +9,5 @@ categories: [1017]
 color: f44336 
 price: 14900 
 author: Ask View Shop 
+cont:  "가성비 굳<br/>아이가 15.<br/>3킬로인데 더 커야 될꺼 같네요<br/>" 
 ---
- 
