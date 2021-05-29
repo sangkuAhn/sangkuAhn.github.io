@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코멧 사각 모기장" 
+description: 코멧 사각 모기장 ..
+date: 2021-05-29 15:32:31 
+img: https://static.coupangcdn.com/image/retail/images/532861609924579-10e80f62-750c-4d65-ba63-12b418149249.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5296155649&itemId=7633485524&vendorItemId=74924493474&traceid=V0-113-b89fd317744e0f4b 
+categories: [1015] 
+color: f44336 
+price: 12090 
+author: Ask View Shop 
+---
+ 
