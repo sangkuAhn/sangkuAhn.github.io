@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "홈플래닛 휴대용 목걸이 선풍기" 
+description: 홈플래닛 휴대용 목걸이 선풍 ..
+date: 2021-05-30 15:39:33 
+img: https://static.coupangcdn.com/image/retail/images/2791213981320-a72d49ed-7cb9-42e9-a28e-6d3612cf0466.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5172472350&itemId=7139425406&vendorItemId=74431157818&traceid=V0-113-21b7fc2dbe86ca4e 
+categories: [1016] 
+color: 006064 
+price: 20990 
+author: Ask View Shop 
+cont:  "생각보다 크고 무거운편 가격대비 쓸만합니다<br/>생각보다는 훨신 시원하고 좋아요<br/>일단 최저 바람으로 해도 바람이 꽤 잘 올라옴 3단은 시끄러운 편이고 1단은 귀에 거슬릴 정도는 아니내요.<br/> 크기도 적당하고 무게도 가벼운편.<br/> 단 1단이어도 독서실 같은곳은 사용하기 애매한듯<br/>" 
+---
