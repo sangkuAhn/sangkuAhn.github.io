@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "루나샵 스마일박스트임 반팔 티셔츠" 
+description: 루나샵 스마일박스트임 반팔  ..
+date: 2021-05-31 06:01:05 
+img: https://static.coupangcdn.com/image/vendor_inventory/4178/044d7a1029c2027174df555e2c8f8d4b9a04416a5f89c01c825c32e412e9.JPG 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5305618099&itemId=7673094816&vendorItemId=74963453802&traceid=V0-113-79e20b5c67b3e687 
+categories: [1001] 
+color: A6A6A6 
+price: 15000 
+author: Ask View Shop 
+cont:  "건조기 돌리면 약간<br/>물론 더 말랐으면 슬림한데 넉넉하니 예뻤을거 같은데<br/>부담되서 못입었는데<br/>살찐자로 얘기하면 편하니 좋아요!<br/>이 옷 사세요.<br/>.<br/><br/>이옷 넉넉하니 흡족해요<br/>저 살찌고 프리사이즈 옷.<br/>.<br/><br/>줄어들긴 하는데 아직은<br/>최근에 살이 많이 쪘는데ㅜㅜ 티셔츠가 넉넉한게 좋아요ㅋㅋ 뱃살 가리기 성공!<br/>편하게 잘맞아요<br/>편하고 사이즈 넉넉해요<br/>" 
+---
