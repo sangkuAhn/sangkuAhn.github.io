@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "웅진 빅토리아 배 탄산음료, 20개입, 500ml" 
+description: 웅진 빅토리아 배 탄산음료, ..
+date: 2021-06-01 15:11:20 
+img: https://static.coupangcdn.com/image/retail/images/248265650409526-c335088d-83dd-4790-acc8-24659a048d1b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=313509542&itemId=991417212&vendorItemId=5417195379&traceid=V0-113-ce49f735fd9d917b 
+categories: [1012] 
+color: 35B62C 
+price: 10160 
+author: Ask View Shop 
+---
+ 
