@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "로지 썸머 카라니트티 (국내발송)" 
+description: 로지 썸머 카라니트티 (국내 ..
+date: 2021-06-03 06:01:04 
+img: https://static.coupangcdn.com/image/vendor_inventory/575c/c08c4f9005b532df3609fb2d1d04907224d8eb84ed747237777744e9c59f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5455010325&itemId=8335698806&vendorItemId=75623527710&traceid=V0-113-0b4a2d91beb281db 
+categories: [1001] 
+color: 03A9F4 
+price: 9900 
+author: Ask View Shop 
+---
+ 
