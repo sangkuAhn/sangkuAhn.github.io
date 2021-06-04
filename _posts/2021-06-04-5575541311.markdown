@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "로캣 PYRO RGB 기계식 게이밍 키보드, 일반형" 
+description: 로캣 PYRO RGB 기계식 ..
+date: 2021-06-05 07:39:34 
+img: https://static.coupangcdn.com/image/retail/images/2021/05/26/10/0/404f7929-a423-457d-8916-4181fa397368.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5575541311&itemId=8894597581&vendorItemId=76181237563&traceid=V0-113-bc928bec467487a8 
+categories: [1016] 
+color: 4A148C 
+price: 110000 
+author: Ask View Shop 
+---
+ 
