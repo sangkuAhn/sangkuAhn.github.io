@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "닌텐도 스위치 저스트댄스 2021 + 조이콘 스트랩 레드 + 블루 세트" 
+description: 닌텐도 스위치 저스트댄스 2 ..
+date: 2021-06-04 16:07:48 
+img: https://static.coupangcdn.com/image/retail/images/2020/12/30/12/0/c0d6064b-ad57-4d34-ae55-4ab8f5d15335.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4703667373&itemId=5927523331&vendorItemId=73225536768&traceid=V0-113-d180e875eb13b152 
+categories: [1020] 
+color: f44336 
+price: 77270 
+author: Ask View Shop 
+cont:  "게다가 비싸게 샀네요... <br/><br/>땀도 나고 운동과 게임을 동시에 즐길  수 있어서 좋아요<br/>부모님도 재밋게 하시네요!<br/>빠른 배송 및 밖으로 운동나가기 힘들때 재밌게 즐길수잇는 제품인것 같아요.<br/><br/>" 
+---
