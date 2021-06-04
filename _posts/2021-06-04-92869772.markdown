@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "지베딩 시어서커 허브 여름 패드, 그레이" 
+description: 지베딩 시어서커 허브 여름  ..
+date: 2021-06-04 15:32:31 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/07/12/3708010328/8f563d0f-67f1-4880-aa40-baa23cf3609b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=92869772&itemId=288320566&vendorItemId=3708010328&traceid=V0-113-90e0ed1de1a9ae92 
+categories: [1015] 
+color: A6A6A6 
+price: 19900 
+author: Ask View Shop 
+---
+ 
