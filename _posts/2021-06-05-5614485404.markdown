@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "테퍼 조립PC ROG STRIX RTX3080TI (i9-11900K WIN10 Home RAM 16GB NVMe 500GB RTX 3080 Ti), 기본형" 
+description: 테퍼 조립PC ROG STR ..
+date: 2021-06-05 15:39:35 
+img: https://static.coupangcdn.com/image/retail/images/2021/06/02/18/9/98746d47-bad2-4863-b9e1-413aece64ead.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5614485404&itemId=9081545881&vendorItemId=76367806249&traceid=V0-113-f37c6a30e0a6a7c9 
+categories: [1016] 
+color: FF6F00 
+price: 3990000 
+author: Ask View Shop 
+---
+ 
