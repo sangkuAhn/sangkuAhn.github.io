@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "곰곰 애플수박, 1kg이상, 1개" 
+description: 곰곰 애플수박, 1kg이상, ..
+date: 2021-06-06 15:11:19 
+img: https://static.coupangcdn.com/image/retail/images/91221554127386-6f11c088-a1cf-426a-a665-18234a8c945a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5530968034&itemId=8679295253&vendorItemId=75966445252&traceid=V0-113-ee8ddba5b8035df7 
+categories: [1012] 
+color: BF360C 
+price: 9700 
+author: Ask View Shop 
+---
+ 
