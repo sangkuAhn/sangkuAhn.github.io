@@ -9,5 +9,5 @@ categories: [1018]
 color: 353535 
 price: 12980 
 author: Ask View Shop 
+cont:  "늘 쓰는 제품 입니다.<br/> 잘 닦여요<br/>잘 닦이네요.<br/><br/>잘 쓰겠습니다<br/>좋아요 세정력도 좋고 냄새도 덜하네요<br/>" 
 ---
- 

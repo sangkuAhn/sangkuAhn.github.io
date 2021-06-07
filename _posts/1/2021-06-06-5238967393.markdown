@@ -9,5 +9,5 @@ categories: [1011]
 color: CF36BB 
 price: 8900 
 author: Ask View Shop 
+cont:  "면 100% 라 좋고 신축성 좋아요.<br/><br/>사진과 똑같고 이뻐요.<br/><br/>예쁘고 면이 부드러워서 편하대요<br/>이쁘게 입힐게요.<br/><br/>" 
 ---
- 
