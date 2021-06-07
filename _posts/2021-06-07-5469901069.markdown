@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "클라스카 베를린 카카오 원두, 홀빈(분쇄안함), 500g" 
+description: 클라스카 베를린 카카오 원두 ..
+date: 2021-06-08 08:21:56 
+img: https://static.coupangcdn.com/image/retail/images/2021/04/29/13/3/1d73340f-7d37-461d-9b79-156bc873f574.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5469901069&itemId=8401178438&vendorItemId=75688905988&traceid=V0-113-efcb1e24cf6ce97b 
+categories: [1024] 
+color: A6A6A6 
+price: 13200 
+author: Ask View Shop 
+---
+ 
