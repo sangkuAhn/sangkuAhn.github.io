@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "지베딩 아이스베어 시어서커 여름 홑이불, 민트" 
+description: 지베딩 아이스베어 시어서커  ..
+date: 2021-06-08 15:32:31 
+img: https://static.coupangcdn.com/image/retail/images/2018/06/01/17/6/64577937-b712-4fd2-9d3b-0ba176e28b80.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=97472883&itemId=299285666&vendorItemId=3736508040&traceid=V0-113-ed19b1662b5a03d3 
+categories: [1015] 
+color: BF360C 
+price: 8940 
+author: Ask View Shop 
+cont:  "그래도 새것이니까 바로 세탁기에 넣고 돌리는중입니다<br/>너무 얆아요 얆은데 시원하지도 안네요 바람막이 느낌<br/>북극곰과 여러 디자인 패턴이 너무 귀여워요!<br/>색감도 상큼 북극곰모양이랑 잘 어울리고 시원해보여요<br/>얇기는 한데 살짝은 바스락거리는 재질이라 괜찮네여<br/>여름이불로 배만 덮기에 딱인것같아요<br/>" 
+---
