@@ -9,5 +9,5 @@ categories: [1013]
 color: 03A9F4 
 price: 35910 
 author: Ask View Shop 
+cont:  "잘 지워지고 사용하기도 편리해서 항상 이것만 씁니다<br/>" 
 ---
- 

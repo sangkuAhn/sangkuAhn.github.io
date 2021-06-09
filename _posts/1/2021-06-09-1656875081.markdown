@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "신일 에어 써큘레이터 SIF-SE10SC" 
+description: 신일 에어 써큘레이터 SIF ..
+date: 2021-06-09 15:39:33 
+img: https://static.coupangcdn.com/image/retail/images/2020/06/01/12/3/6e094c5e-8bc0-4f0a-8053-e4bab9a7b5da.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1656875081&itemId=2823027215&vendorItemId=70812489747&traceid=V0-113-7043f7756d716452 
+categories: [1016] 
+color: A566FF 
+price: 90000 
+author: Ask View Shop 
+cont:  "기존 쓰던 보국제품 써큘레이터가 있는데 제품 다좋은데<br/>더 좀고 온도에 따라 바람조절까지 되네요<br/>소음도 거의 없고 풍속조절도 단계가 많아서<br/>아주 만족합니다<br/>역시 신일이네요<br/>저렴하게 구입했고 작동해보니 설명 그대로 작동 됩니다.<br/><br/>조용하고 디자인도 깔끔하고 너무 만족스러워요 ^^<br/>좋은 제품 싸게 잘 샸네요.<br/><br/>청소하기가 너무 불편해서 청소가 용이한 제품 뭐 없나 하고 찾아보고있었는데.<br/>.<br/>마침 이제품이 써큘임에도 분리하여 청소도 된다하여서 고민없이 샀네요 직접 받아보니 바람세기 좋고<br/>" 
+---
