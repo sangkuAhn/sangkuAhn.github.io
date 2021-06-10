@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "애드에딧 레이스 자넷 에코백" 
+description: 애드에딧 레이스 자넷 에코백 ..
+date: 2021-06-10 14:08:07 
+img: https://static.coupangcdn.com/image/retail/images/2020/09/21/14/5/5473411b-f1a2-4c62-b8bc-09430adef498.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2245614268&itemId=3837357145&vendorItemId=71822178261&traceid=V0-113-6ef7622aac71d12d 
+categories: [1002] 
+color: 35B62C 
+price: 15900 
+author: Ask View Shop 
+cont:  "급하게 필요해서 쿠팡에서 가방 처음<br/>리뷰 웬만해선 거의 안쓰는편인데<br/>배송 받자마자 너무 마음에 들어서<br/>사이즈도 넉넉하고 착용감도 좋고<br/>생각보다 여기저기 어울리는 가방입니다<br/>소비였습니당... <br/>!!!<br/>쓰러 들어왔어요ㅋㅋㅋ<br/>오늘  바로 출근할때  메고 나가요더워지는  계절에  가볍고 예쁘게  갖고 디니기에  좋네요  아이보리색이  시원하게는  보여요<br/>잘 사용하고있어요<br/>저렴한 가격에 잘 산 것 같아요<br/>제느낌엔 계절도 크게 타지않는것같아  일년내내 잘쓸것같아요<br/>주문한건데 사진이랑 똑같고<br/>최근에 구매한 것 중에 제일 맘에 드는<br/>크기도 적당하고 예뻐요<br/>" 
+---

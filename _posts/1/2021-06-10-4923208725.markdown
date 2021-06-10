@@ -9,5 +9,5 @@ categories: [1002]
 color: D9418C 
 price: 37730 
 author: Ask View Shop 
+cont:  "가격이 주식처럼 왔다갔다 하지만<br/>괜히 고민함<br/>많이 들어가고 편하게 들고다니기 좋아요<br/>이 가격에 이정도면 대만족 ㅋㅋㅋㅋㅋ<br/>크기도 적당하고 가성비도 좋아요<br/>" 
 ---
- 
