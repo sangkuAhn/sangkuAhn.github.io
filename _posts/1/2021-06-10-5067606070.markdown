@@ -9,5 +9,5 @@ categories: [1002]
 color: FF6F00 
 price: 26990 
 author: Ask View Shop 
+cont:  "매우 좋아요<br/>슬리퍼가 뭉툭하고 발도 커보이는데 푹신하고 편하다네요<br/>운동화260신는데 슬리퍼는 편하게 신으려고 265샀는데 잘맞아요<br/>최고!!!<br/>" 
 ---
- 
