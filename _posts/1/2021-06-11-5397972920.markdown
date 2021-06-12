@@ -9,5 +9,5 @@ categories: [1020]
 color: 9E9D24 
 price: 31500 
 author: Ask View Shop 
+cont:  "원래 쓰는 제품인데 다시 샀어요<br/>항상이용하는제품이예요<br/>" 
 ---
- 
