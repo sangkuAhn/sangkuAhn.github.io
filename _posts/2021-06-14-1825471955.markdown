@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "페이브 시그니쳐 화이트 블랜드 원두커피, 홀빈, 200g" 
+description: 페이브 시그니쳐 화이트 블랜 ..
+date: 2021-06-15 07:11:19 
+img: https://static.coupangcdn.com/image/retail/images/2020/07/15/14/2/07fab35d-8130-49d8-9cb8-1b3b00833bf0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1825471955&itemId=3106051043&vendorItemId=71093817902&traceid=V0-113-dbf907648350c62c 
+categories: [1012] 
+color: FF1744 
+price: 7200 
+author: Ask View Shop 
+---
+ 

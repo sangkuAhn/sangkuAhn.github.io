@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "페이브 시그니쳐 블랙 블랜드 원두커피, 홀빈, 200g" 
+description: 페이브 시그니쳐 블랙 블랜드 ..
+date: 2021-06-15 07:11:19 
+img: https://static.coupangcdn.com/image/retail/images/2020/07/15/14/5/e3b482e6-2fe1-4ee8-bb6f-d6f7f3f61094.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1825472223&itemId=3106051381&vendorItemId=71093818241&traceid=V0-113-75ee3090674b696e 
+categories: [1012] 
+color: BD24A9 
+price: 6800 
+author: Ask View Shop 
+---
+ 
