@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "MSI 게이밍 노트북 블랙 GP76 레오파드 11UG (i7-11800H 43.9cm RTX 3070), NVMe 512GB, 윈도우 미포함, 16GB" 
+description: MSI 게이밍 노트북 블랙  ..
+date: 2021-06-18 07:39:32 
+img: https://static.coupangcdn.com/image/rs_quotation_api/gg83bjdx/49d43b64fcf349c9b306f8f5e1ef4ca3.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5617942276&itemId=9098790520&vendorItemId=76384982931&traceid=V0-113-f894ba84f367564c 
+categories: [1016] 
+color: FF1744 
+price: 2099000 
+author: Ask View Shop 
+---
+ 
