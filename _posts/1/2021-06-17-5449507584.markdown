@@ -9,5 +9,5 @@ categories: [1002]
 color: A57F92 
 price: 28900 
 author: Ask View Shop 
+cont:  "작고 예쁘네요<br/>제품은 괜찮은데 생각보다 사이즈가 살짝 작네요<br/>지갑하나 끝ㅣ뿌긴 이뻐요<br/>" 
 ---
- 
