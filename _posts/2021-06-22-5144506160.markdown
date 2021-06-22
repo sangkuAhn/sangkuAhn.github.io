@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "삼성전자 컬러 잉크젯 복합기 SL-J1660" 
+description: 삼성전자 컬러 잉크젯 복합기 ..
+date: 2021-06-22 16:14:45 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/10/25/3156395949/4aa0c31b-4a5e-4d35-8d31-7d55d46f8fa4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5144506160&itemId=7059931218&vendorItemId=70872456307&traceid=V0-113-0181872f49cec0b7 
+categories: [1021] 
+color: BD24A9 
+price: 45000 
+author: Ask View Shop 
+---
+ 
