@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "시공주니어/와일드 심포니 (양장), 시공주니어, 댄 브라운" 
+description: 시공주니어/와일드 심포니 ( ..
+date: 2021-06-25 07:04:15 
+img: https://static.coupangcdn.com/image/retail-product-api/A00077021/58105401/64285134/main/9791165795863_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5717365944&itemId=9552612357&vendorItemId=76837273497&traceid=V0-113-3161fe2bc54db766 
+categories: [1011] 
+color: 35B62C 
+price: 13050 
+author: Ask View Shop 
+---
+ 
