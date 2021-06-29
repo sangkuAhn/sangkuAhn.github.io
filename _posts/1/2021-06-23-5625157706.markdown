@@ -9,5 +9,5 @@ categories: [1012]
 color: F361A6 
 price: 20000 
 author: Ask View Shop 
+cont:  "너무 싱싱하고 크기도 크네요<br/>정말 싱싱하네요 회로 먹었어유<br/>" 
 ---
- 
