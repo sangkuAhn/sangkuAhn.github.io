@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "베베쥬 드로잉티셔츠" 
+description: 베베쥬 드로잉티셔츠 ..
+date: 2021-07-10 15:04:11 
+img: https://static.coupangcdn.com/image/vendor_inventory/a6b6/64005af98b9edd80f2a7b4c1d71170a64ab8764a71a82a29fe6e7e1e1bdc.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5509428969&itemId=8583397966&vendorItemId=75338134508&traceid=V0-113-d285115fc1e7be1b 
+categories: [1011] 
+color: A566FF 
+price: 5880 
+author: Ask View Shop 
+cont:  "귀염귀염<br/>뒷모습이 너무 이쁜것같습니다 <br/>아는동생이사서 입혔는데 가격도저렴한데 넘이뻐서 둘째셋째 사입혔어요 너무만족입니다 둘째는125센티22키론데 130사고 셋찌는107에17.<br/>5키로 좀크게입히려고120샀어요좀낙낙하니 잘맞고 이쁩니다<br/>아이가 109 17킬로 되는데요 평소 상의는 120을 입지만 이 옷은 사이즈표 참고해서 110으로 구매했네요.<br/> 120으로 했다면 품이 전체적으로 컸을것 같아요.<br/> 우리 아이는 110 사이즈 입혀 보니 품은 약간 여유가 있고 길이는 딱 맞네요.<br/> 옷 디자인이 팔 소매 품하고 전체 품은 여유있고 앞 부분과 뒷부분 길이가 다른 디자인의 옷이네요.<br/> 앞 길이보다 뒤부분 길이가 조금 더 길어요.<br/> 우리 아이는 110이 스타일리쉬하게 잘 맞는거 같네요<br/>재질도 시원하고 너무 귀엽네요<br/>품이 넉넉해서 아이도 좋아해요!<br/>" 
+---
