@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "곰곰 단호박샐러드, 1kg, 1개" 
+description: 곰곰 단호박샐러드, 1kg, ..
+date: 2021-07-14 07:11:19 
+img: https://static.coupangcdn.com/image/retail/images/74325352936480-979edb9a-0f2c-421f-bf2a-9983bfc4b2b6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1581868676&itemId=2704300853&vendorItemId=70694615097&traceid=V0-113-5545d1a5b4dbb749 
+categories: [1012] 
+color: F15F5F 
+price: 6180 
+author: Ask View Shop 
+---
+ 

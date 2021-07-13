@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "신일 기본형 가정용 선풍기 SIF-C14HCT" 
+description: 신일 기본형 가정용 선풍기  ..
+date: 2021-07-14 07:39:33 
+img: https://static.coupangcdn.com/image/retail/images/2018/04/03/18/4/c2b7455e-ade5-4caf-85b7-2225bb45de9c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=77736293&itemId=251311975&vendorItemId=3612434084&traceid=V0-113-905ea1db9be6b376 
+categories: [1016] 
+color: CF36BB 
+price: 53940 
+author: Ask View Shop 
+---
+ 

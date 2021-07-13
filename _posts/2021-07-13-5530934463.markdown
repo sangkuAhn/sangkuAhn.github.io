@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "곰곰 파프리카 혼합, 1봉" 
+description: 곰곰 파프리카 혼합, 1봉 ..
+date: 2021-07-14 08:21:54 
+img: https://static.coupangcdn.com/image/retail/images/79337120123549-9817e97b-7d41-4bbd-abd3-29d882a0b378.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5530934463&itemId=8679138654&vendorItemId=75966284792&traceid=V0-113-e7f255e71d898383 
+categories: [1024] 
+color: 4CAF50 
+price: 1980 
+author: Ask View Shop 
+---
+ 
