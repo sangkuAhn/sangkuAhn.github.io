@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "롯데푸드 의성마늘햄, 1000g, 1개" 
+description: 롯데푸드 의성마늘햄, 100 ..
+date: 2021-07-15 07:11:18 
+img: https://static.coupangcdn.com/image/retail/images/336763601746619-14ab2690-0bce-4f14-ba82-e9116ab8c215.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1601277885&itemId=2735160369&vendorItemId=70725268334&traceid=V0-113-581f995932a8d7cf 
+categories: [1012] 
+color: 9E9D24 
+price: 9420 
+author: Ask View Shop 
+---
+ 
