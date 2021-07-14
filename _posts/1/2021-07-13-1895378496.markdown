@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코멧 멀티 푸쉬업바 키트 1개, 블랙" 
+description: 코멧 멀티 푸쉬업바 키트 1 ..
+date: 2021-07-14 07:46:37 
+img: https://static.coupangcdn.com/image/retail/images/346161969776574-b26fe139-0db9-4198-82d0-aa12efa6ea5e.JPG 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1895378496&itemId=3219989000&vendorItemId=71207263690&traceid=V0-113-eeac7f8d4b1b3818 
+categories: [1017] 
+color: BF360C 
+price: 16020 
+author: Ask View Shop 
+cont:  "가격대비 효율적이고 좋아요<br/>나름 단단함<br/>다 괜찮은거 같은데 밑에 고무 붙여도 좀 미끌리네요<br/>바닥 고정 1도 안되네여<br/>이거 푸쉬업하다 이빨 깨집니다<br/>평 알바인가요?<br/>" 
+---
