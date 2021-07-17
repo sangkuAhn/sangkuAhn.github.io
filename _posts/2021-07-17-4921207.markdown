@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코리아보드게임즈 할리갈리 컵스 딜럭스, 혼합 색상" 
+description: 코리아보드게임즈 할리갈리 컵 ..
+date: 2021-07-17 16:07:41 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/09/05/3032835984/39717c74-aa71-4c8e-982c-262f3badf62b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4921207&itemId=22460270&vendorItemId=3032835984&traceid=V0-113-2ad0d3fecb2366b2 
+categories: [1020] 
+color: 1294AB 
+price: 18830 
+author: Ask View Shop 
+---
+ 

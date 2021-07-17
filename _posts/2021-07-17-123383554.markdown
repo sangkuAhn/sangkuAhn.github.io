@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "팝스 다이어리, 6CD" 
+description: 팝스 다이어리, 6CD ..
+date: 2021-07-17 16:00:38 
+img: https://static.coupangcdn.com/image/retail/images/2018/08/16/17/1/f93d46a8-f764-43b6-89ca-0c2e37162eea.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=123383554&itemId=365702541&vendorItemId=3887921684&traceid=V0-113-b21904d76c0ecb37 
+categories: [1019] 
+color: A57F92 
+price: 11750 
+author: Ask View Shop 
+---
+ 

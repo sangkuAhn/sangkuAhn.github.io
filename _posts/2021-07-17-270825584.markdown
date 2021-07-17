@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "네모아저씨의 페이퍼 블레이드. 2: 레볼루션, 슬로래빗" 
+description: 네모아저씨의 페이퍼 블레이드 ..
+date: 2021-07-17 16:00:38 
+img: https://static.coupangcdn.com/image/vendor_inventory/2900/cb348291b8e806b16c0ea1f710c0c30523ffbbe19d8a8fc539b2fba247f9.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=270825584&itemId=850833960&vendorItemId=5161779676&traceid=V0-113-1f9bd75d8c60dfb4 
+categories: [1019] 
+color: 9E9D24 
+price: 10350 
+author: Ask View Shop 
+---
+ 

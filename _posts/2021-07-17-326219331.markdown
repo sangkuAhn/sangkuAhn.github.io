@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "위즈덤하우스/엄마의 하브루타 대화법, 위즈덤하우스" 
+description: 위즈덤하우스/엄마의 하브루타 ..
+date: 2021-07-17 16:00:38 
+img: https://static.coupangcdn.com/image/retail-product-api/A00077021/10144500/11730634/main/9791190305884_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=326219331&itemId=1044188028&vendorItemId=5491558824&traceid=V0-113-496bbdc089093607 
+categories: [1019] 
+color: A566FF 
+price: 12420 
+author: Ask View Shop 
+---
+ 
