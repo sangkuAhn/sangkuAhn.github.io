@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "구름빵, 한솔수북" 
+description: 구름빵, 한솔수북 ..
+date: 2021-07-17 16:00:38 
+img: https://static.coupangcdn.com/image/vendor_inventory/8422/0a59005db2efc1fb3e87ffc41f37b6dbefc364c6bfa4e98372ba4ace1ed1.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1309164222&itemId=2325609203&vendorItemId=70322251185&traceid=V0-113-660dd44d124df7ac 
+categories: [1019] 
+color: 4CAF50 
+price: 11700 
+author: Ask View Shop 
+cont:  "31개월인데 좀 책이 어렵지않을까? 싶었는데<br/>감성을 자극해주는<br/>구름빵 얘기는 많이 들었는데<br/>구름빵이라고 하네요 ㅎㅎ<br/>글씨는 많이 없어서 두번 정도 읽어주니 아이가 내용을 혼자 말하더라구요<br/>아이에게 보여주기 좋네요<br/>어린이집에서 동화수업이 있어서 주문했어요<br/>요즘 구름빵 만들기가 유행이라던데 그것도 만들면서 책이랑 연계해주면 좋을것같아요<br/>이 책 읽어준 뒤로 아이가 구름만 보면<br/>이미 유명한 책이라 믿고 구입했습니다<br/>이책이었군요 ㅎㅎㅎ<br/>읽기 편한책입니당<br/>작가님이 동화책을 쓰는 기본 마인드가 아이도 재밌고 어른도 재밌는 동화책이라고 했는데<br/>정말 엄마인 제가 봐도 재미있는 책이네요^^<br/>책 읽어주는 내내 아이가 집중해서 잘 봐요<br/>티비에 작가님 나오는거 보고 알게 된 책인데<br/>" 
+---

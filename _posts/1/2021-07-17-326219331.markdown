@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "위즈덤하우스/엄마의 하브루타 대화법, 위즈덤하우스" 
+description: 위즈덤하우스/엄마의 하브루타 ..
+date: 2021-07-17 16:00:38 
+img: https://static.coupangcdn.com/image/retail-product-api/A00077021/10144500/11730634/main/9791190305884_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=326219331&itemId=1044188028&vendorItemId=5491558824&traceid=V0-113-496bbdc089093607 
+categories: [1019] 
+color: A566FF 
+price: 12420 
+author: Ask View Shop 
+cont:  "감사합니다.<br/><br/>내용도 어렵지않게 경험을 바탕으로 표현되어있어서 읽기 편했어요<br/>서투르지만 아이에게 시도해보고있어요.<br/><br/>아이도 저도 변했어요.<br/><br/>아이를 대하는데 있어 존중하면서 대화하는 법을 잘 담고 있는 책인거 같아요.<br/> 하브루타식 대화법 좋은거 같아요<br/>육아할때 도움이 될것같아요<br/>이 책 읽은후<br/>" 
+---
