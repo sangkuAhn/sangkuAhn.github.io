@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "K2 쿨토시 베이직 일반형 + X벤더 손등형 팔토시, 블랙(일반)1+화이트(손등)1" 
+description: K2 쿨토시 베이직 일반형  ..
+date: 2021-07-19 06:08:10 
+img: https://static.coupangcdn.com/image/vendor_inventory/05eb/c2d16c54a554433d42b147e2369f65c0dd2e8786dc00e404192ec513dba4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5552829240&itemId=8782395295&vendorItemId=76069281093&traceid=V0-113-dd30e674115b50b1 
+categories: [1002] 
+color: F15F5F 
+price: 13900 
+author: Ask View Shop 
+---
+ 
