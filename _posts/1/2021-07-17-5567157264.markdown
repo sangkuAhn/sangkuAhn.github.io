@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "쌤소나이트레드 BAYNES 토트백" 
+description: 쌤소나이트레드 BAYNES  ..
+date: 2021-07-18 06:08:08 
+img: https://static.coupangcdn.com/image/retail/images/54490062895532-374f9a03-4add-4a36-9872-df659b2c6c32.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5567157264&itemId=8852864888&vendorItemId=5569821356&traceid=V0-113-975aea9afd06e5f2 
+categories: [1002] 
+color: 5A8DF3 
+price: 86330 
+author: Ask View Shop 
+cont:  "가볍고 좋다구<br/>가성비 굿뜨<br/>남편이가 매우 좋아해용  ㅎㅎ<br/>노트북 딱 들어가고 사이즈도 적당한거 같아요.<br/><br/>뿌듯해요 ㅋㅋ<br/>여러 브랜드 토트백 둘러보다가 디자인 심플하고 예뻐서 구매했는데 기대이상으로 너무 좋아서 대만족입니다! 거기에 가격까지 저렴해서 잘샀네요ㅎㅎ<br/>이거 무신사에서 후기가 너무 좋아서 보고있었는데,<br/>토드백, 크로스백 다 가능해서 너무 좋다고 하네요<br/>특가로 올라와서 얼른 구매했어요, 제가 사용할건 아니고<br/>형 선물로 주려고 구매했어요.<br/><br/>회사다니다보니 노트북 가지고다니거나 그런데<br/>" 
+---

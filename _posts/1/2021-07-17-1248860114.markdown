@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "신일 선풍기 35cm SIF-C84WK" 
+description: 신일 선풍기 35cm SIF ..
+date: 2021-07-18 07:39:32 
+img: https://static.coupangcdn.com/image/retail/images/2020/02/10/15/4/7d71df7c-8d7d-42e2-a953-1d828122846d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1248860114&itemId=2247230409&vendorItemId=70244637999&traceid=V0-113-b5f84b9c6526e5ed 
+categories: [1016] 
+color: A57F92 
+price: 66250 
+author: Ask View Shop 
+cont:  "깔끔하고 바람도 시원하고 좋아요<br/>바람소리는 일반보통선풍기소리랑같아요<br/>버튼이 여러개가아니여서 어른신들이 사용하기에도 간편하고 좋아요<br/>새벽배송 감사합니다<br/>세련되고 정말예쁘네요 안정감이있어 더욱안심되구요<br/>신랑이 상품에비해 싸게잘샀다고 하네요 ㅎ<br/>오늘 상품받고 사용해보았는데요<br/>올여름시원하게잘사용할께요<br/>정말정말 시원하네요<br/>" 
+---
