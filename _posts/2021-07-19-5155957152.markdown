@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코멧 대용량 휴대용 물통 2.5L, 블랙" 
+description: 코멧 대용량 휴대용 물통 2 ..
+date: 2021-07-20 07:18:22 
+img: https://static.coupangcdn.com/image/retail/images/248620959042261-75f67d8d-634c-4f55-8601-4baa8f149049.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5155957152&itemId=7092918347&vendorItemId=74384944118&traceid=V0-113-9f6a09dc7f045f49 
+categories: [1013] 
+color: BF360C 
+price: 9500 
+author: Ask View Shop 
+---
+ 
