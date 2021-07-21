@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "BLANC# 플라워 퍼프 브이넥 롱 원피스" 
+description: BLANC# 플라워 퍼프 브 ..
+date: 2021-07-21 06:01:05 
+img: https://static.coupangcdn.com/image/vendor_inventory/806e/433040847259999ba170d1afba8764f78460ffd0a8ddd6a56dda47a6a0d4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5472484188&itemId=8413886950&vendorItemId=75701513473&traceid=V0-113-6013c2d8936d9866 
+categories: [1001] 
+color: 03A9F4 
+price: 19800 
+author: Ask View Shop 
+cont:  "가슴부분이 살짝 아쉽긴하지만 그럭저럭 괜찮았어요<br/>끈으로 묶으니 더 여성스럽고 색상도 넘 예뻐요<br/>다른 원피스는 없으신가요<br/>다만 혼자 지퍼를 올리고 내리기 좀 힘들거 같다?싶었어요<br/>안에 짧게 슬립이 있어서 가격대비 만족할 수 있었어요!<br/>원단이랑 디자인 맘에 드는데<br/>잘 받았습니다<br/>한들한들 보드랍고 가벼워요<br/>" 
+---

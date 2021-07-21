@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "K2 아이스 쿨토시, 블랙3개" 
+description: K2 아이스 쿨토시, 블랙3 ..
+date: 2021-07-21 06:08:08 
+img: https://static.coupangcdn.com/image/vendor_inventory/b99a/89438ed8d8fad0495ff5f66ade72e46a42ce0727319f6ba9c074c4d83be6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5553381532&itemId=8785805174&vendorItemId=76072685971&traceid=V0-113-67498f1f2035ee4a 
+categories: [1002] 
+color: FF1744 
+price: 16900 
+author: Ask View Shop 
+cont:  "너무 두껍고 짱짱해서 착용하기 힘 듬... <br/><br/>너무작아요  한번 사용해 보시고 판매하세요<br/>사이즈가 타이트해요<br/>자외선 차단이 아니고 자외선 흡수<br/>쿨을 기대하지 마시고,<br/>쿨토시가 아니라 열토시?<br/>팔이 아주 가느다란 사람이 겨울에 착용하면 좋을 듯!<br/>" 
+---
