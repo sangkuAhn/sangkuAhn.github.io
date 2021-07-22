@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "켈로그 프링글스 버라이어티 팩, 1세트" 
+description: 켈로그 프링글스 버라이어티  ..
+date: 2021-07-23 07:11:19 
+img: https://static.coupangcdn.com/image/retail/images/162417364261839-d1bb0f6d-f1e2-43e0-9a30-a014d20e4eec.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5262432301&itemId=7480629529&vendorItemId=74771526114&traceid=V0-113-15024ee77ef65469 
+categories: [1012] 
+color: D9418C 
+price: 18900 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "스테이씨 - STAYDOM 싱글2집 앨범, 1CD" 
+description: 스테이씨 - STAYDOM  ..
+date: 2021-07-23 08:00:45 
+img: https://static.coupangcdn.com/image/retail/images/2021/04/08/16/1/697d3a57-d591-474e-9f3f-1a0fcaa1aedd.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5320456787&itemId=7736903805&vendorItemId=75027051925&traceid=V0-113-ccc02bc42a3382bf 
+categories: [1019] 
+color: f44336 
+price: 12750 
+author: Ask View Shop 
+---
+ 
