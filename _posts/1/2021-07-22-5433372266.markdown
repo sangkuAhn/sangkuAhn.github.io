@@ -9,5 +9,5 @@ categories: [1020]
 color: A566FF 
 price: 29890 
 author: Ask View Shop 
+cont:  "에어 바람넣는게  없는게 흠이네요ㅠ<br/>" 
 ---
- 

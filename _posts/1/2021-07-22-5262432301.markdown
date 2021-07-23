@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "켈로그 프링글스 버라이어티 팩, 1세트" 
+description: 켈로그 프링글스 버라이어티  ..
+date: 2021-07-23 07:11:19 
+img: https://static.coupangcdn.com/image/retail/images/162417364261839-d1bb0f6d-f1e2-43e0-9a30-a014d20e4eec.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5262432301&itemId=7480629529&vendorItemId=74771526114&traceid=V0-113-15024ee77ef65469 
+categories: [1012] 
+color: D9418C 
+price: 18900 
+author: Ask View Shop 
+cont:  "개인적으로 매운맛이 가장맛있고 나머지는 어니언이랑 오리지널은 제입에는 너무짜네요<br/>남자친구가 과자중에선 프링글스를 제일좋아하는데 항상 마트에서 한두개씩 사다가 쿠팡에서 한박스 파는것보고 바로구매했습니다 거기다 여러가지맛 파는것보고 개이득!! 생각들어서 구매햇더니 이게 왠일 맛까지 좋습니다ㅠㅠ 너무 좋은 상품이네요 감사합니다<br/>맛은 조금 짭잘하네요 .<br/><br/>맥주 안주로 먹으려 주문햇는데 맛잇네요 .<br/><br/>예전에 이런 작은 것은  쫌 짠던 기억이 잇엇는데 .<br/>.<br/><br/>이번에 먹은 것은 짜지 않고 괜찬네요 .<br/><br/>프링글스 살짝 적은 사이즈에요 .<br/>.<br/><br/>" 
+---

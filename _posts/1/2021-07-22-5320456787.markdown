@@ -9,5 +9,5 @@ categories: [1019]
 color: f44336 
 price: 12750 
 author: Ask View Shop 
+cont:  "맘에 들어용<br/>세은이 두개랑 윤이 나왓서염 아놔 ㅋㅋ ♥<br/>" 
 ---
- 
