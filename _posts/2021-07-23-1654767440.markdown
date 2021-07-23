@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코멧 택배박스 B골, 50개, 220 x 160 x 80 mm" 
+description: 코멧 택배박스 B골, 50개 ..
+date: 2021-07-24 08:14:53 
+img: https://static.coupangcdn.com/image/retail/images/66459121270140-99f4bad0-e817-4b7a-b081-1fb4398cb67b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1654767440&itemId=2819151283&vendorItemId=70808640982&traceid=V0-113-c351410fd9ba978e 
+categories: [1021] 
+color: 4A148C 
+price: 16990 
+author: Ask View Shop 
+---
+ 
