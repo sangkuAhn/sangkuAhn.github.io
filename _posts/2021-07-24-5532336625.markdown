@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "곰곰 한입밤고구마, 500g, 1봉" 
+description: 곰곰 한입밤고구마, 500g ..
+date: 2021-07-24 15:11:16 
+img: https://static.coupangcdn.com/image/retail/images/91186387801236-5622aed2-5cd4-413b-b3dd-5e334aeb89ea.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5532336625&itemId=8685540289&vendorItemId=75972634868&traceid=V0-113-93025899cb778513 
+categories: [1012] 
+color: 4CAF50 
+price: 3980 
+author: Ask View Shop 
+---
+ 
