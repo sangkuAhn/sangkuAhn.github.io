@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "오뚜기+농심 컵라면 12종 오뚜기(진매+열+참깨+김치+진짬뽕+스낵면+유부우동+스파게티) 농심(신라면+육개장+튀김우동+새우탕) + 블루존물티슈, 1세트" 
+description: 오뚜기+농심 컵라면 12종  ..
+date: 2021-07-24 15:11:16 
+img: https://static.coupangcdn.com/image/vendor_inventory/4b54/17e6ca340360d4c3d1245bca7114200d030ab8da838be26ac5b76b36c0c1.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5471974165&itemId=8411064882&vendorItemId=75698700003&traceid=V0-113-43cef5f7eb416a06 
+categories: [1012] 
+color: CF36BB 
+price: 20470 
+author: Ask View Shop 
+cont:  "개당 1650원이네용<br/>골고루 먹을수있어 좋아요<br/>그날그날 먹고 싶은 라면 골라먹는 재미가 있네요ㅋㅋㅋ<br/>소소한 행복<br/>이게 뭐라고 괜히 골라먹으니까 더 맛있기 느껴지네요ㅎㅎ<br/>전부 무난하고 잘나가는 라면이라 좋아요<br/>" 
+---
