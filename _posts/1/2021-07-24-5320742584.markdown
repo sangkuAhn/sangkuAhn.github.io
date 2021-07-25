@@ -9,5 +9,5 @@ categories: [1002]
 color: 9E9D24 
 price: 39200 
 author: Ask View Shop 
+cont:  "운전할때 눈부심 없어 좋네요.<br/>.<br/>디자인도 이뻐요<br/>프레임이 플라스틱이지만 멋지네요<br/>" 
 ---
- 
