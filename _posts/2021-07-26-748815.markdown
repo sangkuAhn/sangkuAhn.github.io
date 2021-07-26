@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코리아보드게임즈 서펜티나, 혼합색상" 
+description: 코리아보드게임즈 서펜티나,  ..
+date: 2021-07-26 16:07:42 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/01/29/3013990941/1b811233-3ebf-4c75-9626-e2892182767c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=748815&itemId=2843484&vendorItemId=3013990941&traceid=V0-113-89d3587906840196 
+categories: [1020] 
+color: A57F92 
+price: 8150 
+author: Ask View Shop 
+---
+ 

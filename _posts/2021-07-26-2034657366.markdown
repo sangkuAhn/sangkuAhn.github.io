@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "플레이도 모양 만들기 클레이, 혼합색상, 530g" 
+description: 플레이도 모양 만들기 클레이 ..
+date: 2021-07-26 16:14:46 
+img: https://static.coupangcdn.com/image/retail/images/2020/08/20/20/5/b0663deb-c4ca-4b3d-9ce2-ea94ea237719.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2034657366&itemId=3459922409&vendorItemId=71446295110&traceid=V0-113-cb25e187e28984a3 
+categories: [1021] 
+color: 7E57C2 
+price: 9790 
+author: Ask View Shop 
+---
+ 
