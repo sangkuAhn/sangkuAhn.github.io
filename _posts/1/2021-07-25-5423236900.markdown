@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "데일리앤 산토리 원피스" 
+description: 데일리앤 산토리 원피스 ..
+date: 2021-07-26 06:01:04 
+img: https://static.coupangcdn.com/image/rs_quotation_api/xrhq47tw/7f9bff766e944434abe4fac6e59bbd4d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5423236900&itemId=8195667145&vendorItemId=75483780098&traceid=V0-113-ed22da461abaf3da 
+categories: [1001] 
+color: F361A6 
+price: 15800 
+author: Ask View Shop 
+cont:  "66반77입으시는 분들이 이쁘게 잘맞을듯해요.<br/><br/>겨드랑이 부분이 너무커서 팔을 들면 속옷이 다보여요ㅜㅜ<br/>괜찮아요 전 근무복이 따로 있어서 여름 출퇴근땐<br/>그래도 기장도 맘에들고 예뻐요<br/>그래도 좋네요<br/>근데 사이즈가 좀 아쉽네요.<br/><br/>기장은 제가 163인데 발목부분까지 와서 딱원하던 길이에요.<br/><br/>덥고 거추장스럽지 않은 원피스 선호 하는데<br/>마감도 문제 없고 구김도 없어 여름 출퇴근용으로<br/>무늬는 사진과 약간 다르지만 조화롭게 이뻐요<br/>사이즈별로 판매하시면 더좋을거같아요^^<br/>오자마자 빨아보니 살짝 물빠짐있어요<br/>외출복으로 입으려면 사이즈 수선이 필요합니다.<br/><br/>일단 소재는 후기에서 본그대로 시원하고 가벼워서 무더위에 입기 제격입니다.<br/> 원단패턴은 복불복인듯하지만 이쁘구요.<br/><br/>잘 입을거 같아요지하철 타야해서 가디건은 꼭<br/>저는 보통 상의66,하의66반입는 체격인데,<br/>제 키가 작아 복숭아뼈 위 5cm정도 롱원피스 길이에<br/>챙기는데 가디건과 잘 어울려 더 좋네요<br/>하늘하늘 촉감도 좋고 시원해요<br/>허리도 밴드처리되어있긴하지만 많이 낙낙하구요.<br/><br/>화면처럼 완전 플레어는 아닌듯해요<br/>" 
+---

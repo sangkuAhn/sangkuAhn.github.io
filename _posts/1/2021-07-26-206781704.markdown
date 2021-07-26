@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "미디어 칠교 퍼즐 학습놀이, 혼합 색상" 
+description: 미디어 칠교 퍼즐 학습놀이, ..
+date: 2021-07-26 16:07:42 
+img: https://static.coupangcdn.com/image/retail/images/2019/04/08/15/5/4bc70e73-0246-4f07-916c-521891509eb1.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=206781704&itemId=610992593&vendorItemId=4603248728&traceid=V0-113-e0ae204e1cc45306 
+categories: [1020] 
+color: 9E9D24 
+price: 11130 
+author: Ask View Shop 
+cont:  "6살 동생도 카드 골라서 혼자 잘 하더라구요<br/>도형을 공부하는데 이해를 잘 못하길래 실물이 있으면 이해하기가 더 빠를것같아서 바로 와우로 주문이요ㅎ<br/>디자인은 너무너무 예뻐요<br/>많이 크지않고 좋아요<br/>모양 카드로 부지런히 알려줘보려고요!<br/>안에 있는 그림 카드로 보고도 맞춰보고요ㅎ<br/>안의 모양 만드는 카드도 예쁘고요!<br/>이리저리 맞춰가며 못 풀었던 문제도 풀고요<br/>잃어버리게 되면<br/>칠교 도안이 손안에 들어오는 사이즈의 카드에 하나씩 인쇄되어있어 아이랑 카드보며 따라 만들기 좋았습니다.<br/><br/>칠교는 어디에서든 파니<br/>톤다운 된 칠교색이 조화로워서 뭘 만들어도 예쁘네요.<br/> 다만 자석 칠교가 아니라 그런지 만들면서 계속 움직여서 3세 아이가 직접 만들기는 어려워했지만 일곱 조각으로 다양한 도형을 만든다는 것을 재미있어 했어요.<br/><br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "레고 테크닉 42122 지프 랭글러, 혼합색상" 
+description: 레고 테크닉 42122 지프 ..
+date: 2021-07-26 16:07:42 
+img: https://static.coupangcdn.com/image/retail/images/1211300490053908-f861a9d1-1ad1-41c7-8488-3b162c596953.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4776874944&itemId=6103974031&vendorItemId=73400337041&traceid=V0-113-f20d72c5acbc186e 
+categories: [1020] 
+color: A57F92 
+price: 68570 
+author: Ask View Shop 
+cont:  "75,500원에 구입했어요<br/>몇일전, 레고 닌자고 71738 모델 구매해서 조립시,<br/>바퀴도 자유자제로 움직이고 하니까 아이가 더 재미있어하네요<br/>브릭 1개가 누락돼서 레고 공식홈에 주문넣고 1주일쯤 후에 덴마크에서 배송 받아 조립을 완료했던 경험이 있었는데<br/>오늘 퇴근하고 왔더니, 아들이 요리저리 메뉴얼 참고하며 열심히 집중해서 조립하는 모습 보고 참 대견스러웠습니다.<br/><br/>이번 모델은 누락된 브릭이 없어서 다행 이네요.<br/><br/>조립 30분도 안걸린것같네요 워낙 레고 조립 잘하는 아이라 금새 뚝딱 만들었네요<br/>조립 완료후 성취감에 뿌듯해하는 아들 보고 살짝 감동 받았네요.<br/>^^<br/>초등 3학년 아들 어린이날 선물... <br/><br/>크기도 생각했던 것보다 크고 기믹이 많아서 좋았습니다 약 23시간 걸렸네요<br/>" 
+---
