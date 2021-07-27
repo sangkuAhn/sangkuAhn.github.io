@@ -9,5 +9,5 @@ categories: [1019]
 color: 353535 
 price: 7200 
 author: Ask View Shop 
+cont:  "선물로 준비했어요<br/>열심히 하고 있어요 아이가 좋아해서 계속 할려고해요<br/>" 
 ---
- 
