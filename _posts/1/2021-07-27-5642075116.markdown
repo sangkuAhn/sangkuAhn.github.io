@@ -9,5 +9,5 @@ categories: [1012]
 color: A57F92 
 price: 37320 
 author: Ask View Shop 
+cont:  "계속 먹는제품이예요<br/>캔 안에 전용 숟가락 들어 있음  숟가락 따로 준다고 파는곳이 있던데 캔 안에 들어 있음<br/>" 
 ---
- 
