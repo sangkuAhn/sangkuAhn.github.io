@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "농심 간식팩토리 소컵라면 4종 세트, 1세트" 
+description: 농심 간식팩토리 소컵라면 4 ..
+date: 2021-07-29 07:11:21 
+img: https://static.coupangcdn.com/image/vendor_inventory/296b/772e4f75005ff6f30b75b642c001374ae87346b21f3d6c2ded4c2f6511fd.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5620927327&itemId=9113042119&vendorItemId=76473744648&traceid=V0-113-07dd8a88b95b0ea6 
+categories: [1012] 
+color: D9418C 
+price: 16900 
+author: Ask View Shop 
+---
+ 
