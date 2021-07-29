@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "농심 간식팩토리 소컵라면 4종 세트, 1세트" 
+description: 농심 간식팩토리 소컵라면 4 ..
+date: 2021-07-29 07:11:21 
+img: https://static.coupangcdn.com/image/vendor_inventory/296b/772e4f75005ff6f30b75b642c001374ae87346b21f3d6c2ded4c2f6511fd.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5620927327&itemId=9113042119&vendorItemId=76473744648&traceid=V0-113-07dd8a88b95b0ea6 
+categories: [1012] 
+color: D9418C 
+price: 16900 
+author: Ask View Shop 
+cont:  "가끔 출출할때 컵라면 생각나서 구입했어요.<br/>.<br/>제가좋아하는 라면만 딱 갖추어져있어서 보자마자 구매입니다 ^^<br/>맛있게 먹었네요^^<br/>박스에 젓가락도 들어있어요.<br/><br/>방학준비물이 되어버렸네요<br/>오늘은 김밥 말아말아서 라면 하나씩^^<br/>왕뚜껑 작은 사이즈 있는지 덕분에 오늘 처음 알았네요ㅋ<br/>있는거라 좋아요 초밥이랑도요<br/>저도 착각하긴 했는데 왕뚜껑도 작은 사이즈 입니다.<br/><br/>종류별로 김밥이랑 같이 간단히 먹을수<br/>한종류 한박스 사기엔 질릴것 같아서 매번 편의점에서 그때그때 사먹곤했는데 종류가 다양해서 골라서 먹을 수 있어서 좋아요.<br/><br/>" 
+---
