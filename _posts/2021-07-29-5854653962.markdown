@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "푸드베이스 영암 무화과, 500g, 2개" 
+description: 푸드베이스 영암 무화과, 5 ..
+date: 2021-07-29 15:11:16 
+img: https://static.coupangcdn.com/image/retail/images/60137854579302-06c74ef3-d4b5-4d83-bdd1-e17af21e1bca.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5854653962&itemId=10198406710&vendorItemId=77480933136&traceid=V0-113-690b7186659b49bb 
+categories: [1012] 
+color: 43A047 
+price: 15900 
+author: Ask View Shop 
+---
+ 
