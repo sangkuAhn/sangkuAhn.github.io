@@ -9,5 +9,5 @@ categories: [1018]
 color: F15F5F 
 price: 9900 
 author: Ask View Shop 
+cont:  "향은 너무좋은데 향이 너무약하네요 이정도일줄이야,,,ㅠㅠ 우드봉빼고 스틱 한두개를 꽂아야겠어요<br/>" 
 ---
- 
