@@ -9,5 +9,5 @@ categories: [1013]
 color: 5A8DF3 
 price: 7260 
 author: Ask View Shop 
+cont:  "무게가 잴때마다 달라요 스트레스받아서 버리고 새거사려구요 싼게비지떡임을느낀<br/>아무것도 안올려놨는데도 지맘대로 숫자가 올라갓다 내려갓다 해요.<br/>.<br/><br/>좋아요<br/>" 
 ---
- 
