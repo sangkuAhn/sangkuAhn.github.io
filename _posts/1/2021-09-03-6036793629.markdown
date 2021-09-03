@@ -9,5 +9,5 @@ categories: [1029]
 color: 4A148C 
 price: 22800 
 author: Ask View Shop 
+cont:  "다 먹고 재구매합니다 사은품도 감사히 잘흘게요<br/>애들이 노견인데  아프지 않고  건강했음 좋겠어요<br/>좋은거같은데 울강쥐 기호에는 안맞는듯.<br/>.<br/><br/>" 
 ---
- 
