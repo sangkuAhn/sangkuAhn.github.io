@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "달러구트 꿈 백화점:주문하신 꿈은 매진입니다, 팩토리나인, 이미예" 
+description: 달러구트 꿈 백화점:주문하신 ..
+date: 2021-10-12 16:00:35 
+img: https://static.coupangcdn.com/image/vendor_inventory/2f66/828e643573aa729d7216cd6b060991e4be5ca96c3f285c4d41b98f692f09.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5694833180&itemId=9445688391&vendorItemId=71046050859&traceid=V0-113-8d7edc749e4ba41b 
+categories: [1019] 
+color: 35B62C 
+price: 12420 
+author: Ask View Shop 
+cont:  "가격 12,420원<br/>마음에들어합니다 요증 책읽기 딱좋은 계절이내요<br/>배송감사합니다<br/>예전에 사고 이제야 적는데 진짜 꼭읽으세요 근데 책에 흠집이 좀 있더라구요 ㅎㅎ<br/>요즘 집에있는날이 더 많아져  학생읽으라고 선물로구매<br/>" 
+---

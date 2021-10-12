@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "우공비 일일수학 초등 2-2(2021), 좋은책신사고" 
+description: 우공비 일일수학 초등 2-2 ..
+date: 2021-10-12 16:00:35 
+img: https://static.coupangcdn.com/image/vendor_inventory/d427/4fc31f2f45dc3c1cc2fa8eff17633b7348dbf8fc5369c9cadf613fc0de7a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5515751043&itemId=8611460819&vendorItemId=76307939947&traceid=V0-113-a7c90346a0ac3847 
+categories: [1019] 
+color: A566FF 
+price: 9900 
+author: Ask View Shop 
+cont:  "맘에든다네요 복습용으론 괜찮은거같아요<br/>카카오들이 귀엽고 문제가 쉽고 양이 적어서<br/>" 
+---

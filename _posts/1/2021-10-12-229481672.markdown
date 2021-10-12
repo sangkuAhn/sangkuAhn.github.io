@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "디즈니 판퍼즐: 여섯 명의 프린세스(88조각), 토이앤퍼즐" 
+description: 디즈니 판퍼즐: 여섯 명의  ..
+date: 2021-10-12 16:00:35 
+img: https://static.coupangcdn.com/image/vendor_inventory/f390/7bc0a562f56ba308bf83e97d2b0a8efb77698c7ef58d2f9c2d1b6480af01.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=229481672&itemId=727671607&vendorItemId=5248053831&traceid=V0-113-b3eec31c079e0966 
+categories: [1019] 
+color: 4A148C 
+price: 6300 
+author: Ask View Shop 
+cont:  "아이가 좋아해요^^<br/>아이랑 캠핑장 갈때 시간때우기 딱 좋은 퍼즐이에요<br/>좋은것같아요<br/>처음 두번 애기아빠가 같이해주고, 그다음부터는 혼자서도 집중해서 잘 하네요 ^^<br/>한번시작하면 340분은 집중해서 해주니 너무 좋네요.<br/><br/>" 
+---
