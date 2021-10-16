@@ -9,5 +9,5 @@ categories: [1010]
 color: FF6F00 
 price: 10900 
 author: Ask View Shop 
+cont:  "기존에 썼던게 맞나 싶었어요<br/>리뉴얼 된건지 향이 좀.<br/>.<br/> 변한것 같아요<br/>오히려 트리트먼트 밤이 기존 제품이랑 더 흡사해요<br/>" 
 ---
- 
