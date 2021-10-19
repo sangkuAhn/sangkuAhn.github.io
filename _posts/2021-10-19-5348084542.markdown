@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "블랙팟 찰떡쿵 거치대, 블랙, 1개" 
+description: 블랙팟 찰떡쿵 거치대, 블랙 ..
+date: 2021-10-19 15:53:26 
+img: https://static.coupangcdn.com/image/retail/images/2021/04/14/17/5/fdb16a91-ed0b-40a2-88f9-4b807a886605.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5348084542&itemId=7858531028&vendorItemId=74924648024&traceid=V0-113-3c43fdb8b99b5dba 
+categories: [1018] 
+color: 43A047 
+price: 11800 
+author: Ask View Shop 
+---
+ 
