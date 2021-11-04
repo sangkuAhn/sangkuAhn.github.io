@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "비비고 썰은배추김치, 1.8kg, 1개" 
+description: 비비고 썰은배추김치, 1.8 ..
+date: 2021-11-05 07:11:14 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/11/22/3822604790/71c5c191-7d29-4538-bf97-e0575ed3d69b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=111308315&itemId=335289299&vendorItemId=3822604790&traceid=V0-113-63eabb45e975001d 
+categories: [1012] 
+color: 006064 
+price: 14220 
+author: Ask View Shop 
+---
+ 

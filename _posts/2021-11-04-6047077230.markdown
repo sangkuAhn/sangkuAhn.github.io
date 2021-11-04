@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "2장묶음 (1+1) 데일리 특양면 후드티 (SCC5222PT)" 
+description: 2장묶음 (1+1) 데일리  ..
+date: 2021-11-05 06:08:05 
+img: https://static.coupangcdn.com/image/vendor_inventory/869b/8e894145686b72f91f9052a30789863ddc19bd9ed9c61addafe2fb16dc0e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6047077230&itemId=11072406703&vendorItemId=78351876776&traceid=V0-113-92ca7db026494ff4 
+categories: [1002] 
+color: A566FF 
+price: 29800 
+author: Ask View Shop 
+---
+ 

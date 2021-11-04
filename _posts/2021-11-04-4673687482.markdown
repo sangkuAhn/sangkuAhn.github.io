@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "초등수학 기본 응용 5-2, 디딤돌" 
+description: 초등수학 기본 응용 5-2, ..
+date: 2021-11-05 08:00:35 
+img: https://static.coupangcdn.com/image/rs_quotation_api/jxigopuf/90c26d792ab941c8ad285f1796964621.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4673687482&itemId=5846953336&vendorItemId=73145230743&traceid=V0-113-2f49272d254de626 
+categories: [1019] 
+color: f44336 
+price: 14400 
+author: Ask View Shop 
+---
+ 

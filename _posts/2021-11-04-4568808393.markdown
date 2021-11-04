@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "마이디어 쓰담패치, 30개" 
+description: 마이디어 쓰담패치, 30개 ..
+date: 2021-11-05 07:46:28 
+img: https://static.coupangcdn.com/image/vendor_inventory/f5f9/ac6beb40434d017149079a26a24fcb8b89a70c10fcf815f8636c7c8f6720.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4568808393&itemId=5578062675&vendorItemId=74490935279&traceid=V0-113-cbd09d2aeb1de655 
+categories: [1017] 
+color: 4A148C 
+price: 19900 
+author: Ask View Shop 
+---
+ 

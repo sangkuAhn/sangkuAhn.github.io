@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코멧 뽑아쓰는 테이블 냅킨, 10000매입" 
+description: 코멧 뽑아쓰는 테이블 냅킨, ..
+date: 2021-11-05 07:18:17 
+img: https://static.coupangcdn.com/image/retail/images/67826296580929-f40366c1-35cc-4453-bfa0-92d535aa4748.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2208125618&itemId=3757873941&vendorItemId=71742980420&traceid=V0-113-287946777ab07b7b 
+categories: [1013] 
+color: 4A148C 
+price: 16990 
+author: Ask View Shop 
+---
+ 

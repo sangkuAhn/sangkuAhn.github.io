@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "이상한 과자 가게 전천당 1~2권, 길벗스쿨" 
+description: 이상한 과자 가게 전천당 1 ..
+date: 2021-11-05 08:00:35 
+img: https://static.coupangcdn.com/image/retail/images/2019/07/22/15/2/df6e6837-3f0c-48b3-9371-acfe5443dcbe.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=265607572&itemId=832617628&vendorItemId=5119865184&traceid=V0-113-2692cc273e3c6f0e 
+categories: [1019] 
+color: BF360C 
+price: 21600 
+author: Ask View Shop 
+---
+ 

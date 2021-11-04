@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "네티스 유무선공유기, WF2003" 
+description: 네티스 유무선공유기, WF2 ..
+date: 2021-11-05 07:39:25 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/03/05/3032208471/211d5495-9133-4a5a-aa19-58ee9418a762.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4840572&itemId=22038403&vendorItemId=4513841372&traceid=V0-113-52c4b1fa26bc11c7 
+categories: [1016] 
+color: 006064 
+price: 14900 
+author: Ask View Shop 
+---
+ 

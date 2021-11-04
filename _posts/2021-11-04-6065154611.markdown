@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "앱솔루트 킨더밀쉬 200ml, 우유맛, 24개" 
+description: 앱솔루트 킨더밀쉬 200ml ..
+date: 2021-11-05 07:04:11 
+img: https://static.coupangcdn.com/image/retail/images/1766445194214812-50e67dac-a267-4460-8a4f-593e54509301.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6065154611&itemId=3800433483&vendorItemId=71785412257&traceid=V0-113-234508ca0ce4d2da 
+categories: [1011] 
+color: 7E57C2 
+price: 28500 
+author: Ask View Shop 
+---
+ 
