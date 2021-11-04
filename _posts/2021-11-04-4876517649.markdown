@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "GAP인증 추부 깻잎, 100g, 1봉" 
+description: GAP인증 추부 깻잎, 10 ..
+date: 2021-11-04 16:21:35 
+img: https://static.coupangcdn.com/image/retail/images/84627876650392-e68e01e2-5f20-4d28-9460-5758c72d1c45.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4876517649&itemId=6344320759&vendorItemId=73639651301&traceid=V0-113-dc5990d412012ad8 
+categories: [1024] 
+color: 4A148C 
+price: 5460 
+author: Ask View Shop 
+---
+ 
