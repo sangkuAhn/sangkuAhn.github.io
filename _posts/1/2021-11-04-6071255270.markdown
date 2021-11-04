@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "호러블 호박바구니, 오렌지, 5개" 
+description: 호러블 호박바구니, 오렌지, ..
+date: 2021-11-04 16:07:29 
+img: https://static.coupangcdn.com/image/retail/images/2021/09/07/16/8/5470473b-b167-4993-8c32-9540b27b7843.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6071255270&itemId=11210180724&vendorItemId=78487724963&traceid=V0-113-3e31cb2f191ffb70 
+categories: [1020] 
+color: 03A9F4 
+price: 10000 
+author: Ask View Shop 
+cont:  "5세가 갖고놀기에 적당한데 작다고 그러네요.<br/><br/>구멍에  애기들 주먹이 들어갈정도 임.<br/><br/>급하게 주문했는데<br/>나사.<br/>20<br/>나사에 드라이버까지 들어있구<br/>노동력이 필요합니다<br/>눈코입이 구멍나서 비닐에 담아 사탕 포장했습니다<br/>쉽게 만들었어요<br/>십자드라이버 2개<br/>아이들이 세게 잡아당기면 빠지겠어요<br/>완제품이 아니니 참고 하세요<br/>이렇게 구성되있어요.<br/><br/>조립을 열심히 해도 끈이 잘 빠져요<br/>조립을하고나면 벌어져서<br/>틈사이 아이들 손조심해야할것같아요.<br/><br/>호박10 .<br/>손잡이 5<br/>" 
+---
