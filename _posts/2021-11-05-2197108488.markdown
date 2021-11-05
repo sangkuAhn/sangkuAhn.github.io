@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "북엔드 책 지지대 2p, 화이트" 
+description: 북엔드 책 지지대 2p, 화 ..
+date: 2021-11-06 08:14:41 
+img: https://static.coupangcdn.com/image/vendor_inventory/b7e6/023589fe75e333d3dcc8da36cc7063b8329e16169c7a5ca9fce8e011e857.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2197108488&itemId=3738454098&vendorItemId=74474796138&traceid=V0-113-e700a86a7ac7bdfd 
+categories: [1021] 
+color: 1294AB 
+price: 6720 
+author: Ask View Shop 
+---
+ 
