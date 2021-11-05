@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "EBS 당신의 문해력:공부의 기초체력을 키워주는 힘, EBS BOOKS" 
+description: EBS 당신의 문해력:공부의 ..
+date: 2021-11-05 16:00:38 
+img: https://static.coupangcdn.com/image/retail-product-api/A00077021/63173792/70099722/main/9788954759335_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6053362031&itemId=11101002336&vendorItemId=78380343032&traceid=V0-113-09148968dc130e86 
+categories: [1019] 
+color: D9418C 
+price: 15300 
+author: Ask View Shop 
+---
+ 

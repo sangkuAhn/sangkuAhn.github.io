@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "핫앤핫 따끈따끈 프리미엄 핫팩, 30매" 
+description: 핫앤핫 따끈따끈 프리미엄 핫 ..
+date: 2021-11-05 15:46:32 
+img: https://static.coupangcdn.com/image/vendor_inventory/72ec/debf7fafa340f81b603d7e3f373650ebe4885686538e322d26025d2b27a2.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1061731227&itemId=2006298404&vendorItemId=78799000611&traceid=V0-113-d8e3bfc75fe08844 
+categories: [1017] 
+color: 006064 
+price: 11800 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "카충이 5 점프스타터 MV-20 파랑, 1개, 18000mAh" 
+description: 카충이 5 점프스타터 MV- ..
+date: 2021-11-05 15:53:35 
+img: https://static.coupangcdn.com/image/retail/images/2020/02/27/10/8/3575c42f-b10c-4dc0-b40f-2a851e38419e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1297164977&itemId=2310059396&vendorItemId=70306878693&traceid=V0-113-65fa179edb6f734a 
+categories: [1018] 
+color: 4A148C 
+price: 88960 
+author: Ask View Shop 
+---
+ 
