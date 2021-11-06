@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "햇빛은 찬란하고 인생은 귀하니까요: 밀라논나 이야기, 김영사, 장명숙" 
+description: 햇빛은 찬란하고 인생은 귀하 ..
+date: 2021-11-05 08:00:35 
+img: https://static.coupangcdn.com/image/rs_quotation_api/pjiuvopn/8f754b90528540fb84645a57bb3970dd.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6004423594&itemId=10878004203&vendorItemId=78157910355&traceid=V0-113-fba62cb4120e6dbb 
+categories: [1019] 
+color: 9E9D24 
+price: 13320 
+author: Ask View Shop 
+cont:  "밀라논나님 블로그를 구독하는 일인입니다  책이 출간된다는  소식에 서점갈 시간도 없어서 쿠팡에서  구매해서 이틀만에 읽고  또 시간 날때마다 읽고합니다 많은 생각을 하게하는  한번뿐인 인생을 더 열심히 살아야겠다고 다짐하게 하는 책입니다 밀라논나님 존경합니다  건강하세요<br/>" 
+---

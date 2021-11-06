@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "4~7세보다 중요한 시기는 없습니다:아이의 정서와 인지 발달을 키우는 결정적 시기, 카시오페아" 
+description: 4~7세보다 중요한 시기는  ..
+date: 2021-11-05 08:00:35 
+img: https://static.coupangcdn.com/image/retail-product-api/A00077021/60917559/67467527/main/9791190776820_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5897774296&itemId=10389816877&vendorItemId=77671843524&traceid=V0-113-2d1d3e18ce71431b 
+categories: [1019] 
+color: 353535 
+price: 14400 
+author: Ask View Shop 
+cont:  "교육방법이 적혀있어 많은 도움이 될듯해요^^<br/>동생육아에 도움이라도 됐으면하는 맘에<br/>선물로줬어요.<br/>.<br/><br/>아이를 키우면서 궁금하거나 부족한부분이 항상 느껴졌는데,<br/>어떻게 대처해야되는지 함께 할수있는놀이나<br/>우연히 이책을 알게됐는데<br/>조카가 이제4살이네요<br/>지금 읽고있는데 내용이 흥미로워 가속도가 붙네요 재밌ㄱ<br/>책 열심히 읽고 공부해야겠어요^^<br/>" 
+---

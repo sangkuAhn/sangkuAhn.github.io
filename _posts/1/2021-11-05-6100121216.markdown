@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "나이키 레거시91 테크 스우시캡" 
+description: 나이키 레거시91 테크 스우 ..
+date: 2021-11-05 14:01:04 
+img: https://static.coupangcdn.com/image/vendor_inventory/70d0/83a113a0517878cf6dbf8f108ca2884d2cf3afc648431a1816520dc3e5cd.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6100121216&itemId=11425821738&vendorItemId=79252181556&traceid=V0-113-25054264873ea74e 
+categories: [1001] 
+color: A6A6A6 
+price: 15800 
+author: Ask View Shop 
+cont:  "구김도 안가고 괜찮아요!!<br/>디자인이 깔끔하고 화면과 같아요.<br/><br/>배송은 이틀만에 왔어요.<br/><br/>싸고 좋은 모자예요<br/>아들도 아주 마음에 들어해서 자주 써요.<br/><br/>아들이 쓰려고 구매했어요.<br/><br/>직접 고른 디자인으로 검정색 구매했는데<br/>통풍 잘되요<br/>흰색이라 면은 오염된부분 지우기 힘든데 잘지워질거 같아요<br/>" 
+---

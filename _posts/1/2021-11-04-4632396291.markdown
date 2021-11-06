@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "2021 자이스토리 영어 독해 기본, 수경출판사" 
+description: 2021 자이스토리 영어 독 ..
+date: 2021-11-05 08:00:35 
+img: https://static.coupangcdn.com/image/retail/images/2020/12/18/15/9/45dcc6e1-f409-41ca-ad87-97e1dae487ff.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4632396291&itemId=5752899230&vendorItemId=73051512693&traceid=V0-113-deec851e34acde7c 
+categories: [1019] 
+color: 1294AB 
+price: 15300 
+author: Ask View Shop 
+cont:  "내용도 좋고 괜찮아요.<br/><br/>아들이 시켜달래서 급하게 주문한건데 서점가는것보다 빠르네요 이책보며 아들도 열심히 공부하고 있어요<br/>역시 믿고 사는 자이스토리! 해설도 너무 잘되어있어요<br/>학교 교재로 사용하고 있어요.<br/><br/>" 
+---

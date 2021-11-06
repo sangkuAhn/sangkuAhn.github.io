@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "달러구트 꿈 백화점 1 + 2 세트" 
+description: 달러구트 꿈 백화점 1 +  ..
+date: 2021-11-05 08:00:35 
+img: https://static.coupangcdn.com/image/retail/images/160851759754944-3e21e2f8-7cca-4d9b-ae5a-c9f83b17ded6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5932556481&itemId=10546301949&vendorItemId=77962207878&traceid=V0-113-acb93888ede3ec2c 
+categories: [1019] 
+color: 35B62C 
+price: 24840 
+author: Ask View Shop 
+cont:  "아이가좋아합니다<br/>제목부분이 찢어져서왔네요 한권만요ㅠㅠ 보내실때 검수 꼼꼼히 부탁드려요ㅠㅠㅠㅠㅠㅠㅠㅠ<br/>" 
+---

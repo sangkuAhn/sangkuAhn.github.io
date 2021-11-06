@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "EBS 당신의 문해력:공부의 기초체력을 키워주는 힘, EBS BOOKS" 
+description: EBS 당신의 문해력:공부의 ..
+date: 2021-11-05 16:00:38 
+img: https://static.coupangcdn.com/image/retail-product-api/A00077021/63173792/70099722/main/9788954759335_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6053362031&itemId=11101002336&vendorItemId=78380343032&traceid=V0-113-09148968dc130e86 
+categories: [1019] 
+color: D9418C 
+price: 15300 
+author: Ask View Shop 
+cont:  "(진짜 배송최고!! 입니닷 )<br/>TV를 우연히 보게됐는데 당신의 문해력 이라는 프로그램이 하더라구요.<br/>  시청하는데 제 머리가 굳어진게 느껴졌어요<br/>그래서 책을 구매해서 보기로 결심했고 쿠팡에서 샀네요<br/>놀이하며 읽어주려고 노력하고있네요<br/>아기 낮잠시간에 보느라 많이 읽지는 못하지만 정말 도움이 많이돼요.<br/><br/>아기한테도 어떻게 책을 읽어줘야할지 제 나름대로 기준이 생기고<br/>이해를하려고 글을 몇번씩 읽어보기도하고 문제를 풀었는데 틀리는경우도있었어요.<br/><br/>저한테 너무 필요했던 책이었어요!!  구매 후회하지 않아요^^<br/>퇴사 후  아기낳고 키우면서 책은 저 멀리... <br/><br/>" 
+---

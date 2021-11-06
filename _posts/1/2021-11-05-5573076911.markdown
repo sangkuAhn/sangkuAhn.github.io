@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "제로스페이스 노팁 머리끈" 
+description: 제로스페이스 노팁 머리끈 ..
+date: 2021-11-05 14:01:04 
+img: https://static.coupangcdn.com/image/retail/images/2021/05/26/10/5/d8c79fbb-8dd4-4f41-b85c-b373dcbc8c2b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5573076911&itemId=8883248831&vendorItemId=76169956874&traceid=V0-113-1c263fbd730571ee 
+categories: [1001] 
+color: A566FF 
+price: 4900 
+author: Ask View Shop 
+cont:  "4900<br/>짱짱함 자기전까지 그대로묶여있음<br/>" 
+---
