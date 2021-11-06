@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "개념원리 고등 수학(상) : 하나를 알면 10개 20개를 풀 수 있는 개념원리수학 개정증보판" 
+description: 개념원리 고등 수학(상) : ..
+date: 2021-11-06 08:00:38 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/03/29/4038561365/bbd1a485-b0fa-4cba-a961-795a8b2add5f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=307046263&itemId=968194177&vendorItemId=4038561365&traceid=V0-113-1cd8d87677aea70f 
+categories: [1019] 
+color: 9E9D24 
+price: 15300 
+author: Ask View Shop 
+cont:  "1.<br/> 개념이 잘 정리되어 있다.<br/><br/>1.<br/> 기초적인 연산, 문제의 반복횟수가 적다.<br/><br/>2.<br/> 그래서 가르칠 때 사용하기 편하다.<br/><br/>2.<br/> 심화 문제가 부족하다.<br/><br/>3.<br/> 문제가 적당해서 학생들이 좋아한다.<br/><br/>4.<br/> 시각적인 부분에서 편하다는 장점이 있다.<br/><br/>같이 구입했어요.<br/><br/>개념원리 책 좋은건 다들 아시니까요.<br/><br/>개념원리의 장점<br/>고등 수학은 책이 두꺼운 편이네요.<br/><br/>급하게 필요했는데<br/>다 아시죠?<br/>단점<br/>도움이 되었으면 좋겠습니다.<br/><br/>믿고 사는 개념원리!<br/>바로 다음날 받아서 좋았어요!<br/>서점보다 편하고 저렴하게 구매했네요<br/>예습용으로 다른책 사면서<br/>정가17,000원입니다.<br/><br/>차근차근 잘 풀어서<br/>책이 생각보다 작고 두꺼워요 문제 풀때 약간 불편한 점이 있으니 참고하세요<br/>학원에서 개념원리가 필요해서 쿠팡에서 구매하게 되었어요<br/>" 
+---

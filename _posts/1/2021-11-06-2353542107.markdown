@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "최상위 수학 초등 6-1(2021):상위권의 기준, 디딤돌" 
+description: 최상위 수학 초등 6-1(2 ..
+date: 2021-11-06 16:00:35 
+img: https://static.coupangcdn.com/image/vendor_inventory/fc45/38712a348bf22b7563738162f33396ace5af39e185794d6808a3c5276719.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2353542107&itemId=4083199916&vendorItemId=72067208080&traceid=V0-113-2c664c55e054cfa6 
+categories: [1019] 
+color: FF6F00 
+price: 13500 
+author: Ask View Shop 
+cont:  "딸아이 학원에서 사라해서 급 주문했는데 명절연휴에도 로캣배송이라 너무좋아요^^<br/>만족합니다<br/>아이가 늘 학년 바뀔때마다 디딤돌 최상위 한권으로 끝낼정도로 만족해하며 애용중입니다<br/>최상위수학은 첫 구매라 많이 어려워할까봐 복습 개념으로 6학년 1학기꺼를 구매했는데 약간 어려워하지만 잘 풀고 있어요<br/>" 
+---

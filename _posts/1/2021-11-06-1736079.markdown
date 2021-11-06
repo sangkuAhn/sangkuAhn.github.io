@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "서찰을 전하는 아이, 푸른숲주니어" 
+description: 서찰을 전하는 아이, 푸른숲 ..
+date: 2021-11-06 16:00:35 
+img: https://static.coupangcdn.com/image/vendor_inventory/23b9/98d79ca5ac42c00774edb202ed2cc3d5b4d0842fdcb4d470ed8d021f04a4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1736079&itemId=7575886&vendorItemId=3043812834&traceid=V0-113-17a10846520763f9 
+categories: [1019] 
+color: 4CAF50 
+price: 9900 
+author: Ask View Shop 
+cont:  "마지막 부분은 조선 말기 동학농민사건에대한 이야기에요<br/>아이의 담임 선생님께서 추천해 주셔서 읽는데 좋아요<br/>이 책은 허구와 실화가 담긴 이야기입니다<br/>주인공 아이가 아버지를 잃고 서찰을 전해요<br/>학교 추천 책인데 아이들이 쉽게 동학운동을 이해할슨있을듯 합니다^^<br/>학교 행사 5학년 독서 골든벨 목록중에 있는 책이였서요<br/>학부모인 제가 읽어 봤서요<br/>" 
+---
