@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "HP 678 잉크, 컬러(CZ108AA), 1개" 
+description: HP 678 잉크, 컬러(C ..
+date: 2021-11-09 08:14:39 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2016/04/22/3007420551/c5e61d24-25b5-45d1-94eb-b9b211e7009d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1940175332&itemId=3293846061&vendorItemId=74441162207&traceid=V0-113-fc5ddba2ff7b043f 
+categories: [1021] 
+color: A566FF 
+price: 12200 
+author: Ask View Shop 
+---
+ 
