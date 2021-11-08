@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "흔한남매의 흔한 호기심. 4:일상에서 만나는 과학 상식, 미래엔아이세움, 안치현" 
+description: 흔한남매의 흔한 호기심. 4 ..
+date: 2021-11-08 16:00:35 
+img: https://static.coupangcdn.com/image/retail-product-api/A00077021/65461346/72765524/main/9791164138982_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6071327211&itemId=11210722427&vendorItemId=78488263613&traceid=V0-113-ba0225691fc3562c 
+categories: [1019] 
+color: 006064 
+price: 11700 
+author: Ask View Shop 
+cont:  "굿굿 !! 추천합니다<br/>날씨와 맞는 책으로 먼저 골라 두권 주문했어요<br/>동생은 7살인데 아직 글은모르지만 그림만봐도 대충 상상되잖아요?오빠랑 같이 보고있어요<br/> -<br/>빠른배송으로 받아서 아주 잘 읽었어여<br/>빨리와서 놀랐습니다ㅎㅎ<br/>아이들은 흔한남매를 너무 좋아해요 담에 나머지 책도 구매 할거에요^^<br/>일반 택배 발송인데 당연히 추석지나고 오겠거니 했는데<br/>제 후기가 도움이 되셨으면 도움버튼 한번 눌러주세요 ♡<br/>주문하고 그다음날 바로 도착했네요<br/>책장 넘기는 질감도 돟고 아이가 보기에도 좋인요아이가 좋아하니 굿<br/>초4 아들이 오자마자 뜯어서 3번이상 읽었어요<br/>흔한남매 시리즈 나오면  바로바로 구매하는편이라 하나씩 모으는 재미도있고 책장이 흔한남매로 한줄 다채울거같아요<br/>" 
+---

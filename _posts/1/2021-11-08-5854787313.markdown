@@ -9,5 +9,5 @@ categories: [1018]
 color: A57F92 
 price: 11220 
 author: Ask View Shop 
+cont:  "괜찮습니다<br/>빨래 지금해서 널은듯한 향좋은 냄새<br/>저는 클린코튼이 제일 향이 좋아요 5년째 이향만 애용하는 중<br/>" 
 ---
- 
