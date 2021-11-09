@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "김수열줄넘기 골드플러스 SY-415, 민트" 
+description: 김수열줄넘기 골드플러스 SY ..
+date: 2021-11-09 16:07:37 
+img: https://static.coupangcdn.com/image/vendor_inventory/82b9/9e27aa8721994ffdaa61436664e0bd6a1221be52ecc7aef792f6b86966b0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4315323126&itemId=5013745121&vendorItemId=77830807800&traceid=V0-113-00fafb30f753964a 
+categories: [1020] 
+color: CF36BB 
+price: 8420 
+author: Ask View Shop 
+---
+ 
