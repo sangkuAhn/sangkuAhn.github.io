@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "크리넥스 3겹 순수소프트 30m, 30롤, 1개" 
+description: 크리넥스 3겹 순수소프트 3 ..
+date: 2021-11-09 15:25:19 
+img: https://static.coupangcdn.com/image/vendor_inventory/f260/52d031d68c593af3332501fdc000c500a03e313ab16aa5164ac76fb6f7dd.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=338985865&itemId=7656463798&vendorItemId=76391267466&traceid=V0-113-9ff883fdecf5a53d 
+categories: [1014] 
+color: A566FF 
+price: 18790 
+author: Ask View Shop 
+cont:  "기격대비  매우만족  다른회사 휴지를썹ㆍ닸는데 가겍도씨고 부드러워  사용하기 편리히닜다 먼지날림도 적었음<br/>상품소개<br/>싸고 빠른 배송 좋았지만 다른 상품에 비해 내용물이 적은 듯합니다!<br/>약간 먼지가 많이나요 사용하기엔 그런대로 지만 가격 대비 질이 떨어져요<br/>" 
+---

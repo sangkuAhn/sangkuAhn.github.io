@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "당일출고/ 한일스텐레스 달고나만들기세트 9종 일반형" 
+description: 당일출고/ 한일스텐레스 달고 ..
+date: 2021-11-09 07:18:16 
+img: https://static.coupangcdn.com/image/vendor_inventory/e601/3a17267982bce1607ce87aec73294c68a17078f6e301c0eba817e6232e6e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6121834542&itemId=11609366858&vendorItemId=79100992704&traceid=V0-113-a5728a3faa346756 
+categories: [1013] 
+color: 353535 
+price: 17600 
+author: Ask View Shop 
+cont:  "겨우 받았네요<br/>그래도 재미있어요<br/>배송은 나와있는 요일에 딱 맞춰서 와요 달고나 3번정도 했는데 색이 변했어요<br/>보기보다 만들기어렵습니다ㅋㅋㅋ<br/>생각보다 빨리왔어요<br/>설탕을 좀 많이 사놔야겠어요;;;;<br/>아들이 달고나 산다고 몇번을 주문하고 배송문제로 자꾸 취소되고<br/>아이들때문에 샀는데 제가 더 신났어요;;;;하하핳<br/>아이들이랑 즐거운시간을 보냈네요<br/>영상을 봤을땐 만들기 쉬워보였는데 은근 어려워요ㅠㅠ<br/>오늘 집에 와서 만든다며 잔뜩기대하고 있답니다<br/>요즘 오징어게임때문에 주문폭주로 늦을줄 알았는데<br/>주방과 거실이 설탕가루로 난리가 났지만 옛날생각도나고 재미났네요^0^<br/>" 
+---
