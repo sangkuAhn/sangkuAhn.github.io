@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아모스 파스넷 프리미엄 크레파스, 36색" 
+description: 아모스 파스넷 프리미엄 크레 ..
+date: 2021-11-10 16:07:37 
+img: https://static.coupangcdn.com/image/retail/images/3450838376405-c1b4ec30-5eac-4456-aa6c-89bcbb898df0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=62708151&itemId=213973596&vendorItemId=3511543682&traceid=V0-113-5ba1a0dc442aa72e 
+categories: [1020] 
+color: 43A047 
+price: 12250 
+author: Ask View Shop 
+---
+ 

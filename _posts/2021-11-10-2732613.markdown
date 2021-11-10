@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "키친베네 달고나세트(A), 달고나 세트" 
+description: 키친베네 달고나세트(A),  ..
+date: 2021-11-10 15:18:17 
+img: https://static.coupangcdn.com/image/vendor_inventory/3a20/c8dcb594b5dfd564abf51d541c6b30ce7c13ebd32d2651da90eae70b9e92.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2732613&itemId=12583703&vendorItemId=79331752587&traceid=V0-113-ce323a89871fa9b8 
+categories: [1013] 
+color: A566FF 
+price: 15000 
+author: Ask View Shop 
+---
+ 
