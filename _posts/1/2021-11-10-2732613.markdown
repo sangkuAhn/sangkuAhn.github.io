@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "키친베네 달고나세트(A), 달고나 세트" 
+description: 키친베네 달고나세트(A),  ..
+date: 2021-11-10 15:18:17 
+img: https://static.coupangcdn.com/image/vendor_inventory/3a20/c8dcb594b5dfd564abf51d541c6b30ce7c13ebd32d2651da90eae70b9e92.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2732613&itemId=12583703&vendorItemId=79331752587&traceid=V0-113-ce323a89871fa9b8 
+categories: [1013] 
+color: A566FF 
+price: 15000 
+author: Ask View Shop 
+cont:  "검색후 주문했습니다 ㅎㅎ<br/>도착해서 해보니<br/>딸아이가 졸라대서<br/>딸아이와 즐거운 놀이처럼 시간을 보냈습니다<br/>몇차례 실패후, 불 조절과 소다의 양이 중요한걸 알았네요.<br/><br/>안된다고해놓고<br/>애들이 너무 좋아라하네요 재미도있고 나름 추억도 새록새록이네요<br/>예전 어린적생각에 흐믓한  하루보냈네요... <br/><br/>잘쓰겠습니다^^<br/>집에있는 국자로하고 싶다길래<br/>처음 해보시는 분들은 달고나 만드는 방법 유투브나 블로그 검색해보고 숙지해서 사용했으면 좋겠네요<br/>편리하고 좋네요<br/>한번에 준비가 다되어오니<br/>" 
+---
