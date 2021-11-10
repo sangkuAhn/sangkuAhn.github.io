@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "하이트진로 블랙보리 음료, 1.5L, 12개" 
+description: 하이트진로 블랙보리 음료,  ..
+date: 2021-11-11 08:21:48 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/01/29/3458387749/a46311a8-918c-4c5c-b169-de6f64f2bc7b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=55254905&itemId=193509247&vendorItemId=3458387749&traceid=V0-113-afaa28f7691ba416 
+categories: [1024] 
+color: D9418C 
+price: 14600 
+author: Ask View Shop 
+---
+ 
