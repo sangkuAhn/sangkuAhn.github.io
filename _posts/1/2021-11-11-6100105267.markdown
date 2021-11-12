@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "까르페디엠 무지 장우산 2개" 
+description: 까르페디엠 무지 장우산 2개 ..
+date: 2021-11-12 06:01:02 
+img: https://static.coupangcdn.com/image/vendor_inventory/7465/edcd556d4920464c9ec72401c1fb0e1f669ee1a123e87e939ca03745a7b1.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6100105267&itemId=11425705188&vendorItemId=78528518326&traceid=V0-113-b13ebc5ca7d39748 
+categories: [1001] 
+color: D9418C 
+price: 15000 
+author: Ask View Shop 
+cont:  "7,500 원꼴인데 ‥ 가격대비 더 나을진 사용해 봐야알것 같고 리뷰 다시 남길께요<br/>가볍진않아서 바람 불어도 안 넘어갈거같아요<br/>그리고 찍찍이가 아니고 똑딱이 단추가 다르구요<br/>누구랑 같이 쓰긴 작지만<br/>다  5천원 장우산 제품과 흡사하지만<br/>다채로운 컬러 선택이 강점입니다 ^^<br/>마침 비가 또 오네요ㅎㅎ<br/>무겁진않은데 막 다이소우산처럼<br/>불편함이 있어 장우산이 편하더라구요<br/>사람들한테 그레이색깔 이쁘다는 얘기 많이 들었어요<br/>색도 화면이랑 비슷하고<br/>싼가격보고 내년 위해 미리준비한건데<br/>예비용으로 구비차원에서 장만했는데 ‥<br/>올 여름에 살까말까하다 지나갔는데<br/>우산살이 좀 더 촘촘하네요<br/>우산을 분실도 하고<br/>저렴하고 실용적인 다 상품을 주로 애용하는데 컬러가 다양 하지 않더라구요<br/>접는 우산은 빗물에 젖었을때<br/>혼자썼을땐 딱 좋은 사이즈예요<br/>" 
+---
