@@ -9,5 +9,5 @@ categories: [1018]
 color: F361A6 
 price: 11900 
 author: Ask View Shop 
+cont:  "기대해 봅니다<br/>만족합니다<br/>먼저 사용해 본 에탄올 워셔액처럼 품질 좋을것으로<br/>발수코팅하지도안핬는데 구슬처럼 ㅎㅎ다쓰면 또준할게요<br/>상품 잘받았고요<br/>" 
 ---
- 
