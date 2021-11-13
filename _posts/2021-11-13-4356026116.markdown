@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코리아보드게임즈 할리갈리 딜럭스" 
+description: 코리아보드게임즈 할리갈리 딜 ..
+date: 2021-11-14 08:07:35 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/01/29/3000834756/26080504-14a6-40dc-98bb-224b65e4ddd1.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4356026116&itemId=5117215912&vendorItemId=77587777753&traceid=V0-113-7a31df808802d879 
+categories: [1020] 
+color: BD24A9 
+price: 15420 
+author: Ask View Shop 
+---
+ 
