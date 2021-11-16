@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "너의 내면을 검색하라:Search Inside Yourself, 알키" 
+description: 너의 내면을 검색하라:Sea ..
+date: 2021-11-16 08:00:39 
+img: https://static.coupangcdn.com/image/vendor_inventory/5a66/d37cd25ec2abd4ab4184cba27e2a50d43d297ae7971353448e2bd261d485.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=3847037&itemId=124673195&vendorItemId=3137058573&traceid=V0-113-bf6d7aba21b75a14 
+categories: [1019] 
+color: A57F92 
+price: 12600 
+author: Ask View Shop 
+cont:  "사는 법을 다시 배웠습니다.<br/><br/>잘받았습니다<br/>잘읽을께요<br/>표지만 봐도 알차네요<br/>" 
+---
