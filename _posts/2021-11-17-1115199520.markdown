@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "최상위 수학 4-2, 디딤돌" 
+description: 최상위 수학 4-2, 디딤돌 ..
+date: 2021-11-18 08:00:38 
+img: https://static.coupangcdn.com/image/retail/images/2019/12/24/17/7/c94a3347-f71d-497d-8921-688a99be3d59.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1115199520&itemId=2079955888&vendorItemId=70079012917&traceid=V0-113-3ceeb2928a6adfda 
+categories: [1019] 
+color: 35B62C 
+price: 13500 
+author: Ask View Shop 
+---
+ 
