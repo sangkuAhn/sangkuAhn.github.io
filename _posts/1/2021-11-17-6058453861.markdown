@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "능률 VOCA 어원편, NE능률" 
+description: 능률 VOCA 어원편, NE ..
+date: 2021-11-17 16:00:32 
+img: https://static.coupangcdn.com/image/retail/images/2021/08/25/18/2/09b3605c-062f-458a-befe-6f3b32451398.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6058453861&itemId=11130288181&vendorItemId=78408884571&traceid=V0-113-373061681e243d6c 
+categories: [1019] 
+color: BD24A9 
+price: 13500 
+author: Ask View Shop 
+cont:  "딸 아이가 어젰밤에 주문해달라고 해서 주문했는데 오늘 오후에 도착했습니다.<br/> 빠른배송 감사합니다<br/>" 
+---
