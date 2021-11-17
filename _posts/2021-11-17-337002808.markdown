@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "블랑101 세탁세제 시그니처 1L, 1개" 
+description: 블랑101 세탁세제 시그니처 ..
+date: 2021-11-17 15:04:10 
+img: https://static.coupangcdn.com/image/retail/images/1805544334430262-59f9b594-b1eb-4e11-b79f-53c06039694d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=337002808&itemId=1074901978&vendorItemId=5430306666&traceid=V0-113-ee3c720eb13d09f4 
+categories: [1011] 
+color: A57F92 
+price: 18690 
+author: Ask View Shop 
+---
+ 

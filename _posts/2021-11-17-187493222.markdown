@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "곰곰 김치왕만두 (냉동), 2.24kg, 1개" 
+description: 곰곰 김치왕만두 (냉동),  ..
+date: 2021-11-17 15:11:13 
+img: https://static.coupangcdn.com/image/retail/images/89500986184886-c074ceeb-eba0-44a1-be84-1c47d46d0a64.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=187493222&itemId=535874052&vendorItemId=5016184389&traceid=V0-113-964923aac4cfdbeb 
+categories: [1012] 
+color: BF360C 
+price: 11750 
+author: Ask View Shop 
+---
+ 
