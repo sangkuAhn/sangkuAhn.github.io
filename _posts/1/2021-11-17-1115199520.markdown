@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "최상위 수학 4-2, 디딤돌" 
+description: 최상위 수학 4-2, 디딤돌 ..
+date: 2021-11-18 08:00:38 
+img: https://static.coupangcdn.com/image/retail/images/2019/12/24/17/7/c94a3347-f71d-497d-8921-688a99be3d59.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1115199520&itemId=2079955888&vendorItemId=70079012917&traceid=V0-113-3ceeb2928a6adfda 
+categories: [1019] 
+color: 35B62C 
+price: 13500 
+author: Ask View Shop 
+cont:  "4학년부터는 최상위수학이 어렵다길래 긴장했는데<br/>기본개념 한번 짚어주고, 난이도 높은 문제까지 짚어주는 최고의 문제집이에요.<br/> 단, 아이에게 기본개념을 위주로 가르치신다면, 이것보단 기본+개념편으로 하셔야해요.<br/><br/>문제 좋으네요.<br/><br/>여러개념이 섞인 생각을 깊게 할만한 문제들이 있어 좋아요.<br/><br/>최상위문제에 몇문제씩 경시대회출제문제도 있어서, 엄마에게도 한번씩 자극?을 주는 문제집이에요 ㅎㅎ 일자별로 해야할 분량을 체크해둔것도 너무 편해요<br/>항상 풀리는 문제집이예요.<br/><br/>" 
+---
