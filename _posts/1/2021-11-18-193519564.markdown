@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "알사탕 + 이상한 손님 + 장수탕 선녀님, 책읽는곰" 
+description: 알사탕 + 이상한 손님 +  ..
+date: 2021-11-19 08:00:35 
+img: https://static.coupangcdn.com/image/retail/images/2019/02/27/15/9/234b51e4-33cd-4cf4-ab01-6ca74e8cabbf.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=193519564&itemId=554030014&vendorItemId=4455733917&traceid=V0-113-db3fcf26b7d00c94 
+categories: [1019] 
+color: 4374D9 
+price: 31500 
+author: Ask View Shop 
+cont:  "그래도 어제 읽었는데 오늘 또 읽고 그러네요<br/>그림, 내용 모두 재미있습니다<br/>물론 나도!<br/>뮤지컬 보러가기 전에 읽으려고 샀습니다.<br/> 아이가 3살 6살인데 두 명 모두 3권을 다 재미있어하네요 여러번 읽어줘도 재미있어 하는 내용이예요<br/>소장하려고 구입,<br/>아.<br/>.<br/> 애들이 너무좋아한다<br/>유치원에 친구가 똑같은 책 있다며 읽었는데<br/>재미있었다고 하더라구요 ㅎㅎ<br/>제가 넘 늦게 사줬나봅니다.<br/> ㅠㅠ<br/>특히 장수탕 선녀님은 옛날 생각이 나게 해줘요^^<br/>" 
+---
