@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "초등수학 기본 + 응용 4-1, 디딤돌" 
+description: 초등수학 기본 + 응용 4- ..
+date: 2021-11-20 16:00:34 
+img: https://static.coupangcdn.com/image/rs_quotation_api/ssnaqhx3/e00c7f1308164c41811849f84fb0ea0f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6059638440&itemId=11136519360&vendorItemId=78415014513&traceid=V0-113-ba3f3a5f03597c70 
+categories: [1019] 
+color: 4374D9 
+price: 14400 
+author: Ask View Shop 
+cont:  "기본 응용이랑 최상급이랑 2권 사서 미리 예습합니다.<br/><br/>너무 빨리하면 까먹을까봐 미리  세팅만 해놓은 상태인데 지금껏 풀어왔던 문제집중에는 얘가 제일 적당한 것 같아요.<br/><br/>디딤돌은 적당히 좋은 것 같아요.<br/><br/>우리애 기준 쎈은 말이 너무 이상해서  이해가 안되고 시매스는 너무 가볍고 백점이나 만점이나 디딤돌이 잘 맞는 듯 싶습니다.<br/><br/>하루에 2장씩... <br/>겨울방학 대비해서 미리 준비했네요.<br/><br/>" 
+---

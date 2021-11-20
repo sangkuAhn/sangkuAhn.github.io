@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "본죽 단호박죽, 270g, 6개입" 
+description: 본죽 단호박죽, 270g,  ..
+date: 2021-11-20 15:11:14 
+img: https://static.coupangcdn.com/image/retail/images/2126990594454652-144d65c6-0b8c-41cd-a466-f61eb53fd772.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1074358801&itemId=2023830535&vendorItemId=70023461223&traceid=V0-113-26e57950de0c3c26 
+categories: [1012] 
+color: FF1744 
+price: 17400 
+author: Ask View Shop 
+cont:  "가게에서 먹음<br/>간식으로 먹었어요 저는 ㅋ<br/>간이 잘 맞아서 좋네요.<br/><br/>간편하게 전자레인지 돌려먹으면 되서 진짜 편해요.<br/><br/>그래도 맛있어요<br/>너무 달지도 않고 밍밍하지도 않고 맛있어요.<br/><br/>달달하니<br/>또 사야되요 다 먹어서^^  ㅎㅁ<br/>밥보단 호박죽으로 떼우는게 부담 없는듯해요<br/>배고픔이 없어지더라구요<br/>별로 좋아하지 않는 편 인데<br/>뷔페 보다 더 맛이 좋아요<br/>수술 후 붓기관리 위해서 샀어요.<br/><br/>아들, 엄마 둘이 호박죽을 좋아하는데<br/>이 제품은 달콤하고 딱 좋은 농도에 한끼로도 충분히<br/>이건 그냥호박만 ㅋ ㅋ<br/>조리도 렌지에 돌리면 되니 간편하고<br/>참쌀떡?그런게 있는데<br/>칼로리도 낮아서 다이어트에도 도움이 될것 같아요.<br/><br/>평이 좋아서 사먹어봤어요<br/>호박죽 노래 부르는 아들도 운동 늦게 끝난 저녁엔<br/>호박죽 잘 못 먹으면 씁쓸하고 팥이나 건더기있는건<br/>" 
+---
