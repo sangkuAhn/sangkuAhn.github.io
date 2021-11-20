@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "한입 100% 구연산, 1kg, 2개" 
+description: 한입 100% 구연산, 1k ..
+date: 2021-11-20 15:25:20 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2017/11/15/11/7/0223ad51-64d5-4b51-801f-306ef389dec4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=3158754&itemId=6015118&vendorItemId=3056120151&traceid=V0-113-48be21e58d1dfcff 
+categories: [1014] 
+color: F15F5F 
+price: 7020 
+author: Ask View Shop 
+---
+ 
