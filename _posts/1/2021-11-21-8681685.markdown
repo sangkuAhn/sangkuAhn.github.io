@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "스타토리 남성용 심플 양면 목폴라 긴팔 티셔츠" 
+description: 스타토리 남성용 심플 양면  ..
+date: 2021-11-21 14:08:05 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2016/10/13/23/4/203731e5-e030-485c-b5df-ca8fafbe3a4e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=8681685&itemId=37879924&vendorItemId=3056242869&traceid=V0-113-a800dd8ad574e909 
+categories: [1002] 
+color: 353535 
+price: 10800 
+author: Ask View Shop 
+cont:  "다른색으로 하나더 주문할생각이에요<br/>마음에 드는 목티 사기 진짜 어려워서 샘플 개념으로 한 개 주문해 봤는데 진짜 맘에드네요^^ 더 주문해서 겨울에 이거만 입으려구요ㅋㅋ 18393 인데 110 이 잘 맞네요<br/>배송빠르고 건조기줄어듬없음  재질굿  깔별구입 대박추천<br/>이쁘고  브드럽고  너무좋아요<br/>" 
+---
