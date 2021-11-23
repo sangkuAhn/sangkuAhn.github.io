@@ -9,5 +9,5 @@ categories: [1020]
 color: 35B62C 
 price: 32000 
 author: Ask View Shop 
+cont:  "감사합니다<br/>견고하고 부드러워요 아이가 매우 좋아했어요^^<br/>레인저 피규어 팔다리가 너무 잘빠지네요<br/>오랜만에 선물로 주니 너무너무 좋아하네요<br/>" 
 ---
- 
