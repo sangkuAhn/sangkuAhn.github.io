@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "하리보 골드바렌, 1000g, 1개" 
+description: 하리보 골드바렌, 1000g ..
+date: 2021-11-26 07:11:18 
+img: https://static.coupangcdn.com/image/retail/images/1218204694264191-a7d19b4b-6159-4dac-a27d-cc02ff3b05d7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2598181&itemId=7418448713&vendorItemId=3000239794&traceid=V0-113-d5058d1e0f329d71 
+categories: [1012] 
+color: 006064 
+price: 9770 
+author: Ask View Shop 
+---
+ 
