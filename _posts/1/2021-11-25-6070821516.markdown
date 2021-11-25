@@ -9,5 +9,5 @@ categories: [1020]
 color: BD24A9 
 price: 28280 
 author: Ask View Shop 
+cont:  "손녀가 좋아하네요.<br/> 만족합니다.<br/><br/>" 
 ---
- 
