@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "팬시 레몬, 2kg, 1개" 
+description: 팬시 레몬, 2kg, 1개 ..
+date: 2021-11-27 08:21:39 
+img: https://static.coupangcdn.com/image/retail/images/2020/01/02/16/7/4a04681e-0b66-49f2-8434-73185268cacd.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1138956747&itemId=2109599848&vendorItemId=70108356460&traceid=V0-113-ca9fad9d9d31c552 
+categories: [1024] 
+color: A566FF 
+price: 17900 
+author: Ask View Shop 
+---
+ 
