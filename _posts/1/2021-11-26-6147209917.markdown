@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "캐치티니핑 반짝반짝 챠밍 쥬얼밴드, 혼합색상" 
+description: 캐치티니핑 반짝반짝 챠밍 쥬 ..
+date: 2021-11-27 08:07:33 
+img: https://static.coupangcdn.com/image/rs_quotation_api/wl6ftksr/26a991f806ac4cec97f577809309479c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6147209917&itemId=11838452023&vendorItemId=79111810721&traceid=V0-113-6f6d2e481167dd79 
+categories: [1020] 
+color: A566FF 
+price: 29310 
+author: Ask View Shop 
+cont:  "심심하지않게 소리도 중간중간 혼자 나고 재밌어요 !!<br/>아이가 너무 좋아해요 ㅎㅎㅎ 튼튼한거같고 모양이 너무 이쁘네요<br/>아이생일이라샀어요 좋아할것같아요<br/>저렴하게 잘 구매 했어요<br/>" 
+---
