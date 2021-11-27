@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "Bricks Reading 100. 1, 사회평론" 
+description: Bricks Reading  ..
+date: 2021-11-28 08:00:34 
+img: https://static.coupangcdn.com/image/vendor_inventory/5302/47f1b014a9a9febb134f270fd1c425053dd21576c56261ab106f44961510.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=15075466&itemId=62074036&vendorItemId=3097184622&traceid=V0-113-7f248b503c69ff4e 
+categories: [1019] 
+color: D9418C 
+price: 13500 
+author: Ask View Shop 
+---
+ 
