@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "장면들, 창비, 손석희" 
+description: 장면들, 창비, 손석희 ..
+date: 2021-11-27 16:00:33 
+img: https://static.coupangcdn.com/image/retail/images/2021/11/09/14/9/2d51b660-7d23-4ef6-8e18-00bbacc9aab1.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6170804774&itemId=12043980115&vendorItemId=79316191319&traceid=V0-113-5bfbdee8825e6494 
+categories: [1019] 
+color: f44336 
+price: 16650 
+author: Ask View Shop 
+---
+ 
