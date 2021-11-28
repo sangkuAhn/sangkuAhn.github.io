@@ -9,5 +9,5 @@ categories: [1019]
 color: 7E57C2 
 price: 14400 
 author: Ask View Shop 
+cont:  "누구나 한 권쯤은 꼭  풀어야하는 책<br/>빠른배송에 만족해요<br/>" 
 ---
- 

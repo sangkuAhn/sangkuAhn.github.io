@@ -9,5 +9,5 @@ categories: [1020]
 color: f44336 
 price: 50980 
 author: Ask View Shop 
+cont:  "조카를 사줬는데 아주좋아하더라구요<br/>하루종일 변신놀이하며 잘 가지고 노네요<br/>" 
 ---
- 
