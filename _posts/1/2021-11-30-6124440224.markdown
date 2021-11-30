@@ -9,5 +9,5 @@ categories: [1001]
 color: A566FF 
 price: 81200 
 author: Ask View Shop 
+cont:  "실밥은다티어나오고  항아리통에 팔은짧고 돈이 아깝네요<br/>어깨쪽은 좁고 허리쪽은 넖은 항아리.<br/> 한번입어보고 버림<br/>" 
 ---
- 
