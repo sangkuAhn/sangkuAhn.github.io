@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "스타트 위드 와이(Start With Why):나는 왜 이 일을 하는가, 세계사, 사이먼 시넥" 
+description: 스타트 위드 와이(Start ..
+date: 2021-12-01 16:00:34 
+img: https://static.coupangcdn.com/image/retail-product-api/A00077021/71066799/79537048/main/9788933871683_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6145307427&itemId=11821106937&vendorItemId=79094583312&traceid=V0-113-398e7b94ae9568d0 
+categories: [1019] 
+color: 4374D9 
+price: 16020 
+author: Ask View Shop 
+---
+ 
