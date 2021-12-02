@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "K2 베이직 넥 게이터, BLACK" 
+description: K2 베이직 넥 게이터, B ..
+date: 2021-12-02 15:46:28 
+img: https://static.coupangcdn.com/image/vendor_inventory/b2a1/5602c18ee7e57b163ff0579647ac4d69fcc30e75fad5a466fa9eaedd97e9.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6214939664&itemId=12407445252&vendorItemId=79666730660&traceid=V0-113-ee566a2dcbf4abca 
+categories: [1017] 
+color: A57F92 
+price: 17510 
+author: Ask View Shop 
+---
+ 
