@@ -9,5 +9,5 @@ categories: [1013]
 color: FF1744 
 price: 15000 
 author: Ask View Shop 
+cont:  "금액이 작지 않아서 기대했는데<br/>마감이 거친 그대로네요.<br/><br/>배송도 빠르고 제품도 안전하게 도착했어용ㅎㅎ<br/>설탕과 소다는 별도입니다.<br/><br/>손베일것 같습니다.<br/><br/>" 
 ---
- 

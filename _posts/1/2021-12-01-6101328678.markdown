@@ -9,5 +9,5 @@ categories: [1020]
 color: 4CAF50 
 price: 60490 
 author: Ask View Shop 
+cont:  "게임 내 추억4세대에 리메이크다.<br/>재밌다<br/>싸게 샀어요<br/>아이가 좋아하네요<br/>" 
 ---
- 
