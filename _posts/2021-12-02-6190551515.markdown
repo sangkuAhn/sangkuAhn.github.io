@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "종목 선정 나에게 물어봐:누구나 하루 만에 따라 할 수 있는 종목 선정 필살기, 하움출판사, 김정수" 
+description: 종목 선정 나에게 물어봐:누 ..
+date: 2021-12-03 08:00:34 
+img: https://static.coupangcdn.com/image/vendor_inventory/2435/9726cc93afa570b992b726125fdc6232b614ac976a8edf7b20f183714d55.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6190551515&itemId=12215249304&vendorItemId=79416867467&traceid=V0-113-90b5c9cab9e72466 
+categories: [1019] 
+color: 9E9D24 
+price: 23400 
+author: Ask View Shop 
+---
+ 
