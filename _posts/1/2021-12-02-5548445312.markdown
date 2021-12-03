@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "메이튼 차량용 무선 고속충전 휴대폰 거치대 고충ver2" 
+description: 메이튼 차량용 무선 고속충전 ..
+date: 2021-12-03 07:53:31 
+img: https://static.coupangcdn.com/image/retail/images/2021/05/21/17/8/c9ffa3ae-535b-473f-92b0-916abed147bb.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5548445312&itemId=8759859141&vendorItemId=76046778813&traceid=V0-113-eb60d1369991aaa0 
+categories: [1018] 
+color: 5A8DF3 
+price: 27750 
+author: Ask View Shop 
+cont:  "LED 색상을 차량의 다른 색상과 맞출 수 있게 버튼으로 바꿀 수 있어서 아주 만족합니다.<br/><br/>기존에 사용하던 제품이 가격은 저렴하지만, 시동을 끄면 핸드폰 분리가 안되어 불편했는데... <br/>.<br/><br/>선물용으로 샀어요<br/>시거잭 넣었다 안빠져서 고생했는데 usb단자 끼워서 돌려빼니 잘 빠지더군요 안 빠져서 부실뻔 했음 ㅜ<br/>온라인에서 평이 좋아서 구입했는데, 디자인과 마감이 기존보다 고급스럽고, 작동 소음도 적은 편이고,<br/>유튜브 보면서 여러가비 비교하면서 결정했는데 만족해요<br/>제가 사용하고 있는데 이게 최고인것같네요<br/>택배를 받자마자 차량에 설치했는데 잘 되네요<br/>" 
+---

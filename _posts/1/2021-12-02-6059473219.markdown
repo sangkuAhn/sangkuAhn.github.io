@@ -9,5 +9,5 @@ categories: [1002]
 color: A57F92 
 price: 9900 
 author: Ask View Shop 
+cont:  "10개묶음이라 반품도 안되고.<br/>.<br/>망한듯<br/>발목이 조여서 피가 안통한대요ㅠㅠ<br/>신랑 출근용으로 무난한 양말 검색했는데<br/>" 
 ---
- 
