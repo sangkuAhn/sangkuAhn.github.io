@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "블루샤크 방한 토시 A-002, 블랙" 
+description: 블루샤크 방한 토시 A-00 ..
+date: 2021-12-03 15:53:31 
+img: https://static.coupangcdn.com/image/retail/images/2020/10/23/20/1/e6601b46-c69a-4a23-86a5-2be0bef8e935.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2311459023&itemId=3986719031&vendorItemId=71971024911&traceid=V0-113-c5a2217b3a3b0710 
+categories: [1018] 
+color: 43A047 
+price: 25990 
+author: Ask View Shop 
+---
+ 
