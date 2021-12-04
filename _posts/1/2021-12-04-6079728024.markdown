@@ -9,5 +9,5 @@ categories: [1019]
 color: A6A6A6 
 price: 14850 
 author: Ask View Shop 
+cont:  "집에서 혼자 풀어보려고 샀는데 내용 괜찮네요<br/>" 
 ---
- 

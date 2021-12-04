@@ -9,5 +9,5 @@ categories: [1021]
 color: 9E9D24 
 price: 18970 
 author: Ask View Shop 
+cont:  "두깨적당하고 안걸려요<br/>뒷면안비치고 사무용으로최고예요<br/>빠른배송 좋아요<br/>" 
 ---
- 
