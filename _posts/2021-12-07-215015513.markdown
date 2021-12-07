@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "에브리데이넛츠 구운아몬드, 1kg, 1개" 
+description: 에브리데이넛츠 구운아몬드,  ..
+date: 2021-12-07 16:21:40 
+img: https://static.coupangcdn.com/image/vendor_inventory/adfc/174cbb5aa687c27e62a01f4abb27225d2d9bf38a9ba89044f96d1b18cab6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=215015513&itemId=656859603&vendorItemId=75401200289&traceid=V0-113-f68e50c62e9d4931 
+categories: [1024] 
+color: A566FF 
+price: 18700 
+author: Ask View Shop 
+---
+ 
