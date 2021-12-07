@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "네이처 가계부(2022), 달곰미디어" 
+description: 네이처 가계부(2022),  ..
+date: 2021-12-07 08:00:34 
+img: https://static.coupangcdn.com/image/retail-product-api/A00077021/69613803/77844142/main/8809416541495_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6126580198&itemId=11652041150&vendorItemId=78926474470&traceid=V0-113-6de461cf3c5ce1f4 
+categories: [1019] 
+color: 4374D9 
+price: 10500 
+author: Ask View Shop 
+cont:  "2021년11월부터 2022년 12월달까지 있어요<br/>9월부터 나오길 엄청 기다렸어요 ㅎㅎ<br/>간략하게 줄여쓰는 나로서는 이렇게 칸넓고 여유공간많은게 좋음.<br/><br/>너무좋다<br/>매일 쓰는 가계부인데 너무 무겁고 두꺼워요 자세히 확인 안하고 산 내 실수이지요 지난헤에는 달곰 에서 나온 다른 가계부를 썼는데… 같은 구성인 줄 알고 바탕에 꽃무늬가 있어서 궁입했는데… 좀 그렇네요<br/>올해는 10월에 나왔네요<br/>원래 달곰미디어 부자레시피만 써왔는데<br/>이제 이거로 써야지<br/>책이 큼직하고 일러스트도 너무예쁘고<br/>칸도 여유로워서 잘쓰고 있어요<br/>항상 9월 말쯤 출시됬었는데<br/>" 
+---
