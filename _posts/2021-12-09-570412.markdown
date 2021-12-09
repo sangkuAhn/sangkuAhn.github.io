@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "청정원 카놀라유, 900ml, 1개" 
+description: 청정원 카놀라유, 900ml ..
+date: 2021-12-10 07:11:13 
+img: https://static.coupangcdn.com/image/retail/images/231808654525820-946a738c-f336-455f-90ea-8288f7a0a711.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=570412&itemId=2001733&vendorItemId=3000131356&traceid=V0-113-bebdc5465264cefb 
+categories: [1012] 
+color: 35B62C 
+price: 4900 
+author: Ask View Shop 
+---
+ 
