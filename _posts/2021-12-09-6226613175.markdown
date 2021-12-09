@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "K2 베이직 귀마개, 네이비" 
+description: K2 베이직 귀마개, 네이비 ..
+date: 2021-12-09 15:46:26 
+img: https://static.coupangcdn.com/image/vendor_inventory/bb54/0d154ad2749bebab16a8ceb0003a041d418a8b8dc9b8144ba4b29b8dcbf6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6226613175&itemId=12490941027&vendorItemId=79748339057&traceid=V0-113-aaf84a5de4263459 
+categories: [1017] 
+color: A566FF 
+price: 9340 
+author: Ask View Shop 
+---
+ 
