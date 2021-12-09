@@ -9,5 +9,5 @@ categories: [1019]
 color: BD24A9 
 price: 14400 
 author: Ask View Shop 
+cont:  "책 오래 기다렸습니다 돈깡님 화이팅!<br/>" 
 ---
- 

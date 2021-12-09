@@ -9,5 +9,5 @@ categories: [1019]
 color: 1294AB 
 price: 5000 
 author: Ask View Shop 
+cont:  "만족합니다 교과서를 잃어버려서 ㅜㅜ<br/>우편함에 꼿아 놓고 가지 마세요 여기 우편물 가져가는 사람 있어요<br/>" 
 ---
- 

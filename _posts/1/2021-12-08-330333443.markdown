@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "한글과컴퓨터 한컴오피스2020 가정 및 학생용 제품키 배송형 MLP" 
+description: 한글과컴퓨터 한컴오피스202 ..
+date: 2021-12-09 07:39:28 
+img: https://static.coupangcdn.com/image/vendor_inventory/31cb/581eb6750b93243d8ad6ab51194d0189c22ec46262acdf37b4f4391877e2.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=330333443&itemId=1055838231&vendorItemId=79313541331&traceid=V0-113-b0ffe927f8ce8dde 
+categories: [1016] 
+color: F15F5F 
+price: 9000 
+author: Ask View Shop 
+cont:  "<설치시유의사항><br/>1.<br/> 제어판에서 기존 한컴오피스프로그램(체험판포함) 전부삭제하시고<br/>2.<br/> 내컴퓨터<br/> -로컬디스크<br/> -Program Files(86) 경로를 거쳐 HNC폴더를 삭제하세요<br/>3.<br/> 컴퓨터 재부팅하고 설치<br/>구입하고자 하시는 분들은 고민고민 버리시고 걍고고<br/>급급급해서 알아보다... <br/>.<br/>설마설마하고 구입했습니다.<br/><br/>아주 구ㄷ입니다<br/>압축만풀면 다 끝나더라고요 ㅎㅎ 잘쓸게유 감사함당<br/>오 그냥 생각없이 한방에 깔리내요... <br/>.<br/><br/>저 컴맹이라 사놓고도 깔때 걱정이었는데 메일 설명글있는지 몰랐는데도 어려움없이 했어요.<br/><br/>정말 5분도 안걸린거 같아요... <br/><br/>정품입니다.<br/><br/>제품키 입력할 필요없는 자동설치라 설치시 어려움이 전혀 없습니다.<br/><br/>주말인데도 시키자마자 메일로  바로왔어욬ㅋ 깜놀<br/>" 
+---

@@ -9,5 +9,5 @@ categories: [1011]
 color: 7E57C2 
 price: 15670 
 author: Ask View Shop 
+cont:  "가격착하고 물건 좋습니다<br/>적극추천합니다<br/>한번 써보시면 알겁니다<br/>" 
 ---
- 
