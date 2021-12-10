@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "캐치티니핑 반짝반짝 말하는 믿어핑, 혼합색상" 
+description: 캐치티니핑 반짝반짝 말하는  ..
+date: 2021-12-10 16:07:36 
+img: https://static.coupangcdn.com/image/rs_quotation_api/rarjouoa/9f1d4ed2367b42748f7abc344561061b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6147209924&itemId=11838452067&vendorItemId=79111810802&traceid=V0-113-6dbbc099908c3feb 
+categories: [1020] 
+color: BF360C 
+price: 21060 
+author: Ask View Shop 
+cont:  "말하는 하츄핑 잘 갖고 놀고 있어서 다른 티니핑도 모아볼 겸 해서 말하는 믿어핑으로 사줬는데 넘 좋아하네요<br/>머리스타일 때문에 무게중심이 좀 높아서 잘 쓰러지는 것은 어쩔수가 없네요 ㅎㅎ<br/>불빛, 소리 다 잘 됩니다 ^^<br/>" 
+---

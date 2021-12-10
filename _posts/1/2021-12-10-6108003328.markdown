@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "영실업 베이블레이드 아스트랄 스프리건 개조세트 B-188" 
+description: 영실업 베이블레이드 아스트랄 ..
+date: 2021-12-10 16:07:36 
+img: https://static.coupangcdn.com/image/retail/images/2021/10/05/17/3/396192d7-f299-488a-af87-ab136c094b59.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6108003328&itemId=11493034780&vendorItemId=78768315113&traceid=V0-113-d00fed5298ee67de 
+categories: [1020] 
+color: A57F92 
+price: 34990 
+author: Ask View Shop 
+cont:  "마트보다 저렴합니다 인기상품이라 품절되기전에 쟁여두려구요<br/>베이는 런처에 장착되는게 좀힘들지만 그래도 괜찮습니다.<br/><br/>아들이 너무 좋아하네요.<br/> 덩달아 저도 기분 흡족<br/>" 
+---
