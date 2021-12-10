@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "2022 맘마미아 가계부, 진서원" 
+description: 2022 맘마미아 가계부,  ..
+date: 2021-12-11 08:00:34 
+img: https://static.coupangcdn.com/image/vendor_inventory/8d07/b55785d3e95df36dc62ce9d970648b0af8628d23bef09836a5f62f640ff9.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6073616778&itemId=11224350896&vendorItemId=78479225759&traceid=V0-113-dad9310128be9d14 
+categories: [1019] 
+color: 4CAF50 
+price: 10800 
+author: Ask View Shop 
+---
+ 
