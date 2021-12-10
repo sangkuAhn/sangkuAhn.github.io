@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "생채움 쌀떡국떡, 1kg, 2개" 
+description: 생채움 쌀떡국떡, 1kg,  ..
+date: 2021-12-10 15:11:13 
+img: https://static.coupangcdn.com/image/retail/images/2021/01/27/18/5/6aad42c3-b705-42d2-b5c7-75292ba99f0b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4889075677&itemId=6371038699&vendorItemId=73666222363&traceid=V0-113-67923060e048f722 
+categories: [1012] 
+color: A566FF 
+price: 6980 
+author: Ask View Shop 
+---
+ 

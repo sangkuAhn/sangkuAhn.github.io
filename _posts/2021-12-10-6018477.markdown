@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "피스코리아 접지 3구 멀티탭, 2m, 1개" 
+description: 피스코리아 접지 3구 멀티탭 ..
+date: 2021-12-10 15:32:22 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/11/22/3039845541/71032eeb-983d-4345-880c-7ed92ccb07b2.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6018477&itemId=26986351&vendorItemId=3039845541&traceid=V0-113-b6649cfcc5aad1df 
+categories: [1015] 
+color: FF1744 
+price: 4130 
+author: Ask View Shop 
+---
+ 

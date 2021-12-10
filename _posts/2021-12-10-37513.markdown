@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "솔리몬 스퀴즈드 레몬즙, 1L, 2개" 
+description: 솔리몬 스퀴즈드 레몬즙, 1 ..
+date: 2021-12-10 15:11:13 
+img: https://static.coupangcdn.com/image/vendor_inventory/68f5/5d10468ca89c5501ec1cf388ece1ed41965c915af3c4a9b5f1d3e6639db3.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=37513&itemId=19711992&vendorItemId=73999927001&traceid=V0-113-784b8008b25a36d2 
+categories: [1012] 
+color: 4CAF50 
+price: 10530 
+author: Ask View Shop 
+---
+ 

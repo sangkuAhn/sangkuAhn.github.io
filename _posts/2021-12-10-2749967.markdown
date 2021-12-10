@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "팔도왕뚜껑 미니 왕뚜껑 컵라면 80g, 16개" 
+description: 팔도왕뚜껑 미니 왕뚜껑 컵라 ..
+date: 2021-12-10 15:11:13 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/10/24/3059530010/b6c659cf-f368-431a-8982-87cb929a4558.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2749967&itemId=39554971&vendorItemId=3059530010&traceid=V0-113-703efbe41c03f16a 
+categories: [1012] 
+color: A57F92 
+price: 11030 
+author: Ask View Shop 
+---
+ 

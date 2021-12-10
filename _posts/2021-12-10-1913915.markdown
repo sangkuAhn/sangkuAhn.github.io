@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "맛있는 오뚜기밥 발아흑미, 210g, 12개" 
+description: 맛있는 오뚜기밥 발아흑미,  ..
+date: 2021-12-10 15:11:13 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/01/29/3112209329/db8dbb84-6a19-4b9d-b9b1-ef759cbe02bb.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1913915&itemId=11027571&vendorItemId=3112209329&traceid=V0-113-a6880bcdf6035c9f 
+categories: [1012] 
+color: 353535 
+price: 12890 
+author: Ask View Shop 
+---
+ 
