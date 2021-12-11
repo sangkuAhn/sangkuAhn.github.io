@@ -9,5 +9,5 @@ categories: [1019]
 color: A566FF 
 price: 12150 
 author: Ask View Shop 
+cont:  "받았습니다 아침에 아이가 좋아 할 것 같아요<br/>배송예정이 토요일 이였는데 금요일 밤 11시  넘어서<br/>아이가 너무 좋아합니다<br/>" 
 ---
- 
