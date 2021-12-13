@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "로지 심플 캔버스 크로스백" 
+description: 로지 심플 캔버스 크로스백 ..
+date: 2021-12-13 14:01:04 
+img: https://static.coupangcdn.com/image/vendor_inventory/25de/5b74c9f3b6edb77f1b071ad24d766899b2b7fdf76747317e0415db325ea9.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6151536210&itemId=11875926387&vendorItemId=79148982155&traceid=V0-113-00ca4e50b20a4a11 
+categories: [1001] 
+color: BD24A9 
+price: 7680 
+author: Ask View Shop 
+---
+ 
