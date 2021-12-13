@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "오뚜기 옛날 자른당면, 1kg, 1개" 
+description: 오뚜기 옛날 자른당면, 1k ..
+date: 2021-12-14 07:11:18 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/10/25/3000267646/27fd507d-1ed2-4f3f-9de9-2eabdea8ffc8.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4549354187&itemId=5519281878&vendorItemId=72818826233&traceid=V0-113-955544a05b68642b 
+categories: [1012] 
+color: CF36BB 
+price: 8570 
+author: Ask View Shop 
+---
+ 

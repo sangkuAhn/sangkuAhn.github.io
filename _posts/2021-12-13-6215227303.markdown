@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "나는 장사의 신이다:일단 돈을 진짜 많이 벌어봐라 세상이 달라진다!, 은현장 저, 떠오름" 
+description: 나는 장사의 신이다:일단 돈 ..
+date: 2021-12-14 08:00:38 
+img: https://static.coupangcdn.com/image/vendor_inventory/dde7/0b6e8b9ea557d9ec4992443f51fc890fce6bb6d64a1ed12e25adff7bd3ff.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6215227303&itemId=12409230287&vendorItemId=79678723137&traceid=V0-113-ee1e3b8e5b675d71 
+categories: [1019] 
+color: BD24A9 
+price: 15120 
+author: Ask View Shop 
+---
+ 
