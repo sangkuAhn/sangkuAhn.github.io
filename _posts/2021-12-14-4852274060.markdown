@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "스윗밸런스 멕시칸 치킨 샐러드, 210g, 2개" 
+description: 스윗밸런스 멕시칸 치킨 샐러 ..
+date: 2021-12-14 16:21:43 
+img: https://static.coupangcdn.com/image/retail/images/2021/01/21/19/5/650574f1-4a8d-404f-9d9f-26fcd3a28b8b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4852274060&itemId=6284740448&vendorItemId=73580310021&traceid=V0-113-5ce8775b7a137d59 
+categories: [1024] 
+color: 35B62C 
+price: 9720 
+author: Ask View Shop 
+---
+ 

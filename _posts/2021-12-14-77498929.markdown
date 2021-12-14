@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "티랑 작두콩차 티백, 100g, 1팩" 
+description: 티랑 작두콩차 티백, 100 ..
+date: 2021-12-14 16:21:43 
+img: https://static.coupangcdn.com/image/retail/images/2019/08/05/14/8/26578806-3349-4980-b809-e35612513f01.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=77498929&itemId=868186485&vendorItemId=5197002446&traceid=V0-113-14f9e5e84dcda5a7 
+categories: [1024] 
+color: D9418C 
+price: 14390 
+author: Ask View Shop 
+---
+ 
