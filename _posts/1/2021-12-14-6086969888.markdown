@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "흔한남매 냐하 점핑게임, 블루" 
+description: 흔한남매 냐하 점핑게임, 블 ..
+date: 2021-12-14 16:07:37 
+img: https://static.coupangcdn.com/image/rs_quotation_api/glzhfyif/41b9c12d861741a88fba2766e504d859.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6086969888&itemId=11318561713&vendorItemId=78595095718&traceid=V0-113-252eda24d11114fb 
+categories: [1020] 
+color: FF6F00 
+price: 26200 
+author: Ask View Shop 
+cont:  "6살 동생이 자꾸 따라해서 참 난감합니다... <br/><br/>게임은 아이가 매우 즐거워하고 좋아해요<br/>광고 볼때마다 가지고 싶다고 해서 사 주었는데... <br/><br/>근데 점수가 많이 안나온다는ㅋㅋ아직은 좀 어렵나봐요<br/>다만... <br/>.<br/><br/>아이들이 가지고 노는건데... <br/>왜 `와 지린다`, `살 좀 빼라` 이런 말들이 중간중간 흘러 나오는지 모르겠어요... <br/><br/>아이들이 보고 듣고 하는건데... <br/>말 좀 가려서 녹음을 하지... <br/>.<br/><br/>아주 하루종일 가지고 놀더니 결국 최고점인 99점을 하루만에 깨버리네요<br/>어른이해도 좀 어렵긴한듯ㅎㅎ그래도 재밌어해요<br/>재미도 있어요<br/>타이밍 맞춰서 점프하는게 생각보다 쉽지 않고<br/>" 
+---
