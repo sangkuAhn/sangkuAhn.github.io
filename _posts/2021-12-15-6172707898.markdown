@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "ipTIME 유무선공유기, N702E plus" 
+description: ipTIME 유무선공유기,  ..
+date: 2021-12-15 15:39:25 
+img: https://static.coupangcdn.com/image/retail/images/7504127082374183-a3d05760-47dd-4ada-b668-3a84a3070ee8.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6172707898&itemId=12060307211&vendorItemId=70476609528&traceid=V0-113-0a3978d6ad839765 
+categories: [1016] 
+color: F361A6 
+price: 22600 
+author: Ask View Shop 
+---
+ 
