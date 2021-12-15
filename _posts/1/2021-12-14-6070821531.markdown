@@ -9,5 +9,5 @@ categories: [1020]
 color: 4A148C 
 price: 44400 
 author: Ask View Shop 
+cont:  "아들이 좋아해요<br/>역시 헬로카봇이네요<br/>" 
 ---
- 
