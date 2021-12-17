@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "반짝반짝 티니핑 스쿨 인형집, 혼합색상" 
+description: 반짝반짝 티니핑 스쿨 인형집 ..
+date: 2021-12-17 16:07:38 
+img: https://static.coupangcdn.com/image/rs_quotation_api/nmg2rnpi/d659c6d422284281a79456db2b3fd2d0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6163484861&itemId=11977831392&vendorItemId=79250332933&traceid=V0-113-f53b2ed19d7ea753 
+categories: [1020] 
+color: A566FF 
+price: 149290 
+author: Ask View Shop 
+cont:  "12만원선에서 왔다갔다야 백번이해해도 가격이두배가까이라는건 도대체 누가빼돌리는건지.<br/>, 바쁘다고 수요가많다고 부품이두배이상들어가는것도아닌데.<br/>.<br/>쿠팡이 문제인지 공급업자가문제인지.<br/>.<br/><br/>새벽에 입고문자보고 새벽4시에 봤을때 12만원이라고민하다 그냥 삼ㅠㅜ 그나마 지금 가격 더 오른거에 위로받지만 정가 89천원을 알기에 속이 넘 쓰립니다 진짜 크리스마스 시즌에 가장 인기있는  장난감 가격으로 너무 장난치는거에 쿠팡말고도 모든 판매처에  화가나네요<br/>아무리 크리스마스 타 기념일마다 수요가많다해도 시장가격변동미 심하네요<br/>아이 성향이 언제바뀔지몰라 미리사두지도못하는데.<br/>.<br/><br/>암튼 저는 12만원대에샀네요.<br/>,<br/>역시캐치티니핑이죠뭐.<br/>.<br/><br/>원래 10만원도 훨씬 안되는 것인데.<br/>,<br/>이걸 보고 다행이라고해야하는 현실이.<br/>.<br/><br/>참 선물마련하는데 씁슬하네요<br/>쿠팡 가격장난질심한건 알지만.<br/>.<br/>,<br/>" 
+---
