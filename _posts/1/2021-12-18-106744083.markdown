@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "개념원리 RPM 중학 수학 중 2-1" 
+description: 개념원리 RPM 중학 수학  ..
+date: 2021-12-18 16:00:34 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/04/09/3790001059/afc5c5c8-8259-452f-acdc-5440d8825e52.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=106744083&itemId=322651084&vendorItemId=3790001059&traceid=V0-113-6d1ee3c1daa00006 
+categories: [1019] 
+color: 35B62C 
+price: 12600 
+author: Ask View Shop 
+cont:  "12,600원<br/>2학기 때도 구입하려구요<br/>비상이랑.<br/> 쎈은 풀려봐서 다른 출판사를 찾다가 후기가 좋고 많이들 구입하는거 같아서 주문했는데 괜찮네요<br/>아이가 공부하려고 샀어요.<br/><br/>아이가 풀어보더니 학교 선생님께서 내주신 자료랑 유사한게 많고 기본서라 쉽고 재밌어서 요게 더 손이 많이 간다고 하네요<br/>올백 수학이랑 요거랑 문제집 두 권 구입했어요<br/>찬찬히 복습해서 실력이 다져지면 좋겠어요.<br/><br/>학원쌤이 추천해주는 교재이네요<br/>학원에서 진도 나가는 거 별도로 집에서 복습차원에서 시키려고 주문했어요<br/>" 
+---
