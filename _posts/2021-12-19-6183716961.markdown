@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "메카드볼 슈퍼 랜덤팝 vol 01 로봇, 혼합색상" 
+description: 메카드볼 슈퍼 랜덤팝 vol ..
+date: 2021-12-20 08:07:40 
+img: https://static.coupangcdn.com/image/vendor_inventory/f93c/b72abca16ac2b5c68c166597dbf6c3ea26ce1d2e0a9786cb43e07fcf0ad2.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6183716961&itemId=12159636762&vendorItemId=79372783408&traceid=V0-113-e6c3823e6f98a27f 
+categories: [1020] 
+color: F15F5F 
+price: 26000 
+author: Ask View Shop 
+---
+ 
