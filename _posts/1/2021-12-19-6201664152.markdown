@@ -9,5 +9,5 @@ categories: [1010]
 color: 5A8DF3 
 price: 39660 
 author: Ask View Shop 
+cont:  "꾸준히 써 볼 생각입니다.<br/><br/>두번 써본 상태이지만 가려움은 없네요<br/>염색을 자주하는것보다 나을듯 싶어<br/>조금씩 염색이 되는거같긴해요<br/>좀 더 써 볼께요<br/>좋은 제품 싸게 잘 구매했습니다<br/>" 
 ---
- 
