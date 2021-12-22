@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "인간 이재명, 아시아, 스토리텔링콘텐츠연구소" 
+description: 인간 이재명, 아시아, 스토 ..
+date: 2021-12-22 16:00:32 
+img: https://static.coupangcdn.com/image/retail-product-api/A00077021/67836765/75694067/main/9791156625599_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6100119688&itemId=11425810945&vendorItemId=78701408161&traceid=V0-113-20d474dc5ca41171 
+categories: [1019] 
+color: A6A6A6 
+price: 14850 
+author: Ask View Shop 
+---
+ 
