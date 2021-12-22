@@ -9,5 +9,5 @@ categories: [1019]
 color: A566FF 
 price: 14400 
 author: Ask View Shop 
+cont:  "내신준비<br/>입시학원에서 지정한 교제라서 주문했습니다<br/>학원교재로 구입했어요<br/>" 
 ---
- 
