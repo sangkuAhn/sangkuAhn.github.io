@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아르디움 2022 위클리 베이직 플래너, 바이올렛" 
+description: 아르디움 2022 위클리 베 ..
+date: 2021-12-23 08:14:43 
+img: https://static.coupangcdn.com/image/vendor_inventory/bb04/28f992abae179cbec3ef5641199e49622908e73ef53eaeed806975060c96.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6091699727&itemId=11360165204&vendorItemId=78661064191&traceid=V0-113-8d0f6380e5a44d20 
+categories: [1021] 
+color: 1294AB 
+price: 11800 
+author: Ask View Shop 
+---
+ 

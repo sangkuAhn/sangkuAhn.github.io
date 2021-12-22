@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "국내산 미니파프리카 혼합, 500g, 1봉" 
+description: 국내산 미니파프리카 혼합,  ..
+date: 2021-12-23 08:21:46 
+img: https://static.coupangcdn.com/image/retail/images/438352021224595-e694f037-cd7c-416e-a37e-a01a12c46dce.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4697181067&itemId=5911958177&vendorItemId=73210037063&traceid=V0-113-95a92e2ba68a6281 
+categories: [1024] 
+color: FF6F00 
+price: 8230 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "프레쉬팜 골드 파인애플 스틱, 1kg, 1개" 
+description: 프레쉬팜 골드 파인애플 스틱 ..
+date: 2021-12-23 08:21:46 
+img: https://static.coupangcdn.com/image/retail/images/618576836478906-6ebdd61d-6674-446c-90ca-cd4e1d4154ff.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4972302070&itemId=6603812777&vendorItemId=73897730910&traceid=V0-113-04f210696788c419 
+categories: [1024] 
+color: F15F5F 
+price: 9800 
+author: Ask View Shop 
+---
+ 
