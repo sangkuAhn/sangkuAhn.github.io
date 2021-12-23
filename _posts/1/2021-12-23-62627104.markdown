@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "포켓몬 썬&문 전국 캐릭터 대도감(하), 학산문화사" 
+description: 포켓몬 썬&문 전국 캐릭터  ..
+date: 2021-12-23 16:00:34 
+img: https://static.coupangcdn.com/image/vendor_inventory/3a3c/60bcbdee7b8e3df676720898cdc568219f709de351a60a121be0f34ae9c9.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=62627104&itemId=213694639&vendorItemId=73771622344&traceid=V0-113-c09b7d4d1cdd0039 
+categories: [1019] 
+color: f44336 
+price: 11700 
+author: Ask View Shop 
+cont:  "A4보다 작은사이즈, 올컬러라 아이가 좋아해요<br/>매일 마다 펼쳐서 그림 따라그리고 좋아하는 책이 되었어요<br/>아이가 좋아하는 포켓몬이 하권에 있어서 상 구매하자마자 다시 하권 바로 구매했는데 당일 밤에 왔어요!! 로켓배송 정밀 빠르네요.<br/><br/>아이가 좋아하는데.<br/> 칼로스도감이랑 썬앤문 도감도 따로 있고,<br/>아이가 좋아해서 로켓배송 되는 하 부터 구입했어요<br/>요번에 베스트위시를 새롭게 보면서 중고로 베스트위시도감을 따로구매했어요.<br/> 근데 이 도감에 전부 다 있네요.<br/> 최근시리즈 포켓몬만 있을 줄 알았어요.<br/> 갖고 있던 도감을 처분해야하나 하고 있네요.<br/>ㅎㅎ<br/>진화 그모습, 타입등 도감 내용 충실하고<br/>" 
+---

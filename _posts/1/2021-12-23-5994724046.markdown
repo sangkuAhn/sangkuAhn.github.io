@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코멧 투명 박스테이프 40M * 48mm, 50개" 
+description: 코멧 투명 박스테이프 40M ..
+date: 2021-12-23 16:14:40 
+img: https://static.coupangcdn.com/image/retail/images/9854040212165094-06a85bcc-ac68-4e84-adde-d1da9db375bc.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5994724046&itemId=10834128893&vendorItemId=78114153654&traceid=V0-113-44d56f4130e22f41 
+categories: [1021] 
+color: 5A8DF3 
+price: 33990 
+author: Ask View Shop 
+cont:  "50미터 이면 더 좋을 것 같아요.<br/><br/>" 
+---

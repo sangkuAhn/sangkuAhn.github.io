@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "눈썰매 국산 어린이 1인용 2인용 강화플라스틱 썰매" 
+description: 눈썰매 국산 어린이 1인용  ..
+date: 2021-12-23 07:46:32 
+img: https://static.coupangcdn.com/image/vendor_inventory/1e9d/755cf96e19b2198859109f2fc671d7c9faf9d501675f6c8ab3bbbea6c280.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=160325697&itemId=460308781&vendorItemId=4143477081&traceid=V0-113-4045293486b4dc36 
+categories: [1017] 
+color: FF6F00 
+price: 13500 
+author: Ask View Shop 
+cont:  "눈한번 펑펑오면 진짜 신나게 쓸거같아용<br/>색이 잘못 오긴 했지만 썰매 자체는 튼튼하고 좋아요<br/>싸게 잘샀어요.<br/> 다만 줄이 조금만 더 길었으면해요<br/>아들 태워주려 샀어요<br/>" 
+---

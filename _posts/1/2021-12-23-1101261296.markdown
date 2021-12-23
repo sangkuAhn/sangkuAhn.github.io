@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "바니랜드 포켓몬 종치기게임, 혼합 색상" 
+description: 바니랜드 포켓몬 종치기게임, ..
+date: 2021-12-23 16:07:37 
+img: https://static.coupangcdn.com/image/vendor_inventory/ef43/a316d385a097b38264fd0c0e48bbc9dfbf396d6d742f76567605b1807a43.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1101261296&itemId=2061162631&vendorItemId=79142604091&traceid=V0-113-b2cb1308731b2d0c 
+categories: [1020] 
+color: 7E57C2 
+price: 8800 
+author: Ask View Shop 
+cont:  "60장 너무 금방 끝나서 아쉽네요 ㅎㅎㅎ<br/>다른 할리갈리도 카드가 60장인지 모르겠지만<br/>새벽배송인데 12시되기도 전 엄청일찍왔어요 ㅋㅋ<br/>심심할때 한번씩 하면 끝날줄 모르고 계속 합니다 ㅋ<br/>아이가 요즘 보드게임 많이 해서 이것저것 찾아보다 다른 할리갈리보다 저렴하기도 하고 애가 포켓몬스터를 엄청 좋아해서 주문했어요<br/>아이들이 좋아하는 포켓몬 종기치라서 더더 좋아하네요 )<br/>애들한테 괜히 승부욕 생겨서 계속 하네요 ㅋㅋ<br/>재밌어요<br/>저렴한데 구성 아주 허접하지않고 아이도 재밌다며 잘하네요 시간 순삭이에요<br/>추천합니다<br/>택배봉투에서 띠링띠링 종소리나네요 ㅋㅋ<br/>후기에 카드수 안맞는단 말이 있어 우선 갯수부터 확인했는데 전 구성 제대로 다 들어있고 오히려 여분카드로 꼬북이5가 한장 더 들어있네요^^<br/>" 
+---

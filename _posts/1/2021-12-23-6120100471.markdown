@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "미미월드 포켓몬 퀴즈배틀, 혼합색상" 
+description: 미미월드 포켓몬 퀴즈배틀,  ..
+date: 2021-12-23 16:07:37 
+img: https://static.coupangcdn.com/image/vendor_inventory/3f8f/e317fa98ba943a23783eb3a266aa2435ecee86cfb949ebb14e047d6dba78.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6120100471&itemId=11595216112&vendorItemId=78685003510&traceid=V0-113-7df6d67227484c7d 
+categories: [1020] 
+color: A566FF 
+price: 22150 
+author: Ask View Shop 
+cont:  "밑에부분이 좀 파손되었는데도 아이는 상관없다며 신나서 계속 하고있어요형아찾지않고 이리 오랜시간 혼자 놀긴 처음인 9살이예요ㅋ<br/>" 
+---
