@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "뜯어쓰는 색종이 첫 오리기, 아이키움" 
+description: 뜯어쓰는 색종이 첫 오리기, ..
+date: 2021-12-24 16:00:35 
+img: https://static.coupangcdn.com/image/retail/images/2021/03/19/16/6/e5e2eb9c-868a-4b44-89d9-44b7092666f1.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5207816574&itemId=7275498319&vendorItemId=74566850495&traceid=V0-113-ca54a23f97f5df44 
+categories: [1019] 
+color: BD24A9 
+price: 11200 
+author: Ask View Shop 
+---
+ 
