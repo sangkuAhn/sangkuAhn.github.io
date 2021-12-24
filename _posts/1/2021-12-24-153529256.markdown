@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코코 사선 종이 롤포장지, 적색, 1개" 
+description: 코코 사선 종이 롤포장지,  ..
+date: 2021-12-24 16:14:40 
+img: https://static.coupangcdn.com/image/vendor_inventory/9f4b/1a9645ae33e0b4f7fe527071db288a0e686f8206ed32d49e7be3bdb925e2.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=153529256&itemId=442922144&vendorItemId=72112503501&traceid=V0-113-d71e0271fe334d00 
+categories: [1021] 
+color: 4374D9 
+price: 8500 
+author: Ask View Shop 
+cont:  "냄새심하고  완전 급해서 그냥 사용합니다 너무하네요<br/>너무 싼티나서 반품하고팠는데<br/>색상도 예쁘고 길이도 넉넉하고 배송도 빨라서 유용하게 썼어요.<br/> 별 몇개 뺀건 냄새가 좀 심하네요.<br/><br/>시간이 없어 그냥 급해서 썼어요 ㅎㅎ<br/>실제 받아보니 종이 넘 얇고 냄새가 마니 나요<br/>" 
+---
