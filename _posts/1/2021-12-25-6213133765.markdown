@@ -9,5 +9,5 @@ categories: [1019]
 color: 7E57C2 
 price: 129600 
 author: Ask View Shop 
+cont:  "아이가 다꾸도 넘 맘에 들어해요^^<br/>초2아이 크리스마스 선물로 주문 해두었는데 오늘 보니 품절이네요.<br/> 미리 주문 해두길 잘 했네요<br/>" 
 ---
- 
