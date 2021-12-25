@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아이젠마스터 11P 아이젠, 그레이" 
+description: 아이젠마스터 11P 아이젠, ..
+date: 2021-12-25 15:46:29 
+img: https://static.coupangcdn.com/image/retail/images/2171221748514019-090b4c70-992e-4b85-b669-52562891a926.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=60968872&itemId=209053477&vendorItemId=3495480295&traceid=V0-113-cf5a42572a182fbb 
+categories: [1017] 
+color: 7E57C2 
+price: 19900 
+author: Ask View Shop 
+---
+ 

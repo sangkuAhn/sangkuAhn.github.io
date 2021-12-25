@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "오뚜기 진한 토마토케찹, 800g, 1개" 
+description: 오뚜기 진한 토마토케찹, 8 ..
+date: 2021-12-25 15:11:15 
+img: https://static.coupangcdn.com/image/vendor_inventory/492c/d0933eb0802384138b692c110344c48d469b3fc87c3e85119f170f470a9d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=35267&itemId=95698&vendorItemId=79911427390&traceid=V0-113-1eb8803bd3c7bdf0 
+categories: [1012] 
+color: FF6F00 
+price: 10900 
+author: Ask View Shop 
+---
+ 
