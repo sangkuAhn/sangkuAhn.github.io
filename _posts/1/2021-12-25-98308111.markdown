@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "개념원리 고등 확률과 통계(2022):하나를 알면 10개 20개를 풀 수 있는 개념원리수학" 
+description: 개념원리 고등 확률과 통계( ..
+date: 2021-12-26 08:00:32 
+img: https://static.coupangcdn.com/image/vendor_inventory/d1d6/c443bcd67718a6b6fc2ee1aefe82c23f9217a6ce0df35af2ac750062b63c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=98308111&itemId=301563579&vendorItemId=3742630993&traceid=V0-113-ca26cd90af37e107 
+categories: [1019] 
+color: A566FF 
+price: 12600 
+author: Ask View Shop 
+cont:  "아이꺼 대신 주문<br/>제대로 공부하기 전에 개념만 간단하게 잡고 넘어가기 좋은 책입니다<br/>학교에서 숙제로 해오라고 한 문제집이라서 주문 했습니다<br/>학원 교재로 주문합니다.<br/> 쎈.<br/> 개념원리.<br/> 자이스토리 이건 고등학생 필수인가봐요.<br/><br/>확실히 개념원리 라서 그런지 개념 공부 할때 좋은거 같네요<br/>" 
+---
