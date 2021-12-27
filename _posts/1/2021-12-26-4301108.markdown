@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "산타 할아버지의 크리스마스, 어스본코리아" 
+description: 산타 할아버지의 크리스마스, ..
+date: 2021-12-27 08:00:35 
+img: https://static.coupangcdn.com/image/vendor_inventory/7acd/476a57d7188f5582a4f5c99130e5db2920af10aac49071b44032afa74329.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4301108&itemId=20535442&vendorItemId=3029999533&traceid=V0-113-af2187b78676b878 
+categories: [1019] 
+color: 353535 
+price: 17600 
+author: Ask View Shop 
+cont:  "고장이 안났구요 가지고 노는 방법을 몇번 보여주니까<br/>구매하게되었어요<br/>아이가 책과 친하게 만들어줄수 있는 제품이네요.<br/><br/>어른들이 봐도 재밌고 신기한 책인데, 아이의눈에는 엄청난 책이겠죠 크리스마스 느낌 내보려고 사준 책인데,<br/>우리아이에게 크리스마스 선물 뭘로해줄까 고민이시다면<br/>장난감도 생각보다 견고해서 아이가 몇번 떨어뜨렸는데도<br/>적극 추천해요<br/>정말 매일매일 가지고 놀아요ㅋㅋㅋ<br/>조그만한장난감도함께들어있어 좋아해요<br/>준비해달라고해서 검색하던중 샵링크에서 추천받아<br/>책내용도 글밥도 적당하고 흥미유발할수있게<br/>책에 대해 흥미를 일으키고, 스스로 책꽂이로 가게만드는 책이예요ㅋ<br/>크리스마스 유치원행사가있는데 크리스마스선물로 책을<br/>크리스마스시즌이라 아이에게 선물로 사줬어요<br/>풀백기능이있어서 길따라가는게 신기하고 재밌네요<br/>혼자서도 잘 가지고논답니다!!!<br/>" 
+---
