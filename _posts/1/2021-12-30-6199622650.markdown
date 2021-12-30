@@ -9,5 +9,5 @@ categories: [1019]
 color: D9418C 
 price: 10800 
 author: Ask View Shop 
+cont:  "책이  다젖어서  왔어요  습도차이라고생각하고  급해서  뜯어지만  모서리부분이  물어  담갔다  꺼낸것처럼  흠뻑  젖어있어서  너무  속상했습니다<br/>" 
 ---
- 

@@ -9,5 +9,5 @@ categories: [1019]
 color: 4A148C 
 price: 13500 
 author: Ask View Shop 
+cont:  "이재명이란사람이  이끔찍하고 무서운사람이  대통령 후보라니  정말우리나라가 이상한나라가되어가는군요ㆍ정말 걱정입니다<br/>" 
 ---
- 
