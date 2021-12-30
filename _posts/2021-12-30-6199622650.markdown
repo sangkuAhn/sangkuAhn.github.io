@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "Go Go 카카오프렌즈 22 페루, 아울북, 김미영" 
+description: Go Go 카카오프렌즈 22 ..
+date: 2021-12-30 16:00:34 
+img: https://static.coupangcdn.com/image/retail/images/2021/11/24/14/2/45a3db4d-1229-4b01-af7f-03c9c2fbc897.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6199622650&itemId=12292792963&vendorItemId=79563070453&traceid=V0-113-42546ef79f99fdfe 
+categories: [1019] 
+color: D9418C 
+price: 10800 
+author: Ask View Shop 
+---
+ 
