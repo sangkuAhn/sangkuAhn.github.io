@@ -9,5 +9,5 @@ categories: [1021]
 color: 43A047 
 price: 10900 
 author: Ask View Shop 
+cont:  "심하네요 기대를 많이했는데 다 터져서왔네요<br/>한군데인줄 알았는데 군데군데 다 펑크되있어요<br/>" 
 ---
- 
