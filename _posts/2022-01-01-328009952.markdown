@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "병아리콩, 10kg, 1개" 
+description: 병아리콩, 10kg, 1개 ..
+date: 2022-01-01 15:11:15 
+img: https://static.coupangcdn.com/image/retail/images/2020/07/20/17/8/043362e9-5655-405f-ab73-1a72df49b3a2.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=328009952&itemId=3142918035&vendorItemId=71130532791&traceid=V0-113-03beca2b2b928f45 
+categories: [1012] 
+color: A57F92 
+price: 19900 
+author: Ask View Shop 
+---
+ 

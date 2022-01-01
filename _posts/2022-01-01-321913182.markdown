@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "트루리빙 전기주전자 1.8L, TL-1800ST" 
+description: 트루리빙 전기주전자 1.8L ..
+date: 2022-01-01 15:18:18 
+img: https://static.coupangcdn.com/image/retail/images/253125124570433-8c50ecda-bed2-4285-8635-641575ea751a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=321913182&itemId=1030591640&vendorItemId=5478809401&traceid=V0-113-f7b9a5bc8a6ff75a 
+categories: [1013] 
+color: 5A8DF3 
+price: 11100 
+author: Ask View Shop 
+---
+ 

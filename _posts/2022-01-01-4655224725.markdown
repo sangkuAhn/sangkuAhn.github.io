@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "레고 시티 아이스크림 트럭 60253, 혼합 색상" 
+description: 레고 시티 아이스크림 트럭  ..
+date: 2022-01-01 16:07:38 
+img: https://static.coupangcdn.com/image/vendor_inventory/2c11/c9ad41bffb0e0fbdc1c8e17e81d985cd53e5941b8f72c9997f8bfd98727e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4655224725&itemId=5808250006&vendorItemId=72331840882&traceid=V0-113-9748739257a73a73 
+categories: [1020] 
+color: 43A047 
+price: 28500 
+author: Ask View Shop 
+---
+ 

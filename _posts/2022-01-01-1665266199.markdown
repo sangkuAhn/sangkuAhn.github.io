@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "곰곰 뉴 클레이쿠키, 300g, 1개" 
+description: 곰곰 뉴 클레이쿠키, 300 ..
+date: 2022-01-01 15:11:15 
+img: https://static.coupangcdn.com/image/retail/images/425556120718619-0073d7f9-315b-4b00-b4e2-b1f7c3f7538a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1665266199&itemId=2837500030&vendorItemId=70826898911&traceid=V0-113-b73ff2300b96bb4d 
+categories: [1012] 
+color: BF360C 
+price: 6890 
+author: Ask View Shop 
+---
+ 

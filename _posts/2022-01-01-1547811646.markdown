@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아이사랑 감자스틱 (냉동), 1000g, 1개" 
+description: 아이사랑 감자스틱 (냉동), ..
+date: 2022-01-01 15:11:15 
+img: https://static.coupangcdn.com/image/retail/images/535161457123699-b3beae67-2406-4fa4-b6a0-21b5177e5ff2.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1547811646&itemId=2649575324&vendorItemId=70640469188&traceid=V0-113-fc88a768459cd3e8 
+categories: [1012] 
+color: 4CAF50 
+price: 12400 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코멧 키친 자동 캔오프너" 
+description: 코멧 키친 자동 캔오프너 ..
+date: 2022-01-01 15:18:18 
+img: https://static.coupangcdn.com/image/retail/images/3585051517553-b4b18b30-2480-4a39-9f5e-26c129cde200.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5150051951&itemId=7075763391&vendorItemId=74367784589&traceid=V0-113-1cba01750eb9c182 
+categories: [1013] 
+color: F361A6 
+price: 7370 
+author: Ask View Shop 
+---
+ 
