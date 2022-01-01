@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "기장애 품질인증 명품 미역, 120g, 1개" 
+description: 기장애 품질인증 명품 미역, ..
+date: 2022-01-01 15:11:15 
+img: https://static.coupangcdn.com/image/retail/images/2020/07/15/15/0/3ffb4512-68eb-434c-bef0-1624f849b17f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1826223641&itemId=3107192696&vendorItemId=71094952540&traceid=V0-113-9faf88a999ba6b3f 
+categories: [1012] 
+color: FF1744 
+price: 7900 
+author: Ask View Shop 
+cont:  "강추합니다<br/>그동안 사는것마다 끓이면 흐물거려서 억지로 먹었는데<br/>미역국 끓이니 맛있고 싱싱해보였어요.<br/> 근데 좀 뻑뻑하단 느낌이 있어요.<br/><br/>오래 끓이니 괜찮아지긴 했는데 좀 거친 미역이긴 한 것 같네요.<br/><br/>이 제품은 미역줄기도 있고 너무 맛있어요<br/>제가 찾던 미역이에요<br/>조갯살이나 새우 넣고 미역국 끓여 먹었는데, 부드럽고 맛있어요<br/>" 
+---

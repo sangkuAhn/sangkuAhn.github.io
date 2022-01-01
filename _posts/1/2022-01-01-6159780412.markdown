@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "양드레 군밤모자" 
+description: 양드레 군밤모자 ..
+date: 2022-01-01 14:01:03 
+img: https://static.coupangcdn.com/image/vendor_inventory/550e/f26a5242f1b88f6a2365ed2dfd605b42edab04bb9ca77faef346d21dd3f5.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6159780412&itemId=11946475317&vendorItemId=79219140180&traceid=V0-113-62b5a516a101a6c6 
+categories: [1001] 
+color: 7E57C2 
+price: 15000 
+author: Ask View Shop 
+cont:  "그냥 한철쓰기에 무난<br/>급하게 필요했는데 잘 사용하겠습니다<br/>남성들이 쓰기엔 작을거 같아요<br/>다만 이미지컷과 좀다르게 실제론 색바랜느낌은 더잇어요<br/>말그대로 딱 군밤장수 모자네요ㅎㅎ 크기도 적당하고 귀랑 턱까지 따뜻해서 아주 좋아요<br/>면이 아니라 나일론느낌이랄까.<br/>.<br/><br/>뽀글이 느낌 거칠거칠해요.<br/><br/>선명하지않네요.<br/> 저는 곤색구매햇어요.<br/><br/>원단이 좀 까슬한 느낌이 강하네요.<br/><br/>일단 사이즈는 보통여성이 쓰면 맞는정도이구요.<br/><br/>재질 오류정보 공지 수정하세요.<br/><br/>저야 어차피 초6남아가 쓸거라 딱 맞구요.<br/><br/>중요한부분은 안에  털인데.<br/>.<br/> 사실 털만 부드러우면 상관없는데  털이 부드러운편이 아니네요... <br/><br/>착용감이나 디자인은 딱히 좋다안좋다 없어요<br/>피부예민한사람에겐 특히  비추입니다... <br/><br/>" 
+---

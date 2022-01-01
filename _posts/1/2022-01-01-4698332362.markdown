@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "눈사람 스노우볼 메이커, 랜덤발송" 
+description: 눈사람 스노우볼 메이커, 랜 ..
+date: 2022-01-01 16:07:38 
+img: https://static.coupangcdn.com/image/vendor_inventory/e21a/eeeef81ae8b41beb6c1c9e8dd7570e59b564e22f8caf894ee7cff6529e24.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4698332362&itemId=5914325855&vendorItemId=79900880586&traceid=V0-113-dd9603ffb9b7d473 
+categories: [1020] 
+color: 4374D9 
+price: 18900 
+author: Ask View Shop 
+cont:  "눈온다는 소식에 사서 다음날 재밌게 놀았어요.<br/> 바로 품절됐음.<br/><br/>상품은 좋은데 상당히 크기가 크네요<br/>안만들어져요 사지마세요<br/>" 
+---

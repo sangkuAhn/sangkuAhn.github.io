@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "GAP 인증 나주 겨울에 맛있는 세지메론 2입, 3.2kg, 1개" 
+description: GAP 인증 나주 겨울에 맛 ..
+date: 2022-01-01 15:11:15 
+img: https://static.coupangcdn.com/image/retail/images/2021/11/04/14/8/77a2ac6d-ef11-49fc-b0b3-8b1d9df7b4c6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6162086839&itemId=11965703086&vendorItemId=79238258106&traceid=V0-113-f04ecf98e926cc64 
+categories: [1012] 
+color: f44336 
+price: 41900 
+author: Ask View Shop 
+cont:  "가격대비 달지않아요.<br/>.<br/>번거롭더라도.<br/>재래시장구매해야겠어요<br/>가격이 좀 비싸지만 싱싱하고 크기도 적당하니 좋습니다<br/>담에 재구매 할께요<br/>많이 익어서 과육이 흐물거리고 당도도 떨어짐<br/>와인안주로 하몽하고 같이 먹었는데 맛있어요<br/>" 
+---

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "브리델 버터, 200g, 2개" 
+description: 브리델 버터, 200g, 2 ..
+date: 2022-01-01 15:11:15 
+img: https://static.coupangcdn.com/image/retail/images/2021/04/05/16/6/18ede2cd-f438-4acb-afbe-8ed43c872096.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5302339647&itemId=7657432155&vendorItemId=74947832186&traceid=V0-113-5240acfaac991369 
+categories: [1012] 
+color: 7E57C2 
+price: 7900 
+author: Ask View Shop 
+cont:  "200그람이라 작아서 저는.<br/>.<br/> 넘 금방썼네요<br/>감자회오리, 전복 버터구이 해먹었는데 모두 만족! 식빵에 그냥 발라먹어도 맛있다는데 슬슬 먹어봐야죠! 재구매 의사 200%<br/>겨울이라 버터를 실온에 한참놔두고 크림화했어요.<br/> 다행히 계란넣어도 분리도 안나고 맛도 좋았습니다.<br/><br/>늘 쓰던 버터가 쿠팡에 안팔아서 요걸로 쿠키구웠는데 맛있어요.<br/><br/>아주 잘썼어용<br/>어떨까 걱정했는데<br/>역시 계란도 버터도 꼭 실온에 뒀다가 써야 실패하지않는거같아요.<br/><br/>이건 첨 사는 버터예요.<br/><br/>이것저것 많이 사는 편이긴 한데<br/>잘 구어지는거 같아 만족해요<br/>잘 녹고 쿠키 만들었을때도<br/>평상시와 같네요.<br/><br/>풍미도 괜찮고 쿠키 만들어봤는데<br/>프랑스버터라고 하더니 풍미가 가득해요.<br/> 느끼하지도 않고 맛있어요!! 냉장고에 넣어두고 꺼내도 부드럽게 잘려요.<br/> 딱딱해지지 않는 부드러운 버터❤️<br/>할인할때 사두면 좋을것같아요!<br/>행사가 있어서 쿠키를 대량으로 만들어야했는데<br/>" 
+---
