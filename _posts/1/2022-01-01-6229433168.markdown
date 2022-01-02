@@ -9,5 +9,5 @@ categories: [1020]
 color: 43A047 
 price: 71910 
 author: Ask View Shop 
+cont:  "조카 크리스마스선물로 보내줬는데 좋아하네요.<br/><br/>좋아요 아주 좋아요<br/>크리스마스 선물로 주문했는데 아이가 너무 좋아하네.<br/><br/>" 
 ---
- 
