@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "만나다 뉴질랜드 아보카도, 1.5kg, 1팩" 
+description: 만나다 뉴질랜드 아보카도,  ..
+date: 2022-01-03 15:11:14 
+img: https://static.coupangcdn.com/image/retail/images/2021/10/28/17/0/c6169d6f-3b7a-421a-bcf1-ccbce93ab75a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6149154023&itemId=11856223582&vendorItemId=79129401863&traceid=V0-113-0d0a0f3b4c9fdef7 
+categories: [1012] 
+color: CF36BB 
+price: 10800 
+author: Ask View Shop 
+---
+ 
