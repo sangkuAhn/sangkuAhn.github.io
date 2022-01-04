@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "긴긴밤, 문학동네" 
+description: 긴긴밤, 문학동네 ..
+date: 2022-01-04 16:00:34 
+img: https://static.coupangcdn.com/image/vendor_inventory/396b/1c7bbac2b7794e4f5769aec30ba4f99f140cba1b0669f1fcbe004862b4b2.jpeg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4931028522&itemId=6479668507&vendorItemId=79926194649&traceid=V0-113-bae794ae0f900760 
+categories: [1019] 
+color: 353535 
+price: 10350 
+author: Ask View Shop 
+cont:  "가슴이 찌릿하게 뜨거워짐<br/>각자의 모습으로 산다는 것.<br/><br/>그 길이 아무리 험해도 헤쳐나갈텐데.<br/>.<br/><br/>그냥 책장을 넘기다가<br/>다시 보게 됨<br/>불행과 위기 속에서도 행복을 찾는 것<br/>술술 그림책처럼 읽혀지는 책이지만 그속에 이야기가 있고 내용이 있으니 아이와 읽어도 이야기 나누기에 좋을것같아요.<br/> 서로다른 곳에서 살아가야하는 삶의 방식도 먹는 것도 습성도 다 다른 관계지만 서로 의지할수밖에 없고 이해하고 의지하며 함께 헤쳐나가는 방식을 배워 나가는.<br/><br/>어깨 짓눌러 주저앉히지 말고 응원해주고<br/>용기내라고 다독여주는 이.<br/> 하나 옆에 있으면<br/>우리 인생의 압축본 같아서 마음이 울컥했다.<br/><br/>책장을 덮었다 펼쳐서 책 속 그림들을 하나하나<br/>초2아들과 같이 보고 이야기 나누니 좋더라구요.<br/><br/>펭귄과 코뿔소의 이야기.<br/><br/>훌륭한 코끼리다운 코뿔소, 코뿔소다운 펭귄.<br/><br/>" 
+---
