@@ -9,5 +9,5 @@ categories: [1019]
 color: F15F5F 
 price: 10350 
 author: Ask View Shop 
+cont:  "너무너무  감사<br/>배송도 빠르고 잘 받았습니다<br/>" 
 ---
- 

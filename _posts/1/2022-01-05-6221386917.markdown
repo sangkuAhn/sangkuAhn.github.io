@@ -9,5 +9,5 @@ categories: [1019]
 color: CF36BB 
 price: 9900 
 author: Ask View Shop 
+cont:  "아이가 참 좋아합니다<br/>책과 선물써있는데 선물은 안들어있었어요;;<br/>책과 선물이라고 되어있었는데 선물은 없었어요<br/>" 
 ---
- 

@@ -9,5 +9,5 @@ categories: [1019]
 color: BD24A9 
 price: 12420 
 author: Ask View Shop 
+cont:  "공감되 되고 연말선물로 딱 조아요<br/>" 
 ---
- 
