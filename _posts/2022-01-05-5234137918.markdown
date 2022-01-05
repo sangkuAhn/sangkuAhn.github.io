@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "홈플래닛 생수병 가습기" 
+description: 홈플래닛 생수병 가습기 ..
+date: 2022-01-05 15:39:26 
+img: https://static.coupangcdn.com/image/retail/images/2062849848167032-35500db9-aa76-44e6-9969-02d938eb0c85.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5234137918&itemId=7375671438&vendorItemId=74666760106&traceid=V0-113-0de83e85699cc902 
+categories: [1016] 
+color: BD24A9 
+price: 19990 
+author: Ask View Shop 
+---
+ 
