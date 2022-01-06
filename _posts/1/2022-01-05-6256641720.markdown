@@ -9,5 +9,5 @@ categories: [1019]
 color: 4A148C 
 price: 13500 
 author: Ask View Shop 
+cont:  "우리의 대통령 근혜언니 ㅎㅎㅎ<br/>" 
 ---
- 

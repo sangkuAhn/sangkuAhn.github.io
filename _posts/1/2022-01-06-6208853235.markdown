@@ -9,5 +9,5 @@ categories: [1021]
 color: 03A9F4 
 price: 5740 
 author: Ask View Shop 
+cont:  "딱 필요한것만 있어 좋아요^^<br/>배송 빠르고 딱 필요한것만 있어 좋으네요<br/>얇아서 좋으네요... <br/>.<br/>.<br/><br/>" 
 ---
- 
