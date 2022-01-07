@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "최상위 초등수학 2-1, 디딤돌" 
+description: 최상위 초등수학 2-1, 디 ..
+date: 2022-01-07 08:00:35 
+img: https://static.coupangcdn.com/image/retail/images/2020/10/23/15/4/f1a75369-2278-4b13-b7e7-5214175a42a3.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2353542094&itemId=4083199908&vendorItemId=72067208001&traceid=V0-113-f73504d44e793543 
+categories: [1019] 
+color: 4A148C 
+price: 13500 
+author: Ask View Shop 
+cont:  "수학을 아주 잘하는 아이도 아니고 생각하는걸 좋아하는 아이도 아니여서... <br/> 1학기 문제집 2권정도 풀고 심화문제로 다지기 들어갈때 푸는데.<br/>.<br/> 기본+응용에 응용문제 수준이라 잘 풀어요.<br/>.<br/><br/>아이 학원 교재로 쓰고 있는데 생각보다 적용해서 배우기 좋은거 같아요<br/>우공비 수학과 디딤돌 기응 끝내고 다잡기 한번더 해주려고 구매했네요 1학년때도 마무리용으로 유용했는데 2학년때도 마무리용으로 좋은듯요 난이도가 그리 어렵지도 않고 괜찮은듯하네요<br/>" 
+---
