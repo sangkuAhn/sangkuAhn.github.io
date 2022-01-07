@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "닌텐도 스위치 OLED모델, 화이트" 
+description: 닌텐도 스위치 OLED모델, ..
+date: 2022-01-07 16:07:38 
+img: https://static.coupangcdn.com/image/vendor_inventory/1e54/de53fdc86324fe611ea6af09541dfc9c342462725d4e09f5d50a5ce6cb48.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6090182204&itemId=11348063943&vendorItemId=79363946567&traceid=V0-113-4873510d926fe38c 
+categories: [1020] 
+color: A566FF 
+price: 415000 
+author: Ask View Shop 
+---
+ 
