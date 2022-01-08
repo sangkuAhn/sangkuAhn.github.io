@@ -9,5 +9,5 @@ categories: [1001]
 color: CF36BB 
 price: 15000 
 author: Ask View Shop 
+cont:  "5개중 3개가 상태 저렇네요<br/>남자사이즈예요<br/>너무하네요<br/>두루두루 잘 끼고 다닐듯<br/>마무리는 좀 그래요 ㅎㅎ<br/>스마트폰 터치가 잘 안되요<br/>싼가격에<br/>" 
 ---
- 
