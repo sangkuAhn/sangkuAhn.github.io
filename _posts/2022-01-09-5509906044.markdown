@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "대구농산 햄프씨드, 500g, 3개" 
+description: 대구농산 햄프씨드, 500g ..
+date: 2022-01-09 15:11:13 
+img: https://static.coupangcdn.com/image/retail/images/2021/05/14/13/8/e6cfeca6-532f-4f8f-a374-93316fd22a8d.jpeg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5509906044&itemId=8585355207&vendorItemId=75872658877&traceid=V0-113-917e7d07f01ea51c 
+categories: [1012] 
+color: 006064 
+price: 12800 
+author: Ask View Shop 
+---
+ 

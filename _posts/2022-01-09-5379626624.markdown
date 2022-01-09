@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "대구농산 병아리콩, 2kg, 1개" 
+description: 대구농산 병아리콩, 2kg, ..
+date: 2022-01-09 15:11:13 
+img: https://static.coupangcdn.com/image/retail/images/585501081153673-b391f11f-3a8a-46dd-9a4b-e8afb4577280.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5379626624&itemId=7987699936&vendorItemId=75276599655&traceid=V0-113-0802871e9aa42f3d 
+categories: [1012] 
+color: F15F5F 
+price: 6980 
+author: Ask View Shop 
+---
+ 

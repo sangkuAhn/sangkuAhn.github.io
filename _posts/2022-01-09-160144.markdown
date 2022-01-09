@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "담터 마테차, 1g, 80개" 
+description: 담터 마테차, 1g, 80개 ..
+date: 2022-01-09 15:11:13 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2016/04/12/3007261852/5978227b-65c7-4c20-9b83-7fb007a94329.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=160144&itemId=5718870&vendorItemId=3007261852&traceid=V0-113-d2c7c64ee464f43e 
+categories: [1012] 
+color: 7E57C2 
+price: 6750 
+author: Ask View Shop 
+---
+ 
