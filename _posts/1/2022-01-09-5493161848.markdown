@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "씻어나온 곤약쌀 통, 3kg, 1개" 
+description: 씻어나온 곤약쌀 통, 3kg ..
+date: 2022-01-09 15:11:13 
+img: https://static.coupangcdn.com/image/retail/images/96204490860075-18ab64d8-0187-40f1-afe2-67fd4fb9861d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5493161848&itemId=8511617263&vendorItemId=75799095603&traceid=V0-113-a86d47223f3f5060 
+categories: [1012] 
+color: A6A6A6 
+price: 23980 
+author: Ask View Shop 
+cont:  "당뇨로인해  탄수화물을줄이고자 곤약쌀을 쌋어요<br/>오늘두통삿구요 횟수로는 세번째입니다<br/>유지 되지 않고 녹아서 뭉처 있어요.<br/> 곤약쌀들을 많이 사봤지만 밥을 했을  때 이런 경우는 처음이네요.<br/><br/>타피오카로 만든걸 알았으면 안샀을텐데.<br/>.<br/>너무 늦게 알았네요ㅠㅠ 칼로리 걱정없다라는 문구에 성분표시를 상세히 안보고 넘긴 제 잘못이지만 소비자들 오해될만한 문구는 빼셔야 하지 않나요ㅠㅠ 다이어트 하려고 구매했다가 쌀보다 영양도 없는데 칼로리만 높은 곤약가루 첨가물을 샀네요<br/>" 
+---
