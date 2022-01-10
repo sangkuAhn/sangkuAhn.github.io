@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "티젠 콤부차 베리, 5g, 30개" 
+description: 티젠 콤부차 베리, 5g,  ..
+date: 2022-01-11 07:11:15 
+img: https://static.coupangcdn.com/image/rs_quotation_api/htpkt90f/9b9516fd95c84e868df31a5a9f29257f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5835873411&itemId=6015465912&vendorItemId=73313159258&traceid=V0-113-9271b453980b68e8 
+categories: [1012] 
+color: BD24A9 
+price: 13820 
+author: Ask View Shop 
+---
+ 
