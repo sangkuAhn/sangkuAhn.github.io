@@ -9,5 +9,5 @@ categories: [1018]
 color: BD24A9 
 price: 12900 
 author: Ask View Shop 
+cont:  "가볍고 사용하기 편리하네요.<br/><br/>사용 하는게 아니라 지인분의 부탁으로 구매했습니다.<br/><br/>사이등미러에끈을끼기가힘들고낄때마연결끈이끊어짐<br/>" 
 ---
- 
