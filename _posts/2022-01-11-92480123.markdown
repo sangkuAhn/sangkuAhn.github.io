@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "캐슬 기타 카포, CCP-01, 블랙" 
+description: 캐슬 기타 카포, CCP-0 ..
+date: 2022-01-12 08:07:38 
+img: https://static.coupangcdn.com/image/vendor_inventory/e83f/b8a23aa5d0027a0d0021932fa35a9468d61b2f310ec62d002e7ca8f94fe4.JPG 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=92480123&itemId=287289637&vendorItemId=78441625424&traceid=V0-113-ec0b1db745d937c7 
+categories: [1020] 
+color: A6A6A6 
+price: 25200 
+author: Ask View Shop 
+---
+ 
