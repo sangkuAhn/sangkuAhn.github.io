@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "천일문 입문, 쎄듀" 
+description: 천일문 입문, 쎄듀 ..
+date: 2022-01-14 08:00:32 
+img: https://static.coupangcdn.com/image/retail/images/2021/11/12/11/7/6ab1a54f-d369-4f2b-a13f-5276274c5940.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6176503431&itemId=12093897260&vendorItemId=79365741551&traceid=V0-113-7175273a2ee36955 
+categories: [1019] 
+color: 1294AB 
+price: 15300 
+author: Ask View Shop 
+---
+ 
