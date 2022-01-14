@@ -9,5 +9,5 @@ categories: [1019]
 color: BD24A9 
 price: 8010 
 author: Ask View Shop 
+cont:  "겨울방학동안<br/>늦게올까봐 걱정하며<br/>로켓배송아니라<br/>배송빨라요 방학기간에 필요해서샀네여<br/>샀는데<br/>생각보다 빨리왔어요<br/>왔어요<br/>책도 깨끗하게 배송되어<br/>하려고 구입했어요^^<br/>" 
 ---
- 
