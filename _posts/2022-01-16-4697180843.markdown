@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "의성깐마늘, 300g, 1팩" 
+description: 의성깐마늘, 300g, 1팩 ..
+date: 2022-01-16 16:21:42 
+img: https://static.coupangcdn.com/image/retail/images/2173996795801707-d8ce8d76-0897-4a10-be77-a9b4bfcfb0ba.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4697180843&itemId=5911957429&vendorItemId=73210035594&traceid=V0-113-60e0c1b2d2ce9126 
+categories: [1024] 
+color: 006064 
+price: 6490 
+author: Ask View Shop 
+---
+ 
