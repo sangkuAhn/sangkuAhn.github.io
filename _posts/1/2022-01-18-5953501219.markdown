@@ -9,5 +9,5 @@ categories: [1001]
 color: 43A047 
 price: 9900 
 author: Ask View Shop 
+cont:  "많이 사서 두니까 든든한 마음.<br/>.<br/> 막 쓰기 좋습니다<br/>잘쓸게요<br/>짱짱허니 좋네요<br/>컬러 이쁘구, 쓰자마자 하나 끊어졌지만 ㅋㅋㅋ<br/>" 
 ---
- 
