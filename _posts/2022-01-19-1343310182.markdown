@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "캐슬 A형 기타 스탠드 ASD-001, 혼합색상" 
+description: 캐슬 A형 기타 스탠드 AS ..
+date: 2022-01-19 16:07:38 
+img: https://static.coupangcdn.com/image/retail/images/2020/03/02/18/0/ab2d74a7-0f86-4ca9-849f-ef43961c6dcf.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1343310182&itemId=2370685053&vendorItemId=70366722916&traceid=V0-113-2ce593d2ef94034d 
+categories: [1020] 
+color: 4CAF50 
+price: 9900 
+author: Ask View Shop 
+---
+ 
