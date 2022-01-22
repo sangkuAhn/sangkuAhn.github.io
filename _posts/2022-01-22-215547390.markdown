@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "소이퀸 진한콩물, 500ml, 2개" 
+description: 소이퀸 진한콩물, 500ml ..
+date: 2022-01-22 15:11:14 
+img: https://static.coupangcdn.com/image/retail/images/82295460567350-99b6a525-c05e-4edf-8f24-9c90578c0441.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=215547390&itemId=659687223&vendorItemId=4708856821&traceid=V0-113-ef100a45b0fa777b 
+categories: [1012] 
+color: 03A9F4 
+price: 10900 
+author: Ask View Shop 
+---
+ 

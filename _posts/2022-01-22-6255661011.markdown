@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "햇반 백미밥 12개 + 오뚜기밥 12개, 1세트" 
+description: 햇반 백미밥 12개 + 오뚜 ..
+date: 2022-01-22 15:11:14 
+img: https://static.coupangcdn.com/image/vendor_inventory/3c6d/2d5812299fb1e8812ff8528311433d0723cf2edcccfb616072862bd26fe3.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6255661011&itemId=12707117403&vendorItemId=79436068271&traceid=V0-113-b2cb392b6e1e0390 
+categories: [1012] 
+color: F15F5F 
+price: 23900 
+author: Ask View Shop 
+---
+ 

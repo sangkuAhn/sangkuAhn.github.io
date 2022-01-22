@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "매일유업 피크닉 청포도, 200ml, 48개" 
+description: 매일유업 피크닉 청포도, 2 ..
+date: 2022-01-22 15:11:14 
+img: https://static.coupangcdn.com/image/retail/images/673295063268208-e820a1ef-f614-4ba4-81ce-818a750e0bf5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=9466996&itemId=549719494&vendorItemId=70408996760&traceid=V0-113-5a7479eb62149fab 
+categories: [1012] 
+color: 353535 
+price: 11480 
+author: Ask View Shop 
+---
+ 
