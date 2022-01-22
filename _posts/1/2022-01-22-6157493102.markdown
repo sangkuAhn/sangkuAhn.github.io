@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "햇반, 210g, 36개" 
+description: 햇반, 210g, 36개 ..
+date: 2022-01-22 15:11:14 
+img: https://static.coupangcdn.com/image/rs_quotation_api/jxwd9u28/8eb82afc3438489bb76a34d13ce1ac84.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6157493102&itemId=11927884015&vendorItemId=79200670197&traceid=V0-113-fbe1eba2d54bf643 
+categories: [1012] 
+color: 9E9D24 
+price: 30940 
+author: Ask View Shop 
+cont:  "210g × 36개<br/>32,740<br/>간편한 세상살기 좋네요<br/>꼭 밥을 찾는 우리 아이들 때문에 주문했어요<br/>마트보다 저렴하게 잘 샀어요<br/>밥 없을때<br/>밥이 어정쩡할때<br/>변함없이 만족을 주는 햇반... <br/> 재재재재재... <br/>... <br/>.<br/> 재 구매합니다.<br/>.<br/> 항상 사랑하고 감사해요 햇반!!!<br/>전자레인지 2분만 돌리면 다 해결되요<br/>항상 만족하며 재재재재재재재재... <br/>... <br/>... <br/>.<br/>구매하는 좋은 상품입니다.<br/>.<br/>ㅎㅎ 오늘은 달걀탁! 파송송! 달걀라면과 함께 하는 햇반은 사랑입니다.<br/>.<br/>ㅎㅎ 추운 겨울 몸도 맘도 따뜻하고 건강하세요.<br/>.<br/>ㅎㅎ<br/>" 
+---

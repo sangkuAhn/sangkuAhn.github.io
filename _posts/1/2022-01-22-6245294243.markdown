@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "공유 생일축하 빔, 오늘내생일" 
+description: 공유 생일축하 빔, 오늘내생 ..
+date: 2022-01-22 16:07:37 
+img: https://static.coupangcdn.com/image/vendor_inventory/c3e6/2ea6c68bae84c207e16773a528d11f0bdfa467ed85e9b276cbac1714f6e1.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6245294243&itemId=12630182232&vendorItemId=79778680637&traceid=V0-113-9b3612b0797b9ec7 
+categories: [1020] 
+color: FF1744 
+price: 9900 
+author: Ask View Shop 
+cont:  "거리 조절로 크기 및 초점 조절 가능<br/>건전지 AAA 3개 넣으면 끝나요<br/>남자친구 생일에 뭐 특별한거 없나 찾다가 할인도 하길래 주문 했는데 선명하고 좋아요!! 다른 칩도 구매 해보고 싶어요<br/>상품평이 그닥 그래서 기대하지 않았지만<br/>시간이 없어 그냥 구입했는데요<br/>정말 가성비 좋아요<br/>특별한 너낌의 생일파티 사진을 남길 수 있어서 좋았어여<br/>풍선현수막은 맨날해줘서 식상했눈데<br/>" 
+---
