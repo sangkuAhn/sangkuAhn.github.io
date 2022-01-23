@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "티젠 피치 콤부차, 5g, 30개" 
+description: 티젠 피치 콤부차, 5g,  ..
+date: 2022-01-23 16:21:42 
+img: https://static.coupangcdn.com/image/retail/images/2021/12/09/12/8/511aae22-058e-48f0-9001-6dbda151d59a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6226214423&itemId=12487667305&vendorItemId=79756386830&traceid=V0-113-af3b4c3b42e1abdc 
+categories: [1024] 
+color: A57F92 
+price: 15600 
+author: Ask View Shop 
+---
+ 

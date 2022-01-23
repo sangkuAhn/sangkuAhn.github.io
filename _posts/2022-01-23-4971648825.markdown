@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "국내산 콜라비 5입/봉, 2.2kg, 1개" 
+description: 국내산 콜라비 5입/봉, 2 ..
+date: 2022-01-23 16:21:42 
+img: https://static.coupangcdn.com/image/retail/images/63902508904003-bb57f448-aa37-4e63-894b-e2ee844e253c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4971648825&itemId=6601429434&vendorItemId=73895399709&traceid=V0-113-2fca928ca82c59ab 
+categories: [1024] 
+color: FF6F00 
+price: 8900 
+author: Ask View Shop 
+---
+ 
