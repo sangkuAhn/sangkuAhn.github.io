@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아동용 스마일 패딩 장갑" 
+description: 아동용 스마일 패딩 장갑 ..
+date: 2022-01-23 15:46:28 
+img: https://static.coupangcdn.com/image/rs_quotation_api/xyk6vxny/68eebdfc01ac464eafb12c3e141495cd.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6176523661&itemId=12094067739&vendorItemId=79365911751&traceid=V0-113-494ab1c27757d97f 
+categories: [1017] 
+color: 9E9D24 
+price: 16900 
+author: Ask View Shop 
+cont:  "10살 손이 작은편이라서 조금 크긴하지만 너무 예쁘다고 좋아합니다<br/>7세 아이 쓰려고 주문한건데 넉넉히 맞아요.<br/><br/>8세 여아(125센티, 25키로) 잘 맞아요.<br/><br/>근데 포장제에 14세 이상이라고.<br/>.<br/>ㅎㅎ<br/>손가락 길이는 조금 길고요.<br/><br/>손은 넉넉히 들어갑니다.<br/><br/>스마일 디자인이라 귀여워서 마음에 든다네요.<br/><br/>올해 눈썰매장은 이걸로 픽!!^^<br/>품질 괜찮아요.<br/> 마블캐릭터 장갑이랑 같이 사봤는데 품질차이가 나서 그건 반품했어요.<br/> 이게 훨씬 튼튼하네요.<br/><br/>" 
+---
