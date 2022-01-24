@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "역바연/이순신의 바다 : 그 바다는 무엇을 삼켰나, 역바연, 황현필" 
+description: 역바연/이순신의 바다 : 그 ..
+date: 2022-01-24 16:00:34 
+img: https://static.coupangcdn.com/image/retail-product-api/A00077021/76929019/86287125/main/9791197693007_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6251175449&itemId=12672181637&vendorItemId=79939273352&traceid=V0-113-ec0dac7330092544 
+categories: [1019] 
+color: 006064 
+price: 19800 
+author: Ask View Shop 
+---
+ 
