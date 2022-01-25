@@ -9,5 +9,5 @@ categories: [1020]
 color: 4374D9 
 price: 9900 
 author: Ask View Shop 
+cont:  "골고루 들어있어서 좋아요.<br/> 아이가 눈오는 날만 기다립니다.<br/><br/>아직 사용전인데 아이가 너무 좋아하네요^^<br/>" 
 ---
- 
