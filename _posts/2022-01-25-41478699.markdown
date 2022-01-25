@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "비비고 김밥용 김, 20g, 2개" 
+description: 비비고 김밥용 김, 20g, ..
+date: 2022-01-25 16:21:42 
+img: https://static.coupangcdn.com/image/vendor_inventory/0d4f/e61f237d6e735cace4aa3657fcd78139db3d65c4b95a98e44f1fad89b49c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=41478699&itemId=151009959&vendorItemId=73221357870&traceid=V0-113-83c7c99888d33ef7 
+categories: [1024] 
+color: 43A047 
+price: 9900 
+author: Ask View Shop 
+---
+ 
