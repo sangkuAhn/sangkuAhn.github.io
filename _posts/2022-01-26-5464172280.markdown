@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "휴마시스 코비드 19 홈 테스트 1개입, 1개" 
+description: 휴마시스 코비드 19 홈 테 ..
+date: 2022-01-26 16:21:42 
+img: https://static.coupangcdn.com/image/vendor_inventory/3af0/96e9942201eca849a1d0837477f852169a92d61c1e972d9fd1462cd43592.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5464172280&itemId=8371755654&vendorItemId=78796543791&traceid=V0-113-c1d79072145e8430 
+categories: [1024] 
+color: F361A6 
+price: 8900 
+author: Ask View Shop 
+---
+ 

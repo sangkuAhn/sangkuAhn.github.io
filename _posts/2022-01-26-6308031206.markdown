@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "K2 베이직 귀마개, 블랙" 
+description: K2 베이직 귀마개, 블랙 ..
+date: 2022-01-26 14:01:03 
+img: https://static.coupangcdn.com/image/vendor_inventory/095f/16d306645a099604dbdaaa34bcc94889371874cfd160451b87a49dc5e853.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6308031206&itemId=13078109792&vendorItemId=80327081383&traceid=V0-113-4f9e09adf64c4b64 
+categories: [1001] 
+color: 03A9F4 
+price: 9590 
+author: Ask View Shop 
+---
+ 
