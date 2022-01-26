@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "스내플 더블 레이어드 귀달이 비니 2P" 
+description: 스내플 더블 레이어드 귀달이 ..
+date: 2022-01-26 14:08:05 
+img: https://static.coupangcdn.com/image/vendor_inventory/a5a1/9067c92e956c4fafd210cf9aedd84b65131d71bcf57b73e93c6ce96beeb5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6151055712&itemId=11872805061&vendorItemId=78663319311&traceid=V0-113-fa9b6d86817588b4 
+categories: [1002] 
+color: F15F5F 
+price: 18500 
+author: Ask View Shop 
+cont:  "가격도 좋구요<br/>넘이쁘네요<br/>소재가 부드럽고 착용하기 편해요, 이 가격에 이 품질이라니 훌륭해요^^<br/>스키장에서 쓰려고 샀어요<br/>요즘에.<br/> 추워서 강아지 산책 나갈때 귀와 머리가 너무 시려워서 주문했는데 기대 이상으로 따뜻하고 너무 좋아요.<br/> 너무 얇지도 두껍지도 않고 딱 좋은 두께고 질감도 좋아서 쓰고 벗어도 늘어나거나 하지 않아요.<br/> 다른 모자도 샀지만 산책갈땐 무조건 이 모자 씁니다.<br/> 두개 중 검정은 내가 쓰고 회색은 엄마드렸는데 회색은 뭔가 좀 심심해서 클립형 코사지를 달았더니 포인트 되고 좋네요.<br/><br/>초등고학년 아이들에게 넉넉히 잘맞아요<br/>" 
+---

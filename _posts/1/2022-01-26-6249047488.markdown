@@ -9,5 +9,5 @@ categories: [1019]
 color: 7E57C2 
 price: 16020 
 author: Ask View Shop 
+cont:  "좋은 책.<br/> 배송이 빠르고 좋아요.<br/><br/>" 
 ---
- 
