@@ -9,5 +9,5 @@ categories: [1019]
 color: 43A047 
 price: 15300 
 author: Ask View Shop 
+cont:  "과학은 역시 오투죠<br/>아이가 잘 풀어요<br/>예비중1 인데 잘 푸네요<br/>" 
 ---
- 

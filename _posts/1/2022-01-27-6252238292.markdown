@@ -9,5 +9,5 @@ categories: [1019]
 color: 4CAF50 
 price: 12600 
 author: Ask View Shop 
+cont:  "너무 재미있다고 좋아해서 뿌듯하고 잘 읽어주는게 기특합니다ㅎ<br/>명절에 조카선물로 주려고 샀어요.<br/> 신간 기다렸다가 나올 때 마다 사주는데 반응이 진짜 좋아요!<br/>" 
 ---
- 

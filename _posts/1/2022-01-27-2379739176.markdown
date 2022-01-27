@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "어린이라는 세계:김소영 에세이, 사계절" 
+description: 어린이라는 세계:김소영 에세 ..
+date: 2022-01-27 16:00:34 
+img: https://static.coupangcdn.com/image/vendor_inventory/ea6f/2681fef25d55f712f10313ea47669b51924b9468bf17c1c86b8cc025cde4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2379739176&itemId=4150041166&vendorItemId=72408359505&traceid=V0-113-a36eae1d1a85ad21 
+categories: [1019] 
+color: F15F5F 
+price: 13500 
+author: Ask View Shop 
+cont:  "가볍게 읽으시기 편한 책입니다.<br/><br/>개성 많은 우리 아이들의 생각을 다시 한번 느끼게 되는 책인듯 합니다.<br/><br/>어떤 내용인지 보지는 못했지만 재밌을 것 같아요<br/>읽고싶던 책이었는데 집근처 도서관에서는 계속 대출중이고.<br/>.<br/>기다리다 결국 그냥 구매해서 읽자는 생개으로 구매했어요 내용이 너무 흥미롭고 재미있어요구매하길 잘했다 생각 들어요<br/>친구 선물해 줬는데 좋아해서 기쁘네요<br/>" 
+---
