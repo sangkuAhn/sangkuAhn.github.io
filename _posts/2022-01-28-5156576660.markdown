@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "외계인 인터뷰" 
+description: 외계인 인터뷰 ..
+date: 2022-01-28 16:00:34 
+img: https://static.coupangcdn.com/image/vendor_inventory/ab51/69e85f0c7795f4477db888402d2713fcf4302e995effaca6882cc6e64464.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5156576660&itemId=7094323993&vendorItemId=74386285493&traceid=V0-113-553ef4cfbc376ec8 
+categories: [1019] 
+color: D9418C 
+price: 16200 
+author: Ask View Shop 
+---
+ 
