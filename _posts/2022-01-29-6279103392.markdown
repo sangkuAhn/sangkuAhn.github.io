@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "구글 크롬캐스트 3세대" 
+description: 구글 크롬캐스트 3세대 ..
+date: 2022-01-29 15:39:27 
+img: https://static.coupangcdn.com/image/vendor_inventory/99b7/b0c2255d599fe8b53d904fd88a95fbafed10502ffa2b8515b48c2b0e8d3c.JPG 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6279103392&itemId=12884121797&vendorItemId=73982765947&traceid=V0-113-08fa2fdf47734e58 
+categories: [1016] 
+color: f44336 
+price: 39000 
+author: Ask View Shop 
+---
+ 
