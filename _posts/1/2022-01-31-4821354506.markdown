@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "캉가루 에탄올 워셔액" 
+description: 캉가루 에탄올 워셔액 ..
+date: 2022-01-31 15:53:32 
+img: https://static.coupangcdn.com/image/rs_quotation_api/lyddc65k/37a64f9ccbe3412d8deae8fac2421f2f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4821354506&itemId=6211117151&vendorItemId=79076377184&traceid=V0-113-693bf9c40a83193b 
+categories: [1018] 
+color: 35B62C 
+price: 10400 
+author: Ask View Shop 
+cont:  "3일연속사용하본결과입니다<br/>앞유리 샤벳은 둘째치고, 워셔액 노즐도 막혀서 작동불가입니다.<br/><br/>앞유리가 지저분 해서 워셔액 날린 순간 순간 당황했습니다.<br/><br/>얼어서 작동이 안되네요<br/>요즘날씨에도<br/>워셔액 기본이 안얼어야 하는데 어네요.<br/><br/>" 
+---
