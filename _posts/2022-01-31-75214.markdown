@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "웨신 버취2D 바디 브러쉬, 우드, 1개" 
+description: 웨신 버취2D 바디 브러쉬, ..
+date: 2022-01-31 15:32:24 
+img: https://static.coupangcdn.com/image/retail/images/96460781265199-a515753e-1008-47f2-be97-1bee684275fb.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=75214&itemId=158641&vendorItemId=3000083942&traceid=V0-113-d818d517e05c2ac9 
+categories: [1015] 
+color: 5A8DF3 
+price: 14500 
+author: Ask View Shop 
+---
+ 
