@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "모텍스 테이프 커터기 3호, 랜덤발송, 1개" 
+description: 모텍스 테이프 커터기 3호, ..
+date: 2022-02-01 16:14:41 
+img: https://static.coupangcdn.com/image/retail/images/162365602627816-266f37e3-2232-4a6b-b970-e06dc117885c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4353395776&itemId=5110409406&vendorItemId=72419940193&traceid=V0-113-a0aed6eb26386672 
+categories: [1021] 
+color: FF6F00 
+price: 8980 
+author: Ask View Shop 
+---
+ 
