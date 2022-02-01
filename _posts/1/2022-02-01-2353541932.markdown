@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "최상위 초등수학 S 4-1, 디딤돌" 
+description: 최상위 초등수학 S 4-1, ..
+date: 2022-02-01 16:00:35 
+img: https://static.coupangcdn.com/image/retail/images/2020/10/23/15/5/d9d6cee3-fde3-443e-97bc-0d298cb803a8.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2353541932&itemId=4083199693&vendorItemId=72067207625&traceid=V0-113-0c18366c383e101e 
+categories: [1019] 
+color: 353535 
+price: 13500 
+author: Ask View Shop 
+cont:  "3학년2학기다풀어가서 구매합니다<br/>가격13.<br/>500<br/>기본응용 풀리면서 같이 풀고 있어요그래서 더 이해가 쉽다고 하네요<br/>너무 연산만 있거나 하면 흥미가 떨어지는데<br/>디딤돌최상위S 좋아요<br/>많이 틀리기도 하고 어려워 하면서도 싫어하진 않아요<br/>서술형도 있어서 남아라 좀 이해안되는부분이 있긴하지만 한번더 읽게 해주면  이해하네요<br/>심화과정인데도  어렵지 않게 잘 풀고 있네요난이도는 있어요^^<br/>애가 어려워하다가 문제 유형 알아 가려 노력 하는 모습이 좋네요<br/>엄마는 문제집을 안풀게 할 수가 없네 아들^^<br/>주문21.<br/>7.<br/>28<br/>초4 디딤돌 기본응용? 다 풀고서 사고력 3<br/> -a 뭣모르고 풀리다가 너무 어려워해서 초등수학s 4<br/> -1로 하니 적당히 난이도가 있어서 아이가 잘 하고 있습니다.<br/><br/>학교에서 공부좀 잘한다 하는 편인데 왜 집에 와서 문제집 풀면 틀리는게 많은지.<br/>.<br/><br/>학원 안 다녀도 디딤돌 시리즈면 집에서 초등수학 관리할 수 있겠어요<br/>" 
+---
