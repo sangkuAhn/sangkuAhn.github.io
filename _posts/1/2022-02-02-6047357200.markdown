@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "만나 미국 레몬, 4kg, 1개" 
+description: 만나 미국 레몬, 4kg,  ..
+date: 2022-02-02 16:21:43 
+img: https://static.coupangcdn.com/image/retail/images/6490361475935986-935872f8-4fd3-4f0b-a6ce-7b7c3cccf482.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6047357200&itemId=11073929100&vendorItemId=78353396104&traceid=V0-113-2e5ba15928e166b2 
+categories: [1024] 
+color: D9418C 
+price: 26900 
+author: Ask View Shop 
+cont:  "26900원 구입<br/>34알 정도 였고<br/>갯수는 대충 30개 정도 되는거같고 레몬청 담글건데 크기도 만족이에요<br/>굳이 상처난걸 뽑자면 사진에있는 3개정도?<br/>먹고 또 한번 해먹을 생각이예요<br/>못먹을정도 아니라서 괜찮은거같아요<br/>살짝 치우고 아무튼 잘 만들었어요<br/>상태 괜찮은 걸로 잘 온거 같아요<br/>세척 하고 썰어 봤는데 나쁘지 않았고<br/>씨가 좀 있어요<br/>아무튼 살짝 상태 메렁인거 자르다가 한조각 발견했는데<br/>주먹보다 조금 작아요  괜찮네요<br/>총 19개  들어 있어요<br/>후기들이 안좋아서 구매를 망설이다가 곰곰레몬이 자꾸 품절이러 급하게 써야해서 그냥 시켰는데 만족해요<br/>" 
+---
