@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "대박 황색 박스테이프 50m + 커터기, 1개" 
+description: 대박 황색 박스테이프 50m ..
+date: 2022-02-02 16:14:40 
+img: https://static.coupangcdn.com/image/rs_quotation_api/dq7twjxb/2610765898ca488e88229d1101dcea8f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4562457152&itemId=12313958216&vendorItemId=79584092450&traceid=V0-113-de0e1316bb598161 
+categories: [1021] 
+color: 5A8DF3 
+price: 3950 
+author: Ask View Shop 
+---
+ 
