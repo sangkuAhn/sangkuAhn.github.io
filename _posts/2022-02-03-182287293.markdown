@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "기적의 한글 학습 1~2권 세트, 길벗스쿨" 
+description: 기적의 한글 학습 1~2권  ..
+date: 2022-02-04 08:00:35 
+img: https://static.coupangcdn.com/image/retail/images/2019/01/31/15/0/af303ca6-42cc-42b1-92df-19635e5af3f4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=182287293&itemId=522281517&vendorItemId=4350825500&traceid=V0-113-782706a4824c4a47 
+categories: [1019] 
+color: 006064 
+price: 16200 
+author: Ask View Shop 
+---
+ 

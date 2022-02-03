@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "종가집 총각김치, 900g, 1봉" 
+description: 종가집 총각김치, 900g, ..
+date: 2022-02-04 07:11:15 
+img: https://static.coupangcdn.com/image/retail/images/11941373365600-cbb7170b-3a72-4dac-8bae-8258afda6577.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5140279812&itemId=7045024053&vendorItemId=74337127261&traceid=V0-113-56be909b044a9d03 
+categories: [1012] 
+color: 03A9F4 
+price: 9890 
+author: Ask View Shop 
+---
+ 
