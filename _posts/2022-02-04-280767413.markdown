@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "한성기업 크래미 맛살, 180g, 3개" 
+description: 한성기업 크래미 맛살, 18 ..
+date: 2022-02-05 07:11:15 
+img: https://static.coupangcdn.com/image/retail/images/2019/08/12/15/5/2a4996e6-0eca-4f69-946c-fe26b103269f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=280767413&itemId=891150359&vendorItemId=5242710854&traceid=V0-113-36ad2b27160b1ef8 
+categories: [1012] 
+color: F15F5F 
+price: 7020 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코리아보드게임즈 보난자, 1개" 
+description: 코리아보드게임즈 보난자, 1 ..
+date: 2022-02-05 08:07:39 
+img: https://static.coupangcdn.com/image/vendor_inventory/fc14/e4a158b1fcd8761c75c9b31d1e70c944be096a2322f1c399df735dd6a4f5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1744522&itemId=7612149&vendorItemId=3001052651&traceid=V0-113-931237aef5a774a4 
+categories: [1020] 
+color: 4A148C 
+price: 9800 
+author: Ask View Shop 
+---
+ 

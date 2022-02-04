@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "잘했고 잘하고 있고 잘 될 것이다, 부크럼, 정영욱" 
+description: 잘했고 잘하고 있고 잘 될  ..
+date: 2022-02-05 08:00:36 
+img: https://static.coupangcdn.com/image/vendor_inventory/af35/562fbd6feeccbe224e94739d2b742036831d5d9f2a5ed3e48b049c81dd16.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5509232967&itemId=8582620876&vendorItemId=75869930415&traceid=V0-113-859fc6c524bffb7f 
+categories: [1019] 
+color: F361A6 
+price: 13500 
+author: Ask View Shop 
+---
+ 
