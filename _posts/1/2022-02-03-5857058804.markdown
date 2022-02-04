@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "햇반 발아현미밥, 210g, 8개" 
+description: 햇반 발아현미밥, 210g, ..
+date: 2022-02-04 07:11:15 
+img: https://static.coupangcdn.com/image/retail/images/2021/04/07/18/2/101b5c10-025d-45ba-b356-a551d5035759.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5857058804&itemId=10208844193&vendorItemId=77491327777&traceid=V0-113-71c3fffef4617c2b 
+categories: [1012] 
+color: A57F92 
+price: 10280 
+author: Ask View Shop 
+cont:  "고마워요 햇반<br/>두루두루 사 봤습니다<br/>밥도 하지만 햇반은 필수입니다<br/>비상용으로 늘 쟁여두고있어요<br/>즤집은 6시부터 식사하시는 분이 계셔서요<br/>촉촉하구 현미같지않게 밋있어요<br/>타브랜드꺼 먹었었는데 퍽퍽해서 다시 햇반으로 돌아왔어요<br/>특정하게 이게 맛있다는 없더라구요<br/>햇반 너무 맛있어요^^<br/>" 
+---
