@@ -9,5 +9,5 @@ categories: [1019]
 color: F15F5F 
 price: 6750 
 author: Ask View Shop 
+cont:  "딸이 글씨쓰기 도움이 많이 되네요 샵링크에서 잘 샀어요<br/>알파벳 가르치려고 첫구매했는데 잼있어해요<br/>" 
 ---
- 
