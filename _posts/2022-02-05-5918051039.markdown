@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "재미있고 빠른 알파벳 쓰기:14일 만에 깨치는 알파벳 쓰기, 한빛에듀, 한빛학습연구회" 
+description: 재미있고 빠른 알파벳 쓰기: ..
+date: 2022-02-05 16:00:35 
+img: https://static.coupangcdn.com/image/retail-product-api/A00077021/61110623/67691067/main/9791162244432_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5918051039&itemId=10481949140&vendorItemId=77763697268&traceid=V0-113-bc71a4a8289b7e83 
+categories: [1019] 
+color: F15F5F 
+price: 6750 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "비비고 묵은지, 900g, 1개" 
+description: 비비고 묵은지, 900g,  ..
+date: 2022-02-05 15:11:15 
+img: https://static.coupangcdn.com/image/retail/images/11264722225671719-2f79d22f-5980-4ff2-b13a-d5d3f9fe2eef.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1357047637&itemId=2387673939&vendorItemId=70383110200&traceid=V0-113-88cb3c4252f87bbb 
+categories: [1012] 
+color: 9E9D24 
+price: 7500 
+author: Ask View Shop 
+---
+ 
