@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "브리츠 사운드바, BA-R9" 
+description: 브리츠 사운드바, BA-R9 ..
+date: 2022-02-10 15:39:26 
+img: https://static.coupangcdn.com/image/vendor_inventory/10ee/724ca086b019819a31deacb6cfc29816e81ac9986327aa45e692db8f8ddf.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1020744&itemId=4313779&vendorItemId=75192075116&traceid=V0-113-dd4ce8f766d8bca7 
+categories: [1016] 
+color: F15F5F 
+price: 17250 
+author: Ask View Shop 
+---
+ 
