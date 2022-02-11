@@ -9,5 +9,5 @@ categories: [1020]
 color: FF1744 
 price: 6000 
 author: Ask View Shop 
+cont:  "ㅋㅋㅋ너무좋아요<br/>사진은 멜로디를 끄기위한 노력의 결과물 입니다.<br/>.<br/><br/>초반불꽃이 아주 어마어마 하네요<br/>탄내는 많이납니다!<br/>화려합니다!<br/>" 
 ---
- 
