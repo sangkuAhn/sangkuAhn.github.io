@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "글래드 프레스앤씰 매직랩 점보형, 1개" 
+description: 글래드 프레스앤씰 매직랩 점 ..
+date: 2022-02-13 07:18:21 
+img: https://static.coupangcdn.com/image/vendor_inventory/bc4c/ceed5f57ce66db2f82b424942854309898a4476df9eedf0f3fbf7bdd0240.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=326924887&itemId=1046238004&vendorItemId=80536388138&traceid=V0-113-1546368172ede324 
+categories: [1013] 
+color: 5A8DF3 
+price: 7920 
+author: Ask View Shop 
+---
+ 
