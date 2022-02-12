@@ -9,5 +9,5 @@ categories: [1002]
 color: 1294AB 
 price: 31900 
 author: Ask View Shop 
+cont:  "마음에 들어 하네요번창하세요<br/>" 
 ---
- 
