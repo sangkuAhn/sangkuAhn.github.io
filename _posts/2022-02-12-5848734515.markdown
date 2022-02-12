@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "렛츠핏 루프밴드 5종 세트, 보라,연핑크, 다홍, 진핑크, 레드" 
+description: 렛츠핏 루프밴드 5종 세트, ..
+date: 2022-02-12 15:46:27 
+img: https://static.coupangcdn.com/image/retail/images/2021/11/30/9/1/3c404f96-dc3a-4832-ae52-5c0846bf6f63.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5848734515&itemId=12743680362&vendorItemId=79647414935&traceid=V0-113-5f222e84efdaeef9 
+categories: [1017] 
+color: FF6F00 
+price: 6800 
+author: Ask View Shop 
+---
+ 
