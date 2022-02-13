@@ -9,5 +9,5 @@ categories: [1013]
 color: A6A6A6 
 price: 17500 
 author: Ask View Shop 
+cont:  "길이도길고.<br/><br/>넉넉히고무장갑느낌이랑은또다르다<br/>손가락긴여성도 크다는생각.<br/><br/>손에맞는걸사쓰는걸권장<br/>엠사이즈는 손이작은남성한테는 크다<br/>짱짱하고착붙는밀착감이좋아요<br/>" 
 ---
- 
