@@ -9,5 +9,5 @@ categories: [1019]
 color: 43A047 
 price: 8190 
 author: Ask View Shop 
+cont:  "딸아이 교재로 구매합니다<br/>" 
 ---
- 
