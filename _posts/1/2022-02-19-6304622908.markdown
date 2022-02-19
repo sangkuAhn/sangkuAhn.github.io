@@ -9,5 +9,5 @@ categories: [1019]
 color: A566FF 
 price: 11700 
 author: Ask View Shop 
+cont:  "11700원구매<br/>1월27일구매 2월7일배송받음<br/>배송이 너무느림<br/>책 모서리가 구겨져서 왔어요 꾸깃이 되었어요 제발 택배 던지지 마세요<br/>" 
 ---
- 
