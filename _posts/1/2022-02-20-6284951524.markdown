@@ -9,5 +9,5 @@ categories: [1020]
 color: 9E9D24 
 price: 9300 
 author: Ask View Shop 
+cont:  "손주가넝좋아해요<br/>치매환자 반응용 작동완구로 활용 중이예요<br/>" 
 ---
- 
