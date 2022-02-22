@@ -9,5 +9,5 @@ categories: [1019]
 color: 006064 
 price: 8100 
 author: Ask View Shop 
+cont:  "연락없이 너무 늦게 도착해서 불편했어요<br/>책이 도착해서 확인했는데 좀 찢어져서 왔네요... <br/>.<br/><br/>" 
 ---
- 

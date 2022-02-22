@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "만점왕 초등 수학 3-1, EBS" 
+description: 만점왕 초등 수학 3-1,  ..
+date: 2022-02-22 16:00:34 
+img: https://static.coupangcdn.com/image/rs_quotation_api/f4ddfsla/a87eb72b56bc46e2b0e6e15eaf57d1c7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6237398322&itemId=12569634414&vendorItemId=79837816138&traceid=V0-113-8117e34476bbdef1 
+categories: [1019] 
+color: 4374D9 
+price: 11700 
+author: Ask View Shop 
+cont:  "#######<br/>2022년도 적용되는 책이예요<br/>2월14일 이후로 강의등록될거라고하네요.<br/><br/>ebs어플에 이책 강의가 없어서<br/>가격도 정가보다 저렴해서 만족해요.<br/><br/>고객센터 문의하니<br/>구입해서 공부시키세요ㅋ<br/>그것도 모르고 이강의 저강의 뒤적뒤적  기웃기웃했네요ㅋㅋ<br/>꾸준히 공부해줬기에<br/>배송도 빨랐고<br/>배송된 책 상태는 깨끗해요<br/>습관을 만들어 주려고 구입했어요.<br/><br/>이거라도 사서 스스로 알아서 공부하는<br/>이번에 3학년 올라가는 아이 이고<br/>일단 첫날은 나름 수월하게 풀어내네요 ㅎ<br/>작은아이도 잘해주길 바래봄니다.<br/>ㅋ<br/>지금 녹화중이고<br/>큰아이도 초등때 EBS방송보면서<br/>학원보낸다고 다 될껀 아닌것같아서,<br/>" 
+---
