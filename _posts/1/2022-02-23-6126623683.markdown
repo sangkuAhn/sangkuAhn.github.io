@@ -9,5 +9,5 @@ categories: [1019]
 color: BD24A9 
 price: 16200 
 author: Ask View Shop 
+cont:  "배송도 아주 빠르고 제품도 아주 좋아요<br/>중1 독학하기에 도움이 됩니다<br/>" 
 ---
- 
