@@ -9,5 +9,5 @@ categories: [1019]
 color: 4374D9 
 price: 7650 
 author: Ask View Shop 
+cont:  "사봣는데.<br/> 첨에만좋아하네요 ㅋ이틀정도 만족하였습니다<br/>" 
 ---
- 
