@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아모스 파스넷 크레파스, 24색, 1개" 
+description: 아모스 파스넷 크레파스, 2 ..
+date: 2022-02-27 16:07:34 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/06/11/3000139643/bb031f01-fbd3-4280-8bc5-8a93c59cbe69.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=102324&itemId=199114&vendorItemId=76177620895&traceid=V0-113-a7558fa37543555c 
+categories: [1020] 
+color: BD24A9 
+price: 11050 
+author: Ask View Shop 
+---
+ 
