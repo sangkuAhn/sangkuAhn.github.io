@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "모나미 유성 매직, 12색, 1개" 
+description: 모나미 유성 매직, 12색, ..
+date: 2022-03-01 08:14:41 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/06/05/3005110648/dd23854d-6d30-4f1b-a382-24ae77c99ab9.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=701422&itemId=2572306&vendorItemId=3005110648&traceid=V0-113-a98be13d12b27792 
+categories: [1021] 
+color: 4CAF50 
+price: 4850 
+author: Ask View Shop 
+---
+ 
