@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "카시오 공학용계산기, FX-991EX" 
+description: 카시오 공학용계산기, FX- ..
+date: 2022-03-02 16:14:40 
+img: https://static.coupangcdn.com/image/vendor_inventory/68f2/9c66b5d889cb598a2fc20c546d191df31a3934250bc4f3cbdb84c4ed8d4a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=340885606&itemId=1085140103&vendorItemId=72718136092&traceid=V0-113-0dba8276695bba19 
+categories: [1021] 
+color: A57F92 
+price: 34350 
+author: Ask View Shop 
+---
+ 
