@@ -9,5 +9,5 @@ categories: [1020]
 color: 4A148C 
 price: 11900 
 author: Ask View Shop 
+cont:  "빠른배송 감사합니다<br/>요즘 원더핑 발레핑 구하기 어렵네요ㅠ마트 몇번이나 전화해도 없어요.<br/> 이건 마침 새벽배송 있어서 구입!!!<br/>" 
 ---
- 
