@@ -9,5 +9,5 @@ categories: [1001]
 color: 4374D9 
 price: 8500 
 author: Ask View Shop 
+cont:  "가볍고 이쁘네요.<br/><br/>실내화주머니로 가방에 넣게금 샀거든요.<br/><br/>크기가 커서 다용도로 쓸수 있겠어요.<br/><br/>" 
 ---
- 
