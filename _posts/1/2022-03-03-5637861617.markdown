@@ -9,5 +9,5 @@ categories: [1018]
 color: A566FF 
 price: 59900 
 author: Ask View Shop 
+cont:  "만원 할인하는건 좀.<br/>.<br/><br/>어제 세차 했는데 좋습니다<br/>제품자체는 만족하나, 구매하고 리뷰쓰려니까<br/>편리하고 매우 만족 합니다<br/>" 
 ---
- 
