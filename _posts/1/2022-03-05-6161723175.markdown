@@ -9,5 +9,5 @@ categories: [1019]
 color: 4374D9 
 price: 15300 
 author: Ask View Shop 
+cont:  "급해서 주문했는데<br/>역시쿠팡입니다^^<br/>예비고1 공부 위해 주문했어요.<br/>시험에 도움이 될거같아요<br/>" 
 ---
- 

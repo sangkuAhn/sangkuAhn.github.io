@@ -9,5 +9,5 @@ categories: [1020]
 color: BF360C 
 price: 11800 
 author: Ask View Shop 
+cont:  "급하게 필요해서 주문했는데<br/>잘 쓰고 있어요!<br/>큰 사이즈는 너무 클 것 같아서 작은 거로 구매했는데 튼튼해보이고 좋네요 ㅎㅎ 잘 쓰겠습니다!<br/>" 
 ---
- 
