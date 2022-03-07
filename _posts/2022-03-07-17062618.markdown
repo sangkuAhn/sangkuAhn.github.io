@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "티피링크 유무선 공유기, TL-WR840N" 
+description: 티피링크 유무선 공유기, T ..
+date: 2022-03-07 15:39:25 
+img: https://static.coupangcdn.com/image/retail/images/784126717523027-ca2aa951-4299-4a45-be7c-410de7a37391.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=17062618&itemId=68819382&vendorItemId=3111094701&traceid=V0-113-3e5be4543e961af3 
+categories: [1016] 
+color: FF6F00 
+price: 16150 
+author: Ask View Shop 
+---
+ 
