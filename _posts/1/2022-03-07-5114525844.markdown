@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "카카오프렌즈 헬로 3단자동우산" 
+description: 카카오프렌즈 헬로 3단자동우 ..
+date: 2022-03-08 06:01:06 
+img: https://static.coupangcdn.com/image/vendor_inventory/a23d/dd15ef5c32a766005e0ceb43e1f0752dc8902341ac0177b41faceadebac5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5114525844&itemId=6984714886&vendorItemId=74277053304&traceid=V0-113-f0379f27ccee7fd8 
+categories: [1001] 
+color: f44336 
+price: 15900 
+author: Ask View Shop 
+cont:  "8살 아이가 접기  힘들어해요.<br/>.<br/><br/>가볍고 자동우산이고 아이가 멀리서도 눈에 띄겠다 싶었어요<br/>그래도 초등입학  준비물이라 예쁜걸로 준비해주고 싶었는데... <br/><br/>근데 커버가 바느질이 엉망.<br/>.<br/><br/>속상하네요;;;;<br/>아이 초등학교 비상용 우산으로 구매했어요<br/>우산 자체는 문제없이 좋아요.<br/>.<br/><br/>자동으로 펴지고 접어지는게 좋은데<br/>커버가 중요한건 아니지만.<br/>.<br/><br/>한쪽은 박음질이 다 풀려서 모양이 흐트러 졌네요ㅠㅜ<br/>" 
+---

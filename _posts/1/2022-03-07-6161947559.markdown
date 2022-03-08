@@ -9,5 +9,5 @@ categories: [1019]
 color: 35B62C 
 price: 15750 
 author: Ask View Shop 
+cont:  "ang<br/>빠르게 잘 받았습니다<br/>상세하게 설명되어 있어 편합니다 ^^♡<br/>열심히 풀어야겠어요<br/>" 
 ---
- 

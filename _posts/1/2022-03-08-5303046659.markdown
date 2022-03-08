@@ -9,5 +9,5 @@ categories: [1019]
 color: BF360C 
 price: 8550 
 author: Ask View Shop 
+cont:  "꼭 필요한 교제인듯합니다<br/>딸의 요청으로 구매했어요<br/>책이 깔끔하게 잘 왔어요! 그리고 책 내용을 보면 군데군데 빈칸도 많아서 끄적끄적 적으면서 하기 정말편해요.<br/><br/>" 
 ---
- 
