@@ -9,5 +9,5 @@ categories: [1019]
 color: 4A148C 
 price: 11700 
 author: Ask View Shop 
+cont:  "만족합니다.<br/><br/>수행평가 대비한다고 사달라고 해서 사줬는데<br/>아이가 필요하다고 해서 구매했어요<br/>유명한 심화서라서 믿고 구매했어요.<br/> 생각한 만큼 어렵지는 않았어요.<br/><br/>좋데요<br/>" 
 ---
- 

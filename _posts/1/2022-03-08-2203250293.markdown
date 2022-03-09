@@ -9,5 +9,5 @@ categories: [1019]
 color: 006064 
 price: 11700 
 author: Ask View Shop 
+cont:  "개념 다음으로 추천... <br/><br/>만족합니다.<br/><br/>아이가 필요하다고 해서 구매했어요<br/>좋아요<br/>" 
 ---
- 

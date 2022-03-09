@@ -9,5 +9,5 @@ categories: [1020]
 color: D9418C 
 price: 14460 
 author: Ask View Shop 
+cont:  "배송도빠르고 좋았는데 탬버린에하나가 잘못박혔네요<br/>좋은가격에 구매했어요^^<br/>초등입학해서 구매하게 됐어요<br/>탬버린이 좀 까슬한 느낌이 나네요<br/>" 
 ---
- 
