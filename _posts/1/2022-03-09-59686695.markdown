@@ -9,5 +9,5 @@ categories: [1019]
 color: 03A9F4 
 price: 20000 
 author: Ask View Shop 
+cont:  "gooooood<br/>수업에 필요해서 샀는데 좋습니다<br/>없을줄알았는데 로켓이라니 싸서라기보다는 급할때 바로찾아보는 쿠팡 한번생각해보세요!<br/>" 
 ---
- 
