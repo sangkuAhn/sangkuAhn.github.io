@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "ANKRIC 포켓몬 카드 가방" 
+description: ANKRIC 포켓몬 카드 가 ..
+date: 2022-03-11 06:08:07 
+img: https://static.coupangcdn.com/image/vendor_inventory/0be8/de0842c63ac95f16667d8ef5c995b6bd6e13e2781ab0aca83c6d11796ffc.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6291774514&itemId=12966910424&vendorItemId=80230946390&traceid=V0-113-66084d10e762e820 
+categories: [1002] 
+color: 4CAF50 
+price: 11990 
+author: Ask View Shop 
+---
+ 
