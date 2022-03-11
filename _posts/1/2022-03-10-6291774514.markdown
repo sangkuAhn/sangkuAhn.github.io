@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "ANKRIC 포켓몬 카드 가방" 
+description: ANKRIC 포켓몬 카드 가 ..
+date: 2022-03-11 06:08:07 
+img: https://static.coupangcdn.com/image/vendor_inventory/0be8/de0842c63ac95f16667d8ef5c995b6bd6e13e2781ab0aca83c6d11796ffc.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6291774514&itemId=12966910424&vendorItemId=80230946390&traceid=V0-113-66084d10e762e820 
+categories: [1002] 
+color: 4CAF50 
+price: 11990 
+author: Ask View Shop 
+cont:  "많은 카드가 수납되서 두고 두고 사용할 수 있을 것 같아요.<br/><br/>아이가 사달라고 조르길래 뭔가 했더니 널부러져 지퍼백에 담으라고 야단쳤던 포켓몬 카드 정리 앨범이더군요.<br/> 진짜 꼴뵈기 싫던 카드가 말끔하게 정리 됩니다.<br/> 아이 뿐만 아니라 엄마의 정신건강에도 좋습니다.<br/> 웬만해선 리뷰 안남기는데 진짜 최고네요.<br/><br/>이게 뭐시라고 애지중지 하는지... <br/>카드 정리를 도와주니 저도 재미를 느낍니다^^;;<br/>" 
+---
