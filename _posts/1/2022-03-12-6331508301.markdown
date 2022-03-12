@@ -9,5 +9,5 @@ categories: [1002]
 color: 4CAF50 
 price: 4900 
 author: Ask View Shop 
+cont:  "색깔도 촌스럽지 않고 단색으로 와서 좋아요<br/>안경도 잘 닦여요<br/>큰거 2개랑 작은거 10개라서 수량이 딱 적당해요<br/>" 
 ---
- 
