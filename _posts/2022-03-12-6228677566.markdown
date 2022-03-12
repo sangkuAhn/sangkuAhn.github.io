@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "닌텐도 스위치 포켓몬스터 레전드 아르세우스 타이틀 한국어" 
+description: 닌텐도 스위치 포켓몬스터 레 ..
+date: 2022-03-12 16:07:35 
+img: https://static.coupangcdn.com/image/vendor_inventory/31fe/bd1caa65f86dbe82663571e9f8fac411ce19560778b9dfb08bbc837eff6c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6228677566&itemId=12505522737&vendorItemId=80557453871&traceid=V0-113-88b3380a3cf722a7 
+categories: [1020] 
+color: 7E57C2 
+price: 68690 
+author: Ask View Shop 
+---
+ 
