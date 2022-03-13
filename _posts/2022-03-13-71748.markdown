@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아모스 1200 딱풀, 35g, 12개" 
+description: 아모스 1200 딱풀, 35 ..
+date: 2022-03-13 16:07:36 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/03/06/3000079438/07ed0d15-6e42-41cd-abb5-f386f2db6d85.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=71748&itemId=153129&vendorItemId=3027140032&traceid=V0-113-8261656de2d6badc 
+categories: [1020] 
+color: BD24A9 
+price: 10760 
+author: Ask View Shop 
+---
+ 
