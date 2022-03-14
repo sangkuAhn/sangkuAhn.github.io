@@ -9,5 +9,5 @@ categories: [1029]
 color: 7E57C2 
 price: 21400 
 author: Ask View Shop 
+cont:  "냥이들이 좋아해요<br/>선물오 샀는데 좋아하길... <br/><br/>저희집 둘째는 무슨 츄르를 줘도 절대 안먹고 무조건 이나바 챠오츄르만 먹어요... <br/> 어떻게 그것만 딱 고르는지... <br/><br/>" 
 ---
- 
