@@ -9,5 +9,5 @@ categories: [1001]
 color: A57F92 
 price: 28900 
 author: Ask View Shop 
+cont:  "머리 안감고 나갈때 모자 대신 쓰고나면 멋져보임<br/>운동이든 세수하고 나와서 사용하든 너무 잘 사용하고있어요<br/>" 
 ---
- 
