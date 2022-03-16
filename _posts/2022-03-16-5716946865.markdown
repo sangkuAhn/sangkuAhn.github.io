@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "나인에프엑스 썸머테크 듀얼 쿨링 바라클라바, 블랙" 
+description: 나인에프엑스 썸머테크 듀얼  ..
+date: 2022-03-16 14:08:05 
+img: https://static.coupangcdn.com/image/rs_quotation_api/ebm8fvdr/92a4efbf36884f43af71494c7dcb7cfe.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5716946865&itemId=9550549114&vendorItemId=76835221335&traceid=V0-113-b49c90ef65e37bbc 
+categories: [1002] 
+color: F361A6 
+price: 14300 
+author: Ask View Shop 
+---
+ 
