@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "모나미 모니주 크레파스 중성, 36색" 
+description: 모나미 모니주 크레파스 중성 ..
+date: 2022-03-17 16:07:36 
+img: https://static.coupangcdn.com/image/retail/images/2018/02/02/15/9/18d66930-1c41-410e-81b0-f2d3b55975b6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=63852428&itemId=217107072&vendorItemId=70944089067&traceid=V0-113-2e70b990672af03e 
+categories: [1020] 
+color: A566FF 
+price: 3100 
+author: Ask View Shop 
+cont:  "그래도 가격대비 만족해요.<br/><br/>그림놀이 한 후에는 강제로 목욕놀이로 전환... <br/>.<br/>ㅋ<br/>근데 손에 어마무시하게 묻어요... <br/><br/>내가 어릴때도 크레파스가 이렇게 쌌었나? 하고 놀란... <br/><br/>디게 비쌌던것 같은데.<br/>.<br/> 물가가 그대로 인건지 내 기억이 잘못된건지.<br/>.<br/><br/>미술학원에서 준비물로 챙겨오라고 해서 주문했어요.<br/><br/>여튼 크다란 전지에 아가랑 놀려고 샀어요 ㅋ<br/>역시 색도 다양한 크레파스가 최고!<br/>유치원 준비물로 샀는데 아주 저렴하고 좋네요<br/>이걸 그린 종이를 밟고 지나만 가도 발바닥에 시커멓게 크레파스가 묻네요... <br/><br/>크레용이 더 안전하긴 하지만 크레용은 딱딱해서 힘을 꽉 줘야하니 불편하네요.<br/><br/>" 
+---
