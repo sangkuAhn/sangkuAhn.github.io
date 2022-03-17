@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "모나미 모니주 크레파스 중성, 36색" 
+description: 모나미 모니주 크레파스 중성 ..
+date: 2022-03-17 16:07:36 
+img: https://static.coupangcdn.com/image/retail/images/2018/02/02/15/9/18d66930-1c41-410e-81b0-f2d3b55975b6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=63852428&itemId=217107072&vendorItemId=70944089067&traceid=V0-113-2e70b990672af03e 
+categories: [1020] 
+color: A566FF 
+price: 3100 
+author: Ask View Shop 
+---
+ 
