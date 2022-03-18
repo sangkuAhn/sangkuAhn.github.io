@@ -9,5 +9,5 @@ categories: [1019]
 color: D9418C 
 price: 4800 
 author: Ask View Shop 
+cont:  "앞부분은 스티커한장과 만들기,스티커붙히기 다른그림찾기가 맨들맨들한 재질로 되어있고 뒷부분은 전부 색칠하기예요 은근 많아서 좋아요<br/>" 
 ---
- 
