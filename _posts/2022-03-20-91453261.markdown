@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "카파맥스 3단 책꽂이 2, 회색" 
+description: 카파맥스 3단 책꽂이 2,  ..
+date: 2022-03-21 08:14:38 
+img: https://static.coupangcdn.com/image/retail/images/7026256774338-7886c3cc-af0e-486d-85b6-b281fa377995.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=91453261&itemId=284595301&vendorItemId=3385141198&traceid=V0-113-f574ee46f30435bd 
+categories: [1021] 
+color: BF360C 
+price: 5300 
+author: Ask View Shop 
+---
+ 
