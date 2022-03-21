@@ -9,5 +9,5 @@ categories: [1019]
 color: 9E9D24 
 price: 6300 
 author: Ask View Shop 
+cont:  "스티커 붙이기, 색칠하기, 오리고 만들기 다양한 활동이 가능해서 너무 좋네요<br/>" 
 ---
- 
