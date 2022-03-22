@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "포켓몬스터 카드게임 소드&실드 확장팩 - 스타버스" 
+description: 포켓몬스터 카드게임 소드&실 ..
+date: 2022-03-23 08:07:40 
+img: https://static.coupangcdn.com/image/vendor_inventory/f114/80b2114ecf396eda42543b5a53b3e41d95a195507ef93461259d8443d6a7.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6353223278&itemId=13376919341&vendorItemId=80696211055&traceid=V0-113-1d73b00a7870bb58 
+categories: [1020] 
+color: 006064 
+price: 65900 
+author: Ask View Shop 
+---
+ 
