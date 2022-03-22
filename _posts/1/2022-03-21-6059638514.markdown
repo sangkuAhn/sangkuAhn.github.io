@@ -9,5 +9,5 @@ categories: [1019]
 color: 4374D9 
 price: 9900 
 author: Ask View Shop 
+cont:  "삼촌이 구매해달라고 해서 구매했어요ㅗ<br/>" 
 ---
- 

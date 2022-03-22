@@ -9,5 +9,5 @@ categories: [1021]
 color: F15F5F 
 price: 19100 
 author: Ask View Shop 
+cont:  "이렇게 터지고 찢어진걸로 보내시니 기분이 영 별로네요.<br/><br/>포장지만 더블에이꺼 쓰고 안에는 다른 하급 넣은것처럼요^^<br/>" 
 ---
- 
