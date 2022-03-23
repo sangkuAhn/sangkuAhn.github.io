@@ -9,5 +9,5 @@ categories: [1020]
 color: 4CAF50 
 price: 7070 
 author: Ask View Shop 
+cont:  "원래는하나씩샀는데 자꾸 아이가 잃어버려서 한번에 구입했어요 괜잔네요<br/>잘 산 것 같습니다.<br/><br/>중학생 새학기 준비물<br/>한두자루씩 문방구에서 사다 귀잖아서 한다스 사게 되었네요.<br/><br/>" 
 ---
- 
