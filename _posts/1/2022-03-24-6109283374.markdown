@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "미트리 파워프로틴 초코맛, 03_파워프로틴 초코맛 250ml 1박스(18개)" 
+description: 미트리 파워프로틴 초코맛,  ..
+date: 2022-03-24 15:46:26 
+img: https://static.coupangcdn.com/image/vendor_inventory/99dd/757c1a752414bf546f94d7b58a06ccfff099ea95262a075b96689f7ceacd.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6109283374&itemId=11503421536&vendorItemId=79463483256&traceid=V0-113-69f82b5f2ac630c2 
+categories: [1017] 
+color: A566FF 
+price: 24900 
+author: Ask View Shop 
+cont:  "근데 생각버다 많이 달아요.<br/> 그래도 초코맛이라 맛은 있어요<br/>남자친구가 요거 사라해서 샀어요.<br/> 달다구리하니 맛있어요.<br/><br/>다른 액상 제품들은 단백질 함량이 거의 9g 10g 이라서 도움 거의 안될거 같아서 안 샀는데 이건 20g이나 들어있어서 분말 대용으로 적당할거 같아요 ㅎㅎ 가격도 괜찮고 또 유통기한도 긴편이에요! 파우치말고 뚜껑으로 되어있어서 먹기도 편해요 굳뜨<br/>보충제 신타부터 셀렉스까지 먹어본 1인<br/>보충제먹고 배아픈 사람들 많던데<br/>셀렉스는 끝맛이 깔끔해서 텁텁함은 없었는디<br/>신타먹을때는 배아픈적이 좀 있었지만<br/>요건 진한대신 텁텁함이 심해서 먹고나면 가글이든 양치든 해야함<br/>유당불내증때문에 그런거라<br/>이 제품은 그런게 적고 꽤 맛있게 먹을 수 있음<br/>이건 아직 없음<br/>잘 골라서 먹으면 됨<br/>프로틴이 신타빼고는 다 맛에서 특유의 걸쭉함이나 비린향? 때문에 호불호가 많이 갈리나<br/>" 
+---
