@@ -9,5 +9,5 @@ categories: [1020]
 color: 35B62C 
 price: 59190 
 author: Ask View Shop 
+cont:  "개꿀띠 중고가 5.<br/>5에거래되는데 이건 걍 6만원에 무료배송 다음날 집앞으로 갖다줌 ㅋㅋ<br/>게이머인데 아직도 안샀다고?<br/>중고사는호구없제? ㅋㅋ<br/>" 
 ---
- 
