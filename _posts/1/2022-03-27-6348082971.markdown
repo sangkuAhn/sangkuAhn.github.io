@@ -9,5 +9,5 @@ categories: [1020]
 color: 35B62C 
 price: 62650 
 author: Ask View Shop 
+cont:  "기대되어요! 빠른 배송 너무 감사해요<br/>배송이 정말 빠릅니다! 하루만에 받았어요!<br/>빠른배송 감사드립니다.<br/><br/>" 
 ---
- 
