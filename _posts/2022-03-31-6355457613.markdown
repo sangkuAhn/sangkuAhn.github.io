@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "Go Go 카카오프렌즈. 23: 싱가포르, 아울북, 김미영" 
+description: Go Go 카카오프렌즈. 2 ..
+date: 2022-03-31 16:00:33 
+img: https://static.coupangcdn.com/image/vendor_inventory/a2dc/fe6eba6e31435856c7767ccf111bd8e01b32391e98243f5a474424060acc.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6355457613&itemId=13392283952&vendorItemId=80647104703&traceid=V0-113-48c26a7ea3d90fb5 
+categories: [1019] 
+color: BF360C 
+price: 10800 
+author: Ask View Shop 
+---
+ 
