@@ -9,5 +9,5 @@ categories: [1019]
 color: A57F92 
 price: 12600 
 author: Ask View Shop 
+cont:  "도움이 됩니다<br/>" 
 ---
- 

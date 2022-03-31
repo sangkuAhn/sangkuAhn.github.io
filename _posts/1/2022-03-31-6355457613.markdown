@@ -9,5 +9,5 @@ categories: [1019]
 color: BF360C 
 price: 10800 
 author: Ask View Shop 
+cont:  "다음 화가 그다려집니다<br/>배송도 금방 왔습니다<br/>아이들이 기다린 책입니다!<br/>페루까지 읽고 언제나오냐고 맨날 물어봤는데 드디어 나왔네요<br/>" 
 ---
- 
