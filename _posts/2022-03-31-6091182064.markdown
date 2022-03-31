@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "Apple 아이패드 mini, 퍼플, 64GB, Wi-Fi" 
+description: Apple 아이패드 mini ..
+date: 2022-04-01 07:39:23 
+img: https://static.coupangcdn.com/image/retail/images/4326941580932901-b0827a4e-bbca-4236-b9e7-9f547135c317.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6091182064&itemId=11356736085&vendorItemId=78633105462&traceid=V0-113-836ce7188e969b5f 
+categories: [1016] 
+color: A6A6A6 
+price: 616980 
+author: Ask View Shop 
+---
+ 

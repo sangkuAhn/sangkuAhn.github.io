@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "2개 SET/ 빵빵한 뿌리 볼륨 집게" 
+description: 2개 SET/ 빵빵한 뿌리  ..
+date: 2022-04-01 06:01:02 
+img: https://static.coupangcdn.com/image/vendor_inventory/fe5e/c82a30091ed43bbb61ef85333a9c3ffc555d5c3584891b34094cd60c8cbf.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6353244840&itemId=13377037967&vendorItemId=80631945699&traceid=V0-113-c27284a080ac4733 
+categories: [1001] 
+color: 43A047 
+price: 4500 
+author: Ask View Shop 
+---
+ 
