@@ -9,5 +9,5 @@ categories: [1021]
 color: A566FF 
 price: 13840 
 author: Ask View Shop 
+cont:  "음.<br/>.<br/><br/>잘 사용하고있어요<br/>잘되고.<br/>.<br/><br/>잘되는게 최고지머 다른 품평이 있나<br/>잘됩니다.<br/><br/>좋아요!<br/>코팅 잘되고<br/>" 
 ---
- 
