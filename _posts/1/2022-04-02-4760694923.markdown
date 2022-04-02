@@ -9,5 +9,5 @@ categories: [1019]
 color: 006064 
 price: 12600 
 author: Ask View Shop 
+cont:  "잘활용중이에요<br/>" 
 ---
- 
