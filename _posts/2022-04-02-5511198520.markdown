@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "GAP 양송이버섯, 200g, 1팩" 
+description: GAP 양송이버섯, 200g ..
+date: 2022-04-03 07:11:17 
+img: https://static.coupangcdn.com/image/retail/images/92259046798756-45e629f0-58ee-4586-83b0-3bab2fba1e7f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5511198520&itemId=8591821060&vendorItemId=75879080999&traceid=V0-113-38c534950b9e2ffd 
+categories: [1012] 
+color: F15F5F 
+price: 6200 
+author: Ask View Shop 
+---
+ 
