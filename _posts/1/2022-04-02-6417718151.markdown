@@ -9,5 +9,5 @@ categories: [1001]
 color: 4374D9 
 price: 21150 
 author: Ask View Shop 
+cont:  "외출도 가능한 신발 ㅋㅋㅋ<br/>" 
 ---
- 
