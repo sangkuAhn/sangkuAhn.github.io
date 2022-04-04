@@ -9,5 +9,5 @@ categories: [1019]
 color: 4A148C 
 price: 18900 
 author: Ask View Shop 
+cont:  "과학 문제집 중에서는 오투가 탑이네요<br/>오투!!!<br/>요약과 개념정리가 잘 되어 있어요.<br/> 입문하기 좋은 책입니다.<br/> 빠른 배송 감사합니다.<br/><br/>" 
 ---
- 
