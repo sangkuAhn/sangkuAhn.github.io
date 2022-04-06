@@ -9,5 +9,5 @@ categories: [1019]
 color: F15F5F 
 price: 26100 
 author: Ask View Shop 
+cont:  "내용 전개가 빠르고 내용과 몰입도가 좋네요<br/>흥미롭게 잘 읽고 있습니다<br/>" 
 ---
- 
