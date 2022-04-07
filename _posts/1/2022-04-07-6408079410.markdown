@@ -9,5 +9,5 @@ categories: [1020]
 color: 03A9F4 
 price: 21900 
 author: Ask View Shop 
+cont:  "OPP봉투도 끼고 잘들어갑니다<br/>깔끔하고 나이스<br/>무조건 사세요 너무 좋습니다 ㅎㅎ<br/>보관하기 너무 좋고<br/>저는 강추드려요<br/>정말 만족스러운 띠부씰 앨범입니다.<br/><br/>퀄이 장난없습니다<br/>" 
 ---
- 
