@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "김정숙 버킷리스트의 진실, 남정호 저, 진명출판사" 
+description: 김정숙 버킷리스트의 진실,  ..
+date: 2022-04-08 16:00:33 
+img: https://static.coupangcdn.com/image/vendor_inventory/5b59/67dc7fb722c3efdf83446c26284ab4068a7755b3b37848bf8d69beeb6f6e.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6369861089&itemId=13487227899&vendorItemId=80768783033&traceid=V0-113-019a34df2030b273 
+categories: [1019] 
+color: A566FF 
+price: 13500 
+author: Ask View Shop 
+---
+ 
