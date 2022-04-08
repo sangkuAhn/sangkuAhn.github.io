@@ -9,5 +9,5 @@ categories: [1019]
 color: D9418C 
 price: 16200 
 author: Ask View Shop 
+cont:  "생각보다 두께가 있어 놀라긴 했는데 다루는 내용이 많다보니 어쩔수없다는 생각이 드네요 열심히 공부해야겠죠?<br/>" 
 ---
- 

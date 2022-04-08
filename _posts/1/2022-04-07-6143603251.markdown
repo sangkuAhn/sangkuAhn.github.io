@@ -9,5 +9,5 @@ categories: [1021]
 color: 03A9F4 
 price: 10730 
 author: Ask View Shop 
+cont:  "검은색이 많아서 좋아요<br/>나머지는 무척 만족<br/>회사에서 쓰려고 주문했습니다<br/>" 
 ---
- 
