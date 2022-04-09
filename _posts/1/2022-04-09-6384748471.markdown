@@ -9,5 +9,5 @@ categories: [1002]
 color: BF360C 
 price: 20900 
 author: Ask View Shop 
+cont:  "생각보다 발등부분쪽이 얇음<br/>안전화 아니고  밑창두꺼운 단화정도<br/>안전화가 아니라 일반 저급 신발입니다 신을수도 없어요<br/>현장사용하면  욕먹어요<br/>" 
 ---
- 
