@@ -9,5 +9,5 @@ categories: [1019]
 color: 353535 
 price: 12600 
 author: Ask View Shop 
+cont:  "교과서 진도 맞춰서 공부하기 좋아요<br/>" 
 ---
- 
