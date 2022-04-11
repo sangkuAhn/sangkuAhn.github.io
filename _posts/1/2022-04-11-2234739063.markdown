@@ -9,5 +9,5 @@ categories: [1019]
 color: A566FF 
 price: 16200 
 author: Ask View Shop 
+cont:  "고1 학생들 추천요^^<br/>배송빨라서 좋아요<br/>" 
 ---
- 
