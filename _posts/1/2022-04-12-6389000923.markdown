@@ -9,5 +9,5 @@ categories: [1001]
 color: A566FF 
 price: 5900 
 author: Ask View Shop 
+cont:  "핀대 생각보다작아요 ㅠ 큰거원했는데 싼게 에 낙겨서 ㅠ<br/>핀대가 9센티아니고 8센티<br/>" 
 ---
- 

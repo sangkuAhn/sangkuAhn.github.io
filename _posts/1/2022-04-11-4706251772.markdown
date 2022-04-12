@@ -9,5 +9,5 @@ categories: [1019]
 color: 5A8DF3 
 price: 26100 
 author: Ask View Shop 
+cont:  "꼭 자격증 따고 싶어요^^<br/>꼼꼼하게 포장해서 보내주셨네요<br/>열씨미 공부해서<br/>이번 시험에 안 나온 게 넘 많았음 ㅋㅋ 합격은 했지만<br/>좋아요<br/>" 
 ---
- 
