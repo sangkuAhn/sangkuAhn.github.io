@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "1등급만들기 통합사회, 미래엔" 
+description: 1등급만들기 통합사회, 미래 ..
+date: 2022-04-13 16:00:33 
+img: https://static.coupangcdn.com/image/retail/images/9672295293520-a8552dd2-c05a-43ae-8b94-78da80faad95.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2174635186&itemId=3700178129&vendorItemId=71685469930&traceid=V0-113-3e251f575e0cfe7d 
+categories: [1019] 
+color: F361A6 
+price: 13500 
+author: Ask View Shop 
+---
+ 

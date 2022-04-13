@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "제이에프로프 기본형 스피드 줄넘기, 검은색" 
+description: 제이에프로프 기본형 스피드  ..
+date: 2022-04-13 16:07:35 
+img: https://static.coupangcdn.com/image/rs_quotation_api/embaut9e/b073f78d55ce4652a5c32763e8c12a83.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5264062316&itemId=7485382503&vendorItemId=74776176796&traceid=V0-113-344be030d431862c 
+categories: [1020] 
+color: 4CAF50 
+price: 9500 
+author: Ask View Shop 
+---
+ 
