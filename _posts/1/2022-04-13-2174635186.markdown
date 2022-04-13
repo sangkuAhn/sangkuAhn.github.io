@@ -9,5 +9,5 @@ categories: [1019]
 color: F361A6 
 price: 13500 
 author: Ask View Shop 
+cont:  "가성비 최고네요.<br/><br/>잘 받았습니다 감사합니다<br/>" 
 ---
- 
