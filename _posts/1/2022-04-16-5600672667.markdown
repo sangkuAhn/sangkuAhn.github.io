@@ -9,5 +9,5 @@ categories: [1020]
 color: 03A9F4 
 price: 8030 
 author: Ask View Shop 
+cont:  "다육이 분갈이 하려고 샀어요<br/>사용감있습니다.<br/><br/>재주문합니다<br/>" 
 ---
- 
