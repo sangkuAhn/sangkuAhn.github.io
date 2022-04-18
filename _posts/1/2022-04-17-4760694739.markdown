@@ -9,5 +9,5 @@ categories: [1019]
 color: 4A148C 
 price: 9900 
 author: Ask View Shop 
+cont:  "조아요 조아요 조아요 조아요 조아요 조아요<br/>하루만에 받을수 있게 해주셔서 너무 감사합니다<br/>힉원 교재로 구입했습니다.<br/> 중간고사 대비로 좋을것같네요.<br/> 감사합니다<br/>" 
 ---
- 
