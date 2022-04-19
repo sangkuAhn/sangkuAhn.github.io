@@ -9,5 +9,5 @@ categories: [1002]
 color: D9418C 
 price: 19800 
 author: Ask View Shop 
+cont:  "잘 받았습니다<br/>잘 입을게요<br/>" 
 ---
- 
