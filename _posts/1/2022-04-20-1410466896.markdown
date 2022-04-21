@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "유니원 공학용계산기, UC-400M, 1개" 
+description: 유니원 공학용계산기, UC- ..
+date: 2022-04-21 08:14:39 
+img: https://static.coupangcdn.com/image/vendor_inventory/2dc8/7bfe7948f6779c587f3a38428382b901139a035668738e2b9eb47860bfe0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1410466896&itemId=2446889055&vendorItemId=71312863682&traceid=V0-113-ba2e265a78893bf7 
+categories: [1021] 
+color: 03A9F4 
+price: 10800 
+author: Ask View Shop 
+cont:  ".<br/> ★기능  문제 없어보입니다.<br/><br/>.<br/> ★디자인  버튼이 카시오 공학용계산기랑 비슷<br/>.<br/> ★충전 방식  태양광?으로도 충전 가능하네요?<br/>건축사 시험 보러 가서 사용했는데 문제는 없었습니다.<br/><br/>계산기 급하게 한 개 더 필요해서 보조용으로 샀습니다.<br/><br/>대학때 쓰던거 잃어버려서 기사시험 준비하려고 샀어요 ㅋ 엄청 어려운 계산은 필요없어서 기능이 좋은건 아니지만 시험용으론 딱이네용 가볍고 좋아용<br/>많이 비슷한데 형태에서 좀 차이가 있습니다.<br/> 그리고 역시 싼맛에 사는거기 때문에 디자인에서 약간 싼티 나요.<br/> 미묘하게 납니다.<br/><br/>버튼감은 평범하지만 시험장에 휴대되는 화이트 계산기라 사봤습니다<br/>시험장에서 계산기 리셋시켜버리면 결과값이 분수로 나왔을때 엄청 난감합니다.<br/><br/>충전기 걱정은 안해도 되겠어요<br/>혹시 모르니 분수값으로 나오는걸 소수로 어떻게 바꾸는지 설명서 보고 가세요.<br/><br/>" 
+---

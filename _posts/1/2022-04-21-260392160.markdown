@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "소마셈 A1 1학년, 소마" 
+description: 소마셈 A1 1학년, 소마 ..
+date: 2022-04-21 16:00:33 
+img: https://static.coupangcdn.com/image/retail/images/2019/07/11/9/6/13ffec0c-e30c-432a-9d45-900b0b276a01.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=260392160&itemId=814653921&vendorItemId=5063302923&traceid=V0-113-329a5679f1f87476 
+categories: [1019] 
+color: 35B62C 
+price: 6300 
+author: Ask View Shop 
+cont:  "10수 넘는거 좀 더 알기 쉽게 보기가 더 되어있었으면 좋았을거 같아요!<br/>8살 딸.<br/>초등학교 가기전에 집에서 풀고 있어요<br/>근데 새책인데 표지부터 5장이나 찢어진거 받아서 별로 기분 안좋네여<br/>딸아이는 쉬워서 재밋대요<br/>서술형 수학문제가 많은게 젤좋은거같아요<br/>수준별로 디테일하게 나뉘져있어 차근차근 배워가면서<br/>쉽고 반복되고 서술형으로 심화까지 할수있어 좋구요.<br/> 마지막에 보충학습 있어서 시간정해 문제풀며 평가도 할수있어요.<br/> 뒤에 답지 빼면 두꺼운문제집 아닙니다.<br/> 한권이 금방끝나서 성취감이 좋아요<br/>초1아이가 혼자서도 풀수있는 수준이라<br/>풀어나가기 좋은거같아요<br/>혼자시켜놓으니 순식간에 푸네요<br/>" 
+---
