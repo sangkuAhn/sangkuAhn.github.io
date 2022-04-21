@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "소마셈 A1 1학년, 소마" 
+description: 소마셈 A1 1학년, 소마 ..
+date: 2022-04-21 16:00:33 
+img: https://static.coupangcdn.com/image/retail/images/2019/07/11/9/6/13ffec0c-e30c-432a-9d45-900b0b276a01.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=260392160&itemId=814653921&vendorItemId=5063302923&traceid=V0-113-329a5679f1f87476 
+categories: [1019] 
+color: 35B62C 
+price: 6300 
+author: Ask View Shop 
+---
+ 
