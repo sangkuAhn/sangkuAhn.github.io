@@ -9,5 +9,5 @@ categories: [1010]
 color: 9E9D24 
 price: 27090 
 author: Ask View Shop 
+cont:  "바를때 펌프도커서 좋고.<br/>쿨링감도있어좋으네요<br/>" 
 ---
- 

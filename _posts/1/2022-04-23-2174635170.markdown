@@ -9,5 +9,5 @@ categories: [1019]
 color: D9418C 
 price: 13500 
 author: Ask View Shop 
+cont:  "고2 수업에 필요하다고해서 구매했어요<br/>정말빠르고 안전하게 잘 받았습니다감사합니다^^<br/>좋네요<br/>" 
 ---
- 
