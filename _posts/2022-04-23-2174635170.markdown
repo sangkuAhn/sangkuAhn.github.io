@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "1등급만들기 한국사, 미래엔" 
+description: 1등급만들기 한국사, 미래엔 ..
+date: 2022-04-23 16:00:34 
+img: https://static.coupangcdn.com/image/vendor_inventory/b4c4/ac22ce9faa81300b4c8abecd292a53fd15b4299a2905ca3611862d2b4373.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2174635170&itemId=3700178071&vendorItemId=71676398251&traceid=V0-113-742c861da8dff770 
+categories: [1019] 
+color: D9418C 
+price: 13500 
+author: Ask View Shop 
+---
+ 
