@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "홈플래닛 기본형 스탠드 선풍기, NDL1368" 
+description: 홈플래닛 기본형 스탠드 선풍 ..
+date: 2022-04-26 15:39:26 
+img: https://static.coupangcdn.com/image/retail/images/1411934333475351-22044b21-c919-4772-910f-d13c226f3f25.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6382601909&itemId=13567810509&vendorItemId=80821271242&traceid=V0-113-ea43a74c432cefbc 
+categories: [1016] 
+color: 7E57C2 
+price: 29900 
+author: Ask View Shop 
+---
+ 
