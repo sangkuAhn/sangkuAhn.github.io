@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "리벤스 베이직 리빙박스 56L, 그레이, 2개" 
+description: 리벤스 베이직 리빙박스 56 ..
+date: 2022-04-27 15:32:21 
+img: https://static.coupangcdn.com/image/vendor_inventory/9405/38a79b125660ed070be209657801488e9b75ca1aa818e8546e1cbc31e5cc.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5721941&itemId=27630192&vendorItemId=76137761182&traceid=V0-113-acbce861c6efc5d8 
+categories: [1015] 
+color: FF1744 
+price: 13500 
+author: Ask View Shop 
+---
+ 
