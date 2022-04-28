@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "포켓몬카드 VMAX클라이맥스 1팩" 
+description: 포켓몬카드 VMAX클라이맥스 ..
+date: 2022-04-29 08:07:34 
+img: https://static.coupangcdn.com/image/vendor_inventory/fec1/1e5c9d42a20a0417ff8d067a361ec295eba15bacc8e118577f5ff976d7f3.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6437805444&itemId=13922100939&vendorItemId=81345249254&traceid=V0-113-c6b599c1df63e0d3 
+categories: [1020] 
+color: 9E9D24 
+price: 11550 
+author: Ask View Shop 
+---
+ 
