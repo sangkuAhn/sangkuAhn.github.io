@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "고민의 답, 강한별, 글배우" 
+description: 고민의 답, 강한별, 글배우 ..
+date: 2022-05-03 16:00:34 
+img: https://static.coupangcdn.com/image/vendor_inventory/ce55/7bb2c50c3f557a31b8e2b43c330db3a74d866cca70cc8430a32e064cefb8.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6457843394&itemId=14043513064&vendorItemId=81050777763&traceid=V0-113-8cc96bd9ca75ab5c 
+categories: [1019] 
+color: CF36BB 
+price: 14220 
+author: Ask View Shop 
+---
+ 
