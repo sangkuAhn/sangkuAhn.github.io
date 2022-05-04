@@ -9,5 +9,5 @@ categories: [1019]
 color: FF6F00 
 price: 15840 
 author: Ask View Shop 
+cont:  "꽂히는 책 여러권 샀네요<br/>조금씩 알아보고 산거라<br/>책에 대한 기대가 큽니다!<br/>책을 너무 안읽어서 큰맘먹고<br/>" 
 ---
- 
