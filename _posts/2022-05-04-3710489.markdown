@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "대디북과 마미북 세트, INNOVER(이노버코리아)" 
+description: 대디북과 마미북 세트, IN ..
+date: 2022-05-04 16:00:34 
+img: https://static.coupangcdn.com/image/vendor_inventory/ca53/4348c33b483835f061be8ff67731e35044251ea60041bdb844f5f0ee30b7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=3710489&itemId=18276394&vendorItemId=4620354675&traceid=V0-113-8a3fa8a49336dd0b 
+categories: [1019] 
+color: 4374D9 
+price: 29700 
+author: Ask View Shop 
+---
+ 

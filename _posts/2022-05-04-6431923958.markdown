@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "기분을 관리하면 인생이 관리된다:김다슬 에세이, 김다슬 저, 클라우디아" 
+description: 기분을 관리하면 인생이 관리 ..
+date: 2022-05-04 16:00:34 
+img: https://static.coupangcdn.com/image/vendor_inventory/2ef9/9c39303fd0f0df7c629a96c8a194ee6867cc60ef2b140f215064cdc62e6f.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6431923958&itemId=13884464509&vendorItemId=81228205072&traceid=V0-113-4d3a155698cf5d1a 
+categories: [1019] 
+color: FF6F00 
+price: 15840 
+author: Ask View Shop 
+---
+ 
