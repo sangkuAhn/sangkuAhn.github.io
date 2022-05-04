@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "SQL 자격검정 실전문제:국가공인 SQL전문가 국가공인 SQL개발자, 한국데이터산업진흥원" 
+description: SQL 자격검정 실전문제:국 ..
+date: 2022-05-05 08:00:35 
+img: https://static.coupangcdn.com/image/vendor_inventory/8e49/3bc05e3c9945c547f70ef05eaae266db91b7b9cd5316d59fb915d9908174.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=73103197&itemId=243646683&vendorItemId=3137391377&traceid=V0-113-19e8c5754710a6bb 
+categories: [1019] 
+color: 7E57C2 
+price: 17280 
+author: Ask View Shop 
+---
+ 
