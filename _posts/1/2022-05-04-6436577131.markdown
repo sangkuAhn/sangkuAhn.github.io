@@ -9,5 +9,5 @@ categories: [1019]
 color: 353535 
 price: 25900 
 author: Ask View Shop 
+cont:  "너무이뻐요.<br/><br/>최고에요<br/>" 
 ---
- 
