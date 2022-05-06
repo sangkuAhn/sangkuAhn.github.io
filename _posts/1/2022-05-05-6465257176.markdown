@@ -9,5 +9,5 @@ categories: [1019]
 color: FF6F00 
 price: 12600 
 author: Ask View Shop 
+cont:  "기다리던 책이라 너무 좋아요<br/>상상도 못한 스토리!!!!!!!<br/>" 
 ---
- 
