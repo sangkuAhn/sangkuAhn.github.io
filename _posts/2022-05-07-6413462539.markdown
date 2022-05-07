@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "모든 사람에게 사랑받을 필요는 없다, 스튜디오오드리, 이평" 
+description: 모든 사람에게 사랑받을 필요 ..
+date: 2022-05-08 08:00:34 
+img: https://static.coupangcdn.com/image/retail-product-api/A00077021/91275616/101745603/main/9791191043679_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6413462539&itemId=13764320373&vendorItemId=81014954970&traceid=V0-113-ceaa9a721af915ae 
+categories: [1019] 
+color: A566FF 
+price: 13500 
+author: Ask View Shop 
+---
+ 
