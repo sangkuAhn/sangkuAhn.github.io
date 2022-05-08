@@ -9,5 +9,5 @@ categories: [1019]
 color: D9418C 
 price: 22800 
 author: Ask View Shop 
+cont:  "울영웅님 정규앨범 1집 품질 노래 최고 대박기원<br/>최고중최고 최최최고 입니다^^건ㆍ행<br/>" 
 ---
- 
