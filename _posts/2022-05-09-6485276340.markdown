@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "마인드셋(Mindset)/잘 살아라 그게 최고의 복수다, 마인드셋(Mindset), 권민창" 
+description: 마인드셋(Mindset)/잘 ..
+date: 2022-05-10 08:00:34 
+img: https://static.coupangcdn.com/image/retail-product-api/A00077021/95995842/106904291/main/9791191043631_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6485276340&itemId=14213096641&vendorItemId=81458531927&traceid=V0-113-08ca876b05e4e61a 
+categories: [1019] 
+color: F361A6 
+price: 13500 
+author: Ask View Shop 
+---
+ 
