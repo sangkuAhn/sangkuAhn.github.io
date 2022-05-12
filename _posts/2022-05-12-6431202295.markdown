@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "CD/ 임영웅 1집 - IM HERO Photo Book ver./" 
+description: CD/ 임영웅 1집 - IM ..
+date: 2022-05-13 08:00:35 
+img: https://static.coupangcdn.com/image/vendor_inventory/fc26/913d6f7e4fb07614f0ae60db73338fe918addc5e5c03891400110789f2ff.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6431202295&itemId=13881251274&vendorItemId=81131056896&traceid=V0-113-59b594e911e87368 
+categories: [1019] 
+color: 006064 
+price: 19300 
+author: Ask View Shop 
+---
+ 
