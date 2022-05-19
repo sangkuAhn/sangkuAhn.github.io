@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "파이어 FIRE:그들은 어떻게 남들보다 빨리 경제적 자유를 이뤘을까?, 페이지2북스, 강환국" 
+description: 파이어 FIRE:그들은 어떻 ..
+date: 2022-05-20 08:00:37 
+img: https://static.coupangcdn.com/image/retail-product-api/A00077021/94941511/105692214/main/9791190977616_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6457848989&itemId=14043533188&vendorItemId=81291299782&traceid=V0-113-45598ceb76de655c 
+categories: [1019] 
+color: 006064 
+price: 16200 
+author: Ask View Shop 
+---
+ 
