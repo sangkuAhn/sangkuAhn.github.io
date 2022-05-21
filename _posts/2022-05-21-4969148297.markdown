@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "HDC 영창 단소 YD-PL60, 아이보리" 
+description: HDC 영창 단소 YD-PL ..
+date: 2022-05-22 08:14:39 
+img: https://static.coupangcdn.com/image/rs_quotation_api/cqe918m6/845137551b50468eb510e05d5243a4ad.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4969148297&itemId=6594259120&vendorItemId=73888208036&traceid=V0-113-dfcb5e3ef6faf154 
+categories: [1021] 
+color: BF360C 
+price: 7720 
+author: Ask View Shop 
+---
+ 
