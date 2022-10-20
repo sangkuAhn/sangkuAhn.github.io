@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "쿠팡수입/ 샤오미 미밴드 7 스마트밴드" 
+description: 쿠팡수입/ 샤오미 미밴드 7 ..
+date: 2022-10-21 03:51:01 
+img: https://static.coupangcdn.com/image/retail/images/7791755601488894-271299ea-06f8-4062-be26-55b71e5e85a4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=6543410274&itemId=14577950265&vendorItemId=81820061641&traceid=V0-113-fafdd8bbf7e2a128 
+categories: [1016] 
+color: A57F92 
+price: 58150 
+author: Ask View Shop 
+---
+ 
