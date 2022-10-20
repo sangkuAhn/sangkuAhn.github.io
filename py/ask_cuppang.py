@@ -29,6 +29,7 @@ cup_arr  = cup_key.split("|")
 
 #1001   여성패션 #1002  남성패션 #1003  베이비패션 (0~3세) #1004  여아패션 (3세 이상) #1005  남아패션 (3세 이상) #1006  스포츠패션 #1007  신발 #1008  가방/잡화 #1010  뷰티 #1011  출산/유아동 #1012  식품 #1013  주방용품 #1014  생활용품 #1015  홈인테리어 #1016  가전디지털 #1017  스포츠/레저 #1018  자동차용품 #1019  도서/음반/DVD #1020  완구/취미 #1021  문구/오피스 #1024  헬스/건강식품 #1025  국내여행 #1026  해외여행 #1029  반려동물용품
 BEST_CATEGORY_LIST  =['1001','1002','1003','1004','1005','1006','1007','1008','1010','1011','1012','1013','1014','1015','1016','1017','1018','1019','1020','1021','1024','1029']
+#BEST_CATEGORY_LIST  =[]
 
 class bestCuppang:
 	def __init__(self):
@@ -272,36 +273,39 @@ def initTable():
 def writeUpdate(category_cd):
 	ad.update (f''' UPDATE ask_db.TB_CUPPANG_CATEGORY SET WRITE_YN = 'Y' WHERE CATEGORY_CD = '{category_cd}' ''')
 
-if __name__ == '__main__':
-	
+if __name__ == '__main__':	
 	best = bestCuppang()
-	ad = ask_db.AskDb(host,user,pw,db)
 	isOk = True
-	try:					
-		#print("category_cd ... S %s",(category_cd))
+	ad = ask_db.AskDb(host,user,pw,db)
+	try:				
+		# for category_cd in BEST_CATEGORY_LIST:
 		category_cd = getWriteCount()
+		#print("category_cd ... S %s",(category_cd))
 		isOk = best.searchInsert(category_cd)		
 		print("isOk ",isOk)
-
+		
 		if isOk:
-			m = make_post.MakeSite("https://sangkuahn.github.io",category_cd, ad)
+			m = make_post.MakeSite("https://sangkuahn.github.io",category_cd)
 			m.createPost()	
 			m.createIndexPage()	
+			if category_cd == '1001':
+				print("category_cd : ",category_cd)
+				m.mainPage()
+				m.makePowerLink()
+				#quit()		
 			
-			print("category_cd : ",category_cd)
-			m.mainPage()
-			m.makePowerLink()
 		else:				
 			print("getCupBestItme not change or insert")
 		#quit()			
-		
+		ad.closeConn()			
 		#print("closeConn")
-		print("category_cd ... E  timesleep 60*7 ", category_cd)	
+		print("category_cd ... E  timesleep 60*7 ", category_cd)
+		# time.sleep(60*7)
 			
 
 	except Exception as e:
-		print("__MAIN__  EXCEPT SLEEP .... ",e)		
-	finally:
-		ad.closeConn()
+		print("__MAIN__  EXCEPT SLEEP .... ",e)
+		#time.sleep(60*60)
+		raise e
 	# os.system(r'/usr/local/share/sangkuAhn.github.io/start_auto_push.sh')	
 
