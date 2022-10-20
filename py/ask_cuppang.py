@@ -285,7 +285,7 @@ if __name__ == '__main__':
 		print("isOk ",isOk)
 		
 		if isOk:
-			m = make_post.MakeSite("https://sangkuahn.github.io",category_cd)
+			m = make_post.MakeSite("https://sangkuahn.github.io",category_cd,ad)
 			m.createPost()	
 			m.createIndexPage()	
 			if category_cd == '1001':
