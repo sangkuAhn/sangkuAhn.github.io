@@ -13,8 +13,9 @@ from urllib.parse import urlencode
 import ask_db
 
 import make_post
+import socket
 import ask_util
-import random
+
 
 db_info = os.getenv('DB_INFO')
 db_arr  = db_info.split("|")
@@ -23,16 +24,14 @@ user	=db_arr[1]
 pw 		=db_arr[2]
 db 		=db_arr[3]
 
-
 cup_key = os.getenv('CUP_KEY') #ask
 cup_arr  = cup_key.split("|")
-
 
 #1001   여성패션 #1002  남성패션 #1003  베이비패션 (0~3세) #1004  여아패션 (3세 이상) #1005  남아패션 (3세 이상) #1006  스포츠패션 #1007  신발 #1008  가방/잡화 #1010  뷰티 #1011  출산/유아동 #1012  식품 #1013  주방용품 #1014  생활용품 #1015  홈인테리어 #1016  가전디지털 #1017  스포츠/레저 #1018  자동차용품 #1019  도서/음반/DVD #1020  완구/취미 #1021  문구/오피스 #1024  헬스/건강식품 #1025  국내여행 #1026  해외여행 #1029  반려동물용품
 BEST_CATEGORY_LIST  =['1001','1002','1003','1004','1005','1006','1007','1008','1010','1011','1012','1013','1014','1015','1016','1017','1018','1019','1020','1021','1024','1029']
 
 class bestCuppang:
-	def __init__(self):		
+	def __init__(self):
 		self.access_key			=	cup_arr[0]
 		self.secret_key			=	cup_arr[1]
 		self.domain				=	'https://api-gateway.coupang.com'	
@@ -255,8 +254,6 @@ class bestCuppang:
 			return False		
 
 
-def getRandom():
-    return random.randrange(1,5)   
 
 def getWriteCount():
 	# COUNT(*)
@@ -276,30 +273,35 @@ def writeUpdate(category_cd):
 	ad.update (f''' UPDATE ask_db.TB_CUPPANG_CATEGORY SET WRITE_YN = 'Y' WHERE CATEGORY_CD = '{category_cd}' ''')
 
 if __name__ == '__main__':
-	ad = ask_db.AskDb(host,user,pw,db)	
-	try:								
-		category_cd = getWriteCount()	
-		print("category_cd : ",category_cd)
-		best = bestCuppang()
-		isOk = True
-				
+	
+	best = bestCuppang()
+	ad = ask_db.AskDb(host,user,pw,db)
+	isOk = True
+	try:					
+		#print("category_cd ... S %s",(category_cd))
+		category_cd = getWriteCount()
 		isOk = best.searchInsert(category_cd)		
+		print("isOk ",isOk)
+
 		if isOk:
 			m = make_post.MakeSite("https://sangkuahn.github.io",category_cd, ad)
 			m.createPost()	
 			m.createIndexPage()	
-						
-			m.mainPage()
-			m.makePowerLink()		
 			
+			print("category_cd : ",category_cd)
+			m.mainPage()
+			m.makePowerLink()
 		else:				
 			print("getCupBestItme not change or insert")
-	
-							
-		print("ok ")
+		#quit()			
 		
+		#print("closeConn")
+		print("category_cd ... E  timesleep 60*7 ", category_cd)	
+			
+
 	except Exception as e:
-		print("__MAIN__  EXCEPT SLEEP .... ",e)
-		
+		print("__MAIN__  EXCEPT SLEEP .... ",e)		
 	finally:
 		ad.closeConn()
+	# os.system(r'/usr/local/share/sangkuAhn.github.io/start_auto_push.sh')	
+
