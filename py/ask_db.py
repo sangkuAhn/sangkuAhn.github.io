@@ -1,12 +1,9 @@
 #-*-coding:utf-8
 import pymysql
 class AskDb(object):		
-	def __init__(self, host=None, user=None, password=None, db=None):
-		info = server_config.getServerInfo()
+	def __init__(self, host=None, user=None, password=None, db=None):		
 		self.conn = pymysql.connect(host=host, user=user, password=password, db=db,charset="utf8")
 	
-	
-
 	def getConnection(self):
 		return  self.conn
 		
