@@ -1,0 +1,61 @@
+name: BookMana action
+on: [push]
+#on:    
+#  schedule:
+#  - cron: "1 7 * * *"
+
+
+jobs:
+  build:
+    name: build
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: [3.8]
+        
+    steps:               
+    - name: sangkuahn blog
+      uses: actions/checkout@master
+    - name: git config
+      run: |
+        git config --global user.email "ahnsk39@gmail.com"
+        git config --global user.name "sangkuAhn"
+  
+    - name: install deploy keys
+      env:
+        GH_ACTION_DEPLOY_KEY: ${{ secrets.GH_ACTION_DEPLOY_KEY }}
+      run: |
+        mkdir -p ~/.ssh/
+        echo "$GH_ACTION_DEPLOY_KEY" > ~/.ssh/id_rsa
+        chmod 600 ~/.ssh/id_rsa
+        ssh-keyscan github.com >> ~/.ssh/known_hosts
+      
+      
+    - name: clone static_site_repo
+      run: |
+        cd ..
+        mkdir static_site_repo                      
+        git clone git@github.com:sangkuAhn/sangkuAhn.github.io.git static_site_repo
+    - uses: actions/checkout@v2
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v2
+      with:
+        python-version: ${{ matrix.python-version }}
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r py/requirements.txt
+    
+    - name: python run
+      run: |
+        python py/ask_cuppang.py
+      env: 
+        CUP_KEY: ${{ secrets.CUP_KEY }}
+        DB_INFO: ${{ secrets.DB_INFO }}
+        
+    - name: push changed files    
+      run: |
+        cd ../static_site_repo
+        git add --all
+        git commit -m "autocommit"        
+        git push -u origin main
