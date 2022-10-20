@@ -58,4 +58,4 @@ jobs:
         cd ../static_site_repo
         git add --all
         git commit -m "autocommit"        
-        git push -u origin main
+        git push -u origin master
