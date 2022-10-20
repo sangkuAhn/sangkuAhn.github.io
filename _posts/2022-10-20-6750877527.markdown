@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "샵159 만능 데일리 기본 라운드 슬림 골지 긴팔티셔츠 2개" 
+description: 샵159 만능 데일리 기본  ..
+date: 2022-10-20 17:10:59 
+img: https://static.coupangcdn.com/image/vendor_inventory/f2e9/d10332229fb04ba8d44a9235b451bf0f4b04246df2dc652c98c5dc879cb1.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6750877527&itemId=15788154980&vendorItemId=83199169175&traceid=V0-113-7f8699efff9583ab 
+categories: [1001] 
+color: FF1744 
+price: 15900 
+author: Ask View Shop 
+---
+ 
