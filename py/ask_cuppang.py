@@ -10,7 +10,7 @@ import json
 import re
 import urllib.request
 from urllib.parse import urlencode
-import ask_db
+import mysql_ask_db
 
 import make_post
 import socket
@@ -273,34 +273,37 @@ def initTable():
 def writeUpdate(category_cd):
 	ad.update (f''' UPDATE ask_db.TB_CUPPANG_CATEGORY SET WRITE_YN = 'Y' WHERE CATEGORY_CD = '{category_cd}' ''')
 
-if __name__ == '__main__':	
+
+if __name__ == '__main__':
+	
 	best = bestCuppang()
 	isOk = True
-	ad = ask_db.AskDb(host,user,pw,db)
-	try:				
-		# for category_cd in BEST_CATEGORY_LIST:
-		category_cd = getWriteCount()
-		#print("category_cd ... S %s",(category_cd))
-		isOk = best.searchInsert(category_cd)		
-		print("isOk ",isOk)
-		
-		if isOk:
-			m = make_post.MakeSite("https://sangkuahn.github.io",category_cd,ad)
-			m.createPost()	
-			m.createIndexPage()	
-			if category_cd == '1001':
+	ad = mysql_ask_db.AskDb(host,user,pw,db)
+	try:
+		BEST_CATEGORY_LIST = []
+		BEST_CATEGORY_LIST = [getWriteCount()]				
+		for category_cd in BEST_CATEGORY_LIST:
+			#print("category_cd ... S %s",(category_cd))
+			isOk = best.searchInsert(category_cd)		
+			print("isOk ",isOk)
+			# quit()
+			if isOk:
+				m = make_post.MakeSite("https://sangkuahn.github.io",category_cd,ad)
+				m.createPost()	
+				m.createIndexPage()	
+				# if category_cd == '1001':
 				print("category_cd : ",category_cd)
 				m.mainPage()
 				m.makePowerLink()
 				#quit()		
-			
-		else:				
-			print("getCupBestItme not change or insert")
-		#quit()			
-		ad.closeConn()			
-		#print("closeConn")
-		print("category_cd ... E  timesleep 60*7 ", category_cd)
-		# time.sleep(60*7)
+				
+			else:				
+				print("getCupBestItme not change or insert")
+			#quit()			
+			ad.closeConn()			
+			#print("closeConn")
+			print("category_cd ... E  timesleep 60*7 ", category_cd)
+			# time.sleep(60*7)
 			
 
 	except Exception as e:
@@ -308,4 +311,3 @@ if __name__ == '__main__':
 		#time.sleep(60*60)
 		raise e
 	# os.system(r'/usr/local/share/sangkuAhn.github.io/start_auto_push.sh')	
-
