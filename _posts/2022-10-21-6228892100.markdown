@@ -2,7 +2,7 @@
 layout: post 
 title:  "가비진 여성용 따뜻 융털 기모 롱버전 세미부츠컷 밴딩팬츠" 
 description: 가비진 여성용 따뜻 융털 기 ..
-date: 2022-10-21 22:01:38 
+date: 2022-10-21 22:01:38+0900 
 img: https://static.coupangcdn.com/image/vendor_inventory/89d8/58d0d0d649bf61b49bf56a958114e348a33325f18b0e4132f9190886d448.jpg 
 linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=6228892100&itemId=12506848922&vendorItemId=79775415821&traceid=V0-113-cdf7105850ee6337 
 categories: [1001] 
