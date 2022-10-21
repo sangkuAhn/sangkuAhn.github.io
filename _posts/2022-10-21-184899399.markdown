@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "그릿(100쇄 기념 리커버 에디션):IQ 재능 환경을 뛰어넘는 열정적 끈기의 힘, 비즈니스북스" 
+description: 그릿(100쇄 기념 리커버  ..
+date: 2022-10-21 11:18:25 
+img: https://static.coupangcdn.com/image/retail-product-api/A00077021/2013879/3278467/main/9791162540633_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=184899399&itemId=529058712&vendorItemId=4387816753&traceid=V0-113-3d806e7121982dbb 
+categories: [1019] 
+color: f44336 
+price: 14400 
+author: Ask View Shop 
+---
+ 

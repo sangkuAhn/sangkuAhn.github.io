@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "마음세탁소:하루 20분 내 마음때 씻어내기, 정신세계사" 
+description: 마음세탁소:하루 20분 내  ..
+date: 2022-10-21 11:18:25 
+img: https://static.coupangcdn.com/image/retail-product-api/A00077021/342329/684216/main/2ba45320014530576dff86ca952ddaf7368b9a06d6dfde2c3034ac8b60fa1fac.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=35271084&itemId=130805995&vendorItemId=3274503176&traceid=V0-113-6f70765e824a20e0 
+categories: [1019] 
+color: FF6F00 
+price: 13500 
+author: Ask View Shop 
+---
+ 

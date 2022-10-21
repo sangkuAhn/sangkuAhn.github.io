@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "사람을 얻는 지혜, 타커스, 발타자르 그라시안" 
+description: 사람을 얻는 지혜, 타커스, ..
+date: 2022-10-21 11:18:25 
+img: https://static.coupangcdn.com/image/retail-product-api/A00077021/64255496/71380886/main/9788998658335_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=6063794357&itemId=11162817684&vendorItemId=78440961748&traceid=V0-113-7d6bb85ba4af217d 
+categories: [1019] 
+color: CF36BB 
+price: 12420 
+author: Ask View Shop 
+---
+ 

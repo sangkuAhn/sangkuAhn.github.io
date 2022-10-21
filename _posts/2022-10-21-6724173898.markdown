@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "잘될 수밖에 없는 너에게, 최서영, 북로망스" 
+description: 잘될 수밖에 없는 너에게,  ..
+date: 2022-10-21 11:18:25 
+img: https://static.coupangcdn.com/image/retail-product-api/A00077021/110306954/122641190/main/9791191891201_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=6724173898&itemId=15646244412&vendorItemId=82862254482&traceid=V0-113-9865685967d7e27e 
+categories: [1019] 
+color: f44336 
+price: 14400 
+author: Ask View Shop 
+---
+ 

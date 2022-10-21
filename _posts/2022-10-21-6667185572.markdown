@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "불편한 편의점 2:김호연 장편소설, 김호연, 나무옆의자" 
+description: 불편한 편의점 2:김호연 장 ..
+date: 2022-10-21 11:18:25 
+img: https://static.coupangcdn.com/image/retail-product-api/A00077021/104957651/117025178/main/9791161571379_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=6667185572&itemId=15326571263&vendorItemId=82546882675&traceid=V0-113-9b53a2313ba3b98d 
+categories: [1019] 
+color: A566FF 
+price: 12600 
+author: Ask View Shop 
+---
+ 

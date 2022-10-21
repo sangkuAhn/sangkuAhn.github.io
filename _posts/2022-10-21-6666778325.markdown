@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "하얼빈:김훈 장편소설, 문학동네, 김훈" 
+description: 하얼빈:김훈 장편소설, 문학 ..
+date: 2022-10-21 11:18:25 
+img: https://static.coupangcdn.com/image/retail-product-api/A00077021/104872766/116936116/main/9788954699914_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=6666778325&itemId=15324634622&vendorItemId=82544956899&traceid=V0-113-bb099eaeda5254ab 
+categories: [1019] 
+color: 4374D9 
+price: 14400 
+author: Ask View Shop 
+---
+ 

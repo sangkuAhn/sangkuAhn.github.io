@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "에그박사, 7권, 아이세움" 
+description: 에그박사, 7권, 아이세움 ..
+date: 2022-10-21 11:18:25 
+img: https://static.coupangcdn.com/image/retail/images/2022/06/28/10/2/dede0cb7-fb99-4154-b3e7-7e0384135c83.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=6609861852&itemId=14983767562&vendorItemId=82206779883&traceid=V0-113-7d855d52f24ca345 
+categories: [1019] 
+color: 353535 
+price: 13050 
+author: Ask View Shop 
+---
+ 

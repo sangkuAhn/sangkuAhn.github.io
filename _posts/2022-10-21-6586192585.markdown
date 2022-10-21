@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "포켓몬 한글카드 100, 예림당" 
+description: 포켓몬 한글카드 100, 예 ..
+date: 2022-10-21 11:18:25 
+img: https://static.coupangcdn.com/image/retail/images/124899695755573-641796c2-7b95-49d3-95fb-cda02790a4c0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=6586192585&itemId=14841692382&vendorItemId=82080951953&traceid=V0-113-35013cc495c71edb 
+categories: [1019] 
+color: 353535 
+price: 14000 
+author: Ask View Shop 
+---
+ 
