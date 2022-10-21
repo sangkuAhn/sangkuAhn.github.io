@@ -473,7 +473,7 @@ class MakeSite:
 		post +="""layout: post \n"""			
 		post +="""title:  "%s" \n""" % (self.title_nm)
 		post +="""description: %s ..\n""" % (self.title_nm[:15])
-		post +="""date: %s \n""" % ( self.toDay)
+		post +="""date: %s+0900 \n""" % ( self.toDay)
 		post +="""img: %s \n"""	%(self.img_url)
 		post +="""linkUrl: %s \n""" 	% (self.linkUrl)
 		post +="""categories: [%s] \n""" % (self.category)
