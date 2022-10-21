@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아이시스 8.0 생수, 2L, 24개" 
+description: 아이시스 8.0 생수, 2L ..
+date: 2022-10-21 17:41:59 
+img: https://static.coupangcdn.com/image/retail/images/8058883564375271-136c9ed2-c10d-4c68-b486-e477d45a832a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=6748251873&itemId=14502777312&vendorItemId=72077387727&traceid=V0-113-185e06190f7fce40 
+categories: [1024] 
+color: F361A6 
+price: 17800 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "티젠 파인애플 콤부차, 5g, 30개" 
+description: 티젠 파인애플 콤부차, 5g ..
+date: 2022-10-21 17:41:59 
+img: https://static.coupangcdn.com/image/retail/images/8487809848601573-ccd3f600-e092-423a-b8bd-0de8daa49dc8.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=6456346159&itemId=14034966876&vendorItemId=81283083888&traceid=V0-113-3603369f1fc2f025 
+categories: [1024] 
+color: A6A6A6 
+price: 13000 
+author: Ask View Shop 
+---
+ 
