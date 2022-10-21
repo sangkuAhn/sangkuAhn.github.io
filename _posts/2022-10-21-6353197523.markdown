@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "뉴로얄 트럼프카드 2p, 색상 랜덤" 
+description: 뉴로얄 트럼프카드 2p, 색 ..
+date: 2022-10-21 14:18:32 
+img: https://static.coupangcdn.com/image/retail/images/2787451568491647-f5b476ac-6126-4621-9255-b1b585639207.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=6353197523&itemId=13376800545&vendorItemId=3285830840&traceid=V0-113-a3fdcf9e3f4aede1 
+categories: [1020] 
+color: 9E9D24 
+price: 4230 
+author: Ask View Shop 
+---
+ 
