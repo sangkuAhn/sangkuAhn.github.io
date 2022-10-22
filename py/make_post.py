@@ -58,7 +58,7 @@ class MakeSite:
 #####################################################################################################################################
 # calss Init
 	def makePowerLink(self):
-		resultLink = self.ad.selectAll("""SELECT USER_ID, POST_NO, KEYWORD_NM FROM ask_db.TB_BLOG_BACK_LINK ORDER BY POST_NO DESC LIMIT 5""" )
+		resultLink = self.ad.selectAll("""SELECT USER_ID, POST_NO, KEYWORD_NM FROM ask_db.TB_BLOG_BACK_LINK ORDER BY rand() DESC LIMIT 5""" )
 		page =""" <hr>
 				  <p><h2>[파워링크]</h2></p>
 					<div id="post_list" style="margin: 5px 5px 5px 5px;;text-align: left;"><span>"""
