@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "관계를 읽는 시간:나의 관계를 재구성하는 바운더리 심리학, 더퀘스트" 
+description: 관계를 읽는 시간:나의 관계 ..
+date: 2022-10-22 15:45:12+0900 
+img: https://static.coupangcdn.com/image/retail/images/2018/10/19/12/2/d1117cf0-a64c-4a6f-aa85-8d450c9ba372.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=148703972&itemId=430006313&vendorItemId=4060194309&traceid=V0-113-3b767ee91c5bdbbd 
+categories: [1019] 
+color: F361A6 
+price: 14400 
+author: Ask View Shop 
+---
+ 
