@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "키메라제이 삼각퍼프 대용량 100p, 1개" 
+description: 키메라제이 삼각퍼프 대용량  ..
+date: 2022-10-23 19:36:28+0900 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/10/23/3133967361/6038b95b-80fb-438a-9f87-297843078644.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=19931642&itemId=79251218&vendorItemId=3133967361&traceid=V0-113-c3fd5f1fb59e3396 
+categories: [1010] 
+color: A566FF 
+price: 8040 
+author: Ask View Shop 
+---
+ 

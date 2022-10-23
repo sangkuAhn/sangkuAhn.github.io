@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "휴족시간 쿨링시트, 6개입, 8개" 
+description: 휴족시간 쿨링시트, 6개입, ..
+date: 2022-10-23 19:36:28+0900 
+img: https://static.coupangcdn.com/image/rs_quotation_api/stlffp61/d7dbefce30724408b1814173a1c61e31.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=5306503135&itemId=7675568764&vendorItemId=74965880396&traceid=V0-113-d6793e844602a366 
+categories: [1010] 
+color: 4374D9 
+price: 17500 
+author: Ask View Shop 
+---
+ 
