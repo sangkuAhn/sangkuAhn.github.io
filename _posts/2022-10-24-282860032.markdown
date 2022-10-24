@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "클루지:생각의 역사를 뒤집는 기막힌 발견, 갤리온" 
+description: 클루지:생각의 역사를 뒤집는 ..
+date: 2022-10-24 16:10:37+0900 
+img: https://static.coupangcdn.com/image/retail-product-api/A00077021/3278120/4765313/main/9788901090184_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=282860032&itemId=897828238&vendorItemId=5253394953&traceid=V0-113-cb2c4abce6a3f536 
+categories: [1019] 
+color: 4374D9 
+price: 12420 
+author: Ask View Shop 
+---
+ 
