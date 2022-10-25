@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "청정원 맛술, 1개, 830ml" 
+description: 청정원 맛술, 1개, 830 ..
+date: 2022-10-25 23:45:05+0900 
+img: https://static.coupangcdn.com/image/retail/images/8243463774793927-0d50cd57-a766-421f-8bd8-fecc98046bd5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=5760586837&itemId=9754615935&vendorItemId=3037177116&traceid=V0-113-bb40146137a47171 
+categories: [1012] 
+color: A566FF 
+price: 3410 
+author: Ask View Shop 
+---
+ 
