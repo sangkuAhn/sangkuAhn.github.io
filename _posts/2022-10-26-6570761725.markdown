@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "말의 알고리즘:부와 행복을 끌어당기는, 한밤의책, 고은미김정호" 
+description: 말의 알고리즘:부와 행복을  ..
+date: 2022-10-26 15:41:44+0900 
+img: https://static.coupangcdn.com/image/retail-product-api/A00077021/99982224/111512484/main/9791191731255_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=6570761725&itemId=14748357066&vendorItemId=81988751618&traceid=V0-113-dd2f084fb43bd4dd 
+categories: [1019] 
+color: 006064 
+price: 13500 
+author: Ask View Shop 
+---
+ 
