@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "더클래스 실크스킨 기능성 코팅제 퀵 디테일러, 500ml, 1개" 
+description: 더클래스 실크스킨 기능성 코 ..
+date: 2022-10-26 14:03:45+0900 
+img: https://static.coupangcdn.com/image/retail/images/208351605969218-7dbebc4a-4808-42ed-8ba2-ae2357b21267.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=6629356925&itemId=5110621171&vendorItemId=72420151531&traceid=V0-113-52c7e287104c27d5 
+categories: [1018] 
+color: 5A8DF3 
+price: 14980 
+author: Ask View Shop 
+---
+ 
