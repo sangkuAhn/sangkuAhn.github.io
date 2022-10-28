@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "퀀트 투자 무작정 따라하기, 강환국, 길벗" 
+description: 퀀트 투자 무작정 따라하기, ..
+date: 2022-10-28 15:38:10+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/10d8/6988224900c63aacbeba43073907386c41a29b0fd4d12bc3690603ac124c.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=6835846060&itemId=16240651880&vendorItemId=83289895869&traceid=V0-113-2df43a4fa05b7337 
+categories: [1019] 
+color: F361A6 
+price: 22500 
+author: Ask View Shop 
+---
+ 
