@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "매일유업 매일두유 고단백, 24개, 190ml" 
+description: 매일유업 매일두유 고단백,  ..
+date: 2022-10-31 23:37:42+0900 
+img: https://static.coupangcdn.com/image/retail/images/7895737569891018-6df92c95-139d-402e-8c21-3cfb7f0bd5f8.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=6579546845&itemId=14800669618&vendorItemId=75943171647&traceid=V0-113-7dbc3eca51a583bd 
+categories: [1012] 
+color: 353535 
+price: 14500 
+author: Ask View Shop 
+---
+ 
