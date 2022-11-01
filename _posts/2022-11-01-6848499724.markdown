@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "시니맘의 오늘도 완밥 유아식:영양과 간편함을 사로잡은 완밥 보장 유아식 레시피, 박지혜, 혜지원" 
+description: 시니맘의 오늘도 완밥 유아식 ..
+date: 2022-11-01 15:42:57+0900 
+img: https://static.coupangcdn.com/image/retail-product-api/A00077021/120634532/133587478/main/9791167640253_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=6848499724&itemId=16305608766&vendorItemId=83497894383&traceid=V0-113-74489b4b22e21b3b 
+categories: [1019] 
+color: 5A8DF3 
+price: 17550 
+author: Ask View Shop 
+---
+ 
