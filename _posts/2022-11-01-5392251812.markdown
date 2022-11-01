@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "테일러 푸룬 딥워터, 180ml, 4개" 
+description: 테일러 푸룬 딥워터, 180 ..
+date: 2022-11-01 22:07:13+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/1d36/d6f380d9b903856f13eb5d24ecba5a29f34d2cc47e06fee3136c27ed082c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=5392251812&itemId=514762819&vendorItemId=82475941353&traceid=V0-113-a516ab424dc5b41b 
+categories: [1024] 
+color: 9E9D24 
+price: 12570 
+author: Ask View Shop 
+---
+ 
