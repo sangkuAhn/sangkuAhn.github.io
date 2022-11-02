@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "엉클탁 국산 찹쌀, 1개, 5kg" 
+description: 엉클탁 국산 찹쌀, 1개,  ..
+date: 2022-11-02 23:35:40+0900 
+img: https://static.coupangcdn.com/image/retail/images/28807381639039-8b0dd76e-00c4-4592-9205-fa8c8d0ee269.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=6131720357&itemId=12329167674&vendorItemId=79599171350&traceid=V0-113-e3e7f6c339ae6e41 
+categories: [1012] 
+color: 4374D9 
+price: 11900 
+author: Ask View Shop 
+---
+ 
