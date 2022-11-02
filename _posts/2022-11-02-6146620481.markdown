@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "웰라쥬 리얼 히알루로닉 블루 앰플, 100ml, 1개" 
+description: 웰라쥬 리얼 히알루로닉 블루 ..
+date: 2022-11-02 19:35:21+0900 
+img: https://static.coupangcdn.com/image/retail/images/7957958683872060-344d894e-109c-430e-9e0a-bababd93c19f.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF2901789&subid=ahnPublicAsk&pageKey=6146620481&itemId=11833698112&vendorItemId=79107118397&traceid=V0-113-891a61920c470cf5 
+categories: [1010] 
+color: FF6F00 
+price: 22300 
+author: Ask View Shop 
+---
+ 
