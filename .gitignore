@@ -6,4 +6,6 @@ _site/
 .sh
 .pyc
 *.lock
-
+/vendor/
+vendor/
+*.pyc
