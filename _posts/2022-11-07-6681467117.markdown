@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "예쁘게 말하는 네가 좋다:마음을 움직이는 대화의 온도, 김범준, 포레스트북스" 
+description: 예쁘게 말하는 네가 좋다:마 ..
+date: 2022-11-07 15:36:06+0900 
+img: https://static.coupangcdn.com/image/retail-product-api/A00077021/105697815/117818284/main/9791191347944_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6681467117&itemId=15408403500&vendorItemId=82628261459&traceid=V0-113-b3bdd9e4439aec37 
+categories: [1019] 
+color: 5A8DF3 
+price: 14220 
+author: Ask View Shop 
+---
+ 
