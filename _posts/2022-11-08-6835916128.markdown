@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "앗뜨거 발열매트, 그레이" 
+description: 앗뜨거 발열매트, 그레이 ..
+date: 2022-11-09 05:32:39+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/da9d/ff3565114e0f574a2b9f02ea848c4a4bf1c30872fb6cb3742c705b6af95d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6835916128&itemId=16240954078&vendorItemId=83497231358&traceid=V0-113-e44fda69ba38b4f5 
+categories: [1015] 
+color: 35B62C 
+price: 88000 
+author: Ask View Shop 
+---
+ 
