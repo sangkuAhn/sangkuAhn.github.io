@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "삼성전자 마이크로SD카드 EVO PLUS 256G MB-MC256KA/KR, 256GB" 
+description: 삼성전자 마이크로SD카드 E ..
+date: 2022-11-09 07:30:43+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/75ee/7502e21fb53caa302f97974ae14bfe9ba235b58ef441d677d509c0e95def.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6681577125&itemId=15408932995&vendorItemId=82628786609&traceid=V0-113-2f7d9c91b0b036f9 
+categories: [1016] 
+color: FF6F00 
+price: 29500 
+author: Ask View Shop 
+---
+ 

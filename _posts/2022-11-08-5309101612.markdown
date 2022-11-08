@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "플레이고 USB 메모리 P50, 64GB" 
+description: 플레이고 USB 메모리 P5 ..
+date: 2022-11-09 07:30:43+0900 
+img: https://static.coupangcdn.com/image/retail/images/8504287650534015-c509471a-e97d-4992-ba9b-ec4e2aad43f6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5309101612&itemId=7687093185&vendorItemId=74977375673&traceid=V0-113-09bac7b5f3f4541f 
+categories: [1016] 
+color: F15F5F 
+price: 5650 
+author: Ask View Shop 
+---
+ 
