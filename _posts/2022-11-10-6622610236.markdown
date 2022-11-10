@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "쿠팡수입/ 빅트랙 베이직 게이밍 의자 A-01, 블랙 화이트" 
+description: 쿠팡수입/ 빅트랙 베이직 게 ..
+date: 2022-11-11 05:32:00+0900 
+img: https://static.coupangcdn.com/image/retail/images/2021/12/31/15/1/2ae04f4c-3dc8-40e8-bd20-0a01e55a179f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6622610236&itemId=12768357170&vendorItemId=80034519330&traceid=V0-113-fa27b71cf169f4da 
+categories: [1015] 
+color: 5A8DF3 
+price: 89000 
+author: Ask View Shop 
+---
+ 
