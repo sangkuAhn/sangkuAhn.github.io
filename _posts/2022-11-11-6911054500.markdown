@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "에듀윌 답만보는 지게차운전기능사 필기" 
+description: 에듀윌 답만보는 지게차운전기 ..
+date: 2022-11-11 15:40:54+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/8e19/e819617845be7353933b5160533f44de6f82f96c3512852fb847714f305e.JPG 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6911054500&itemId=16656236947&vendorItemId=81278472813&traceid=V0-113-2270f52e8f13c3fb 
+categories: [1019] 
+color: FF6F00 
+price: 13050 
+author: Ask View Shop 
+---
+ 
