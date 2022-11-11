@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "포켓몬스터W 메모리 게임, 혼합색상" 
+description: 포켓몬스터W 메모리 게임,  ..
+date: 2022-11-11 17:38:19+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/28ac/7ebbed0a742a0fa929bdee5fe980dac74e3f4cf9a495836b2b79c0192f5c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5612039917&itemId=9072576269&vendorItemId=78873614149&traceid=V0-113-351fae9417d4be09 
+categories: [1020] 
+color: 7E57C2 
+price: 10690 
+author: Ask View Shop 
+---
+ 

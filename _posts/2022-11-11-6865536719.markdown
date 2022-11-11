@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "얌얌핑 피규어, 혼합색상" 
+description: 얌얌핑 피규어, 혼합색상 ..
+date: 2022-11-11 17:38:19+0900 
+img: https://static.coupangcdn.com/image/retail/images/2022/10/24/14/9/e7a7b2d4-cc7d-4e47-9474-c8004bf1f2c5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6865536719&itemId=16408484156&vendorItemId=83599555835&traceid=V0-113-d51519124ff0dc73 
+categories: [1020] 
+color: 4CAF50 
+price: 12400 
+author: Ask View Shop 
+---
+ 
