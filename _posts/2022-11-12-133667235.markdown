@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "만드는 초콜렛 초코펜 세트, 20g, 8개" 
+description: 만드는 초콜렛 초코펜 세트, ..
+date: 2022-11-12 23:26:13+0900 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/12/19/3955808403/24b61565-b13d-4b98-9700-b8558e56e65f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=133667235&itemId=392727508&vendorItemId=4885915496&traceid=V0-113-04ed684bb4a39729 
+categories: [1012] 
+color: A57F92 
+price: 7190 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "삼양 불닭볶음면 봉지라면, 5개" 
+description: 삼양 불닭볶음면 봉지라면,  ..
+date: 2022-11-12 23:26:13+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/919c/706988190932991e6501343de8cd2f64b70c785d802fbd575075c1adfd2c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=117523085&itemId=781065123&vendorItemId=74566189904&traceid=V0-113-97dc63e86595a230 
+categories: [1012] 
+color: FF1744 
+price: 6500 
+author: Ask View Shop 
+---
+ 
