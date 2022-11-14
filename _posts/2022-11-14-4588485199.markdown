@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "세븐디 휴대용 전기모기채, 그린" 
+description: 세븐디 휴대용 전기모기채,  ..
+date: 2022-11-15 05:31:00+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/ee0f/aab355ff58160ff29e4069e255c9499b5a3349d72a57de809119bed05097.JPG 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4588485199&itemId=5637068962&vendorItemId=80996919733&traceid=V0-113-fbc674aab8f65e60 
+categories: [1015] 
+color: 4374D9 
+price: 19500 
+author: Ask View Shop 
+---
+ 
