@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "닌텐도 스위치 포켓몬스터 바이올렛 - 11월 17일 발송" 
+description: 닌텐도 스위치 포켓몬스터 바 ..
+date: 2022-11-15 17:36:38+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/02b7/d3ecaf503581f9eb5606c863e6330e12a98ab8db119b6fd2d6524c2b7bfc.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6900231385&itemId=16593103650&vendorItemId=83778376571&traceid=V0-113-31b6bac7fbe84ee4 
+categories: [1020] 
+color: A566FF 
+price: 64700 
+author: Ask View Shop 
+---
+ 
