@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "미트리 프로틴바 카카오초코, 40g, 20개" 
+description: 미트리 프로틴바 카카오초코, ..
+date: 2022-11-15 11:13:22+0900 
+img: https://static.coupangcdn.com/image/retail/images/7800038495699009-f004e8df-6a37-42cd-9da0-75c12dc3b976.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1792866157&itemId=3050613022&vendorItemId=71038625329&traceid=V0-113-e0d1fa9b504b5b22 
+categories: [1017] 
+color: A57F92 
+price: 25110 
+author: Ask View Shop 
+---
+ 
