@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "Good given 종이봉투 중, 100매, 크라프트" 
+description: Good given 종이봉투 ..
+date: 2022-11-17 19:30:53+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/40d4/d93d7328e777ead64f28f0c08545ce7084a90d2b720c09328490feed365a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6925449361&itemId=16738983179&vendorItemId=83563813963&traceid=V0-113-198d06009c225de4 
+categories: [1021] 
+color: FF6F00 
+price: 6650 
+author: Ask View Shop 
+---
+ 

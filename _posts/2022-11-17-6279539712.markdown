@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "펜텔/ 그라프기어샤프 1000 PG1015/, 1개, 0.5mm" 
+description: 펜텔/ 그라프기어샤프 100 ..
+date: 2022-11-17 19:30:53+0900 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/09/27/3006391139/caf0f9aa-bf6a-4dc0-9d92-40c96e749b3b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6279539712&itemId=2269998822&vendorItemId=70226653511&traceid=V0-113-da591195998a0f81 
+categories: [1021] 
+color: 006064 
+price: 10660 
+author: Ask View Shop 
+---
+ 
