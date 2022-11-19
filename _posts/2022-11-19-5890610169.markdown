@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "곰곰 칼집 비엔나 소시지, 1kg, 1개" 
+description: 곰곰 칼집 비엔나 소시지,  ..
+date: 2022-11-19 19:29:37+0900 
+img: https://static.coupangcdn.com/image/retail/images/967366236599612-f7e56943-d8ab-4cc5-aeb0-24cea6d5ceb6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5890610169&itemId=10357252789&vendorItemId=77639416097&traceid=V0-113-0daa27050d7bb4f9 
+categories: [1024] 
+color: D9418C 
+price: 7990 
+author: Ask View Shop 
+---
+ 
