@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "일상공감 쓱싹펀지, 2개, 퍼플" 
+description: 일상공감 쓱싹펀지, 2개,  ..
+date: 2022-11-21 03:31:52+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/a2e5/50060d903b0523b75f2e49d275a2902b0acbbceb5b681a9e0292f2e09cfd.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6586337233&itemId=14842492819&vendorItemId=82081738174&traceid=V0-113-21af5ff3de87db3e 
+categories: [1015] 
+color: D9418C 
+price: 11610 
+author: Ask View Shop 
+---
+ 
