@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "ipTIME 유무선 공유기, A604SE" 
+description: ipTIME 유무선 공유기, ..
+date: 2022-11-21 05:28:39+0900 
+img: https://static.coupangcdn.com/image/retail/images/2022/10/17/16/0/c1fc0349-8fbc-4f95-9c47-9550003ce7c6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6848341813&itemId=16304905764&vendorItemId=83497200523&traceid=V0-113-70e79c3b9d3ff971 
+categories: [1016] 
+color: f44336 
+price: 37300 
+author: Ask View Shop 
+---
+ 
