@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "11/17발송/닌텐도 스위치 포켓몬스터 스칼렛 바이올렛 한글판 예약" 
+description: 11/17발송/닌텐도 스위치 ..
+date: 2022-11-21 15:36:10+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/3d13/0f8c6395ac3baefd0fd7f0b6c9c7c09b289fb3e2cdf910b1060a23e14ecd.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6843119444&itemId=16278105181&vendorItemId=83740952335&traceid=V0-113-424fb6756465310c 
+categories: [1020] 
+color: FF1744 
+price: 64800 
+author: Ask View Shop 
+---
+ 
