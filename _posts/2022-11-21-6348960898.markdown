@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "진짜 쓰는 실무 엑셀:유튜브 대표 엑셀 채널 오빠두가 알려 주는, 제이펍" 
+description: 진짜 쓰는 실무 엑셀:유튜브 ..
+date: 2022-11-21 13:37:42+0900 
+img: https://static.coupangcdn.com/image/retail-product-api/A00077021/81780580/91831431/main/9791191600704_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6348960898&itemId=13351269462&vendorItemId=80606332740&traceid=V0-113-52da449191e71541 
+categories: [1019] 
+color: 03A9F4 
+price: 18900 
+author: Ask View Shop 
+---
+ 
