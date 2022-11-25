@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "A형 기타 스탠드, 1개" 
+description: A형 기타 스탠드, 1개 ..
+date: 2022-11-25 11:00:29+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/fd42/d6031f953c4ffef821633cab3cb6d6dcd1e7cc53df7206d2f24f2722c11c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6689441359&itemId=15454143591&vendorItemId=83044893124&traceid=V0-113-a069d17e54615e3d 
+categories: [1020] 
+color: 1294AB 
+price: 38600 
+author: Ask View Shop 
+---
+ 
