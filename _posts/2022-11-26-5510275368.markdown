@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "발 핫팩 2p, 50개" 
+description: 발 핫팩 2p, 50개 ..
+date: 2022-11-26 23:23:43+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/75af/60ac54e9e5aacefb40aee613f36c075cf6e2d8c0e69cde5f6ceff66a801a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5510275368&itemId=8586670525&vendorItemId=83773003246&traceid=V0-113-f07fde98cb0533e6 
+categories: [1017] 
+color: F361A6 
+price: 12200 
+author: Ask View Shop 
+---
+ 
