@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "귀여운 잔망루피 붕어빵 인형" 
+description: 귀여운 잔망루피 붕어빵 인형 ..
+date: 2022-11-27 05:26:51+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/6d55/1fb13a30da88d389ecad8b7ac31a086561594890b2c87e8e9f26571f48ed.JPG 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6910243217&itemId=16650650003&vendorItemId=83834582388&traceid=V0-113-5e2e1b6d505a85bf 
+categories: [1020] 
+color: 35B62C 
+price: 20000 
+author: Ask View Shop 
+---
+ 
