@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "인디고 2023 프리즘 위클리 날짜형 다이어리, 민트라떼" 
+description: 인디고 2023 프리즘 위클 ..
+date: 2022-11-29 03:32:16+0900 
+img: https://static.coupangcdn.com/image/rs_quotation_api/4ok7aw2i/95cb4cd05db94e34a90790cb8697a39a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6697835015&itemId=15502276459&vendorItemId=82721605363&traceid=V0-113-f528f17db8d08b66 
+categories: [1021] 
+color: 1294AB 
+price: 9960 
+author: Ask View Shop 
+---
+ 
