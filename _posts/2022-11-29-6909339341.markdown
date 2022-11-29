@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "레쓰비 마일드 캔커피, 160ml, 30캔" 
+description: 레쓰비 마일드 캔커피, 16 ..
+date: 2022-11-30 05:26:38+0900 
+img: https://static.coupangcdn.com/image/retail/images/442984634496859-753b8dc0-5698-42cf-b1b1-ac8c8d5ae554.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6909339341&itemId=16645601964&vendorItemId=3375395073&traceid=V0-113-dd4f222433c3ec68 
+categories: [1012] 
+color: 35B62C 
+price: 10870 
+author: Ask View Shop 
+---
+ 
