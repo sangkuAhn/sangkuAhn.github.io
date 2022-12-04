@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "2023 한눈에 가계부, 솜씨" 
+description: 2023 한눈에 가계부, 솜 ..
+date: 2022-12-04 13:30:17+0900 
+img: https://static.coupangcdn.com/image/retail/images/2022/09/27/11/1/c00be1eb-1cf6-4b34-86fe-8f70e51ff0c5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6804083802&itemId=16073985305&vendorItemId=83274126959&traceid=V0-113-5c6ead1ea69c249b 
+categories: [1019] 
+color: 006064 
+price: 8960 
+author: Ask View Shop 
+---
+ 
