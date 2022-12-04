@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "닌텐도 스위치 포켓몬스터 바이올렛 한글판 새제품" 
+description: 닌텐도 스위치 포켓몬스터 바 ..
+date: 2022-12-04 15:29:13+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/23e2/f1795969924dba6389daf28c351d48a123f2e400284ea82f87b791dbf039.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6932581626&itemId=16779736066&vendorItemId=84128751054&traceid=V0-113-a86b8aaabc3dbe5c 
+categories: [1020] 
+color: f44336 
+price: 63000 
+author: Ask View Shop 
+---
+ 
