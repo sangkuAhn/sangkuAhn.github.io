@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "캐럿 남성용 융털 기모 밴딩 팬츠" 
+description: 캐럿 남성용 융털 기모 밴딩 ..
+date: 2022-12-06 21:47:55+0900 
+img: https://static.coupangcdn.com/image/retail/images/7780463583850058-a82d6e8f-af6a-494b-9db1-289535681332.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6053369733&itemId=11101055111&vendorItemId=78380395150&traceid=V0-113-f2a9a24991b2eea2 
+categories: [1002] 
+color: FF6F00 
+price: 9900 
+author: Ask View Shop 
+---
+ 
