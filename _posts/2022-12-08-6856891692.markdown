@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "일상공감 따뜻하귀" 
+description: 일상공감 따뜻하귀 ..
+date: 2022-12-08 17:31:05+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/8717/07a620133bcd080a6c50e2d46e740b977badbf84f1e72bea48526a95d565.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6856891692&itemId=16355054508&vendorItemId=83546867427&traceid=V0-113-a3d42773780ccb4f 
+categories: [1002] 
+color: BF360C 
+price: 12900 
+author: Ask View Shop 
+---
+ 
