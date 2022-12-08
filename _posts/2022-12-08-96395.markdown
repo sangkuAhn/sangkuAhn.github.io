@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "담터 둥굴레차, 120g, 1개" 
+description: 담터 둥굴레차, 120g,  ..
+date: 2022-12-08 11:52:48+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/696a/1acb73081a2ad7a516bddfd44527368bf255cb6ccbc1ea614256538dda21.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=96395&itemId=188484&vendorItemId=84121425871&traceid=V0-113-8d09a500597f67b4 
+categories: [1024] 
+color: A566FF 
+price: 7890 
+author: Ask View Shop 
+---
+ 
