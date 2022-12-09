@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코리아보드게임즈 도블 포켓몬 보드게임, 혼합색상" 
+description: 코리아보드게임즈 도블 포켓몬 ..
+date: 2022-12-10 03:29:53+0900 
+img: https://static.coupangcdn.com/image/retail/images/2022/10/26/11/3/191bb10c-c0af-466c-b7b9-55675150e1c1.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6869792095&itemId=16430142117&vendorItemId=83620946529&traceid=V0-113-792c7b709469448b 
+categories: [1020] 
+color: A566FF 
+price: 23670 
+author: Ask View Shop 
+---
+ 
