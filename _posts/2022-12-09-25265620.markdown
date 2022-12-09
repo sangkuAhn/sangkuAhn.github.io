@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "수력충전 중등 수학1(상), 수경출판사" 
+description: 수력충전 중등 수학1(상), ..
+date: 2022-12-10 01:34:47+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/8acb/ced220cdbf43e9e4ed14351a35727e182d39c5c3afa3ff7d0eb750bbef3d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=25265620&itemId=98192970&vendorItemId=3179053449&traceid=V0-113-626ad3465ec2567f 
+categories: [1019] 
+color: 4A148C 
+price: 9900 
+author: Ask View Shop 
+---
+ 
