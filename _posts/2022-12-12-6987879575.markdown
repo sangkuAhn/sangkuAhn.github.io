@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "K2 베이직 귀마개 IUW19907, 네이비" 
+description: K2 베이직 귀마개 IUW1 ..
+date: 2022-12-12 10:53:34+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/4822/113f52f0b94567dee3085f59d06a76b847d77face6d7298e34c105344f0c.JPG 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6987879575&itemId=17092952847&vendorItemId=84229838035&traceid=V0-113-5f2dfd3a9d349e4f 
+categories: [1002] 
+color: A566FF 
+price: 9100 
+author: Ask View Shop 
+---
+ 
