@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "렉스템 밍크 목도리 시클라 2P" 
+description: 렉스템 밍크 목도리 시클라  ..
+date: 2022-12-14 03:29:54+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/57f2/a0ba14723a625e8b54da6beaa1810c6e65f3e5f9b515393f27e038688cb6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6222079903&itemId=12457043789&vendorItemId=79726043195&traceid=V0-113-eb7f4e2753336c13 
+categories: [1001] 
+color: 006064 
+price: 12930 
+author: Ask View Shop 
+---
+ 
