@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "일월 따끈 핫팩 100매" 
+description: 일월 따끈 핫팩 100매 ..
+date: 2022-12-13 13:31:20+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/ea1a/adb09dc080e571ee9ffc4226f323b2f3700a413f3e30d9cbb51a45ff06ae.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6870646198&itemId=16434519976&vendorItemId=84202780103&traceid=V0-113-ca696efce37e0d50 
+categories: [1017] 
+color: 006064 
+price: 62180 
+author: Ask View Shop 
+---
+ 
