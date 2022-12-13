@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "커널형 버즈 무선 이어폰 PB1004, 퍼플" 
+description: 커널형 버즈 무선 이어폰 P ..
+date: 2022-12-13 11:58:52+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/6a36/502a4ca748d4c25b4f88cdf36c9e497286eb1a71c03887ebb705299b6205.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6408661241&itemId=13734234300&vendorItemId=80909695835&traceid=V0-113-3f5960fefa4dc6ea 
+categories: [1016] 
+color: 03A9F4 
+price: 29800 
+author: Ask View Shop 
+---
+ 

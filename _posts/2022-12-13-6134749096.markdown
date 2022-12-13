@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "쿠팡수입/ 샤오미 스마트 전기히터, BHR4036KR" 
+description: 쿠팡수입/ 샤오미 스마트 전 ..
+date: 2022-12-13 11:58:52+0900 
+img: https://static.coupangcdn.com/image/retail/images/2542472682563955-936676f4-bd0f-44a0-996b-e2776be9393d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6134749096&itemId=11723860958&vendorItemId=78997947627&traceid=V0-113-c5bcef3742a1cc6c 
+categories: [1016] 
+color: f44336 
+price: 98800 
+author: Ask View Shop 
+---
+ 
