@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "파나소닉 코인형 리튬 건전지 CR2032, 4개입, 2개" 
+description: 파나소닉 코인형 리튬 건전지 ..
+date: 2022-12-15 03:29:17+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/10b4/8f730b58bb34618878f92dc33971f1958b51b166d8c9f9dff8db681930ba.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6309546678&itemId=820618478&vendorItemId=72045836030&traceid=V0-113-90e365c95ccec010 
+categories: [1014] 
+color: f44336 
+price: 5990 
+author: Ask View Shop 
+---
+ 
