@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "쿠팡수입/ 샤오미 스마트 가습기2" 
+description: 쿠팡수입/ 샤오미 스마트 가 ..
+date: 2022-12-17 03:29:17+0900 
+img: https://static.coupangcdn.com/image/retail/images/454363317464949-9f39c68e-f0b3-4248-852c-b8ca19faaa1e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6827655398&itemId=16199920263&vendorItemId=83394600512&traceid=V0-113-dfa4fe1328ed8b29 
+categories: [1016] 
+color: 43A047 
+price: 63480 
+author: Ask View Shop 
+---
+ 
