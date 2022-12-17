@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "알쏭달쏭 캐치티니핑 말하는 꾸래핑, 혼합색상" 
+description: 알쏭달쏭 캐치티니핑 말하는  ..
+date: 2022-12-17 11:38:42+0900 
+img: https://static.coupangcdn.com/image/retail/images/2022/10/27/17/7/1a6b54d3-3260-43e7-bf8d-e91d09361486.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6873101957&itemId=16448284057&vendorItemId=83638864499&traceid=V0-113-acfb853338953ba5 
+categories: [1020] 
+color: F15F5F 
+price: 26900 
+author: Ask View Shop 
+---
+ 
