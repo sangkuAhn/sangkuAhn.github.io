@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "개념원리 고등 수학 1, 수학영역" 
+description: 개념원리 고등 수학 1, 수 ..
+date: 2022-12-17 10:43:22+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/5ae6/9eb014d577b1f2a51d27ca908460427d88193065169130c8ccf8deaf60d2.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6624024971&itemId=15072686274&vendorItemId=83728837973&traceid=V0-113-149c28f66835d8d9 
+categories: [1019] 
+color: 4CAF50 
+price: 17100 
+author: Ask View Shop 
+---
+ 
