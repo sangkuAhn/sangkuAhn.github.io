@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "오뚜기 열라면 120g, 10개" 
+description: 오뚜기 열라면 120g, 1 ..
+date: 2022-12-18 15:27:22+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/7dcc/fe8e6ed2f25d9ceb5fac775ef180333f04a8468b3320fabc4d73a3b83f77.PNG 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6930792814&itemId=12045861575&vendorItemId=83339211192&traceid=V0-113-a3c9db5c9b3b7d0f 
+categories: [1012] 
+color: A566FF 
+price: 8760 
+author: Ask View Shop 
+---
+ 
