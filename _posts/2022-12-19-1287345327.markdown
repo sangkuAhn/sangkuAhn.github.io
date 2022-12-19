@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "종이나라 나라풀, 40g, 12개" 
+description: 종이나라 나라풀, 40g,  ..
+date: 2022-12-19 10:42:32+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/3dd2/eed5589211e43374828db3d853b4ba1cd06cfe9172e7f9be576f8982f544.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1287345327&itemId=2297800891&vendorItemId=78668864240&traceid=V0-113-bdb17501223faf95 
+categories: [1021] 
+color: CF36BB 
+price: 13900 
+author: Ask View Shop 
+---
+ 
