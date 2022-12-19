@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "바티스트 오리지널 드라이샴푸, 200ml, 1개" 
+description: 바티스트 오리지널 드라이샴푸 ..
+date: 2022-12-20 07:24:20+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/3188/5569820641f07ad67ec4806d0f3b32b12c7d1cebb73df7b089ebcdd43d9e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6962651929&itemId=16956052573&vendorItemId=84180761424&traceid=V0-113-ff46eaab73c0df56 
+categories: [1010] 
+color: 353535 
+price: 7900 
+author: Ask View Shop 
+---
+ 
