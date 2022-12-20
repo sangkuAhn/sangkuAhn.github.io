@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "알쏭달쏭티니핑 미니 핸드폰 시즌3, 분홍" 
+description: 알쏭달쏭티니핑 미니 핸드폰  ..
+date: 2022-12-21 03:29:03+0900 
+img: https://static.coupangcdn.com/image/retail/images/2022/11/03/17/2/0765fac3-08a0-41b7-b837-e4b19ba111e8.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6890822918&itemId=16542257147&vendorItemId=83728910130&traceid=V0-113-1b5262c1b3c18da1 
+categories: [1020] 
+color: 4374D9 
+price: 19900 
+author: Ask View Shop 
+---
+ 
