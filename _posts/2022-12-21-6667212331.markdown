@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "펩시 콜라, 30개, 210ml" 
+description: 펩시 콜라, 30개, 210 ..
+date: 2022-12-22 07:24:12+0900 
+img: https://static.coupangcdn.com/image/retail/images/8495145914592635-6bc13eec-c427-4ac5-b40f-35bcf1479c51.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6667212331&itemId=15326729294&vendorItemId=3590493046&traceid=V0-113-97eb4d116ea771bb 
+categories: [1012] 
+color: 35B62C 
+price: 14220 
+author: Ask View Shop 
+---
+ 
