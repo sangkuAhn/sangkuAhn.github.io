@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "핑크퐁 알파벳 버스, 스마트스터디" 
+description: 핑크퐁 알파벳 버스, 스마트 ..
+date: 2022-12-24 17:28:19+0900 
+img: https://static.coupangcdn.com/image/retail/images/424009564062367-72243876-f498-446c-a30f-a29357b54be8.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=175369470&itemId=501269494&vendorItemId=4278837390&traceid=V0-113-2ff4529fc021b4d0 
+categories: [1019] 
+color: FF6F00 
+price: 37900 
+author: Ask View Shop 
+---
+ 
