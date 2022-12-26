@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "동서 보리차, 300g, 2개" 
+description: 동서 보리차, 300g, 2 ..
+date: 2022-12-26 19:26:27+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/291c/3681908463720310aa929dcae52fba3b1ac36d7bbc19c28148a8228269b3.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=102505&itemId=14563372555&vendorItemId=81815948290&traceid=V0-113-ee04c2f080582087 
+categories: [1024] 
+color: CF36BB 
+price: 7830 
+author: Ask View Shop 
+---
+ 
