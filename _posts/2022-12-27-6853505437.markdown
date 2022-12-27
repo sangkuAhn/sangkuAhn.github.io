@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "일리 캡슐 커피 다크 1팩 캡슐커피, 120.6g" 
+description: 일리 캡슐 커피 다크 1팩  ..
+date: 2022-12-27 21:41:19+0900 
+img: https://static.coupangcdn.com/image/retail/images/3667158384047417-745885cf-b8ca-45bb-ab46-f75a61f167ae.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6853505437&itemId=16432045298&vendorItemId=83185968653&traceid=V0-113-f99876b3bb78dac3 
+categories: [1013] 
+color: 4A148C 
+price: 12100 
+author: Ask View Shop 
+---
+ 
