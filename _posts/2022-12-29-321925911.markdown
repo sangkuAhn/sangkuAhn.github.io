@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "농심 신 라면, 20개" 
+description: 농심 신 라면, 20개 ..
+date: 2022-12-29 15:28:46+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/0809/1ed3929fee92a93c035254b0eff1f720c7d35826c5eef775012587cee19a.jpeg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=321925911&itemId=1030655594&vendorItemId=81928571453&traceid=V0-113-a6c9ee8e0439b7fd 
+categories: [1012] 
+color: A566FF 
+price: 19190 
+author: Ask View Shop 
+---
+ 
