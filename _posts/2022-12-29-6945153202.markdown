@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "슈마 점프스타터, 7500mAh, 1개" 
+description: 슈마 점프스타터, 7500m ..
+date: 2022-12-30 03:28:22+0900 
+img: https://static.coupangcdn.com/image/rs_quotation_api/waprpyb0/77a97c96391f46c7b8adad7c3cee53a4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6945153202&itemId=16854642225&vendorItemId=84033553934&traceid=V0-113-15e1d6ee959daba0 
+categories: [1018] 
+color: 43A047 
+price: 88900 
+author: Ask View Shop 
+---
+ 
