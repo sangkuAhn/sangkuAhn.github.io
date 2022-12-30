@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "매장동일라인/ 푸마 22Winter 롱패딩 벤치코트" 
+description: 매장동일라인/ 푸마 22Wi ..
+date: 2022-12-30 15:29:09+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/c45a/10d2542241f3c48067c313d45a414c25f2200e362fc658d86e4cf1eef11b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6875506054&itemId=16461632045&vendorItemId=83651655957&traceid=V0-113-5721b9dd85c5448e 
+categories: [1001] 
+color: A566FF 
+price: 119000 
+author: Ask View Shop 
+---
+ 
