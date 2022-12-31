@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "개념원리 확률과통계 (2023년), 수학영역" 
+description: 개념원리 확률과통계 (202 ..
+date: 2023-01-01 01:31:57+0900 
+img: https://static.coupangcdn.com/image/retail/images/2022/07/05/9/4/07b6ec6e-095c-4b51-99a9-88cf4c559bfd.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6624024803&itemId=15072685439&vendorItemId=82294933031&traceid=V0-113-7ef1f2811c1f4e9f 
+categories: [1019] 
+color: BD24A9 
+price: 14400 
+author: Ask View Shop 
+---
+ 
