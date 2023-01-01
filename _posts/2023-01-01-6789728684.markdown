@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코튼원 남성 가성비 타이즈 2매입세트" 
+description: 코튼원 남성 가성비 타이즈  ..
+date: 2023-01-01 13:28:14+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/3a9e/3a52c0a5ab210c8d050307176f8f2502d2209de1f897ffb1ed68cc7ab3e0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6789728684&itemId=15993767108&vendorItemId=83199144578&traceid=V0-113-ee237855da592440 
+categories: [1002] 
+color: 353535 
+price: 9900 
+author: Ask View Shop 
+---
+ 
