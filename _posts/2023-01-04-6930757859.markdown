@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "스위스핏 2인용 눈썰매 블루" 
+description: 스위스핏 2인용 눈썰매 블루 ..
+date: 2023-01-04 19:27:57+0900 
+img: https://static.coupangcdn.com/image/rs_quotation_api/sws9jjfi/0a1bffe3ff354994b180536a97292bc1.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6930757859&itemId=16769698964&vendorItemId=83950930833&traceid=V0-113-56333f3931a25ddb 
+categories: [1020] 
+color: A6A6A6 
+price: 17800 
+author: Ask View Shop 
+---
+ 
