@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "동원 고추 참치, 85g, 8개" 
+description: 동원 고추 참치, 85g,  ..
+date: 2023-01-05 23:24:38+0900 
+img: https://static.coupangcdn.com/image/retail/images/9433273109317199-1ae5b952-ecb0-4801-a822-1359ab70c176.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1145100301&itemId=8224854290&vendorItemId=75512895879&traceid=V0-113-543bc5b5f18ad6ed 
+categories: [1012] 
+color: 7E57C2 
+price: 10280 
+author: Ask View Shop 
+---
+ 
