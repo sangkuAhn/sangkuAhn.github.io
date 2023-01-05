@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "니베아 크림, 150ml, 2개" 
+description: 니베아 크림, 150ml,  ..
+date: 2023-01-05 19:27:51+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/3264/5c26c705c3606bb92ee52455705513785dfaf340a8a5854fa586873f1b71.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=48413&itemId=963566055&vendorItemId=84545474005&traceid=V0-113-8cb6187a77ad3835 
+categories: [1010] 
+color: F361A6 
+price: 23600 
+author: Ask View Shop 
+---
+ 
