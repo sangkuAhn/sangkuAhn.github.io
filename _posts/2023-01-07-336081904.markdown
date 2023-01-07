@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "리베로 루크 체인 아이젠 13 POINT, 그레이" 
+description: 리베로 루크 체인 아이젠 1 ..
+date: 2023-01-08 05:24:27+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/594b/8ce6dcbc8bc7ff79fec758e35d35ee3c222dcaf7967bca513def4143a67d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=336081904&itemId=1072149049&vendorItemId=83686150905&traceid=V0-113-b2d966937b6c7426 
+categories: [1017] 
+color: 43A047 
+price: 19020 
+author: Ask View Shop 
+---
+ 
