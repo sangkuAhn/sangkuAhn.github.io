@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "써보니 스위치 T자형 멀티탭, 1개" 
+description: 써보니 스위치 T자형 멀티탭 ..
+date: 2023-01-09 21:44:50+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/a512/7c899b67343fb116fce0be12675e7bee778b6cabfbe0a8de3ecf56c621ba.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=63816589&itemId=217009576&vendorItemId=78175726051&traceid=V0-113-fe3d55025a8dc13b 
+categories: [1015] 
+color: 4374D9 
+price: 9800 
+author: Ask View Shop 
+---
+ 
