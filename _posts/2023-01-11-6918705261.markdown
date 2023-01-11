@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "이든디자인 2023 심플다이어리, 조약돌" 
+description: 이든디자인 2023 심플다이 ..
+date: 2023-01-12 05:26:24+0900 
+img: https://static.coupangcdn.com/image/retail/images/2022/11/14/10/5/17271150-de35-486b-a3c8-278e11345d7b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6918705261&itemId=16700091469&vendorItemId=83882646267&traceid=V0-113-57bc601d8ad1369c 
+categories: [1021] 
+color: 35B62C 
+price: 12820 
+author: Ask View Shop 
+---
+ 
