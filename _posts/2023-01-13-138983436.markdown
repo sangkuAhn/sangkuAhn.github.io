@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "김치자르미 1/2 포기용, 1개" 
+description: 김치자르미 1/2 포기용,  ..
+date: 2023-01-13 10:53:41+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/images/2017/12/05/15/6/b8f40008-f003-42fe-98f4-66efb0561e1e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=138983436&itemId=406020688&vendorItemId=3393648205&traceid=V0-113-66a3a4224e532a01 
+categories: [1013] 
+color: A57F92 
+price: 12000 
+author: Ask View Shop 
+---
+ 
