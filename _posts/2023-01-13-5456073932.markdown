@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "L자 홀더파일 A4, 반투명, 100개" 
+description: L자 홀더파일 A4, 반투명 ..
+date: 2023-01-14 01:38:05+0900 
+img: https://static.coupangcdn.com/image/retail/images/2021/05/04/18/1/db713ab2-0f46-435e-9b5d-753c9698f880.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5456073932&itemId=8339807785&vendorItemId=75627617474&traceid=V0-113-22fccd4b67c5d04e 
+categories: [1021] 
+color: f44336 
+price: 11790 
+author: Ask View Shop 
+---
+ 
