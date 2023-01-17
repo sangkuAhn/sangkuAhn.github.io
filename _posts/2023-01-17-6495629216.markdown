@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "프리미엄 물결 실핀 200p + 틴케이스 세트" 
+description: 프리미엄 물결 실핀 200p ..
+date: 2023-01-17 23:22:39+0900 
+img: https://static.coupangcdn.com/image/rs_quotation_api/vwfydmlo/461ed76777c84c878028e0d87f302029.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6495629216&itemId=14279482277&vendorItemId=81524479583&traceid=V0-113-2d77dc0f0a7fdd07 
+categories: [1001] 
+color: f44336 
+price: 7900 
+author: Ask View Shop 
+---
+ 
