@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "농심 신라면 컵 65g, 30개" 
+description: 농심 신라면 컵 65g, 3 ..
+date: 2023-01-18 19:27:55+0900 
+img: https://static.coupangcdn.com/image/retail/images/7809564210688079-3f67c8d7-e539-4b7c-a44a-3b6477011ae3.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4498353&itemId=27376595&vendorItemId=3002679500&traceid=V0-113-76bda21ca8553695 
+categories: [1012] 
+color: 43A047 
+price: 25400 
+author: Ask View Shop 
+---
+ 

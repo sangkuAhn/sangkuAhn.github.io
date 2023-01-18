@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코카콜라 업소용, 500ml, 24개" 
+description: 코카콜라 업소용, 500ml ..
+date: 2023-01-18 19:27:55+0900 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2019/06/05/3000333189/efefca3d-e5ba-48ed-9e0f-17a3c584b9ed.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6357109541&itemId=2299616637&vendorItemId=81381466828&traceid=V0-113-e91c6d87cc432039 
+categories: [1012] 
+color: FF1744 
+price: 11120 
+author: Ask View Shop 
+---
+ 
