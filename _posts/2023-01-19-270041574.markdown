@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "이티엔 여행용 파우치 6종 세트" 
+description: 이티엔 여행용 파우치 6종  ..
+date: 2023-01-19 19:27:39+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/1405/452c538326efda285e8a75738aab2499ae34a53bb418c5cdc09bf4225e3b.PNG 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=270041574&itemId=847950673&vendorItemId=82251301100&traceid=V0-113-211fc3293445ac1d 
+categories: [1001] 
+color: F15F5F 
+price: 19900 
+author: Ask View Shop 
+---
+ 
