@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "바세린 프로텍팅 젤리 코코아 버터, 100ml, 1개" 
+description: 바세린 프로텍팅 젤리 코코아 ..
+date: 2023-01-22 07:24:08+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/268e/bc40ca3aa09b5ef774839d0f47ad47a06707b9a7afdfeb927ad5a3982484.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6681194188&itemId=17146156457&vendorItemId=84222695316&traceid=V0-113-eefd8c454d88742d 
+categories: [1010] 
+color: FF6F00 
+price: 10460 
+author: Ask View Shop 
+---
+ 
