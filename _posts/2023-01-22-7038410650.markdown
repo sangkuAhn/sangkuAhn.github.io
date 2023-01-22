@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "오뚜기 맛있는 오뚜기밥, 210g, 24개" 
+description: 오뚜기 맛있는 오뚜기밥, 2 ..
+date: 2023-01-22 11:51:10+0900 
+img: https://static.coupangcdn.com/image/retail/images/6087078303269327-d546821e-4671-444a-a989-1a62299509f9.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7038410650&itemId=17397679865&vendorItemId=84567137311&traceid=V0-113-f642d8c89f47f77f 
+categories: [1012] 
+color: 03A9F4 
+price: 21820 
+author: Ask View Shop 
+---
+ 
