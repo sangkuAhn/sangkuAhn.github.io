@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "에이그 미끄럼방지 아이젠" 
+description: 에이그 미끄럼방지 아이젠 ..
+date: 2023-01-22 21:39:55+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/f2ff/b1924cfeca01e901f950b4b1f0ac20d21ef1b66e8312033d4db13403e439.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6994355780&itemId=17128841594&vendorItemId=84580563463&traceid=V0-113-6e439281563ff477 
+categories: [1017] 
+color: CF36BB 
+price: 12900 
+author: Ask View Shop 
+---
+ 
