@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "ATM 미니금고 지폐 저금통, 화이트, 1개" 
+description: ATM 미니금고 지폐 저금통 ..
+date: 2023-01-30 15:30:05+0900 
+img: https://static.coupangcdn.com/image/retail/images/1225326169452096-c4630cc5-b46d-4946-9897-2fe35265d8b4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=106789106&itemId=322831458&vendorItemId=70941715187&traceid=V0-113-255f99b8606a59e2 
+categories: [1021] 
+color: A6A6A6 
+price: 10970 
+author: Ask View Shop 
+---
+ 
