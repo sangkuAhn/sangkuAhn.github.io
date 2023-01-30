@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코리아보드게임즈 카트라이더 레이싱 게임, 혼합색상" 
+description: 코리아보드게임즈 카트라이더  ..
+date: 2023-01-30 13:29:13+0900 
+img: https://static.coupangcdn.com/image/rs_quotation_api/l2okklsg/0ad80255ed2e45469e18f91de1189eeb.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6616880820&itemId=15028032360&vendorItemId=82250671612&traceid=V0-113-962308bdd824c432 
+categories: [1020] 
+color: A6A6A6 
+price: 32540 
+author: Ask View Shop 
+---
+ 
