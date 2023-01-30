@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "팅올 방한 넥워머 바라클라바 2p, 블랙2p" 
+description: 팅올 방한 넥워머 바라클라바 ..
+date: 2023-01-30 23:23:23+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/7cbd/4a295c73255e0c2a7ec13c89774be7f30dfb0484baa7aeba9e6e252abd64.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6892887927&itemId=16553118412&vendorItemId=83742713614&traceid=V0-113-5eb7b3da787a16d8 
+categories: [1002] 
+color: FF6F00 
+price: 11520 
+author: Ask View Shop 
+---
+ 
