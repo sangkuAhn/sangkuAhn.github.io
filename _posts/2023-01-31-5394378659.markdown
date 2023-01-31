@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "빙그레 바나나맛우유, 240ml, 8개" 
+description: 빙그레 바나나맛우유, 240 ..
+date: 2023-01-31 17:30:10+0900 
+img: https://static.coupangcdn.com/image/retail/images/2019/09/27/17/5/3288a7a8-79e4-4f66-bee3-0ad3796e0592.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5394378659&itemId=974934481&vendorItemId=5388153882&traceid=V0-113-871aa7cc3ace6a09 
+categories: [1012] 
+color: A566FF 
+price: 10030 
+author: Ask View Shop 
+---
+ 
