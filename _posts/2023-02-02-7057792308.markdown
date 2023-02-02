@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "다다 8절 뜯어쓰는 스머프 스케치북, 345 x 245 mm, 250매" 
+description: 다다 8절 뜯어쓰는 스머프  ..
+date: 2023-02-03 05:25:33+0900 
+img: https://static.coupangcdn.com/image/rs_quotation_api/995c/abcc3cb8a9d802785996125a461a1adfbb1ecd5d460efc03fc36704c5197.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7057792308&itemId=5520677733&vendorItemId=72820214325&traceid=V0-113-d4ca1e22a35ba4dd 
+categories: [1020] 
+color: f44336 
+price: 8130 
+author: Ask View Shop 
+---
+ 
