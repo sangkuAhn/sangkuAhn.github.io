@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "워드마스터 Word Master 중등 실력, 이투스북, 중등2학년" 
+description: 워드마스터 Word Mast ..
+date: 2023-02-04 23:22:11+0900 
+img: https://static.coupangcdn.com/image/retail-product-api/A00077021/119203761/132044222/main/9791138910859_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6823342311&itemId=16178851390&vendorItemId=83374257508&traceid=V0-113-63c31f6ab485c5ac 
+categories: [1019] 
+color: 9E9D24 
+price: 12150 
+author: Ask View Shop 
+---
+ 
