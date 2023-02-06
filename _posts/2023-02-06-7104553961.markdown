@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "듀라셀 알카라인 건전지 AAA, 20개, 1개" 
+description: 듀라셀 알카라인 건전지 AA ..
+date: 2023-02-06 11:46:52+0900 
+img: https://static.coupangcdn.com/image/retail/images/1954579108224068-a838112f-57e9-45ce-a492-5e4ce2f2d117.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7104553961&itemId=17743114177&vendorItemId=4949572312&traceid=V0-113-a288cfa2bb3e4d06 
+categories: [1015] 
+color: D9418C 
+price: 12900 
+author: Ask View Shop 
+---
+ 
