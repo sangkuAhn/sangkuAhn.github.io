@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "리우젤 코리아 그루밍 토닉, 1개, 350ml" 
+description: 리우젤 코리아 그루밍 토닉, ..
+date: 2023-02-07 21:45:27+0900 
+img: https://static.coupangcdn.com/image/retail/images/73722287695450-8c207013-f756-4886-820c-fd4cf1ed0f5f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=133128108&itemId=391356599&vendorItemId=5292002390&traceid=V0-113-c1d94a64782bd9af 
+categories: [1010] 
+color: 4A148C 
+price: 21950 
+author: Ask View Shop 
+---
+ 

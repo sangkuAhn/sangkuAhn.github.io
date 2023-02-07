@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "로얄 코털 정리기 골든버디, 3. 골든 버디" 
+description: 로얄 코털 정리기 골든버디, ..
+date: 2023-02-07 21:45:27+0900 
+img: https://static.coupangcdn.com/image/retail/images/5384802445261058-754b357b-4da9-4b69-9f01-d080c3fcb330.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7077854001&itemId=17597918030&vendorItemId=76515014291&traceid=V0-113-d5809ea049ec6158 
+categories: [1010] 
+color: 9E9D24 
+price: 21320 
+author: Ask View Shop 
+---
+ 
