@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "ipTIME 유무선공유기, N604SE" 
+description: ipTIME 유무선공유기,  ..
+date: 2023-02-10 05:26:16+0900 
+img: https://static.coupangcdn.com/image/retail/images/2022/09/27/11/6/3692654b-54e4-4aa8-aa66-af6c6f02f422.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6331398803&itemId=16074470657&vendorItemId=83274508799&traceid=V0-113-3750afd40362b586 
+categories: [1016] 
+color: BD24A9 
+price: 19400 
+author: Ask View Shop 
+---
+ 
