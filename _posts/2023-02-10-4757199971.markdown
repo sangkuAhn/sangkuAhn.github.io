@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "동아제약 박카스 F 건강음료, 120ml, 20개" 
+description: 동아제약 박카스 F 건강음료 ..
+date: 2023-02-10 17:30:45+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/9dc8/01f75f87a2122603a41182b81fa5db46e8d1ce2aeaff3d4a134d3d8c02f6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4757199971&itemId=6058800097&vendorItemId=81456717064&traceid=V0-113-0a336d07b7946421 
+categories: [1024] 
+color: CF36BB 
+price: 11900 
+author: Ask View Shop 
+---
+ 
