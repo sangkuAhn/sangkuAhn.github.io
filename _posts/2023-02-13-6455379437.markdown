@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "일화 초정탄산수, 30캔, 190ml" 
+description: 일화 초정탄산수, 30캔,  ..
+date: 2023-02-13 13:30:04+0900 
+img: https://static.coupangcdn.com/image/retail/images/7963553976023149-54e3d444-074a-44b3-9c6f-e36aafbe99a3.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6455379437&itemId=17649519988&vendorItemId=3648273397&traceid=V0-113-1a1ce596b8b3108c 
+categories: [1012] 
+color: 4CAF50 
+price: 10000 
+author: Ask View Shop 
+---
+ 

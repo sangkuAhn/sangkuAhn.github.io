@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "카무트 호라산밀, 2kg, 1개" 
+description: 카무트 호라산밀, 2kg,  ..
+date: 2023-02-13 13:30:04+0900 
+img: https://static.coupangcdn.com/image/retail/images/2021/02/10/11/0/d59ca4f2-9457-4bac-ac99-4e87ac339594.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4976059496&itemId=6615658189&vendorItemId=73909554169&traceid=V0-113-238bccaa37c00de0 
+categories: [1012] 
+color: FF6F00 
+price: 23980 
+author: Ask View Shop 
+---
+ 
