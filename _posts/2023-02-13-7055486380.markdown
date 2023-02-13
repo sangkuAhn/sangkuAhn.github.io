@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "2023 ADsP 데이터 분석 준전문가, 데이터에듀" 
+description: 2023 ADsP 데이터 분 ..
+date: 2023-02-14 03:30:47+0900 
+img: https://static.coupangcdn.com/image/retail/images/2023/01/10/18/1/40455a47-57f0-4ea7-bcbf-8f2acc2d0537.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7055486380&itemId=17479039920&vendorItemId=84646580703&traceid=V0-113-520e36f50ff1f839 
+categories: [1019] 
+color: A6A6A6 
+price: 27900 
+author: Ask View Shop 
+---
+ 
