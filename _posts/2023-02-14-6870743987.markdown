@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "나이키 드라이 핏 레거시91 / DH1640-010" 
+description: 나이키 드라이 핏 레거시91 ..
+date: 2023-02-14 15:31:01+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/e664/3c5449e2c8643057ca5a444c87808eff08ce8f7b02500298cb1449453c3f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6870743987&itemId=16435090723&vendorItemId=84022631452&traceid=V0-113-b57856863cccf425 
+categories: [1002] 
+color: 4CAF50 
+price: 23940 
+author: Ask View Shop 
+---
+ 
