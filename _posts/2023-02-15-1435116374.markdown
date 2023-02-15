@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "MAPL 마플 시너지 수학 (상) (2023년), 수학영역" 
+description: MAPL 마플 시너지 수학  ..
+date: 2023-02-15 23:26:25+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/aab8/b0c03292c801d82a5a09d154b9ef3e099214fb08134163b2250069a9b4b4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1435116374&itemId=2477557932&vendorItemId=84593001550&traceid=V0-113-97b3c82e1feef9de 
+categories: [1019] 
+color: F15F5F 
+price: 16750 
+author: Ask View Shop 
+---
+ 
