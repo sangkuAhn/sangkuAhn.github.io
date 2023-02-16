@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "알페신 카페인 샴푸 C1, 250ml, 1개" 
+description: 알페신 카페인 샴푸 C1,  ..
+date: 2023-02-17 01:34:59+0900 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2016/07/14/3000215969/418ec9df-1a2f-4b03-8945-0849f778e591.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=169411&itemId=312997&vendorItemId=3000215969&traceid=V0-113-4a070e295227c465 
+categories: [1010] 
+color: 7E57C2 
+price: 8730 
+author: Ask View Shop 
+---
+ 
