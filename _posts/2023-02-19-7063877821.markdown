@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "더블에이 80g 2000매, A4" 
+description: 더블에이 80g 2000매, ..
+date: 2023-02-19 19:26:56+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/6233/6bc8bd5422389d5269c6b341e792f19454c34288e0ddae3902afd065ff58.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7063877821&itemId=17522732979&vendorItemId=84689855871&traceid=V0-113-5d32347d209542de 
+categories: [1021] 
+color: D9418C 
+price: 24900 
+author: Ask View Shop 
+---
+ 
