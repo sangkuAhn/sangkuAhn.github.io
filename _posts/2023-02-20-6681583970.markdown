@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "삼성전자 마이크로SD카드 EVO PLUS 512G MB-MC512KA/KR, 512GB" 
+description: 삼성전자 마이크로SD카드 E ..
+date: 2023-02-21 05:26:19+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/15b3/bcd2f0ce9b59e71e268e7a19a59697882641f527c5d1df8a4494dc22c62d.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6681583970&itemId=15408991391&vendorItemId=82628840747&traceid=V0-113-95a5f865d44a2a5f 
+categories: [1016] 
+color: A566FF 
+price: 41300 
+author: Ask View Shop 
+---
+ 
