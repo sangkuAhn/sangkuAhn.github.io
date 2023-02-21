@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "그로윗 고고페이스 루빅큐브, 혼합색상" 
+description: 그로윗 고고페이스 루빅큐브, ..
+date: 2023-02-21 13:30:34+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/31ee/3447284aec559e08623e22c95ad65924adfea35f03076d5fe3fa46a4c9a9.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6225431404&itemId=12481849724&vendorItemId=79983303046&traceid=V0-113-b51a1f75d30668c4 
+categories: [1020] 
+color: 35B62C 
+price: 17920 
+author: Ask View Shop 
+---
+ 
