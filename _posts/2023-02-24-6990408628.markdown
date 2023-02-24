@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "탐사 베이직 3x3 큐브" 
+description: 탐사 베이직 3x3 큐브 ..
+date: 2023-02-25 05:26:45+0900 
+img: https://static.coupangcdn.com/image/retail/images/9184385980009267-7e84148a-3f11-4075-9cbf-c87f893ccda6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6990408628&itemId=17107472030&vendorItemId=84281228508&traceid=V0-113-2a2d470f3253c18d 
+categories: [1020] 
+color: A6A6A6 
+price: 4870 
+author: Ask View Shop 
+---
+ 
