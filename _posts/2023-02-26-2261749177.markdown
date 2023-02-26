@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "문학을 열다 세트 전6권, 스푼북" 
+description: 문학을 열다 세트 전6권,  ..
+date: 2023-02-26 23:23:36+0900 
+img: https://static.coupangcdn.com/image/retail/images/2020/10/19/11/8/0851833b-7602-453f-8e31-71def5284239.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2261749177&itemId=3876171170&vendorItemId=71860843253&traceid=V0-113-78e3e79eec18cc98 
+categories: [1019] 
+color: A566FF 
+price: 67500 
+author: Ask View Shop 
+---
+ 
