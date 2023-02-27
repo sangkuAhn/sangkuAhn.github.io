@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "엘라주르 심플 레이어드 진주목걸이" 
+description: 엘라주르 심플 레이어드 진주 ..
+date: 2023-02-27 10:54:59+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/278b/792fe8922d340d56af7dc9281fdad6ca1e2eaa84d2def2af1ad9f1c06717.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6784405873&itemId=15966089767&vendorItemId=83172296322&traceid=V0-113-f7bc9694d71f359c 
+categories: [1001] 
+color: 5A8DF3 
+price: 8000 
+author: Ask View Shop 
+---
+ 
