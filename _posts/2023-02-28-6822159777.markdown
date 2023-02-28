@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "유형+내신 고쟁이 수학 상, 이투스북" 
+description: 유형+내신 고쟁이 수학 상, ..
+date: 2023-02-28 19:29:44+0900 
+img: https://static.coupangcdn.com/image/retail-product-api/A00077021/119087953/131919464/main/9791138910941_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6822159777&itemId=16173339796&vendorItemId=83368828642&traceid=V0-113-346e222fc37156c2 
+categories: [1019] 
+color: 03A9F4 
+price: 17100 
+author: Ask View Shop 
+---
+ 
