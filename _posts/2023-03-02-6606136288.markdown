@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "HG0339 아디다스 파워 짐쌕, 1" 
+description: HG0339 아디다스 파워  ..
+date: 2023-03-03 01:35:34+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/6b40/9c7c766bc022f09a99d558e0c5000d33c4568211014df42c55f62994b3cf.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6606136288&itemId=14960170106&vendorItemId=82183438792&traceid=V0-113-b8342eeafead6e8d 
+categories: [1001] 
+color: 1294AB 
+price: 12830 
+author: Ask View Shop 
+---
+ 
