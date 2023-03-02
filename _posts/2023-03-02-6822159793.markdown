@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "주니어 능률 VOCA: 실력(2023), NE능률" 
+description: 주니어 능률 VOCA: 실력 ..
+date: 2023-03-02 15:32:07+0900 
+img: https://static.coupangcdn.com/image/retail-product-api/A00077021/119087987/131919498/main/9791125340522_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6822159793&itemId=16173339825&vendorItemId=83368828659&traceid=V0-113-d4913c1000a01eef 
+categories: [1019] 
+color: BF360C 
+price: 10800 
+author: Ask View Shop 
+---
+ 
