@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "타키 포오의 이세계 여행사, 1권, 대원키즈" 
+description: 타키 포오의 이세계 여행사, ..
+date: 2023-03-06 11:59:07+0900 
+img: https://static.coupangcdn.com/image/rs_quotation_api/kdiacqj2/bce421e21bcc409591dee9df2fb7e5e0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7159134677&itemId=18013689655&vendorItemId=85169159259&traceid=V0-113-7a9b06ce21d22ca2 
+categories: [1019] 
+color: F361A6 
+price: 11700 
+author: Ask View Shop 
+---
+ 
