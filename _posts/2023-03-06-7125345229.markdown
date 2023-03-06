@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "세남자몰 튼튼한 접이식 3단 완전자동우산" 
+description: 세남자몰 튼튼한 접이식 3단 ..
+date: 2023-03-06 23:25:24+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/74a7/57abf4abda133b36d262eb0e61bb7570c00901851a64d61ca3dd4ef17d45.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7125345229&itemId=17849924511&vendorItemId=85022086347&traceid=V0-113-8ecdf85f86c4c9fe 
+categories: [1002] 
+color: 5A8DF3 
+price: 13900 
+author: Ask View Shop 
+---
+ 
