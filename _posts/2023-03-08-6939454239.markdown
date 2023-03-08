@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "모니주 가방 크레파스 블루, 24색, 3개" 
+description: 모니주 가방 크레파스 블루, ..
+date: 2023-03-08 10:59:59+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/326c/cdf8deb7d63978c1fd2f0f62b661735c49db3ebbfc4372738d02adec1570.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6939454239&itemId=16822145146&vendorItemId=81716530816&traceid=V0-113-f2d786aa0db53c36 
+categories: [1020] 
+color: BF360C 
+price: 10510 
+author: Ask View Shop 
+---
+ 
