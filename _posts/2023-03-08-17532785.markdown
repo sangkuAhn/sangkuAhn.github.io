@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아카데미 북앤드 L형 4p, 블랙" 
+description: 아카데미 북앤드 L형 4p, ..
+date: 2023-03-08 12:00:34+0900 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2017/09/28/3113787192/a956a018-d6cc-466c-9d76-aa4a44dfa9b9.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=17532785&itemId=70347358&vendorItemId=70389930403&traceid=V0-113-0e726f3142aa311b 
+categories: [1021] 
+color: 43A047 
+price: 7900 
+author: Ask View Shop 
+---
+ 
