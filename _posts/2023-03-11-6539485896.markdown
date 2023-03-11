@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "스타벅스 하우스블렌드 캡슐커피, 8.5g, 36개" 
+description: 스타벅스 하우스블렌드 캡슐커 ..
+date: 2023-03-11 11:41:57+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/9ea7/b7b8e2858a917d8cd36fd9bdc93b20889aafee5812264e8f8d2871308397.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6539485896&itemId=14554161624&vendorItemId=80634150506&traceid=V0-113-ea208a26afe84af1 
+categories: [1013] 
+color: F361A6 
+price: 27390 
+author: Ask View Shop 
+---
+ 
