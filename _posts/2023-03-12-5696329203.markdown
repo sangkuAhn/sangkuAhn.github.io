@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "모델링 팩도구 4종 세트, 혼합색상, 1세트" 
+description: 모델링 팩도구 4종 세트,  ..
+date: 2023-03-13 01:30:31+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/d6c0/2b8e732a507c4d729d8447eac5e93b146c30029606fc29b60346dffeb50a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5696329203&itemId=9452747348&vendorItemId=78331620132&traceid=V0-113-45381b230fa16700 
+categories: [1010] 
+color: A566FF 
+price: 3500 
+author: Ask View Shop 
+---
+ 
