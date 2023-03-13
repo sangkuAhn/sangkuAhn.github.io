@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "세이노의 가르침 (재고보유), 데이원, 세이노" 
+description: 세이노의 가르침 (재고보유) ..
+date: 2023-03-13 19:28:15+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/9526/a4d7b9c27b5f62a2d8a4f5419aeb1865517c149320419dce85c333a11e6f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7164553847&itemId=18037159193&vendorItemId=84778054182&traceid=V0-113-52dff543c027c9f2 
+categories: [1019] 
+color: 4A148C 
+price: 6480 
+author: Ask View Shop 
+---
+ 
