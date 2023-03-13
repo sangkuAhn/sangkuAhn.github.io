@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "그린 악기 전통 가방 소고, 1개" 
+description: 그린 악기 전통 가방 소고, ..
+date: 2023-03-13 21:46:23+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/92cd/b295be53b44dabd896c4e85a31089125902a25bfa9a97947255ce2f96563.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6578856261&itemId=14796150901&vendorItemId=81855203238&traceid=V0-113-32a86261d388c272 
+categories: [1020] 
+color: CF36BB 
+price: 8530 
+author: Ask View Shop 
+---
+ 
