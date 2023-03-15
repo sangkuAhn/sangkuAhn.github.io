@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "테이키 패션 공가방, 블랙" 
+description: 테이키 패션 공가방, 블랙 ..
+date: 2023-03-15 11:45:46+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/db92/6f6774490672be02b1a3d4ee5bdd26fd5d243d610c4fae6aeaa128fe6219.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5239320529&itemId=7395698478&vendorItemId=85329158842&traceid=V0-113-f8d810cc70c17731 
+categories: [1017] 
+color: 4A148C 
+price: 13900 
+author: Ask View Shop 
+---
+ 
