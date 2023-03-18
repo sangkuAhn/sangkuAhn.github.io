@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "필립스 블렌더 3000 시리즈 HR2041/01" 
+description: 필립스 블렌더 3000 시리 ..
+date: 2023-03-18 19:25:39+0900 
+img: https://static.coupangcdn.com/image/retail/images/9169190101724671-b8775368-6ba5-4708-8e95-edd3be140821.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6269679489&itemId=12814576608&vendorItemId=80080462134&traceid=V0-113-c0063715346d9d34 
+categories: [1013] 
+color: 5A8DF3 
+price: 31910 
+author: Ask View Shop 
+---
+ 
