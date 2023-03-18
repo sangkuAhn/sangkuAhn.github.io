@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "더클래스 버핑 타월, 2개" 
+description: 더클래스 버핑 타월, 2개 ..
+date: 2023-03-19 05:24:15+0900 
+img: https://static.coupangcdn.com/image/retail/images/1515672751540878-388e966e-b1ed-4eff-9721-de520bccd8a1.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=92281453&itemId=8374730411&vendorItemId=75539159505&traceid=V0-113-ea7bfd656850c09e 
+categories: [1018] 
+color: D9418C 
+price: 14980 
+author: Ask View Shop 
+---
+ 
