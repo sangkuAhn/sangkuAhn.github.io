@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "전태일평전, 아름다운전태일, 조영래" 
+description: 전태일평전, 아름다운전태일, ..
+date: 2023-03-21 03:30:44+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/2f30/07dcc73a4c46490c4bb144638e6f2d4697365d20a7ce29af21e1de90d467.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2112415009&itemId=3588329914&vendorItemId=71574115080&traceid=V0-113-e14051853d67ddb8 
+categories: [1019] 
+color: FF6F00 
+price: 13500 
+author: Ask View Shop 
+---
+ 
