@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "영창 단소 YD-PL70" 
+description: 영창 단소 YD-PL70 ..
+date: 2023-03-21 05:24:23+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/0c0d/b18f87e036748441009ebcec361ed6e5d27e515710778506ad246b6eed05.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6335364889&itemId=13265898797&vendorItemId=75123185715&traceid=V0-113-970b362258c5a4b6 
+categories: [1020] 
+color: 006064 
+price: 5860 
+author: Ask View Shop 
+---
+ 
