@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "모나미 유성매직, 흑색, 24개" 
+description: 모나미 유성매직, 흑색, 2 ..
+date: 2023-03-23 03:28:45+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/998e/6b1c8de51b1e665a755b5194ab562d56a2f640e517da485081f07fe1904b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1270666605&itemId=2275225247&vendorItemId=73736151958&traceid=V0-113-2ad294e4e333e220 
+categories: [1021] 
+color: A6A6A6 
+price: 12300 
+author: Ask View Shop 
+---
+ 
