@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "전태일평전 10%할인+사은품/" 
+description: 전태일평전 10%할인+사은품 ..
+date: 2023-03-22 23:24:05+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/da4f/895de51678d2fbe12559bbd8206c5e13020627e035ac6f481fd8be44b59a.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6662271374&itemId=15295764251&vendorItemId=75510807708&traceid=V0-113-2dec410d049694fc 
+categories: [1019] 
+color: BD24A9 
+price: 13500 
+author: Ask View Shop 
+---
+ 
