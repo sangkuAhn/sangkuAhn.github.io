@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "슈뻘맨의 숨은 과학 찾기 1, 미래엔" 
+description: 슈뻘맨의 숨은 과학 찾기 1 ..
+date: 2023-03-24 19:26:27+0900 
+img: https://static.coupangcdn.com/image/retail/images/2023/03/16/15/0/46e3a907-d1cc-4002-8abe-63f77686553f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7201570957&itemId=18204704977&vendorItemId=85353045576&traceid=V0-113-436756d30676caad 
+categories: [1019] 
+color: F15F5F 
+price: 12600 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "세이노의 가르침 투자 책" 
+description: 세이노의 가르침 투자 책 ..
+date: 2023-03-24 19:26:27+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/b759/f8a0427bdf8de94cd95049e65aa28407ade9edd77397494f663dedd80e61.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7089015652&itemId=17659052250&vendorItemId=85083157431&traceid=V0-113-c2694230eef753d4 
+categories: [1019] 
+color: 43A047 
+price: 6480 
+author: Ask View Shop 
+---
+ 
