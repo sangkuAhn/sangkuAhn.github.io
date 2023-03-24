@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "쿠팡수입/ 브래그 유기농 사과 식초, 946ml, 1개" 
+description: 쿠팡수입/ 브래그 유기농 사 ..
+date: 2023-03-25 01:31:59+0900 
+img: https://static.coupangcdn.com/image/retail/images/2894278221689036-b8ccbfaf-b53d-4954-9967-d68acefd34ac.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=29242&itemId=11163023&vendorItemId=4083418887&traceid=V0-113-d4ca5f1b681751dc 
+categories: [1024] 
+color: F361A6 
+price: 11940 
+author: Ask View Shop 
+---
+ 
