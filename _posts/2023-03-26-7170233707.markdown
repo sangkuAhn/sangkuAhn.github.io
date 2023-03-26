@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "생활체크인 1.2cm 4.8cm 테이프 볼 만들기 세트, 1.2cm 6개" 
+description: 생활체크인 1.2cm 4.8 ..
+date: 2023-03-26 17:26:57+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/675c/1bd3d1db37a759a1f85cdd274fdc5b0ae99ddf03003bed19359df689866c.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7170233707&itemId=18062502189&vendorItemId=85216234250&traceid=V0-113-8994d9c4d8a3feea 
+categories: [1020] 
+color: F15F5F 
+price: 13900 
+author: Ask View Shop 
+---
+ 
