@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "더팜스 구운아몬드, 1개, 1kg" 
+description: 더팜스 구운아몬드, 1개,  ..
+date: 2023-03-30 13:27:27+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/703a/45d2a3edefab46143affcaac5ab177c5739083b7a35ce411a570808e105b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5884039699&itemId=10327792765&vendorItemId=84335862771&traceid=V0-113-c6ac66e3b9ac26f0 
+categories: [1024] 
+color: A6A6A6 
+price: 19800 
+author: Ask View Shop 
+---
+ 
