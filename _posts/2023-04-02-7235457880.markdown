@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "가격행사/맛있는 오뚜기밥 210g x 12개" 
+description: 가격행사/맛있는 오뚜기밥 2 ..
+date: 2023-04-02 10:42:37+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/88e4/26cb570a2ce04b4ac0239455598de6ffb0ace1bdbf6e3da53ece5e5408de.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7235457880&itemId=12737851906&vendorItemId=79662656064&traceid=V0-113-2b0529fa87300efd 
+categories: [1012] 
+color: FF1744 
+price: 10480 
+author: Ask View Shop 
+---
+ 
