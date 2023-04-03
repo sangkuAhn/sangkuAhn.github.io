@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "헤드앤숄더 애플 프레쉬 샴푸, 1200ml, 1개" 
+description: 헤드앤숄더 애플 프레쉬 샴푸 ..
+date: 2023-04-04 01:29:52+0900 
+img: https://static.coupangcdn.com/image/vendor_inventory/a328/4f12b9d964c0b4fe1ab50db6f61c634b82c8e2125f09bfe4764172343491.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6499940663&itemId=3746256215&vendorItemId=81356217107&traceid=V0-113-84e81bb1ffbccd03 
+categories: [1010] 
+color: 1294AB 
+price: 15060 
+author: Ask View Shop 
+---
+ 
