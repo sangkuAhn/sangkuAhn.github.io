@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "집콕 놀이템 테이프공 만들기 세트(아트칼포함), 1" 
+description: 집콕 놀이템 테이프공 만들기 ..
+date: 2023-04-04 21:41:00+0900 
+img: https://img2a.coupangcdn.com/image/vendor_inventory/3e2b/345c0ee1cd8b35a19ba93561658121df18cef8569a8cc5df36a65924ff6f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7219293383&itemId=18290367886&vendorItemId=85340515673&traceid=V0-113-e74e112c7e3ae8a2 
+categories: [1020] 
+color: A566FF 
+price: 21850 
+author: Ask View Shop 
+---
+ 
