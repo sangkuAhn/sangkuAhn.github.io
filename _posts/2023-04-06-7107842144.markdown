@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "웅진 빅토리아 탄산수 플레인, 500ml, 20개" 
+description: 웅진 빅토리아 탄산수 플레인 ..
+date: 2023-04-06 21:40:01+0900 
+img: https://img3c.coupangcdn.com/image/retail/images/8067559076150644-330e868a-f3f4-49e2-8afa-3aa4d9d9c58e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7107842144&itemId=17759961303&vendorItemId=3008867464&traceid=V0-113-125e0b69d255569b 
+categories: [1024] 
+color: D9418C 
+price: 10950 
+author: Ask View Shop 
+---
+ 
