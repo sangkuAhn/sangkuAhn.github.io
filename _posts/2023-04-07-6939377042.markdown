@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아이리버 커널형 이어셋, 화이트, BHC-180" 
+description: 아이리버 커널형 이어셋, 화 ..
+date: 2023-04-08 05:22:48+0900 
+img: https://image12.coupangcdn.com/image/retail/images/8500311947110586-80c290af-21dc-4eda-ab5b-5c78aace9f6b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6939377042&itemId=16821782951&vendorItemId=73547640019&traceid=V0-113-68d75fbc4ed3a0aa 
+categories: [1016] 
+color: 4CAF50 
+price: 9800 
+author: Ask View Shop 
+---
+ 
