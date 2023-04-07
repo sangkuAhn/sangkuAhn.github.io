@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "듀오덤 엑스트라씬 밴드 10매, 1개" 
+description: 듀오덤 엑스트라씬 밴드 10 ..
+date: 2023-04-08 01:28:36+0900 
+img: https://image14.coupangcdn.com/image/vendor_inventory/17b3/14ad5984a3551d778e7487d4140eaaa52a4ff02fa7610718e0a335f7da90.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7093111071&itemId=5101889488&vendorItemId=85080212378&traceid=V0-113-cb2679d0fbedfb9d 
+categories: [1014] 
+color: 43A047 
+price: 44750 
+author: Ask View Shop 
+---
+ 
