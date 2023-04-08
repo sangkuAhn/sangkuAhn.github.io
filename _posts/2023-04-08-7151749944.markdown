@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "곰곰 매일매일 담백한 베이컨, 1kg, 1개" 
+description: 곰곰 매일매일 담백한 베이컨 ..
+date: 2023-04-08 17:25:41+0900 
+img: https://image1.coupangcdn.com/image/retail/images/3321957674071072-4d5c99f1-ec66-4de0-91e4-8d73f38c640b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7151749944&itemId=17981414028&vendorItemId=85138225630&traceid=V0-113-92b8b9a934bce5b1 
+categories: [1024] 
+color: D9418C 
+price: 11990 
+author: Ask View Shop 
+---
+ 
