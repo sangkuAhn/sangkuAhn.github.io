@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "사장학개론, 스노우폭스북스, 김승호" 
+description: 사장학개론, 스노우폭스북스, ..
+date: 2023-04-12 03:26:51+0900 
+img: https://img2c.coupangcdn.com/image/retail-product-api/A00077021/148278198/163202504/main/9791188331888_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7201043239&itemId=18202476340&vendorItemId=85350892225&traceid=V0-113-b0c5f6a2a73189a2 
+categories: [1019] 
+color: FF1744 
+price: 22500 
+author: Ask View Shop 
+---
+ 
