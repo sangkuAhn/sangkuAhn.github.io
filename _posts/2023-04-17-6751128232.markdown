@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "청정원 맛소금, 95g, 1개" 
+description: 청정원 맛소금, 95g, 1 ..
+date: 2023-04-17 21:41:31+0900 
+img: https://image13.coupangcdn.com/image/vendor_inventory/6274/ad579dea0ac10bbef7226d264f997d665c6b5460f0786f964de90f615054.JPG 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6751128232&itemId=18530292681&vendorItemId=85668701743&traceid=V0-113-63d229cc760c1ecc 
+categories: [1024] 
+color: 4A148C 
+price: 7100 
+author: Ask View Shop 
+---
+ 
