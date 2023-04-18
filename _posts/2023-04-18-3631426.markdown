@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "카이 얼굴 김펀치, 1개" 
+description: 카이 얼굴 김펀치, 1개 ..
+date: 2023-04-18 23:29:09+0900 
+img: https://image9.coupangcdn.com/image/vendor_inventory/4011/3313c0bc11f696c2d22a95e089a8309bf1ae55761c45fbd7142db5132e1a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=3631426&itemId=17886788&vendorItemId=85617096081&traceid=V0-113-4ce167dde4c668b1 
+categories: [1013] 
+color: 03A9F4 
+price: 24470 
+author: Ask View Shop 
+---
+ 
