@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "하빌리스/스즈메의 문단속 (양장 하드커버), 하빌리스, 신카이 마코토" 
+description: 하빌리스/스즈메의 문단속 ( ..
+date: 2023-04-19 11:39:42+0900 
+img: https://image13.coupangcdn.com/image/retail-product-api/A00077021/146084364/160805841/main/9791169792035_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7178303520&itemId=18099374091&vendorItemId=85251579762&traceid=V0-113-dd5cb5c26cf610bb 
+categories: [1019] 
+color: 03A9F4 
+price: 13050 
+author: Ask View Shop 
+---
+ 
