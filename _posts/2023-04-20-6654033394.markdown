@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코멧 물기제거기, 1개" 
+description: 코멧 물기제거기, 1개 ..
+date: 2023-04-20 23:23:02+0900 
+img: https://image1.coupangcdn.com/image/retail/images/7216869035143968-f6ceecaf-8500-4d15-ac13-ab1443e27941.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6654033394&itemId=15255923697&vendorItemId=82476580227&traceid=V0-113-5aab98cc2ef9843e 
+categories: [1015] 
+color: 006064 
+price: 4990 
+author: Ask View Shop 
+---
+ 

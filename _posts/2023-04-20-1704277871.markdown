@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "일명 ABC 분말소화기 3.3KG" 
+description: 일명 ABC 분말소화기 3. ..
+date: 2023-04-20 23:23:02+0900 
+img: https://image15.coupangcdn.com/image/vendor_inventory/ea8b/ef4d19110dfbfd458c1c0a1e1911bbb780e7529cf30d746df2434eb1812d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1704277871&itemId=2900285502&vendorItemId=85059212850&traceid=V0-113-8896e6680adb3eb1 
+categories: [1015] 
+color: 006064 
+price: 20900 
+author: Ask View Shop 
+---
+ 

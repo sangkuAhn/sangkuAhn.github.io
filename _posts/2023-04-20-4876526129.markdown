@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코멧 콤팩트 다리미판" 
+description: 코멧 콤팩트 다리미판 ..
+date: 2023-04-20 23:23:02+0900 
+img: https://image4.coupangcdn.com/image/retail/images/10372558698270-95912a81-a5a2-4b2a-84f5-a2d7179be32b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4876526129&itemId=6344334550&vendorItemId=73639664981&traceid=V0-113-8bd1e193339478a2 
+categories: [1015] 
+color: A566FF 
+price: 10800 
+author: Ask View Shop 
+---
+ 
