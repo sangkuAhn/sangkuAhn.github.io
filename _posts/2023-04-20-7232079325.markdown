@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "한 번뿐인 인생은 어떻게 살아야 하는가, 박찬위 저, 하이스트" 
+description: 한 번뿐인 인생은 어떻게 살 ..
+date: 2023-04-21 07:23:08+0900 
+img: https://img2c.coupangcdn.com/image/vendor_inventory/03c0/901ced2c70806279ba0a4701fb037d475f43b9f8aaa39706eed0e4e812e9.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7232079325&itemId=18353948082&vendorItemId=85497857231&traceid=V0-113-1b700fe42f79decc 
+categories: [1019] 
+color: 7E57C2 
+price: 15120 
+author: Ask View Shop 
+---
+ 

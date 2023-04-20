@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아주 세속적인 지혜, 페이지2북스, 발타자르 그라시안" 
+description: 아주 세속적인 지혜, 페이지 ..
+date: 2023-04-21 07:23:08+0900 
+img: https://image12.coupangcdn.com/image/rs_quotation_api/3lgiismj/6616763360114524948a8650759abc65.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7210352256&itemId=18245252955&vendorItemId=85392094144&traceid=V0-113-d1ca298f3b1612bb 
+categories: [1019] 
+color: CF36BB 
+price: 12150 
+author: Ask View Shop 
+---
+ 
