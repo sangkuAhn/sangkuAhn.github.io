@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "동원 살코기참치 100g x 4p + 매운고추참치 100g x 2p, 1세트" 
+description: 동원 살코기참치 100g x ..
+date: 2023-04-24 10:42:46+0900 
+img: https://image10.coupangcdn.com/image/retail/images/788971431226923-80013ea2-2bca-4ff8-bfb6-975c7f6e2929.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6398707711&itemId=13673898175&vendorItemId=80925867707&traceid=V0-113-4300e35ae03c925c 
+categories: [1012] 
+color: F15F5F 
+price: 9750 
+author: Ask View Shop 
+---
+ 
