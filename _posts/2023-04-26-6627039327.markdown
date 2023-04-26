@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "ELLE Paris 여성 쿨링 와이드 밴딩 팬츠" 
+description: ELLE Paris 여성 쿨 ..
+date: 2023-04-27 05:21:48+0900 
+img: https://image2.coupangcdn.com/image/retail/images/2116957434739277-6943c464-039d-451b-8601-bc95aa6400fc.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6627039327&itemId=15092383030&vendorItemId=82314477913&traceid=V0-113-84dbb00f2d6e176e 
+categories: [1001] 
+color: 006064 
+price: 9990 
+author: Ask View Shop 
+---
+ 
