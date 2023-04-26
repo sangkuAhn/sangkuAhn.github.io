@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "부키/장하준의 경제학 레시피 : 마늘에서 초콜릿까지 18가지 재료로 요리한 경제 이야기, 부키, 장하준" 
+description: 부키/장하준의 경제학 레시피 ..
+date: 2023-04-26 19:26:01+0900 
+img: https://img2a.coupangcdn.com/image/retail-product-api/A00077021/150200236/165238979/main/9788960519794_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7217200069&itemId=18279729486&vendorItemId=85425707107&traceid=V0-113-c181361fc301182b 
+categories: [1019] 
+color: D9418C 
+price: 16200 
+author: Ask View Shop 
+---
+ 

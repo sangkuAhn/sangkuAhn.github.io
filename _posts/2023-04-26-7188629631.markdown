@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "거인의 노트, 다산북스, 김익한" 
+description: 거인의 노트, 다산북스, 김 ..
+date: 2023-04-26 19:26:01+0900 
+img: https://image6.coupangcdn.com/image/retail/images/2023/03/10/16/8/abf681ee-405b-4984-8c86-525454dbf751.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7188629631&itemId=18144937256&vendorItemId=85295321310&traceid=V0-113-ace9aad3d9c5702d 
+categories: [1019] 
+color: CF36BB 
+price: 16200 
+author: Ask View Shop 
+---
+ 
