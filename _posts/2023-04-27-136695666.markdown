@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "키친구 백곰이 김펀치 세트, 혼합 색상, 1세트" 
+description: 키친구 백곰이 김펀치 세트, ..
+date: 2023-04-28 03:27:15+0900 
+img: https://img5a.coupangcdn.com/image/vendor_inventory/71f8/c63b187a5c99385b845d867d63fde3e626bd1950b88fd4dee6bb4e5fc2bb.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=136695666&itemId=400615465&vendorItemId=71254240492&traceid=V0-113-6f0c3aa5ee521610 
+categories: [1013] 
+color: 9E9D24 
+price: 10200 
+author: Ask View Shop 
+---
+ 
