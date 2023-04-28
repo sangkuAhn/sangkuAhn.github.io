@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "뉴비아 고체 연료, 50g, 20개" 
+description: 뉴비아 고체 연료, 50g, ..
+date: 2023-04-28 11:39:33+0900 
+img: https://image5.coupangcdn.com/image/vendor_inventory/4819/db57d2e92dcc63c6cdf8bd203cc3786d29fe25bea7582101513cf5d6d751.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1735571489&itemId=17913383290&vendorItemId=85076057630&traceid=V0-113-3a431d802bd808cb 
+categories: [1017] 
+color: 43A047 
+price: 26500 
+author: Ask View Shop 
+---
+ 
