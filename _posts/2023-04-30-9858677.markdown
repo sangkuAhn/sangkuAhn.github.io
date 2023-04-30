@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "고래, 문학동네, 천명관" 
+description: 고래, 문학동네, 천명관 ..
+date: 2023-04-30 11:37:49+0900 
+img: https://img3a.coupangcdn.com/image/retail/images/2016/11/23/10/5/a67bc018-647c-4d52-bf30-32ee9244f367.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=9858677&itemId=43674843&vendorItemId=3068348154&traceid=V0-113-686e8bf843d35f00 
+categories: [1019] 
+color: BD24A9 
+price: 13500 
+author: Ask View Shop 
+---
+ 
