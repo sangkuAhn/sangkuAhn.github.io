@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "롯데햄 의성 마늘 비엔나, 160g, 3개" 
+description: 롯데햄 의성 마늘 비엔나,  ..
+date: 2023-05-02 13:26:15+0900 
+img: https://img3c.coupangcdn.com/image/retail/images/3043043448078863-2dc1044e-a76a-42be-bcb5-041ed392d20a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=229297215&itemId=726988847&vendorItemId=4838781021&traceid=V0-113-cc23e51d4d7537e5 
+categories: [1024] 
+color: 9E9D24 
+price: 7900 
+author: Ask View Shop 
+---
+ 
