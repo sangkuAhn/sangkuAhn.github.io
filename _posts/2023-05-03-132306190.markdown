@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "마음의 온도는 몇 도일까요?(양장)" 
+description: 마음의 온도는 몇 도일까요? ..
+date: 2023-05-04 03:26:33+0900 
+img: https://img4a.coupangcdn.com/image/vendor_inventory/0c01/72656f8369ca19d78611bb2974924d679b61b8d36c56835c7bea1725aa33.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=132306190&itemId=389215790&vendorItemId=70912544602&traceid=V0-113-aa722de3758cc235 
+categories: [1019] 
+color: FF6F00 
+price: 10800 
+author: Ask View Shop 
+---
+ 
