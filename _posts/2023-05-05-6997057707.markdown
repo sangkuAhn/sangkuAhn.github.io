@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "레고 테크닉 42151 부가티 볼리드, 혼합색상" 
+description: 레고 테크닉 42151 부가 ..
+date: 2023-05-06 01:28:51+0900 
+img: https://img2c.coupangcdn.com/image/vendor_inventory/307a/91ac2fb12da472d57a36ff8d8fe98e5d63d9dc9a761604182456db561622.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6997057707&itemId=17145516291&vendorItemId=84571677850&traceid=V0-113-34b5d9db8c9f5226 
+categories: [1020] 
+color: 4CAF50 
+price: 63490 
+author: Ask View Shop 
+---
+ 
