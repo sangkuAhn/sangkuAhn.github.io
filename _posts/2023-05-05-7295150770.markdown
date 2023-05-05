@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "세이노의 가르침 책" 
+description: 세이노의 가르침 책 ..
+date: 2023-05-05 23:22:32+0900 
+img: https://img3a.coupangcdn.com/image/vendor_inventory/625a/1599b99d885c19dfb176f8fe544dbefb6fe54a6aa2f4fef64a2ad26a2c9b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7295150770&itemId=18654532569&vendorItemId=85789290121&traceid=V0-113-12b365c51724d142 
+categories: [1019] 
+color: F15F5F 
+price: 6480 
+author: Ask View Shop 
+---
+ 
