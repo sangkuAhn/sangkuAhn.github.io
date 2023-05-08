@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "오뚜기 더 바삭 부침가루, 1kg, 1개" 
+description: 오뚜기 더 바삭 부침가루,  ..
+date: 2023-05-09 01:29:58+0900 
+img: https://image12.coupangcdn.com/image/vendor_inventory/a59b/937a6a5d0eed1fad59084244737b682a0802b8d37c2ec291003add26c167.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6642752612&itemId=18777766838&vendorItemId=85909218085&traceid=V0-113-08db6ec3346e11ca 
+categories: [1012] 
+color: F15F5F 
+price: 16900 
+author: Ask View Shop 
+---
+ 
