@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "두 조각 퍼즐: 동물, 애플비북스" 
+description: 두 조각 퍼즐: 동물, 애플 ..
+date: 2023-05-09 15:28:13+0900 
+img: https://image8.coupangcdn.com/image/vendor_inventory/a3d1/164fbbcb30d6bc179feb609a7a386881a8ea8db9dba7589a521a55d4b493.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=4506684&itemId=20974661&vendorItemId=3137322542&traceid=V0-113-aa3c883e456ee3ab 
+categories: [1019] 
+color: 7E57C2 
+price: 9600 
+author: Ask View Shop 
+---
+ 
