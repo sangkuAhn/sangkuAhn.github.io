@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "말랑쁘니 플러스, 퍼플" 
+description: 말랑쁘니 플러스, 퍼플 ..
+date: 2023-05-09 17:26:31+0900 
+img: https://image8.coupangcdn.com/image/vendor_inventory/9686/aa3996b8f97f89494b86e4ce1e25f4b67a2c10539eb6fd1dfd2886e8a93d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6930105213&itemId=16766746782&vendorItemId=83985221521&traceid=V0-113-f43179cbe35e3980 
+categories: [1020] 
+color: D9418C 
+price: 42470 
+author: Ask View Shop 
+---
+ 
