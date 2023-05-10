@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "오뚜기 진라면 순한맛 120g, 10개" 
+description: 오뚜기 진라면 순한맛 120 ..
+date: 2023-05-10 21:40:22+0900 
+img: https://image12.coupangcdn.com/image/retail/images/2016/06/27/16/9/a385b889-4a24-4c38-ad27-912be5073c66.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5587102353&itemId=9056762124&vendorItemId=4469806327&traceid=V0-113-c5641c92009a7128 
+categories: [1012] 
+color: 4A148C 
+price: 9200 
+author: Ask View Shop 
+---
+ 
