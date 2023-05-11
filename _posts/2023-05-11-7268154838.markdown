@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아이브 앨범 IVE 1집 아이엠 I AM 키치, Ver2" 
+description: 아이브 앨범 IVE 1집 아 ..
+date: 2023-05-11 15:27:05+0900 
+img: https://image13.coupangcdn.com/image/vendor_inventory/7d16/f2b728f8709e45c812066b7d0140b6ce1bc516d81e9303f64d4f2acd0b5b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7268154838&itemId=18529862908&vendorItemId=85715032417&traceid=V0-113-b659690c06b1c528 
+categories: [1019] 
+color: 9E9D24 
+price: 11710 
+author: Ask View Shop 
+---
+ 

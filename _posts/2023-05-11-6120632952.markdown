@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "Grammar Inside 그래머 인사이드 Level 2, NE능률" 
+description: Grammar Inside  ..
+date: 2023-05-11 15:27:05+0900 
+img: https://image8.coupangcdn.com/image/vendor_inventory/d32b/db454a424a390186f14fd8597492e2ba5a9bf4ab4e016eae2793434fe12e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6120632952&itemId=11599549097&vendorItemId=82299772013&traceid=V0-113-c4cf87ea7ff55697 
+categories: [1019] 
+color: 7E57C2 
+price: 13950 
+author: Ask View Shop 
+---
+ 
