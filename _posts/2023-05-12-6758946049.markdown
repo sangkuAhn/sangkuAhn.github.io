@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "바닐라코 프라임 프라이머 클래식 30ml, 혼합색상, 1개" 
+description: 바닐라코 프라임 프라이머 클 ..
+date: 2023-05-12 17:26:11+0900 
+img: https://image11.coupangcdn.com/image/vendor_inventory/66a4/8feeaa200e85a2605d5dee048e04d8962725cb667f770c86ebe6dd7da83a.PNG 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6758946049&itemId=18315271528&vendorItemId=85872078939&traceid=V0-113-290d040b0e871703 
+categories: [1010] 
+color: BF360C 
+price: 21000 
+author: Ask View Shop 
+---
+ 
