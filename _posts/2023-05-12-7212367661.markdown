@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "홈플래닛 베이직 스탠드 선풍기 NDL2211" 
+description: 홈플래닛 베이직 스탠드 선풍 ..
+date: 2023-05-13 05:22:35+0900 
+img: https://image13.coupangcdn.com/image/retail/images/5231900402857284-4dc3ecaa-0621-4348-a29e-dbf7c0fa8524.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7212367661&itemId=18255669809&vendorItemId=85402293544&traceid=V0-113-7d78e232e50964e0 
+categories: [1016] 
+color: f44336 
+price: 24590 
+author: Ask View Shop 
+---
+ 
