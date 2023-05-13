@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "하트 카네이션 카드 만들기(5인용) + 그레이스 카네이션 카드 만들기(5인용)" 
+description: 하트 카네이션 카드 만들기( ..
+date: 2023-05-13 15:26:28+0900 
+img: https://img5c.coupangcdn.com/image/vendor_inventory/3d08/ce33aa2dffb9ddd6b1a2872e392c8d344be8464a47f238832d9c017783c2.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7279752012&itemId=18583459444&vendorItemId=85727238628&traceid=V0-113-108b488706a9f2b9 
+categories: [1021] 
+color: f44336 
+price: 16400 
+author: Ask View Shop 
+---
+ 
