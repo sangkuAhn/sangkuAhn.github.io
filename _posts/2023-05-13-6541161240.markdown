@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "가비진 남성용 일자 롱 팬츠" 
+description: 가비진 남성용 일자 롱 팬츠 ..
+date: 2023-05-13 23:20:17+0900 
+img: https://image10.coupangcdn.com/image/vendor_inventory/5513/039491cab06fbbc3b374e57acab7c51eb45fc9b8a5399f87f7f5c80a26b6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6541161240&itemId=14564522212&vendorItemId=81808389627&traceid=V0-113-16ea3e4ea2786e69 
+categories: [1002] 
+color: 9E9D24 
+price: 15000 
+author: Ask View Shop 
+---
+ 
