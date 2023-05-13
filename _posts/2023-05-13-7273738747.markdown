@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "김대석 셰프의 집밥 레시피, 김대석 저, 경향BP" 
+description: 김대석 셰프의 집밥 레시피, ..
+date: 2023-05-13 11:36:26+0900 
+img: https://image9.coupangcdn.com/image/vendor_inventory/4d9d/58bd520a4aa953c318d329addbed691c5979720ae50613e069194757bee4.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7273738747&itemId=18556576181&vendorItemId=85694340447&traceid=V0-113-a087346b98f5be1a 
+categories: [1019] 
+color: CF36BB 
+price: 16200 
+author: Ask View Shop 
+---
+ 
