@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "홈플래닛 벽걸이형 선풍기, NDB1706" 
+description: 홈플래닛 벽걸이형 선풍기,  ..
+date: 2023-05-20 13:25:55+0900 
+img: https://img5c.coupangcdn.com/image/retail/images/1838494703350996-80139cc0-82a2-4fde-a498-e05652c5bd71.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6382601626&itemId=13567808174&vendorItemId=80821270031&traceid=V0-113-97407f3efe7f6f32 
+categories: [1016] 
+color: 5A8DF3 
+price: 26490 
+author: Ask View Shop 
+---
+ 
