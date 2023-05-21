@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "대나무 김발 대 MP059, 1개" 
+description: 대나무 김발 대 MP059, ..
+date: 2023-05-22 03:26:28+0900 
+img: https://img1c.coupangcdn.com/image/vendor_inventory/968d/afd6d26736f323747d924de3ed3a8384a97c2416a7e6682427897b83f07c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5566459607&itemId=8849546502&vendorItemId=81400973774&traceid=V0-113-e596092039471095 
+categories: [1013] 
+color: FF1744 
+price: 19800 
+author: Ask View Shop 
+---
+ 
