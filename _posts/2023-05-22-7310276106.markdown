@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "티젠 피치 콤부차, 150g, 1개" 
+description: 티젠 피치 콤부차, 150g ..
+date: 2023-05-22 21:39:42+0900 
+img: https://img1c.coupangcdn.com/image/retail/images/8511964442495604-f618e3fd-ec35-4b5c-940c-56a217ecd4bb.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7310276106&itemId=12487667305&vendorItemId=79756386830&traceid=V0-113-0fb28a47f34bb87f 
+categories: [1024] 
+color: A566FF 
+price: 11000 
+author: Ask View Shop 
+---
+ 
