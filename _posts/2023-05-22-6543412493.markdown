@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "샤오미 스마트 BLDC 스탠딩 무선선풍기2 Pro" 
+description: 샤오미 스마트 BLDC 스탠 ..
+date: 2023-05-22 10:48:23+0900 
+img: https://img5c.coupangcdn.com/image/retail/images/7986532980511924-93580368-4ee6-4843-b028-7102dbe7341e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6543412493&itemId=14577967015&vendorItemId=81820078788&traceid=V0-113-d5d4129cd0217427 
+categories: [1016] 
+color: FF6F00 
+price: 140850 
+author: Ask View Shop 
+---
+ 
