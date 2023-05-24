@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "66일 인문학 대화법, 카시오페아" 
+description: 66일 인문학 대화법, 카시 ..
+date: 2023-05-24 11:41:24+0900 
+img: https://image11.coupangcdn.com/image/retail/images/2023/04/26/15/3/36ba0015-6036-49a6-869b-07c0592b24c2.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7295274994&itemId=18655024413&vendorItemId=85789780098&traceid=V0-113-7cbb56505c80690a 
+categories: [1019] 
+color: A566FF 
+price: 15750 
+author: Ask View Shop 
+---
+ 
