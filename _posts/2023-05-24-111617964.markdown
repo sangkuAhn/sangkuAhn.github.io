@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "자바펜 나노골드 1000 2B 샤프심, 0.5mm, 6개" 
+description: 자바펜 나노골드 1000 2 ..
+date: 2023-05-24 15:27:18+0900 
+img: https://img3a.coupangcdn.com/image/vendor_inventory/dc98/7573dd73070977c79970be4706a65a1a32bb1835d72f89ebe81c03089e4a.JPG 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=111617964&itemId=17470919198&vendorItemId=85219185292&traceid=V0-113-89a703e2916372eb 
+categories: [1021] 
+color: 4CAF50 
+price: 10490 
+author: Ask View Shop 
+---
+ 
