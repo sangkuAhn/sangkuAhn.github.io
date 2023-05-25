@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "르젠 2세대 앱연동 BLDC 리모컨 선풍기, LZEF-DC290(화이트)" 
+description: 르젠 2세대 앱연동 BLDC ..
+date: 2023-05-26 01:28:46+0900 
+img: https://image10.coupangcdn.com/image/retail/images/2349087133658163-12bd8fb4-9c49-4cb5-a082-b7f96481473f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6930871037&itemId=16770220424&vendorItemId=4767335201&traceid=V0-113-dd85c875ca93bdba 
+categories: [1016] 
+color: BD24A9 
+price: 89800 
+author: Ask View Shop 
+---
+ 
