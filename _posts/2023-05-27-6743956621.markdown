@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "영어회화 100일의 기적, 넥서스" 
+description: 영어회화 100일의 기적,  ..
+date: 2023-05-28 03:25:52+0900 
+img: https://img3c.coupangcdn.com/image/retail-product-api/A00077021/111852876/124288544/main/9791166833557_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6743956621&itemId=15751940366&vendorItemId=82965640332&traceid=V0-113-a175ff4e43766906 
+categories: [1019] 
+color: A57F92 
+price: 12600 
+author: Ask View Shop 
+---
+ 

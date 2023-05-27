@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "타키 포오 코믹 어드벤처, 2권, 대원키즈" 
+description: 타키 포오 코믹 어드벤처,  ..
+date: 2023-05-28 03:25:52+0900 
+img: https://img3c.coupangcdn.com/image/retail/images/2023/05/22/9/5/aa2f330c-e706-4990-b076-a2253fac31c8.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7350075708&itemId=18911960067&vendorItemId=86039334499&traceid=V0-113-58734b4f24ef8ed8 
+categories: [1019] 
+color: f44336 
+price: 11700 
+author: Ask View Shop 
+---
+ 
