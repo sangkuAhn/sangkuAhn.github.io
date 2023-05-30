@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "스판 카고 밴딩반바지 (MDSP594BJ)" 
+description: 스판 카고 밴딩반바지 (MD ..
+date: 2023-05-30 11:43:10+0900 
+img: https://image6.coupangcdn.com/image/vendor_inventory/199c/fc41029323d1f1f5067840cccd0552530ec7c84c24268c3b178984375fb3.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1884778564&itemId=3202764656&vendorItemId=71190142276&traceid=V0-113-7754d35f9df395c3 
+categories: [1002] 
+color: FF1744 
+price: 16800 
+author: Ask View Shop 
+---
+ 
