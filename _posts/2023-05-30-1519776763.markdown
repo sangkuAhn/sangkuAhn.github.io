@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "보아르 이지 접이식 전기포트 M1, VO-KI014" 
+description: 보아르 이지 접이식 전기포트 ..
+date: 2023-05-31 07:23:19+0900 
+img: https://image14.coupangcdn.com/image/retail/images/2973154598696490-e1009871-69c5-43bc-875f-903f82c6602b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1519776763&itemId=2607845152&vendorItemId=70598963044&traceid=V0-113-52eaa31b6334d440 
+categories: [1013] 
+color: 5A8DF3 
+price: 49800 
+author: Ask View Shop 
+---
+ 

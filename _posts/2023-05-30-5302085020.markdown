@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코멕스 식빵보관용기 3.6L, 2개" 
+description: 코멕스 식빵보관용기 3.6L ..
+date: 2023-05-31 07:23:19+0900 
+img: https://image3.coupangcdn.com/image/rs_quotation_api/tz6qamgs/fb9ec826b6b34ec38c0dfa2636a24d39.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5302085020&itemId=7656774563&vendorItemId=74947179004&traceid=V0-113-95d2ba7d750ef1cc 
+categories: [1013] 
+color: f44336 
+price: 8530 
+author: Ask View Shop 
+---
+ 
