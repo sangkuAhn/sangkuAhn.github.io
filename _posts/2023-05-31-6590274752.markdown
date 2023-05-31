@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "신일 스탠드 선풍기 740 x 340 x 340 mm SIF-P12MS" 
+description: 신일 스탠드 선풍기 740  ..
+date: 2023-05-31 13:26:09+0900 
+img: https://img2a.coupangcdn.com/image/rs_quotation_api/xxrrylyp/e6c5a704859d430a82194168108ab850.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6590274752&itemId=14868523653&vendorItemId=82107573362&traceid=V0-113-b391fb953765a186 
+categories: [1016] 
+color: A6A6A6 
+price: 59000 
+author: Ask View Shop 
+---
+ 
