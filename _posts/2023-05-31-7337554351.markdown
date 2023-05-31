@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "Go Go 카카오프렌즈 태국, 아울북, 28권" 
+description: Go Go 카카오프렌즈 태국 ..
+date: 2023-05-31 19:25:08+0900 
+img: https://img1a.coupangcdn.com/image/retail/images/2023/05/16/12/7/02fc51a5-8ba5-43f7-a290-dd3c94d347f1.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7337554351&itemId=18851666250&vendorItemId=85980952046&traceid=V0-113-6b13780f8fc37f58 
+categories: [1019] 
+color: 43A047 
+price: 13320 
+author: Ask View Shop 
+---
+ 
