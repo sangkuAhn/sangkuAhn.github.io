@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "그냥 밥 먹자는 말이 아니었을지도 몰라, 양희경 저, 달" 
+description: 그냥 밥 먹자는 말이 아니었 ..
+date: 2023-06-02 17:26:32+0900 
+img: https://image4.coupangcdn.com/image/vendor_inventory/6b4c/66273da33e1cb7d867e39c3c2fc0150d991f7699e0653f0bf40f0629e024.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7281895864&itemId=18593383245&vendorItemId=85729595501&traceid=V0-113-357732132e91fdec 
+categories: [1019] 
+color: 4A148C 
+price: 15300 
+author: Ask View Shop 
+---
+ 

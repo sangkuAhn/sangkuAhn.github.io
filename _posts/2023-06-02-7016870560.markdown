@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "디딤돌교육(학습)/최상위 초등수학 6-2 (2023년용), 디딤돌교육(학습)" 
+description: 디딤돌교육(학습)/최상위 초 ..
+date: 2023-06-02 17:26:32+0900 
+img: https://image3.coupangcdn.com/image/retail-product-api/A00077021/133626608/147320234/main/9788926162729_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7016870560&itemId=17265490223&vendorItemId=84436721548&traceid=V0-113-c1c73f7fdc6d98dc 
+categories: [1019] 
+color: 03A9F4 
+price: 14400 
+author: Ask View Shop 
+---
+ 
