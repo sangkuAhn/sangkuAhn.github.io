@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "종가 맛김치 PET, 1.2kg, 1개" 
+description: 종가 맛김치 PET, 1.2 ..
+date: 2023-06-03 23:20:29+0900 
+img: https://img2a.coupangcdn.com/image/retail/images/2022/12/26/15/7/04d3e58e-7ac6-42a4-b54e-93f6e05aabe3.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7025563946&itemId=17319879727&vendorItemId=84490613956&traceid=V0-113-26d9a11533dab174 
+categories: [1012] 
+color: 4CAF50 
+price: 12900 
+author: Ask View Shop 
+---
+ 
