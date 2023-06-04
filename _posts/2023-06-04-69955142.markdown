@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "애니멀밥 달팽이먹이, 160g, 1개" 
+description: 애니멀밥 달팽이먹이, 160 ..
+date: 2023-06-04 23:21:00+0900 
+img: https://img3a.coupangcdn.com/image/vendor_inventory/3e7b/8e4a87605a5e98265f7b4a8fa5374b8699f8e4e2656df7dbc30c5f3218f0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=69955142&itemId=234052924&vendorItemId=80652746244&traceid=V0-113-bde6dc4d27d3fb46 
+categories: [1029] 
+color: BF360C 
+price: 2450 
+author: Ask View Shop 
+---
+ 
