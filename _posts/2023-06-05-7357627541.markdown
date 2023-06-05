@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "휴대용 전기모기채, FINE-SWAT-01" 
+description: 휴대용 전기모기채, FINE ..
+date: 2023-06-06 03:26:07+0900 
+img: https://img3c.coupangcdn.com/image/retail/images/164587271607480-bc5ec494-f029-457b-801b-c8eda94c340d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7357627541&itemId=18948727201&vendorItemId=3742016371&traceid=V0-113-c96e96f05c01983c 
+categories: [1015] 
+color: F15F5F 
+price: 8120 
+author: Ask View Shop 
+---
+ 
