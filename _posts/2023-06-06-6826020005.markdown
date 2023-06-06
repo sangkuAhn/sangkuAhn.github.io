@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "두들북 핑크퐁" 
+description: 두들북 핑크퐁 ..
+date: 2023-06-06 12:01:05+0900 
+img: https://img1a.coupangcdn.com/image/vendor_inventory/8f6a/c6eccf14f35eff6be9bd9f40bb275d6b26961a0f0b5a62213be4f3592c38.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6826020005&itemId=16192363521&vendorItemId=83171544142&traceid=V0-113-1573bcd9d89dc1d9 
+categories: [1019] 
+color: A57F92 
+price: 5400 
+author: Ask View Shop 
+---
+ 
