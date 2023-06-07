@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "프로스펙스 스킨핏 손목 보호대 밴드, 1개" 
+description: 프로스펙스 스킨핏 손목 보호 ..
+date: 2023-06-08 03:27:58+0900 
+img: https://image11.coupangcdn.com/image/rs_quotation_api/k7gmf40n/5ead0f3b25ac44128a4a5e6c93907ca3.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6925417842&itemId=16738795422&vendorItemId=83920749382&traceid=V0-113-82b745fb94dcc487 
+categories: [1017] 
+color: f44336 
+price: 18800 
+author: Ask View Shop 
+---
+ 
