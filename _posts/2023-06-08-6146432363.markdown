@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "제주 흙당근, 1.5kg, 1봉" 
+description: 제주 흙당근, 1.5kg,  ..
+date: 2023-06-08 13:26:45+0900 
+img: https://image7.coupangcdn.com/image/retail/images/1815284211196872-bb0bbd36-e6c7-4d57-ba26-81baee443f5f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6146432363&itemId=11832064165&vendorItemId=79105493180&traceid=V0-113-8ade90be126acc6c 
+categories: [1024] 
+color: A57F92 
+price: 8490 
+author: Ask View Shop 
+---
+ 
