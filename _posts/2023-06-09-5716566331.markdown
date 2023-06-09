@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "써머텍트 기능성 쿨 헤어밴드 1+1" 
+description: 써머텍트 기능성 쿨 헤어밴드 ..
+date: 2023-06-09 23:23:03+0900 
+img: https://img1c.coupangcdn.com/image/vendor_inventory/6c28/0e9eb68192996996dadb0284ed654fa47f2fc84c4a461517b872f63f900e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5716566331&itemId=9548023757&vendorItemId=76832706956&traceid=V0-113-f03b8599b76bccab 
+categories: [1017] 
+color: F15F5F 
+price: 12900 
+author: Ask View Shop 
+---
+ 
