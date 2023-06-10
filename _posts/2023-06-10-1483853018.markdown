@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "미원 맛소금 (1kg / 2kg), 1kg, 1개" 
+description: 미원 맛소금 (1kg / 2 ..
+date: 2023-06-10 10:52:00+0900 
+img: https://image15.coupangcdn.com/image/vendor_inventory/70f8/1c7619ccfefe6806f0cacf0c15788e443249edebb5b9dfa76fd475295d85.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1483853018&itemId=14186948414&vendorItemId=82088577063&traceid=V0-113-cba79424933e1466 
+categories: [1024] 
+color: 43A047 
+price: 3800 
+author: Ask View Shop 
+---
+ 
