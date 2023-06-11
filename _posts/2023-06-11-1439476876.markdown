@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "페스트7 초파리 트랩 세트, 1세트" 
+description: 페스트7 초파리 트랩 세트, ..
+date: 2023-06-11 15:26:05+0900 
+img: https://image15.coupangcdn.com/image/retail/images/2020/04/07/21/6/7f907634-56fe-4f4c-83f0-abe3b1dce215.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1439476876&itemId=2482995276&vendorItemId=70476385796&traceid=V0-113-392c4b3dcb57360c 
+categories: [1014] 
+color: 353535 
+price: 13530 
+author: Ask View Shop 
+---
+ 
