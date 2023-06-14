@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "종근당 비타민C, 200정, 1개" 
+description: 종근당 비타민C, 200정, ..
+date: 2023-06-15 01:29:22+0900 
+img: https://image14.coupangcdn.com/image/vendor_inventory/63e3/231d43f07b6e435685a88c59aa8b32a4acdbd9bdd5dd846ff5b9aa814585.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6806688732&itemId=12728780149&vendorItemId=70546897170&traceid=V0-113-3c2b1350fd27cc59 
+categories: [1011] 
+color: 9E9D24 
+price: 11980 
+author: Ask View Shop 
+---
+ 
