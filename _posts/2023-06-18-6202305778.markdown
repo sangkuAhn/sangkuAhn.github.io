@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "농심 배홍동 비빔면, 4개" 
+description: 농심 배홍동 비빔면, 4개 ..
+date: 2023-06-18 19:25:04+0900 
+img: https://img4c.coupangcdn.com/image/vendor_inventory/c8b6/12cb1ac1cd1825a5b4624c30c534a26a2c3248d915095bee4bfe059bb6e3.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6202305778&itemId=18307070506&vendorItemId=86074528002&traceid=V0-113-118d6b0972280929 
+categories: [1012] 
+color: 9E9D24 
+price: 16000 
+author: Ask View Shop 
+---
+ 
