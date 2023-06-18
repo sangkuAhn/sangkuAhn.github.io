@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "삼성전자 마이크로SD EVO Plus MB-MC128KA/KR, 128GB" 
+description: 삼성전자 마이크로SD EVO ..
+date: 2023-06-19 03:25:14+0900 
+img: https://image2.coupangcdn.com/image/vendor_inventory/b11f/1e7bb8d3a359126b89e6c5311acc6237ab960c9306ea3e9a12d69d5bad8b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6094876279&itemId=11385108127&vendorItemId=82628266790&traceid=V0-113-30c1a1a8d336c146 
+categories: [1016] 
+color: 353535 
+price: 11990 
+author: Ask View Shop 
+---
+ 
