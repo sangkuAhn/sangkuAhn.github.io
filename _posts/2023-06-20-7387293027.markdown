@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "미래엔 아이세움/흔한남매의 흔한 호기심 9 : 일상에서 만나는 과학상식, 미래엔 아이세움" 
+description: 미래엔 아이세움/흔한남매의  ..
+date: 2023-06-21 05:22:49+0900 
+img: https://image13.coupangcdn.com/image/retail-product-api/A00077021/163471566/179271964/main/9791168415409_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7387293027&itemId=19092495473&vendorItemId=86213401371&traceid=V0-113-ddfea045772f16f0 
+categories: [1019] 
+color: 03A9F4 
+price: 12600 
+author: Ask View Shop 
+---
+ 
