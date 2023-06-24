@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "블라스터 전동 물총, 화이트" 
+description: 블라스터 전동 물총, 화이트 ..
+date: 2023-06-24 23:24:40+0900 
+img: https://img1a.coupangcdn.com/image/retail/images/2445282033750994-73d46c5c-aedf-4030-bb2a-1af362a590bb.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1620144108&itemId=2764840103&vendorItemId=70754714956&traceid=V0-113-b075b93f64b9120d 
+categories: [1020] 
+color: BF360C 
+price: 21300 
+author: Ask View Shop 
+---
+ 
