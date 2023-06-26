@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "시프이컴 퓨어 스탠드형 5엽 선풍기 화이트, CIF-FN03G" 
+description: 시프이컴 퓨어 스탠드형 5엽 ..
+date: 2023-06-26 13:31:14+0900 
+img: https://img4a.coupangcdn.com/image/retail/images/298981927428385-fc521d84-1e7d-4c4a-b841-4846e652066d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5348062791&itemId=7858429563&vendorItemId=75148083142&traceid=V0-113-e2080d54339ec635 
+categories: [1016] 
+color: FF6F00 
+price: 26590 
+author: Ask View Shop 
+---
+ 
