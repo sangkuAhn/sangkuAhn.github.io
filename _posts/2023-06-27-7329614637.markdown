@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "티젠 콤부차 레몬, 5g, 50개입, 1개" 
+description: 티젠 콤부차 레몬, 5g,  ..
+date: 2023-06-28 01:32:56+0900 
+img: https://image11.coupangcdn.com/image/retail/images/8488126026779664-892d3d86-7c6a-46a0-a688-f34a254e0a09.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7329614637&itemId=16371399370&vendorItemId=80080064236&traceid=V0-113-0d8d15025dfee99e 
+categories: [1012] 
+color: f44336 
+price: 15370 
+author: Ask View Shop 
+---
+ 
