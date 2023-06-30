@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "돌베개/문과 남자의 과학 공부 : 나는 무엇이고 왜 존재하며 어디로 가는가?, 돌베개, 유시민" 
+description: 돌베개/문과 남자의 과학 공 ..
+date: 2023-06-30 11:58:58+0900 
+img: https://image10.coupangcdn.com/image/retail-product-api/A00077021/164343668/180214542/main/9791192836188_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7402399342&itemId=19162661425&vendorItemId=86281176206&traceid=V0-113-a98d485615b91e57 
+categories: [1019] 
+color: F15F5F 
+price: 15750 
+author: Ask View Shop 
+---
+ 

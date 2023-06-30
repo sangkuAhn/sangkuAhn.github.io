@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "마당이 있는 집:, 엘릭시르, 김진영 저" 
+description: 마당이 있는 집:, 엘릭시르 ..
+date: 2023-06-30 11:58:58+0900 
+img: https://img1a.coupangcdn.com/image/vendor_inventory/13b8/c499080c334e1b7c5af3a2445816379b97035b8dc3b6d9df4c759555bf62.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=86777593&itemId=272817689&vendorItemId=86421216091&traceid=V0-113-015211f0433774b7 
+categories: [1019] 
+color: 006064 
+price: 12420 
+author: Ask View Shop 
+---
+ 
