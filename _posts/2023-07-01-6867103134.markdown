@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "닥터지 블랙 스네일크림, 50ml, 1개" 
+description: 닥터지 블랙 스네일크림, 5 ..
+date: 2023-07-01 15:29:32+0900 
+img: https://static.coupangcdn.com/image/product/image/vendoritem/2018/11/21/4086452551/1fab76b6-8afb-464b-8add-1e485bbac483.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6867103134&itemId=439209653&vendorItemId=4086452551&traceid=V0-113-8f0e2ef3750a7edf 
+categories: [1010] 
+color: F361A6 
+price: 9150 
+author: Ask View Shop 
+---
+ 
