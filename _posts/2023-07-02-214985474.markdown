@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "제비표 SI-150 상하 우의 우비" 
+description: 제비표 SI-150 상하 우 ..
+date: 2023-07-02 23:22:56+0900 
+img: https://img2c.coupangcdn.com/image/vendor_inventory/c691/99810d2e4dd9439df24b0923261cef4d38d74748a448bf0f2615834ed828.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=214985474&itemId=656684773&vendorItemId=82698943468&traceid=V0-113-b25a36642269ecaf 
+categories: [1002] 
+color: 4A148C 
+price: 26780 
+author: Ask View Shop 
+---
+ 
