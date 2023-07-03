@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "LED 90도 회전 USB충전식 전기 모기채 Sik-A, 핑크" 
+description: LED 90도 회전 USB충 ..
+date: 2023-07-03 23:25:08+0900 
+img: https://img3c.coupangcdn.com/image/vendor_inventory/a962/784dd3dd2aaf58b3c94f830bdcaf417bc0c15c6b6ea8b673e7712ba5a6b3.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6233403265&itemId=12540275720&vendorItemId=85654436884&traceid=V0-113-f4a0c617f04b30a8 
+categories: [1015] 
+color: FF6F00 
+price: 20500 
+author: Ask View Shop 
+---
+ 
