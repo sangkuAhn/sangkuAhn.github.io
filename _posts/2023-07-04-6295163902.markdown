@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "완숙토마토, 5kg, 1개" 
+description: 완숙토마토, 5kg, 1개 ..
+date: 2023-07-04 13:30:38+0900 
+img: https://img4c.coupangcdn.com/image/retail/images/26436470441377-0df006a2-ced5-4270-bf58-83b9c7573295.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6295163902&itemId=5911957943&vendorItemId=73210036888&traceid=V0-113-dc64939402bb0047 
+categories: [1024] 
+color: FF1744 
+price: 17990 
+author: Ask View Shop 
+---
+ 

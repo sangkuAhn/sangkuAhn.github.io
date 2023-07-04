@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "리챔 오리지널 햄통조림, 340g, 4개" 
+description: 리챔 오리지널 햄통조림, 3 ..
+date: 2023-07-04 13:30:38+0900 
+img: https://image6.coupangcdn.com/image/vendor_inventory/images/2016/05/12/10/4/c26314d3-88ec-4747-8171-5d186a2af4a5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1017437&itemId=17905761621&vendorItemId=3001028998&traceid=V0-113-fbb877fa74efe166 
+categories: [1024] 
+color: A566FF 
+price: 13340 
+author: Ask View Shop 
+---
+ 
