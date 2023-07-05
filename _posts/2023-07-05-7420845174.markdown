@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "문과 남자의 과학 공부" 
+description: 문과 남자의 과학 공부 ..
+date: 2023-07-06 03:32:00+0900 
+img: https://image8.coupangcdn.com/image/vendor_inventory/9fa7/63c9657f285518cfb51d7f7742cbdf2e82add0a0d53a90feb946a68593f8.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7420845174&itemId=19249355694&vendorItemId=86330478960&traceid=V0-113-6fddbc807306981d 
+categories: [1019] 
+color: BF360C 
+price: 15750 
+author: Ask View Shop 
+---
+ 
