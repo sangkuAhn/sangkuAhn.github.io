@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "웅진 하늘보리, 500ml, 20개" 
+description: 웅진 하늘보리, 500ml, ..
+date: 2023-07-06 11:06:36+0900 
+img: https://image6.coupangcdn.com/image/retail/images/2976345892333392-42ef31fa-676c-4663-bc53-25e78aefc944.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6908608393&itemId=373049219&vendorItemId=3904133275&traceid=V0-113-b92e6dd97cdcb447 
+categories: [1024] 
+color: F361A6 
+price: 12500 
+author: Ask View Shop 
+---
+ 
