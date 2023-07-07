@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "신일 기본형 스탠드 선풍기 SIF-1214CPNK" 
+description: 신일 기본형 스탠드 선풍기  ..
+date: 2023-07-07 17:30:13+0900 
+img: https://image15.coupangcdn.com/image/vendor_inventory/ec73/9516f7c86ed06426bbf4793ff3fae767670b9faac759f94528005aa8fc0c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7198408835&itemId=18189893930&vendorItemId=85339051017&traceid=V0-113-0c77672a395d0122 
+categories: [1016] 
+color: BF360C 
+price: 53900 
+author: Ask View Shop 
+---
+ 
