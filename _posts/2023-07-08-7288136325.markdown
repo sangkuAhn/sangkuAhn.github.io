@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "어썸 슬리브리스 썸머 데일리 나시 2P" 
+description: 어썸 슬리브리스 썸머 데일리 ..
+date: 2023-07-08 11:02:33+0900 
+img: https://img3c.coupangcdn.com/image/vendor_inventory/81cc/ea6a8ee8a836f695583275d7b90c6dbbb83f17b327de5c3dd0967dc7b1d9.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7288136325&itemId=18621757820&vendorItemId=85764249798&traceid=V0-113-ebeb8291be1dca45 
+categories: [1001] 
+color: 03A9F4 
+price: 10900 
+author: Ask View Shop 
+---
+ 
