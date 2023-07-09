@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "디딤돌교육(학습)/디딤돌 초등수학 기본편 3-2 (2023년), 디딤돌교육(학습), 초등3학년" 
+description: 디딤돌교육(학습)/디딤돌 초 ..
+date: 2023-07-09 21:42:22+0900 
+img: https://image11.coupangcdn.com/image/retail-product-api/A00077021/133626584/147320210/main/9788926162378_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7016870826&itemId=17265491732&vendorItemId=84436723118&traceid=V0-113-74eda5504ad860d9 
+categories: [1019] 
+color: FF1744 
+price: 13500 
+author: Ask View Shop 
+---
+ 
