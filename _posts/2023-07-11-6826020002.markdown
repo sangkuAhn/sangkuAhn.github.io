@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "두들북 아기상어, 핑크퐁" 
+description: 두들북 아기상어, 핑크퐁 ..
+date: 2023-07-11 17:30:56+0900 
+img: https://img1a.coupangcdn.com/image/vendor_inventory/120a/7d4bdb4bc424f02c97d905f8caeb25c3a4b8a623df588e79094ee0c8373a.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6826020002&itemId=16192363517&vendorItemId=83171548578&traceid=V0-113-4cfbd5fbca5d9bc8 
+categories: [1019] 
+color: A566FF 
+price: 5400 
+author: Ask View Shop 
+---
+ 
