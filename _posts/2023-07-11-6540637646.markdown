@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "백산수 농심 무라벨, 24개, 2L" 
+description: 백산수 농심 무라벨, 24개 ..
+date: 2023-07-11 23:26:27+0900 
+img: https://img4a.coupangcdn.com/image/vendor_inventory/58a9/84f989b3d3c048c1a052ca32b13df1976a416d25344ed1e9ceae86048afa.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6540637646&itemId=13639184735&vendorItemId=82154818936&traceid=V0-113-ae49b3d3e2cfd9f3 
+categories: [1024] 
+color: CF36BB 
+price: 28900 
+author: Ask View Shop 
+---
+ 
