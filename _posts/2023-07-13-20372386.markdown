@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "삼국지 경영학, 을유문화사, 최우석 저" 
+description: 삼국지 경영학, 을유문화사, ..
+date: 2023-07-13 13:28:59+0900 
+img: https://image2.coupangcdn.com/image/vendor_inventory/55e4/c8ebc829661f845c184a2eb9afadb807265a0d91717ba959c731b196dc55.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=20372386&itemId=80541298&vendorItemId=3137090051&traceid=V0-113-8b4ceb310257ef8f 
+categories: [1019] 
+color: A6A6A6 
+price: 10800 
+author: Ask View Shop 
+---
+ 
