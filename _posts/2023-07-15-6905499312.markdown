@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "2023 자이스토리 고1 수학 하, 수학영역, 수경출판사" 
+description: 2023 자이스토리 고1 수 ..
+date: 2023-07-15 11:05:32+0900 
+img: https://img4a.coupangcdn.com/image/vendor_inventory/6c3f/f862637bfdac88f482b29e2c03460336b614fe3d3bbef653f320cbcf8f2b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6905499312&itemId=16622563149&vendorItemId=83716888785&traceid=V0-113-b44f5988d4e9243d 
+categories: [1019] 
+color: f44336 
+price: 15750 
+author: Ask View Shop 
+---
+ 
