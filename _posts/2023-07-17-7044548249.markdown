@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "수지나 데일리 캔버스 크로스백" 
+description: 수지나 데일리 캔버스 크로스 ..
+date: 2023-07-17 19:29:31+0900 
+img: https://image15.coupangcdn.com/image/vendor_inventory/7b02/7bfa8011da64ec0ec5474735161c820a0413b364f71f4c656b8b7bfb4c67.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7044548249&itemId=17430737038&vendorItemId=84608317546&traceid=V0-113-5553c74515fbc62d 
+categories: [1001] 
+color: 006064 
+price: 11700 
+author: Ask View Shop 
+---
+ 
