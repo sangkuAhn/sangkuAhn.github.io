@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "샌디스크/ USB메모리, 32GB" 
+description: 샌디스크/ USB메모리, 3 ..
+date: 2023-07-19 01:32:23+0900 
+img: https://img5c.coupangcdn.com/image/vendor_inventory/263e/cbf020fcb3eb3b7d3202719f0149e7b69d64077aaddc1b7abaa7a76fbc03.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1301293443&itemId=2315095101&vendorItemId=70061602269&traceid=V0-113-4e683c3de954ab27 
+categories: [1016] 
+color: A6A6A6 
+price: 3650 
+author: Ask View Shop 
+---
+ 
