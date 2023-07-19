@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "딥톡 다미타니 원터치 3단 자동 우양산" 
+description: 딥톡 다미타니 원터치 3단  ..
+date: 2023-07-19 19:25:28+0900 
+img: https://img3c.coupangcdn.com/image/retail/images/2023028613179654-40db638e-b37a-400c-8658-f9e349c880f7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7273716195&itemId=18556484471&vendorItemId=85694253443&traceid=V0-113-1efdc79a61353ced 
+categories: [1001] 
+color: F15F5F 
+price: 8410 
+author: Ask View Shop 
+---
+ 
