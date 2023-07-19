@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "2P 로우니 에어 기내용 목베개" 
+description: 2P 로우니 에어 기내용 목 ..
+date: 2023-07-19 21:40:29+0900 
+img: https://img2a.coupangcdn.com/image/vendor_inventory/4c7a/4dff78eb5e5b6baa298209e9a2052679bf8f0d01f299c5babeb6debfca0b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7031275061&itemId=17353246090&vendorItemId=86420615801&traceid=V0-113-cfb534a8d22f7819 
+categories: [1002] 
+color: A6A6A6 
+price: 15000 
+author: Ask View Shop 
+---
+ 
