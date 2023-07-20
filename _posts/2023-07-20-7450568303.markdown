@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "펩시 제로 슈거 라임향, 24개, 500ml" 
+description: 펩시 제로 슈거 라임향, 2 ..
+date: 2023-07-20 15:27:45+0900 
+img: https://img5c.coupangcdn.com/image/retail/images/4260160778956784-e03b7bb7-7f54-4645-ba60-bf0bc17e784c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7450568303&itemId=19395560610&vendorItemId=85068272540&traceid=V0-113-5b7e837cd135009f 
+categories: [1012] 
+color: FF1744 
+price: 20900 
+author: Ask View Shop 
+---
+ 
