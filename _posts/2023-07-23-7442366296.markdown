@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "프렌디드 4세대 동글지갑 일본동전지갑" 
+description: 프렌디드 4세대 동글지갑 일 ..
+date: 2023-07-23 13:24:45+0900 
+img: https://img5a.coupangcdn.com/image/vendor_inventory/660b/1305841a89abf5605c03b6fc450da67b72b13a08283c2005cf51a2aa182b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7442366296&itemId=19355697716&vendorItemId=85413107916&traceid=V0-113-4cce052eac33e0f7 
+categories: [1002] 
+color: 4A148C 
+price: 16900 
+author: Ask View Shop 
+---
+ 
