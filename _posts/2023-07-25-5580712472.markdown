@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "벤쿠쿠 캐주얼 초경량 백팩 MP58" 
+description: 벤쿠쿠 캐주얼 초경량 백팩  ..
+date: 2023-07-25 10:55:56+0900 
+img: https://image6.coupangcdn.com/image/vendor_inventory/bd08/7d2373a15fae9934511e92e5b1731229fe52e61a8e9a57afa13190d5d863.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5580712472&itemId=8917672333&vendorItemId=76204275269&traceid=V0-113-d5b674e1b1f5f6eb 
+categories: [1002] 
+color: CF36BB 
+price: 27900 
+author: Ask View Shop 
+---
+ 
