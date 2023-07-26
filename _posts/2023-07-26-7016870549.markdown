@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "디딤돌 초등 수학 기본 (2023년), 디딤돌교육(학습), 초등 4-2" 
+description: 디딤돌 초등 수학 기본 (2 ..
+date: 2023-07-26 17:26:37+0900 
+img: https://image15.coupangcdn.com/image/retail-product-api/A00077021/133626597/147320223/main/9788926162385_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7016870549&itemId=17265491689&vendorItemId=84436723094&traceid=V0-113-13d194b9d7b66879 
+categories: [1019] 
+color: BF360C 
+price: 13500 
+author: Ask View Shop 
+---
+ 
