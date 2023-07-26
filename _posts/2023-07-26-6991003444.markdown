@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "곰곰 미국산 레몬, 1kg, 1봉" 
+description: 곰곰 미국산 레몬, 1kg, ..
+date: 2023-07-26 23:22:24+0900 
+img: https://img4a.coupangcdn.com/image/retail/images/4669342780985396-6fcb61f2-1088-45ab-acf0-5ddb0ddecd62.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6991003444&itemId=17110275565&vendorItemId=84283960027&traceid=V0-113-8c2509998482c8d3 
+categories: [1024] 
+color: 4A148C 
+price: 9380 
+author: Ask View Shop 
+---
+ 
