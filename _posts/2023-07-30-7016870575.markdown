@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "최상위 초등 수학 (2023년), 디딤돌교육(학습), 초등 5-2" 
+description: 최상위 초등 수학 (2023 ..
+date: 2023-07-30 10:40:36+0900 
+img: https://image8.coupangcdn.com/image/retail-product-api/A00077021/133626607/147320233/main/9788926162712_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7016870575&itemId=17265491682&vendorItemId=84436723084&traceid=V0-113-332c408c8a6455f9 
+categories: [1019] 
+color: F15F5F 
+price: 14400 
+author: Ask View Shop 
+---
+ 
