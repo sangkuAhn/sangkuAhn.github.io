@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "인디고 기본 A5 작업일지 플래너, 그린" 
+description: 인디고 기본 A5 작업일지  ..
+date: 2023-07-30 13:24:07+0900 
+img: https://image8.coupangcdn.com/image/vendor_inventory/f92b/42bb941b21e091df363976e109fd49b24402de7e26b664ea4d2791ddaff8.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6553346783&itemId=19611788734&vendorItemId=86718744360&traceid=V0-113-4590622237b7e2df 
+categories: [1021] 
+color: CF36BB 
+price: 7900 
+author: Ask View Shop 
+---
+ 
