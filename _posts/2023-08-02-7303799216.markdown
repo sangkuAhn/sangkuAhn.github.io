@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "신일 스탠드형 선풍기 SIF-14SJG" 
+description: 신일 스탠드형 선풍기 SIF ..
+date: 2023-08-02 19:25:52+0900 
+img: https://img5a.coupangcdn.com/image/retail/images/2023/04/30/11/7/0268badd-34ca-40f1-b1a0-6dad8981568c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7303799216&itemId=18696304123&vendorItemId=85830099342&traceid=V0-113-9cc9deaf8f1c92d5 
+categories: [1016] 
+color: 5A8DF3 
+price: 74900 
+author: Ask View Shop 
+---
+ 
