@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "블루필 아이스쿨링 쿨스카프 넥쿨러 베이직 플러스, 스마일 패턴" 
+description: 블루필 아이스쿨링 쿨스카프  ..
+date: 2023-08-03 13:24:30+0900 
+img: https://img2c.coupangcdn.com/image/vendor_inventory/d1cd/1177db61f8d3b67320725b3c2d709b92943dc93aaeb06563d33bed6fc236.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7358442171&itemId=18952479467&vendorItemId=85995920159&traceid=V0-113-e15fc0c2c2a16317 
+categories: [1002] 
+color: 4CAF50 
+price: 21000 
+author: Ask View Shop 
+---
+ 
