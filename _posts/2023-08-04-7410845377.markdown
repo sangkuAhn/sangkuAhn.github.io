@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "닥터유 단백질바 한입쏙, 380g, 1개" 
+description: 닥터유 단백질바 한입쏙, 3 ..
+date: 2023-08-04 17:25:37+0900 
+img: https://image1.coupangcdn.com/image/retail/images/8327254479004946-eba42444-104c-49b2-ba4a-279e4d12cf9b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7410845377&itemId=15326615156&vendorItemId=70281398857&traceid=V0-113-c03d346b28db3cd5 
+categories: [1017] 
+color: BF360C 
+price: 10640 
+author: Ask View Shop 
+---
+ 
