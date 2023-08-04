@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "소하임 원목 스툴, 베이지" 
+description: 소하임 원목 스툴, 베이지 ..
+date: 2023-08-05 01:26:55+0900 
+img: https://img5c.coupangcdn.com/image/vendor_inventory/75ea/dd2cabdfd3deec0340001e950a98d965ec09365836a39bf338ac3ac0a86e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7133773355&itemId=17894614702&vendorItemId=85413355081&traceid=V0-113-c4f63f74c6fb4aad 
+categories: [1021] 
+color: FF1744 
+price: 15500 
+author: Ask View Shop 
+---
+ 
