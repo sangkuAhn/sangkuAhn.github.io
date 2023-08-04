@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "커넥티아 스노클링 세트, 핑크" 
+description: 커넥티아 스노클링 세트, 핑 ..
+date: 2023-08-04 23:21:48+0900 
+img: https://image6.coupangcdn.com/image/vendor_inventory/ebae/e241fea8d21aa23bed570f221fb834ba5bea51d4c1b8a4ede82b8192b4bd.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7149971052&itemId=17973480344&vendorItemId=85328891643&traceid=V0-113-1b89629ac26f44b5 
+categories: [1020] 
+color: 353535 
+price: 15800 
+author: Ask View Shop 
+---
+ 
