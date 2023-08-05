@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "임금님표 이천쌀 특등급, 1개, 10kg" 
+description: 임금님표 이천쌀 특등급, 1 ..
+date: 2023-08-06 03:24:20+0900 
+img: https://img2c.coupangcdn.com/image/retail/images/5221851603724890-6f8e0fc0-9119-492f-96b8-cab71aa86f83.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7230396199&itemId=18244011001&vendorItemId=85489393990&traceid=V0-113-19157157ceff4cc4 
+categories: [1012] 
+color: 4374D9 
+price: 36790 
+author: Ask View Shop 
+---
+ 
