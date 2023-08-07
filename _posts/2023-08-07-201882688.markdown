@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "대웅 스탠드 선풍기 DWF-RF5014" 
+description: 대웅 스탠드 선풍기 DWF- ..
+date: 2023-08-08 07:22:25+0900 
+img: https://image8.coupangcdn.com/image/vendor_inventory/a8bb/27310154b2678aed75d4aefa6a5ce8316e9297b62f0bbdc4f4dbd84e2d72.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=201882688&itemId=589543702&vendorItemId=81656987335&traceid=V0-113-eebeb24f5b5991d7 
+categories: [1016] 
+color: A6A6A6 
+price: 36700 
+author: Ask View Shop 
+---
+ 
