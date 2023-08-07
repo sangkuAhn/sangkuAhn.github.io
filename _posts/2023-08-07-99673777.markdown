@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "봄91 젤 아이스팩, 1개입, 10개" 
+description: 봄91 젤 아이스팩, 1개입 ..
+date: 2023-08-08 01:27:42+0900 
+img: https://image4.coupangcdn.com/image/product/image/vendoritem/2019/06/11/3713154114/8c04685b-618b-49dc-9424-4eb93758d847.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=99673777&itemId=304843020&vendorItemId=3751668540&traceid=V0-113-60eaab45af75e2e5 
+categories: [1013] 
+color: 1294AB 
+price: 7320 
+author: Ask View Shop 
+---
+ 
