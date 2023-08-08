@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "FILA 쿨스카프(3개입)" 
+description: FILA 쿨스카프(3개입) ..
+date: 2023-08-09 01:28:43+0900 
+img: https://img2a.coupangcdn.com/image/vendor_inventory/7377/7a4a62d988e88152ac831ce5db8ed6418b314b2bdec8d6c5cfab47780d55.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7115413763&itemId=17801016994&vendorItemId=84965088582&traceid=V0-113-f2663b2b804f5c23 
+categories: [1002] 
+color: BD24A9 
+price: 20900 
+author: Ask View Shop 
+---
+ 
