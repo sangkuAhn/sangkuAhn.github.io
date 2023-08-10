@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "시스맥스 올리오 책꽂이 3단, 화이트" 
+description: 시스맥스 올리오 책꽂이 3단 ..
+date: 2023-08-10 13:25:51+0900 
+img: https://image2.coupangcdn.com/image/retail/images/3134012041729662-9ff3d8a6-dbc8-42c4-a3b4-30fa30f5ec0f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6576927481&itemId=14785453635&vendorItemId=82025498284&traceid=V0-113-fd4e297c1d3ead8f 
+categories: [1021] 
+color: 43A047 
+price: 20490 
+author: Ask View Shop 
+---
+ 
