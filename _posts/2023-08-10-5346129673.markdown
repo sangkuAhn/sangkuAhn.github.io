@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "비앤씨 바다동물 수영보드, 바다코끼리" 
+description: 비앤씨 바다동물 수영보드,  ..
+date: 2023-08-10 11:39:52+0900 
+img: https://img1c.coupangcdn.com/image/vendor_inventory/9729/05b464e057458039c4081629a840edb574f4dbf17d20fdd5145c70879bba.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5346129673&itemId=7851505046&vendorItemId=4878291479&traceid=V0-113-da9da24e303c20ea 
+categories: [1020] 
+color: 4374D9 
+price: 9500 
+author: Ask View Shop 
+---
+ 
