@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "약속 : 민시우 동시집, gasse(가쎄)" 
+description: 약속 : 민시우 동시집, g ..
+date: 2023-08-12 05:21:33+0900 
+img: https://image3.coupangcdn.com/image/vendor_inventory/d39f/1c054d2203c4409e5180f4eaa439dc35cfb8113e5d1697dcbcd4dec2e6bd.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6990331169&itemId=17107111145&vendorItemId=85091678461&traceid=V0-113-5daf29af5a0a4e8c 
+categories: [1019] 
+color: D9418C 
+price: 12420 
+author: Ask View Shop 
+---
+ 
