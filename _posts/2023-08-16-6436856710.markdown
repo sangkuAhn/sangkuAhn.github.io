@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "남양 맛있는 우유 GT, 200ml, 24개" 
+description: 남양 맛있는 우유 GT, 2 ..
+date: 2023-08-17 03:26:09+0900 
+img: https://img1c.coupangcdn.com/image/product/image/vendoritem/2018/10/25/3733277976/6aa88a38-c79c-4a84-a146-7779d1df5f27.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6436856710&itemId=17281543656&vendorItemId=4722470072&traceid=V0-113-2a6f944443573a0e 
+categories: [1012] 
+color: 006064 
+price: 15700 
+author: Ask View Shop 
+---
+ 
