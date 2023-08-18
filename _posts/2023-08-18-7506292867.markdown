@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "신라면 더 레드 125g, 4개" 
+description: 신라면 더 레드 125g,  ..
+date: 2023-08-18 23:21:55+0900 
+img: https://image8.coupangcdn.com/image/vendor_inventory/a26c/ef0395b33e618fc76460fff778ce5290ce04eb0de94f766907178b06b154.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7506292867&itemId=19658977070&vendorItemId=86915700608&traceid=V0-113-e2f4308b7e911720 
+categories: [1012] 
+color: FF1744 
+price: 7400 
+author: Ask View Shop 
+---
+ 
