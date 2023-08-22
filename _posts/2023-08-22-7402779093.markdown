@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "디즈니 픽사 엘리멘탈 무비동화, 애플비" 
+description: 디즈니 픽사 엘리멘탈 무비동 ..
+date: 2023-08-23 05:22:03+0900 
+img: https://image1.coupangcdn.com/image/rs_quotation_api/indaxyms/3797cb244abe43d0a22d23b604107e6e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7402779093&itemId=19164186944&vendorItemId=86282639487&traceid=V0-113-ad4539c63f8f36fa 
+categories: [1019] 
+color: BD24A9 
+price: 10800 
+author: Ask View Shop 
+---
+ 
