@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "맑은물에 참좋은 국산 콩물, 1L, 2개" 
+description: 맑은물에 참좋은 국산 콩물, ..
+date: 2023-08-22 15:26:23+0900 
+img: https://image1.coupangcdn.com/image/retail/images/4553133151498970-9d0a17c1-0951-4ef1-b2ab-8e3d3222d863.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=247027180&itemId=782461833&vendorItemId=4980963005&traceid=V0-113-9161bee5d3f33921 
+categories: [1012] 
+color: FF1744 
+price: 9350 
+author: Ask View Shop 
+---
+ 
