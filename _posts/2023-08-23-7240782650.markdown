@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "펜피아 1000 초등스프링 3-6 무제 노트, 랜덤발송, 10개" 
+description: 펜피아 1000 초등스프링  ..
+date: 2023-08-23 10:18:56+0900 
+img: https://img1c.coupangcdn.com/image/vendor_inventory/084f/47396e58d8c39c4b6927840391b0fbe70237ba85dd4655a5d248fbd79aba.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7240782650&itemId=18396957985&vendorItemId=85767828878&traceid=V0-113-8e529efffaf09f0a 
+categories: [1021] 
+color: FF1744 
+price: 17010 
+author: Ask View Shop 
+---
+ 
