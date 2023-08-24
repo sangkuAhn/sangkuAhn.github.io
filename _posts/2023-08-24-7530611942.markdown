@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "칠성사이다, 210ml, 30개" 
+description: 칠성사이다, 210ml, 3 ..
+date: 2023-08-24 11:25:46+0900 
+img: https://img2c.coupangcdn.com/image/retail/images/7970732409153122-9c9c15cf-d0ea-43b9-b66c-6093edfc6dc5.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7530611942&itemId=19771677623&vendorItemId=3590493048&traceid=V0-113-063c452dc4b0a0e7 
+categories: [1012] 
+color: A566FF 
+price: 14100 
+author: Ask View Shop 
+---
+ 
