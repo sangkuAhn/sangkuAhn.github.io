@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "프런트페이지/최소한의 한국사 : 5천 년 역사가 단숨에 이해되는, 프런트페이지, 최태성" 
+description: 프런트페이지/최소한의 한국사 ..
+date: 2023-08-26 21:35:02+0900 
+img: https://image1.coupangcdn.com/image/retail-product-api/A00077021/164732112/180616406/main/9791198243430_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7405791091&itemId=19177609389&vendorItemId=86295569906&traceid=V0-113-216dd00dd55457a3 
+categories: [1019] 
+color: 4A148C 
+price: 16200 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "구의 증명, 은행나무, 최진영" 
+description: 구의 증명, 은행나무, 최진 ..
+date: 2023-08-26 21:35:02+0900 
+img: https://image13.coupangcdn.com/image/vendor_inventory/32bf/ed9a582bf0091eb95f68a184fbcffd4aa6708ddfed8f798fa8e1dcccd9d0.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7312531846&itemId=18736855644&vendorItemId=86148907146&traceid=V0-113-37144250267c680f 
+categories: [1019] 
+color: 43A047 
+price: 12000 
+author: Ask View Shop 
+---
+ 
