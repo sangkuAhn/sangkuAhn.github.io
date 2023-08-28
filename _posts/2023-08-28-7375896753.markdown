@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "카시오 A-158WA-1UWDF" 
+description: 카시오 A-158WA-1UW ..
+date: 2023-08-29 05:21:58+0900 
+img: https://img2a.coupangcdn.com/image/vendor_inventory/e7f4/38b23a40952f02239f3cb7cb5e00f23926f349ed5ebf63dcc39fc6290c6a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7375896753&itemId=19037283703&vendorItemId=3086536940&traceid=V0-113-aafa0e4d0d21edd6 
+categories: [1002] 
+color: 9E9D24 
+price: 18400 
+author: Ask View Shop 
+---
+ 
