@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "삼성전자 갤럭시 버즈2, SM-R177N, 화이트" 
+description: 삼성전자 갤럭시 버즈2, S ..
+date: 2023-08-28 11:27:45+0900 
+img: https://img2a.coupangcdn.com/image/retail/images/554087557417427-5b5432ea-2e81-4418-bfc0-54953fb77029.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7000607828&itemId=19073440029&vendorItemId=78189845402&traceid=V0-113-7bb94dfd1fc5abc4 
+categories: [1016] 
+color: 006064 
+price: 89000 
+author: Ask View Shop 
+---
+ 
