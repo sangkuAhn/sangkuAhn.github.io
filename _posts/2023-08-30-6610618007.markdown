@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "곰곰 국내산 깐마늘, 1kg, 1개" 
+description: 곰곰 국내산 깐마늘, 1kg ..
+date: 2023-08-30 19:24:53+0900 
+img: https://image7.coupangcdn.com/image/retail/images/4551533114258255-9306ccbd-c187-4f66-ab73-3ef9b3e42925.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6610618007&itemId=3845019360&vendorItemId=71829825174&traceid=V0-113-062d45d584070920 
+categories: [1024] 
+color: 1294AB 
+price: 9580 
+author: Ask View Shop 
+---
+ 
