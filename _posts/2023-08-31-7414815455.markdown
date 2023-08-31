@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "코드웨이 CAT.8 인터넷 랜 케이블 1m, 1개, 2M" 
+description: 코드웨이 CAT.8 인터넷  ..
+date: 2023-09-01 03:26:26+0900 
+img: https://image6.coupangcdn.com/image/vendor_inventory/a063/ec329195309318c6203371414a13abd31e165b71595224d2493e15bc956d.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7414815455&itemId=15295050514&vendorItemId=83779144853&traceid=V0-113-efe7ca3a7b335870 
+categories: [1016] 
+color: 7E57C2 
+price: 8730 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "아이리버 오픈형 C타입 유선 이어폰, 화이트, BVC-100C" 
+description: 아이리버 오픈형 C타입 유선 ..
+date: 2023-09-01 03:26:26+0900 
+img: https://image4.coupangcdn.com/image/vendor_inventory/9338/5bdb6a056a10bd557fec12692f46f8adffeb4b8880cf840e95925f95c289.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6108027121&itemId=18820880457&vendorItemId=86580372916&traceid=V0-113-24cb2a821cb01809 
+categories: [1016] 
+color: F15F5F 
+price: 17610 
+author: Ask View Shop 
+---
+ 
