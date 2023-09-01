@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "동아오츠카 나랑드사이다 제로, 500ml, 20개" 
+description: 동아오츠카 나랑드사이다 제로 ..
+date: 2023-09-01 15:27:10+0900 
+img: https://image12.coupangcdn.com/image/retail/images/8060549706644854-d58aa3c4-8460-4659-8703-e70383ad32be.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6309801132&itemId=18216098887&vendorItemId=3000931813&traceid=V0-113-5c9a5b38ede8201f 
+categories: [1024] 
+color: 4CAF50 
+price: 15160 
+author: Ask View Shop 
+---
+ 
