@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "돈은 좋지만 재테크는 겁나는 너에게:혼자서는 막막한 20대에게 뿅글이가 알려주는 돈을 다루고 불리는 비밀, 뿅글이, 황금부엉이" 
+description: 돈은 좋지만 재테크는 겁나는 ..
+date: 2023-09-01 10:25:41+0900 
+img: https://img1c.coupangcdn.com/image/retail-product-api/A00077021/140124200/154306620/main/9788960306134_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7077322781&itemId=17594868436&vendorItemId=84761243525&traceid=V0-113-09b58a9ef83a0039 
+categories: [1019] 
+color: BF360C 
+price: 14850 
+author: Ask View Shop 
+---
+ 
