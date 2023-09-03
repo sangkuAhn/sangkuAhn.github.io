@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "KT알파쇼핑/닥터지 레드 블레미쉬 멀티 플루이드 100ml, 1개" 
+description: KT알파쇼핑/닥터지 레드 블 ..
+date: 2023-09-04 07:21:19+0900 
+img: https://image12.coupangcdn.com/image/vendor_inventory/510a/6b85b7dcf07a3adf8bcb0f5c4c01bf2d195c74337431784a21662001329b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6372535763&itemId=19043929097&vendorItemId=85435891777&traceid=V0-113-9335e7e7ca65ac51 
+categories: [1010] 
+color: 4A148C 
+price: 12900 
+author: Ask View Shop 
+---
+ 
