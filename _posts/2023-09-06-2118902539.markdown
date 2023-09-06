@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "프로스펙스 손목밴드 2P, 블랙" 
+description: 프로스펙스 손목밴드 2P,  ..
+date: 2023-09-06 19:25:47+0900 
+img: https://image3.coupangcdn.com/image/vendor_inventory/3028/6dc9f561c916c2102c591be9a568289c35aa194bb0cbcca3a549bf13a0c5.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2118902539&itemId=3642237067&vendorItemId=3974535507&traceid=V0-113-875e2fa651dc4b7a 
+categories: [1017] 
+color: 03A9F4 
+price: 6500 
+author: Ask View Shop 
+---
+ 

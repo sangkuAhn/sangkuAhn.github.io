@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "히트페이스 이중고리 스프링줄 1m, 블랙, 2개" 
+description: 히트페이스 이중고리 스프링줄 ..
+date: 2023-09-06 19:25:47+0900 
+img: https://img2a.coupangcdn.com/image/vendor_inventory/ef01/6f0e655aa5d9c62960faaa1a7feeb23af3458bd7cf146a75f6134c5a800d.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5728234103&itemId=19595972080&vendorItemId=86703242778&traceid=V0-113-c11f7461d26aa82e 
+categories: [1017] 
+color: A566FF 
+price: 7670 
+author: Ask View Shop 
+---
+ 
