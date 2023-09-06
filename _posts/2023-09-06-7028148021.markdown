@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "ipTIME 유무선 공유기, N602SE" 
+description: ipTIME 유무선 공유기, ..
+date: 2023-09-06 17:26:41+0900 
+img: https://image12.coupangcdn.com/image/vendor_inventory/4ea6/daf4e1ef2df0cd86829e8627506f9676e1f096b76d225af00242ca401c8e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7028148021&itemId=17335110122&vendorItemId=84533812340&traceid=V0-113-19a04a1b32d763e9 
+categories: [1016] 
+color: 4CAF50 
+price: 15900 
+author: Ask View Shop 
+---
+ 
