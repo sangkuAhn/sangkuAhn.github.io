@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "The미식 비빔면 138g, 4개" 
+description: The미식 비빔면 138g, ..
+date: 2023-09-10 01:25:41+0900 
+img: https://image13.coupangcdn.com/image/vendor_inventory/0fa1/52d163b64562123022fcfbb218c09fcf6c6adacc8950bae2043c7fcb2359.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7209822567&itemId=18242809020&vendorItemId=86852847315&traceid=V0-113-1f45ebb857463450 
+categories: [1012] 
+color: 35B62C 
+price: 3070 
+author: Ask View Shop 
+---
+ 
