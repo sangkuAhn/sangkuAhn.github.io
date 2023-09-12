@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "폴앤박 칠레 레몬, 2kg, 1개" 
+description: 폴앤박 칠레 레몬, 2kg, ..
+date: 2023-09-12 17:26:51+0900 
+img: https://image9.coupangcdn.com/image/retail/images/2021/06/25/17/3/5a677d0b-12f0-4e5b-8e24-3dc84af6a88b.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5748816437&itemId=9701183934&vendorItemId=76985183381&traceid=V0-113-e8871f59fa84f517 
+categories: [1024] 
+color: 43A047 
+price: 12170 
+author: Ask View Shop 
+---
+ 
