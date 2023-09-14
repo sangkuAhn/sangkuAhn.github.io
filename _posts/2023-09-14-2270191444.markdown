@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "꼬치의 달인 보드게임, 단품" 
+description: 꼬치의 달인 보드게임, 단품 ..
+date: 2023-09-14 10:20:32+0900 
+img: https://image1.coupangcdn.com/image/vendor_inventory/2394/dfdc243580e515355000de995b63a9b9fa68db0341446664eec444706c1d.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2270191444&itemId=3892942133&vendorItemId=75091950572&traceid=V0-113-107d264150dd495c 
+categories: [1020] 
+color: 1294AB 
+price: 27500 
+author: Ask View Shop 
+---
+ 
