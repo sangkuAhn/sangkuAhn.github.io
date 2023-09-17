@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "일론 머스크, 21세기북스, 월터 아이작슨" 
+description: 일론 머스크, 21세기북스, ..
+date: 2023-09-17 23:20:46+0900 
+img: https://image12.coupangcdn.com/image/rs_quotation_api/nfmqx6rl/3113f404e5504501b9e2508b2f204b7e.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7549380628&itemId=19863851455&vendorItemId=86961512249&traceid=V0-113-b424e3585de9f637 
+categories: [1019] 
+color: 4374D9 
+price: 34200 
+author: Ask View Shop 
+---
+ 
