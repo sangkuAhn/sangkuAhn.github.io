@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "삼성전자 컬러 레이저 복합기, SL-C563W" 
+description: 삼성전자 컬러 레이저 복합기 ..
+date: 2023-09-18 03:25:11+0900 
+img: https://img4c.coupangcdn.com/image/retail/images/1234852670860717-8da9f2f2-df94-4a5e-91e0-7a96704a8125.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6567695645&itemId=14730814300&vendorItemId=70224116811&traceid=V0-113-2b671f5f03e5fdbf 
+categories: [1021] 
+color: BD24A9 
+price: 279000 
+author: Ask View Shop 
+---
+ 
