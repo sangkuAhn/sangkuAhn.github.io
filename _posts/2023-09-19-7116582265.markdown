@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "ELLE PARIS 링클프리 롱 윈드점퍼" 
+description: ELLE PARIS 링클프리 ..
+date: 2023-09-20 05:22:23+0900 
+img: https://image4.coupangcdn.com/image/retail/images/2534560366574703-0e19fdbe-55d8-486e-ba29-2d096cc96772.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7116582265&itemId=17806696244&vendorItemId=84970711079&traceid=V0-113-079614682365f794 
+categories: [1001] 
+color: 4A148C 
+price: 29900 
+author: Ask View Shop 
+---
+ 
