@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "다향 훈제오리, 200g, 3팩" 
+description: 다향 훈제오리, 200g,  ..
+date: 2023-09-20 01:28:32+0900 
+img: https://img4c.coupangcdn.com/image/retail/images/2023/03/23/15/2/0af691b0-bac3-4e0e-ba68-48dc03321633.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7243716923&itemId=18410893653&vendorItemId=85553342481&traceid=V0-113-157726e8668ab2f9 
+categories: [1024] 
+color: 43A047 
+price: 15270 
+author: Ask View Shop 
+---
+ 
