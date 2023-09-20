@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "글래드 매직랩 일반형, 2개" 
+description: 글래드 매직랩 일반형, 2개 ..
+date: 2023-09-21 03:27:59+0900 
+img: https://image15.coupangcdn.com/image/retail/images/2977993613763443-878e8f34-9b26-4090-bb47-9ef54a4ff70a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6714273994&itemId=3497285&vendorItemId=5505781434&traceid=V0-113-3fe9f7c175a7136f 
+categories: [1013] 
+color: A566FF 
+price: 15900 
+author: Ask View Shop 
+---
+ 
