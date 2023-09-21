@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "삼성전자 MicroSDXC PRO Endurance 메모리카드 MB-MJ64GA/APC, 64GB" 
+description: 삼성전자 MicroSDXC  ..
+date: 2023-09-21 10:20:57+0900 
+img: https://img3c.coupangcdn.com/image/vendor_inventory/15b5/9be8149657ad61791353a6267fc40479fd3482dea31a71540f06356a9087.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6795135162&itemId=16020920429&vendorItemId=83225334349&traceid=V0-113-d6144fb212223acd 
+categories: [1016] 
+color: A6A6A6 
+price: 9270 
+author: Ask View Shop 
+---
+ 
