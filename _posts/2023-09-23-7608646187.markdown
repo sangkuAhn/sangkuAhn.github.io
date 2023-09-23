@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "타키 포오 코믹 어드벤처 3, 대원키즈" 
+description: 타키 포오 코믹 어드벤처 3 ..
+date: 2023-09-23 11:25:29+0900 
+img: https://img3c.coupangcdn.com/image/retail/images/2023/09/19/16/0/f1295ae4-097e-4ced-815c-79aab7efe935.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7608646187&itemId=20145580500&vendorItemId=87238816708&traceid=V0-113-3be935bc67b1b419 
+categories: [1019] 
+color: BF360C 
+price: 11700 
+author: Ask View Shop 
+---
+ 
