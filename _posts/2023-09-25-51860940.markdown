@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "홀로그램 3D 뷰어" 
+description: 홀로그램 3D 뷰어 ..
+date: 2023-09-25 10:22:39+0900 
+img: https://image12.coupangcdn.com/image/vendor_inventory/a214/a6729119117e888d1758d85d1d4dfb164778f261c74c566e7a67d71db6c6.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=51860940&itemId=183476969&vendorItemId=4430056444&traceid=V0-113-b00be3d0e8fd10c5 
+categories: [1020] 
+color: 4CAF50 
+price: 2200 
+author: Ask View Shop 
+---
+ 
