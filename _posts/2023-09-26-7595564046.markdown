@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "샤오미 미밴드 8 스마트밴드, 그라파이트 블랙, 48mm" 
+description: 샤오미 미밴드 8 스마트밴드 ..
+date: 2023-09-26 23:24:52+0900 
+img: https://image7.coupangcdn.com/image/retail/images/1585139565393130-a3ca4937-2f67-4c7d-b643-a71753ffab96.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7595564046&itemId=20080586005&vendorItemId=87176179729&traceid=V0-113-ebc7712f8b0a9df8 
+categories: [1017] 
+color: BD24A9 
+price: 49800 
+author: Ask View Shop 
+---
+ 
