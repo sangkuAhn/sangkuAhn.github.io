@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "부침가루 1KG오뚜기, 1kg, 1개" 
+description: 부침가루 1KG오뚜기, 1k ..
+date: 2023-09-28 10:21:40+0900 
+img: https://img4c.coupangcdn.com/image/vendor_inventory/7168/1676ffc135469ab6bcda874aa4e72832fdb80852e6193d5f1582d5d41fee.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6642757645&itemId=14983133268&vendorItemId=82206147156&traceid=V0-113-7d6db12ea414583a 
+categories: [1012] 
+color: 43A047 
+price: 4720 
+author: Ask View Shop 
+---
+ 
