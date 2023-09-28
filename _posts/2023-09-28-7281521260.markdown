@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "글래드 매직랩 미니, 2개" 
+description: 글래드 매직랩 미니, 2개 ..
+date: 2023-09-28 11:27:33+0900 
+img: https://image3.coupangcdn.com/image/retail/images/2023/04/20/12/2/bfe5eddc-714c-414d-a4a8-ac71b3123b2a.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7281521260&itemId=18591663175&vendorItemId=85727927892&traceid=V0-113-c9de7a3a024d02ee 
+categories: [1013] 
+color: 7E57C2 
+price: 19900 
+author: Ask View Shop 
+---
+ 
