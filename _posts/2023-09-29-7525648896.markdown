@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "해태제과 고향만두 (냉동), 1.8kg, 1개" 
+description: 해태제과 고향만두 (냉동), ..
+date: 2023-09-30 05:22:31+0900 
+img: https://img5c.coupangcdn.com/image/rs_quotation_api/suxamij9/3745a462e9934da9a7954fed3d524dd8.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7525648896&itemId=19747570159&vendorItemId=86851138379&traceid=V0-113-32375ca552c14d79 
+categories: [1012] 
+color: FF6F00 
+price: 12700 
+author: Ask View Shop 
+---
+ 
