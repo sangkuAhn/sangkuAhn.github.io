@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "경이로움/더 플로 : 시대의 운명을 내다본 사람이 부를 거머쥔다, 경이로움, 안유화" 
+description: 경이로움/더 플로 : 시대의 ..
+date: 2023-09-30 19:23:27+0900 
+img: https://image5.coupangcdn.com/image/retail-product-api/A00077021/167220057/183171320/main/9791192445403_L.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7427894898&itemId=19284998298&vendorItemId=86399882705&traceid=V0-113-6dc83b0e65e2f4e7 
+categories: [1019] 
+color: 353535 
+price: 18900 
+author: Ask View Shop 
+---
+ 
