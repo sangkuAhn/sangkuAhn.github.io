@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "지피니 참나무 장작, 1개, 10kg" 
+description: 지피니 참나무 장작, 1개, ..
+date: 2023-10-02 11:29:01+0900 
+img: https://image12.coupangcdn.com/image/rs_quotation_api/cvxnh2et/9d054c9e06bd4824b05de3b04d364771.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7198354745&itemId=19625995245&vendorItemId=85338454522&traceid=V0-113-64978a02ce5e3097 
+categories: [1017] 
+color: 03A9F4 
+price: 12900 
+author: Ask View Shop 
+---
+ 
