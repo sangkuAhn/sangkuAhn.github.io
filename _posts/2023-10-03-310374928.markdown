@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "글래드 매직랩 홈콜렉션, 1개" 
+description: 글래드 매직랩 홈콜렉션, 1 ..
+date: 2023-10-03 23:25:18+0900 
+img: https://image13.coupangcdn.com/image/vendor_inventory/3ff3/98e0483d881c6455f9bb66efb893e88c04e61a07ed198935cc7a54ea3c98.jpeg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=310374928&itemId=978595708&vendorItemId=86265754687&traceid=V0-113-65007179b4a05583 
+categories: [1013] 
+color: 7E57C2 
+price: 11010 
+author: Ask View Shop 
+---
+ 
