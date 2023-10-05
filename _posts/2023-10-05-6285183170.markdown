@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "종가 묵은지, 900g, 1개" 
+description: 종가 묵은지, 900g, 1 ..
+date: 2023-10-05 17:27:26+0900 
+img: https://image1.coupangcdn.com/image/retail/images/7216535248367581-707667dc-ddfb-4ced-8d89-c96bac781359.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6285183170&itemId=12924580088&vendorItemId=80189152355&traceid=V0-113-108b416d86ee733a 
+categories: [1012] 
+color: 5A8DF3 
+price: 9990 
+author: Ask View Shop 
+---
+ 

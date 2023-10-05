@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "먼투썬 6주 하루견과, 840g, 1개" 
+description: 먼투썬 6주 하루견과, 84 ..
+date: 2023-10-05 17:27:26+0900 
+img: https://img5c.coupangcdn.com/image/retail/images/3637231406730423-1d7dd8fc-1fbd-44c8-a8c3-3b1cb5d69e10.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6611244489&itemId=14991647825&vendorItemId=4971336138&traceid=V0-113-7a059b22a0d0a01b 
+categories: [1012] 
+color: 35B62C 
+price: 29900 
+author: Ask View Shop 
+---
+ 

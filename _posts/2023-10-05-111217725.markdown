@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "종가 파김치, 500g, 1개" 
+description: 종가 파김치, 500g, 1 ..
+date: 2023-10-05 17:27:26+0900 
+img: https://image6.coupangcdn.com/image/retail/images/361534546216588-78c1b694-3952-4005-94c3-7faa06b9f769.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=111217725&itemId=335005948&vendorItemId=3822020693&traceid=V0-113-da97ec75b4698f77 
+categories: [1012] 
+color: 5A8DF3 
+price: 11900 
+author: Ask View Shop 
+---
+ 

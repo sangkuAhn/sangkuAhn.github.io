@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "위드박스/ 삼양 까르보 불닭볶음면 큰컵 105g, 6개" 
+description: 위드박스/ 삼양 까르보 불닭 ..
+date: 2023-10-05 17:27:26+0900 
+img: https://img5a.coupangcdn.com/image/vendor_inventory/35b9/e1bbc3c9ee5220f76886ba866c7eff00cf43e8bae5c6e1616c3b625903f4.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=57628799&itemId=20133013938&vendorItemId=87226922794&traceid=V0-113-9f7ea21fc947fa3a 
+categories: [1012] 
+color: 4A148C 
+price: 9300 
+author: Ask View Shop 
+---
+ 

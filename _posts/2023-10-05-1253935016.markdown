@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "솔가 엽산 800, 100정, 1개" 
+description: 솔가 엽산 800, 100정 ..
+date: 2023-10-05 17:27:26+0900 
+img: https://img2c.coupangcdn.com/image/retail/images/1651719458798532-d33bd02c-7432-4acb-95b6-210e2c2af30c.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=1253935016&itemId=10390653166&vendorItemId=3001142330&traceid=V0-113-e5f93e6b186c902b 
+categories: [1012] 
+color: 1294AB 
+price: 21020 
+author: Ask View Shop 
+---
+ 

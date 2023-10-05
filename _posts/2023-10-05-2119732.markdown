@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "청정원 까나리 액젓 골드, 1kg, 1개" 
+description: 청정원 까나리 액젓 골드,  ..
+date: 2023-10-05 17:27:26+0900 
+img: https://image9.coupangcdn.com/image/vendor_inventory/f379/8b3dccdf14004a74c9ca07b8909e913466d5250a7b9da9ae3f7ac85b2adf.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=2119732&itemId=18974533418&vendorItemId=86100024998&traceid=V0-113-3163118d64348b67 
+categories: [1012] 
+color: 1294AB 
+price: 19900 
+author: Ask View Shop 
+---
+ 

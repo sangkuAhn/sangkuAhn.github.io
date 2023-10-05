@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "셀렉스 프로핏 웨이프로틴 초콜릿, 330ml, 12개" 
+description: 셀렉스 프로핏 웨이프로틴 초 ..
+date: 2023-10-05 17:27:26+0900 
+img: https://image11.coupangcdn.com/image/retail/images/8072374725408035-59313294-c8d1-4bf6-be3b-a5f0eefd6343.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6804142219&itemId=18111483794&vendorItemId=71731842088&traceid=V0-113-da61594761e27ce6 
+categories: [1012] 
+color: F15F5F 
+price: 20700 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "웅진 맑게우려낸 누룽지차, 500ml, 20개" 
+description: 웅진 맑게우려낸 누룽지차,  ..
+date: 2023-10-05 17:27:26+0900 
+img: https://img1a.coupangcdn.com/image/product/image/vendoritem/2019/02/11/3070319025/a5fd2b44-1d20-4bc3-b167-256892c9bc6f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=10294558&itemId=45068427&vendorItemId=3070319025&traceid=V0-113-0bd68a0636393214 
+categories: [1012] 
+color: BD24A9 
+price: 13500 
+author: Ask View Shop 
+---
+ 

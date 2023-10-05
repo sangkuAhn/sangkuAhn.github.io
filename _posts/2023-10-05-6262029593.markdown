@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "스타벅스 미디엄 로스트 아메리카노 원두커피믹스, 1.1g, 100개입, 1개" 
+description: 스타벅스 미디엄 로스트 아메 ..
+date: 2023-10-05 17:27:26+0900 
+img: https://image10.coupangcdn.com/image/rs_quotation_api/pspawalt/10e18daa12324f8297e988158eb2d579.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6262029593&itemId=12755960276&vendorItemId=80022221284&traceid=V0-113-8fdacc5324147e6d 
+categories: [1012] 
+color: 1294AB 
+price: 28750 
+author: Ask View Shop 
+---
+ 
