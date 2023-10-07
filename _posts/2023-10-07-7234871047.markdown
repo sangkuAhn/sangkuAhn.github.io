@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "삼성전자 갤럭시 A34 자급제, 어썸 실버, 128GB" 
+description: 삼성전자 갤럭시 A34 자급 ..
+date: 2023-10-07 21:36:21+0900 
+img: https://img3c.coupangcdn.com/image/vendor_inventory/61bb/c5a9ab0f09c82803065a2b8d9add975a0a94df4482582382ae0557119c47.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7234871047&itemId=18367825658&vendorItemId=85510269713&traceid=V0-113-e27f11abbb2e7fa0 
+categories: [1016] 
+color: 35B62C 
+price: 464460 
+author: Ask View Shop 
+---
+ 
