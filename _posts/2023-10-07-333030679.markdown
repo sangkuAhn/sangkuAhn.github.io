@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "세기 밤칼 밤가위, 1개" 
+description: 세기 밤칼 밤가위, 1개 ..
+date: 2023-10-07 15:31:40+0900 
+img: https://img5c.coupangcdn.com/image/vendor_inventory/599e/da445a0f1f579893d12ad1b0fdaf85f9dd4b7f8af15e4f4573e6a07d25a7.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=333030679&itemId=1063813344&vendorItemId=72370950474&traceid=V0-113-9d45cfa4a35c5b8a 
+categories: [1013] 
+color: f44336 
+price: 4590 
+author: Ask View Shop 
+---
+ 

@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "일리 브라질 캡슐커피, 6.7g, 18개입, 1개" 
+description: 일리 브라질 캡슐커피, 6. ..
+date: 2023-10-07 15:31:40+0900 
+img: https://image11.coupangcdn.com/image/retail/images/7199071093506421-9e3ccb02-e8e1-4b0d-99f2-948fc5c82dea.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7335574483&itemId=18842350706&vendorItemId=4367001595&traceid=V0-113-ab47415a46a7d6ec 
+categories: [1013] 
+color: A6A6A6 
+price: 11400 
+author: Ask View Shop 
+---
+ 
