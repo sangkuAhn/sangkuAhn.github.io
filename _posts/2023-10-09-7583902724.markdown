@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "우노 보드게임" 
+description: 우노 보드게임 ..
+date: 2023-10-10 01:27:49+0900 
+img: https://image1.coupangcdn.com/image/vendor_inventory/8f04/bd83802934877e6c5bf49f98f265bd9a17a64e5a4ed19dd0fbe57d64860f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7583902724&itemId=20025565172&vendorItemId=87122678807&traceid=V0-113-ebcc5e97ad5851e8 
+categories: [1020] 
+color: 4A148C 
+price: 9800 
+author: Ask View Shop 
+---
+ 
