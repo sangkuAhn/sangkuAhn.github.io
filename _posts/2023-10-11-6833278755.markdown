@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "다이어트 사이언스 2022, 최겸, 린체인저스" 
+description: 다이어트 사이언스 2022, ..
+date: 2023-10-11 19:26:56+0900 
+img: https://image12.coupangcdn.com/image/retail/images/2022/10/10/10/7/2ec208bf-34ec-4e9c-b172-bebe953a8a7f.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=6833278755&itemId=16227755313&vendorItemId=83421265240&traceid=V0-113-b6e690d2d8c13d8d 
+categories: [1019] 
+color: 4374D9 
+price: 19800 
+author: Ask View Shop 
+---
+ 
