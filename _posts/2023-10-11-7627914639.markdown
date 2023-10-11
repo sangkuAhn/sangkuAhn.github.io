@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "꼬치의달인 보드게임 11/2 발송 3차 예약구매" 
+description: 꼬치의달인 보드게임 11/2 ..
+date: 2023-10-11 21:40:46+0900 
+img: https://img4c.coupangcdn.com/image/vendor_inventory/7c0b/5e077f55922bcc33c85951a12e53be182c72edc7892c979ed087d2a008fb.png 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7627914639&itemId=20238049494&vendorItemId=87402424580&traceid=V0-113-794e025e14614573 
+categories: [1020] 
+color: 43A047 
+price: 27500 
+author: Ask View Shop 
+---
+ 
