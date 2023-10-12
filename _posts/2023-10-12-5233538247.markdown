@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "매일바이오 플레인, 450g, 2개" 
+description: 매일바이오 플레인, 450g ..
+date: 2023-10-13 01:28:10+0900 
+img: https://image9.coupangcdn.com/image/retail/images/342326365201745-72c9f90c-c30c-452c-8570-083012dd5880.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5233538247&itemId=335040131&vendorItemId=3822099450&traceid=V0-113-dfd98ac1aea9ace2 
+categories: [1012] 
+color: 006064 
+price: 7280 
+author: Ask View Shop 
+---
+ 
