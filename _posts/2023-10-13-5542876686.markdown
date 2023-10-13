@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "캐럿 여성용 긴팔 기능성 티셔츠" 
+description: 캐럿 여성용 긴팔 기능성 티 ..
+date: 2023-10-14 01:27:26+0900 
+img: https://img3c.coupangcdn.com/image/retail/images/1168449330697851-82af9312-b8d5-4e23-8f5e-a6a7c8e600df.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=5542876686&itemId=8735341462&vendorItemId=76022334288&traceid=V0-113-bb26a468a1cf3dd1 
+categories: [1001] 
+color: 35B62C 
+price: 8320 
+author: Ask View Shop 
+---
+ 
