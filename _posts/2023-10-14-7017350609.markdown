@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "세베로 깃털 배드민턴 셔틀콕, 혼합 색상, 1세트" 
+description: 세베로 깃털 배드민턴 셔틀콕 ..
+date: 2023-10-15 07:21:54+0900 
+img: https://image3.coupangcdn.com/image/retail-product-api/A00049982/55895/121392/main/a3fc741712c8f5b2312157bd67cc13d4d9459e952b7f9e494766957e0d3841d9.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7017350609&itemId=168936663&vendorItemId=3618095507&traceid=V0-113-b68073c0aa91126c 
+categories: [1017] 
+color: FF6F00 
+price: 6130 
+author: Ask View Shop 
+---
+ 
