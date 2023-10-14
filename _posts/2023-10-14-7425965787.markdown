@@ -1,0 +1,13 @@
+---
+layout: post 
+title:  "블루다이아몬드 아몬드 브리즈 오리지널" 
+description: 블루다이아몬드 아몬드 브리즈 ..
+date: 2023-10-14 21:36:29+0900 
+img: https://image8.coupangcdn.com/image/retail/images/4344077100580917-66ac523b-d560-4fc8-a447-36a484ba08ff.jpg 
+linkUrl: https://link.coupang.com/re/AFFSDP?lptag=AF3600438&subid=ahnPublicAsk&pageKey=7425965787&itemId=15643006908&vendorItemId=3006697063&traceid=V0-113-426edd5017948591 
+categories: [1012] 
+color: 353535 
+price: 14850 
+author: Ask View Shop 
+---
+ 
