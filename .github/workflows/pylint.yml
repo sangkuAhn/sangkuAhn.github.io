@@ -1,4 +1,4 @@
-name: BookMana action
+name: sangkuahn.github.io action
 # on: [push]
 on:    
  schedule:
